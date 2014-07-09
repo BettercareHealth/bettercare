@@ -6,6 +6,6 @@ baseurl: "/bettercare"
 
 paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
-pygments: true
+highlighter: pygments
