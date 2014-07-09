@@ -1,7 +1,6 @@
 name: "Bettercare"
 description: "Bettercare coursebooks"
 
-url: "http://localhost:4000"
 baseurl: "/bettercare"
 
 paginate: 10
