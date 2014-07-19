@@ -513,9 +513,9 @@ See Figure 3-A, a form used to record the results of the physical examination. I
 
 ### 3-h Guidelines for a detailed examination
 
-+------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 |      Measurements      |                                                     Normal                                                     |                                                                      Abnormal                                                                      |
-+------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 | Birthweight            | 2500 g to 4000 g. Between 10th and 90th centile for gestational age.                                           | Low birthweight (below 2500 g). Underweight (below 10th centile) or overweight (above 90th centile) for gestational age.                           |
 | Head circumference     | Between 10th and 90th centile for gestational age.                                                             | Small head (below 10th centile) or large head (above 90th centile for gestational age).                                                            |
 | Gestational age        | Physical and neurological features of term infants (37–42 weeks).                                              | Immature features in preterm infant (below 37 weeks). Postterm infants (42 weeks and above) have long nails.                                       |
@@ -617,7 +617,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
 | Moro reflex            | Full extension then flexion of arms and hands. Symmetrical.                                                    | Absent, incomplete or asymmetrical response.                                                                                                       |
 | HIPS                   |                                                                                                                |                                                                                                                                                    |
 | Movement               | Click common. Fully abducted.                                                                                  | Dislocated or dislocatable. Limited abduction.                                                                                                     |
-+------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Note
 :	The Moro reflex was described by Ernst Moro in 1918. He was professor of paediatrics in Heidelberg, Germany.
