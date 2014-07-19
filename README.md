@@ -1,13 +1,10 @@
-Bettercare
-==========
+# Bettercare
 
 This is currently a testing site for Bettercare content-development workflows only. Do not use this information for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books.
 
-Converting a Bettercare chapter to Markdown
-===========================================
+## Converting a Bettercare chapter to Markdown
 
-Before you start
-----------------
+### Before you start
 
 * Have the [Markdown syntax reference](daringfireball.net/projects/markdown/syntax) to hand.
 * For more advanced syntax (including for tables), see the [kramdown syntax](http://kramdown.gettalong.org/syntax.html).
@@ -26,8 +23,7 @@ Before you start
 
 To check how small bits of markdown will convert to HTMl, use the [online pandoc tryout](http://johnmacfarlane.net/pandoc/try).
 
-Process
--------
+### Process
 
 1. Open the InDesign file and copy all the text
 1. Paste the text with formatting into your text editor.
