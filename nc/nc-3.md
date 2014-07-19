@@ -34,7 +34,7 @@ A normal infant has the following characteristics:
 
 Normal infants are at low risk of developing problems in the newborn period and, therefore, require primary care only. About 80% of all infants are normal.
 
->	Normal newborn infants are at low risk of developing problems and, therefore, require only primary care.
+> Normal newborn infants are at low risk of developing problems and, therefore, require only primary care.
 
 ### 3-2 What care should you give a normal infant immediately after delivery?
 
@@ -59,7 +59,7 @@ It is essential for the mother to see and hold her infant as soon as possible af
 
 The mother will usually hold the infant so that she can look at the face. She will talk to her infant and touch the face and hands. This initial contact between a mother and her infant is an important stage in bonding. Bonding is the emotional attachment that develops between mother and child, and is an important step towards good parenting later. Where possible, it is important that the father be present at the delivery so that he can also be part of this important phase of the bonding process.
 
->	Give the infant to the mother as soon as possible after the delivery.
+> Give the infant to the mother as soon as possible after the delivery.
 
 ### 3-5 When should the normal infant be put to the breast?
 
@@ -110,7 +110,7 @@ Accurate notes should be made after the infant has been delivered. It is importa
 
 Yes. If the mother and infant are well, they should not be separated. The infant can stay with the mother in the labour ward and should be transferred with her to the postnatal ward. Kangaroo mother care (skin-to-skin care) should be encouraged. If the infant is cared for by the mother, the staff will be relieved of this additional duty. Most mothers want their infants to stay with them.
 
->	If at all possible, the mother and her infant should not be separated.
+> If at all possible, the mother and her infant should not be separated.
 
 ### 3-12 Should all normal infants room-in?
 
@@ -163,7 +163,7 @@ It is an important part of primary care to carefully examine all normal infants 
 
 Yes. Most breastfed infants will lose weight for the first few days after birth due to the small volume of breast milk being produced. Colostrum, however, will meet the infant’s nutritional needs. Once the breast milk ‘comes in’, between days 3 and 5, the infant will start to gain weight. Most breastfed infants regain their birth weight by day 7. This weight loss is normal and does not cause the infant any harm. The normal infant does not lose more than 10% of the birth weight. Formula-fed infants may not show this initial weight loss.
 
->	It is normal for an infant to lose some weight during the first few days.
+> It is normal for an infant to lose some weight during the first few days.
 
 Note
 :	To prevent dehydration during the first few days of life, when the mother’s breast milk production is still limited, all infants have physiological oliguria.
@@ -188,7 +188,7 @@ The birth of every infant must be notified by the hospital, clinic or midwife. T
 
 Yes. All newborn infants must be given a ‘road to health’ card as this is one of the most important advances in improving the health care of children. The relevant information must be entered at birth. Mothers should be instructed as to the importance of the card. Explain the idea of the ‘road to health’ to her. She must present the card every time the infant is seen by a health-care worker. It is essential that all immunisations are entered on the card. A record of the infant’s weight gain is also very important as poor weight gain or weight loss indicates that a child is not thriving.
 
->	All infants must be given a road-to-health card.
+> All infants must be given a road-to-health card.
 
 ### 3-25 Should newborn infants be immunised?
 
