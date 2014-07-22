@@ -70,7 +70,7 @@ A high-risk infant often falls into more than one of the above categories.
 3. If this is not possible then the infant must be carefully **monitored** so that the problem can be identified as soon as it develops. This allows for early treatment.
 4. Once the problem occurs, it must be **treated** as early as possible.
 
-You should aim at **anticipating* and **preventing** problems in high-risk infants, so as to avoid having to treat them. High-risk infants usually do not need immediate treatment.
+You should aim at **anticipating and preventing** problems in high-risk infants, so as to avoid having to treat them. High-risk infants usually do not need immediate treatment.
 
 > It is important to anticipate problems in high-risk infants so that steps can be taken to prevent these problems occurring.
 
