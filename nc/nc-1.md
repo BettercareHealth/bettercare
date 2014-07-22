@@ -35,7 +35,7 @@ Note
 
 ### 1-2 What is hypoxia?
 
-Hypoxia is defined as too little oxygen in the cells of the body. Hypoxia may occur in the fetus or the newborn infant. If the placenta fails to provide the fetus with enough oxygen, hypoxia will result and cause fetal distress. Similarly, with failure to breathe well after delivery the infant will develop hypoxia if not correctly managed. As a result of hypoxia, before or after delivery, the heart rate falls, central cyanosis develops and the infant becomes hypotonic (floppy) and unresponsive. Most fetal hypoxia occurs during labour (i.e. intrapartum hypoxia).
+Hypoxia is defined as *too little oxygen in the cells of the body.* Hypoxia may occur in the fetus or the newborn infant. If the placenta fails to provide the fetus with enough oxygen, hypoxia will result and cause fetal distress. Similarly, with failure to breathe well after delivery the infant will develop hypoxia if not correctly managed. As a result of hypoxia, before or after delivery, the heart rate falls, central cyanosis develops and the infant becomes hypotonic (floppy) and unresponsive. Most fetal hypoxia occurs during labour (i.e. intrapartum hypoxia).
 
 > Hypoxia is defined as too little oxygen in the cells of the body.
 
@@ -147,7 +147,7 @@ Immediately after birth all infants must be thoroughly dried in a warm towel and
 
 > Dry to stimulate breathing in all infants immediately after delivery.
 
-Infants who are active and breathe well can stay with their mother. It is best to delay clamping their umbilical cord for 2 to 3 minutes if the infant does not need resuscitation. Then the infant should be placed in the kangaroo mother care position to keep warm. Infants who breathe well should not be routinely suctioned as this is not necessary and suctioning sometimes causes apnoea. Infants born by caesarean section also need not be routinely suctioned. However, the infant’s mouth can be wiped with a clean towel if there are excessive secretions.
+Infants who are active and breathe well can stay with their mother. It is best to delay clamping their umbilical cord for 2 to 3 minutes if the infant does not need resuscitation. Then the infant should be placed in the kangaroo mother care position to keep warm. Infants who breathe well should *not* be routinely suctioned as this is not necessary and suctioning sometimes causes apnoea. Infants born by caesarean section also need not be routinely suctioned. However, the infant’s mouth can be wiped with a clean towel if there are excessive secretions.
 
 > It is not necessary to routinely suction the mouth and nose of infants after delivery.
 
@@ -157,10 +157,10 @@ If the infant fails to respond to the stimulation of drying, then the infant mus
 
 There are 4 main steps in the basic resuscitation of a newborn infant. They can be easily remembered by thinking of the first 4 letters of the alphabet, i.e. ‘ABCD’: Airway – Breathing – Circulation – Drugs. Therefore the steps in neonatal resuscitation are:
 
-1. Airway: Open the airway.
-2. Breathing: Start the infant breathing by providing adequate ventilation.
-3. Circulation: Obtain a good heart rate and circulation with chest compressions.
-4. Drugs: Give adrenaline to stimulate the heart and naloxone to reverse pethidine and morphine.
+1. **Airway**: Open the airway.
+2. **Breathing**: Start the infant breathing by providing adequate ventilation.
+3. **Circulation**: Obtain a good heart rate and circulation with chest compressions.
+4. **Drugs**: Give adrenaline to stimulate the heart and naloxone to reverse pethidine and morphine.
 
 ### 1-12 How should you open the airway?
 
@@ -183,7 +183,7 @@ Most infants who breathe well will be centrally pink with a good heart rate. Fre
 
 ### 1-13 How can you start the infant breathing by providing adequate ventilation?
 
-1. **Mask ventilation**: If the infant fails to breathe adequately despite opening the airway, some form of artificial ventilation (breathing) is required. Almost all infants (90%) who do not breathe on their own can be adequately ventilated with a bag and mask. The mask must be held firmly over the infant’s nose and mouth but not over the eyes. Make sure the head is in the correct position and the airway is open.  It is very important to position and hold the mask correctly. Do not simply press the mask onto the face. 
+1. **Mask ventilation**: If the infant fails to breathe adequately despite opening the airway, some form of artificial ventilation (breathing) is required. Almost all infants (90%) who do not breathe on their own can be adequately ventilated with a bag and mask. The mask must be held firmly over the infant’s nose and mouth but not over the eyes. Make sure the head is in the correct position and the airway is open. **It is very important to position and hold the mask correctly. Do not simply press the mask onto the face.**
 2. Even if breathing is not started, most infants can be kept alive with face mask ventilation until help arrives. Intubation and ventilation are only needed if adequate chest movement cannot be achieved with correct mask ventilation. Good bag and mask ventilation is the most important step in resuscitation of an infant. Ventilate the infant at about 40 breaths per minute. If mask ventilation is needed for more than a few minutes, it is useful to pass a F8 orogastric tube to prevent abdominal distension.
 3. **Intubation and ventilation**: An alternate method of ventilation is via an endotracheal tube. Although it is usually not needed, all staff who frequently deliver infants should learn this simple technique. Infants who fail to respond to mask ventilation must be intubated. Ventilate the infant at a rate of about 40 breaths a minute. Make sure that the infant’s chest moves well with each breath and that good air entry is heard over sides of the chest. Abdominal distension or air entry heard over the abdomen suggests that the oesophagus has been intubated in error. Mouth-to-mouth ventilation and direct mouth suction should be avoided unless it is an emergency, as the infant’s mother may be HIV positive.
 
@@ -326,11 +326,11 @@ If the cells of the fetus or newborn infant do not receive enough oxygen, many o
 
 ### 1-26 What organs are commonly damaged by hypoxia?
 
-1. The brain needs a lot of oxygen and, therefore, is very sensitive to hypoxia either before or after delivery.
-2. The kidneys may be damaged, resulting in haematuria, proteinuria and decreased urine output for the first few days after delivery. Occasionally renal failure may result.
-3. The heart may be damaged causing heart failure. This presents with hepatomegaly, respiratory distress and poor peripheral perfusion.
-4. The gut may be damaged causing necrotising enterocolitis.
-5. The lungs may be damaged resulting in respiratory distress with pulmonary artery spasm (persistent pulmonary hypertension).
+1. The **brain** needs a lot of oxygen and, therefore, is very sensitive to hypoxia either before or after delivery.
+2. The **kidneys** may be damaged, resulting in haematuria, proteinuria and decreased urine output for the first few days after delivery. Occasionally renal failure may result.
+3. The **heart** may be damaged causing heart failure. This presents with hepatomegaly, respiratory distress and poor peripheral perfusion.
+4. The **gut** may be damaged causing necrotising enterocolitis.
+5. The **lungs** may be damaged resulting in respiratory distress with pulmonary artery spasm (persistent pulmonary hypertension).
 
 Note
 :	At the onset of hypoxia, blood is shunted away from the kidneys, gut and lungs to protect the brain and heart. This may cause ischaemic damage to these organs. The increased blood flow to the brain may cause intraventricular haemorrhage in preterm infants. With severe, prolonged hypoxia, cardiac output eventually falls and as a result the brain and myocardium may also suffer ischaemic damage.
@@ -341,9 +341,9 @@ Note
 
 Different types of brain damage can occur depending on the gestational age of the fetus and the severity of the hypoxia:
 
-1. In term infants and infants near to term, hypoxia and ischaemia of the brain during labour presents in the first 72 hours as neonatal encephalopathy (hypoxic ischaemic encephalopathy). This is common especially where monitoring and care of the fetus during labour is poor.
-2. In preterm infants, hypoxia before delivery may damage small blood vessels around the ventricles of the brain causing an intraventricular haemorrhage. . The bleeding can damage the surrounding brain. An intraventricular haemorrhage usually presents within the first 2 days after delivery. A mild haemorrhage is usually asymptomatic but a severe haemorrhage causes apnoea, shock and death. The clinical diagnosis of intraventricular haemorrhage can be confirmed with ultrasonography of the brain.
-3. Hypoxia may cause decreased blood flow which results in infarction (death) of part of the brain. In preterm infants this usually causes spastic diplegia (spastic weakness of both legs). In term infants hypoxia usually causes convulsions, mental retardation and cerebral palsy.
+1. In term infants and infants near to term, hypoxia and ischaemia of the brain during labour presents in the first 72 hours as **neonatal encephalopathy** (hypoxic ischaemic encephalopathy). This is common especially where monitoring and care of the fetus during labour is poor.
+2. In preterm infants, hypoxia before delivery may damage small blood vessels around the ventricles of the brain causing an intraventricular haemorrhage. The bleeding can damage the surrounding brain. An intraventricular haemorrhage usually presents within the first 2 days after delivery. A mild haemorrhage is usually asymptomatic but a severe haemorrhage causes apnoea, shock and death. The clinical diagnosis of intraventricular haemorrhage can be confirmed with ultrasonography of the brain.
+3. Hypoxia may cause decreased blood flow which results in **infarction** (death) of part of the brain. In preterm infants this usually causes spastic diplegia (spastic weakness of both legs). In term infants hypoxia usually causes convulsions, mental retardation and cerebral palsy.
 4. Hypoxia may also cause blindness, deafness or learning and behaviour problems at school.
 
 ### 1-28 What are the clinical signs of neonatal encephalopathy?
@@ -424,7 +424,7 @@ Hypoxia resulting in fetal distress, as indicated by the passage of meconium bef
 
 2. What mistake was made with the management of this infant?
 
-The infant’s mouth and pharynx should have been well suctioned before the shoulders were delivered. This will usually prevent severe meco­nium aspiration as the airway is cleared of meconium before the infant starts to breathe.
+The infant’s mouth and pharynx should have been well suctioned *before* the shoulders were delivered. This will usually prevent severe meco­nium aspiration as the airway is cleared of meconium before the infant starts to breathe.
 
 3. What size catheter would you have used to suction this infant’s mouth and pharynx?
 

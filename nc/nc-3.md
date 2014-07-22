@@ -57,7 +57,7 @@ Note
 
 It is essential for the mother to see and hold her infant as soon as possible after delivery. If the infant appears to be normal and healthy, the infant can be given to the mother after the 1 minute Apgar score has been assessed, the umbilical cord clamped and the initial examination made. After delivery, both the infant and mother are in an alert state. The infant’s eyes are usually wide open and looking around.
 
-The mother will usually hold the infant so that she can look at the face. She will talk to her infant and touch the face and hands. This initial contact between a mother and her infant is an important stage in bonding. Bonding is the emotional attachment that develops between mother and child, and is an important step towards good parenting later. Where possible, it is important that the father be present at the delivery so that he can also be part of this important phase of the bonding process.
+The mother will usually hold the infant so that she can look at the face. She will talk to her infant and touch the face and hands. This initial contact between a mother and her infant is an important stage in *bonding*. Bonding is the emotional attachment that develops between mother and child, and is an important step towards good parenting later. Where possible, it is important that the father be present at the delivery so that he can also be part of this important phase of the bonding process.
 
 > Give the infant to the mother as soon as possible after the delivery.
 
@@ -77,7 +77,7 @@ Once the parents have had a chance to meet and inspect their new infant, formal 
 
 ### 3-7 Should all infants be given vitamin K?
 
-Yes. It is essential that all infants be given 1 mg of vitamin K1 (Konakion) by intramuscular injection into the anterolateral aspect (side) of the mid-thigh after delivery. Never give the vitamin K into the buttock as it may damage nerves or blood vessels that are very superficial in infants. Vitamin K will prevent haemorrhagic disease of the newborn. Be very careful not to give the infant the mother’s oxytocin (Syntocinon) in error. To avoid this mistake, some hospitals give vitamin K in the nursery or postnatal ward and not in the labour ward. Do not use oral vitamin K as it has to be repeated to be effective.
+Yes. It is essential that all infants be given 1 mg of vitamin K1 (Konakion) by intramuscular injection into the anterolateral aspect (side) of the mid-thigh after delivery. *Never* give the vitamin K into the buttock as it may damage nerves or blood vessels that are very superficial in infants. Vitamin K will prevent haemorrhagic disease of the newborn. Be very careful *not* to give the infant the mother’s oxytocin (Syntocinon) in error. To avoid this mistake, some hospitals give vitamin K in the nursery or postnatal ward and not in the labour ward. Do not use oral vitamin K as it has to be repeated to be effective.
 
 Note
 :	An injection of oxytocin or ergometrine into the infant by mistake results in severe apnoea after a few hours. As a result, the infant may require ventilation.
@@ -223,7 +223,7 @@ No. The foreskin is usually attached to the underlying skin and, therefore, shou
 
 ### 3-31 Are cysts on the gum or palate normal?
 
-Small cysts on the infant’s gum or palate are common and almost always normal. They do not need treatment and disappear with time. They must not be opened with a pin or needle as this may introduce infection.
+Small cysts on the infant’s gum or palate are common and almost always normal. They do not need treatment and disappear with time. They must *not* be opened with a pin or needle as this may introduce infection.
 
 ### 3-32 Can infants be born with teeth?
 
@@ -231,7 +231,7 @@ Yes, some infants are born with teeth. These are either primary teeth or extra t
 
 ### 3-33 Should ‘tongue tie’ be treated?
 
-Many infants have a web of mucous membrane under the tongue that continues to the tip. As a result the infant is not able to stick the tongue out and, therefore, is said to have ‘tongue tie’. This does not interfere with sucking and usually corrects itself with time. Do not cut the membrane as this may cause severe bleeding. Refer the child to a surgeon if the tongue does not appear normal by 2 years. It is very rare for tongue tie to interfere with speech development.
+Many infants have a web of mucous membrane under the tongue that continues to the tip. As a result the infant is not able to stick the tongue out and, therefore, is said to have ‘tongue tie’. This does not interfere with sucking and usually corrects itself with time. Do *not* cut the membrane as this may cause severe bleeding. Refer the child to a surgeon if the tongue does not appear normal by 2 years. It is very rare for tongue tie to interfere with speech development.
 
 ### 3-34 Does an umbilical hernia need treatment?
 
@@ -425,14 +425,14 @@ Before examining a newborn infant, it is important to first take a careful perin
 
 ### 3-b The sections of a perinatal history
 
-1. The maternal background:
+1. **The maternal background:**
 	* The mother’s age, gravidity and parity.
 	* The number of infants that are alive and the number that are dead. The cause of death and age at death.
 	* The birth weight of the previous infants.
 	* Any problems with previous infants, e.g. neonatal jaundice, preterm delivery, congenital abnormalities.
 	* The home and socioeconomic status.
 	* Family history of congenital abnormalities.
-2. The present pregnancy:
+2. **The present pregnancy:**
 	* Gestational age based on menstrual dates, early obstetric examination and ultrasound examination.
 	* Problems during the pregnancy, e.g. vaginal bleeding.
 	* Illnesses during the pregnancy, e.g. rubella.
@@ -442,21 +442,21 @@ Before examining a newborn infant, it is important to first take a careful perin
 	* Antiretroviral prophylaxis or treatment.
 	* Blood groups.
 	* Assessment of fetal growth and condition.
-3. Labour and delivery:
+3. **Labour and delivery:**
 	* Spontaneous or induced onset of labour.
 	* Duration of labour.
 	* Method of delivery.
 	* Signs of fetal distress.
 	* Problems during labour and delivery.
 	* Medicines given to the mother, e.g. pethidine, antiretroviral therapy.
-4. Infant at delivery:
+4. **Infant at delivery:**
 	* Apgar score and any resuscitation needed.
 	* Any abnormalities detected.
 	* Birth weight and head circumference.
 	* Estimated gestational age.
 	* Vitamin K given.
 	* Placental weight.
-5. Infant since delivery:
+5. **Infant since delivery:**
 	* Time since delivery.
 	* Feeds given.
 	* Urine and meconium passed.
@@ -483,18 +483,18 @@ A basic general examination should be done on all infants. A more detailed gener
 
 The physical examination should always be performed in a fixed order so that nothing is forgotten. Usually the following steps are followed:
 
-1. Measurements:
-	* The infant’s weight and head circumference are measured and recorded.
-	* An assessment of the infant’s gestational age should be made. If necessary, the weight and head circumference measurements can now be plotted against the gestational age on weight and head circumference for gestational age charts.
-	* Often the infant’s skin or axillary temperature is measured at this stage of the examination.
-2. General inspection:
+1. **Measurements:**
+	* The infant’s *weight* and *head circumference* are measured and recorded.
+	* An assessment of the infant’s *gestational age* should be made. If necessary, the weight and head circumference measurements can now be plotted against the gestational age on weight and head circumference for gestational age charts.
+	* Often the infant’s skin or axillary *temperature* is measured at this stage of the examination.
+2. **General inspection:**
 	A general inspection is made of the infant, paying special attention to the infant’s appearance, nutritional state and skin colour.
-3. Regional examination:
+3. **Regional examination:**
 	The infant is examined in regions starting at the head and ending with the feet. The examination of the hips is usually left until last as this often makes the infant cry.
-4. Neurological status.
-5. Examination of the hips.
-6. Examination of the placenta (if available).
-7. An assessment:
+4. **Neurological status.**
+5. **Examination of the hips.**
+6. **Examination of the placenta (if available).**
+7. **An assessment:**
 	An assessment is made using all the information from the history and the physical examination.
 
 The physical examination of the newborn infant is not easy and requires a lot of practice. The correct method of examination should be taught at the bedside by an experienced doctor or nurse. It is not possible to learn how to examine an infant simply by reading an explanation of the method of examination.
@@ -630,9 +630,9 @@ The hips must be examined in all newborn infants to exclude congenital dislocati
 
 The infant is examined lying supine (back on the bed) with the hips flexed to a right angle and knees flexed.
 
-Barlows test demonstrates both a dislocated and a dislocatable (unstable) hip: One hand immobilises the pelvis (thumb over pubic ramus, fingers over sacrum) while the other hand moves the opposite thigh into mid-abduction. If the hip is dislocatable, backward pressure on the inner side of the thigh with the thumb causes the femoral head to slip backwards out of the acetabulum. Conversely forward pressure on the outer side of the thigh with the fingers would tend to cause the head to spring forwards, back into the acetabulum. The same procedure is then carried out for the opposite side.
+**Barlows test** demonstrates both a dislocated and a dislocatable (unstable) hip: One hand immobilises the pelvis (thumb over pubic ramus, fingers over sacrum) while the other hand moves the opposite thigh into mid-abduction. If the hip is dislocatable, backward pressure on the inner side of the thigh with the thumb causes the femoral head to slip backwards out of the acetabulum. Conversely forward pressure on the outer side of the thigh with the fingers would tend to cause the head to spring forwards, back into the acetabulum. The same procedure is then carried out for the opposite side.
 
-Ortolani test for a dislocated hip: Both thighs are held so that the examiner’s fingers are over the outer side of each thigh (greater trochanter) and his thumbs rest on the inner side of each thigh (lesser trochanter). Both thighs are then abducted. If a hip is dislocated, a ‘clunk’ can be felt and heard as the femoral head slips forward into its normal position in the acetabulum.
+**Ortolani test** for a dislocated hip: Both thighs are held so that the examiner’s fingers are over the outer side of each thigh (greater trochanter) and his thumbs rest on the inner side of each thigh (lesser trochanter). Both thighs are then abducted. If a hip is dislocated, a ‘clunk’ can be felt and heard as the femoral head slips forward into its normal position in the acetabulum.
 
 ### 3-j Examination of the placenta
 
@@ -642,11 +642,11 @@ There are three layers to the placental membranes. The amnion on the inside (pre
 
 The umbilical cord normally has one large vein and two thick walled arteries. The more the pull (e.g. when a cord is relatively short due to it being wrapped around the fetal neck) the longer the cord will grow. A short cord suggests very poor fetal movement. The cord becomes stained green once the amniontic fluid has been contaminated with meconium for a few hours. A single umbilical artery is associated with congenital malformations. The umbilical vein has one-way valves (‘false’ knots). A true knot may kill the fetus.
 
-The shape of the placenta is not important. Most are oval. Usually the umbilical cord is inserted into the centre of the placenta with arteries and veins radiating out in all directions over the chorionic plate. A peripheral insertion is of no clinical importance. However, insertion into the membranes in a low-lying placenta can result is severe haemorrhage from a fetal vessel when the membranes rupture (vasa praevia). Arteries always cross over veins. Fetal vessels torn off at the placental edge indicate that an extra piece of placenta has been retained (accessory lobe). Pale patches on the fetal surface are due to fibrin deposits and are not clinically important.
+The shape of the placenta is not important. Most are oval. Usually the umbilical cord is inserted into the centre of the placenta with arteries and veins radiating out in all directions over the chorionic plate. A peripheral insertion is of no clinical importance. However, insertion into the membranes in a low-lying placenta can result is severe haemorrhage from a fetal vessel when the membranes rupture (*vasa praevia*). Arteries always cross over veins. Fetal vessels torn off at the placental edge indicate that an extra piece of placenta has been retained (accessory lobe). Pale patches on the fetal surface are due to fibrin deposits and are not clinically important.
 
 The maternal surface of the placenta is dark maroon in preterm infants but becomes grey towards term. A pale placenta suggests anaemia. Calcification is not important and reflects a good maternal calcium intake. The maternal surface is divided into lobes (cotyledons). Make sure that the placenta is complete as a retained lobe can result in postpartum haemorrhage or infection. Firmly attached blood clot, especially if it lies over an area of compressed placenta, suggest placental abruption. Fresh infarcts are best identified on palpation as they form a hard lump. Old infarcts are yellow or grey and easily seen, especially if the placenta is sliced. It is of no help to simple describe a placenta as ‘unhealthy’.
 
-It is particularly important to examine the placentas of twins. Unlike-sexed (boy and girl) twins are always non-identical (dizygous). Liked-sex twins are definitely identical (monozygous) if they share a single placenta (monochorionic twins). Monochorionic placentas always have fetal blood vessels on the chorioninic place which run from one umbilical cord to the other. Monochorionic placentas have one chorion and usually two amniotic sacs. Two placentas fused together (dichorionic placentas) may be mistaken for a single placenta. However, there are never fetal blood vessels linking the two umbilical cords. Dichorionic placentas can be seen in both identical and non-identical twins. The separating membranes of dichorionic twins always include both amnion and chorion.
+It is particularly important to examine the placentas of twins. Unlike-sexed (boy and girl) twins are always non-identical (dizygous). Liked-sex twins are definitely identical (monozygous) if they share a single placenta (monochorionic twins). *Monochorionic* placentas always have fetal blood vessels on the chorioninic place which run from one umbilical cord to the other. Monochorionic placentas have one chorion and usually two amniotic sacs. Two placentas fused together (*dichorionic* placentas) may be mistaken for a single placenta. However, there are never fetal blood vessels linking the two umbilical cords. Dichorionic placentas can be seen in both identical and non-identical twins. The separating membranes of dichorionic twins always include both amnion and chorion.
 
 Pathological examination with histology should be requested if an abnormality of the placenta is identified. Placental ischaemia, chronic intrauterine infection and chorioamnionitis are easily identified on histology.
 

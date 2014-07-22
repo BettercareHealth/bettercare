@@ -36,8 +36,8 @@ The carbohydrates, proteins and fats provide the infant with 440 kilojoules per�
 
 ### 4-2 What milk can be given to a normal infant?
 
-1. Breast milk. Human breast milk meets all the nutritional needs of a healthy term infant.
-2. Formula feeds. These feeds are made from cow’s milk or soya bean and are modified to have similar constituents to breast milk.
+1. **Breast milk.** Human breast milk meets all the nutritional needs of a healthy term infant.
+2. **Formula feeds.** These feeds are made from cow’s milk or soya bean and are modified to have similar constituents to breast milk.
 
 > Whenever possible mothers should breastfeed their infants.
 
@@ -47,7 +47,7 @@ The carbohydrates, proteins and fats provide the infant with 440 kilojoules per�
 
 Breastfeeding provides many benefits to both the infant and mother. The main benefits are:
 
-1. Benefits to the infant:
+1. **Benefits to the infant:**
 	* Breast milk is the perfect feed for term infants as it provides all the nutrients in the correct amount and proportion for normal growth and development until the age of 6 months. Thereafter breast milk should still provide a lot of the protein in the infant’s diet until 2 years of age.
 	* Breast milk is easily digested and absorbed.
 
@@ -59,7 +59,7 @@ Breastfeeding provides many benefits to both the infant and mother. The main ben
 	* Breast milk contains many anti-infective factors, such as antibodies, living cells (lymphocytes and macrophages) and complement. Breast milk also encourages the growth of beneficial bacteria in the infant’s bowel. These properties of breast milk help to prevent gastroenteritis, the major cause of infant deaths in many poor communities.
 	* Breast milk decreases the risk of allergy in the infant, especially if there is a strong family history of allergy.
 	* Breastfeeding decreases the incidence of gastroenteritis and therefore lowers the infant mortality rate in poor communities.
-2. Benefits to the mother:
+2. **Benefits to the mother:**
 	* Breastfeeding is much cheaper than buying formula feeds.
 	* Breast milk is instantly available at all times. No sterilising of bottles and teats, and preparation of formula is needed.
 	* It is emotionally satisfying for the mother to successfully breastfeed her infant and this helps to form a strong bond between mother and infant.
@@ -195,9 +195,9 @@ Milk leaking from the breasts is common in the first few weeks of feeding. Leaki
 
 No, but the appearance of breast milk varies. There are 3 different types of breast milk:
 
-1. **Colostrum**. This is a milky fluid produced in small quantities for the first few days after birth. However, it contains a lot of protein and provides all the infant’s nutritional needs. After 3 to 5 days the milk supply suddenly increases (‘comes in’) and the breasts feel full. This is due to the production of mature milk, which consists of foremilk and hind milk.
-2. **Foremilk**. This is produced at the start of each feed. It appears very ‘weak’ and ‘thin’ as it consists mainly of water with little fat. On a hot day a thirsty infant will take frequent, small feeds of foremilk.
-3. **Hindmilk**. This is only produced towards the end of a feed. It looks thick and rich, and contains a lot of fat. A hungry infant will empty the breast to obtain the hind milk.
+1. **Colostrum.** This is a milky fluid produced in small quantities for the first few days after birth. However, it contains a lot of protein and provides all the infant’s nutritional needs. After 3 to 5 days the milk supply suddenly increases (‘comes in’) and the breasts feel full. This is due to the production of mature milk, which consists of foremilk and hind milk.
+2. **Foremilk.** This is produced at the start of each feed. It appears very ‘weak’ and ‘thin’ as it consists mainly of water with little fat. On a hot day a thirsty infant will take frequent, small feeds of foremilk.
+3. **Hindmilk.** This is only produced towards the end of a feed. It looks thick and rich, and contains a lot of fat. A hungry infant will empty the breast to obtain the hind milk.
 
 It is best to empty one breast first before putting the infant to the opposite breast. This ensures that the infant gets the rich hind milk. However, on some days the infant may wish to feed on both breasts while on other days may want to feed on one breast only. Start each feed on alternate breasts.
 
@@ -261,11 +261,11 @@ Sometimes the mother may have too much milk and the milk may flow too fast causi
 
 A normal, full breast feels tense and heavy, but is not painful and is relieved by feeding. Breasts that are swollen, tender, hard, lumpy and painful are caused by either engorgement or mastitis. Both engorgement and mastitis result from an obstruction in milk flow.
 
-1. Engorged breasts:
+1. **Engorged breasts:**
 	* Usually both breasts are swollen, hard and painful but the mother does not feel ill. The milk does not flow freely. Engorged breasts usually occur between days 3 and 5 when the mother’s milk suddenly ‘comes in’. Engorged breast are common if the infant does not feed correctly, if the mother does not room-in and if the mother does not demand feed.
 	* Treatment consists of encouraging the infant to suckle frequently. The infant should be fed on the most painful breast first. Placing ice onto the breasts between feeds will help to reduce the swelling and a warm shower relieves the discomfort, while a mild analgesic like paracetamol (Panado) is helpful. Often the infant is not able to latch correctly if the breast is engorged as the nipples become flattened by the swelling. If some milk is first expressed from the breast to soften the areola, the infant will usually latch well. Breast engorgement is prevented by frequent feeds.
 	* Sometimes only a segment of one breast is painful due to a blocked milk duct. Changing the infant’s position during the feed and gently massaging the breast towards the nipple usually clears the obstruction.
-2. Mastitis (milk fever):
+2. **Mastitis (milk fever):**
 	* Mastitis is an inflammation of the breast due to blocked milk ducts and seepage of milk into the surrounding tissues. It causes a swollen, painful, red area of one breast. The mother feels ill and may have a temperature.
 	* Treat with rest, warm compresses and a mild analgesic. It is most important that the infant continues to suckle frequently on the affected breast as this will help the milk to flow. Altering the feeding position often helps to drain the affected area. The breast milk is not dangerous for the infant. If the signs and symptoms do not improve within 24 hours an antibiotic (flucloxacillin) is prescribed for 10 days. If a fluctuant mass develops then a breast abscess has formed. This should be surgically drained. Because of the pain of a breast abscess, feeding may have to be stopped on that breast for a few days. Usually feeding can start again once the oozing from the abscess has stopped. Breastfeeding from the other breast must continue.
 
@@ -392,11 +392,11 @@ The decision to exclusively breastfeed or exclusively formula feed should be mad
 
 The World Health Organisation recommends that HIV-positive women exclusively formula feed their infants only if all of the following criteria can be met:
 
-1. It should be acceptable to her family and friends. There are social and cultural barriers to formula feeding in many poor communities. In some communities women may be afraid to formula feed and not breastfeed.
-2. It should be feasible to formula feed. The mother must have the knowledge and skills to make up formula correctly.
-3. It must be affordable to formula feed. Formula is expensive. Free formula may be provided in some areas.
-4. It should be sustainable. Formula must be available. Mothers often live far from shops in rural areas.
-5. It should be safe. Clean water must be available. The mother should be able to prepare feeds hygienically and be able to clean the bottles, teats and cups. Access to primary health care is particularly important if infants are formula fed.
+1. It should be **acceptable** to her family and friends. There are social and cultural barriers to formula feeding in many poor communities. In some communities women may be afraid to formula feed and not breastfeed.
+2. It should be **feasible** to formula feed. The mother must have the knowledge and skills to make up formula correctly.
+3. It must be **affordable** to formula feed. Formula is expensive. Free formula may be provided in some areas.
+4. It should be **sustainable**. Formula must be available. Mothers often live far from shops in rural areas.
+5. It should be **safe**. Clean water must be available. The mother should be able to prepare feeds hygienically and be able to clean the bottles, teats and cups. Access to primary health care is particularly important if infants are formula fed.
 
 If any of these criteria cannot be met, it would be better for women to exclusively breastfeed as the risk of HIV transmission in breast milk is probably less than the dangers of formula feeding. Women who decide to formula feed must be taught how to prepare and give formula correctly. A cup rather than a bottle should be used as cups are easier to clean.
 
