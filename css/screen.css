@@ -25,3 +25,6 @@ th, td {
 	border: 1px solid #ccc;
 	padding: 0.5em;
 }
+pre, code {
+	white-space: pre-wrap;
+}

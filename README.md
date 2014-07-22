@@ -31,6 +31,7 @@ This is currently a testing site for Bettercare content-development workflows on
 1. At the same time, you may want to:
 	* manually create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists.
 	* manually marking key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
+	* Note that list indents can get complicated, so check previous chapters and test your markdown-to-HTML conversion when you hit a tricky one (e.g. a note inside a bullet list nested inside a numbered list).
 1. Add Markdown image references. We use reference-style image syntax. 
 	* In the text we put ![Alt text][id]. 
 	* After the image reference, include a caption in italics. E.g. *Figure 3-2: Swaddling a newborn baby.**
@@ -39,8 +40,9 @@ This is currently a testing site for Bettercare content-development workflows on
 	* Image files are named similarly, but with the book's standard initials in front, like this: nc-fig-2-3.svg for Newborn Care, Figure 2-3.
 	* The path to images is {{ site.baseurl }}/images/nc-fig-1-1.svg (this path ensures our Jekyll server can find the images on local machines or on GitHub Pages)
 1. Convert all images to SVG format so that they scale neatly. Ensure bitmap elements in SVG are high-res enough for printing. Save images in the book's images folder.
-1. Look out for special characters, especially degree symbols (°), superscripts and subscripts. Most superscripts and subscripts in InDesign and similar are created by formatting normal text (shrink and baseline shift). In text-only, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). To type these characters, you may need special software, or copy-paste from [an online reference](http://scriptsource.org/cms/scripts/page.php?item_id=character_list&key=2070).
-1. For tables, use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To do this:
+1. Look out for italic and bold, and manually mark these in markdown with asterisks: *italic* and **bold**. It's best to search the InDesign document for these instances so you don't miss any.
+1. Look out for special characters, especially degree symbols (°), superscripts and subscripts. It's best to search the InDesign document (search by style) for these instances so you don't miss any. Most superscripts and subscripts in InDesign and similar are created by formatting normal text (shrink and baseline shift). In text-only, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). E.g. when typing the symbol for oxygen, O₂, the subscript 2 is ₂, unicode character U+2082. To type these characters, you may need special software (e.g. for Windows, Google unicodeinput.exe), or copy-paste from [an online reference](http://scriptsource.org/cms/scripts/page.php?item_id=character_list&key=2070). In Windows, you can also find symbols in Character Map, e.g. search in Character Map for 'Subscript Two'.
+1. For tables, create the Markdown layout manually, or use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To do this:
 	* Click and drag over some cells in the InDesign table (not the header row). Then Ctrl+A to select the whole table.
 	* Ctrl+C to copy, then paste into a blank spreadsheet.
 	* Select all the relevant cells in your spreadsheet, and copy. The table text is now on your clipboard, with the cells separated by tabs.
