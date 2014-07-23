@@ -620,17 +620,17 @@ Weight for gestational age chart – *Acta Paediatr Scand Suppl* 1985; 31: 180.
 
 Head circumference for gestational age chart – *Pediatr Res* 1978; 12: 987.
 
-![Figure 2.A: The Ballard scoring method][fig-2-A]
+![Figure 2-A: The Ballard scoring method][fig-2-A]
 
-*Figure 2.A: The Ballard scoring method*
+*Figure 2-A: The Ballard scoring method*
 
-![Figure 2.B: Weight for gestational age chart][fig-2-B]
+![Figure 2-B: Weight for gestational age chart][fig-2-B]
 
-*Figure 2.B: Weight for gestational age chart*
+*Figure 2-B: Weight for gestational age chart*
 
-![Figure 2.C: Head circumference for gestational age chart][fig-2-C]
+![Figure 2-C: Head circumference for gestational age chart][fig-2-C]
 
-*Figure 2.C: Head circumference for gestational age chart*
+*Figure 2-C: Head circumference for gestational age chart*
 
 [fig-2-1]: {{ site.baseurl }}/images/nc-fig-2-1.svg "Figure 2.1: Weight for gestational age chart."
 [fig-2-A]: {{ site.baseurl }}/images/nc-fig-2-A.svg "Figure 2.A: The Ballard scoring method"
