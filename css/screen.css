@@ -8,6 +8,7 @@
 @page { 
 	size: A5; 
 	margin: 15mm 10mm 5mm 10mm;
+	padding: 0;
 }
 @page wrapper {
 	@bottom {
@@ -23,14 +24,17 @@
 
 body {
 	font-family: "Merriweather", serif;
-	font-size: 10pt;
+	font-size: 9pt;
 	line-height: 140%;
 	margin: 0;
 	padding: 0;
 }
 #wrapper{
 /*	width: 128mm;*/
-	margin: auto;
+/*	margin: auto;*/
+}
+h3, p, ol, ul, blockquote, dl, pre, code {
+	columns: 2;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
