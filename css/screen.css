@@ -43,9 +43,6 @@ h2 {
 	padding-top: 0.5em;
 	border-top: 1px solid #666;
 }
-ol, ul {
-	padding-left: 1.5em;
-}
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
 	background-color: #666;
@@ -63,7 +60,6 @@ dl {
 }
 dt {
 	text-transform: uppercase;
-	font-size: small;
 	font-weight: 300;
 	letter-spacing: 0.05em;
 	page-break-after: avoid;
