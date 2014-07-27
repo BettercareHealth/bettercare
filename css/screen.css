@@ -1,24 +1,45 @@
+@charset "utf-8";
+/* Typography for Bettercare books
+ * Author: Arthur Attwell arthur@electricbookworks.com
+ * Updated: 27 July 2014 */
+ 
 body {
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: "Crimson Text", serif;
+	font-size: 12pt;
+	line-height: 130%;
 }
 #wrapper{
-	max-width: 960px;
+	max-width: 128mm;
 	margin: auto;
 }
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 600;
+	line-height: 100%;
+}
 blockquote {
-	background-color: #4f89d2;
+	font-family: "Source Sans Pro", sans-serif;
+	background-color: #666;
 	font-weight: bold;
-	padding: 0.5em 1em 0.5em 1em;
+	color: white;
+	padding: 0.25em 1em;
+	border-radius: 0.25em;
+	margin: 0.5em 0;
 }
 dl {
+	font-family: "Source Sans Pro", sans-serif;
 	color: #666;
+	font-weight: 300;
 }
 dt {
 	text-transform: uppercase;
 	font-size: small;
 	letter-spacing: 0.05em;
+	float: left;
+	padding: 0.05em;
 }
 table {
+	font-family: "Source Sans Pro", sans-serif;
 	border-collapse: collapse;
 }
 th, td {
@@ -26,5 +47,6 @@ th, td {
 	padding: 0.5em;
 }
 pre, code {
+	font-family: "Source Code Pro", sans-serif;
 	white-space: pre-wrap;
 }
