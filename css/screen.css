@@ -18,9 +18,9 @@
 /* For general output */
 
 body {
-	font-family: "Crimson Text", serif;
-	font-size: 12pt;
-	line-height: 130%;
+	font-family: "Merriweather", serif;
+	font-size: 10pt;
+	line-height: 140%;
 }
 #wrapper{
 	width: 128mm;
@@ -29,14 +29,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 600;
-	line-height: 100%;
+	line-height: 120%;
 }
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
 	background-color: #666;
-	font-weight: bold;
+	font-size: 120%;
+	font-weight: 600;
 	color: white;
-	padding: 0.25em 1em;
+	padding: 0.2em 0.8em;
 	border-radius: 0.25em;
 	margin: 0.5em 0;
 }
@@ -49,6 +50,7 @@ dt {
 	text-transform: uppercase;
 	font-size: small;
 	letter-spacing: 0.05em;
+	page-break-after: avoid;
 }
 table {
 	font-family: "Source Sans Pro", sans-serif;

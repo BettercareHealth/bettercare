@@ -60,6 +60,7 @@ Note
 These infants have immature organs because they are born too soon. They are also small and fragile and can, therefore, be easily damaged at delivery.
 
 The common neonatal complications in infants born preterm are:
+
 * Neonatal asphyxia
 * Hypothermia
 * Hypoglycaemia
@@ -189,6 +190,7 @@ Overweight for gestational age infants are at an increased risk of neonatal prob
 ### 2-16 What are the causes of an infant being born underweight for gestational age?
 
 There are both maternal and fetal causes of slow fetal growth resulting in the birth of an underweight for gestational age infant.
+
 1. Maternal causes:
 	* Low maternal weight
 	* Smoking
