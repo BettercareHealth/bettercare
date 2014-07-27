@@ -9,7 +9,6 @@
 	size: A5; 
 	margin: 15mm 10mm 5mm 10mm;
 	padding: 0;
-	columns: 2;
 }
 @page wrapper {
 	@bottom {
@@ -29,6 +28,7 @@ body {
 	line-height: 140%;
 	margin: 0;
 	padding: 0;
+	columns: 2;
 }
 #wrapper{
 /*	width: 128mm;*/
