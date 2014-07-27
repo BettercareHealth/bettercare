@@ -7,7 +7,7 @@
 
 @page { 
 	size: A5; 
-	margin: 5pt 5pt 5pt 8pt;
+	margin: 15mm;
 }
 @page main {
 	@bottom {
