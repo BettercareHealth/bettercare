@@ -5,6 +5,10 @@
 
 /* For PrinceXML/DocRaptor */
 
+@page { 
+	size: A5; 
+	margin: 5pt 5pt 5pt 8pt;
+}
 @page main {
 	@bottom {
 		content: counter(page)
@@ -51,6 +55,7 @@ dl {
 dt {
 	text-transform: uppercase;
 	font-size: small;
+	font-weight: 300;
 	letter-spacing: 0.05em;
 	page-break-after: avoid;
 }
