@@ -7,7 +7,7 @@
 
 @page { 
 	size: A5; 
-	margin: 15mm;
+	margin: 15mm 10mm 0 10mm;
 }
 @page main {
 	@bottom {
@@ -36,6 +36,15 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 600;
 	line-height: 120%;
+	page-break-after: avoid;
+}
+h2 {
+	margin: 1.5em 0 0.5em 0;
+	padding-top: 0.5em;
+	border-top: 1px solid #666;
+}
+ol, ul {
+	padding-left: 1.5em;
 }
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
