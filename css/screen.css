@@ -9,6 +9,7 @@
 	size: A5; 
 	margin: 15mm 10mm 5mm 10mm;
 	padding: 0;
+	columns: 2;
 }
 @page wrapper {
 	@bottom {
@@ -32,9 +33,6 @@ body {
 #wrapper{
 /*	width: 128mm;*/
 /*	margin: auto;*/
-}
-h3, p, ol, ul, blockquote, dl, pre, code {
-	columns: 2;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
