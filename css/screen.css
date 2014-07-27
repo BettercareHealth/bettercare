@@ -7,7 +7,7 @@
 
 @page { 
 	size: A5; 
-	margin: 15mm 10mm 0 10mm;
+	margin: 15mm 10mm 5mm 10mm;
 }
 @page wrapper {
 	@bottom {
