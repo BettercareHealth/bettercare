@@ -575,7 +575,7 @@ Finally the management of the infant must be planned. The management consists of
 
 	Active. No congenital abnormalities.
 
-	Skin temperature 36 oC.
+	Skin temperature 36 °C.
 
 	RS – Respiratory distress with recession and a respiratory rate of 65 breaths per minute. Infant needs 50% head box oxygen to remain pink.
 
@@ -624,7 +624,7 @@ These brief notes give all the important information in a simple and systematic 
 
 	Good Apgar scores. Vitamin K given.
 
-	Temp. 36 oC. Infant looks pale. Blood glucose normal.
+	Temp. 36 °C. Infant looks pale. Blood glucose normal.
 
 	No respiratory distress. Heart rate 200/min.
 
