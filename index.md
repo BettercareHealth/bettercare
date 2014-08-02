@@ -16,3 +16,4 @@ layout: default
 * [Chapter 9](nc/nc-9)
 * [Chapter 10](nc/nc-10)
 * [Chapter 11](nc/nc-11)
+* [Chapter 12](nc/nc-12)

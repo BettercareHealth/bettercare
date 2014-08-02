@@ -1,9 +1,25 @@
+/*
+Title: Bettercare screen styles
+Author: Arthur Attwell
+Author URI: http://arthurattwell.com/
+Description: Screen styles for Bettercare http://bettercare.co.za
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bettercare
+*/
+
+@charset "utf-8";
+
 body {
 	font-family: "Source Sans Pro", sans-serif;
 }
 #wrapper{
 	max-width: 960px;
 	margin: auto;
+}
+li p {
+	margin: 0;
 }
 blockquote {
 	background-color: #4f89d2;
