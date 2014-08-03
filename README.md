@@ -6,6 +6,7 @@ This is currently a testing site for Bettercare content-development workflows on
 
 ### Before you start
 
+* Read through all these notes, including the tips at the end. You may not understand it all at first, but you need to plant all these seeds in your brain for when you need them.
 * Have the [Markdown syntax reference](daringfireball.net/projects/markdown/syntax) to hand.
 * For more advanced syntax (including for tables), see the [kramdown syntax](http://kramdown.gettalong.org/syntax.html) and kramdown [quick reference](http://kramdown.gettalong.org/quickref.html).
 * Use a good text editor like Notepad++.
@@ -50,3 +51,8 @@ This is currently a testing site for Bettercare content-development workflows on
 	* Click 'Create Table'. (The default settings are usually fine. Play with them only if you need to.)
 	* Copy the Output and paste it into your markdown file.
 	* The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
+
+### Tips
+
+* You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
+* When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote >. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
