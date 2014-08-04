@@ -1,13 +1,10 @@
 ---
 title: Contents
-layout: frontmatter
+layout: toc
 ---
 
 # Contents
 
-*	[Title page]({{ site.baseurl }}/nc/nc-0-1-titlepage)
-*	[Copyright]({{ site.baseurl }}/nc/nc-0-2-copyright)
-*	[Acknowledgements]({{ site.baseurl }}/nc/nc-0-4-acknowledgements)
 *	[Introduction]({{ site.baseurl }}/nc/nc-0-5-intro)
 
 1.	[Failure to breathe at birth and resuscitation]({{ site.baseurl }}/nc/nc-1)

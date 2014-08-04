@@ -9,6 +9,7 @@
 	size: A5; 
 	margin: 15mm 12mm 20mm 12mm;
 	padding: 0;
+	marks: crop;
 }
 .frontmatter {
 	page: frontmatter;
@@ -26,6 +27,12 @@
 }
 .chapter, .frontmatter { 
 	page-break-before: always;
+}
+.toc a::after { 
+	content: leader(".") target-counter(attr(href), page) 
+}
+.toc ul, ol {
+	list-style-type: none;
 }
 
 /* For general output */
@@ -48,6 +55,7 @@ h1 {
 	font-size: 3.5em;
 	max-width: 80%;
 	line-height: 90%;
+	page-break-before: always;
 }
 h2 {
 	margin: 1.5em 0 0.5em 0;
@@ -114,4 +122,11 @@ th, td {
 pre, code {
 	font-family: "Source Code Pro", sans-serif;
 	white-space: pre-wrap;
+}
+figure {
+	margin: 0;
+	padding: 0;
+}
+figcaption {
+	font-style: italic;
 }

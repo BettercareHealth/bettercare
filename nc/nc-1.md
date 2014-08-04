@@ -386,31 +386,31 @@ Note
 
 After a normal pregnancy, an infant is born by elective caesarian section under general anaesthesia. Immediately after delivery the infant is dried and placed under an overhead radiant warmer. He is not breathing and resuscitation is started. At 1 minute after birth the infant has a heart rate of 80 beats per minute, gives irregular gasps, has blue hands and feet but a pink tongue, has some muscle tone but does not respond when dried. Resuscitation is started and at 5 minutes the infant has a heart rate of 120 beats per minute and is breathing well. The tongue is pink but the hands and feet are still blue. The infant moves actively and cries well.
 
-1. What is the infant’s Apgar score at 1 minute?
+### 1. What is the infant’s Apgar score at 1 minute?
 
 The Apgar score at 1 minute is 4: heart rate=1, respiration=1, colour=1, tone=1, response=0.
 
-2. Why does this infant require resuscitation?
+### 2. Why does this infant require resuscitation?
 
 Because he is not breathing well after being dried. The diagnosis of failure to breathe well is supported by the low Apgar score at 1 minute.
 
-3. What is the probable cause of the failure to breathe?
+### 3. What is the probable cause of the failure to breathe?
 
 The general anaesthetic. Both the intravenous drugs and the anaesthetic gases cross the placenta and may sedate the fetus. These sedated infants usually respond rapidly to resuscitation.
 
-4. What is the most important step in resuscitating this infant?
+### 4. What is the most important step in resuscitating this infant?
 
 If respiration cannot be stimulated by drying the infant, then ventilation must be started. Most infants can be adequately ventilated with a bag and mask. If good chest movement cannot be obtained with mask ventilation, the infant must be intubated and ventilated.
 
-5. What is this infant’s Apgar score at 5 minutes?
+### 5. What is this infant’s Apgar score at 5 minutes?
 
 The Apgar score at 5 minutes is 9: heart rate=2, breathing=2, colour=1, tone=2, response=2. This indicates that the infant has responded well to resuscitation. Blue hands and feet (peripheral cyanosis) at 5 minutes are common.
 
-6. Why is this infant very unlikely to have suffered brain damage due to hypoxia?
+### 6. Why is this infant very unlikely to have suffered brain damage due to hypoxia?
 
 Because there is no history of fetal distress to indicate that this infant had been hypoxic before delivery. The rapid response to resuscitation also suggests that there was not fetal hypoxia. There is also no good reason why the fetus should be hypoxic as the mother has had an elective caesarean section and was not in labour. Most fetal hypoxia occurs during labour.
 
-7. What should be the management of this infant after resuscitation?
+### 7. What should be the management of this infant after resuscitation?
 
 The infant should be kept warm and be transferred to the nursery for observation for a few hours.
 
@@ -418,27 +418,27 @@ The infant should be kept warm and be transferred to the nursery for observation
 
 After fetal distress has been diagnosed, an infant is delivered by a difficult vacuum extraction. At delivery the infant is covered with thick meconium. The infant starts to gasp. Only then are the mouth and pharynx suctioned for the first time. The Apgar score at 1 minute is 3. The infant is given face mask oxygen and by 5 minutes the Apgar score is 6. By 15 minutes the infant is active and crying well. It is decided to bath the infant and give a stomach washout in the labour ward before transferring both mother and infant to the postnatal ward.
 
-1. What are the probable causes of gasping and the low 1 minute Apgar score ?
+### 1. What are the probable causes of gasping and the low 1 minute Apgar score ?
 
 Hypoxia resulting in fetal distress, as indicated by the passage of meconium before delivery. The difficult delivery by vacuum extractionprobably resulted in failure to breathe well and a low Apgar score, while inhaled meconium may have blocked the airway.
 
-2. What mistake was made with the management of this infant?
+### 2. What mistake was made with the management of this infant?
 
 The infant’s mouth and pharynx should have been well suctioned *before* the shoulders were delivered. This will usually prevent severe meco­nium aspiration as the airway is cleared of meconium before the infant starts to breathe.
 
-3. What size catheter would you have used to suction this infant’s mouth and pharynx?
+### 3. What size catheter would you have used to suction this infant’s mouth and pharynx?
 
 A large catheter (F10) must be used as a small catheter will block with meconium. The catheter should have a hole at the end and not just at the side.
 
-4. Should this infant be given a bath and stomach washout in the labour ward after it starts to breathe spontaneously?
+### 4. Should this infant be given a bath and stomach washout in the labour ward after it starts to breathe spontaneously?
 
 No. A bath should not be done until the infant has been stable for a number of hours in the nursery. As there was thick meconium, the infant should be given a stomach washout with normal saline or 2% sodium bicarbonate in the nursery followed by a breastfeed.
 
-5. What 2 complications is this infant at high risk of?
+### 5. What 2 complications is this infant at high risk of?
 
 This infant may develop meconium aspiration syndrome as meconium was probably inhaled into the lungs after birth. The infant may also suffer brain damage or damage to other organs due to hypoxia causing fetal distress during labour.
 
-6. What does an Apgar score of 6 at 5 minutes suggest?
+### 6. What does an Apgar score of 6 at 5 minutes suggest?
 
 It suggests that the infant has not been correctly resuscitated. This infant needed intubation and suctioning followed by ventilation, and not just face mask oxygen.
 
@@ -446,27 +446,27 @@ It suggests that the infant has not been correctly resuscitated. This infant nee
 
 A woman with an abruptio placentae delivers at 32 weeks. Before delivery the fetal heart rate was only 80 beats per minute. The infant appeared dead at birth but was intubated and ventilated. Chest compressions were also given, and the heart rate remained slow after ventilation was started. The 1 minute Apgar score was 2. Despite further efforts at resuscitation, the Apgar score at 5, 10, 15 and 20 minutes remained 2.
 
-1. What is the probable cause of the infant’s poor condition at birth?
+### 1. What is the probable cause of the infant’s poor condition at birth?
 
 Fetal distress caused by fetal hypoxia. Abruptio placentae (placental separation before delivery) is a common cause of severe hypoxia and fetal distress.
 
-2. Why is it possible to successfully resuscitate some infants that appear dead at birth?
+### 2. Why is it possible to successfully resuscitate some infants that appear dead at birth?
 
 If a fetal heart is heard just before delivery but the infant appears dead at birth, the duration of cardiac arrest has only been a few minutes. With ventilation and chest compressions, it is possible to resuscitate some of these infants. Many of the survivors do not suffer brain damage.
 
-3. What is the significance of the low Apgar scores at 5, 10, 15 and 20 minutes?
+### 3. What is the significance of the low Apgar scores at 5, 10, 15 and 20 minutes?
 
 Prolonged failure to respond well to resuscitation suggests that the infant will die due to severe hypoxic damage to the brain and heart.
 
-4. Which 5 organs are likely to be damaged by severe hypoxia?
+### 4. Which 5 organs are likely to be damaged by severe hypoxia?
 
 The brain, heart, kidneys, gut and lungs.
 
-5. What is neonatal encephalopathy?
+### 5. What is neonatal encephalopathy?
 
 Abnormal neurological behaviour of a newborn infant within hours of birth. The important features of neonatal encephalopathy are altered level of consciousness, abnormal muscle tone, poor feeding and breathing, depressed reflexes and convulsions. Neonatal encephalopathy is usually due to intrapartum hypoxia.
 
-6. When should attempts at resuscitation be stopped?
+### 6. When should attempts at resuscitation be stopped?
 
 If there is no heart beat after 10 minutes or no attempt at breathing after 20 minutes.
 
@@ -474,31 +474,31 @@ If there is no heart beat after 10 minutes or no attempt at breathing after 20�
 
 After a normal labour and delivery at term, an infant cries well at birth. No maternal analgesia was needed and the amniotic fluid was not meconium stained. The infant is well suctioned after delivery as this is the routine practice in the clinic. Immediately after suctioning the infant stops breathing and becomes cyanosed. The 1 minute Apgar score is not done. The medical officer tries unsuccessfully for 5 minutes to intubate the infant. When an intramuscular injection of naloxone fails to stimulate respiration, further attempts at resuscitation are abandoned. The infant is centrally cyanosed, has a heart rate of 50 beats per minute and starts to gasp at 5 minutes. Face mask oxygen was given and eventually the infant cried weakly. No one at the clinic had been trained in basic neonatal resuscitation.
 
-1. What was the first mistake that was made in managing this infant?
+### 1. What was the first mistake that was made in managing this infant?
 
 The infant’s mouth and throat should not have been suctioned as there was no clinical indication. The infant breathed well after delivery and was not meconium stained. Normal infants must not be routinely suctioned. Suctioning clear liquor from the mouth and throat before starting ventilation is probably not needed. The 1 minute Apgar score should have been done to document the infant’s clinical condition at this time.
 
-2. Why did the infant stop breathing and become cyanosed?
+### 2. Why did the infant stop breathing and become cyanosed?
 
 Excessive, deep suctioning often causes apnoea. This is why routine suctioning has been stopped.
 
-3. How should this infant have been resuscitated?
+### 3. How should this infant have been resuscitated?
 
 The head and neck should have been correctly positioned to open the airway. Then bag and mask ventilation should have been given. With this basic resuscitation, the infant would almost certainly have started to breathe normally and cry. The infant became more and more hypoxic while attempts were made to intubate the trachea. The Apgar should also have been done at 5 minutes and every 5 minutes thereafter to record the condition of the infant during the resuscitation attempt.
 
-4. What is the value of giving naloxone to infants who breathe poorly at birth?
+### 4. What is the value of giving naloxone to infants who breathe poorly at birth?
 
 Naloxone is useful in reversing respiratory depression in the newborn infant if the mother had received pethidine or morphine during the 4 hours before delivery. There was no indication for giving naloxone in this infant as the mother had not received any analgesia. Naloxonen is not a respiratory stimulant.
 
-5. Should attempts at resuscitation have been abandoned before 5 minutes?
+### 5. Should attempts at resuscitation have been abandoned before 5 minutes?
 
 No. Attempts should be continued for at least 20 minutes. An urgent telephone call to the referral hospital could have provided the correct advice needed. Some infants with poor breathing at birth will eventually start gasping spontaneously even if the correct resuscitation is not given. However, during the period of inadequate resuscitation the infant becomes progressively more hypoxic. This can result in brain damage.
 
-6. Who should be trained to give basic resuscitation to newborn infants?
+### 6. Who should be trained to give basic resuscitation to newborn infants?
 
 All the medical and nursing staff who deliver infants. Often it cannot be predicted during labour which infants will not breathe well and need resuscitation. Clinics and hospitals should not deliver infants if they are not able to provide good resuscitation.
 
-7. Should this infant have received chest compressions?
+### 7. Should this infant have received chest compressions?
 
 Only if the heart rate remained below 60 per minute after 60 seconds of effective ventilation. With early bag and mask ventilation the heart rate would almost certainly have increased and the cyanosis disappeared.
 
@@ -553,9 +553,10 @@ The individual scores of the 5 criteria are now added up to give the Apgar score
 
 The individual scores and total Apgar score are recorded at 1 minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
 
-![Figure 1-A: The Apgar scoring sheet][fig-1-A]
-
-*Figure 1-A: The Apgar scoring sheet*
+<figure>
+	<img src="../images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
+	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
+</figure>
 
 ## Giving mask ventilation
 
@@ -565,9 +566,10 @@ The infant must lie supine (back down) on a firm, flat horizontal surface. A res
 
 If you pretend that you are offered a flower to smell, you would hold the flower in front of your nose, push your head slightly forward and slightly extend your neck. This is the position that you want the infant’s head and neck to be in as it keeps the upper airways open (and makes the vocal cords easier to see with a laryngoscope).
 
-![Figure 1-B: The position of the head during mask ventilation][fig-1-B]
-
-*Figure 1-B: The position of the head during mask ventilation*
+<figure>
+	<img src="../images/nc-fig-1-B.svg" alt="The position of the head during mask ventilation">	
+	<figcaption>Figure 1-B: The position of the head during mask ventilation</figcaption>
+</figure>
 
 ### 1-h Bag and mask ventilation
 
@@ -609,9 +611,10 @@ When giving bag and mask ventilation, always watch for chest movement. Squeeze t
 13. A small stethoscope
 14. A saturation monitor is very useful but not essential.
 
-![Figure 1-C: A bag and mask for resuscitation][fig-1-C]
-
-*Figure 1-C: A bag and mask for resuscitation*
+<figure>
+	<img src="../images/nc-fig-1-C.svg" alt="A bag and mask for resuscitation">	
+	<figcaption>Figure 1-C: A bag and mask for resuscitation</figcaption>
+</figure>
 
 ![Figure 1-D: An endotracheal tube with an introducer in place][fig-1-D]
 
