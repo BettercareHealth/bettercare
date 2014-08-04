@@ -58,7 +58,7 @@ h2 {
 	padding-top: 0.5em;
 }
 h3 {
-	margin-bottom: 0;
+	margin-bottom: 0.5em;
 }
 .titlepage-title {
 	font-size: 3em;
@@ -87,9 +87,13 @@ blockquote {
 	font-size: 120%;
 	font-weight: 600;
 	color: white;
-	padding: 0.2em 0.8em;
+	padding: 0.5em 0.8em;
 	border-radius: 0.25em;
 	margin: 0.5em 0;
+}
+blockquote p {
+	-webkit-margin-before: 0; /* Override default indentation in Webkit */
+	-webkit-margin-after: 0; /* Override default indentation in Webkit */
 }
 dl {
 	font-family: "Source Sans Pro", sans-serif;

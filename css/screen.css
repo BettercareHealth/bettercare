@@ -22,11 +22,17 @@ li p {
 	margin: 0;
 }
 blockquote {
+	color: white;
 	background-color: #4f89d2;
 	font-weight: bold;
 	padding: 0.5em 1em 0.5em 1em;
+	border-radius: 0.25em;
 	-webkit-margin-start: 0; /* Override default indentation in Webkit */
 	-webkit-margin-end: 0; /* Override default indentation in Webkit */
+}
+blockquote p {
+	-webkit-margin-before: 0; /* Override default indentation in Webkit */
+	-webkit-margin-after: 0; /* Override default indentation in Webkit */
 }
 dl {
 	color: #666;
