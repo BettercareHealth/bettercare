@@ -25,6 +25,8 @@ blockquote {
 	background-color: #4f89d2;
 	font-weight: bold;
 	padding: 0.5em 1em 0.5em 1em;
+	-webkit-margin-start: 0; /* Override default indentation in Webkit */
+	-webkit-margin-end: 0; /* Override default indentation in Webkit */
 }
 dl {
 	color: #666;
