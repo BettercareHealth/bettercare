@@ -42,15 +42,10 @@ Hyperbilirubinaemia is defined as concen­tration (level) of total serum bilirub
 
 The upper limit of the total serum bilirubin concentration (TSB) in most healthy term infants is approximately:
 
-|------------------+----+-----+-----+
-| Days after birth | 0  | 0.5 | 1   |
-|------------------+----+-----+-----+
-| TSB (µmol/l)     | 35 | 75  | 125 |
-
-|------------------+-----+-----+-----+-----+
-| Days after birth | 2   | 3   | 4   | 5   |
-|------------------+-----+-----+-----+-----+
-| TSB (µmol/l)     | 150 | 175 | 200 | 200 |
+|------------------+----+-----+-----+-----+-----+-----+-----+
+| Days after birth | 0  | 0.5 | 1   | 2   | 3   | 4   | 5   |
+|------------------+----+-----+-----+-----+-----+-----+-----+
+| TSB (µmol/l)     | 35 | 75  | 125 | 150 | 175 | 200 | 200 |
 
 Note
 :	The upper limit of the normal total serum bilirubin concentration is very controversial. In healthy, term, breastfed infants the upper limit may be as high as 275 µmol/l.
