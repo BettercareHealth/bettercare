@@ -47,7 +47,7 @@ The carbohydrates, proteins and fats provide the infant with 440 kilojoules per�
 
 Breastfeeding provides many benefits to both the infant and mother. The main benefits are:
 
-1. **Benefits to the infant:**
+1.	**Benefits to the infant:**
 	* Breast milk is the perfect feed for term infants as it provides all the nutrients in the correct amount and proportion for normal growth and development until the age of 6 months. Thereafter breast milk should still provide a lot of the protein in the infant’s diet until 2 years of age.
 	* Breast milk is easily digested and absorbed.
 
@@ -59,7 +59,7 @@ Breastfeeding provides many benefits to both the infant and mother. The main ben
 	* Breast milk contains many anti-infective factors, such as antibodies, living cells (lymphocytes and macrophages) and complement. Breast milk also encourages the growth of beneficial bacteria in the infant’s bowel. These properties of breast milk help to prevent gastroenteritis, the major cause of infant deaths in many poor communities.
 	* Breast milk decreases the risk of allergy in the infant, especially if there is a strong family history of allergy.
 	* Breastfeeding decreases the incidence of gastroenteritis and therefore lowers the infant mortality rate in poor communities.
-2. **Benefits to the mother:**
+2.	**Benefits to the mother:**
 	* Breastfeeding is much cheaper than buying formula feeds.
 	* Breast milk is instantly available at all times. No sterilising of bottles and teats, and preparation of formula is needed.
 	* It is emotionally satisfying for the mother to successfully breastfeed her infant and this helps to form a strong bond between mother and infant.
