@@ -616,33 +616,40 @@ When giving bag and mask ventilation, always watch for chest movement. Squeeze t
 	<figcaption>Figure 1-C: A bag and mask for resuscitation</figcaption>
 </figure>
 
-![Figure 1-D: An endotracheal tube with an introducer in place][fig-1-D]
+<figure>
+	<img src="../images/nc-fig-1-D.svg" alt="An endotracheal tube with an introducer in place">	
+	<figcaption>Figure 1-D: An endotracheal tube with an introducer in place</figcaption>
+</figure>
 
-*Figure 1-D: An endotracheal tube with an introducer in place*
+<figure>
+	<img src="../images/nc-fig-1-E.svg" alt="A laryngoscope with a small, straight blade">	
+	<figcaption>Figure 1-E: A laryngoscope with a small, straight blade</figcaption>
+</figure>
 
-![Figure 1-E: A laryngoscope with a small, straight blade][fig-1-E]
+<figure>
+	<img src="../images/nc-fig-1-F.svg" alt="The blade of the laryngoscope on the tongue">	
+	<figcaption>Figure 1-F: The blade of the laryngoscope on the tongue</figcaption>
+</figure>
 
-*Figure 1-E: A laryngoscope with a small, straight blade*
+<figure>
+	<img src="../images/nc-fig-1-G.svg" alt="A view of the epiglottis">	
+	<figcaption>Figure 1-G: A view of the epiglottis</figcaption>
+</figure>
 
-![Figure 1-F: The blade of the laryngoscope on the tongue][fig-1-F]
+<figure>
+	<img src="../images/nc-fig-1-H.svg" alt="The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis">	
+	<figcaption>Figure 1-H: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis.</figcaption>
+</figure>
 
-*Figure 1-F: The blade of the laryngoscope on the tongue*
+<figure>
+	<img src="../images/nc-fig-1-I.svg" alt="View of the larynx">	
+	<figcaption>Figure 1-I: View of the larynx.</figcaption>
+</figure>
 
-![Figure 1-G: A view of the epiglottis][fig-1-G]
-
-*Figure 1-G: A view of the epiglottis*
-
-![Figure 1-H: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis][fig-1-H]
-
-*Figure 1-H: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis*
-
-![Figure 1-I: View of the larynx][fig-1-I]
-
-*Figure 1-I: View of the larynx*
-
-![Figure 1-J: Introducing the endotracheal tube][fig-1-J]
-
-*Figure 1-J: Introducing the endotracheal tube*
+<figure>
+	<img src="../images/nc-fig-1-J.svg" alt="Introducing the endotracheal tube">	
+	<figcaption>Figure 1-J: Introducing the endotracheal tube.</figcaption>
+</figure>
 
 The equipment must be checked daily to make certain that everything is present and in good working order.
 
@@ -681,9 +688,10 @@ An assistant ventilates the infant while you give chest compressions. The person
 
 Pressing on the sternum compresses the heart between the sternum and the spine. This squeezes blood out of the heart and into the circulation. When the sternum returns to the normal position, the heart fills again with blood. Therefore it is important that the chest be allowed time to expand fully after each compression. Repeated compression of the heart causes the blood to circulate throughout the body.
 
-![Figure 1-K: The position of the hands when giving chest compressions][fig-1-K]
-
-*Figure 1-K: The position of the hands when giving chest compressions*
+<figure>
+	<img src="../images/nc-fig-1-K.svg" alt="The position of the hands when giving chest compressions">	
+	<figcaption>Figure 1-K: The position of the hands when giving chest compressions.</figcaption>
+</figure>
 
 Note
 :	The main aim of chest compressions is to perfuse the coronary arteries. This takes place when the compression on the chest is released (i.e. during diastole). Therefore, do not give chest compressions too fast.
@@ -692,7 +700,7 @@ Note
 
 When ventilation and chest compressions are both being given, 30 breaths and 90 chest compressions should be given each minute. This means 3 compressions to each ventilation. However, it is important to avoid giving a breath and a chest compression at the same time, especially with bag and mask ventilation.
 
-Therefore chest compressions and breaths must be co-ordinated. This is best achieved if the person giving the chest compressions counts out aloud ‘one-and-two-and-three-and-breath-and-one-and-two-and- …’. At each number count (one-and-two-and-three) the chest is compressed and then allowed to relax. At the count of ‘breath’ the chest is not compressed but the infant is given a breath. Note that the ventilation rate is reduced to 30 breaths per minute in order to allow time for chest compressions. Once chest compressions are stopped the ventilation rate should be increased again to 40 breaths per minute..
+Therefore chest compressions and breaths must be co-ordinated. This is best achieved if the person giving the chest compressions counts out aloud ‘one-and-two-and-three-and-breath-and-one-and-two-and- …’. At each number count (one-and-two-and-three) the chest is compressed and then allowed to relax. At the count of ‘breath’ the chest is not compressed but the infant is given a breath. Note that the ventilation rate is reduced to 30 breaths per minute in order to allow time for chest compressions. Once chest compressions are stopped the ventilation rate should be increased again to 40 breaths per minute.
 
 [fig-1-1]: ../images/nc-fig-1-1.svg "The important steps in basic newborn resuscitation"
 [fig-1-A]: ../images/nc-fig-1-A.svg "The Apgar scoring sheet"
