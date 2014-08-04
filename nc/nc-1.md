@@ -553,8 +553,6 @@ The individual scores of the 5 criteria are now added up to give the Apgar score
 
 The individual scores and total Apgar score are recorded at 1 minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
 
-[See Figure 1-A.][fig-1-A]
-
 ![Figure 1-A: The Apgar scoring sheet][fig-1-A]
 
 *Figure 1-A: The Apgar scoring sheet*
@@ -566,8 +564,6 @@ The individual scores and total Apgar score are recorded at 1 minute on a spec
 The infant must lie supine (back down) on a firm, flat horizontal surface. A resuscitation unit, table or bed can be used. Ideally, the working surface should be at the height of the examiner’s waist. Stand at the head of the infant. The infant’s neck should be slightly extended (in the ‘sniffing position’). Do not overextend the neck as this may obstruct the airway. If possible, a folded nappy or sheet should be placed under the infant’s shoulders to keep the head in the correct position.
 
 If you pretend that you are offered a flower to smell, you would hold the flower in front of your nose, push your head slightly forward and slightly extend your neck. This is the position that you want the infant’s head and neck to be in as it keeps the upper airways open (and makes the vocal cords easier to see with a laryngoscope).
-
-[See Figure 1-B.][fig-1-B]
 
 ![Figure 1-B: The position of the head during mask ventilation][fig-1-B]
 

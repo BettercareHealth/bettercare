@@ -10,11 +10,6 @@
 	margin: 15mm 10mm 5mm 10mm;
 	padding: 0;
 }
-@page wrapper {
-	@bottom {
-		content: counter(page)
-	}
-}
 .frontmatter {
 	page: frontmatter;
 }
@@ -23,12 +18,12 @@
 }
 @page chapter {
 	@bottom {
-		content: counter(page)
+		content: counter(page);
+		font-family: "Source Sans Pro", sans-serif;
+		text-align: center;
+		font-size: 0.8em;
+		margin-bottom: 10m;
 	}
-}
-.pagenum {
-	float: right;
-	color: grey;
 }
 
 /* For general output */
