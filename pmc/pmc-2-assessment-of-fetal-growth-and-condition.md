@@ -1,6 +1,6 @@
 ---
 title: 2. Assessment of fetal growth and condition during pregnancy
-layout: default
+layout: chapter
 ---
 
 # Assessment of fetal growth and condition during pregnancy

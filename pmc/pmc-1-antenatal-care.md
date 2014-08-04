@@ -1,6 +1,6 @@
 ---
 title: 1. Antenatal care
-layout: default
+layout: chapter
 ---
 
 # Antenatal care
