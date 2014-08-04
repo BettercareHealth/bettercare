@@ -1,0 +1,531 @@
+---
+title: 3. Hypertensive disorders of pregnancy
+layout: default
+---
+
+# Hypertensive disorders of pregnancy
+
+Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
+
+## Objectives
+
+When you have completed this unit you should be able to:
+
+*	Define and diagnose the hypertensive disorders of pregnancy.
+*	Give a simple classification of the hypertensive disorders of pregnancy.
+*	Diagnose pre-eclampsia and chronic hypertension.
+*	Explain why the hypertensive disorders of pregnancy must always be regarded as serious.
+*	List which patients are at risk of developing pre-eclampsia.
+*	List the complications of pre-eclampsia.
+*	Differentiate pre-eclampsia from severe pre-eclampsia.
+*	Provide emergency management for a patient with pre-eclampsia.
+*	Provide emergency management for eclampsia.
+*	Manage gestational hypertension and chronic hypertension during pregnancy.
+
+## The hypertensive disorders of pregnancy
+
+### 3-1 What is the normal blood pressure during pregnancy?
+
+The normal systolic blood pressure is less than 140 mm Hg and the diastolic blood pressure is less than 90 mm Hg.
+
+### 3-2 What is hypertension during pregnancy?
+
+Hypertension during pregnancy is defined as a diastolic blood pressure of 90 mm Hg or more and/or a systolic blood pressure of 140mm Hg or more.
+
+> A diastolic blood pressure of 90 mm hg or more and a systolic blood pressure of 140 mm hg or more during pregnancy is abnormal.
+
+During pregnancy an abnormally high blood pressure is often accompanied by proteinuria.
+
+### 3-3 What is proteinuria?
+
+Proteinuria is defined as an excessive amount of protein in the urine. Normally the urine contains no protein or only a trace of protein. Therefore, a trace of protein in the urine is not regarded as abnormal.
+
+Proteinuria during pregnancy is diagnosed when 1+ or more protein as measured with a reagent strip (e.g. Albustix, Labstix, Uristix, Multistix, Lenstrip, etc).
+
+Proteinuria during pregnancy may also be caused by:
+
+1.	A urinary tract infection.
+2.	Renal disease.
+3.	Contamination of the urine by a vaginal discharge.
+
+Patients with proteinuria must be asked to collect a second sample, as a midstream specimen of urine (MSU). The correct method of collecting an MSU must be carefully explained to the patient. The amount of proteinuria present in the MSU must be recorded in the notes. The further management will be dictated by the amount of proteinuria in the MSU.
+
+> 1+ or more protein in the urine is abnormal.
+
+### 3-4 What is pre-eclampsia?
+
+Pre-eclampsia presents with hypertension and proteinuria which develop in the second half of pregnancy (20 weeks or more). Pre-eclampsia may present during pregnancy, labour or the puerperium.
+
+Pre-eclampsia is also called gestational (pregnancy induced) proteinuric hypertension.
+
+### 3-5 What is gestational hypertension?
+
+In contrast to pre-eclampsia, gestational hypertension is not accompanied by proteinuria but also presents in the second half of pregnancy. Should proteinuria develop in a patient with gestational hypertension, the diagnosis must be changed to pre-eclampsia.
+
+> Pre-eclampsia presents with hypertension and proteinuria in the second half of pregnancy.
+
+### 3-6 What is chronic hypertension?
+
+Chronic hypertension is hypertension, with or without proteinuria, that presents during the first half of pregnancy. There is usually a history of hypertension before the start of the pregnancy.
+
+### 3-7 What is chronic hypertension with superimposed pre-eclampsia?
+
+This is hypertension presenting during the first half of pregnancy that is complicated by the appearance of proteinuria during the second half of pregnancy. In other words it is chronic hypertension that is complicated by the development of pre-eclampsia.
+
+### 3-8 What is eclampsia?
+
+Eclampsia is a serious complication of pre-eclampsia that presents with convulsions during pregnancy, labour or the first 7 days of the puerperium. Convulsions can also be the result of other causes, e.g. epilepsy, but the possibility of eclampsia must be carefully ruled out whenever convulsions occur.
+
+## Pre-eclampsia
+
+Pre-eclampsia is the hypertensive disorder of pregnancy which occurs most commonly and also causes most problems for the mother and fetus.
+
+Gestational proteinuric hypertension and chronic hypertension with superimposed pre-eclampsia will be discussed under the heading ‘pre-eclampsia’ because the management is similar.
+
+### 3-9 How frequently does pre-eclampsia occur?
+
+In the Western Cape of South Africa 5–6% of all pregnant women develop pre-eclampsia.
+
+### 3-10 Is pre-eclampsia a danger to the mother?
+
+Yes, it is one of the most important causes of maternal death in most parts of southern Africa.
+
+### 3-11 What are the maternal complications of pre-eclampsia?
+
+The most important complications of pre-eclampsia are also important causes of maternal death during pregnancy:
+
+1.	Intracerebral haemorrhage.
+2.	Eclampsia.
+
+### 3-12 Which patients are at an increased risk of intracerebral haemorrhage?
+
+The risk of intracerebral haemorrhage is especially high if the diastolic blood pressure is 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more.
+
+### 3-13 Does eclampsia only occur at a very high diastolic blood pressure?
+
+No, eclampsia can occur at a much lower blood pressure, especially in young patients.
+
+### 3-14 Why is pre-eclampsia a danger to the fetus and newborn infant?
+
+Pre-eclampsia is an important cause of perinatal death because:
+
+1.	Preterm delivery is often necessary because of a deterioration in the maternal condition or the development of fetal distress.
+2.	Abruptio placentae is more common in patients with pre-eclampsia and often results in an intra-uterine death.
+3.	Pre-eclampsia is associated with decreased placental blood flow. As a result of decreased placental blood flow the fetus may suffer from:
+	*	Intra-uterine growth restriction or wasting.
+	*	Fetal distress.
+
+> Pre-eclampsia may result in intra-uterine growth restriction, fetal distress, preterm delivery and intra-uterine death.
+
+### 3-15 How can the severity of pre-eclampsia be graded?
+
+The severity of pre-eclampsia can be graded by:
+
+1.	The diastolic blood pressure and/or systolic.
+2.	The amount of proteinuria.
+3.	Signs and symptoms of imminent eclampsia.
+4.	The presence of convulsions.
+
+Patients with pre-eclampsia can be divided into 4 grades of severity:
+
+1.	**Pre-eclampsia**.
+A diastolic blood pressure of 90 to 109 mm Hg and proteinuria, and/or a systolic blood pressure of 140 to 159 mm Hg, plus proteinuria.
+
+2.	**Severe pre-eclampsia**.
+Any of the following:
+	*	A diastolic blood pressure of 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more on 2 occasions, 4 hours apart, plus proteinuria.
+	*	A diastolic blood pressure of 120 mm Hg or more and/or a systolic blood pressure of 170 mm Hg or more on 1 occasion, plus proteinuria.
+
+3.	**Imminent eclampsia**.
+These patients have symptoms and/or signs that indicate that they are at extremely high risk of developing eclampsia at any moment. The diagnosis does not depend on the degree of hypertension or the amount of proteinuria present.
+
+4.	**Eclampsia**:
+Eclampsia is diagnosed when a patient with any of the grades of pre-eclampsia has a convulsion.
+
+> If there is any doubt about the grade of pre-eclampsia, the patient should always be placed in the more severe grade.
+
+Patients who improve on bed rest should be kept in the grade of pre-eclampsia which they were given at the initial evaluation. Further management should be in accordance with this grade.
+
+### 3-16 What are the symptoms and signs of imminent eclampsia?
+
+The **symptoms** are:
+
+1.	Headache.
+2.	Visual disturbances or flashes of light seen in front of the eyes.
+3.	Upper abdominal pain, in the epigastrium and/or over the liver.
+
+The **signs** are:
+
+1.	Tenderness over the liver.
+2.	Increased tendon reflexes, e.g. knee reflexes.
+
+> The diagnosis of imminent eclampsia is made even if only one of the symptoms or signs is present, irrespective of the blood pressure or the amount of proteinuria.
+
+### 3-17 How common is eclampsia?
+
+In the Western Cape of South Africa the incidence of eclampsia is 1 per 1000 pregnancies.
+
+## Patients at increased risk of pre-eclampsia
+
+### 3-18 Which patients are at an increased risk of pre-eclampsia?
+
+1. 	Primigravidas.
+2.	Patients with chronic hypertension.
+3.	Patients over 34 years.
+4.	Patients with a multiple pregnancy.
+5.	Diabetics.
+6.	Patients with a past history of a pregnancy complicated by pre-eclampsia, especially if the pre-eclampsia developed during the late 2nd or early 3rd trimester.
+7.	Patients who develop generalised oedema, especially facial oedema.
+
+### 3-19 What advice should be given to patients at increased risk of pre-eclampsia?
+
+They must be told about the symptoms of imminent eclampsia, and advised to contact the clinic or hospital immediately, if these symptoms appear.
+
+### 3-20 What special care should be given to patients at increased risk of pre-eclampsia?
+
+In the second half of pregnancy, the following must be carefully watched for:
+
+1.	A rise in diastolic blood pressure.
+2.	Proteinuria.
+3.	Symptoms and signs of imminent eclampsia.
+
+Patients with an obstetric history of pre-eclampsia that developed late in the second or early in the third trimester, must receive 75 mg aspirin (a quarter Disprin) daily from a gestational age of 14 weeks. This will reduce the risk that pre-eclampsia may develop.
+
+### 3-21 What should you do if a patient develops generalised oedema, but remains normotensive and does not have proteinuria?
+
+1.	She should rest as much as possible.
+2.	She should be followed up weekly at the antenatal clinic and carefully checked for the development of hypertension and proteinuria.
+3.	She should carefully monitor the fetal movements.
+
+## The management of pre-eclampsia
+
+### 3-22 What should you do if a patient develops pre-eclampsia?
+
+1.	A patient with pre-eclampsia must be admitted to hospital. Such a patient may safely be cared for in a level 1 hospital.
+2.	Methyldopa (Aldomet) must be prescribed to control the blood pressure.
+
+> All patients with pre-eclampsia must be admitted to hospital, irrespective of the level of the blood pressure.
+
+## The emergency management of severe pre-eclampsia and imminent eclampsia
+
+The management of patients with severe pre-eclampsia and imminent eclampsia is the same and consists of stabilising the patient, followed by referral to a level 2 or 3 hospital.
+
+### 3-23 What are the two greatest dangers to the patient with severe pre-eclampsia?
+
+The two greatest dangers, which are a threat to the patient’s life, are eclampsia and an intracerebral haemorrhage.
+
+### 3-24 How should you manage a patient with severe pre-eclampsia or imminent eclampsia?
+
+The main aims of management are to:
+
+1.	Prevent eclampsia, by giving magnesium sulphate.
+2.	Prevent intracerebral haemorrhage, by decreasing the blood pressure with oral nifedipine capsules (Adalat) or parenteral dihydralazine (Nepresol).
+
+> The initial management of severe pre-eclampsia and imminent eclampsia is aimed at the prevention of eclampsia and intracerebral haemorrhage.
+
+The steps in the management of severe pre-eclampsia are:
+
+**Step 1**
+
+An intravenous infusion is started (Balsol or Ringer’s lactate) and magnesium sulphate is administered as follows:
+
+1.	Give 4 g slowly intravenously over 10 minutes. Prepare the 4 g by adding 8 ml 50% magnesium sulphate (i.e. 2 ampoules) to 12 ml sterile water.
+2.	Then give 5 g (i.e. 10 ml 50% magnesium sulphate) by deep intramuscular injection into each buttock.
+
+A total of 14 g of magnesium sulphate is, therefore, given.
+
+**Step 2**
+
+After the magnesium sulphate has been administered, a Foley’s catheter is inserted into the patient’s bladder, to monitor the urinary output.
+
+**Step 3**
+
+After giving the magnesium sulphate the blood pressure must be measured again. Magnesium sulphate may cause a slight drop in blood pressure. If the diastolic blood pressure is still 110 mg Hg or more and/or the systolic blood pressure 160 mm Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
+
+1.	Give 10 mg (one capsule) nifedipine orally or 6.25 mg dihydralazine by intramuscular injection.
+2.	The patient’s blood pressure is taken every 5 minutes for the next 30 minutes.
+3.	If the blood pressure drops too much, intravenous Balsol or Ringer’s lactate is administered rapidly, until the blood pressure returns to normal.
+4.	If the blood pressure does not drop, patients who have received 10 mg nifedipine can be given a second dose of 10 mg nifedipine orally if the diastolic blood pressure remains 110 mm Hg or more or a systolic blood pressure of 160 mm Hg or more after 30 minutes. If necessary, 10 mg nifedipine orally can be repeated half hourly up to a maximum dose of 50 mg.
+
+Or
+
+5.	If dihydralazine was used, an ampoule of dihydralazine (25 mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5 mg) are then given slowly intravenously at 20 minute intervals until the diastolic blood pressure drops below 110 mm Hg.
+
+Nifedipine 10 mg capsules must always be given orally in pregnancy and not given sublingually (under the tongue). The 10 mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering the blood pressure.
+
+**Step 4**
+
+When the blood pressure is controlled, the patient is transferred to a level 2 or 3 hospital.
+
+> Patients with severe pre-eclampsia or imminent eclampsia must always be stabilised before they are transferred.
+
+### 3-25 What can be done to ensure maximal safety for the patient during her transfer to hospital?
+
+1.	A doctor or registered nurse/midwife should accompany the patient.
+2.	Resuscitation equipment, together with magnesium sulphate, calcium gluconate and nifedipine or dihydralazine, must be available in the ambulance. Respiration may be depressed if a large dose of magnesium sulphate is given too rapidly. Calcium gluconate is the antidote to be given in the event of an overdose of magnesium sulphate.
+3.	Convulsions must be watched for and the patient’s blood pressure must also be carefully observed.
+4.	If the patient begins to convulse in the ambulance, she must be given a further 2 g of magnesium sulphate intravenously. The dose may, if required, be repeated once. (Make up the solution beforehand and keep it ready in a 20 ml syringe). Further maintenance doses of magnesium sulphate must be given if more than 4 hours pass after the loading dose.
+5.	If the blood pressure again rises to 110 mm Hg or more while the patient is being transported, you should give a second dose of 10 mg nifedipine by mouth or 6.25 mg dihydralazine intramuscularly. Remember that, with every administration of dihydralazine, there is a danger that the patient may become hypotensive. Another side-effect is tachycardia, and if the pulse rate rises to 120 beats per minute or above, further administration of dihydralazine must be stopped.
+
+## The management of eclampsia
+
+### 3-26 What is your immediate management if a patient convulses?
+
+The management of eclampsia is as follows:
+
+**Step 1**
+
+Prevent aspiration of the stomach contents by:
+
+*	Turning the patient immediately on her side.
+*	Keeping the airway open by suctioning (if necessary) and inserting an airway.
+*	Administering oxygen.
+
+**Step 2**
+
+Stop the convulsion and prevent further convulsions by putting up an intravenous infusion of Balsol or Ringer’s lactate and giving magnesium sulphate.
+
+**Step 3**
+
+After the magnesium sulphate has been given, insert a Foley’s catheter to monitor the urinary output.
+
+**Step 4**
+
+If the diastolic blood pressure is 110 mm Hg or more and/or the systolic blood pressure 160 mm Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion.
+
+**Step 5**
+
+The patient must now be urgently transferred to a level 2 or 3 hospital.
+
+> Eclampsia is a life-threatening condition for both the mother and the fetus. Immediate management is, therefore, needed.
+
+### 3-27 What should you do if the patient convulses again?
+
+If the patient convulses again, after the convulsions had initially been controlled by the total loading dose of 14 g of magnesium sulphate, a further 2 g of magnesium sulphate should be administered intravenously. This dose can be repeated once more in the unlikely event of the patient having yet a further convulsion.
+
+## Gestational hypertension
+
+### 3-28 What should you do if a patient develops gestational hypertension?
+
+A patient with a slightly elevated blood pressure (a diastolic blood pressure of 90 to 95 mm Hg), which develops in the second half of pregnancy, in the absence of proteinuria, may be managed in a level 1 hospital or clinic. If the home circumstances are poor, she must be admitted to hospital, for bedrest. Where the home circumstances are good, the patient is allowed bedrest at home, under the following conditions:
+
+1.	The patient must be told about the symptoms of imminent eclampsia. Should any of these occur, she must contact or attend the hospital or clinic immediately.
+2.	The patient must be seen weekly at a high-risk antenatal clinic. In addition, following the initial diagnosis, she must be seen once between visits, to check the blood pressure and test the urine for protein.
+3.	If the patient cannot be seen more frequently, she must be given urinary reagent strips to take home. She must then test her urine daily and go to the clinic, should there be 1+ proteinuria or more.
+4.	No special investigations are indicated.
+5.	Alpha methyldopa (Aldomet) must be prescribed to control the blood pressure. The initial dosage is 500 mg 8 hourly.
+
+Patients with a diastolic blood pressure of 100 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more must be admitted to hospital and alpha methyldopa (Aldomet) must be prescribed. Once the diastolic blood pressure has dropped below 100 mm Hg and the systolic blood pressure to below 160 mm Hg, they are managed as indicated above.
+
+### 3-29 How should you monitor the fetus, in order to ensure fetal wellbeing?
+
+Fetal movements must be counted and recorded twice daily. If available the patient should be referred for a Doppler measurement of the blood flow in the umbilical artery to determine placental function.
+
+### 3-30 When should you deliver a patient with gestational hypertension?
+
+If the blood pressure remains well controlled, no proteinuria develops and the fetal condition remains good, the pregnancy must be allowed to continue until 40 weeks when induction of labour must be done.
+
+## Chronic hypertension
+
+These patients have hypertension in the first half of pregnancy, or are known to have had hypertension before the start of pregnancy. They do not have superimposed pre-eclampsia.
+
+### 3-31 Which patients with chronic hypertension should be referred to a level 2 or 3 hospital?
+
+A good prognosis can be expected if:
+
+1.	Renal function is normal (normal serum creatinine concentration).
+2.	Pre-eclampsia is not superimposed on the chronic hypertension.
+3.	The blood pressure is well controlled (a diastolic blood pressure of 90 mm Hg or less and a systolic blood pressure of 140 mm Hg or less) from early in pregnancy.
+
+Therefore, these women can be managed at a level 1 hospital. However, women with chronic hypertension should be referred to a level 2 or 3 hospital for further management if:
+
+1.	Renal function is abnormal (serum creatinine more than 120 mmol/l).
+2.	Proteinuria develops.
+3.	The diastolic blood pressure is 110 mm Hg or higher more and systolic blood pressure 160 mm Hg or more.
+4.	There is intra-uterine growth restriction.
+5.	More than one drug is required to control the blood pressure.
+
+### 3-32 Will you adjust the medication of a patient with chronic hypertension when she becomes pregnant?
+
+Yes, she must be put onto alpha methyldopa (Aldomet) 500 mg 8 hourly. Other antihypertensives (i.e. diuretics, beta blockers and ACE inhibitors) must be stopped.
+
+### 3-33 What special care is needed for a patient with chronic hypertension during pregnancy?
+
+1.	Any rise in the blood pressure or the development of proteinuria must be carefully looked for, as they indicate an urgent need for referral.
+2.	A Doppler measurement of the blood flow in the umbilical artery to determine placental function should be done.
+3.	Postpartum sterilisation must be discussed with the patient, and is recommended when the patient is a multigravida.
+
+### 3-34 When should you deliver a patient with chronic hypertension?
+
+The management is the same as that for gestational hypertension.
+
+## Case study 1
+
+A 21 year old primigravid patient has attended the antenatal clinic and her pregnancy progresses normally to 33 weeks. At the next visit at 35 weeks, the patient complains that her hands and feet have started to swell over the past week. On examination, you notice that her face is also slightly swollen. Her blood pressure is 120/80, which is the same as at her previous visit, and she has no proteinuria. She reports that her fetus moves frequently.
+
+### 1.	Why is this patient at high risk of developing pre-eclampsia?
+
+Because she is a primigravida and has developed generalised oedema over the past week.
+
+### 2.	How should this patient be managed further?
+
+She should rest a lot. She also should be seen at the antenatal clinic again in a week when she must be carefully examined for a rise in blood pressure or the presence of proteinuria.
+
+### 3.	What advice should this patient be given?
+
+She should be told about the symptoms of imminent eclampsia, i.e. headache, flashes of light before the eyes, and upper abdominal pain. She should also be asked to count and record fetal movements twice a day. If any of the above-mentioned symptoms are experienced, or if fetal movements decrease, she must immediately report to the clinic or hospital.
+
+### 4.	When you see the patient a week later she has a diastolic blood pressure of 90mm Hg, but there is still no proteinuria. How should she be managed further?
+
+The patient has pregnancy-induced hypertension. If the home conditions are satisfactory, she can be managed with bedrest at home. The hypertension must be controlled with alpha methyldopa (Aldomet). She must be seen twice a week, and carefully monitored, to detect a rise in the blood pressure and the possible development of proteinuria. If the blood pressure rises and/or proteinuria develops, she must be referred to hospital for admission. If the home conditions are poor, she should be admitted to hospital for bed rest.
+
+## Case study 2
+
+At an antenatal clinic you see a patient who is 39 weeks pregnant. Up until now she has had a normal pregnancy. On examination, you find that her diastolic blood pressure is 95 mm Hg and that she has 2+ proteinuria.
+
+### 1.	How should this patient be managed?
+
+She should be transferred to hospital as all patients with 2+ proteinuria must be hospitalised.
+
+### 2.	On examining this patient you observe that she has increased patellar reflexes, i.e. brisk knee jerks. How should this observation alter her management?
+
+Increased tendon reflexes are a sign of imminent eclampsia. The diagnosis must be made, irrespective of the degree of hypertension or the amount of proteinuria. To prevent the development of eclampsia, the patient must be given magnesium sulphate.
+
+### 3.	What is the danger to this patient’s health?
+
+The patient has severe pre-eclampsia. Therefore, the immediate danger to her life is the development of eclampsia or an intracerebral haemorrhage.
+
+### 4.	How should this patient be managed?
+
+Her clinical condition must first be stabilised. An intravenous infusion should be started and a loading dose of 14 g magnesium sulphate must be given. This should prevent the development of eclampsia. A Foley’s catheter must be inserted in her bladder.
+
+### 5.	Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
+
+No. Sometimes with severe pre-eclampsia, the diastolic blood pressure will drop to below 110 mm Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, 10 mg (one capsule) oral nifedipine (Adalat) or intramuscular dihydralazine (Nepresol) 6.25 mg should be given.
+
+## Case study 3
+
+While working at a level 1 hospital you admit a patient with a diastolic blood pressure of 120 mm Hg and 3+ proteinuria. She is 32 weeks pregnant. On further questioning and examination she has no symptoms or signs of imminent eclampsia.
+
+### 1.	What is the danger to this patient’s health?
+
+The patient has severe pre-eclampsia. Therefore, the immediate danger to her life is the development of eclampsia or an intracerebral haemorrhage.
+
+### 2.	How should this patient be managed?
+
+Her clinical condition must first be stabilised. An intravenous infusion should be started and a loading dose of 14 g magnesium sulphate must be given. This should prevent the development of eclampsia.
+
+### 3.	Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
+
+No. Sometimes, the diastolic blood pressure will drop to below 110 mm Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, intramuscular dihydralazine (Nepresol) 6.25 mg or 10 mg (one capsule) oral nifedipine (Adalat) should be given.
+
+### 4.	Should you continue to manage this patient at a level 1 hospital?
+
+No. The patient should be transferred to a level 2 or 3 hospital, for further management. Both severe pre-eclampsia and the gestational age (32 weeks) at which the complications developed are reasons for management at least in a level 2 hospital.
+
+## Case study 4
+
+A 37 year old, gravida 4, para 3 patient books for antenatal care. She has chronic hypertension and is managed with a diuretic. By dates and examination she is 14 weeks pregnant.
+
+### 1.	Should the management of the patient’s hypertension be changed during the pregnancy?
+
+Yes. The diuretic should be stopped, as these drugs are not completely safe during pregnancy. Instead, the patient should be treated with alpha methyldopa (Aldomet).
+
+### 2.	What factors indicate a good prognosis for a patient with chronic hypertension during pregnancy?
+
+Normal renal function, no superimposed pre-eclampsia and good control of the blood pressure during pregnancy.
+
+### 3.	How can superimposed pre-eclampsia be diagnosed during pregnancy?
+
+The patient will develop proteinuria and/or a rise in blood pressure during the second half of pregnancy.
+
+### 4.	Why is it important to detect superimposed pre-eclampsia in a patient with chronic hypertension?
+
+Because the risk of complications increases. As a result a preterm delivery may be necessary. The patient should, therefore, be transferred to a level 2 or 3 hospital if superimposed pre-eclampsia develops.
+
+### 5.	What should be seriously recommended during the puerperium in this patient?
+
+A postpartum sterilisation. Postpartum sterilisation should be discussed with the patient during the pregnancy. Postpartum sterilisation is particularly important as the patient is a 37 year old multipara with chronic hypertension.
+
+# Skills workshop 3A: Measuring blood pressure and proteinuria
+
+## Objectives
+
+When you have completed this skills workshop you should be able to:
+
+*	Measure the blood pressure.
+*	Measure the amount of protein in the urine.
+
+## Measuring blood pressure
+
+### A The standardised method of measuring blood pressure
+
+The following are important if you want to measure the blood pressure accurately:
+
+1.	The right upper arm is used.
+2.	The arm must be taken out of the sleeve.
+3.	The patient should lie on her right side with a 30 degree lateral tilt or sit in a chair.
+4.	Take the blood pressure after a 5 minute period of rest.
+5.	The cuff must be applied correctly. If the patient is sitting in a chair, the blood pressure apparatus must be at the same level as her upper arm.
+6.	The systolic blood pressure is taken at Korotkoff phase 1.
+7.	The diastolic blood pressure is taken at Korotkoff phase 5.
+
+> The patient should lie on her right side or sit when her blood prerssure is measured.
+
+### B Use the right arm
+
+The examination couches in most clinics stand with their left side against a wall as it is most convenient for a right-handed person to examine the right side of the patient. The lower arm (i.e. the right arm if she is lying on her right side) should be used, as the upper arm will give false low readings as it is above the level of the heart. The arm must be fully undressed so that the cuff can be correctly applied.
+
+### C The patient must not lie on her back
+
+The patient should lie down on her side or sit. Lying on her back may cause hypotension, giving a falsely low reading. She should also lie slightly turned onto her side. Lying on her back may cause the uterus to press on the inferior vena cava resulting in a decreased return of blood to the heart and a drop in blood pressure. A false low blood pressure may, therefore, be recorded.
+
+### D Allow the patient to rest for 5 minutes before measuring the blood pressure
+
+Anxiety and the effort of climbing onto the couch often increases the blood pressure. This will usually return to a resting value if the patient can lie down and relax for 5 minutes.
+
+### E How to apply the cuff
+
+A standard size cuff (width of 14.5 cm) is usually used. If the arm is very fat, then use a wide cuff (17.5 cm) to get a correct reading. The cuff must be applied firmly around the arm, not allowing more than 1 finger between the cuff and the patient’s arm.
+
+### F Listening to the pulse
+
+The cuff should be pumped up with a finger feeling the brachial or radial pulse. Only when the pulse can no longer be felt, should the stethoscope be put over the brachial pulse and the pressure released slowly.
+
+### G Recognising the Korotkoff phases 1 and 5
+
+The Korotkoff phases are times when the sound of the pulse changes during the measurement of the blood pressure:
+
+Phase 1 is the first sound which you hear after the cuff pressure is released. This indicates the systolic pressure.
+
+Phase 5 is the time when the sound of the pulse disappears. Usually the sound gets softer before it disappears but sometimes it disappears without first becoming softer at the same time. However, in all cases the diastolic blood pressure must be read when the sound of the pulse disappears.
+
+## Measuring proteinuria
+
+### H Measuring the amount of proteinuria
+
+The amount of protein in a sample of urine is simply and easily measured with a plastic, reagent strip.
+
+### I Grading the amount of proteinuria
+
+Using a reagent strip the amount of proteinuria is graded as follows:
+
+	1+ = 0.3 g/l
+	2+ = 1.0 g/l
+	3+ = 3.0 g/l
+	4+ = 10 g/l
+
+Remember that a trace (0.1g/l) of protein is not regarded as significant proteinuria and may occur normally.
+
+## J The use of a reagent strip to measure the amount of proteinuria
+
+1.	Collect a fresh specimen of urine.
+2.	Remove a reagent strip from the bottle and replace the cap.
+3.	Dip the strip into the urine so that all the test areas are completely covered, then immediately remove the strip.
+4.	Wait 60 seconds.
+5.	Hold the strip horizontally and compare with the colour blocks on the side of the bottle. Hold the strip close to the bottle to match the colours but do not rest it on the bottle as the urine will damage the colour chart. The darker the colour of the reagent strip, the greater is the amount of proteinuria.
+
+## K Reagent strips can give a false reading
+
+Reagent strips may incorrectly assess the degree of proteinuria if the urine is very concentrated or very dilute. Do not use the first urine passed in the morning as it may be concentrated and, therefore, give a falsely high reading.
+

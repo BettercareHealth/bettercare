@@ -7,7 +7,7 @@
 
 @page { 
 	size: A5; 
-	margin: 15mm 12mm 20mm 12mm;
+	margin: 15mm 15mm 20mm 15mm;
 	padding: 0;
 	marks: crop;
 }
@@ -29,13 +29,41 @@
 	page-break-before: always;
 }
 .toc a::after { 
-	content: leader(".") target-counter(attr(href), page) 
+	content: leader(" ") target-counter(attr(href), page) 
 }
-.toc ul, ol {
+.toc ul, .toc ol {
 	list-style-type: none;
 }
 
-/* For general output */
+/*
+ * Title page
+ */
+
+.titlepage-title {
+	font-size: 3em;
+	font-weight: 700;
+	font-family: "Source Sans Pro", sans-serif;
+	margin: 20% 0 0 0;
+	line-height: 100%;
+}
+.titlepage-subtitle {
+	font-size: 3em;
+	font-weight: 400;
+	font-family: "Source Sans Pro", sans-serif;
+	margin: 0 0 1em 0;
+	line-height: 100%;
+}
+.titlepage-author {
+	font-size: 1.5em;
+	margin: 0 0 2em 0;
+}
+.titlepage-logo {
+	width: 200px;
+}
+
+/* 
+ * Generic output 
+ */
 
 body {
 	font-family: "PT Serif", serif;
@@ -62,28 +90,14 @@ h2 {
 	padding-top: 0.5em;
 }
 h3 {
+	font-size: 1.5em;
 	margin-bottom: 0.5em;
 }
-.titlepage-title {
-	font-size: 3em;
-	font-weight: 700;
-	font-family: "Source Sans Pro", sans-serif;
-	margin: 20% 0 0 0;
-	line-height: 100%;
+p {
+	margin: 0 0 0.5em 0;
 }
-.titlepage-subtitle {
-	font-size: 3em;
-	font-weight: 400;
-	font-family: "Source Sans Pro", sans-serif;
-	margin: 0 0 1em 0;
-	line-height: 100%;
-}
-.titlepage-author {
-	font-size: 1.5em;
-	margin: 0 0 2em 0;
-}
-.titlepage-logo {
-	width: 200px;
+ul, ol {
+	margin: 0 0 0.5em 0;
 }
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
@@ -124,9 +138,14 @@ pre, code {
 	white-space: pre-wrap;
 }
 figure {
-	margin: 0;
+	margin: 1em 0;
 	padding: 0;
+	page-break-inside: avoid;
 }
 figcaption {
 	font-style: italic;
+}
+a {
+	text-decoration: none;
+	color: inherit;
 }
