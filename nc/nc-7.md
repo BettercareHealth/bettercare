@@ -1,6 +1,6 @@
 ---
 title: 7. Temperature control and hypothermia
-layout: default
+layout: chapter
 ---
 
 # Temperature control and hypothermia

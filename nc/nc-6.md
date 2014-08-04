@@ -1,6 +1,6 @@
 ---
 title: 6. Feeding sick or high-risk infants
-layout: default
+layout: chapter
 ---
 
 # Feeding sick or high-risk infants

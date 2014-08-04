@@ -1,6 +1,6 @@
 ---
 title: 8. Glucose control and hypoglycaemia
-layout: default
+layout: chapter
 ---
 
 # Glucose control and hypoglycaemia
@@ -509,12 +509,12 @@ The method of inserting a catheter into the umbilical vein can be practised on t
 Do not insert an umbilical vein catheter if it is possible to put up a peripheral vein infusion (drip) as this is less dangerous.
 
 
-[fig-8-1]: {{ site.baseurl }}/images/nc-fig-8-1.svg "Figure 8-1: The acute management of an infant with hypoglycaemia"
-[fig-8-A]: {{ site.baseurl }}/images/nc-fig-8-A.svg "Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood"
-[fig-8-B]: {{ site.baseurl }}/images/nc-fig-8-B.svg "Figure 8-B: Loosely tie a tape around the base of the umbilical cord"
-[fig-8-C]: {{ site.baseurl }}/images/nc-fig-8-C.svg "Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut"
-[fig-8-D]: {{ site.baseurl }}/images/nc-fig-8-D.svg "Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries"
-[fig-8-E]: {{ site.baseurl }}/images/nc-fig-8-E.svg "Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord"
-[fig-8-F]: {{ site.baseurl }}/images/nc-fig-8-F.svg "Figure 8-F: Two lengths of strapping are folded as illustrated"
-[fig-8-G]: {{ site.baseurl }}/images/nc-fig-8-G.svg "Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord"
-[fig-8-H]: {{ site.baseurl }}/images/nc-fig-8-H.svg "Figure 8-H: A piece of strapping is used to fix the catheter in place"
+[fig-8-1]: ../images/nc-fig-8-1.svg "Figure 8-1: The acute management of an infant with hypoglycaemia"
+[fig-8-A]: ../images/nc-fig-8-A.svg "Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood"
+[fig-8-B]: ../images/nc-fig-8-B.svg "Figure 8-B: Loosely tie a tape around the base of the umbilical cord"
+[fig-8-C]: ../images/nc-fig-8-C.svg "Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut"
+[fig-8-D]: ../images/nc-fig-8-D.svg "Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries"
+[fig-8-E]: ../images/nc-fig-8-E.svg "Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord"
+[fig-8-F]: ../images/nc-fig-8-F.svg "Figure 8-F: Two lengths of strapping are folded as illustrated"
+[fig-8-G]: ../images/nc-fig-8-G.svg "Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord"
+[fig-8-H]: ../images/nc-fig-8-H.svg "Figure 8-H: A piece of strapping is used to fix the catheter in place"

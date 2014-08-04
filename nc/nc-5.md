@@ -1,6 +1,6 @@
 ---
 title: 5. Care of high-risk and sick infants
-layout: default
+layout: chapter
 ---
 
 # Care of high-risk and sick infants
@@ -806,5 +806,5 @@ See Figure 5-B, an example of an intake and output chart.
 
 ![Figure 5-B: An example of an intake and output chart][fig-5-B]
 
-[fig-5-A]: {{ site.baseurl }}/images/nc-fig-5-A.svg "Figure 5-A: An example of a chart used for the routine observations of sick infants"
-[fig-5-B]: {{ site.baseurl }}/images/nc-fig-5-A.svg "Figure 5-B: an example of an intake and output chart"
+[fig-5-A]: ../images/nc-fig-5-A.svg "Figure 5-A: An example of a chart used for the routine observations of sick infants"
+[fig-5-B]: ../images/nc-fig-5-A.svg "Figure 5-B: an example of an intake and output chart"

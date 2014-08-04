@@ -1,6 +1,6 @@
 ---
 title: 4. Feeding normal infants
-layout: default
+layout: chapter
 ---
 
 # Feeding normal infants

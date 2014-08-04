@@ -1,6 +1,6 @@
 ---
 title: 3. The routine care of normal infants
-layout: default
+layout: chapter
 ---
 
 # The routine care of normal infants
@@ -683,5 +683,5 @@ Details of the information recorded on the preschool health card vary slightly f
 
 *Figure 3-B: The front and back of a road-to-health card*
 
-[fig-3-A]: {{ site.baseurl }}/images/nc-fig-3-A.svg "Figure 3-A: Form for recording the results of a physical examination"
-[fig-3-B]: {{ site.baseurl }}/images/nc-fig-3-B.svg "Figure 3-B: The front and back of a road-to-health card"
+[fig-3-A]: ../images/nc-fig-3-A.svg "Figure 3-A: Form for recording the results of a physical examination"
+[fig-3-B]: ../images/nc-fig-3-B.svg "Figure 3-B: The front and back of a road-to-health card"

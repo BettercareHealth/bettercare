@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-layout: default
+layout: frontmatter
 ---
 
 # Acknowledgements

@@ -1,9 +1,6 @@
 ---
-
 title: Introduction
-
-layout: default
-
+layout: chapter
 ---
 
 # Introduction

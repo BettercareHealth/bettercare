@@ -1,6 +1,6 @@
 ---
 title: 9. Jaundice, anaemia and polycythaemia
-layout: default
+layout: chapter
 ---
 
 # Jaundice, anaemia and polycythaemia
@@ -659,5 +659,5 @@ Some overhead radiant heaters (intensive care cribs) have white halogen spot lig
 9. The infant is often turned onto the abdomen or back after each feed. However, this has not been shown to increase the effectiveness of phototherapy.
 10. Make sure that the mother can visit or stay with her infant during phototherapy.
 
-[fig-9-1]: {{ site.baseurl }}/images/nc-fig-9-1.svg "Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line."
-[fig-9-2]: {{ site.baseurl }}/images/nc-fig-9-2.svg "Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight."
+[fig-9-1]: ../images/nc-fig-9-1.svg "Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line."
+[fig-9-2]: ../images/nc-fig-9-2.svg "Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight."

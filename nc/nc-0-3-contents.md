@@ -1,6 +1,6 @@
 ---
 title: Contents
-layout: default
+layout: frontmatter
 ---
 
 # Contents

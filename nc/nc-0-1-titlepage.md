@@ -1,6 +1,6 @@
 ---
 title: Title page
-layout: default
+layout: frontmatter
 ---
 
 Newborn Care
@@ -14,4 +14,4 @@ Developed by the Perinatal Education Programme
 
 ![Bettercare logo][logo]{:.titlepage-logo}
 
-[logo]: {{ site.baseurl }}/images/bettercare-logo.svg "Bettercare logo"
+[logo]: ../images/bettercare-logo.svg "Bettercare logo"

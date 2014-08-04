@@ -1,6 +1,6 @@
 ---
 title: 2. Assessing gestational age and size at birth
-layout: default
+layout: chapter
 ---
 
 # Assessing gestational age and size at birth
@@ -634,7 +634,7 @@ Head circumference for gestational age chart – *Pediatr Res* 1978; 12: 987.
 
 *Figure 2-C: Head circumference for gestational age chart*
 
-[fig-2-1]: {{ site.baseurl }}/images/nc-fig-2-1.svg "Figure 2.1: Weight for gestational age chart."
-[fig-2-A]: {{ site.baseurl }}/images/nc-fig-2-A.svg "Figure 2.A: The Ballard scoring method"
-[fig-2-B]: {{ site.baseurl }}/images/nc-fig-2-B.svg "Figure 2.B: Weight for gestational age chart"
-[fig-2-C]: {{ site.baseurl }}/images/nc-fig-2-C.svg "Figure 2.C: Head circumference for gestational age chart"
+[fig-2-1]: ../images/nc-fig-2-1.svg "Figure 2.1: Weight for gestational age chart."
+[fig-2-A]: ../images/nc-fig-2-A.svg "Figure 2.A: The Ballard scoring method"
+[fig-2-B]: ../images/nc-fig-2-B.svg "Figure 2.B: Weight for gestational age chart"
+[fig-2-C]: ../images/nc-fig-2-C.svg "Figure 2.C: Head circumference for gestational age chart"
