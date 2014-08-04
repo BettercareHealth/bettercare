@@ -7,7 +7,7 @@
 
 @page { 
 	size: A5; 
-	margin: 15mm 10mm 5mm 10mm;
+	margin: 15mm 12mm 20mm 12mm;
 	padding: 0;
 }
 .frontmatter {
@@ -22,8 +22,10 @@
 		font-family: "Source Sans Pro", sans-serif;
 		text-align: center;
 		font-size: 0.8em;
-		margin-bottom: 10m;
 	}
+}
+.chapter, .frontmatter { 
+	page-break-before: always;
 }
 
 /* For general output */
@@ -35,10 +37,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-#wrapper{
-/*	width: 128mm;*/
-/*	margin: auto;*/
-}
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 600;
@@ -46,7 +44,10 @@ h1, h2, h3, h4, h5, h6 {
 	page-break-after: avoid;
 }
 h1 {
-	page-break-before: always;
+	font-weight: 300;
+	font-size: 3.5em;
+	max-width: 80%;
+	line-height: 90%;
 }
 h2 {
 	margin: 1.5em 0 0.5em 0;
@@ -84,11 +85,11 @@ blockquote {
 	color: white;
 	padding: 0.5em 0.8em;
 	border-radius: 0.25em;
-	margin: 0.5em 0;
+	margin: 1em 0;
 }
 blockquote p {
-	-webkit-margin-before: 0; /* Override default indentation in Webkit */
-	-webkit-margin-after: 0; /* Override default indentation in Webkit */
+	margin: 0;
+	padding: 0;
 }
 dl {
 	font-family: "Source Sans Pro", sans-serif;
