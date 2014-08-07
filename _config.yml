@@ -7,5 +7,5 @@ baseurl: /bettercare
 paginate: 10
 
 markdown: kramdown
-permalink: pretty
+permalink: none
 highlighter: pygments
