@@ -1,6 +1,6 @@
 ---
 title: 3. Hypertensive disorders of pregnancy
-layout: chapter
+layout: default
 ---
 
 # Hypertensive disorders of pregnancy

@@ -1,0 +1,169 @@
+---
+title: Answers
+layout: chapter
+---
+
+# Answers
+
+The sections indicate from which part of the unit the questions were taken. For each question that was answered incorrectly, please re-learn the corresponding section.
+
+## Test 1: Antenatal care
+Question	Correct answer	Section
+1.	c	1-3
+2.	b	1-6
+3.	d	1-8
+4.	c	1-8
+5.	a	1-9
+6.	b	1-10
+7.	c	1-22
+8.	c	1-24
+9.	d	1-24
+10.	a	1-24
+11.	a	1-25
+12.	b	1-27
+13.	b	1-30
+14.	d	1-30
+15.	c	1-36
+16.	c	1-36
+17.	b	1-38
+18.	b	1-41
+19.	d	1-46
+20.	c	1-51
+
+## Test 2: Assessment of fetal growth and condition during pregnancy
+Question	Correct answer	Section
+1.	b	2-2
+2.	d	2-5
+3.	b	2-5
+4.	b	2-7
+5.	c	2-8
+6.	b	2-9
+7.	c	2-10
+8.	a	2-11
+9.	d	2-12
+10.	d	2-13
+11.	b	2-14
+12.	d	2-17
+13.	c	2-18
+14.	c	2-18
+15.	a	2-20
+16.	a	2-21
+17.	b	2-21
+18.	d	2-23
+19.	b	2-24
+20.	c	2-25
+
+## Test 3: Hypertensive disorders of pregnancy
+Question	Correct answer	Section
+1.	b	3-2
+2.	b	3-3
+3.	c	3-4
+4.	a	3-6
+5.	c	3-9
+6.	d	3-14
+7.	a	3-14
+8.	a	3-15
+9.	b	3-15
+10.	c	3-16
+11.	a	3-18
+12.	b	3-18
+13.	c	3-22
+14.	d	3-23
+15.	d	3-24
+16.	b	3-24
+17.	c	3-26
+18.	a	3-26
+19.	c	3-28
+20.	b	3-33
+
+## Test 4: Antepartum haemorrhage
+Question	Correct answer	Section
+1.	c	4-1
+2.	d	4-2
+3.	a	4-5
+4.	d	4-6
+5.	a	4-8
+6.	c	4-8
+7.	a	4-9
+8.	d	4-12
+9.	a	4-14
+10.	a	4-16
+11.	b	4-16
+12.	b	4-18
+13.	a	4-19
+14.	c	4-20
+15.	b	4-21
+16.	a	4-24
+17.	c	4-28
+18.	b	4-29
+19.	a	4-30
+20.	d	4-31
+
+## Test 5: Preterm labour and preterm rupture of the membranes
+Question	Correct answer	Section
+1.	c	5-1
+2.	c	5-2
+3.	d	5-5
+4.	b	5-7
+5.	c	5-7
+6.	a	5-8
+7.	c	5-8
+8.	c	5-10
+9.	a	5-11
+10.	c	5-12
+11.	d	5-14
+12.	a	5-16
+13.	c	5-17
+14.	b	5-18
+15.	c	5-20
+16.	a	5-21
+17.	a	5-23
+18.	b	5-23
+19.	d	5-27
+20.	d	5-29
+
+## Test 6: The puerperium and family planning
+Question	Correct answer	Section
+1.	d	6-4
+2.	b	6-4
+3.	d	6-4
+4.	c	6-6
+5.	c	6-21
+6.	a	6-25
+7.	d	6-28
+8.	c	6-33
+9.	b	6-35
+10.	a	6-42
+11.	b	6-43
+12.	a	6-47
+13.	c	6-49
+14.	a	6-50
+15.	d	6-52
+16.	d	6-52
+17.	d	6-52
+18.	b	6-53
+19.	d	6-54
+20.	c	6-56
+
+## Test 7: Medical problems during pregnancy and the puerperium
+Question	Correct answer	Section
+1.	c	7-3
+2.	b	7-4
+3.	a	7-5
+4.	d	7-6
+5.	d	7-7
+6.	c	7-10
+7.	d	7-12
+8.	b	7-15
+9.	a	7-17
+10.	c	7-18
+11.	b	7-18
+12.	d	7-18
+13.	d	7-19
+14.	b	7-22
+15.	b	7-25
+16.	b	7-28
+17.	b	7-28
+18.	b	7-30
+19.	c	7-33
+20.	b	7-34

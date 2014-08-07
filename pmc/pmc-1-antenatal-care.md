@@ -1,6 +1,6 @@
 ---
 title: 1. Antenatal care
-layout: chapter
+layout: default
 ---
 
 # Antenatal care
@@ -288,12 +288,12 @@ From 18 weeks gestation, the symphysis-fundus (S-F) height measurement in cm is 
 
 ### 1-29 What special investigations should be done routinely?
 
-1.	A serological screening test for syphilis. An RPR card test or syphilis rapid test can be performed in the clinic, if a laboratory is not within easy reach of the hospital or clinic.
+1.	A laboratory serological screening test for syphilis such as a VDRL, RPR or TPHA test. An on-site RPR card test or syphilis rapid test can be performed in the clinic, if a laboratory is not within easy reach of the hospital or clinic.
 2.	Determining whether the patient’s blood group is Rh positive or negative. A Rh card test can be done in the clinic.
 3.	A rapid HIV screening test after health worker initiated counselling and preferably after written consent.
 4.	A smear of the cervix for cytology if it is indicated.
 5.	If possible, all patients should have a midstream urine specimen examined for asymptomatic bacteriuria. The best test is bacterial culture of the urine.
-6.	Where possible, an ultrasound examination when the patient is 18–22 weeks pregnant can be arranged.
+6.	Where possible, an ultrasound examination when the patient is 18–22 weeks pregnant can be arranged
 
 Note
 :	Ultrasound screening at 11 to 13 weeks for nuchal thickness, or the triple test, is very useful in screening for Down syndrome and other chromosomal abnormalities. Written informed consent for HIV testing is not a legal requirement in South Africa, but recommended as good practice.
@@ -349,28 +349,30 @@ If the results of the screening tests were not available by the end of the first
 
 ## Assessing the results of the special screening investigations
 
-### 1-36 How should you interpret the results of the screening tests for syphilis?
+### 1-36 How should you interpret the results of the VDRL or RPR screening tests for syphilis?
 
 The correct interpretation of the results is of the greatest importance:
 
-1.	If  the VDRL (Venereal Disease Research Laboratory) or RPR (Rapid Plasmin Reagin) or syphilis rapid test is negative, then the patient does not have syphilis and no further tests for syphilis are needed.
+1.	If  either the VDRL (Venereal Disease Research Laboratory),or RPR (Rapid Plasmin Reagin )testis  negative, then the patient does not have syphilis and no further tests for syphilis are needed.
 2.	If the VDRL or RPR titre is 1:16 or higher, the patient has syphilis and must be treated.
-3.	If theVDRL or RPR titre is 1:8 or lower (or the titre is not known), the laboratory should test the same blood sample by means of the TPHA (Treponema Pallidum Haemagglutin Assay) or FTA (Fluorescent Treponemal Antibody) test:
-	*	If the TPHA (or FTA or syphilis rapid test) is also positive, the patient has syphilis and must be fully treated.
-	*	If the TPHA (or FTA or syphilis rapid test) is negative, then the patient does not have syphilis and, therefore, need not be treated.
-	*	If a TPHA (or FTA or syphilis rapid test) cannot be done, and the patient has not been fully treated for syphilis in the past 3 months, she must be given a full course of treatment.
-4.	A positive syphilis rapid test indicates that a person has antibodies against the spirochaetes which cause syphilis. This means that the person either has active (untreated) syphilis or was infected in the past and no longer has the disease.
+3.	If the VDRL or RPR titre is 1:8 or lower (or the titre is not known), the laboratory should test the same blood sample by means of the TPHA (Treponema Pallidum Haemagglutin Assay) or FTA (Fluorescent Treponemal Antibody) test:
+	*	If the TPHA or FTA  is also positive, the patient has syphilis and must be fully treated.
+	*	If the TPHA or FTA  is negative, then the patient does not have syphilis and, therefore, need not be treated.
+	*	If a TPHA or FTA test cannot be done, and the patient has not been fully treated for syphilis in the past 3 months, she must be given a full course of treatment.
+A  syphilis rapid test can be done instead of a TPHA or FTA test.
 
 > A VDRL or RPR titre of less than 1 in 16 may be caused by syphilis.
 
 Note
-:	The VDRL, RPR or rapid syphilis test may still be negative during the first few weeks after infection with syphilis as the patient has not yet had enough time to form antibodies.
+:	The VDRL, RPR or rapid syphilis test may still be negative during the first few weeks after infection with syphilis as the patient has not yet had enough time to form antibodies. The VDRL and RPR tests detect regain antibodies which indicate present syphilis infection while the TPHA, FTA and syphilis rapid tests detect spirichaetal antibodies which indicate syphilis at ant time in that person’s life.
 
-### 1-37 How should the results of the RPR card test be interpreted?
+### 1-37 How should the results of the on-site RPR card test and syphilis rapid test be interpreted?
 
-1.	If the test is negative the patient does not have syphilis.
-2.	If the test is strongly positive the patient most likely has syphilis and treatment should be started. However, a blood specimen must be sent to the laboratory to confirm the diagnosis, and the patient must be seen again 1 week later. Further treatment will depend on the result of the laboratory test. It is important to explain to the patient that the result of the card test needs to be checked with a laboratory test.
-3.	If the test is weakly positive a blood specimen must be sent to the laboratory and the patient seen 1 week later. Any treatment will depend on the result of the laboratory test.
+If either test is negative the patient does not have syphilis.
+
+1.	If the RPR card test is strongly positive the patient most likely has syphilis and treatment should be started. However, a blood specimen must be sent to the laboratory to confirm the diagnosis, and the patient must be seen again 1 week later. Further treatment will depend on the result of the laboratory test. It is important to explain to the patient that the result of the card test needs to be checked with a laboratory test.
+If the test is weakly positive a blood specimen must still be sent to the laboratory and the patient seen 1 week later. Any treatment will depend on the result of the laboratory test.
+2.	If the syphilis rapid test is positive the person either has active (untreated) syphilis or was infected in the past and no longer has active disease. The diagnosis of active syphilis must be confirmed or rejected by a VDRL or RPR test.  It is advisable that treatment for syphilis be started immediately while waiting for the result of the RPR or VDRL test.  A TPHA can be used as a screening test in the same way as the syphilis rapid test.
 
 ### 1-38 What is the treatment of syphilis in pregnancy?
 
