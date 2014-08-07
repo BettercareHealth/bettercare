@@ -315,9 +315,10 @@ Give 5 mg hydrocortisone intravenously.
 
 The maternal diabetes should have been well controlled. As this infant is at very high risk of hypoglycaemia due to the poor diabetic control and high birth weight, milk feeds should have been given straight away and a 10% dextrose or Neonatalyte infusion started. Once feeds are tolerated and the reagent strip readings are normal, the infusion can gradually be slowed.
 
-![Figure 8-1: The acute management of an infant with hypoglycaemia][fig-8-1]
-
-*Figure 8-1: The acute management of an infant with hypoglycaemia.*
+<figure>
+	<img src="images/nc-fig-8-1.svg" alt="Figure 8-1: The acute management of an infant with hypoglycaemia">	
+	<figcaption>Figure 8-1: The acute management of an infant with hypoglycaemia</figcaption>
+</figure>
 
 # Skills workshop: Glucose control and hypoglycaemia
 
@@ -353,9 +354,10 @@ Note
 
 While capillary blood is usually used, a sample of venous or arterial blood is also suitable. 
 
-![Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood][fig-8-A]
-
-*Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood.*
+<figure>
+	<img src="images/nc-fig-8-A.svg" alt="Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood">	
+	<figcaption>Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood</figcaption>
+</figure>
 
 Capillary blood is usually obtained from the infant’s heel:
 
@@ -451,46 +453,53 @@ These items should be packed and ready in a surgical tray. Remember that inserti
 6. Place a sterile towel around the umbilicus.
 7. Loosely tie a sterile tape around the base of the umbilical cord. This is done so that the tape can be quickly tied if the cut umbilical vessels start to bleed.
 
-	![Figure 8-B: Loosely tie a tape around the base of the umbilical cord][fig-8-B]
-
-	*Figure 8-B: Loosely tie a tape around the base of the umbilical cord.*
+	<figure>
+		<img src="images/nc-fig-8-B.svg" alt="Figure 8-B: Loosely tie a tape around the base of the umbilical cord">	
+		<figcaption>Figure 8-B: Loosely tie a tape around the base of the umbilical cord</figcaption>
+	</figure>
 	
 8. Grasp the base of the cord between the thumb and index finger of one hand. Do not release the pressure on the base of the cord until the catheter has been inserted and the tape around the base of the cord has been firmly tied. This is very important to prevent bleeding from the cord vessels.
 
-	![Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut][fig-8-C]
-
-	*Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut.*
+	<figure>
+		<img src="images/nc-fig-8-C.svg" alt="Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut.">	
+		<figcaption>Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut.</figcaption>
+	</figure>
 	
 9. While squeezing the base of the cord, ask the assistant to hold up the cord away from the infant’s abdominal wall. Now cut the cord off about 2 cm from the skin. Immediately after cutting the umbilical cord, the scalpel blade must be dropped into a special container for ‘sharps’.
 10. On the cut end of the cord you will now see the one umbilical vein and two umbilical arteries. The umbilical vein is thin walled and situated towards the infant’s head (at 12 o’clock) while the umbilical arteries have thick walls and are situated towards the infant’s feet (at 4 and 8 o’clock).
 
-	![Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries][fig-8-D]
-
-	*Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries.*
+	<figure>
+		<img src="images/nc-fig-8-D.svg" alt="Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries.">	
+		<figcaption>Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries.</figcaption>
+	</figure>
 
 11. Insert the tip of the saline-filled catheter into the umbilical vein. Only gentle pressure is needed to introduce the catheter. Feed about 10 cm of the catheter into the vein, when you should be able to aspirate blood.
 12. Tighten the knot of the tape around the umbilical cord to prevent bleeding from the arteries. Only now should you release your grip on the base of the umbilical cord.
 
-	![Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord][fig-8-E]
-
-	*Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord.*
+	<figure>
+		<img src="images/nc-fig-8-E.svg" alt="Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord.">	
+		<figcaption>Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord.</figcaption>
+	</figure>
 
 13. Spray the area of skin around the umbilicus with acrylic spray (plastic skin) and allow to dry.
 14. Cut 2 lengths of strapping about 15 cm each. Fold them as shown in Figure 8.F and attach to the prepared skin on either side of the umbilical cord to form the ‘uprights’ of a ‘soccer goal post’.
 
-	![Figure 8-F: Two lengths of strapping are folded as illustrated][fig-8-F]
+	<figure>
+		<img src="images/nc-fig-8-F.svg" alt="Figure 8-F: Two lengths of strapping are folded as illustrated.">	
+		<figcaption>Figure 8-F: Two lengths of strapping are folded as illustrated.</figcaption>
+	</figure>
 
-	*Figure 8-F: Two lengths of strapping are folded as illustrated.*
-	
-	![Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord][fig-8-G]
-
-	*Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord.*
+	<figure>
+		<img src="images/nc-fig-8-G.svg" alt="Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord.">	
+		<figcaption>Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord.</figcaption>
+	</figure>
 	
 15. Use a piece of strapping to fix the catheter to the ‘uprights’ as shown.
 
-	![Figure 8-H: A piece of strapping is used to fix the catheter in place][fig-8-H]
-
-	*Figure 8-H: A piece of strapping is used to fix the catheter in place.*
+	<figure>
+		<img src="images/nc-fig-8-H.svg" alt="Figure 8-H: A piece of strapping is used to fix the catheter in place.">	
+		<figcaption>Figure 8-H: A piece of strapping is used to fix the catheter in place.</figcaption>
+	</figure>
 	
 16. The catheter is now ready to be used and can be attached to a syringe, intravenous giving set or to a 3 way tap.
 
@@ -507,14 +516,3 @@ The method of inserting a catheter into the umbilical vein can be practised on t
 7. The catheter may be inserted into an umbilical artery by mistake.
 
 Do not insert an umbilical vein catheter if it is possible to put up a peripheral vein infusion (drip) as this is less dangerous.
-
-
-[fig-8-1]: ../images/nc-fig-8-1.svg "Figure 8-1: The acute management of an infant with hypoglycaemia"
-[fig-8-A]: ../images/nc-fig-8-A.svg "Figure 8-A: The areas of the heel (shaded) that are usually used to obtain capillary blood"
-[fig-8-B]: ../images/nc-fig-8-B.svg "Figure 8-B: Loosely tie a tape around the base of the umbilical cord"
-[fig-8-C]: ../images/nc-fig-8-C.svg "Figure 8-C: Squeeze the base of the umbilical cord to prevent any possible bleeding from the umbilical vessels when they are cut"
-[fig-8-D]: ../images/nc-fig-8-D.svg "Figure 8-D: The cut surface of the umbilical cord has one thin-walled vein and two thick walled arteries"
-[fig-8-E]: ../images/nc-fig-8-E.svg "Figure 8-E: The catheter has been inserted into the umbilical vein and the tape has been tied tightly around the base of the umbilical cord"
-[fig-8-F]: ../images/nc-fig-8-F.svg "Figure 8-F: Two lengths of strapping are folded as illustrated"
-[fig-8-G]: ../images/nc-fig-8-G.svg "Figure 8-G: The pieces of strapping are stuck to the prepared skin on either side of the umbilical cord"
-[fig-8-H]: ../images/nc-fig-8-H.svg "Figure 8-H: A piece of strapping is used to fix the catheter in place"

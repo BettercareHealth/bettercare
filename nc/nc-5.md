@@ -774,7 +774,10 @@ Different observation charts are used in different hospitals. However, they all 
 
 *See Figure 5-A, an example of a chart used for the routine observations of sick infants.*
 
-![Figure 5-A, an example of a chart used for the routine observations of sick infants][fig-5-A]
+<figure>
+	<img src="images/nc-fig-5-A.svg" alt="Figure 5-A, an example of a chart used for the routine observations of sick infants">	
+	<figcaption>Figure 5-A, an example of a chart used for the routine observations of sick infants</figcaption>
+</figure>
 
 ## Recording fluid intake and output
 
@@ -804,7 +807,7 @@ Each type of fluid loss is recorded separately and then added up at the end of t
 
 See Figure 5-B, an example of an intake and output chart.
 
-![Figure 5-B: An example of an intake and output chart][fig-5-B]
-
-[fig-5-A]: ../images/nc-fig-5-A.svg "Figure 5-A: An example of a chart used for the routine observations of sick infants"
-[fig-5-B]: ../images/nc-fig-5-A.svg "Figure 5-B: an example of an intake and output chart"
+<figure>
+	<img src="images/nc-fig-5-B.svg" alt="Figure 5-B: An example of an intake and output chart">	
+	<figcaption>Figure 5-B: An example of an intake and output chart</figcaption>
+</figure>

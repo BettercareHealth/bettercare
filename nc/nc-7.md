@@ -347,7 +347,7 @@ The neutral thermal environment decreases as the infant’s body weight, gestati
 
 ### 7-f Using an incubator temperature chart
 
-Usually the infant’s birth weight and age after delivery is used to determine the recommended incubator temperature. If you look at Figure 7-A you will notice that the incubator temperature is lower for heavier infants. The recommended incubator temperature also falls as the infant becomes older. In practice, once the infant is stable, the incubator temperature can be changed manually to keep the infant’s temperature within the normal range if a servocontrolled incubator is not used.
+Usually the infant’s birth weight and age after delivery is used to determine the recommended incubator temperature. If you look at Table 7-A you will notice that the incubator temperature is lower for heavier infants. The recommended incubator temperature also falls as the infant becomes older. In practice, once the infant is stable, the incubator temperature can be changed manually to keep the infant’s temperature within the normal range if a servocontrolled incubator is not used.
 
 *Table 7-A: The recommended environmental temperatures (for warm rooms or closed incubators) for naked infants on the day of birth.*
 

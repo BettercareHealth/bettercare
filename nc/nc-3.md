@@ -509,9 +509,10 @@ When the history has been taken and the physical examination completed, an overa
 
 See Figure 3-A, a form used to record the results of the physical examination. It can also be used as a guideline for a basic general examination.
 
-![Figure 3-A: Form for recording the results of a physical examination][fig-3-A]
-
-*Figure 3-A: A form for recording the results of a physical examination*
+<figure>
+	<img src="images/nc-fig-3-A.svg" alt="Figure 3-A: Form for recording the results of a physical examination">	
+	<figcaption>Figure 3-A: Form for recording the results of a physical examination</figcaption>
+</figure>
 
 ### 3-h Guidelines for a detailed examination
 
@@ -679,9 +680,7 @@ After delivery the clinic or hospital staff must enter the perinatal details ont
 
 Details of the information recorded on the preschool health card vary slightly from one region to another. Sometimes additional information is also recorded after delivery.
 
-![Figure 3-B: The front and back of a road-to-health card][fig-3-B]
-
-*Figure 3-B: The front and back of a road-to-health card*
-
-[fig-3-A]: ../images/nc-fig-3-A.svg "Figure 3-A: Form for recording the results of a physical examination"
-[fig-3-B]: ../images/nc-fig-3-B.svg "Figure 3-B: The front and back of a road-to-health card"
+<figure>
+	<img src="images/nc-fig-3-B.svg" alt="Figure 3-B: The front and back of a road-to-health card">	
+	<figcaption>Figure 3-B: The front and back of a road-to-health card</figcaption>
+</figure>

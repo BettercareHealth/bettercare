@@ -294,13 +294,15 @@ With phototherapy it is possible to avoid almost all exchange transfusions.
 
 *Prophylactic phototherapy* is given when the TSB is still below the phototherapy line but either the TSB is expected to increase rapidly or the infant is at an increased risk of bilirubin encephalopathy. Therefore, prophylactic phototherapy is started immediately after birth if haemolytic disease of the newborn is suspected or diagnosed. Prophylactic phototherapy in preterm infants is usually started when the TSB reaches 125 µmol/l in infants weighing less than 1250 g, at 150 µmol/l in infants less than 1500 g, and at 200 µmol/l in infants weighing less than 2000 g.
 
-![Figure 9-1][fig-9-1]
+<figure>
+	<img src="images/nc-fig-9-1.svg" alt="Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line.">	
+	<figcaption>Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line.</figcaption>
+</figure>
 
-*Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line.*
-
-![Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.][fig-9-2]
-
-*Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.*
+<figure>
+	<img src="images/nc-fig-9-2.svg" alt="Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.">	
+	<figcaption>Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.</figcaption>
+</figure>
 
 ### 9-26 How do you give phototherapy?
 
@@ -658,6 +660,3 @@ Some overhead radiant heaters (intensive care cribs) have white halogen spot lig
 8. The infant should be weighed every 12 hours. Weight loss is the best clinical guide to dehydration.
 9. The infant is often turned onto the abdomen or back after each feed. However, this has not been shown to increase the effectiveness of phototherapy.
 10. Make sure that the mother can visit or stay with her infant during phototherapy.
-
-[fig-9-1]: ../images/nc-fig-9-1.svg "Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line."
-[fig-9-2]: ../images/nc-fig-9-2.svg "Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight."

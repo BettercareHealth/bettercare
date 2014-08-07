@@ -504,9 +504,10 @@ Only if the heart rate remained below 60 per minute after 60 seconds of effectiv
 
 See Figure 1-1, the important steps in basic newborn resuscitation.
 
-![The important steps in basic newborn resuscitation][fig-1-1]
-
-*Figure 1-1: The important steps in basic newborn resuscitation*
+<figure>
+	<img src="images/nc-fig-1-1.svg" alt="Figure 1-1: The important steps in basic newborn resuscitation.">	
+	<figcaption>Figure 1-1: The important steps in basic newborn resuscitation.</figcaption>
+</figure>
 
 # Skills workshop: Neonatal resuscitation
 
@@ -554,7 +555,7 @@ The individual scores of the 5 criteria are now added up to give the Apgar score
 The individual scores and total Apgar score are recorded at 1 minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
 
 <figure>
-	<img src="../images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
+	<img src="images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
 	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
 </figure>
 
@@ -567,7 +568,7 @@ The infant must lie supine (back down) on a firm, flat horizontal surface. A res
 If you pretend that you are offered a flower to smell, you would hold the flower in front of your nose, push your head slightly forward and slightly extend your neck. This is the position that you want the infant’s head and neck to be in as it keeps the upper airways open (and makes the vocal cords easier to see with a laryngoscope).
 
 <figure>
-	<img src="../images/nc-fig-1-B.svg" alt="The position of the head during mask ventilation">	
+	<img src="images/nc-fig-1-B.svg" alt="The position of the head during mask ventilation">	
 	<figcaption>Figure 1-B: The position of the head during mask ventilation</figcaption>
 </figure>
 
@@ -612,42 +613,42 @@ When giving bag and mask ventilation, always watch for chest movement. Squeeze t
 14. A saturation monitor is very useful but not essential.
 
 <figure>
-	<img src="../images/nc-fig-1-C.svg" alt="A bag and mask for resuscitation">	
+	<img src="images/nc-fig-1-C.svg" alt="A bag and mask for resuscitation">	
 	<figcaption>Figure 1-C: A bag and mask for resuscitation</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-D.svg" alt="An endotracheal tube with an introducer in place">	
+	<img src="images/nc-fig-1-D.svg" alt="An endotracheal tube with an introducer in place">	
 	<figcaption>Figure 1-D: An endotracheal tube with an introducer in place</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-E.svg" alt="A laryngoscope with a small, straight blade">	
+	<img src="images/nc-fig-1-E.svg" alt="A laryngoscope with a small, straight blade">	
 	<figcaption>Figure 1-E: A laryngoscope with a small, straight blade</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-F.svg" alt="The blade of the laryngoscope on the tongue">	
+	<img src="images/nc-fig-1-F.svg" alt="The blade of the laryngoscope on the tongue">	
 	<figcaption>Figure 1-F: The blade of the laryngoscope on the tongue</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-G.svg" alt="A view of the epiglottis">	
+	<img src="images/nc-fig-1-G.svg" alt="A view of the epiglottis">	
 	<figcaption>Figure 1-G: A view of the epiglottis</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-H.svg" alt="The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis">	
+	<img src="images/nc-fig-1-H.svg" alt="The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis">	
 	<figcaption>Figure 1-H: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis.</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-I.svg" alt="View of the larynx">	
+	<img src="images/nc-fig-1-I.svg" alt="View of the larynx">	
 	<figcaption>Figure 1-I: View of the larynx.</figcaption>
 </figure>
 
 <figure>
-	<img src="../images/nc-fig-1-J.svg" alt="Introducing the endotracheal tube">	
+	<img src="images/nc-fig-1-J.svg" alt="Introducing the endotracheal tube">	
 	<figcaption>Figure 1-J: Introducing the endotracheal tube.</figcaption>
 </figure>
 
@@ -689,7 +690,7 @@ An assistant ventilates the infant while you give chest compressions. The person
 Pressing on the sternum compresses the heart between the sternum and the spine. This squeezes blood out of the heart and into the circulation. When the sternum returns to the normal position, the heart fills again with blood. Therefore it is important that the chest be allowed time to expand fully after each compression. Repeated compression of the heart causes the blood to circulate throughout the body.
 
 <figure>
-	<img src="../images/nc-fig-1-K.svg" alt="The position of the hands when giving chest compressions">	
+	<img src="images/nc-fig-1-K.svg" alt="The position of the hands when giving chest compressions">	
 	<figcaption>Figure 1-K: The position of the hands when giving chest compressions.</figcaption>
 </figure>
 

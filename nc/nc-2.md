@@ -157,9 +157,10 @@ Likewise a low birth weight infant may weigh less than usual at delivery because
 
 > Low birth weight infants are not all born preterm.
 
-![Figure 2.1: Weight for gestational age chart][fig-2-1]
-
-*Figure 2.1: Weight for gestational age chart*
+<figure>
+	<img src="images/nc-fig-2-1.svg" alt="Figure 2-1: Weight for gestational age chart">	
+	<figcaption>Figure 2-1: Weight for gestational age chart</figcaption>
+</figure>
 
 ### 2-13 What is the value of plotting an infant’s weight for gestational age?
 
@@ -441,7 +442,7 @@ Other scoring methods such as the Finnstrom method and the Dubowitz method can a
 
 ### 2-c Use of the Ballard method
 
-The Ballard scoring method uses both neurological features and external features. The descriptions given below describe how to assess the features illustrated in Figure 2.A. Each feature is given a score and these individual scores are added up to give a final total score. This final total score can then be converted to an estimated gestational age by consulting the table in Figure 2.A. Where possible, examine both the left and right sides of the body when doing the Ballard score and give the average score observed on either side. Half scores can be used. Note that some features have negative scores for very preterm infants.
+The Ballard scoring method uses both neurological features and external features. The descriptions given below describe how to assess the features illustrated in Figure 2-A. Each feature is given a score and these individual scores are added up to give a final total score. This final total score can then be converted to an estimated gestational age by consulting the table in Figure 2-A. Where possible, examine both the left and right sides of the body when doing the Ballard score and give the average score observed on either side. Half scores can be used. Note that some features have negative scores for very preterm infants.
 
 ### 2-d Neurological features
 
@@ -579,7 +580,7 @@ Each separate criteria is given a score after examining that sign on the infant.
 
 The naked infant is weighed, to the nearest 10 g, on a scale. Usually a digital scale is used. If a spring scale is used, it should be standardised with a known weight every month. If possible, the infant should always be weighed on the same scale. The birth weight must be recorded on the infant record card.
 
-See Figure 2.B for a weight for gestational age chart.
+See Figure 2-B for a weight for gestational age chart.
 
 Note
 :	Measurements made on a spring scale are called weight while measurements recorded with a balance scale are called mass. The result is the same and both are read in grams (g). In this programme all measurements are called weight.
@@ -594,7 +595,7 @@ The crown-heel length is usually not measured routinely as this is very inaccura
 
 ### 2-h Plotting weight for gestational age
 
-On the chart in Figure 2.B an infant’s birth weight of 3000 g and gestational age of 39 weeks have been recorded. Note that lines have been drawn from the given weight and gestational age. The weight for gestational age is recorded at the point where these 2 lines meet.
+On the chart in Figure 2-B an infant’s birth weight of 3000 g and gestational age of 39 weeks have been recorded. Note that lines have been drawn from the given weight and gestational age. The weight for gestational age is recorded at the point where these 2 lines meet.
 
 Practise plotting weight for gestational age on the above chart by recording the following infants’ weight and gestational age. Decide whether each infant is overweight, appropriate weight, or underweight for gestational age. Remember that the centile lines mark the outer limit of the normal (or appropriate) weight for gestational age.
 
@@ -606,7 +607,7 @@ Practise plotting weight for gestational age on the above chart by recording the
 
 ### 2-i Plotting head circumference for gestational age
 
-Practise plotting head circumference for gestational age by recording the following infants’ head circumference and gestational age on the chart in Figure 2.C. Decide whether each infant’s head is large, appropriate or small for gestational age.
+Practise plotting head circumference for gestational age by recording the following infants’ head circumference and gestational age on the chart in Figure 2-C. Decide whether each infant’s head is large, appropriate or small for gestational age.
 
 1. Head circumference 27 cm and gestational age 29.5 weeks.
 2. Head circumference 25.5 cm and gestational age 29 weeks.
@@ -622,19 +623,17 @@ Weight for gestational age chart – *Acta Paediatr Scand Suppl* 1985; 31: 180.
 
 Head circumference for gestational age chart – *Pediatr Res* 1978; 12: 987.
 
-![Figure 2-A: The Ballard scoring method][fig-2-A]
+<figure>
+	<img src="images/nc-fig-2-A.svg" alt="Figure 2-A: The Ballard scoring method">	
+	<figcaption>Figure 2-A: The Ballard scoring method</figcaption>
+</figure>
 
-*Figure 2-A: The Ballard scoring method*
+<figure>
+	<img src="images/nc-fig-2-B.svg" alt="Figure 2-B: Weight for gestational age chart">	
+	<figcaption>Figure 2-B: Weight for gestational age chart</figcaption>
+</figure>
 
-![Figure 2-B: Weight for gestational age chart][fig-2-B]
-
-*Figure 2-B: Weight for gestational age chart*
-
-![Figure 2-C: Head circumference for gestational age chart][fig-2-C]
-
-*Figure 2-C: Head circumference for gestational age chart*
-
-[fig-2-1]: ../images/nc-fig-2-1.svg "Figure 2.1: Weight for gestational age chart."
-[fig-2-A]: ../images/nc-fig-2-A.svg "Figure 2.A: The Ballard scoring method"
-[fig-2-B]: ../images/nc-fig-2-B.svg "Figure 2.B: Weight for gestational age chart"
-[fig-2-C]: ../images/nc-fig-2-C.svg "Figure 2.C: Head circumference for gestational age chart"
+<figure>
+	<img src="images/nc-fig-2-C.svg" alt="Figure 2-C: Head circumference for gestational age chart">	
+	<figcaption>Figure 2-C: Head circumference for gestational age chart</figcaption>
+</figure>
