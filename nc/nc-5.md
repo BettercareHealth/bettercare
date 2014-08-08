@@ -772,7 +772,7 @@ The names of the different observations are listed along the top of the chart at
 
 Different observation charts are used in different hospitals. However, they all use the same principle for recording clinical observations.
 
-*See Figure 5-A, an example of a chart used for the routine observations of sick infants.*
+See Figure 5-A, an example of a chart used for the routine observations of sick infants.
 
 <figure>
 	<img src="images/nc-fig-5-A.svg" alt="Figure 5-A, an example of a chart used for the routine observations of sick infants">	

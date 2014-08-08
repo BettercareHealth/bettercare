@@ -90,7 +90,7 @@ h2 {
 	padding-top: 0.5em;
 }
 h3 {
-	font-size: 1.5em;
+	font-size: 1.3em;
 	margin-bottom: 0.5em;
 }
 p {
@@ -128,14 +128,27 @@ dt {
 table {
 	font-family: "Source Sans Pro", sans-serif;
 	border-collapse: collapse;
+	margin: 1em 0;
+	page-break-inside: avoid;
 }
 th, td {
-	border: 1px solid #ccc;
-	padding: 0.5em;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px dotted #f2f2f2;
+	border-right: 1px dotted #f2f2f2;
+	border-right: 0;
+	padding: 0.15em 0.3em;
+}
+th {
+	font-weight: 600;
+}
+.table-caption {
+	page-break-after:avoid;
 }
 pre, code {
 	font-family: "Source Code Pro", sans-serif;
 	white-space: pre-wrap;
+	line-height: 1em;
 }
 figure {
 	margin: 1em 0;

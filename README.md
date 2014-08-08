@@ -52,7 +52,25 @@ This is currently a testing site for Bettercare content-development workflows on
 	* Copy the Output and paste it into your markdown file.
 	* The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
 
+### Images
+
+1.	Create .svg versions of all images. A suggested workflow for this:
+	*	If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.
+	*	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
+	*	For filenaming, use the convention pmc-1-2.svg, as in book-chapter-figure.svg. For skills workshops images, that might be pmc-1E-B.svg for PMC, workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
+2. We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
+
+```html
+<figure>
+	<img src="../images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
+	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
+</figure>
+```
+
+	That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
+
 ### Tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * In lists, Kramdown lets you use a space or a tab between the list marker (e.g. * or 1. etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote >. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
+* Add {:.table-caption} in the line immediately after a table caption. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. (Table captions must always appear above tables, not after them.)

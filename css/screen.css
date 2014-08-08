@@ -33,6 +33,9 @@ blockquote p {
 	margin: 0;
 	padding: 0;
 }
+li blockquote {
+	margin: 1em 0;
+}
 dl {
 	color: #666;
 }

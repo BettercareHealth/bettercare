@@ -199,7 +199,7 @@ Milk feeds for sick or high-risk infants
 
 ### 6-18 What milk feeds should be given to a preterm infant?
 
-Whenever possible, every effort should be made to feed a preterm infant with BREAST MILK. Preterm infants are at great risk of gastroenteritis and have difficulty digesting cow’s milk due to their immaturity. Both these problems can be largely prevented by using fresh breast milk. Pasteurised mother’s milk or pasteurised donor milk can be used for preterm infants of HIV-positive mothers.
+Whenever possible, every effort should be made to feed a preterm infant with *breast milk*. Preterm infants are at great risk of gastroenteritis and have difficulty digesting cow’s milk due to their immaturity. Both these problems can be largely prevented by using fresh breast milk. Pasteurised mother’s milk or pasteurised donor milk can be used for preterm infants of HIV-positive mothers.
 
 > Whenever possible, breast milk should be used for preterm infants.
 
@@ -446,7 +446,7 @@ Because it suggests that the infant may have a bowel obstruction. These infants 
 
 # Skills workshop: Feeding sick or high-risk infants
 
-Objectives
+## Objectives
 
 When you have completed this skills workshop you should be able to:
 
