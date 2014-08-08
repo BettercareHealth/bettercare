@@ -822,11 +822,11 @@ Her next visit must be arranged at a hospital. If possible, the hospital where s
 
 A fundal height measurement midway between the symphysis pubis and the umbilicus suggests a gestational age of 16 weeks. According to her dates, the patient is 14 weeks pregnant. As the difference between these two estimations is less than 3 weeks, the duration of pregnancy as calculated from the patient’s dates must be accepted as the correct one.
 
-[See Figure 1-1.][fig-1-1]
+<figure>
+	<img src="images/pmc-1-1.svg" alt="Figure 1-1: The front of an antenatal record card.">	
+	<figcaption>Figure 1-1: The front of an antenatal record card.</figcaption>
+</figure>
 
-![Figure 1-1: The front of an antenatal record card][fig-1-1]
-
-*Figure 1-1: The front of an antenatal record card*
 
 [See Figure 1-2.][fig-1-2]
 
