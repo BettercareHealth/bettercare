@@ -74,3 +74,12 @@ This is currently a testing site for Bettercare content-development workflows on
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * In lists, Kramdown lets you use a space or a tab between the list marker (e.g. * or 1. etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote >. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
 * Add {:.table-caption} in the line immediately after a table caption. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. (Table captions must always appear above tables, not after them.)
+
+### Reusing tests for Qurio
+
+We use [Qurio](http://qurio.co) for some of our quizzes. To turn our tests markup into [Qurio-importable quiz text](https://github.com/edgecampus/qurio-text-format), you just need to run a few search-and-replaces. Don't try to keep a copy of Qurio-importable text; that will create version-control issues. Just run these search-and-replaces quickly on the master markdown each time you revise a test on Qurio. You need to use regular expressions, so use a text editor that can do that (like Notepad++ or most code editors).
+
+1.	Remove the YAML header at the top (the part starting and ending with three hyphens), and the heading.
+2.	Change the list markers: search for tab-1-dot-tab and replace with tab-hyphen-space. Using regex: search for `\t1.\t` and replace with `\t-" "`
+3.	Remove the question numbers, by using a regex to find number-dot-tab and replace with nothing. The search regex is `^[0-9]{1,2}.\t`
+4.	Replace ``correct`{:.correct-answer}` with `[correct]`
