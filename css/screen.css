@@ -85,9 +85,13 @@ pre, code {
  * Table of contents
  */
 
-.toc ul, .toc ol {
-	list-style-type: none;
+.toc ol {
 	margin: 0;
+	padding: 0;
+}
+.toc ul {
+	list-style-type: none;
+	margin: 0 0 1em 0;
 	padding: 0;
 }
 .toc li {
