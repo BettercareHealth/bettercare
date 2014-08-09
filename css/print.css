@@ -14,7 +14,7 @@
 .frontmatter {
 	page: frontmatter;
 }
-.chapter {
+.chapter, .test {
 	page: chapter;
 }
 @page chapter {
@@ -59,6 +59,25 @@
 }
 .titlepage-logo {
 	width: 200px;
+}
+
+/*
+ * Tests
+ */
+
+ .test ol li {
+	margin: 0 0 1em 0;
+ }
+.test ol li li {
+	list-style-type: lower-alpha;
+	margin: 0;
+}
+.test .correct-answer {
+	display: none;
+	border: 1px solid #f2f2f2;
+	padding: 0.1em 0.3em;
+	border-radius: 0.2em;
+	margin: 0 0 0 0.5em;
 }
 
 /* 

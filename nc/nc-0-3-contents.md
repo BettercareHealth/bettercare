@@ -22,3 +22,21 @@ layout: toc
 13.	[Trauma and bleeding](nc-13.html)
 14.	[Birth defects](nc-14.html)
 15.	[Communication](nc-15.html)
+
+## Tests
+
+1.	[Failure to breathe at birth and resuscitation](nc-test-1.html)
+2.	[Assessing gestational age and size at birth](nc-test-2.html)
+3.	[The routine care of normal infants](nc-test-3.html)
+4.	[Feeding normal infants](nc-test-4.html)
+5.	[Care of high-risk and sick infants](nc-test-5.html)
+6.	[Feeding sick or high-risk infants](nc-test-6.html)
+7.	[Temperature control and hypothermia](nc-test-7.html)
+8.	[Glucose control and hypoglycaemia](nc-test-8.html)
+9.	[Jaundice, anaemia and polycythaemia](nc-test-9.html)
+10.	[Respiratory distress and apnoea](nc-test-10.html)
+11.	[Oxygen therapy](nc-test-11.html)
+12.	[Infection](nc-test-12.html)
+13.	[Trauma and bleeding](nc-test-13.html)
+14.	[Birth defects](nc-test-14.html)
+15.	[Communication](nc-test-15.html)
