@@ -1,38 +1,81 @@
-@charset "utf-8";
 /* Typography for Bettercare books
  * Author: Arthur Attwell arthur@electricbookworks.com
  * Updated: 4 August 2014 */
 
-/* For PrinceXML/DocRaptor */
+/*
+ * Page layouts for PrinceXML/DocRaptor 
+ */
 
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic|Neuton:200,300,400,700,800,400italic);
+
+/* Set up our basic page margins */
 @page { 
 	size: A5; 
 	margin: 15mm 15mm 20mm 15mm;
 	padding: 0;
 	marks: crop;
 }
+
+/* What shall we call our divs for Prince? */
 .frontmatter {
 	page: frontmatter;
 }
-.chapter, .test {
+.chapter {
 	page: chapter;
 }
-@page chapter {
-	@bottom {
-		content: counter(page);
-		font-family: "Source Sans Pro", sans-serif;
-		text-align: center;
-		font-size: 0.8em;
-	}
+.test {
+	page: test;
 }
+
+/* Let's set all our running heads and footers */
+@page chapter:left {
+  @bottom-left {
+    content: counter(page) "\2003" string(chapter-title, last);
+    text-align: left;
+    font-size: 9pt;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 300;
+  }
+}
+@page chapter:right {
+  @bottom-right {
+    content: string(section-title, last) "\2003" counter(page);
+    text-align: right;
+    font-size: 9pt;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 300;
+  }
+}
+@page test:left {
+  @bottom-left {
+    content: counter(page) "\2003" string(chapter-title, last);
+    text-align: left;
+    font-size: 9pt;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 300;
+  }
+}
+@page test:right {
+  @bottom-right {
+    content: string(chapter-title, last) "\2003" counter(page);
+    text-align: right;
+    font-size: 9pt;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: 300;
+  }
+}
+/* We want some mandatory page breaks */
 .chapter, .frontmatter { 
 	page-break-before: always;
-}
-.toc a::after { 
-	content: leader(" ") target-counter(attr(href), page) 
-}
-.toc ul, .toc ol {
-	list-style-type: none;
 }
 
 /*
@@ -47,24 +90,58 @@
 	line-height: 100%;
 }
 .titlepage-subtitle {
-	font-size: 3em;
-	font-weight: 400;
+	font-size: 2.5em;
+	font-weight: 300;
 	font-family: "Source Sans Pro", sans-serif;
-	margin: 0 0 1em 0;
+	margin: 1em 0 1em 0;
 	line-height: 100%;
 }
 .titlepage-author {
-	font-size: 1.5em;
+	font-size: 2em;
+	line-height: 100%;
 	margin: 0 0 2em 0;
 }
 .titlepage-logo {
 	width: 200px;
+	position: absolute;
+	bottom: 0;
+}
+
+/*
+ * Contents page
+ */
+
+ .toc a::after { 
+	content: leader(" ") target-counter(attr(href), page) 
+}
+.toc ul, .toc ol {
+	list-style-type: none;
+} 
+.toc ol li::marker {
+	content: counter(list-item);
+}
+.toc h2 {
+	font-weight: 300;
+	font-size: 1.2em;
+	margin: 1em 0 0.5em 0;
 }
 
 /*
  * Tests
  */
-
+ 
+ .test {
+	 column-count: 2;
+	 column-gap: 3em;
+ }
+ .test h1 {
+	font-size: 1.5em;
+	font-weight: 600;
+ }
+ .test h2 {
+	font-size: 1.2em;
+	font-weight: 400;
+ }
  .test ol li {
 	margin: 0 0 1em 0;
  }
@@ -80,16 +157,56 @@
 	margin: 0 0 0 0.5em;
 }
 
+/*
+ * Tables
+ */
+
+table {
+	font-family: "Source Sans Pro", sans-serif;
+	border-collapse: collapse;
+	margin: 1em 0;
+	page-break-inside: avoid;
+}
+th, td {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px dotted #f2f2f2;
+	border-right: 1px dotted #f2f2f2;
+	border-right: 0;
+	padding: 0.15em 0.3em;
+}
+th {
+	font-weight: 600;
+}
+.table-caption {
+	page-break-after:avoid;
+}
+
+/*
+ * Figures
+ */
+
+figure {
+	margin: 1em 0;
+	padding: 0;
+	page-break-inside: avoid;
+}
+figcaption {
+	font-style: italic;
+	margin: 1em 0;
+}
+
 /* 
  * Generic output 
  */
 
 body {
-	font-family: "PT Serif", serif;
+	font-family: "Neuton", serif;
 	font-size: 9pt;
 	line-height: 140%;
 	margin: 0;
 	padding: 0;
+	font-weight: 300;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
@@ -99,18 +216,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	font-weight: 300;
-	font-size: 3.5em;
+	font-size: 3em;
 	max-width: 80%;
 	line-height: 90%;
 	page-break-before: always;
+	string-set: chapter-title content();
 }
 h2 {
 	margin: 1.5em 0 0.5em 0;
 	padding-top: 0.5em;
+	string-set: section-title content();
 }
 h3 {
-	font-size: 1.3em;
-	margin-bottom: 0.5em;
+	font-size: 1.25em;
+	margin-bottom: 0.4em;
 }
 p {
 	margin: 0 0 0.5em 0;
@@ -144,38 +263,10 @@ dt {
 	letter-spacing: 0.05em;
 	page-break-after: avoid;
 }
-table {
-	font-family: "Source Sans Pro", sans-serif;
-	border-collapse: collapse;
-	margin: 1em 0;
-	page-break-inside: avoid;
-}
-th, td {
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
-	border-left: 1px dotted #f2f2f2;
-	border-right: 1px dotted #f2f2f2;
-	border-right: 0;
-	padding: 0.15em 0.3em;
-}
-th {
-	font-weight: 600;
-}
-.table-caption {
-	page-break-after:avoid;
-}
 pre, code {
 	font-family: "Source Code Pro", sans-serif;
 	white-space: pre-wrap;
 	line-height: 1em;
-}
-figure {
-	margin: 1em 0;
-	padding: 0;
-	page-break-inside: avoid;
-}
-figcaption {
-	font-style: italic;
 }
 a {
 	text-decoration: none;

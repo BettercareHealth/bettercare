@@ -40,3 +40,5 @@ layout: toc
 13.	[Trauma and bleeding](nc-test-13.html)
 14.	[Birth defects](nc-test-14.html)
 15.	[Communication](nc-test-15.html)
+
+*	[Answers](nc-test-answers.html)

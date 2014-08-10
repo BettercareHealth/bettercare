@@ -335,7 +335,7 @@ If the cells of the fetus or newborn infant do not receive enough oxygen, many o
 Note
 :	At the onset of hypoxia, blood is shunted away from the kidneys, gut and lungs to protect the brain and heart. This may cause ischaemic damage to these organs. The increased blood flow to the brain may cause intraventricular haemorrhage in preterm infants. With severe, prolonged hypoxia, cardiac output eventually falls and as a result the brain and myocardium may also suffer ischaemic damage.
 
->	Fetal hypoxia may cause brain damage.
+> Fetal hypoxia may cause brain damage.
 
 ### 1-27 What damage is done to the brain by hypoxia?
 
@@ -666,10 +666,10 @@ The equipment must be checked daily to make certain that everything is present a
 
 ### 1-l Introducing the endotracheal tube
 
-1. Take the endotracheal tube, with the introducer in place, in your right hand and insert it towards the larynx from the right side of the mouth. This will allow you to keep the vocal cords in view all the time. Push the first 1 to 2 cm of the endotracheal tube between the vocal cords and into the glottis (to the black ‘vocal cord line’). Always make sure that you can see the vocal cords clearly, otherwise you will push the tube into the oesaphagus. Make sure that you do not push the tube in too far. Once the tube is correctly in place, the laryngoscope can be removed. Your left hand can now be used to hold the endotracheal tube in place. It is helpful to hold the endotracheal tube tightly against the infant’s hard palate. Note the length of the endotracheal tube at the infant’s lip.
-2. Remove the introducer with your right hand while the endotracheal tube is held in position with your left hand. Make sure that the endotracheal tube does not slip out of the larynx. See Figure 1-J.
-3. Attach the connector at the end of the endotracheal tube to the ventilation bag and ventilate the infant at about 40 breaths per minute using your right hand. Usually the face mask is removed before the ventilation bag is attached to the connector of the endotracheal tube.
-4. Listen to both sides of the chest and watch the chest movement:
+1.	Take the endotracheal tube, with the introducer in place, in your right hand and insert it towards the larynx from the right side of the mouth. This will allow you to keep the vocal cords in view all the time. Push the first 1 to 2 cm of the endotracheal tube between the vocal cords and into the glottis (to the black ‘vocal cord line’). Always make sure that you can see the vocal cords clearly, otherwise you will push the tube into the oesaphagus. Make sure that you do not push the tube in too far. Once the tube is correctly in place, the laryngoscope can be removed. Your left hand can now be used to hold the endotracheal tube in place. It is helpful to hold the endotracheal tube tightly against the infant’s hard palate. Note the length of the endotracheal tube at the infant’s lip.
+2.	Remove the introducer with your right hand while the endotracheal tube is held in position with your left hand. Make sure that the endotracheal tube does not slip out of the larynx. See Figure 1-J.
+3.	Attach the connector at the end of the endotracheal tube to the ventilation bag and ventilate the infant at about 40 breaths per minute using your right hand. Usually the face mask is removed before the ventilation bag is attached to the connector of the endotracheal tube.
+4.	Listen to both sides of the chest and watch the chest movement:
 	* The chest should move well with each inspiration and air should be heard to enter both sides equally when the chest is examined with a stethoscope. Misting of the inside of the endotracheal tube during expiration is a helpful sign that the tube is in the trachea and not the oesophagus.
 	* If the air entry is good on the right side but poor on the left side of the chest, then the endotracheal tube has been pushed in too far and has entered the right bronchus. Slowly pull the endotracheal tube back until good air entry is heard over the right chest.
 	* If the endotracheal tube has been placed into the oesophagus by mistake, then the air entry will be poor on both sides of the chest and the chest movement will also be poor. In addition, the stomach will become distended with air and air entry will be well heard over the abdomen. The tube must be removed and be replaced correctly.
