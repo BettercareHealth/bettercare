@@ -398,7 +398,7 @@ No. Many normal infants have a blocked nose. Saline or 2% sodium bicarbonate nos
 
 Do nothing. Gum cysts are common and disappear with time. Never attempt to open a gum cyst as you may introduce infection.
 
-# 3A Skills workshop: Clinical history and examination
+# Skills workshop: Clinical history and examination
 
 ## Objectives
 

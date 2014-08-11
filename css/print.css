@@ -120,6 +120,9 @@
 .toc ol li::marker {
 	content: counter(list-item);
 }
+.toc ol li li::marker {
+	content: none;
+}
 .toc h2 {
 	font-weight: 300;
 	font-size: 1.2em;
