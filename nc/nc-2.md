@@ -617,10 +617,8 @@ Practise plotting head circumference for gestational age by recording the follow
 
 ## References
 
-The Ballard scoring method – *J Pediatr* 1991; 119: 417–423.
-
-Weight for gestational age chart – *Acta Paediatr Scand Suppl* 1985; 31: 180.
-
+The Ballard scoring method – *J Pediatr* 1991; 119: 417–423.\\
+Weight for gestational age chart – *Acta Paediatr Scand Suppl* 1985; 31: 180.\\
 Head circumference for gestational age chart – *Pediatr Res* 1978; 12: 987.
 
 <figure>
