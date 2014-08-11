@@ -7,7 +7,7 @@ layout: frontmatter
 
 Newborn Care: Managing normal and high-risk infants in the newborn nursery
 
-First published in 2009. Updated:
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated:
 
 *	31 March 2014
 *	8 March 2012
@@ -26,8 +26,10 @@ ISBN (paperback): 978-1-920218-28-7
 
 ISBN (PDF ebook): 978-1-920218-57-7
 
-All text in this book excluding the tests and answers is published under the Creative Commons Attribution Non-Commercial No Derivatives License. You can read up about this license at http://creativecommons.org/licenses/by-nc-nd/3.0/.
+Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-The multiple-choice tests and answers in this publication may not be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of Electric Book Works, www.electricbookworks.com.
+This licence means you may share, copy and redistribute the material in any medium or format under the following terms:
 
-Bettercare is a division of Electric Book Works (Pty) Ltd. Visit our websites at [electricbookworks.com](http://www.electricbookworks.com) and [bettercare.co.za](http://bettercare.co.za).
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Non-Commercial — You may not use the material for commercial purposes.
+* No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.

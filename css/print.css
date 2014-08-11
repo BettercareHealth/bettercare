@@ -7,7 +7,43 @@
  */
 
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic|Neuton:200,300,400,700,800,400italic);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_R.otf);
+}
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_RI.otf);
+	font-style: italic;
+}
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_RB.otf);
+	font-weight: bold;
+}
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_RBI.otf);
+	font-style: italic;
+	font-weight: bold;
+}
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_RZ.otf);
+	font-weight: 600;
+}
+@font-face {
+    font-family: "Linux Libertine";
+    src: url(fonts/LinLibertine_RZI.otf);
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+    font-family: "Linux Libertine Mono";
+    src: url(fonts/LinLibertine_M.otf);
+}
 
 /* Set up our basic page margins */
 @page { 
@@ -116,7 +152,11 @@
 }
 .toc ul, .toc ol {
 	list-style-type: none;
+	page-break-inside: avoid;
 } 
+.toc li {
+	margin: 0 0 0.5em 0;
+}
 .toc ol li::marker {
 	content: counter(list-item);
 }
@@ -168,6 +208,8 @@ table {
 	font-family: "Source Sans Pro", sans-serif;
 	border-collapse: collapse;
 	margin: 1em 0;
+}
+.table-keep-together {
 	page-break-inside: avoid;
 }
 th, td {
@@ -204,12 +246,11 @@ figcaption {
  */
 
 body {
-	font-family: "Neuton", serif;
-	font-size: 9pt;
-	line-height: 140%;
+	font-family: "Linux Libertine", serif;
+	font-size: 10.5pt;
+	line-height: 125%;
 	margin: 0;
 	padding: 0;
-	font-weight: 300;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", sans-serif;
@@ -219,7 +260,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	font-weight: 300;
-	font-size: 3em;
+	font-size: 2.5em;
 	max-width: 80%;
 	line-height: 90%;
 	page-break-before: always;
@@ -231,8 +272,8 @@ h2 {
 	string-set: section-title content();
 }
 h3 {
-	font-size: 1.25em;
-	margin-bottom: 0.4em;
+	font-size: 1.2em;
+	margin-bottom: 0.3em;
 }
 p {
 	margin: 0 0 0.5em 0;
@@ -267,7 +308,7 @@ dt {
 	page-break-after: avoid;
 }
 pre, code {
-	font-family: "Source Code Pro", sans-serif;
+	font-family: "Linux Libertine Mono", monospace;
 	white-space: pre-wrap;
 	line-height: 1em;
 }

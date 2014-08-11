@@ -105,11 +105,7 @@ Simplified flow diagrams are also used, where necessary, to indicate the correct
 
 Each question is identified with the number of the chapter, followed by the number of the question, e.g. 5-23.
 
-### Important lessons
-
 > Important practical lessons are emphasised like this.
-
-### Notes
 
 Note
 :	Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice questions.
