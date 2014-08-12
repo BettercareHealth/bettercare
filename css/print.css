@@ -91,9 +91,9 @@
   @bottom-left {
     content: counter(page) "\2003" string(chapter-title, last);
     text-align: left;
-    font-size: 9pt;
+    font-size: 7pt;
 	text-transform: uppercase;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.05em;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 300;
   }
@@ -102,9 +102,9 @@
   @bottom-right {
     content: string(chapter-title, last) "\2003" counter(page);
     text-align: right;
-    font-size: 9pt;
+    font-size: 7pt;
 	text-transform: uppercase;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.05em;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 300;
   }
@@ -284,7 +284,7 @@ ul, ol {
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
 	background-color: #666;
-	font-size: 120%;
+	font-size: 110%;
 	font-weight: 600;
 	color: white;
 	padding: 0.5em 0.8em;
@@ -298,6 +298,7 @@ blockquote p {
 dl {
 	font-family: "Source Sans Pro", sans-serif;
 	color: #666;
+	font-size: 90%;
 	font-weight: 300;
 	line-height: 120%;
 }
