@@ -8,7 +8,7 @@ layout: toc
 *	[Introduction] (pmc-0-5-introduction.html)
 
 1.	[Antenatal care](pmc-1-antenatal-care.html)
-	*	Skills workshop 1A: General examination at the first antenatal visit (pmc-1-antenatal-care.html#general-examination-at-the-first-antenatal-visit)
+	*	Skills workshop 1A: General examination at the first antenatal visit (pmc-1-antenatal-care.html#skills-workshop-1A-general-examination-at-the-first-antenatal-visit)
 	*	Skills workshop 1B: Examination of the abdomen in pregnancy (pmc-1-antenatal-care.html#examination-of-the-abdomen-in-pregnancy)
 	*	Skills workshop 1C: Vaginal examination in pregnancy (pmc-1-antenatal-care.html#vaginal-examination-in-pregnancy)
 	*	Skills workshop 1D: Screening tests for syphilis (pmc-1-antenatal-care.html#screening-tests-for-syphilis)
