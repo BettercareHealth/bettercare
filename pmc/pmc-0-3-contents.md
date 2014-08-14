@@ -26,11 +26,11 @@ layout: toc
 ## Tests
 
 1.	[Antenatal care](pmc-test-1.html)
-2.	[Assessment of fetal growth and condition during pregnancy](pmc-test-1.html)
-3.	[Hypertensive disorders of pregnancy](pmc-test-2.html)
-4.	[Antepartum haemorrhage](pmc-test-3.html)
-5.	[Preterm labour and preterm rupture of the membranes](pmc-test-4.html)
-6.	[The puerperium and family planning](pmc-test-5.html)
-7.	[Medical problems during pregnancy and the puerperium](pmc-test-6.html)
+2.	[Assessment of fetal growth and condition during pregnancy](pmc-test-2.html)
+3.	[Hypertensive disorders of pregnancy](pmc-test-3.html)
+4.	[Antepartum haemorrhage](pmc-test-4.html)
+5.	[Preterm labour and preterm rupture of the membranes](pmc-test-5.html)
+6.	[The puerperium and family planning](pmc-test-6.html)
+7.	[Medical problems during pregnancy and the puerperium](pmc-test-7.html)
 
 *	[Answers](pmc-answers.html)
