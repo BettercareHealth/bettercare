@@ -82,4 +82,9 @@ We use [Qurio](http://qurio.co) for some of our quizzes. To turn our tests marku
 1.	Remove the YAML header at the top (the part starting and ending with three hyphens), and the heading.
 2.	Change the list markers: search for tab-1-dot-tab and replace with tab-hyphen-space. Using regex: search for `\t1.\t` and replace with `\t-" "`
 3.	Remove the question numbers, by using a regex to find number-dot-tab and replace with nothing. The search regex is `^[0-9]{1,2}.\t`
-4.	Replace ``correct`{:.correct-answer}` with `[correct]`
+4.	Replace `\`correct\`{:.correct-answer}` with `[correct]`
+
+When you create a quiz on Qurio:
+
+*	For what we call 'pre tests' and 'post tests', use a Qurio 'quiz' (marks, results shown immediately). Distribution settings: anyone can answer, but they must be registered. Randomise answer order but not question order.
+*	For what we call an 'exam', use a Qurio 'test' (marks, send results manually). Distribution settings: anyone can answer, must be registered, randomise both questions and answers order, and set a time limit of one hour.
