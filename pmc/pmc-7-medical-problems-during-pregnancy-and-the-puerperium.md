@@ -50,7 +50,7 @@ A midstream urine sample for culture must be collected, if possible, to confirm 
 
 Give 4 adult tablets of co-trimoxazole (e.g. Bactrim, Co-Trim, Durobac, Mezenol or Purbac) as a single dose. This is also the drug of choice for patients who are allergic to penicillin.
 
-Amoxycillin (Amoxil) 3 g as a single dose orally could also be used but organisms causing cystitis are often resistant to this antibiotic. The treatment will be more successful if 2 amoxycillin capsules (250 mg) are replaced with 2 Augmentum tablets that contain an added 125 mg clavulanic acid each.
+Amoxycillin (Amoxil) 3 g as a single dose orally could also be used but organisms causing cystitis are often resistant to this antibiotic. The treatment will be more successful if 2 amoxycillin capsules (250 mg) are replaced with 2 Augmentum tablets that contain an added 125&nbsp;mg clavulanic acid each.
 
 A midstream sample should be sent for culture and sensitivity at the next antenatal visit to determine whether the management was successful.
 
@@ -105,7 +105,7 @@ A midstream specimen of urine should again be sent for microscopy, culture and s
 2.	A midstream urine sample for culture and sensitivity must be collected if possible to confirm the clinical diagnosis, identify the bacteria and determine the antibiotic of choice.
 3.	An intravenous infusion of Balsol or Ringer’s lactate should be started and 1 litre given rapidly over 2 hours. Thereafter, 1 litre of Maintelyte should be given every 8 hours.
 4.	An intravenous broad-spectrum antibiotic, e.g. cefuroxime (Zinecef) should be given prior to transfer.
-5.	Pethidine 100 mg is given intramuscularly for severe pain while paracetamol (Panado) 2 adult tablets can be used for moderate pain.
+5.	Pethidine 100&nbsp;mg is given intramuscularly for severe pain while paracetamol (Panado) 2 adult tablets can be used for moderate pain.
 6.	Paracetamol (Panado) 2 adult tablets, together with tepid sponges, are used to bring down a high temperature.
 
 > Patients with acute pyelonephritis during pregnancy must be admitted to hospital for treatment with a broad-spectrum antibiotic.
@@ -175,7 +175,7 @@ Iron tablets are dangerous to small children as even one tablet can cause seriou
 
 ### 7-20 How are iron supplements given in pregnancy?
 
-As 200 mg ferrous sulphate tablets:
+As 200&nbsp;mg ferrous sulphate tablets:
 
 1.	Patients with a haemoglobin concentration of 11 g/dl or higher must take one tablet daily.
 2.	Patients who are anaemic must be managed as described in 7-18.
@@ -187,13 +187,12 @@ Nausea and even vomiting due to irritation of the lining of the stomach.
 ### 7-22 How should you manage a patient who complains of side effects due to ferrous sulphate tablets?
 
 1.	The tablets should be taken with meals. Although less iron will be absorbed, the side effects will be less.
-2.	If the patient continues to complain of side effects, she should be given 300 mg ferrous gluconate tablets instead. They cause fewer side effects than ferrous sulphate tablets.
+2.	If the patient continues to complain of side effects, she should be given 300&nbsp;mg ferrous gluconate tablets instead. They cause fewer side effects than ferrous sulphate tablets.
 
-[See Figure 7-1.][fig-7-1]
-
-![Figure 7-1: Flow diagram: The management of a patient with iron-deficiency anaemia in pregnancy][fig-7-1]
-
-*Figure 7-1: Flow diagram: The management of a patient with iron-deficiency anaemia in pregnancy*
+<figure>
+	<img src="images/pmc-7-1.svg" alt="Figure 7-1: Flow diagram: The management of a patient with iron-deficiency anaemia in pregnancy">
+	<figcaption>Figure 7-1: Flow diagram: The management of a patient with iron-deficiency anaemia in pregnancy</figcaption>
+</figure>
 
 ## Heart valve disease in pregnancy and the puerperium
 
@@ -303,11 +302,10 @@ The patient must have nothing to eat or drink (except water) from midnight. At 0
 1.	A fasting blood glucose result of less than 6 mmol/l and a 2 hour result of less than 8 mmol/l are normal. These patients can be followed up as intermediate risk patients.
 2.	A fasting blood glucose result of 6 mmol/l or more and/or a 2 hour result of 8 mmol/l or more are abnormal. These patients must be admitted to hospital so that they can have their blood glucose concentration controlled.
 
-[See Figure 7-2.][fig-7-2]
-
-![Figure 7-2: Flow diagram: The management of a patient with glycosuria who has a random blood glucose concentration measured in pregnancy.][fig-7-2]
-
-*Figure 7-2: Flow diagram: The management of a patient with glycosuria who has a random blood glucose concentration measured in pregnancy.*
+<figure>
+	<img src="images/pmc-7-2.svg" alt="Figure 7-2: Flow diagram: The management of a patient with glycosuria who has a random blood glucose concentration measured in pregnancy.">
+	<figcaption>Figure 7-2: Flow diagram: The management of a patient with glycosuria who has a random blood glucose concentration measured in pregnancy.</figcaption>
+</figure>
 
 ## HIV infection and AIDS in pregnancy
 
@@ -413,9 +411,9 @@ Preparing a patient to start antiretroviral treatment is very important. This re
 
 Usually antiretroviral treatment is provided to pregnant women in South Africa with three drugs:
 
-*	D4T 40 mg 12 hourly (or 30 mg 12 hourly in women weighing less than 60 kg or AZT 300 mg 12 hourly.
-*	3TC (lamivudine) 150 mg every 12 hours.
-*	Nevirapine 200 mg daily for two weeks followed by 200 mg every 12 hours or efavirenz (EFV) 600 mg in the evening if the gestational age is more than 12 weeks.
+*	D4T 40&nbsp;mg 12 hourly (or 30&nbsp;mg 12 hourly in women weighing less than 60 &nbsp;kg or AZT 300&nbsp;mg 12 hourly.
+*	3TC (lamivudine) 150&nbsp;mg every 12 hours.
+*	Nevirapine 200&nbsp;mg daily for two weeks followed by 200&nbsp;mg every 12 hours or efavirenz (EFV) 600&nbsp;mg in the evening if the gestational age is more than 12 weeks.
 
 This is the current national first line standard drug combination used during pregnancy. It may change in future.
 

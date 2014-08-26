@@ -223,7 +223,7 @@ Labour must be suppressed if the estimated fetal weight is less than 2000 g as t
 
 ### 5-25 How should you give nifedipine for the suppression of preterm labour?
 
-Three nifedipine (Adalat) 10 mg capsules (total 30 mg) should be taken by mouth. If there are still contractions with cervical dilatation and effacement 3 hours after the initial dose, a follow-up dose of 20 mg must be given.
+Three nifedipine (Adalat) 10&nbsp;mg capsules (total 30&nbsp;mg) should be taken by mouth. If there are still contractions with cervical dilatation and effacement 3 hours after the initial dose, a follow-up dose of 20&nbsp;mg must be given.
 
 ### 5-26 What are the contraindications to the use of nifedipine in suppressing labour?
 

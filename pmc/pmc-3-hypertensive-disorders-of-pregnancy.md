@@ -26,13 +26,13 @@ When you have completed this unit you should be able to:
 
 ### 3-1 What is the normal blood pressure during pregnancy?
 
-The normal systolic blood pressure is less than 140 mm Hg and the diastolic blood pressure is less than 90 mm Hg.
+The normal systolic blood pressure is less than 140&nbsp;mm&nbsp;Hg and the diastolic blood pressure is less than 90&nbsp;mm&nbsp;Hg.
 
 ### 3-2 What is hypertension during pregnancy?
 
-Hypertension during pregnancy is defined as a diastolic blood pressure of 90 mm Hg or more and/or a systolic blood pressure of 140mm Hg or more.
+Hypertension during pregnancy is defined as a diastolic blood pressure of 90&nbsp;mm&nbsp;Hg or more and/or a systolic blood pressure of 140&nbsp;mm&nbsp;Hg or more.
 
-> A diastolic blood pressure of 90 mm hg or more and a systolic blood pressure of 140 mm hg or more during pregnancy is abnormal.
+> A diastolic blood pressure of 90&nbsp;mm&nbsp;Hg or more and a systolic blood pressure of 140&nbsp;mm&nbsp;Hg or more during pregnancy is abnormal.
 
 During pregnancy an abnormally high blood pressure is often accompanied by proteinuria.
 
@@ -99,7 +99,7 @@ The most important complications of pre-eclampsia are also important causes of m
 
 ### 3-12 Which patients are at an increased risk of intracerebral haemorrhage?
 
-The risk of intracerebral haemorrhage is especially high if the diastolic blood pressure is 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more.
+The risk of intracerebral haemorrhage is especially high if the diastolic blood pressure is 110&nbsp;mm&nbsp;Hg or more and/or a systolic blood pressure of 160&nbsp;mm&nbsp;Hg or more.
 
 ### 3-13 Does eclampsia only occur at a very high diastolic blood pressure?
 
@@ -129,12 +129,12 @@ The severity of pre-eclampsia can be graded by:
 Patients with pre-eclampsia can be divided into 4 grades of severity:
 
 1.	**Pre-eclampsia**.
-A diastolic blood pressure of 90 to 109 mm Hg and proteinuria, and/or a systolic blood pressure of 140 to 159 mm Hg, plus proteinuria.
+A diastolic blood pressure of 90 to 109&nbsp;mm&nbsp;Hg and proteinuria, and/or a systolic blood pressure of 140 to 159&nbsp;mm&nbsp;Hg, plus proteinuria.
 
 2.	**Severe pre-eclampsia**.
 Any of the following:
-	*	A diastolic blood pressure of 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more on 2 occasions, 4 hours apart, plus proteinuria.
-	*	A diastolic blood pressure of 120 mm Hg or more and/or a systolic blood pressure of 170 mm Hg or more on 1 occasion, plus proteinuria.
+	*	A diastolic blood pressure of 110&nbsp;mm&nbsp;Hg or more and/or a systolic blood pressure of 160&nbsp;mm&nbsp;Hg or more on 2 occasions, 4 hours apart, plus proteinuria.
+	*	A diastolic blood pressure of 120&nbsp;mm&nbsp;Hg or more and/or a systolic blood pressure of 170&nbsp;mm&nbsp;Hg or more on 1 occasion, plus proteinuria.
 
 3.	**Imminent eclampsia**.
 These patients have symptoms and/or signs that indicate that they are at extremely high risk of developing eclampsia at any moment. The diagnosis does not depend on the degree of hypertension or the amount of proteinuria present.
@@ -189,7 +189,7 @@ In the second half of pregnancy, the following must be carefully watched for:
 2.	Proteinuria.
 3.	Symptoms and signs of imminent eclampsia.
 
-Patients with an obstetric history of pre-eclampsia that developed late in the second or early in the third trimester, must receive 75 mg aspirin (a quarter Disprin) daily from a gestational age of 14 weeks. This will reduce the risk that pre-eclampsia may develop.
+Patients with an obstetric history of pre-eclampsia that developed late in the second or early in the third trimester, must receive 75&nbsp;mg aspirin (a quarter Disprin) daily from a gestational age of 14 weeks. This will reduce the risk that pre-eclampsia may develop.
 
 ### 3-21 What should you do if a patient develops generalised oedema, but remains normotensive and does not have proteinuria?
 
@@ -240,18 +240,18 @@ After the magnesium sulphate has been administered, a Foley’s catheter is inse
 
 **Step 3**
 
-After giving the magnesium sulphate the blood pressure must be measured again. Magnesium sulphate may cause a slight drop in blood pressure. If the diastolic blood pressure is still 110 mg Hg or more and/or the systolic blood pressure 160 mm Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
+After giving the magnesium sulphate the blood pressure must be measured again. Magnesium sulphate may cause a slight drop in blood pressure. If the diastolic blood pressure is still 110&nbsp;mg&nbsp;Hg or more and/or the systolic blood pressure 160&nbsp;mm&nbsp;Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
 
-1.	Give 10 mg (one capsule) nifedipine orally or 6.25 mg dihydralazine by intramuscular injection.
+1.	Give 10&nbsp;mg (one capsule) nifedipine orally or 6.25&nbsp;mg dihydralazine by intramuscular injection.
 2.	The patient’s blood pressure is taken every 5 minutes for the next 30 minutes.
 3.	If the blood pressure drops too much, intravenous Balsol or Ringer’s lactate is administered rapidly, until the blood pressure returns to normal.
-4.	If the blood pressure does not drop, patients who have received 10 mg nifedipine can be given a second dose of 10 mg nifedipine orally if the diastolic blood pressure remains 110 mm Hg or more or a systolic blood pressure of 160 mm Hg or more after 30 minutes. If necessary, 10 mg nifedipine orally can be repeated half hourly up to a maximum dose of 50 mg.
+4.	If the blood pressure does not drop, patients who have received 10&nbsp;mg nifedipine can be given a second dose of 10&nbsp;mg nifedipine orally if the diastolic blood pressure remains 110&nbsp;mm&nbsp;Hg or more or a systolic blood pressure of 160&nbsp;mm&nbsp;Hg or more after 30 minutes. If necessary, 10&nbsp;mg nifedipine orally can be repeated half hourly up to a maximum dose of 50&nbsp;mg.
 
 Or
 
-5.	If dihydralazine was used, an ampoule of dihydralazine (25 mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5 mg) are then given slowly intravenously at 20 minute intervals until the diastolic blood pressure drops below 110 mm Hg.
+5.	If dihydralazine was used, an ampoule of dihydralazine (25&nbsp;mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5&nbsp;mg) are then given slowly intravenously at 20 minute intervals until the diastolic blood pressure drops below 110&nbsp;mm&nbsp;Hg.
 
-Nifedipine 10 mg capsules must always be given orally in pregnancy and not given sublingually (under the tongue). The 10 mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering the blood pressure.
+Nifedipine 10&nbsp;mg capsules must always be given orally in pregnancy and not given sublingually (under the tongue). The 10&nbsp;mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering the blood pressure.
 
 **Step 4**
 
@@ -265,7 +265,7 @@ When the blood pressure is controlled, the patient is transferred to a level 2 o
 2.	Resuscitation equipment, together with magnesium sulphate, calcium gluconate and nifedipine or dihydralazine, must be available in the ambulance. Respiration may be depressed if a large dose of magnesium sulphate is given too rapidly. Calcium gluconate is the antidote to be given in the event of an overdose of magnesium sulphate.
 3.	Convulsions must be watched for and the patient’s blood pressure must also be carefully observed.
 4.	If the patient begins to convulse in the ambulance, she must be given a further 2 g of magnesium sulphate intravenously. The dose may, if required, be repeated once. (Make up the solution beforehand and keep it ready in a 20 ml syringe). Further maintenance doses of magnesium sulphate must be given if more than 4 hours pass after the loading dose.
-5.	If the blood pressure again rises to 110 mm Hg or more while the patient is being transported, you should give a second dose of 10 mg nifedipine by mouth or 6.25 mg dihydralazine intramuscularly. Remember that, with every administration of dihydralazine, there is a danger that the patient may become hypotensive. Another side-effect is tachycardia, and if the pulse rate rises to 120 beats per minute or above, further administration of dihydralazine must be stopped.
+5.	If the blood pressure again rises to 110&nbsp;mm&nbsp;Hg or more while the patient is being transported, you should give a second dose of 10&nbsp;mg nifedipine by mouth or 6.25&nbsp;mg dihydralazine intramuscularly. Remember that, with every administration of dihydralazine, there is a danger that the patient may become hypotensive. Another side-effect is tachycardia, and if the pulse rate rises to 120 beats per minute or above, further administration of dihydralazine must be stopped.
 
 ## The management of eclampsia
 
@@ -291,7 +291,7 @@ After the magnesium sulphate has been given, insert a Foley’s catheter to moni
 
 **Step 4**
 
-If the diastolic blood pressure is 110 mm Hg or more and/or the systolic blood pressure 160 mm Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion.
+If the diastolic blood pressure is 110&nbsp;mm&nbsp;Hg or more and/or the systolic blood pressure 160&nbsp;mm&nbsp;Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion.
 
 **Step 5**
 
@@ -307,15 +307,15 @@ If the patient convulses again, after the convulsions had initially been control
 
 ### 3-28 What should you do if a patient develops gestational hypertension?
 
-A patient with a slightly elevated blood pressure (a diastolic blood pressure of 90 to 95 mm Hg), which develops in the second half of pregnancy, in the absence of proteinuria, may be managed in a level 1 hospital or clinic. If the home circumstances are poor, she must be admitted to hospital, for bedrest. Where the home circumstances are good, the patient is allowed bedrest at home, under the following conditions:
+A patient with a slightly elevated blood pressure (a diastolic blood pressure of 90 to 95&nbsp;mm&nbsp;Hg), which develops in the second half of pregnancy, in the absence of proteinuria, may be managed in a level 1 hospital or clinic. If the home circumstances are poor, she must be admitted to hospital, for bedrest. Where the home circumstances are good, the patient is allowed bedrest at home, under the following conditions:
 
 1.	The patient must be told about the symptoms of imminent eclampsia. Should any of these occur, she must contact or attend the hospital or clinic immediately.
 2.	The patient must be seen weekly at a high-risk antenatal clinic. In addition, following the initial diagnosis, she must be seen once between visits, to check the blood pressure and test the urine for protein.
 3.	If the patient cannot be seen more frequently, she must be given urinary reagent strips to take home. She must then test her urine daily and go to the clinic, should there be 1+ proteinuria or more.
 4.	No special investigations are indicated.
-5.	Alpha methyldopa (Aldomet) must be prescribed to control the blood pressure. The initial dosage is 500 mg 8 hourly.
+5.	Alpha methyldopa (Aldomet) must be prescribed to control the blood pressure. The initial dosage is 500&nbsp;mg 8 hourly.
 
-Patients with a diastolic blood pressure of 100 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more must be admitted to hospital and alpha methyldopa (Aldomet) must be prescribed. Once the diastolic blood pressure has dropped below 100 mm Hg and the systolic blood pressure to below 160 mm Hg, they are managed as indicated above.
+Patients with a diastolic blood pressure of 100&nbsp;mm&nbsp;Hg or more and/or a systolic blood pressure of 160&nbsp;mm&nbsp;Hg or more must be admitted to hospital and alpha methyldopa (Aldomet) must be prescribed. Once the diastolic blood pressure has dropped below 100&nbsp;mm&nbsp;Hg and the systolic blood pressure to below 160&nbsp;mm&nbsp;Hg, they are managed as indicated above.
 
 ### 3-29 How should you monitor the fetus, in order to ensure fetal wellbeing?
 
@@ -335,19 +335,19 @@ A good prognosis can be expected if:
 
 1.	Renal function is normal (normal serum creatinine concentration).
 2.	Pre-eclampsia is not superimposed on the chronic hypertension.
-3.	The blood pressure is well controlled (a diastolic blood pressure of 90 mm Hg or less and a systolic blood pressure of 140 mm Hg or less) from early in pregnancy.
+3.	The blood pressure is well controlled (a diastolic blood pressure of 90&nbsp;mm&nbsp;Hg or less and a systolic blood pressure of 140&nbsp;mm&nbsp;Hg or less) from early in pregnancy.
 
 Therefore, these women can be managed at a level 1 hospital. However, women with chronic hypertension should be referred to a level 2 or 3 hospital for further management if:
 
-1.	Renal function is abnormal (serum creatinine more than 120 mmol/l).
+1.	Renal function is abnormal (serum creatinine more than 120&nbsp;mmol/l).
 2.	Proteinuria develops.
-3.	The diastolic blood pressure is 110 mm Hg or higher more and systolic blood pressure 160 mm Hg or more.
+3.	The diastolic blood pressure is 110&nbsp;mm&nbsp;Hg or higher more and systolic blood pressure 160&nbsp;mm&nbsp;Hg or more.
 4.	There is intra-uterine growth restriction.
 5.	More than one drug is required to control the blood pressure.
 
 ### 3-32 Will you adjust the medication of a patient with chronic hypertension when she becomes pregnant?
 
-Yes, she must be put onto alpha methyldopa (Aldomet) 500 mg 8 hourly. Other antihypertensives (i.e. diuretics, beta blockers and ACE inhibitors) must be stopped.
+Yes, she must be put onto alpha methyldopa (Aldomet) 500&nbsp;mg 8 hourly. Other antihypertensives (i.e. diuretics, beta blockers and ACE inhibitors) must be stopped.
 
 ### 3-33 What special care is needed for a patient with chronic hypertension during pregnancy?
 
@@ -375,13 +375,13 @@ She should rest a lot. She also should be seen at the antenatal clinic again in 
 
 She should be told about the symptoms of imminent eclampsia, i.e. headache, flashes of light before the eyes, and upper abdominal pain. She should also be asked to count and record fetal movements twice a day. If any of the above-mentioned symptoms are experienced, or if fetal movements decrease, she must immediately report to the clinic or hospital.
 
-### 4.	When you see the patient a week later she has a diastolic blood pressure of 90mm Hg, but there is still no proteinuria. How should she be managed further?
+### 4.	When you see the patient a week later she has a diastolic blood pressure of 90&nbsp;mm&nbsp;Hg, but there is still no proteinuria. How should she be managed further?
 
 The patient has pregnancy-induced hypertension. If the home conditions are satisfactory, she can be managed with bedrest at home. The hypertension must be controlled with alpha methyldopa (Aldomet). She must be seen twice a week, and carefully monitored, to detect a rise in the blood pressure and the possible development of proteinuria. If the blood pressure rises and/or proteinuria develops, she must be referred to hospital for admission. If the home conditions are poor, she should be admitted to hospital for bed rest.
 
 ## Case study 2
 
-At an antenatal clinic you see a patient who is 39 weeks pregnant. Up until now she has had a normal pregnancy. On examination, you find that her diastolic blood pressure is 95 mm Hg and that she has 2+ proteinuria.
+At an antenatal clinic you see a patient who is 39 weeks pregnant. Up until now she has had a normal pregnancy. On examination, you find that her diastolic blood pressure is 95&nbsp;mm&nbsp;Hg and that she has 2+ proteinuria.
 
 ### 1.	How should this patient be managed?
 
@@ -401,11 +401,11 @@ Her clinical condition must first be stabilised. An intravenous infusion should 
 
 ### 5.	Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
 
-No. Sometimes with severe pre-eclampsia, the diastolic blood pressure will drop to below 110 mm Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, 10 mg (one capsule) oral nifedipine (Adalat) or intramuscular dihydralazine (Nepresol) 6.25 mg should be given.
+No. Sometimes with severe pre-eclampsia, the diastolic blood pressure will drop to below 110&nbsp;mm&nbsp;Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, 10&nbsp;mg (one capsule) oral nifedipine (Adalat) or intramuscular dihydralazine (Nepresol) 6.25&nbsp;mg should be given.
 
 ## Case study 3
 
-While working at a level 1 hospital you admit a patient with a diastolic blood pressure of 120 mm Hg and 3+ proteinuria. She is 32 weeks pregnant. On further questioning and examination she has no symptoms or signs of imminent eclampsia.
+While working at a level 1 hospital you admit a patient with a diastolic blood pressure of 120&nbsp;mm&nbsp;Hg and 3+ proteinuria. She is 32 weeks pregnant. On further questioning and examination she has no symptoms or signs of imminent eclampsia.
 
 ### 1.	What is the danger to this patient’s health?
 
@@ -417,7 +417,7 @@ Her clinical condition must first be stabilised. An intravenous infusion should 
 
 ### 3.	Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
 
-No. Sometimes, the diastolic blood pressure will drop to below 110 mm Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, intramuscular dihydralazine (Nepresol) 6.25 mg or 10 mg (one capsule) oral nifedipine (Adalat) should be given.
+No. Sometimes, the diastolic blood pressure will drop to below 110&nbsp;mm&nbsp;Hg after a loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, intramuscular dihydralazine (Nepresol) 6.25&nbsp;mg or 10&nbsp;mg (one capsule) oral nifedipine (Adalat) should be given.
 
 ### 4.	Should you continue to manage this patient at a level 1 hospital?
 

@@ -139,29 +139,25 @@ If Doppler measurement is not available, the patient must be managed as given in
 4.	If there are decreased or few fetal movements, the patient should be managed as described in sections 2-25 and 2-26.
 5.	When there is severe intra-uterine growth restriction, the patient must be referred to a level 2 or 3 hospital for further management.
 
-[See Figure 2-1.][fig-2-1]
+<figure>
+	<img src="images/pmc-2-1.svg" alt="Figure 2-1: The symphysis-fundus growth chart">
+	<figcaption>Figure 2-1: The symphysis-fundus growth chart</figcaption>
+</figure>
 
-![Figure 2-1: The symphysis-fundus growth chart.][fig-2-1]
+<figure>
+	<img src="images/pmc-2-2.svg" alt="Figure 2-2: One measurement below the 10th centile">
+	<figcaption>Figure 2-2: One measurement below the 10th centile</figcaption>
+</figure>
 
-*Figure 2-1: The symphysis-fundus growth chart*
+<figure>
+	<img src="images/pmc-2-3.svg" alt="Figure 2-3: Three successive measurements that remain the same">
+	<figcaption>Figure 2-3: Three successive measurements that remain the same</figcaption>
+</figure>
 
-[See Figure 2-2.][fig-2-2]
-
-![Figure 2-2: One measurement below the 10th centile][fig-2-2]
-
-*Figure 2-2: One measurement below the 10th centile*
-
-[See Figure 2-3.][fig-2-3]
-
-![Figure 2-3: Three successive measurements that remain the same][fig-2-3]
-
-*Figure 2-3: Three successive measurements that remain the same*
-
-[See Figure 2-4.][fig-2-4]
-
-![Figure 2-4: A measurement less than that recorded 2 visits before][fig-2-4]
-
-*Figure 2-4: A measurement less than that recorded 2 visits before*
+<figure>
+	<img src="images/pmc-2-4.svg" alt="Figure 2-4: A measurement less than that recorded 2 visits before">
+	<figcaption>Figure 2-4: A measurement less than that recorded 2 visits before</figcaption>
+</figure>
 
 ## Fetal movements
 
@@ -297,11 +293,10 @@ If the fetal movement count remains less than half the previous count, the patie
 
 Fetal movements should be counted for a full 6 hours. If the fetus moves fewer than 4 times, there is a high chance that the fetus is distressed. A doctor must now examine the patient and decide whether the fetus should be delivered and what would be the safest method of delivery.
 
-[See Figure 2-5.][fig-2-5]
-
-![Figure 2-5: The management of a patient with decreased fetal movements][fig-2-4]
-
-*Figure 2-5: The management of a patient with decreased fetal movements*
+<figure>
+	<img src="images/pmc-2-5.svg" alt="Figure 2-5: The management of a patient with decreased fetal movements">
+	<figcaption>Figure 2-5: The management of a patient with decreased fetal movements</figcaption>
+</figure>
 
 # Skills workshop 2A: Routine use of the antenatal card
 
@@ -331,11 +326,10 @@ The following items should be recorded on the back of the antenatal card every t
 
 The symphysis-fundus (SF) height and the patient’s weight are recorded on the antenatal graph while the other information is recorded in the spaces provided.
 
-[See Figure 2A-1.][fig-2A-1]
-
-![Figure 2A-1: The back of the antenatal card][fig-2A-1]
-
-*Figure 2A-1: The back of the antenatal card*
+<figure>
+	<img src="images/pmc-2A-1.svg" alt="Figure 2A-1: The back of the antenatal card">
+	<figcaption>Figure 2A-1: The back of the antenatal card</figcaption>
+</figure>
 
 ### B The significance of the lines on the graph
 
@@ -343,11 +337,10 @@ There are 3 oblique lines on the antenatal graph:
 
 The 3 lines represent the normal increase in the symphysis-fundus height or SF height (i.e. a centile growth chart of fundal height). The solid line in the centre is the 50th centile or average growth line. The dotted lines above and below this represent the 90th and 10th centiles respectively (i.e. the upper and lower limits of normal fundal growth).
 
-[See Figure 2A-2.][fig-2A-2]
-
-![Figure 2A-2: A SF height measurement of 21 cm at a gestational age of 24 weeks is plotted on July 27th][fig-2A-2]
-
-*Figure 2A-2: A SF height measurement of 21 cm at a gestational age of 24 weeks is plotted on July 27th*
+<figure>
+	<img src="images/pmc-2A-2.svg" alt="Figure 2A-2: A SF height measurement of 21 cm at a gestational age of 24 weeks is plotted on July 27th">
+	<figcaption>Figure 2A-2: A SF height measurement of 21 cm at a gestational age of 24 weeks is plotted on July 27th</figcaption>
+</figure>
 
 ### C Plotting the symphysis-fundus height for the first time when the patient is sure of the date of her last menstrual period
 
@@ -366,17 +359,15 @@ The 3 lines represent the normal increase in the symphysis-fundus height or SF h
 3.	The method whereby the gestational age was determined must now be ticked in the appropriate block at the top left-hand corner of the chart. In this case ‘SF-measurement’ should be ticked.
 4.	The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, the diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the SF-height between the 90th and 10th centiles confirms a normal growing singleton pregnancy.
 
-[See Figure 2A-3.][fig-2A-3]
+<figure>
+	<img src="images/pmc-2A-3.svg" alt="Figure 2A-3: Recording the SF height of 27 cm on the 50th centile when a patient could not remember the date of her last menstrual period. The patient attended the antenatal clinic on 4th October.">
+	<figcaption>Figure 2A-3: Recording the SF height of 27 cm on the 50th centile when a patient could not remember the date of her last menstrual period. The patient attended the antenatal clinic on 4th October.</figcaption>
+</figure>
 
-![Figure 2A-3: Recording the SF height of 27 cm on the 50th centile when a patient could not remember the date of her last menstrual period. The patient attended the antenatal clinic on 4th October.][fig-2A-3]
-
-*Figure 2A-3: Recording the SF height of 27 cm on the 50th centile when a patient could not remember the date of her last menstrual period. The patient attended the antenatal clinic on 4th October.*
-
-[See Figure 2A-4.][fig-2A-4]
-
-![Figure 2A-4: A patient’s gestational age, according to her last menstrual period, is 31 weeks and the S-F height measurement is 25 cm.][fig-2A-4]
-
-*Figure 2A-4: A patient’s gestational age, according to her last menstrual period, is 31 weeks and the S-F height measurement is 25 cm.*
+<figure>
+	<img src="images/pmc-2A-4.svg" alt="Figure 2A-4: A patient’s gestational age, according to her last menstrual period, is 31 weeks and the S-F height measurement is 25 cm.">
+	<figcaption>Figure 2A-4: A patient’s gestational age, according to her last menstrual period, is 31 weeks and the S-F height measurement is 25 cm.</figcaption>
+</figure>
 
 ### E The first recording of the SF height when the duration of pregnancy, as determined by her last normal menstrual period, differs from that determined by the SF height by 4 or more weeks.
 
@@ -385,11 +376,10 @@ The 3 lines represent the normal increase in the symphysis-fundus height or SF h
 3.	The method by which the gestational age is estimated must be recorded in the box at the top left-hand corner of the growth chart. In this case a tick should be made opposite ‘SF measurement’.
 4.	The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, the diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the SF-height between the 90th and 10th centiles confirms a normal growing singleton pregnancy. This information also confirms that using the SF-height to determine gestational age was correct.
 
-[See Figure 2A-5.][fig-2A-5]
-
-![Figure 2A-5: A patient’s SF height measurement is 30 cm, 4 weeks after her last visit. Four weeks later the SF height is 32 cm.][fig-2A-5]
-
-*Figure 2A-5: A patient’s SF height measurement is 30 cm, 4 weeks after her last visit. Four weeks later the SF height is 32 cm.*
+<figure>
+	<img src="images/pmc-2A-5.svg" alt="Figure 2A-5: A patient’s SF height measurement is 30 cm, 4 weeks after her last visit. Four weeks later the SF height is 32 cm.">
+	<figcaption>Figure 2A-5: A patient’s SF height measurement is 30 cm, 4 weeks after her last visit. Four weeks later the SF height is 32 cm.</figcaption>
+</figure>
 
 ### F Plotting the symphysis-fundus height at subsequent antenatal visits
 
@@ -403,8 +393,7 @@ From 34 weeks gestation onwards the lie and the presenting part must be determin
 
 A space is provided on the antenatal card for brief notes. A block is also provided for a problem list. Few notes are needed and usually there are no notes in patients who are assessed as being low risk with normal pregnancies.
 
-[See Figure 2A-6.][fig-2A-6]
-
-![Figure 2A-6: A problem list with short notes][fig-2A-6]
-
-*Figure 2A-6: A problem list with short notes*
+<figure>
+	<img src="images/pmc-2A-6.svg" alt="Figure 2A-6: A problem list with short notes">
+	<figcaption>Figure 2A-6: A problem list with short notes</figcaption>
+</figure>

@@ -11,7 +11,7 @@ First published in 2009 by [Bettercare](http://bettercare.co.za), a division of 
 
 * 1 December 2009
 * 2 August 2011 (layout only)
-* 6 August 2014
+* 31 August 2014
 
 Text © Perinatal Education Programme 2009
 

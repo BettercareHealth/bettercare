@@ -217,11 +217,10 @@ If the patient and her infant are both well, they are referred to their local ma
 3.	Blood must be taken from the infant for a DNA PCR test and an appointment made so that the infant’s result can be obtained and further management planned. The DNA PCR will determine whether the infant is HIV infected.
 4.	The essential postpartum care (EPOC) card (Figure 6-1) for the 6 weeks visit could now be completed.
 
-[See Figure 6-1.][fig-6-1]
-
-![Figure 6-1: The essential postpartum care card][fig-6-1]
-
-*Figure 6-1: The essential postpartum care card*
+<figure>
+	<img src="images/pmc-6-1.svg" alt="Figure 6-1: The essential postpartum care card">
+	<figcaption>Figure 6-1: The essential postpartum care card</figcaption>
+</figure>
 
 ## Puerperal pyrexia
 
@@ -322,7 +321,7 @@ This is a non-infective inflammation and thrombosis of the superficial veins of 
 
 ### 6-28 How should you manage a patient with superficial vein thrombophlebitis?
 
-1.	Give analgesia, e.g. aspirin 300 mg (1 adult tablet) 6 hourly.
+1.	Give analgesia, e.g. aspirin 300&nbsp;mg (1 adult tablet) 6 hourly.
 2.	Support the leg with an elastic bandage.
 3.	Encourage the patient to walk around.
 
