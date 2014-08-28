@@ -262,7 +262,7 @@ Metronidazole should not be used in the first trimester of pregnancy, unless it 
 
 Contact bleeding occurs if the cervix is touched (e.g. during sexual intercourse or during a vaginal examination).
 
-1.	When there is normal cervical cytology (Papanicolaou smear), the contact bleeding is probably due to a cervicitis. If it is troublesome, the patient should be given a course of oral erythromycin 500 mg 6 hourly for 7 days.
+1.	When there is normal cervical cytology (Papanicolaou smear), the contact bleeding is probably due to a cervicitis. If it is troublesome, the patient should be given a course of oral erythromycin 500&nbsp;mg 6&nbsp;hourly for 7 days.
 2.	With abnormal cervical cytology, the patient should be correctly managed. Cervical intra-epithelial neoplasia causes contact bleeding.
 
 ### 4-34 What action should you take when the bleeding is from a cervical ulcer or tumour?
@@ -349,8 +349,7 @@ Trichomonas vaginalis. Therefore, if no organisms were identified on the cervica
 
 A single dose of 2 g metronidazole (Flagyl) is given orally to both the patient and her partner. Both must be warned against drinking alcohol for a few days after taking metronidazole.
 
-[See Figure 4-1.][fig-4-1]
-
-![Figure 4-1: Flow diagram: Initial management of a patient with vaginal bleeding][fig-4-1]
-
-*Figure 4-1: Flow diagram: Initial management of a patient with vaginal bleeding*
+<figure>
+	<img src="images/pmc-4-1.svg" alt="Figure 4-1: Flow diagram: Initial management of a patient with vaginal bleeding">
+	<figcaption>Figure 4-1: Flow diagram: Initial management of a patient with vaginal bleeding</figcaption>
+</figure>

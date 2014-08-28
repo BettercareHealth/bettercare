@@ -11,4 +11,4 @@ We acknowledge all the participants of the Perinatal Education Programme who hav
 
 Editor-in-Chief of the Perinatal Education Programme: Prof D L Woods
 Editors of Primary Maternal Care: Prof G B Theron and Prof R C Pattinson
-Contributors to Primary Maternal Care: Prof H van C de Groot, Dr D H Greenfield, Ms H Louw, Prof G B Theron, Prof D L Woods.
+Contributors to Primary Maternal Care: Prof H van C de Groot, Dr D H Greenfield, Ms H Louw, Prof G B Theron, Prof D L Woods

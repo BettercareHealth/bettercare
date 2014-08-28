@@ -106,7 +106,7 @@ A full history, containing the following:
 
 2.	The birth weight, gestational age and method of delivery of each previous infant as well as of previous perinatal deaths are important:
 	*	Previous low birth weight infants or spontaneous preterm labours tend to recur.
-	*	Previous large infants (4 kg or more) suggest maternal diabetes.
+	*	Previous large infants (4 &nbsp;kg or more) suggest maternal diabetes.
 	*	The type of previous delivery is also important: a forceps delivery or vacuum extraction may suggest that a degree of cephalopelvic disproportion had been present. If the patient had a previous caesarean section, the indication for the caesarean section must be determined.
 	*	The type of incision in the uterus is also important (this information must be obtained from the patient’s folder) as only patients with a transverse lower segment incision should be considered for a possible vaginal delivery.
 	*	Having had one or more perinatal deaths places the patient at high risk of further perinatal deaths. Therefore, every effort must be made to find out the cause of any previous deaths. If no cause can be found, then the risk of a recurrence of perinatal death is even higher.
@@ -380,7 +380,7 @@ The treatment of choice is penicillin. If the patient is not allergic to penicil
 
 Benzathine penicillin crosses the placenta and also treats the fetus.
 
-If the patient is allergic to penicillin, she is given erythromycin 500 mg 6 hourly orally for 14 days. This may not treat the fetus adequately, however. Tetracycline is contraindicated in pregnancy as it may damage the fetus.
+If the patient is allergic to penicillin, she is given erythromycin 500&nbsp;mg 6 hourly orally for 14 days. This may not treat the fetus adequately, however. Tetracycline is contraindicated in pregnancy as it may damage the fetus.
 
 The patient’s sexual partner must also be treated.
 
@@ -644,7 +644,7 @@ Antiretroviral prophylaxis aims at reducing the risk of the mother infecting her
 For prophylaxis a fixed dose combination (FDC) pill is taken daily, usually at bedtime. 
 
 Note
-:	WHO option A, which is no longer used in South Africa, consists of Zidovudine (AZT) 300 mg orally twice daily started at 14 weeks gestation. A single dose of nevirapine 200mg  is given to the mother at the onset of labour and AZT 300mg 3 hourly is given during labour. In addition, a single dose of Truvada, a combination of tenofovir (TDF) and emtricitabine (FTC), must be given to the mother during or immediately after labour to prevent nevirapine resistance in the mother. Daily nevirapine is started in the infant. This regime is known as dual therapy and will reduce the risk of HIV transmission from mother to infant to 2%, compared to 30% without prophylaxis. Truvada is the trade name of the combination of TDF and FTC. It is given to prevent nevirapine resistance in the mother.
+:	WHO option A, which is no longer used in South Africa, consists of Zidovudine (AZT) 300&nbsp;mg orally twice daily started at 14 weeks gestation. A single dose of nevirapine 200mg  is given to the mother at the onset of labour and AZT 300mg 3 hourly is given during labour. In addition, a single dose of Truvada, a combination of tenofovir (TDF) and emtricitabine (FTC), must be given to the mother during or immediately after labour to prevent nevirapine resistance in the mother. Daily nevirapine is started in the infant. This regime is known as dual therapy and will reduce the risk of HIV transmission from mother to infant to 2%, compared to 30% without prophylaxis. Truvada is the trade name of the combination of TDF and FTC. It is given to prevent nevirapine resistance in the mother.
 
 > Antiretroviral prophylaxis can reduce the risk of perinatal HIV transmission to 2%.
 
@@ -698,7 +698,7 @@ The national drug protocol using a FDC tablet should be followed. It is very imp
 
 ### 1-72 What drugs are used in the fixed dose combination pill for starting antiretroviral treatment during pregnancy?
 
-A fixed dose combination regimen of three drugs is usually used as first line treatment in South Africa. The FDC consists of tenofovir (TDF) 300 mg, emtricitabine (FTC) 200 mg and efavirenz (EFV) 600 mg. 
+A fixed dose combination regimen of three drugs is usually used as first line treatment in South Africa. The FDC consists of tenofovir (TDF) 300&nbsp;mg, emtricitabine (FTC) 200&nbsp;mg and efavirenz (EFV) 600&nbsp;mg. 
 
 This is the current national first-line standard drug combination used during pregnancy.  Zidovudine (AZT) may replace TDF while emtricitabine (FTC) may replace 3TC if necessary.
 
@@ -823,28 +823,24 @@ Her next visit must be arranged at a hospital. If possible, the hospital where s
 A fundal height measurement midway between the symphysis pubis and the umbilicus suggests a gestational age of 16 weeks. According to her dates, the patient is 14 weeks pregnant. As the difference between these two estimations is less than 3 weeks, the duration of pregnancy as calculated from the patient’s dates must be accepted as the correct one.
 
 <figure>
-	<img src="images/pmc-1-1.svg" alt="Figure 1-1: The front of an antenatal record card.">	
-	<figcaption>Figure 1-1: The front of an antenatal record card.</figcaption>
+	<img src="images/pmc-1-1.svg" alt="Figure 1-1: The front of an antenatal record card">
+	<figcaption>Figure 1-1: The front of an antenatal record card</figcaption>
 </figure>
 
+<figure>
+	<img src="images/pmc-1-2.svg" alt="Figure 1-2: The back of an antenatal record card">
+	<figcaption>Figure 1-2: The back of an antenatal record card</figcaption>
+</figure>
 
-[See Figure 1-2.][fig-1-2]
+<figure>
+	<img src="images/pmc-1-3.svg" alt="Figure 1-3: Clinic checklist">
+	<figcaption>Figure 1-3: Clinic checklist</figcaption>
+</figure>
 
-![Figure 1-2: The back of an antenatal record card][fig-1-2]
-
-*Figure 1-2: The back of an antenatal record card*
-
-[See Figure 1-3.][fig-1-3]
-
-![Figure 1-3: Clinic checklist][fig-1-3]
-
-*Figure 1-3: Clinic checklist*
-
-[See Figure 1-4.][fig-1-4]
-
-![Figure 1-4: Back page of clinic checklist][fig-1-4]
-
-*Figure 1-4: Back page of clinic checklist*
+<figure>
+	<img src="images/pmc-1-4.svg" alt="Figure 1-4: Back page of clinic checklist">
+	<figcaption>Figure 1-4: Back page of clinic checklist</figcaption>
+</figure>
 
 # Skills workshop 1A: General examination at the first antenatal visit
 
@@ -892,11 +888,10 @@ A retained placenta or postpartum haemorrhage in previous pregnancies should be 
 
 All these findings should be recorded briefly on the antenatal clinic record.
 
-[See Figure 1A-1.][fig-1A-1]
-
-![Figure 1A-1: Recording past obstetric history][fig-1-1]
-
-*Figure 1A-1: Recording past obstetric history*
+<figure>
+	<img src="images/pmc-1A-1.svg" alt="Figure 1A-1: Recording past obstetric history">
+	<figcaption>Figure 1A-1: Recording past obstetric history</figcaption>
+</figure>
 
 ### C Medical history
 
@@ -1068,23 +1063,20 @@ The symphysis-fundus height should be measured as follows:
 
 Having determined the height of the fundus, you need to assess whether the height of the fundus corresponds to the patient’s dates, and to the size of the fetus. From 18 weeks, the S-F height must be plotted on the SF growth curve to determine the gestational age. This method is, therefore, only used once the fundal height has reached 18 weeks. In other words when the S-F height has reached two fingers width under the umbilicus.
 
-[See Figure 1B-1.][fig-1B-1]
+<figure>
+	<img src="images/pmc-1B-1.svg" alt="Figure 1B-1: Determining the fundal height">
+	<figcaption>Figure 1B-1: Determining the fundal height</figcaption>
+</figure>
 
-![Figure 1B-1: Determining the fundal height][fig-1B-1]
+<figure>
+	<img src="images/pmc-1B-2.svg" alt="Figure 1B-2: Determining the uterine size before 24 weeks">
+	<figcaption>Figure 1B-2: Determining the uterine size before 24 weeks</figcaption>
+</figure>
 
-*Figure 1B-1: Determining the fundal height*
-
-[See Figure 1B-2.][fig-1B-2]
-
-![Figure 1B-2: Determining the uterine size before 24 weeks][fig-1B-2]
-
-*Figure 1B-2: Determining the uterine size before 24 weeks*
-
-[See Figure 1B-3.][fig-1B-3]
-
-![Figure 1B-3: Measuring the symphysis-fundus height][fig-1B-3]
-
-*Figure 1B-3: Measuring the symphysis-fundus height*
+<figure>
+	<img src="images/pmc-1B-3.svg" alt="Figure 1B-3: Measuring the symphysis-fundus height">
+	<figcaption>Figure 1B-3: Measuring the symphysis-fundus height</figcaption>
+</figure>
 
 ### G Palpation of the fetus
 
@@ -1109,11 +1101,10 @@ There are 4 specific steps for palpating the fetus. These are performed systemat
 3.	**Third step**. The examiner grasps the lower portion of the abdomen, just above the symphysis pubis, between the thumb and fingers of one hand. The objective is to feel for the presenting part of the fetus and to decide whether the presenting part is loose above the pelvis or fixed in the pelvis. If the head is loose above the pelvis, it can be easily moved and balloted. The head and breech are differentiated in the same way as in the first step.
 4.	**Fourth step**. The objective of the step is to determine the amount of head palpable above the pelvic brim, if there is a cephalic presentation. The examiner faces the patient’s feet, and with the tips of the middle 3 fingers palpates deeply in the pelvic inlet. In this way the head can usually be readily palpated, unless it is already deeply in the pelvis. The amount of the head palpable above the pelvic brim can also be determined.
 
-[See Figure 1B-4.][fig-1B-4]
-
-![Figure 1B-4: The 4 steps in palpating the fetus][fig-1B-4]
-
-*Figure 1B-4: The 4 steps in palpating the fetus*
+<figure>
+	<img src="images/pmc-1B-4.svg" alt="Figure 1B-4: The 4 steps in palpating the fetus">
+	<figcaption>Figure 1B-4: The 4 steps in palpating the fetus</figcaption>
+</figure>
 
 ### I Amount of head palpable above pelvis
 
@@ -1125,11 +1116,10 @@ The amount of head is assessed by feeling how many fifths of the head are palpab
 4.	2/5 of the head palpable means that most of the head is below the pelvic brim, and on doing the deep pelvic grip, your fingers only splay outwards from the fetal neck to the pelvic brim.
 5.	1/5 of the head palpable means that only the tip of the fetal head can be felt above the pelvic brim.
 
-[See Figure 1B-5.][fig-1B-5]
-
-![Figure 1B-5: An accurate method of determining the amount of head palpable above the brim of the pelvis.][fig-1B-5]
-
-*Figure 1B-5: An accurate method of determining the amount of head palpable above the brim of the pelvis.*
+<figure>
+	<img src="images/pmc-1B-5.svg" alt="Figure 1B-5: An accurate method of determining the amount of head palpable above the brim of the pelvis">
+	<figcaption>Figure 1B-5: An accurate method of determining the amount of head palpable above the brim of the pelvis</figcaption>
+</figure>
 
 ### J Special points about the palpation of the fetus
 
@@ -1181,11 +1171,10 @@ If there is a reason for the patient to count fetal movements and to record them
 3.	**Position of the patient**. She may either sit or lie down. If she lies down, she should lie on her side. In either position she should be relaxed and comfortable.
 4.	**Recording of fetal movements**. The fetal movements should be recorded on a chart as shown in Table 1B-6.
 
-[See Figure 1B-6.][fig-1B-6]
-
-![Figure 1B-6: An example of fetal movements recorded on a fetal movements chart.][fig-1B-5]
-
-*Figure 1B-6: An example of fetal movements recorded on a fetal movements chart.*
+<figure>
+	<img src="images/pmc-1B-6.svg" alt="Figure 1B-6: An example of fetal movements recorded on a fetal movements chart">
+	<figcaption>Figure 1B-6: An example of fetal movements recorded on a fetal movements chart</figcaption>
+</figure>
 
 	*	Between 08:00 and 09:00 on 3rd of July the fetus moved 6 times.
 	*	Between 11:00 and 12:00 on 4th July the fetus moved 9 times.
@@ -1412,11 +1401,10 @@ Note
 
 If it cannot be decided whether clumping of particles is present or not, a sample of the patient’s blood must be sent to the laboratory for a VDRL test. The patient must be seen again as soon as the results are available so that the correct management can be given. If the patient cannot come back for the result or if it is not possible to get a laboratory VDRL, start treatment immediately.
 
-[See Figure 1D-1.][fig-1D-1]
-
-![Figure 1D-1: Examples of positive and negative tests][fig-1D-1]
-
-*Figure 1D-1: Examples of positive and negative tests*
+<figure>
+	<img src="images/pmc-1D-1.svg" alt="Figure 1D-1: Examples of positive and negative tests">
+	<figcaption>Figure 1D-1: Examples of positive and negative tests</figcaption>
+</figure>
 
 # Skills workshop 1E: Screening tests for HIV
 
@@ -1483,20 +1471,17 @@ The test is a specific test for HIV and will become positive when there are anti
 2.	If both the first rapid test and the confirmatory (second) test are positive, it is accepted that the patient is HIV positive. Circle ‘Yes’ for the test accepted and again ‘Yes’ for precautions.
 3.	If, after counselling, the patient decides not to have an HIV test, test accepted ‘No’ must be circled as the test was not done. Therefore there is no result.
 
-[See Figure 1E-1.][fig-1E-1]
+<figure>
+	<img src="images/pmc-1E-1.svg" alt="Figure 1E-1: Recording of a negative HIV test on the antenatal card">
+	<figcaption>Figure 1E-1: Recording of a negative HIV test on the antenatal card</figcaption>
+</figure>
 
-![Figure 1E-1: Recording of a negative HIV test on the antenatal card][fig-1E-1]
+<figure>
+	<img src="images/pmc-1E-2.svg" alt="Figure 1E-2: Recording of a positive HIV test on the antenatal card">
+	<figcaption>Figure 1E-2: Recording of a positive HIV test on the antenatal card</figcaption>
+</figure>
 
-*Figure 1E-1: Recording of a negative HIV test on the antenatal card*
-
-[See Figure 1E-2.][fig-1E-2]
-
-![Figure 1E-2: Recording of a positive HIV test on the antenatal card][fig-1E-2]
-
-*Figure 1E-2: Recording of a positive HIV test on the antenatal card*
-
-[See Figure 1E-3.][fig-1E-3]
-
-![Figure 1E-3: Recording that the patient decided not to be tested for HIV][fig-1E-3]
-
-*Figure 1E-3: Recording that the patient decided not to be tested for HIV*
+<figure>
+	<img src="images/pmc-1E-3.svg" alt="Figure 1E-3: Recording that the patient decided not to be tested for HIV">
+	<figcaption>Figure 1E-3: Recording that the patient decided not to be tested for HIV</figcaption>
+</figure>
