@@ -21,9 +21,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ## Books in the Bettercare series
 
-**Maternal Care** addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills workshops teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy.
-
-**Maternal Care** is aimed at healthcare workers in level 1 hospitals or clinics.
+**Maternal Care** addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills workshops teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy. *Maternal Care* is aimed at healthcare workers in level 1 hospitals or clinics.
 
 **Primary Maternal Care** addresses the needs of healthcare workers who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory chapters and skills workshops from Maternal Care. This book is ideal for midwives and doctors providing primary maternal care in level 1 district hospitals and clinics, and complements the national protocol of antenatal care in South Africa.
 

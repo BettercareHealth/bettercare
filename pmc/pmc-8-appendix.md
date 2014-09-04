@@ -13,21 +13,23 @@ The following list gives risk factors which may occur during pregnancy together 
 
 The level of care needed is shown as follows:
 
-1 = For low-risk patients
-2 = For intermediate-risk patients
-3 = For high-risk patients
+* 1 = For low-risk patients
+* 2 = For intermediate-risk patients
+* 3 = For high-risk patients
 
-<table width="100%">
+<table width="100%" style="page-break-before: always;">
   <col width="11%" />
   <col width="29%" />
   <col width="49%" />
   <col width="5%" />
+  <thead>
   <tr>
     <td width="11%"><p><strong>Risk factors</strong></p></td>
     <td width="29%"><p><strong>Possible adverse effects during pregnancy and associated problems</strong></p></td>
     <td width="49%"><p><strong>Action</strong></p></td>
     <td width="5%"><p><strong>Level of care</strong></p></td>
   </tr>
+  </thead>
   <tr>
     <td colspan="4" width="98%"><p align="center"><strong>Risk factors identified from the patient’s history</strong></p></td>
   </tr>
