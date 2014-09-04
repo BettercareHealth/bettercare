@@ -157,6 +157,9 @@
 .toc li {
 	margin: 0 0 0.5em 0;
 }
+.toc li li {
+	margin: 0;
+}
 .toc ol li::marker {
 	content: counter(list-item);
 }
@@ -208,6 +211,7 @@ table {
 	font-family: "Source Sans Pro", sans-serif;
 	border-collapse: collapse;
 	margin: 1em 0;
+	font-size: 80%;
 }
 .table-keep-together {
 	page-break-inside: avoid;
@@ -217,7 +221,6 @@ th, td {
 	border-bottom: 1px solid #ccc;
 	border-left: 1px dotted #f2f2f2;
 	border-right: 1px dotted #f2f2f2;
-	border-right: 0;
 	padding: 0.15em 0.3em;
 }
 th {
@@ -225,6 +228,10 @@ th {
 }
 .table-caption {
 	page-break-after:avoid;
+}
+td p {
+	margin: 0;
+	padding: 0;
 }
 
 /*

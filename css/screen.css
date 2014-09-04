@@ -52,6 +52,10 @@ th, td {
 	border: 1px solid #ccc;
 	padding: 0.5em;
 }
+td p {
+	margin: 0;
+	padding: 0;
+}
 pre, code {
 	white-space: pre-wrap;
 }
@@ -102,6 +106,9 @@ pre, code {
 }
 .toc li {
 	margin: 0 0 0.5em 0;
+}
+.toc li li {
+	margin: 0;
 }
 .toc a {
 	text-decoration: none;
