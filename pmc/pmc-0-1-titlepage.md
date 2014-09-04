@@ -6,7 +6,7 @@ layout: frontmatter
 Primary Maternal Care
 {:.titlepage-title}
 
-Antenatal and postnatal care in the clinic
+Antenatal and postnatal care in&nbsp;the&nbsp;clinic
 {:.titlepage-subtitle}
 
 Developed by the Perinatal Education Programme
