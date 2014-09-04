@@ -103,6 +103,9 @@ pre, code {
 .toc li {
 	margin: 0 0 0.5em 0;
 }
+.toc li li {
+	margin: 0;
+}
 .toc a {
 	text-decoration: none;
 }
