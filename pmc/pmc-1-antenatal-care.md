@@ -353,7 +353,7 @@ If the results of the screening tests were not available by the end of the first
 
 The correct interpretation of the results is of the greatest importance:
 
-1.	If  either the VDRL (Venereal Disease Research Laboratory),or RPR (Rapid Plasmin Reagin )testis  negative, then the patient does not have syphilis and no further tests for syphilis are needed.
+1.	If  either the VDRL (Venereal Disease Research Laboratory), or RPR (Rapid Plasmin Reagin) test is  negative, then the patient does not have syphilis and no further tests for syphilis are needed.
 2.	If the VDRL or RPR titre is 1:16 or higher, the patient has syphilis and must be treated.
 3.	If the VDRL or RPR titre is 1:8 or lower (or the titre is not known), the laboratory should test the same blood sample by means of the TPHA (Treponema Pallidum Haemagglutin Assay) or FTA (Fluorescent Treponemal Antibody) test:
 	*	If the TPHA or FTA  is also positive, the patient has syphilis and must be fully treated.

@@ -249,7 +249,7 @@ After giving the magnesium sulphate the blood pressure must be measured again. M
 
 Or
 
-5.	If dihydralazine was used, an ampoule of dihydralazine (25&nbsp;mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5&nbsp;mg) are then given slowly intravenously at 20 minute intervals until the diastolic blood pressure drops below 110&nbsp;mm&nbsp;Hg.
+If dihydralazine was used, an ampoule of dihydralazine (25&nbsp;mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5&nbsp;mg) are then given slowly intravenously at 20 minute intervals until the diastolic blood pressure drops below 110&nbsp;mm&nbsp;Hg.
 
 Nifedipine 10&nbsp;mg capsules must always be given orally in pregnancy and not given sublingually (under the tongue). The 10&nbsp;mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering the blood pressure.
 
@@ -517,7 +517,7 @@ Using a reagent strip the amount of proteinuria is graded as follows:
 
 Remember that a trace (0.1g/l) of protein is not regarded as significant proteinuria and may occur normally.
 
-## J The use of a reagent strip to measure the amount of proteinuria
+### J The use of a reagent strip to measure the amount of proteinuria
 
 1.	Collect a fresh specimen of urine.
 2.	Remove a reagent strip from the bottle and replace the cap.
@@ -525,7 +525,7 @@ Remember that a trace (0.1g/l) of protein is not regarded as significant protein
 4.	Wait 60 seconds.
 5.	Hold the strip horizontally and compare with the colour blocks on the side of the bottle. Hold the strip close to the bottle to match the colours but do not rest it on the bottle as the urine will damage the colour chart. The darker the colour of the reagent strip, the greater is the amount of proteinuria.
 
-## K Reagent strips can give a false reading
+### K Reagent strips can give a false reading
 
 Reagent strips may incorrectly assess the degree of proteinuria if the urine is very concentrated or very dilute. Do not use the first urine passed in the morning as it may be concentrated and, therefore, give a falsely high reading.
 

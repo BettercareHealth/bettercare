@@ -261,7 +261,7 @@ Genital tract infection (or puerperal sepsis) is caused by bacterial infection o
 	*	Offensive lochia.
 	*	The episiotomy wound or perineal or vaginal tears may be infected.
 
-## 6-22 How should you manage genital tract infection?
+### 6-22 How should you manage genital tract infection?
 
 These patients require admission to a hospital urgently and must be referred. While waiting to be transferred treatment could be initiated:
 
@@ -466,7 +466,7 @@ The patient must be encouraged to report the following complications as soon as 
 
 ## Family planning in the puerperium
 
-6-43 What is family planning?
+### 6-43 What is family planning?
 
 Family planning is far more than simply birth control, and aims at improving the quality of life for everybody. Family planning is an important part of primary health care and includes:
 
