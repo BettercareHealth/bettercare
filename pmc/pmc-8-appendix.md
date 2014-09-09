@@ -317,7 +317,7 @@ The level of care needed is shown as follows:
     <td width="5%"><p>2</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p>Urinary system</p></td>
+    <td colspan="4" width="98%"><p><strong>Urinary system</strong></p></td>
   </tr>
   <tr>
     <td width="11%"><p>Pyelonephritis</p></td>
