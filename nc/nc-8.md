@@ -3,6 +3,9 @@ title: 8. Glucose control and hypoglycaemia
 layout: chapter
 ---
 
+8
+{:.chapter-number}
+
 # Glucose control and hypoglycaemia
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.

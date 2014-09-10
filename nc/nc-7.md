@@ -3,6 +3,9 @@ title: 7. Temperature control and hypothermia
 layout: chapter
 ---
 
+7
+{:.chapter-number}
+
 # Temperature control and hypothermia
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
