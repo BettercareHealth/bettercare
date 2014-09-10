@@ -3,7 +3,10 @@ title: 6. The puerperium and family planning
 layout: chapter
 ---
 
-# **6** The puerperium and family planning
+6
+{:.chapter-number}
+
+# The puerperium and family planning
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
@@ -595,7 +598,7 @@ Most contraceptive methods have side effects. Some side effects are unacceptable
 The major side effects of the various contraceptive methods used after delivery are:
 
 1.	Sterilisation:
-	Tubal ligation and vasectomy have no medical side effects and, therefore, should be highly recommended during counselling of patients who have completed their families. Menstrual irregularities are NOT a problem. However, about 5% of women later regret sterilisation.
+	*	Tubal ligation and vasectomy have no medical side effects and, therefore, should be highly recommended during counselling of patients who have completed their families. Menstrual irregularities are NOT a problem. However, about 5% of women later regret sterilisation.
 2.	Injectables:
 	*	Menstrual abnormalities, e.g. amenorrhoea, irregular menstruation or spotting.
 	*	Weight gain.

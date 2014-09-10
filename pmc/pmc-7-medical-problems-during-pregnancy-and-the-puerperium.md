@@ -3,7 +3,10 @@ title: 7. Medical problems during pregnancy and the puerperium
 layout: chapter
 ---
 
-# **7** Medical problems during pregnancy and the puerperium
+7
+{:.chapter-number}
+
+# Medical problems during pregnancy and the puerperium
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 

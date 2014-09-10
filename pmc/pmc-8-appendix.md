@@ -289,7 +289,7 @@ The level of care needed is shown as follows:
     <td width="5%"><p>3</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p align="center"><strong>Alimentary System</strong></p></td>
+    <td colspan="4" width="98%"><p><em>Alimentary System</em></p></td>
   </tr>
   <tr>
     <td width="11%"><p>Haemorrhoids</p></td>
@@ -317,7 +317,7 @@ The level of care needed is shown as follows:
     <td width="5%"><p>2</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><strong>Urinary system</strong></p></td>
+    <td colspan="4" width="98%"><p><em>Urinary system</em></p></td>
   </tr>
   <tr>
     <td width="11%"><p>Pyelonephritis</p></td>
@@ -656,35 +656,30 @@ The level of care needed is shown as follows:
 </table>
 
 # BMI table
+{:.page-break-before}
 
 <table width="100%">
-  <tbody>
+  <thead>
     <tr>
-      <td></td>
-      <td colspan="15">Height in cm</td>
+      <td>Height&nbsp;&#8594;<br />Weight&nbsp;&#8595;</td>
+      <td>140 cm</td>
+      <td>145 cm</td>
+      <td>150 cm</td>
+      <td>155 cm</td>
+      <td>160 cm</td>
+      <td>165 cm</td>
+      <td>170 cm</td>
+      <td>175 cm</td>
+      <td>180 cm</td>
+      <td>185 cm</td>
+      <td>190 cm</td>
+      <td>195 cm</td>
+      <td>200 cm</td>
+      <td>205 cm</td>
     </tr>
-  </tbody>
-  <tbody>
+  </thead>
     <tr>
-      <td rowspan="28" width="5%">Weight in kg</td>
-      <td></td>
-      <td>140</td>
-      <td>145</td>
-      <td>150</td>
-      <td>155</td>
-      <td>160</td>
-      <td>165</td>
-      <td>170</td>
-      <td>175</td>
-      <td>180</td>
-      <td>185</td>
-      <td>190</td>
-      <td>195</td>
-      <td>200</td>
-      <td>205</td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>48&nbsp;kg</td>
       <td>24.5</td>
       <td>22.8</td>
       <td>21.3</td>
@@ -701,7 +696,7 @@ The level of care needed is shown as follows:
       <td>11.4</td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>51&nbsp;kg</td>
       <td>26.0</td>
       <td>24.3</td>
       <td>22.7</td>
@@ -718,7 +713,7 @@ The level of care needed is shown as follows:
       <td>12.1</td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>54&nbsp;kg</td>
       <td>27.6</td>
       <td>25.7</td>
       <td>24.0</td>
@@ -735,7 +730,7 @@ The level of care needed is shown as follows:
       <td>12.8</td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>57&nbsp;kg</td>
       <td>29.1</td>
       <td>27.1</td>
       <td>25.3</td>
@@ -752,7 +747,7 @@ The level of care needed is shown as follows:
       <td>13.6</td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>60&nbsp;kg</td>
       <td>30.6</td>
       <td>28.5</td>
       <td>26.7</td>
@@ -769,7 +764,7 @@ The level of care needed is shown as follows:
       <td>14.3</td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>63&nbsp;kg</td>
       <td>32.1</td>
       <td>30.0</td>
       <td>28.0</td>
@@ -786,7 +781,7 @@ The level of care needed is shown as follows:
       <td>15.0</td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>66&nbsp;kg</td>
       <td>33.7</td>
       <td>31.4</td>
       <td>29.3</td>
@@ -803,7 +798,7 @@ The level of care needed is shown as follows:
       <td>15.7</td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>69&nbsp;kg</td>
       <td>35.2</td>
       <td>32.8</td>
       <td>30.7</td>
@@ -820,7 +815,7 @@ The level of care needed is shown as follows:
       <td>16.4</td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>72&nbsp;kg</td>
       <td>36.7</td>
       <td>34.2</td>
       <td>32.0</td>
@@ -837,7 +832,7 @@ The level of care needed is shown as follows:
       <td>17.1</td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>75&nbsp;kg</td>
       <td>38.3</td>
       <td>35.7</td>
       <td>33.3</td>
@@ -854,7 +849,7 @@ The level of care needed is shown as follows:
       <td>17.8</td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>78&nbsp;kg</td>
       <td>39.8</td>
       <td>37.1</td>
       <td>34.7</td>
@@ -871,7 +866,7 @@ The level of care needed is shown as follows:
       <td>18.6</td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>81&nbsp;kg</td>
       <td>41.3</td>
       <td>38.5</td>
       <td>36.0</td>
@@ -888,7 +883,7 @@ The level of care needed is shown as follows:
       <td>19.3</td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>84&nbsp;kg</td>
       <td>42.9</td>
       <td>40.0</td>
       <td>37.3</td>
@@ -905,7 +900,7 @@ The level of care needed is shown as follows:
       <td>20.0</td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>87&nbsp;kg</td>
       <td>44.4</td>
       <td>41.4</td>
       <td>38.7</td>
@@ -922,7 +917,7 @@ The level of care needed is shown as follows:
       <td>20.7</td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>90&nbsp;kg</td>
       <td>45.9</td>
       <td>42.8</td>
       <td>40.0</td>
@@ -939,7 +934,7 @@ The level of care needed is shown as follows:
       <td>21.4</td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>93&nbsp;kg</td>
       <td>47.4</td>
       <td>44.2</td>
       <td>41.3</td>
@@ -956,7 +951,7 @@ The level of care needed is shown as follows:
       <td>22.1</td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>96&nbsp;kg</td>
       <td>49.0</td>
       <td>45.7</td>
       <td>42.7</td>
@@ -973,7 +968,7 @@ The level of care needed is shown as follows:
       <td>22.8</td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>99&nbsp;kg</td>
       <td>50.5</td>
       <td>47.1</td>
       <td>44.0</td>
@@ -990,7 +985,7 @@ The level of care needed is shown as follows:
       <td>23.6</td>
     </tr>
     <tr>
-      <td>102</td>
+      <td>102&nbsp;kg</td>
       <td>52.0</td>
       <td>48.5</td>
       <td>45.3</td>
@@ -1007,7 +1002,7 @@ The level of care needed is shown as follows:
       <td>24.3</td>
     </tr>
     <tr>
-      <td>105</td>
+      <td>105&nbsp;kg</td>
       <td>53.6</td>
       <td>49.9</td>
       <td>46.7</td>
@@ -1024,7 +1019,7 @@ The level of care needed is shown as follows:
       <td>25.0</td>
     </tr>
     <tr>
-      <td>108</td>
+      <td>108&nbsp;kg</td>
       <td>55.1</td>
       <td>51.4</td>
       <td>48.0</td>
@@ -1041,7 +1036,7 @@ The level of care needed is shown as follows:
       <td>25.7</td>
     </tr>
     <tr>
-      <td>111</td>
+      <td>111&nbsp;kg</td>
       <td>56.6</td>
       <td>52.8</td>
       <td>49.3</td>
@@ -1058,7 +1053,7 @@ The level of care needed is shown as follows:
       <td>26.4</td>
     </tr>
     <tr>
-      <td>114</td>
+      <td>114&nbsp;kg</td>
       <td>58.2</td>
       <td>54.2</td>
       <td>50.7</td>
@@ -1075,7 +1070,7 @@ The level of care needed is shown as follows:
       <td>27.1</td>
     </tr>
     <tr>
-      <td>117</td>
+      <td>117&nbsp;kg</td>
       <td>59.7</td>
       <td>55.6</td>
       <td>52.0</td>
@@ -1092,7 +1087,7 @@ The level of care needed is shown as follows:
       <td>27.8</td>
     </tr>
     <tr>
-      <td>120</td>
+      <td>120&nbsp;kg</td>
       <td>61.2</td>
       <td>57.1</td>
       <td>53.3</td>
@@ -1109,7 +1104,7 @@ The level of care needed is shown as follows:
       <td>28.6</td>
     </tr>
     <tr>
-      <td>123</td>
+      <td>123&nbsp;kg</td>
       <td>62.8</td>
       <td>58.5</td>
       <td>54.7</td>
@@ -1126,7 +1121,7 @@ The level of care needed is shown as follows:
       <td>29.3</td>
     </tr>
     <tr>
-      <td>126</td>
+      <td>126&nbsp;kg</td>
       <td>64.3</td>
       <td>59.9</td>
       <td>56.0</td>

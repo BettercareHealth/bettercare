@@ -1,9 +1,12 @@
 ---
 title: 1. Antenatal care
-layout: default
+layout: chapter
 ---
 
-# **1** Antenatal care
+1
+{:.chapter-number}
+
+# Antenatal care
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
@@ -599,6 +602,7 @@ A falling CD4 count is an important marker of progression in HIV infection. It i
 Persistent generalised lymphadenopathy is the only clinical sign of stage 1 HIV infection.
 
 Signs of stage 2 HIV infection include:
+
 *	Repeated or chronic mouth or genital ulcers.
 *	Extensive skin rashes.
 *	Repeated upper respiratory tract infections such as otitis media or sinusitis.
@@ -607,6 +611,7 @@ Signs of stage 2 HIV infection include:
 ### 1-62 What are important features suggesting stage 3 or 4 HIV infection?
 
 Features of stage 3 HIV infection include:
+
 *	Unexplained weight loss.
 *	Oral candidiasis (thrush).
 *	Cough, fever and night sweats suggesting pulmonary tuberculosis.
@@ -615,6 +620,7 @@ Features of stage 3 HIV infection include:
 *	Pulmonary tuberculosis.
 
 Features of stage 4 HIV infection include:
+
 *	Severe weight loss.
 *	Severe or repeated bacterial infections, especially pneumonia.
 *	Severe HIV-associated infections such as oesophageal candidiasis (which presents with difficulty swallowing) and Pneumocystis pneumonia (which presents with cough, fever and shortness of breath).
@@ -1169,16 +1175,15 @@ If there is a reason for the patient to count fetal movements and to record them
 1.	**Time of day**. Most patients find that the late morning is a convenient time to record fetal movements. However, she should be encouraged to choose the time which suits her best. She will need to rest for an hour. It is best that she use the same time every day.
 2.	**Length of time**. This should be for 1 hour per day, and the patient should be able to rest and not be disturbed for this period of time. Sometimes the patient may be asked to rest and count fetal movements for 2 or more half-hour periods a day. The patient must have access to a watch or clock, and know how to measure half- and one-hour periods.
 3.	**Position of the patient**. She may either sit or lie down. If she lies down, she should lie on her side. In either position she should be relaxed and comfortable.
-4.	**Recording of fetal movements**. The fetal movements should be recorded on a chart as shown in Table 1B-6.
-
+4.	**Recording of fetal movements**. The fetal movements should be recorded on a chart as shown in Table 1B-6. For example, in the chart we see that:
+	*	Between 08:00 and 09:00 on 3rd of July the fetus moved 6 times.
+	*	Between 11:00 and 12:00 on 4th July the fetus moved 9 times.
+	*	Between 08:00 and 09:00 on 5th July the fetus moved 3 times.
+	
 <figure>
 	<img src="images/pmc-1B-6.svg" alt="Figure 1B-6: An example of fetal movements recorded on a fetal movements chart">
 	<figcaption>Figure 1B-6: An example of fetal movements recorded on a fetal movements chart</figcaption>
 </figure>
-
-	*	Between 08:00 and 09:00 on 3rd of July the fetus moved 6 times.
-	*	Between 11:00 and 12:00 on 4th July the fetus moved 9 times.
-	*	Between 08:00 and 09:00 on 5th July the fetus moved 3 times.
 
 All the movements should be recorded. Therefore, every time the fetus moves, the patient must make a tick on the chart. The time and day should be marked on the chart. If the patient is illiterate, the nurse giving her the chart can fill in the day (and times if the chart is to be used more than once a day). It is important to explain to the patient exactly how to use the chart. Remember that a patient who is resting can easily fall asleep and, therefore, miss fetal movements.
 

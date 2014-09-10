@@ -3,7 +3,10 @@ title: 4. Antepartum haemorrhage
 layout: chapter
 ---
 
-# **4** Antepartum haemorrhage
+4
+{:.chapter-number}
+
+# Antepartum haemorrhage
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
