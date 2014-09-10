@@ -129,6 +129,10 @@ h1 {
 	max-width: 80%;
 	line-height: 90%;
 }
+h1 strong:first-of-type {
+	display: block;
+	margin: 0 0 0.5em 0;
+}
 h2 {
 	margin: 1.5em 0 0.5em 0;
 	padding-top: 0.5em;

@@ -3,7 +3,7 @@ title: 6. The puerperium and family planning
 layout: chapter
 ---
 
-# 6 The puerperium and family planning
+# **6** The puerperium and family planning
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
