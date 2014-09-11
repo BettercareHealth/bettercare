@@ -3,6 +3,9 @@ title: 1. Failure to breathe at birth and resuscitation
 layout: chapter
 ---
 
+1
+{:.chapter-number}
+
 # Failure to breathe at birth and resuscitation
 
 Before you begin, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.

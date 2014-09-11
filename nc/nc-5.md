@@ -3,6 +3,9 @@ title: 5. Care of high-risk and sick infants
 layout: chapter
 ---
 
+5
+{:.chapter-number}
+
 # Care of high-risk and sick infants
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.

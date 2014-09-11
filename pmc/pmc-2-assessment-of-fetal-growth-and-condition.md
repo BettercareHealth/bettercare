@@ -1,7 +1,10 @@
 ---
 title: 2. Assessment of fetal growth and condition during pregnancy
-layout: default
+layout: chapter
 ---
+
+2
+{:.chapter-number}
 
 # Assessment of fetal growth and condition during pregnancy
 

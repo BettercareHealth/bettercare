@@ -53,7 +53,7 @@
 	marks: crop;
 }
 
-/* What shall we call our divs for Prince? */
+/* Naming our divs for PrinceXML */
 .frontmatter {
 	page: frontmatter;
 }
@@ -109,8 +109,13 @@
 	font-weight: 300;
   }
 }
-/* We want some mandatory page breaks */
-.chapter, .frontmatter { 
+/* We want mandatory page breaks before some layouts */
+div.frontmatter, div.toc, div.chapter, div.test { 
+	page-break-before: always;
+}
+
+/* For manual page breaks, apply this class to an element */
+.page-break-before {
 	page-break-before: always;
 }
 
@@ -229,6 +234,9 @@ th {
 .table-caption {
 	page-break-after:avoid;
 }
+td {
+	vertical-align: top;
+}
 td p {
 	margin: 0;
 	padding: 0;
@@ -246,6 +254,9 @@ figure {
 figcaption {
 	font-style: italic;
 	margin: 1em 0;
+}
+figure img {
+	max-width: 100%;
 }
 
 /* 
@@ -270,11 +281,14 @@ h1 {
 	font-size: 2.5em;
 	max-width: 80%;
 	line-height: 90%;
-	page-break-before: always;
 	string-set: chapter-title content();
 }
+h1 strong:first-of-type {
+	display: block;
+	margin: 0 0 0.5em 0;
+}
 h2 {
-	margin: 1.5em 0 0.5em 0;
+	margin: 1em 0 0.5em 0;
 	padding-top: 0.5em;
 	string-set: section-title content();
 }
@@ -285,8 +299,23 @@ h3 {
 p {
 	margin: 0 0 0.5em 0;
 }
+p.chapter-number {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: bold;
+	font-size: 3.5em;
+	margin: 0 0 0.66em 0;
+}
 ul, ol {
 	margin: 0 0 0.5em 0;
+}
+li:first-of-type {
+	page-break-after: avoid;
+}
+li:last-of-type {
+	page-break-before: avoid;
+}
+li li:first-of-type {
+	page-break-before:avoid;
 }
 blockquote {
 	font-family: "Source Sans Pro", sans-serif;
