@@ -7,7 +7,7 @@ layout: test
 
 After each answer, the number indicates from where the questions were taken. For each question that you answer incorrectly, please re-learn the corresponding section.
 
-## Test 1: Failure to breathe at birth and resuscitation
+## Test 1: Failure to breathe at birth and resuscitation
 
 1.	d	(1-1)
 2.	b	(1-3)
