@@ -12,7 +12,7 @@ First published in 2009 by [Bettercare](http://bettercare.co.za), a division of 
 *	31 March 2014
 *	8 March 2012
 *	7 March 2011
-*	10 August 2014
+*	10 August 2014 (layout only)
 
 Text © Perinatal Education Programme 2009
 
