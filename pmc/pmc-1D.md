@@ -1,0 +1,115 @@
+---
+title: 1D. Skills workshop on screening tests for syphilis
+layout: chapter
+---
+
+1D
+{:.chapter-number}
+
+# Skills workshop 1D: Screening tests for syphilis
+
+## Objectives
+
+When you have completed this skills workshop you should be able to:
+
+*	Screen a patient for syphilis with the syphilis rapid test and the RPR card test.
+*	Interpret the results of the screening tests.
+
+## Syphilis screening
+
+At the first antenatal visit each woman should be screened for syphilis. This can be done at the clinic with the syphilis rapid test (Determine Syphilis TP) or RPR card test. If syphilis is diagnosed the patient must be informed and treatment must be started immediately at the antenatal clinic. Positive rapid screening tests must be confirmed with a laboratory RPR or VDRL test. The syphilis rapid test or RPR card test can be used in any antenatal clinic as no sophisticated equipment is required.
+
+## Syphilis rapid test
+
+The syphilis rapid test is a specific test for syphilis and will become positive when there are antibodies against Treponema pallidum (the organism that causes syphilis) in the blood. The test result corresponds to that of a TPHA or FTA test which are also specific tests for syphilis.
+
+### A Equipment needed to perform a syphilis rapid test
+
+1.	The Abbott Determine TB Whole Blood Essay. Each kit contains 10 cards with 10 tests. The Chase Buffer (2.5 ml bottle) is supplied with the kit.
+2.	EDTA capillary tubes marked to indicate 50 μl, lancets, alcohol swabs and sterile gauze swabs. These are not supplied with the kit.
+
+The kit needs to be stored at room temperature between 2 °C and 30 °C. Storage in a fridge is required during summer time. The kit must not be used after the expiry date.
+
+### B Performing the syphilis rapid test
+
+1.	Clean a fingertip with an alcohol swab and allow the finger to dry.
+2.	Remove a test trip from the foil cover.
+3.	Prick the skin of the finger tip with a lancet. Wipe the first drop of blood away with a sterile gauze swab.
+4.	Collect the next drop of blood into the EDTA tube. Either side of the tube can be used to collect blood. Fill the tube from the tip to the first black circle (i.e. 50 μl blood). Avoid the collection of air bubbles.
+5.	Apply the 50 μl of blood from the EDTA tube onto the sample pad marked with an arrow on the test strip.
+6.	Wait until all the blood has been absorbed into the sample pad and then apply one drop of Chase Buffer. The bottle must be held vertically (upside down) above the test strip when a drop of the buffer is dropped on the sample pad.
+7.	Wait a minimum of 15 minutes and then read the result. The maximum waiting time for reading the test is 24 hours. After 24 hours the test becomes invalid.
+
+### C Reading the results of the syphilis rapid test
+
+1.	**Positive**: A red bar will appear within both the Control window and the Patient window on the test strip. Any visible red bar in the Patient window must be regarded as positive.
+2.	**Negative**: A red bar will appear within the Control window but no red bar is seen in the Patient window.
+3.	**Invalid**: If no red bar appears in the Control window, even if a red bar is visible in the Patient window, the result is invalid and the test must be repeated.
+
+### D The interpretation of the syphilis rapid test
+
+1.	A positive test indicates that a person has antibodies against syphilis. This means that the person either has active (untreated) syphilis or was infected in the past and no longer has the disease.
+2.	A negative test indicates that a person does not have antibodies and cannot have syphilis, either in the present or past, unless the person was infected very recently and has not yet formed antibodies.
+
+### E Management if the syphilis rapid test is positive
+
+1.	Explain to the patient that the screening test for syphilis is positive but that this should be confirmed or rejected by a laboratory test (RPR or VDRL test).
+2.	It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated while waiting for the result of the laboratory test.
+3.	Ask the patient to return in one week for the result of the laboratory test.
+
+### F Interpretation of the RPR or VDRL test when the syphilis rapid test is positive
+
+1.	If the RPR or VDRL is negative the patient does not have syphilis. Treatment can be stopped.
+2.	If the RPR or VDRL titer is 1:16 or higher the patient has syphilis and must be treated with a full course of three doses of benzathine penicillin (Bicillin LA of Penilente LA).
+3.	If the RPR of VDRL titer is 1:8 or lower and woman and partner have been fully treated in the past three months, treatment can be stopped. Otherwise a full course of three doses of benzathine penicillin must be given.
+
+## The RPR card test
+
+The RPR card test is a non-specific test that will become positive if the patient has syphilis. The result corresponds to that of a laboratory RPR and VDRL test which are also non-specific tests for syphilis.
+
+### G Collecting a blood sample
+
+A 3 ml sample of venous blood is needed for the test. Place the blood in a test tube for clotted blood (red topped tube).
+
+### H Equipment needed to perform a RPR card test
+
+1.	The carbon antigen suspension.
+2.	The antigen dispenser to which must be attached the special calibrated needle with a blunt tip.
+3.	The special stirrers (Dispenstirs).
+4.	The white RPR card.
+5.	The test tube holder.
+
+Except for the test tube holder, all the necessary equipment comes with the RPR card kit.
+
+If many tests are to be done each day and the container with the carbon antigen will be used up within 3 weeks, it is not necessary to keep the container in a fridge. However, the container should be kept in a fridge if it is to be used for more than 3 weeks.
+
+Note
+:	A number of different commercial companies manufacture RPR card tests. (A RPR kit can be obtained from DAVIES DIAGNOSTICS at the toll free number 0800 110 509 in South Africa).
+
+### I The method of performing the RPR card test
+
+1.	Keep the test tube containing 3 ml of clotted blood in an upright position. It is important to remove the stopper when the blood is placed in the tube.
+2.	Place the test tube in the test tube stand for 30 minutes so that the serum can be expressed from the clotted blood.
+3.	Use the special stirrer to transfer one drop of serum from the test tube to the card. Squeeze the hollow stirrer between your thumb and forefinger while the tip of the stirrer is in the serum. Now relax your grip on the stirrer and a sample will be sucked up.
+4.	Place the tip of the stirrer above the test card and again squeeze the stirrer so that one drop falls onto the centre of the circle. If the serum of more than one patient is tested at the same time, the test tube of clotted blood must be numbered and the same number must be written on the card with a soft pen. Make sure that the number on the test tube always corresponds to the number on the card.
+5.	Using the flat end of the stirrer, spread the drop of serum over the whole area within the circle.
+6.	Shake the antigen dispenser containing the antigen suspension well. Use the dispenser with the attached calibrated needle to place *one* drop (50 µl) of antigen onto the serum in the circle.
+7.	The card must now be gently rocked by hand so that the serum and the antigen suspension are well mixed, while the fluid on the card remains within the circle. If available, an electrical rotator can be used to rock the card.
+8.	After 4 minutes of hand rocking or 8 minutes of electronic rocking the test can be read.
+
+### J Reading the results of the RPR card test
+
+1.	**A positive test**: Obvious **clumping** takes place (flocculation). Definite black particles form which are clearly seen with the naked eye. While the particles cover the whole area of the spread-out droplet, they tend to gather around the edge of the droplet.
+2.	**A negative test**: **No clumping** takes place. The small black particles of the carbon antigen tend to collect at the centre of the spread-out droplet where they form a black dot. They do not collect around the rim of the droplet as is seen in a positive test.
+
+### K Interpretation of the results of the RPR card test
+
+1.	**A positive test**: Explain to the patient that the screening test for syphilis is positive but that this should be confirmed or rejected by a laboratory test. It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated. If possible, send a sample of clotted blood to the laboratory for a RPR or VDRL test and ask the patient to return in one week for the result.
+2.	**A negative test**: The patient can be reassured that she does not have syphilis. No treatment is needed. However, it is advisable that 1 out of every 20 negative RPR tests be checked with a laboratory VDRL test in order that quality control can be observed.
+
+If it cannot be decided whether clumping of particles is present or not, a sample of the patient’s blood must be sent to the laboratory for a VDRL test. The patient must be seen again as soon as the results are available so that the correct management can be given. If the patient cannot come back for the result or if it is not possible to get a laboratory VDRL, start treatment immediately.
+
+<figure>
+	<img src="images/pmc-1D-1.svg" alt="Figure 1D-1: Examples of positive and negative tests">
+	<figcaption>Figure 1D-1: Examples of positive and negative tests</figcaption>
+</figure>
