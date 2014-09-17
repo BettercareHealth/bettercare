@@ -1,5 +1,5 @@
 ---
-title: 1A. Skills workshop: Neonatal resuscitation
+title: 1A. Skills workshop on Neonatal resuscitation
 layout: chapter
 ---
 

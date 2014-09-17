@@ -1,5 +1,5 @@
 ---
-title: 7A. Skills workshop: Temperature control and hypothermia
+title: 7A. Skills workshop on Temperature control and hypothermia
 layout: chapter
 ---
 

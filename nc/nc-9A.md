@@ -1,5 +1,5 @@
 ---
-title: 9A. Skills workshop: Jaundice and phototherapy
+title: 9A. Skills workshop on Jaundice and phototherapy
 layout: chapter
 ---
 

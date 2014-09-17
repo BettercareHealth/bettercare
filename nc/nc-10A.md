@@ -1,5 +1,5 @@
 ---
-title: 10A. Skills workshop: Respiratory distress and apnoea
+title: 10A. Skills workshop on Respiratory distress and apnoea
 layout: chapter
 ---
 

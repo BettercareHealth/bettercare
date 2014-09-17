@@ -1,5 +1,5 @@
 ---
-title: 2A. Skills workshop: Gestational age and weight
+title: 2A. Skills workshop on Gestational age and weight
 layout: chapter
 ---
 

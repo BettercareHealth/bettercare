@@ -1,5 +1,5 @@
 ---
-title: 6A. Skills workshop: Feeding sick or high-risk infants
+title: 6A. Skills workshop on Feeding sick or high-risk infants
 layout: chapter
 ---
 

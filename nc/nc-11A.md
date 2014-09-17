@@ -1,5 +1,5 @@
 ---
-title: 11A. Skills workshop: Oxygen therapy
+title: 11A. Skills workshop on Oxygen therapy
 layout: chapter
 ---
 

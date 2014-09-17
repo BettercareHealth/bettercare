@@ -1,5 +1,5 @@
 ---
-title: 3A. Skills workshop: Clinical history and examination
+title: 3A. Skills workshop on Clinical history and examination
 layout: chapter
 ---
 

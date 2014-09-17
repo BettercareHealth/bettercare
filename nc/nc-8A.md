@@ -1,5 +1,5 @@
 ---
-title: 8A. Skills workshop: Glucose control and hypoglycaemia
+title: 8A. Skills workshop on Glucose control and hypoglycaemia
 layout: chapter
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 5A. Skills workshop: Clinical notes and observations
+title: 5A. Skills workshop on Clinical notes and observations
 layout: chapter
 ---
 
