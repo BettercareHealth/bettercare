@@ -63,8 +63,8 @@ Intra-uterine growth restriction may be associated with either maternal, fetal a
 	*	Alcohol intake.
 	*	Strenuous physical work.
 	*	Poor socio-economic conditions.
-	*	Pre-eclampsia and chronic hypertension.
-Poor maternal weight gain is of very little value in diagnosing intra-uterine growth restriction.
+	*	Pre-eclampsia and chronic hypertension.  
+	Poor maternal weight gain is of very little value in diagnosing intra-uterine growth restriction.
 
 2.	**Fetal** factors:
 	*	Multiple pregnancy.
@@ -72,10 +72,10 @@ Poor maternal weight gain is of very little value in diagnosing intra-uterine gr
 	*	Severe congenital malformations.
 	*	Chronic intra-uterine infection, e.g. congenital syphilis.
 
-3.	Placental factors:
+3.	**Placental** factors:
 	*	Poor placental function (placental insufficiency) is usually due to a maternal problem such as pre-eclampsia.
-	*	Smoking.
-Poor placental function is uncommon in a healthy woman who does not smoke.
+	*	Smoking.  
+	Poor placental function is uncommon in a healthy woman who does not smoke.
 
 If severe intra-uterine growth restriction is present, it is essential to look for a maternal or fetal cause. Usually a cause can be found.
 

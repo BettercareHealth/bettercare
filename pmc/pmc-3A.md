@@ -69,10 +69,10 @@ The amount of protein in a sample of urine is simply and easily measured with a 
 
 Using a reagent strip the amount of proteinuria is graded as follows:
 
-	1+ = 0.3 g/l
-	2+ = 1.0 g/l
-	3+ = 3.0 g/l
-	4+ = 10 g/l
+*	1+ = 0.3 g/l
+*	2+ = 1.0 g/l
+*	3+ = 3.0 g/l
+*	4+ = 10 g/l
 
 Remember that a trace (0.1g/l) of protein is not regarded as significant proteinuria and may occur normally.
 

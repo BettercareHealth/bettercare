@@ -24,635 +24,737 @@ The level of care needed is shown as follows:
   <col width="5%" />
   <thead>
   <tr>
-    <td width="11%"><p><strong>Risk factors</strong></p></td>
-    <td width="29%"><p><strong>Possible adverse effects during pregnancy and associated problems</strong></p></td>
-    <td width="49%"><p><strong>Action</strong></p></td>
-    <td width="5%"><p><strong>Level of care</strong></p></td>
+    <td><p><strong>Risk factors</strong></p></td>
+    <td><p><strong>Possible adverse effects during pregnancy and associated problems</strong></p></td>
+    <td><p><strong>Action</strong></p></td>
+    <td><p><strong>Level of care</strong></p></td>
   </tr>
   </thead>
   <tr>
-    <td colspan="4" width="98%"><p align="center"><strong>Risk factors identified from the patient’s history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p align="center"><strong>Risk factors identified from the patient's history</strong></p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Maternal age</em></p></td>
+    <td colspan="4" class="table-subhead"><p><em>Maternal age</em></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>15 years or less</p></td>
-    <td width="29%"><p>Pregnancy may have a detrimental effect on the development of the patient’s personality.</p></td>
-    <td width="49%"><p>Determine the duration of pregnancy. If 20 weeks or less termination may be indicated.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>15 years or less</p></td>
+    <td><p>Pregnancy may have a detrimental effect on the development of the patient's personality.</p></td>
+    <td><p>Determine the duration of pregnancy. If 20 weeks or less termination may be indicated.</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>16-19 years</p></td>
-    <td width="29%"><p> Poor social circumstances.</p>
-      <p> Pre-eclampsia.</p>
-      <p> <br />
-      </p>
-      <p>Anaemia.</p></td>
-    <td width="49%"><p> Refer to social worker for support. Watch for proteinuria and a rise in blood pressure from 28 weeks.</p>
-      <p> <br />
-      </p>
-      <p>Regular Hb checks.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td rowspan="3"><p>16-19 years</p></td>
+    <td><p> Poor social circumstances.</p></td>
+    <td><p> Refer to social worker for support. Watch for proteinuria and a rise in blood pressure from 28 weeks.</p></td>
+    <td rowspan="3"><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>37 years or more</p></td>
-    <td width="29%"><p>Medical conditions such as hypertension and diabetes are commoner.</p></td>
-    <td width="49%"><p> Carefully look for medical problems at the first visit, and at 28 and 34 weeks</p>
-      <p>Motivate for sterilisation.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>Pre-eclampsia.</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td width="11%"><p>37 years or more</p></td>
-    <td width="29%"><p>Chromosome abnormalities are commoner, e.g. Down syndrome</p></td>
-    <td width="49%"><p> Determine the duration of pregnancy:</p>
+    <td>Anaemia.</td>
+    <td>Regular Hb checks.</td>
+  </tr>
+  <tr>
+    <td><p>37 years or more</p></td>
+    <td><p>Medical conditions such as hypertension and diabetes are commoner.</p></td>
+    <td><p> Carefully look for medical problems at the first visit, and at 28 and 34 weeks.</p>
+    <p>Motivate for sterilisation.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>37 years or more</p></td>
+    <td><p>Chromosome abnormalities are commoner, e.g. Down syndrome</p></td>
+    <td><p> Determine the duration of pregnancy:</p>
       <p> If 13 weeks or less, an ultrasound examination for nuchal thickness is done, followed at 22 weeks looking for structural defects.</p>
       <p> If more than 13 weeks, a genetic amniocentesis should be done between 16 and 22 weeks.</p>
       <p>Before referral, make sure that the patient will agree to termination of pregnancy, if this is indicated.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr class="table-subhead">
+    <td colspan="4" class="table-subhead"><p><em>General history</em></p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>General history</em></p></td>
+    <td><p>Allergies</p></td>
+    <td><p>Penicillin allergy with an anaphylactic reaction is always dangerous, but rarely occurs.</p></td>
+    <td><p>Allergies must always be clearly documented on the folder and antenatal card.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Allergies</p></td>
-    <td width="29%"><p>Penicillin allergy with an anaphylactic reaction is always dangerous, but rarely occurs.</p></td>
-    <td width="49%"><p>Allergies must always be clearly documented on the folder and antenatal card.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td rowspan="5"><p>Body Mass Index (BMI)</p></td>
+    <td><p> Cephalopelvic disproportion and shoulder dystocia.</p></td>
+    <td><p> Ultrasound examination for accurate gestational age estimation at 18-22 weeks.</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Body Mass Index (BMI)</p></td>
-    <td width="29%"><p> Cephalopelvic disproportion and shoulder dystocia.</p>
-      <p> <br />
-      </p>
-      <p> Hypertension and diabetes</p>
-      <p> <br />
-      </p>
-      <p> Use weight, height and attached BMI table.</p>
+    <td>Hypertension and diabetes</td>
+    <td>Monitor for hypertension and glycosuria.</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Use weight, height and attached BMI table.</p>
       <p> When reading BMI off table:</p>
       <p> With 1st visit in 2nd trimester, subtract 4 kg</p>
-      <p>With 1st visit in 3rd trimester, subtract 8 kg</p></td>
-    <td width="49%"><p> Ultrasound examination for accurate gestational age estimation at 18-22 weeks.</p>
-      <p> <br />
-      </p>
-      <p> Monitor for hypertension and glycosuria.</p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> BMI below 40</p>
-      <p> BMI above 40 but below 50</p>
-      <p>BMI above 50</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> 1</p>
-      <p> 2</p>
-      <p>3</p></td>
+    <p>With 1st visit in 3rd trimester, subtract 8 kg</p></td>
+    <td>BMI below 40</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td width="11%"><p>Diabetes mellitus (in the patient)</p></td>
-    <td width="29%"><p> Pregnancy worsens the diabetes.</p>
+    <td>BMI above 40 but below 50</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>BMI above 50</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><p>Diabetes mellitus (in the patient)</p></td>
+    <td><p> Pregnancy worsens the diabetes.</p>
       <p> Insulin requirements increase.</p>
       <p> Higher incidence of fetal death.</p>
       <p> Large babies with obstructed labour and birth injuries.</p>
       <p>Neonatal hypoglycaemia.</p></td>
-    <td width="49%"><p>Careful control of the diabetes, in order to keep the blood glucose levels as close to normal as possible is absolutely essential.</p></td>
-    <td width="5%"><p>3</p></td>
+    <td><p>Careful control of the diabetes, in order to keep the blood glucose levels as close to normal as possible is absolutely essential.</p></td>
+    <td><p>3</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Diabetes mellitus (family history)</p></td>
-    <td width="29%"><p>There is an increased risk of the patient developing diabetes during pregnancy.</p></td>
-    <td width="49%"><p> Careful screen for glycosuria:</p>
-      <p> If absent –</p>
-      <p>If present –</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p>2</p></td>
+    <td rowspan="3"><p>Diabetes mellitus (family history)</p></td>
+    <td rowspan="3"><p>There is an increased risk of the patient developing diabetes during pregnancy.</p></td>
+    <td><p> Careful screen for glycosuria:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Epilepsy</p></td>
-    <td width="29%"><p>Convulsions may occur more frequently in pregnancy. Some anticonvulsant drugs may cause congenital abnormalities.</p></td>
-    <td width="49%"><p>The dose of anticonvulsant drugs may need to be increased. Put the patient on a safe drug before pregnancy (e.g. carbamazepine). The drugs are not changed during pregnancy because of the danger of convulsions.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>If absent –</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td width="11%"><p>Congenital abnormalities (in the family)</p></td>
-    <td width="29%"><p>Serious abnormalities tend to recur.</p></td>
-    <td width="49%"><p> Arrange for ultrasound and amniocentesis at 16 weeks:</p>
-      <p> If normal –</p>
-      <p>If abnormal –</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p>2</p></td>
+    <td>If present –</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Drugs or medication</p></td>
-    <td width="29%"><p> Danger of teratogenesis.</p>
+    <td><p>Epilepsy</p></td>
+    <td><p>Convulsions may occur more frequently in pregnancy. Some anticonvulsant drugs may cause congenital abnormalities.</p></td>
+    <td><p>The dose of anticonvulsant drugs may need to be increased. Put the patient on a safe drug before pregnancy (e.g. carbamazepine). The drugs are not changed during pregnancy because of the danger of convulsions.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Congenital abnormalities (in the family)</p></td>
+    <td rowspan="3"><p>Serious abnormalities tend to recur.</p></td>
+    <td><p> Arrange for ultrasound and amniocentesis at 16 weeks:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>If normal –</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>If abnormal –</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><p>Drugs or medication</p></td>
+    <td><p> Danger of teratogenesis.</p>
       <p>Points towards a disease NOT mentioned in the history.</p></td>
-    <td width="49%"><p>Get accurate details and consult a doctor.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Get accurate details and consult a doctor.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>HIV</p></td>
-    <td width="29%"><p> Mother-to-child transmission of HIV.</p>
-      <p>With AIDS the mother’s clinical condition may deteriorate.</p></td>
-    <td width="49%"><p> Join a prevention of mother-to-child transmission programme.</p>
-      <p> Refer to an antiretroviral (ARV) clinic for HAART.</p>
-      <p>The stage of disease needs to be determined and noted. Check at each visit for symptoms and signs indicating progression at a more advanced stage of disease.</p></td>
-    <td width="5%"><p> 1</p>
-      <p> <br />
-      </p>
-      <p>2</p></td>
+    <td rowspan="3"><p>HIV</p></td>
+    <td rowspan="3"><p> Mother-to-child transmission of HIV.</p>
+      <p>With AIDS the mother's clinical condition may deteriorate.</p></td>
+    <td><p> Join a prevention of mother-to-child transmission programme.</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Auto-immune diseases</p></td>
-    <td width="29%"><p> Raised perinatal mortality rate.</p>
+    <td>Refer to an antiretroviral (ARV) clinic for HAART.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>The stage of disease needs to be determined and noted. Check at each visit for symptoms and signs indicating progression at a more advanced stage of disease.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><p>Auto-immune diseases</p></td>
+    <td><p> Raised perinatal mortality rate.</p>
       <p>Early onset of severe pre-eclampsia.</p></td>
-    <td width="49%"><p>Get detailed information about the disease and medication.</p></td>
-    <td width="5%"><p>3</p></td>
+    <td><p>Get detailed information about the disease and medication.</p></td>
+    <td><p>3</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Psychiatric illness</p></td>
-    <td width="29%"><p> Suicide is commoner.</p>
+    <td><p>Psychiatric illness</p></td>
+    <td><p> Suicide is commoner.</p>
       <p>Illness may become worse during pregnancy.</p></td>
-    <td width="49%"><p> Get detailed information about the disease and medication.</p>
+    <td><p> Get detailed information about the disease and medication.</p>
       <p>Termination of pregnancy may be indicated (if duration of pregnancy is less than 20 weeks).</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Rubella</p></td>
-    <td width="29%"><p>Congenital abnormalities.</p></td>
-    <td width="49%"><p> Ask about fever and a skin rash in the first trimester of pregnancy and also about contact with rubella.</p>
+    <td><p>Rubella</p></td>
+    <td><p>Congenital abnormalities.</p></td>
+    <td><p> Ask about fever and a skin rash in the first trimester of pregnancy and also about contact with rubella.</p>
       <p>Antibody titres can confirm or exclude diagnosis.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Thyrotoxicosis (hyperthyroidism)</p></td>
-    <td width="29%"><p>Thyrotoxicosis and/or goitre in the neonate.</p></td>
-    <td width="49%"><p>Get detailed information about the illness and medication. Thyroid hormone levels in cord blood.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>Thyrotoxicosis (hyperthyroidism)</p></td>
+    <td><p>Thyrotoxicosis and/or goitre in the neonate.</p></td>
+    <td><p>Get detailed information about the illness and medication. Thyroid hormone levels in cord blood.</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p align="center"><strong>Systematic history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p align="center"><strong>Systematic history</strong></p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Respiratory System</em></p></td>
+    <td colspan="4" class="table-subhead"><p><em>Respiratory System</em></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Asthma</p></td>
-    <td width="29%"><p> Prostaglandin F2 alpha is contra-indicated.</p>
+    <td rowspan="3"><p>Asthma</p></td>
+    <td rowspan="3"><p> Prostaglandin F2 alpha is contra-indicated.</p>
       <p>Asthma usually improves during pregnancy.</p></td>
-    <td width="49%"><p> Ask about medication and symptoms:</p>
-      <p> Asymptomatic and not on steroids –</p>
-      <p>Symptomatic and on steroids –</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p>2</p></td>
+    <td><p> Ask about medication and symptoms:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Chronic cough more than 21 days. Night sweats and weight loss.</p></td>
-    <td width="29%"><p>Possible tuberculosis and/or AIDS.</p></td>
-    <td width="49%"><p> Single X-ray chest with fetus screened off and sputum for TB bacilli.</p>
+    <td>Asymptomatic and not on steroids –</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Symptomatic and on steroids –</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><p>Chronic cough more than 21 days. Night sweats and weight loss.</p></td>
+    <td><p>Possible tuberculosis and/or AIDS.</p></td>
+    <td><p> Single X-ray chest with fetus screened off and sputum for TB bacilli.</p>
       <p>A rapid test if HIV status unknown.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Active tuberculosis</p></td>
-    <td width="29%"><p>Spread to other family members and the newborn infant.</p></td>
-    <td width="49%"><p>If stable and on treatment. The newborn infant must be given isoniazid.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Active tuberculosis</p></td>
+    <td><p>Spread to other family members and the newborn infant.</p></td>
+    <td><p>If stable and on treatment. The newborn infant must be given isoniazid.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Cardiovascular System</em></p></td>
+    <td colspan="4" class="table-subhead"><p><em>Cardiovascular System</em></p></td>
   </tr>
   <tr>
-    <td width="11%"><p> Hypertension:</p>
+    <td rowspan="3"><p> Hypertension:</p>
       <p> 1. Diastolic 90 mm Hg or more.</p>
       <p>2. Antihypertensive treatment.</p></td>
-    <td width="29%"><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
-    <td width="49%"><p> Change to alpha methyldopa and stop diuretics:</p>
-      <p> <br />
-      </p>
-      <p> With good control and no proteinuria –</p>
-      <p>With diastolic 90 mm Hg or more or proteinuria –</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> <br />
-      </p>
-      <p> 2</p>
-      <p>3</p></td>
+    <td rowspan="3"><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
+    <td><p> Change to alpha methyldopa and stop diuretics:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Dyspnoea and orthopnoea</p></td>
-    <td width="29%"><p>Symptoms of heart failure.</p></td>
-    <td width="49%"><p>Underlying heart disease must be excluded or confirmed by the doctor.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>With good control and no proteinuria –</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Rheumatic heart disease</p></td>
-    <td width="29%"><p>Cardiac output increases with increased risk of cardiac failure and maternal death.</p></td>
-    <td width="49%"><p> No symptoms or signs of heart failure, and no stenotic heart valve lesions –</p>
-      <p>Symptoms and signs of heart failure and/or stenotic heart valve lesions –</p></td>
-    <td width="5%"><p> 2</p>
-      <p> <br />
-      </p>
-      <p>3</p></td>
+    <td>With diastolic 90 mm Hg or more or proteinuria –</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td width="11%"><p>Varicose veins</p></td>
-    <td width="29%"><p> May indicate previous venous thrombosis. </p>
+    <td><p>Dyspnoea and orthopnoea</p></td>
+    <td><p>Symptoms of heart failure.</p></td>
+    <td><p>Underlying heart disease must be excluded or confirmed by the doctor.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>Rheumatic heart disease</p></td>
+    <td rowspan="2"><p>Cardiac output increases with increased risk of cardiac failure and maternal death.</p></td>
+    <td><p> No symptoms or signs of heart failure, and no stenotic heart valve lesions –</p></td>
+    <td><p> 2</p></td>
+  </tr>
+  <tr>
+    <td>Symptoms and signs of heart failure and/or stenotic heart valve lesions –</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><p>Varicose veins</p></td>
+    <td><p> May indicate previous venous thrombosis. </p>
       <p>Become worse during pregnancy.</p></td>
-    <td width="49%"><p>Watch for possible thrombosis. Bedrest and elastic stockings.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Watch for possible thrombosis. Bedrest and elastic stockings.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Thrombo-embolism</p></td>
-    <td width="29%"><p>Increased incidence in pregnancy with risk of maternal death.</p></td>
-    <td width="49%"><p>Anticoagulant therapy during pregnancy may have to be considered.</p></td>
-    <td width="5%"><p>3</p></td>
+    <td><p>Thrombo-embolism</p></td>
+    <td><p>Increased incidence in pregnancy with risk of maternal death.</p></td>
+    <td><p>Anticoagulant therapy during pregnancy may have to be considered.</p></td>
+    <td><p>3</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Alimentary System</em></p></td>
+    <td colspan="4" class="table-subhead"><p><em>Alimentary System</em></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Haemorrhoids</p></td>
-    <td width="29%"><p> May get worse in pregnancy.</p>
+    <td><p>Haemorrhoids</p></td>
+    <td><p> May get worse in pregnancy.</p>
       <p>May prolapse and thrombose.</p></td>
-    <td width="49%"><p>Only conservative management needed.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Only conservative management needed.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Jaundice</p></td>
-    <td width="29%"><p> Danger if the patient is a carrier of the hepatitis B virus.</p>
+    <td rowspan="3"><p>Jaundice</p></td>
+    <td rowspan="3"><p> Danger if the patient is a carrier of the hepatitis B virus.</p>
       <p>Can infect the infant during delivery.</p></td>
-    <td width="49%"><p> Test for the hepatitis B antigen:</p>
-      <p> If antigen absent –</p>
-      <p>If antigen present (the infant must be given hyperimmune globulin and be immunised) –</p></td>
-    <td width="5%"><p> 1</p>
-      <p> <br />
-      </p>
-      <p>2</p></td>
+    <td><p> Test for the hepatitis B antigen:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>HIV positive and on HAART</p></td>
-    <td width="29%"><p>High risk for serious liver damage</p></td>
-    <td width="49%"><p>Stop nevirapine and refer to an ARV clinic</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>If antigen absent –</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Urinary system</em></p></td>
+    <td>If antigen present (the infant must be given hyperimmune globulin and be immunised) –</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Pyelonephritis</p></td>
-    <td width="29%"><p>High risk of recurrence.</p></td>
-    <td width="49%"><p>Midstream urine (MSU) for culture to be sure that the infection is completely treated.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>HIV positive and on HAART</p></td>
+    <td><p>High risk for serious liver damage</p></td>
+    <td><p>Stop nevirapine and refer to an ARV clinic</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Cystitis</p></td>
-    <td width="29%"><p>Common in pregnancy.</p></td>
-    <td width="49%"><p>MSU for culture if symptomatic.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td colspan="4" class="table-subhead"><p><em>Urinary system</em></p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p><em>Surgical History</em></p></td>
+    <td><p>Pyelonephritis</p></td>
+    <td><p>High risk of recurrence.</p></td>
+    <td><p>Midstream urine (MSU) for culture to be sure that the infection is completely treated.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Myomectomy</p></td>
-    <td width="29%"><p>Danger of ruptured uterus.</p></td>
-    <td width="49%"><p>Elective caesarean section indicated.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>Cystitis</p></td>
+    <td><p>Common in pregnancy.</p></td>
+    <td><p>MSU for culture if symptomatic.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Diabetes mellitus</p></td>
-    <td width="29%"><p>Recurs in successive pregnancies. Complications already mentioned.</p></td>
-    <td width="49%"><p>Random blood glucose if there is glycosuria.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td colspan="4" class="table-subhead"><p><em>Surgical History</em></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Thyroidectomy</p></td>
-    <td width="29%"><p>Hypothyroidism can develop during pregnancy with the danger of abortion.</p></td>
-    <td width="49%"><p> If hyperthyroidism was the indication for surgery, manage as for thyrotoxicosis.</p>
+    <td><p>Myomectomy</p></td>
+    <td><p>Danger of ruptured uterus.</p></td>
+    <td><p>Elective caesarean section indicated.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>Thyroidectomy</p></td>
+    <td><p>Hypothyroidism can develop during pregnancy with the danger of abortion.</p></td>
+    <td><p> If hyperthyroidism was the indication for surgery, manage as for thyrotoxicosis.</p>
       <p>Look carefully for an operation scar. Thyroid function tests are indicated.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Chest surgery</p></td>
-    <td width="29%"><p>High risk of thrombosis of artificial heart valves in pregnancy.</p></td>
-    <td width="49%"><p> Warfarin: danger of teratogenesis in the 1st and bleeding in the 3rd trimester.</p>
+    <td><p>Chest surgery</p></td>
+    <td><p>High risk of thrombosis of artificial heart valves in pregnancy.</p></td>
+    <td><p> Warfarin: danger of teratogenesis in the 1st and bleeding in the 3rd trimester.</p>
       <p>Correct use of anticoagulant therapy.</p></td>
-    <td width="5%"><p>3</p></td>
+    <td><p>3</p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p align="center"><strong>Previous obstetric history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p align="center"><strong>Previous obstetric history</strong></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Abruptio placentae</p></td>
-    <td width="29%"><p> Tends to recur:</p>
+    <td rowspan="3"><p>Abruptio placentae</p></td>
+    <td rowspan="3"><p> Tends to recur:</p>
       <p> 10% chance after 1 previous abruption.</p>
       <p>25% chance after 2 previous abruptions.</p></td>
-    <td width="49%"><p> Advise the patient:</p>
-      <p> Induce labour at 38 weeks.</p>
-      <p>Deliver at 34 weeks, antenatal steroids for lung maturity must be given –</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 2</p>
-      <p>3</p></td>
+    <td><p> Advise the patient:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Ectopic pregnancy</p></td>
-    <td width="29%"><p>High risk of recurrence.</p></td>
-    <td width="49%"><p>Gynaecological examination to confirm intra-uterine pregnancy (ultrasound if uncertain).</p></td>
-    <td width="5%"><p>1</p></td>
+    <td>Induce labour at 38 weeks.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Grande multiparity (5 or more pregnancies have reached viability)</p></td>
-    <td width="29%"><p> Medical conditions are commoner.</p>
+    <td>Deliver at 34 weeks, antenatal steroids for lung maturity must be given –</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><p>Diabetes mellitus</p></td>
+    <td><p>Recurs in successive pregnancies. Complications already mentioned.</p></td>
+    <td><p>Random blood glucose if there is glycosuria.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>Ectopic pregnancy</p></td>
+    <td><p>High risk of recurrence.</p></td>
+    <td><p>Gynaecological examination to confirm intra-uterine pregnancy (ultrasound if uncertain).</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Grande multiparity (5 or more pregnancies have reached viability)</p></td>
+    <td><p> Medical conditions are commoner.</p>
       <p>Obstetric complications are commoner: IUGR, multiple pregnancy, abnormal lie, obstructed labour and postpartum haemorrhage.</p></td>
-    <td width="49%"><p> Motivate for sterilisation.</p>
+    <td><p> Motivate for sterilisation.</p>
       <p> Look for medical conditions at the first visit.</p>
       <p>Look for abnormal lie after 34 weeks.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Infertility</p></td>
-    <td width="29%"><p>Ectopic pregnancy and multiple pregnancy commoner</p></td>
-    <td width="49%"><p>Gynaecological examination to confirm intra-uterine pregnancy and the size of the uterus. (Ultrasound examination is indicated.)</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>Infertility</p></td>
+    <td><p>Ectopic pregnancy and multiple pregnancy commoner</p></td>
+    <td><p>Gynaecological examination to confirm intra-uterine pregnancy and the size of the uterus. (Ultrasound examination is indicated.)</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Caesarean section(s)</p></td>
-    <td width="29%"><p>Danger of ruptured uterus with previous vertical uterine incision, or with two or more caesarian sections.</p></td>
-    <td width="49%"><p> Get details of the indication and type of incision from old records.</p>
+    <td><p>Caesarean section(s)</p></td>
+    <td><p>Danger of ruptured uterus with previous vertical uterine incision, or with two or more caesarian sections.</p></td>
+    <td><p> Get details of the indication and type of incision from old records.</p>
       <p>Elective caesarean section at 39 weeks if 2 previous caesarean sections or a vertical incision.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Congenital abnormalities</p></td>
-    <td width="29%"><p> Possible genetic inheritance.</p>
+    <td><p>Congenital abnormalities</p></td>
+    <td><p> Possible genetic inheritance.</p>
       <p>High risk of recurrence.</p></td>
-    <td width="49%"><p>Genetic counselling. Amniocentesis and ultrasound may be useful.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>Genetic counselling. Amniocentesis and ultrasound may be useful.</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Abortion</p></td>
-    <td width="29%"><p> More than two first trimester abortions.</p>
+    <td rowspan="2"><p>Abortion</p></td>
+    <td rowspan="2"><p> More than two first trimester abortions.</p>
       <p>One or more mid-trimester abortions.</p></td>
-    <td width="49%"><p> Genetic amniocentesis indicated.</p>
-      <p>If history indicates an incompetent cervix, a MacDonald stitch may be indicated (inserted at 14-16 weeks ).</p></td>
-    <td width="5%"><p> 2</p>
-      <p>2</p></td>
+    <td><p> Genetic amniocentesis indicated.</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Perinatal death</p></td>
-    <td width="29%"><p>Highest risk group for another perinatal death to occur (especially when the cause is unknown).</p></td>
-    <td width="49%"><p>Get a detailed history and the notes from the previous pregnancy.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>If history indicates an incompetent cervix, a MacDonald stitch may be indicated (inserted at 14-16 weeks ).</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Postpartum haemorrhage and retained placenta</p></td>
-    <td width="29%"><p>Tend to recur in successive pregnancies.</p></td>
-    <td width="49%"><p>Deliver in hospital.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>Perinatal death</p></td>
+    <td><p>Highest risk group for another perinatal death to occur (especially when the cause is unknown).</p></td>
+    <td><p>Get a detailed history and the notes from the previous pregnancy.</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Pre-eclampsia</p></td>
-    <td width="29%"><p> Two groups:</p>
+    <td><p>Postpartum haemorrhage and retained placenta</p></td>
+    <td><p>Tend to recur in successive pregnancies.</p></td>
+    <td><p>Deliver in hospital.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>Pre-eclampsia</p></td>
+    <td rowspan="2"><p> Two groups:</p>
       <p> 1. Primigravidas with pre-eclampsia close to term.</p>
       <p>2. Previous pregnancy with pre-eclampsia developing in late 2nd or early 3rd trimester of pregnancy.</p></td>
-    <td width="49%"><p> <br />
-    </p>
-      <p> Low risk of recurrence.</p>
-      <p> <br />
-      </p>
-      <p>High risk of recurrence. Low dose aspirin (Disprin) 75 mg daily from 14 weeks.</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p> <br />
-      </p>
-      <p>2</p></td>
+    <td><p> Low risk of recurrence.</p></td>
+    <td><p> 1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Primigravida</p></td>
-    <td width="29%"><p>Higher incidence of pre-eclampsia late in pregnancy.</p></td>
-    <td width="49%"><p>Careful attention to blood pressure and proteinuria.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td>High risk of recurrence. Low dose aspirin (Disprin) 75 mg daily from 14 weeks.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Vacuum extraction or forceps delivery</p></td>
-    <td width="29%"><p>May indicate cephalopelvic disproportion.</p></td>
-    <td width="49%"><p>Careful use of the partogram in labour.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Primigravida</p></td>
+    <td><p>Higher incidence of pre-eclampsia late in pregnancy.</p></td>
+    <td><p>Careful attention to blood pressure and proteinuria.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Preterm labour</p></td>
-    <td width="29%"><p>High risk of a recurrence in the same pregnancy.</p></td>
-    <td width="49%"><p>Assess the cervix regularly from 26 to 32 weeks for changes, more regular bed rest, no intercourse in the second half of pregnancy. If there is cervical incompetence, a MacDonald suture may be indicated.</p></td>
-    <td width="5%"><p><br />
+    <td><p>Vacuum extraction or forceps delivery</p></td>
+    <td><p>May indicate cephalopelvic disproportion.</p></td>
+    <td><p>Careful use of the partogram in labour.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Preterm labour</p></td>
+    <td><p>High risk of a recurrence in the same pregnancy.</p></td>
+    <td><p>Assess the cervix regularly from 26 to 32 weeks for changes, more regular bed rest, no intercourse in the second half of pregnancy. If there is cervical incompetence, a MacDonald suture may be indicated.</p></td>
+    <td><p>3<br />
     </p></td>
   </tr>
   <tr>
-    <td colspan="4" width="98%"><p align="center"><strong>Present obstetric history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p align="center"><strong>Present obstetric history</strong></p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Antepartum haemorrhage</p></td>
-    <td width="29%"><p>Abruptio placentae and placenta praevia are both serious complications. Local causes, e.g. vaginitis, cervicitis, can also cause bleeding.</p></td>
-    <td width="49%"><p> If not currently bleeding and there is no fetal distress:</p>
-      <p> 1. Do speculum examination:</p>
-      <p> No local cause.</p>
-      <p> Treatable local cause present.</p>
-      <p> 2. Sonology shows placenta praevia.</p>
-      <p><br />
-      </p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> <br />
-      </p>
-      <p> 2</p>
-      <p> 1</p>
-      <p>3</p></td>
+    <td rowspan="4"><p>Antepartum haemorrhage</p></td>
+    <td rowspan="4"><p>Abruptio placentae and placenta praevia are both serious complications. Local causes, e.g. vaginitis, cervicitis, can also cause bleeding.</p></td>
+    <td><p> If not currently bleeding and there is no fetal distress:</p>
+      <p> 1. Do speculum examination:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Asymptomatic bacteriuria</p></td>
-    <td width="29%"><p> 33% incidence of pyelonephritis in these patients.</p>
+    <td>No local cause.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Treatable local cause present.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2. Sonology shows placenta praevia.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><p>Asymptomatic bacteriuria</p></td>
+    <td><p> 33% incidence of pyelonephritis in these patients.</p>
       <p>High risk of preterm labour.</p></td>
-    <td width="49%"><p> Course of antibiotics.</p>
+    <td><p> Course of antibiotics.</p>
       <p>Repeat urine culture at next antenatal visit.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Diastolic blood pressure of 90 mm Hg or more</p></td>
-    <td width="29%"><p>Hypertension or pre-eclampsia.</p></td>
-    <td width="49%"><p> Repeat after 30 minutes rest on her side:</p>
-      <p> If diastolic 90-99 mmHg without proteinuria, start alpha methyl dopa.</p>
-      <p>If diastolic 100 mmHg or more or proteinuria, admit to hospital.</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 2</p>
-      <p> <br />
-      </p>
-      <p>2</p></td>
+    <td rowspan="3"><p>Diastolic blood pressure of 90 mm Hg or more</p></td>
+    <td rowspan="3"><p>Hypertension or pre-eclampsia.</p></td>
+    <td><p> Repeat after 30 minutes rest on her side:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Reduced fetal movements</p></td>
-    <td width="29%"><p>Fetal distress or intra-uterine death.</p></td>
-    <td width="49%"><p> Duration of pregnancy 28 weeks or more.</p>
-      <p> Repeat kick charts:</p>
-      <p> Good count without IUGR.</p>
-      <p> Good count with IUGR.</p>
-      <p>If count remains poor, admit to hospital.</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> <br />
-      </p>
-      <p> 1</p>
-      <p> 2</p>
-      <p>2</p></td>
+    <td>If diastolic 90-99 mmHg without proteinuria, start alpha methyl dopa.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Glycosuria 3+ or more</p></td>
-    <td width="29%"><p>Probable diabetes.</p></td>
-    <td width="49%"><p> Random blood glucose estimation:</p>
-      <p> 8 to 11 mmol/l – arrange for fasting blood glucose estimation.</p>
-      <p> 11 mmol/l or more = diabetes.</p>
-      <p>Admit to hospital for control if diabetes diagnosed.</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p> <br />
-      </p>
-      <p>2</p></td>
+    <td>If diastolic 100 mmHg or more or proteinuria, admit to hospital.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Glycosuria 1+ and 2+</p></td>
-    <td width="29%"><p>Possible diabetes.</p></td>
-    <td width="49%"><p> Arrange for random blood glucose estimation.</p>
+    <td rowspan="4"><p>Reduced fetal movements</p></td>
+    <td rowspan="4"><p>Fetal distress or intra-uterine death.</p></td>
+    <td><p> Duration of pregnancy 28 weeks or more.</p>
+    <p> Repeat kick charts:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>Good count without IUGR.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Good count with IUGR.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>If count remains poor, admit to hospital.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Glycosuria 3+ or more</p></td>
+    <td rowspan="3"><p>Probable diabetes.</p></td>
+    <td><p> Random blood glucose estimation:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>8 to 11 mmol/l – arrange for fasting blood glucose estimation.</p>
+    <p> 11 mmol/l or more = diabetes.</p></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Admit to hospital for control if diabetes diagnosed.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><p>Glycosuria 1+ and 2+</p></td>
+    <td><p>Possible diabetes.</p></td>
+    <td><p> Arrange for random blood glucose estimation.</p>
       <p>Less than 8 mm/l is normal.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Haemoglobin less than 10 g/dl</p></td>
-    <td width="29%"><p>Anaemia in pregnancy.</p></td>
-    <td width="49%"><p> Arrange full blood count.</p>
+    <td><p>Haemoglobin less than 10 g/dl</p></td>
+    <td><p>Anaemia in pregnancy.</p></td>
+    <td><p> Arrange full blood count.</p>
       <p>If confirmed anaemia – Refer.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Haematuria</p></td>
-    <td width="29%"><p> Possible cystitis.</p>
+    <td><p>Haematuria</p></td>
+    <td><p> Possible cystitis.</p>
       <p>Bilharzia, if endemic in the area.</p></td>
-    <td width="49%"><p>Urine microscopy and culture. Treat cystitis.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Urine microscopy and culture. Treat cystitis.</p></td>
+    <td><p>1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Multiple pregnancy</p></td>
-    <td width="29%"><p> Greater risk of preterm labour.</p>
+    <td rowspan="3"><p>Multiple pregnancy</p></td>
+    <td rowspan="3"><p> Greater risk of preterm labour.</p>
       <p> High incidence of perinatal death and pre-eclampsia.</p>
       <p>Anaemia.</p></td>
-    <td width="49%"><p> Regular vaginal examinations from 26 weeks for cervical effacement and dilatation.</p>
+    <td><p> Regular vaginal examinations from 26 weeks for cervical effacement and dilatation.</p>
       <p> Careful monitoring of proteinuria and rising blood pressure.</p>
       <p> Do Hb more frequently.</p>
-      <p> Ultrasound examination for growth and chorionicity:</p>
-      <p> Monochorionic (one placenta)</p>
-      <p>Dichorionic (two placentas)</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> <br />
-      </p>
-      <p> 3</p>
-      <p>2</p></td>
+    <p> Ultrasound examination for growth and chorionicity:</p></td>
+    <td><p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Pyelonephritis in current pregnancy</p></td>
-    <td width="29%"><p>High risk of recurrence.</p></td>
-    <td width="49%"><p>Follow-up urine culture to ensure that treatment was successful.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td>Monochorionic (one placenta)</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td width="11%"><p>Polyhydramnios</p></td>
-    <td width="29%"><p> Congenital abnormalities.</p>
+    <td>Dichorionic (two placentas)</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><p>Pyelonephritis in current pregnancy</p></td>
+    <td><p>High risk of recurrence.</p></td>
+    <td><p>Follow-up urine culture to ensure that treatment was successful.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>Polyhydramnios</p></td>
+    <td><p> Congenital abnormalities.</p>
       <p> Multiple pregnancy.</p>
       <p> Diabetes mellitus.</p>
       <p>Rh sensitisation may be present.</p></td>
-    <td width="49%"><p> Ultrasound examination and random blood glucose estimation are indicated. Check blood groups, and possible sensitisation.</p>
+    <td><p> Ultrasound examination and random blood glucose estimation are indicated. Check blood groups, and possible sensitisation.</p>
       <p>Exclude oesophageal atresia in the infant immediately after birth.</p></td>
-    <td width="5%"><p>2</p></td>
+    <td><p>2</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Proteinuria</p></td>
-    <td width="29%"><p>Pre-eclampsia or renal disease, e.g. chronic nephritis or nephrosis, may be present.</p></td>
-    <td width="49%"><p> Exclude urinary tract infection. Test urine for protein:</p>
-      <p> Trace (150 mg/l) can be normal.</p>
-      <p> 1+ (500 mg/l) and blood pressure normal.</p>
-      <p>More than 1 + indicates pre-eclampsia or serious kidney disease. Admit to hospital.</p></td>
-    <td width="5%"><p> <br />
+    <td rowspan="4"><p>Proteinuria</p></td>
+    <td rowspan="4"><p>Pre-eclampsia or renal disease, e.g. chronic nephritis or nephrosis, may be present.</p></td>
+    <td><p> Exclude urinary tract infection. Test urine for protein:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>Trace (150 mg/l) can be normal.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>1+ (500 mg/l) and blood pressure normal.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>More than 1 + indicates pre-eclampsia or serious kidney disease. Admit to hospital.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>Ruptured membranes</p></td>
+    <td rowspan="2"><p>Preterm labour and chorioamnionitis.</p></td>
+    <td><p> If 36 weeks or more admit to hospital, wait until the membranes have been ruptured for 6 hours, then induce labour with oxytocin.</p></td>
+    <td><p> <br />
     </p>
-      <p> 1</p>
-      <p> 2</p>
-      <p>2</p></td>
+      <p> 1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Ruptured membranes</p></td>
-    <td width="29%"><p>Preterm labour and chorioamnionitis.</p></td>
-    <td width="49%"><p> If 36 weeks or more admit to hospital, wait until the membranes have been ruptured for 6 hours, then induce labour with oxytocin.</p>
-      <p>If 34 weeks or less transfer to level 2 hospital.</p></td>
-    <td width="5%"><p> <br />
-    </p>
-      <p> 1</p>
-      <p>2</p></td>
+    <td>If 34 weeks or less transfer to level 2 hospital.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p>Rhesus negative</p></td>
-    <td width="29%"><p>Rh-sensitisation with hydrops fetalis.</p></td>
-    <td width="49%"><p> If no antibodies, retest for antibodies at 26, 32 and 38 weeks.</p>
-      <p> If antibodies present:</p>
-      <p> Titre less than 1:16.</p>
-      <p>Titre above 1:16 or more.</p></td>
-    <td width="5%"><p> 1</p>
-      <p> <br />
-      </p>
-      <p> 2</p>
-      <p>3</p></td>
+    <td rowspan="3"><p>Rhesus negative</p></td>
+    <td rowspan="3"><p>Rh-sensitisation with hydrops fetalis.</p></td>
+    <td><p> If no antibodies, retest for antibodies at 26, 32 and 38 weeks.</p>
+    <p> If antibodies present:</p></td>
+    <td><p> 1</p></td>
   </tr>
   <tr>
-    <td width="11%"><p>Preterm labour</p></td>
-    <td width="29%"><p>Preterm infant.</p></td>
-    <td width="49%"><p> If 34 weeks or more deliver in level 2 hospital.</p>
-      <p>If less than 34 weeks admit to level 3 hospital. Consider suppression of labour with a beta2 stimulant.</p></td>
-    <td width="5%"><p> 2</p>
-      <p>3</p></td>
+    <td>Titre less than 1:16.</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td width="11%"><p> VDRL and FTA/ TPHA positive, or </p>
+    <td>Titre above 1:16 or more.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>Preterm labour</p></td>
+    <td rowspan="2"><p>Preterm infant.</p></td>
+    <td><p> If 34 weeks or more deliver in level 2 hospital.</p></td>
+    <td><p> 2</p></td>
+  </tr>
+  <tr>
+    <td>If less than 34 weeks admit to level 3 hospital. Consider suppression of labour with a beta2 stimulant.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><p> VDRL and FTA/ TPHA positive, or </p>
       <p>VDRL titre 1:16 or more</p></td>
-    <td width="29%"><p>Congenital syphilis.</p></td>
-    <td width="49%"><p>Patient must receive full treatment.</p></td>
-    <td width="5%"><p>1</p></td>
+    <td><p>Congenital syphilis.</p></td>
+    <td><p>Patient must receive full treatment.</p></td>
+    <td><p>1</p></td>
   </tr>
+    <tr>
+    <td><p>VDRL titre less than 1: 16 and FTA or TPHA not available</p></td>
+    <td><p>No history of full treatment of woman and partner in past 3 months.</p></td>
+    <td><p>Patient must be fully treated.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Uterus larger than dates</p></td>
+    <td><p>Multiple pregnancy.</p>
+      <p>Polyhydramnios.</p>
+      <p>Diabetes.</p>
+      <p>Large fetus.</p>
+      <p>Incorrect dates.</p></td>
+    <td><p>Arrange for sonology and random blood glucose estimation. With a large fetus there is a danger of disproportion Be ready for shoulder dystocia.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>Uterus smaller than dates</p></td>
+    <td rowspan="4"><p>IUGR.</p>
+      <p>Oligohydramnios</p>
+      <p>Fetal death.</p>
+      <p>Incorrect dates.</p></td>
+    <td><p>Careful measurement of fundal growth and fetal movement counts:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>Good growth over a period of 2 weeks.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>No growth over a period of 2 weeks.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>With few or no fetal movements, admit to hospital.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>Abnormal lie</p></td>
+    <td rowspan="3"><p>Breech, oblique or transverse lies suggest possible placenta praevia, multiple pregnancy or disproportion.</p></td>
+    <td><p>Less than 34 weeks, not important.</p>
+    <p>If more than 34 weeks: exclude the named complications, and refer to a doctor for external cephalic version at 36 weeks, if there are no contraindications:</p></td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td>Successful version.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>All others.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="4" class="table-subhead"><p><em>Social history</em></p></td>
+  </tr>
+  <tr>
+    <td><p>Alcohol</p></td>
+    <td><p>Fetal alcohol syndrome.</p></td>
+    <td><p>Counselling: no alcohol should be drunk during pregnancy.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Religion (Customs)</p></td>
+    <td><p>Fear that certain customs will not be fulfilled, e.g. with regard to abortions, placenta, etc.</p></td>
+    <td><p>Counselling: Religious beliefs will be respected.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Single mother and/or unwanted pregnancy</p></td>
+    <td><p>Complications of pregnancy are commoner because of usually poorer socio-economic circumstances.</p></td>
+    <td><p>Social support may be needed.</p>
+      <p>Advise about an effective method of family planning.</p>
+      <p>Sterilisation may be indicated in a multipara.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Smoking</p></td>
+    <td><p>Danger of IUGR.</p></td>
+    <td><p>Advice to the patient: strongly advise her to stop smoking. Encourage her if she stops.</p>
+      <p>Careful attention to fundal growth.</p></td>
+    <td><p>1</p></td>
+  </tr>
+  <tr>
+    <td><p>Poor socio-economic circumstances</p></td>
+    <td><p>Pregnancy complications will occur more commonly.</p>
+      <p>Malnutrition, infection and anaemia also occur commonly.</p></td>
+    <td><p>Social support necessary.</p>
+      <p>Advise on effective method of family planning.</p>
+      <p>Sterilisation may be indicated in a multiparous patient.</p></td>
+    <td><p>1</p></td>
+  </tr>
+
 </table>
 
 # BMI table

@@ -228,7 +228,7 @@ The main aims of management are to:
 
 The steps in the management of severe pre-eclampsia are:
 
-**Step 1**
+#### Step 1
 
 An intravenous infusion is started (Balsol or Ringer’s lactate) and magnesium sulphate is administered as follows:
 
@@ -237,11 +237,11 @@ An intravenous infusion is started (Balsol or Ringer’s lactate) and magnesium 
 
 A total of 14 g of magnesium sulphate is, therefore, given.
 
-**Step 2**
+#### Step 2
 
 After the magnesium sulphate has been administered, a Foley’s catheter is inserted into the patient’s bladder, to monitor the urinary output.
 
-**Step 3**
+#### Step 3
 
 After giving the magnesium sulphate the blood pressure must be measured again. Magnesium sulphate may cause a slight drop in blood pressure. If the diastolic blood pressure is still 110&nbsp;mg&nbsp;Hg or more and/or the systolic blood pressure 160&nbsp;mm&nbsp;Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
 
@@ -256,7 +256,7 @@ If dihydralazine was used, an ampoule of dihydralazine (25&nbsp;mg) should be mi
 
 Nifedipine 10&nbsp;mg capsules must always be given orally in pregnancy and not given sublingually (under the tongue). The 10&nbsp;mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering the blood pressure.
 
-**Step 4**
+#### Step 4
 
 When the blood pressure is controlled, the patient is transferred to a level 2 or 3 hospital.
 
@@ -276,7 +276,7 @@ When the blood pressure is controlled, the patient is transferred to a level 2 o
 
 The management of eclampsia is as follows:
 
-**Step 1**
+#### Step 1
 
 Prevent aspiration of the stomach contents by:
 
@@ -284,19 +284,19 @@ Prevent aspiration of the stomach contents by:
 *	Keeping the airway open by suctioning (if necessary) and inserting an airway.
 *	Administering oxygen.
 
-**Step 2**
+#### Step 2
 
 Stop the convulsion and prevent further convulsions by putting up an intravenous infusion of Balsol or Ringer’s lactate and giving magnesium sulphate.
 
-**Step 3**
+#### Step 3
 
 After the magnesium sulphate has been given, insert a Foley’s catheter to monitor the urinary output.
 
-**Step 4**
+#### Step 4
 
 If the diastolic blood pressure is 110&nbsp;mm&nbsp;Hg or more and/or the systolic blood pressure 160&nbsp;mm&nbsp;Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion.
 
-**Step 5**
+#### Step 5
 
 The patient must now be urgently transferred to a level 2 or 3 hospital.
 

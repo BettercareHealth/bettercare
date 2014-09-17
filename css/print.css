@@ -195,10 +195,12 @@ div.frontmatter, div.toc, div.chapter, div.test {
  }
  .test ol li {
 	margin: 0 0 1em 0;
+	font-weight: 600;
  }
 .test ol li li {
 	list-style-type: lower-alpha;
 	margin: 0;
+	font-weight: normal;
 }
 .test .correct-answer {
 	display: none;
@@ -236,6 +238,10 @@ th {
 }
 td {
 	vertical-align: top;
+	page-break-inside: avoid;
+}
+.table-subhead {
+	page-break-after: avoid;
 }
 td p {
 	margin: 0;
@@ -293,7 +299,11 @@ h2 {
 	string-set: section-title content();
 }
 h3 {
-	font-size: 1.2em;
+	font-size: 1.1em;
+	margin-bottom: 0.3em;
+}
+h4 {
+	font-size: 1em;
 	margin-bottom: 0.3em;
 }
 p {

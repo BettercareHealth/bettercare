@@ -141,11 +141,11 @@ The test is based on the detection of human chorionic gonadotrophin in the patie
 
 The earliest that the test can be expected to be positive is 10 days after conception. The test will be positive by the time a pregnant woman first misses her period. If the test is negative and the woman has not missed her period yet, the test should be repeated after 48 hours.
 
-## M Storage of test ‘kit’
+### M Storage of test ‘kit’
 
 The test which is described in this unit is the U-TEST β-hCG STRIP FOIL. If another pregnancy test is used, the method of doing the test and reading the results must be carefully studied in the instruction booklet. All these kits can be stored at room temperature. However, do not expose to direct sunlight, moisture or heat.
 
-## N Method of performing a pregnancy test
+### N Method of performing a pregnancy test
 
 The patient should bring a fresh urine specimen.
 
@@ -153,7 +153,7 @@ The patient should bring a fresh urine specimen.
 2.	Hold the blue end of the test strip so that the blue arrow points downwards. Dip the test strip into the urine, as far as the point of the arrow, for 5 seconds.
 3.	Place the test strip on a flat surface and read after 30 seconds. The result is not reliable if the test strip is read more than 10 minutes after it was dipped into the urine.
 
-## O Reading the result of the pregnancy test
+### O Reading the result of the pregnancy test
 
 1.	**Negative** if only the control band nearest the upper blue part of the test strip becomes pink.
 2.	**Positive** if two pink bands are visible. Between the control band and the blue part of the test strip another pink band is seen.

@@ -585,15 +585,14 @@ Pregnancy appears to have little or no effect on the progression from asymptomat
 
 The severity and progression of HIV infection during pregnancy can be monitored by:
 
-**Assessing the clinical stage of the disease**
+1.	**Assessing the clinical stage of the disease**
+	*	Stage 1: Clinically well.
+	*	Stage 2: Mild clinical problems.
+	*	Stage 3: Moderate clinical problems.
+	*	Stage 4: Severe clinical problems (i.e. AIDS).
 
-Stage 1: Clinically well.
-Stage 2: Mild clinical problems.
-Stage 3: Moderate clinical problems.
-Stage 4: Severe clinical problems (i.e. AIDS).
-
-**Measuring the CD4 count in the blood**
-A falling CD4 count is an important marker of progression in HIV infection. It is an indicator of the degree of damage to the immune system. The normal adult CD4 count is 700 to 1100 cells/mm3. A CD4 count equal or below 350 cells/mm3 indicates severe damage to the immune system.
+2.	**Measuring the CD4 count in the blood**  
+	A falling CD4 count is an important marker of progression in HIV infection. It is an indicator of the degree of damage to the immune system. The normal adult CD4 count is 700 to 1100 cells/mm3. A CD4 count equal or below 350 cells/mm3 indicates severe damage to the immune system.
 
 > The CD4 count is an important marker of the severity and progression of HIV infection during pregnancy.
 

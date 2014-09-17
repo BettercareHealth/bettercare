@@ -298,9 +298,9 @@ The presence of pyrexia and punch tenderness in the renal angles indicates an up
 
 ### 6-25 How should you manage a patient with a urinary tract infection?
 
-1.	**Prevention**.
-	*	Avoid catheterisation whenever possible. If catheterisation is essential, it must be done with strict aseptic precautions.
-2.	**Treatment**.
+1.	**Prevention**  
+	Avoid catheterisation whenever possible. If catheterisation is essential, it must be done with strict aseptic precautions.
+2.	**Treatment**.  
 	These patients require admission to a hospital urgently and must be referred. While waiting to be transferred treatment could be initiated:
 	*	Measures to bring down the temperature, e.g. tepid sponging.
 	*	Analgesia, e.g. paracetamol (Panado) 1 g (2 adult tablets) orally 6 hourly.
@@ -346,13 +346,13 @@ A lower respiratory tract infection, such as acute bronchitis or pneumonia, is d
 
 ### 6-30 How should you manage a patient with a lower respiratory tract infection?
 
-1.	**Treatment**.
+1.	**Treatment**  
 	These patients require admission to a hospital urgently and must be referred unless the infection is very mild. While waiting to be transferred treatment could be initiated:
 	*	Oxygen if required.
 	*	Ampicillin orally or intravenously depending on the severity of the infection.
 	*	Analgesia, e.g. paracetamol (Panado) 1 g.
-2.	**Special investigations**.
-	*	Send a sample of sputum for microscopy, culture and sensitivity testing if possible.
+2.	**Special investigations**  
+	Send a sample of sputum for microscopy, culture and sensitivity testing if possible.
 
 ### 6-31 Which other infections may cause puerperal pyrexia?
 

@@ -83,15 +83,15 @@ The maternal condition takes preference over that of the fetus. The patient, the
 
 No. The management differs depending on whether the vaginal bleeding is diagnosed as a ‘haemorrhage’ on the one hand, or a blood-stained vaginal discharge or a ‘show’ on the other hand. A careful assessment of the amount and type of bleeding is, therefore, very important.
 
-1.	Any vaginal bleeding at or after 24 weeks must be diagnosed as an antepartum haemorrhage if any of the following are present:
+1.	Any vaginal bleeding at or after 24 weeks must be diagnosed as an *antepartum haemorrhage* if any of the following are present:
 	*	A sanitary pad is at least partially soaked with blood.
 	*	Blood runs down the patient’s legs.
 	*	A clot of blood has been passed.
 
-> A diagnosis of a haemorrhage always suggests a serious complication.
+	> A diagnosis of a haemorrhage always suggests a serious complication.
 
-2.	A blood-stained vaginal discharge will consist of a discharge mixed with a small amount of blood.
-3.	A ‘show’ will consist of a small amount of blood mixed with mucus. The blood-stained vaginal discharge or ‘show’ will be present on the surface of the sanitary pad but will not soak it.
+2.	*A blood-stained vaginal discharge* will consist of a discharge mixed with a small amount of blood.
+3.	A *‘show’* will consist of a small amount of blood mixed with mucus. The blood-stained vaginal discharge or ‘show’ will be present on the surface of the sanitary pad but will not soak it.
 
 If the maternal and fetal conditions are satisfactory, then a careful speculum examination should be done to exclude a local cause of the bleeding. Do NOT perform a digital vaginal examination, as this may cause massive haemorrhage if the patient has a placenta praevia.
 

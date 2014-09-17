@@ -58,6 +58,7 @@ This is currently a testing site for Bettercare content-development workflows on
 	*	If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.
 	*	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
 	*	For filenaming, use the convention pmc-1-2.svg, as in book-chapter-figure.svg. For skills workshops images, that might be pmc-1E-B.svg for PMC, workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
+	*	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
 2. We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
 
 ```html

@@ -25,7 +25,7 @@ A vaginal examination is the most intimate examination a woman is ever subjected
 2.	Asking permission from the patient to perform the examination.
 3.	A valid reason for performing the examination.
 
-## A Indications for a vaginal examination in pregnancy
+### A Indications for a vaginal examination in pregnancy
 
 1.	**At the first visit**:
 	*	The diagnosis of pregnancy during the first trimester.
