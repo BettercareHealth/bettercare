@@ -39,15 +39,15 @@ Skin temperature can be measured with:
 
 This depends on the site where the temperature is measured:
 
-1. The normal axillary temperature is 36.5–37 °C.
-2. The normal abdominal skin temperature is 36–36.5 °C.
+1. The normal axillary temperature is 36.5–37&nbsp;°C.
+2. The normal abdominal skin temperature is 36–36.5&nbsp;°C.
 
 All newborn infants have the same range of normal body temperature.
 
 Note
-:	The normal oral temperature is 37–37.5 °C and rectal temperature is 37.5–38 °C. Neither are routinely used in newborn infants.
+:	The normal oral temperature is 37–37.5&nbsp;°C and rectal temperature is 37.5–38&nbsp;°C. Neither are routinely used in newborn infants.
 
-## Heat production and loss
+## Heat production and&nbsp;loss
 
 ### 7-3 What determines body temperature?
 
@@ -101,7 +101,7 @@ The following infants commonly lose too much heat and, therefore, may drop their
 
 ### 7-8 What is hypothermia?
 
-An abdominal temperature below 36 °C or an axillary temperature below 36.5 °C is abnormally low. These infants need to be warmed. Therefore, a working definition of hypothermia (low body temperature) is a body temperature below these values. Once the body temperature falls below 35 °C the infant is in danger of complications related to being too cold. As the rectal temperature is normally higher than that at other sites, a rectal temperature below 35 °C is particularly dangerous.
+An abdominal temperature below 36&nbsp;°C or an axillary temperature below 36.5&nbsp;°C is abnormally low. These infants need to be warmed. Therefore, a working definition of hypothermia (low body temperature) is a body temperature below these values. Once the body temperature falls below 35&nbsp;°C the infant is in danger of complications related to being too cold. As the rectal temperature is normally higher than that at other sites, a rectal temperature below 35&nbsp;°C is particularly dangerous.
 
 ### 7-9 Which infants are at the greatest risk of hypothermia?
 
@@ -146,7 +146,7 @@ The best environmental (e.g. room or incubator) temperature depends on:
 2. The **postnatal age** of the infant. The greater the postnatal age the lower is the required environmental temperature, i.e. as the infant gets older, a lower environmental temperature is needed.
 3. **Illness.** Sick infants need a higher environmental temperature.
 
-For example, a 1000 g preterm infant on day 1 may need an environmental temperature of 37 °C to keep warm while a healthy term infant on day 5 may need an environmental temperature of only 20 °C.
+For example, a 1000 g preterm infant on day 1 may need an environmental temperature of 37&nbsp;°C to keep warm while a healthy term infant on day 5 may need an environmental temperature of only 20&nbsp;°C.
 
 In clinical practice each infant must be handled as an individual and the above factors, which influence the infant’s temperature needs, must be regarded only as guidelines. The environmental temperature for each infant should be adjusted in order to give a normal abdominal skin or axillary temperature. This can be achieved automatically if a servo-controlled incubator or radiant warmer is used.
 
@@ -167,8 +167,8 @@ There are a number of ways to keep an infant warm:
 
 2.	**A closed incubator.** This is the traditional way of nursing most small or sick infants as the temperature can be carefully controlled. Today more and more infants are being nursed with KMC rather than in an incubator.
 3.	**Radiant warmers** (overhead radiant heaters). A radiant warmer is used for resuscitating an infant or for nursing a very sick infant in an intensive care unit. Water loss by evaporation is higher than in a closed incubator. A thick plastic sheet or ‘bubble wrap’ over the infant reduces water loss. As soon as ill infants have improved they should be moved out of a radiant heater and into a closed incubator or KMC.
-4.	**Warm room.** Most healthy, term infants can be nursed in a cot or bassinet in a warm nursery, ward or home. The room temperature should be about 20 °C. The infant should be dressed to prevent heat loss by radiation to cold windows or walls.
-5.	**Hot room.** Many low birth weight infants can be kept warm in a bassinet if they are nursed in a room where the temperature is kept at 25–30 °C. The smaller the infant, the higher the required room temperature will be. However, keeping the mother and infant together with KMC is preferable.
+4.	**Warm room.** Most healthy, term infants can be nursed in a cot or bassinet in a warm nursery, ward or home. The room temperature should be about 20&nbsp;°C. The infant should be dressed to prevent heat loss by radiation to cold windows or walls.
+5.	**Hot room.** Many low birth weight infants can be kept warm in a bassinet if they are nursed in a room where the temperature is kept at 25–30&nbsp;°C. The smaller the infant, the higher the required room temperature will be. However, keeping the mother and infant together with KMC is preferable.
 6.	**Dressing the infant.** The infant can be kept warm by covering the body with an insulating layer and, thereby, preventing heat loss by convection to cold air and radiation to cold objects in the room. This is done by dressing the infant in a nappy, jacket, woollen hat and booties. A woollen cap is most important in preventing heat loss by radiation. Often infants in closed incubators are dressed.
 7.	**Thermal blanket.** An infant can be kept warm for hours if wrapped in a thermal blanket, silver swaddler or heavy gauge aluminium foil normally used for cooking. This is an effective method of preventing heat loss during transport if KMC or a transport incubator is not available. The infant must be warm and dry before being wrapped in a thermal blanket. Never put a cold infant into a thermal blanket or use a thermal blanket in an incubator.
 8.	**Perspex heat shield.** A transparent perspex shield can be placed over an infant in an incubator to reduce heat loss by radiation. 
@@ -181,7 +181,7 @@ The most appropriate method should be chosen for each individual. There is no ex
 
 ### 7-13 When does a small infant no longer need an incubator?
 
-Most small infants are able to maintain their body temperature in a warm room when they reach a weight of 1800 g. However, many small infants can maintain their body temperature much sooner with KMC. Most well infants can be moved from an incubator to KMC by 1600 g.
+Most small infants are able to maintain their body temperature in a warm room when they reach a weight of 1800 g. However, many small infants can maintain their body temperature much sooner with KMC. Most well infants can be moved from an incubator to KMC by 1600&nbsp;g.
 
 ### 7-14 How do you recognise a hypothermic infant?
 
@@ -194,7 +194,7 @@ Hypothermic infants present with the following signs:
 5. Shallow, slow respiration or signs of respiratory distress.
 6. Bleeding from the mouth, nose or needle punctures. Hypothermic infants often die of massive pulmonary haemorrhage.
 
-The more severe the hypothermia (especially if the body temperature falls below 35 °C) the more clinical signs will be present.
+The more severe the hypothermia (especially if the body temperature falls below 35&nbsp;°C) the more clinical signs will be present.
 
 ### 7-15 What metabolic problems are common in hypothermic infants?
 
@@ -209,7 +209,7 @@ Note
 
 ### 7-16 How do you treat hypothermia?
 
-1. **Warm the infant** in a closed incubator, overhead radiant warmer or warm room. Skin-to-skin care is a very effective method of warming a cold infant. The incubator temperature should be set at 37 °C until the skin temperature returns to normal. Warm water (37 °C) has also been used to correct hypothermia.
+1. **Warm the infant** in a closed incubator, overhead radiant warmer or warm room. Skin-to-skin care is a very effective method of warming a cold infant. The incubator temperature should be set at 37&nbsp;°C until the skin temperature returns to normal. Warm water (37&nbsp;°C) has also been used to correct hypothermia.
 2. **Provide energy** while the infant is being warmed. Hypoglycaemia may occur during warming. Energy can be given as oral or nasogastric milk, or intravenous maintenance fluid containing 10% dextrose water (e.g. Neonatalyte).
 3. **Provide oxygen.** Although centrally pink, cold infants are often hypoxic. Therefore, give 30% oxygen (FiO₂ 0.3) while the infant is being warmed. A normal oxygen saturation in a cold infant does to exclude tissue hypoxia as oxygen is trapped in the red cells.
 4. **Give 4% sodium bicarbonate.** Most hypothermic infants have a metabolic acidosis. If intravenous fluid is given, add 10 ml 4% sodium bicarbonate to 100 ml of maintenance fluid (Neonatalyte). Obtain a blood gas analysis if possible and half correct any base deficit.
@@ -220,7 +220,7 @@ Note
 
 ### 7-17 What is pyrexia?
 
-Pyrexia or fever (high body temperature) is defined as an abdominal skin temperature of 37 °C or more, or an axillary temperature of 37.5 °C or more. As newborn infants can only sweat a little, they are unable to cool themselves and, therefore, easily become too hot.
+Pyrexia or fever (high body temperature) is defined as an abdominal skin temperature of 37&nbsp;°C or more, or an axillary temperature of 37.5&nbsp;°C or more. As newborn infants can only sweat a little, they are unable to cool themselves and, therefore, easily become too hot.
 
 Pyrexia may be caused by:
 
@@ -233,11 +233,11 @@ Yes. Pyrexia is an important cause of recurrent apnoea which can result in death
 
 ## Case study 1
 
-A preterm female infant is brought to the nursery from the labour ward wrapped in a wet towel. The axillary temperature is 32.5 °C. The infant’s estimated gestational age is 35 weeks. The cheeks and tongue are pink but the hands and feet are grey and feel cold. The infant is lethargic.
+A preterm female infant is brought to the nursery from the labour ward wrapped in a wet towel. The axillary temperature is 32.5&nbsp;°C. The infant’s estimated gestational age is 35 weeks. The cheeks and tongue are pink but the hands and feet are grey and feel cold. The infant is lethargic.
 
 ### 1. Does the infant have hypothermia? Give your reasons.
 
-Yes. An axillary temperature below 36 °C is below the normal range and is defined as hypothermia.
+Yes. An axillary temperature below 36&nbsp;°C is below the normal range and is defined as hypothermia.
 
 ### 2. What is the probable cause of the peripheral cyanosis in this infant?
 
@@ -253,7 +253,7 @@ The easiest way to have kept this infant warm after delivery would have been to 
 
 ### 5. What should be the management of this infant?
 
-The infant should be removed from the wet towel and dried well. Do not forget to dry the infant’s head. Then place the infant in a prewarmed closed incubator set at 37 °C or under an overhead radiant heater. If neither is available, skin-to-skin care (KMC) or a warmed room can be used. Give 30% head box oxygen while the infant is being warmed. Energy must be given intravenously as an infusion of maintenance fluid (e.g. Neonatalyte). As soon as possible, nasogastric milk feeds must be started to prevent hypoglycaemia. Careful observations should be kept until the infant is warm and appears clinically normal.
+The infant should be removed from the wet towel and dried well. Do not forget to dry the infant’s head. Then place the infant in a prewarmed closed incubator set at 37&nbsp;°C or under an overhead radiant heater. If neither is available, skin-to-skin care (KMC) or a warmed room can be used. Give 30% head box oxygen while the infant is being warmed. Energy must be given intravenously as an infusion of maintenance fluid (e.g. Neonatalyte). As soon as possible, nasogastric milk feeds must be started to prevent hypoglycaemia. Careful observations should be kept until the infant is warm and appears clinically normal.
 
 ### 6. What investigations do you think should be done when the infant arrives in the nursery?
 
@@ -261,7 +261,7 @@ The blood glucose concentration must be determined and the temperature must be c
 
 ## Case study 2
 
-A 5 day old male term infant is bathed in a cold ward. Afterwards the infant appears well but feels cold. A telethermometer reading over the right upper abdomen gives a result of 34 °C. The infant, which weighed 2400 g at birth and is clinically wasted, is rapidly warmed by placing it next to a wall heater.
+A 5 day old male term infant is bathed in a cold ward. Afterwards the infant appears well but feels cold. A telethermometer reading over the right upper abdomen gives a result of 34&nbsp;°C. The infant, which weighed 2400 g at birth and is clinically wasted, is rapidly warmed by placing it next to a wall heater.
 
 ### 1. Give 3 probable reasons why this infant became hypothermic.
 
@@ -281,7 +281,7 @@ It should be dressed and given a woollen cap. If the room becomes cold at night,
 
 ## Case study 3
 
-A term female infant is brought to an outlying clinic on a cold winters day. The mother delivered 30 minutes before and has to be referred to hospital because of a retained placenta. The infant’s axillary temperature is 34.5 °C but the infant appears active. Neither the clinic nor the ambulance has an incubator.
+A term female infant is brought to an outlying clinic on a cold winters day. The mother delivered 30 minutes before and has to be referred to hospital because of a retained placenta. The infant’s axillary temperature is 34.5&nbsp;°C but the infant appears active. Neither the clinic nor the ambulance has an incubator.
 
 ### 1. How can you warm this infant in the clinic?
 
@@ -336,7 +336,7 @@ The electrical telethermometer (tele-thermometer = to measure temperature at a d
 5. The skin may be damaged if the infant lies on the temperature probe or when the strapping is removed.
 6. The reading may be much higher than the temperature of the rest of the infant’s skin if the infant lies on the temperature probe or if the temperature probe is covered by clothing or a nappy.
 
-If you suspect that the telethermometer reading is incorrect, check the skin temperature with another telethermometer or measure the axillary temperature with a digital or low reading mercury thermometer. An axillary reading should be about 0.5 °C higher than the telethermometer reading over the left side of the abdomen.
+If you suspect that the telethermometer reading is incorrect, check the skin temperature with another telethermometer or measure the axillary temperature with a digital or low reading mercury thermometer. An axillary reading should be about 0.5&nbsp;°C higher than the telethermometer reading over the left side of the abdomen.
 
 ## The closed incubator
 
@@ -362,7 +362,7 @@ Usually the infant’s birth weight and age after delivery is used to determine 
 | 1500 g       | 34.5             |
 | 2000 g       | 34.0             |
 
-Most dressed infants can be nursed in a warm room (28 °C at 2000 g and 26 °C at 3000 g).
+Most dressed infants can be nursed in a warm room (28&nbsp;°C at 2000&nbsp;g and 26&nbsp;°C at 3000&nbsp;g).
 
 ### 7-g The components of a closed incubator
 
@@ -386,11 +386,11 @@ The method of using a manually controlled incubator is as follows:
 
 1. Before placing an infant in a closed incubator, the incubator must be clean and correctly assembled. Place a clean linen sheet over the mattress.
 2. Plug the power lead into the wall fitting and switch on the power at the wall.
-3. Switch on the incubator and adjust the incubator temperature to 37 °C. Always keep a warm incubator available in the nursery for a new admission. Never place an infant in a cold incubator.
+3. Switch on the incubator and adjust the incubator temperature to 37&nbsp;°C. Always keep a warm incubator available in the nursery for a new admission. Never place an infant in a cold incubator.
 4. Open the hood for as short a time as possible when placing the infant in the incubator. If available, open the side panel rather then the whole hood. This will prevent cooling the incubator.
 5. From the infant’s birth weight and age since delivery determine the recommended incubator temperature (neutral thermal environment).
 6. Read the incubator temperature. Increase or decrease the incubator temperature until the recommended temperature is reached.
-7. Measure the temperature of the infant and incubator after 30 minutes and adjust the incubator temperature if the infant’s temperature is not in the normal range (36–36.5 °C for skin and 36.5–37 °C for axilla).
+7. Measure the temperature of the infant and incubator after 30 minutes and adjust the incubator temperature if the infant’s temperature is not in the normal range (36–36.5&nbsp;°C for skin and 36.5–37&nbsp;°C for axilla).
 8. The infant and incubator temperature should be read and recorded as part of the routine observations. Alter the incubator temperature whenever the infant’s temperature is outside the normal range.
 9. If the infant remains cold in spite of the recommended incubator setting then the cause is either:
 	* The room is too cold or the incubator is too close to a cold window. Warm the room if necessary and move the incubator away from the cold window. Place a perspex heat shield over the infant and put on a woollen cap to prevent radiant heat loss.
@@ -404,9 +404,9 @@ These modern incubators automatically control (servocontrol) the temperature of 
 The method of using a servocontrolled incubator is as follows:
 
 1. Clean and re-assemble the incubator, plug in the power lead at the wall and switch on the wall plug and incubator as mentioned above for manual closed incubators.
-2. Switch the controls to manual (AIR) and preheat the incubator to 37 °C.
+2. Switch the controls to manual (AIR) and preheat the incubator to 37&nbsp;°C.
 3. Place the infant in the warm incubator and attach the temperature probe to the infant’s skin. Make sure that the cable from the skin probe is correctly plugged into the incubator.
-4. Switch the incubator controls from manual (AIR) to servocontrolled (SKIN). Set the required skin temperature to 36.5 °C on the control panel. The actual skin temperature will be displayed on the panel. If the incubator gets too hot an alarm will sound.
+4. Switch the incubator controls from manual (AIR) to servocontrolled (SKIN). Set the required skin temperature to 36.5&nbsp;°C on the control panel. The actual skin temperature will be displayed on the panel. If the incubator gets too hot an alarm will sound.
 5. After 30 minutes check that the infant’s skin temperature is the same as the required temperature. If not, then the skin probe is not correctly applied or the incubator is malfunctioning. If the skin probe comes loose the incubator will continue to warm up and the infant may become too hot (hyperthermic).
 
 If required, a servocontrolled incubator can be used under manual control.
@@ -457,12 +457,12 @@ The overhead, infra-red radiant warmer heats the infant by radiation. A number o
 1. The mattress and platform must be clean. Cover the mattress with a clean linen sheet.
 2. Plug the power lead into the wall and switch the wall plug on.
 3. Switch on the radiant warmer.
-4. Usually the radiant warmer does not need to be preheated as it warms almost instantly. However, should you want to warm the mattress, set the controls to manual mode and set the temperature to 37 °C. If a manual mode is not available, simply leave the probe on the mattress and switch the warmer on.
+4. Usually the radiant warmer does not need to be preheated as it warms almost instantly. However, should you want to warm the mattress, set the controls to manual mode and set the temperature to 37&nbsp;°C. If a manual mode is not available, simply leave the probe on the mattress and switch the warmer on.
 5. Usually the warmer is switched on when the infant is placed on the mattress. The infant must be nursed naked so that the skin can absorb the radiant heat. Very small infants can be covered with a single layer of thin plastic sheeting, ‘bubble plastic’ or a Perspex heat shield to prevent draughts cooling the infant. Plastic sheeting will also reduce the amount of water lost through the infant's skin. Always keep the sides of the platform up as they reflect heat and also reduce draughts.
 6. Attach the temperature probe to the infant's skin. Make sure that the lead to the temperature probe is correctly plugged into the warmer.
-7. Adjust the servocontrol setting on the control panel to 36.5 °C. The control panel will display the infant's skin temperature.
+7. Adjust the servocontrol setting on the control panel to 36.5&nbsp;°C. The control panel will display the infant's skin temperature.
 8. After 10 minutes check that the infant's skin temperature is the same as that set on the control panel. If not, then the temperature probe is loose or the radiant warmer is malfunctioning.
-9. Infants under a radiant warmer should receive an extra 25 ml/kg of fluid a day, either as milk or intravenous maintenance fluid to replace the extra fluid lost by evaporation.
+9. Infants under a radiant warmer should receive an extra 25&nbsp;ml/kg of fluid a day, either as milk or intravenous maintenance fluid to replace the extra fluid lost by evaporation.
 
 ### 7-n Advantages and disadvantages of a radiant warmer
 

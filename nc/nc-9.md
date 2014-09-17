@@ -41,7 +41,7 @@ When red cells die, their haemoglobin is changed into a yellow pigment called bi
 
 ### 9-3 What is hyperbilirubinaemia?
 
-Hyperbilirubinaemia is defined as concen­tration (level) of total serum bilirubin (TSB) that is higher than the normal range. Normally the bilirubin concentration in the serum is low at birth, less than 35 µmol/l. It then climbs steadily for the first few days before returning again to an adult level of less than 35 µmol/l by 2 weeks. The total serum bilirubin concentration in term infants usually does not rise above 200 µmol/l (12 mg/dl).
+Hyperbilirubinaemia is defined as concen­tration (level) of total serum bilirubin (TSB) that is higher than the normal range. Normally the bilirubin concentration in the serum is low at birth, less than 35 µmol/l. It then climbs steadily for the first few days before returning again to an adult level of less than 35&nbsp;µmol/l by 2 weeks. The total serum bilirubin concentration in term infants usually does not rise above 200 µmol/l (12 mg/dl).
 
 The upper limit of the total serum bilirubin concentration (TSB) in most healthy term infants is approximately:
 
@@ -76,7 +76,7 @@ The fetus is unable to excrete conjugated bilirubin via the stool as it usually 
 
 ### 9-7 How is bilirubin excreted in the newborn infant?
 
-During the first week of life the enzyme system that conjugates bilirubin with glucuronic acid in the liver functions slowly, as in the fetus. Therefore, unconjugated bilirubin accumulates in the serum as the placenta is no longer present to remove it. As a result, newborn infants commonly become jaundiced due to an increased concentration of unconjugated bilirubin in the serum. After a few days the rate of liver conjugation increases and the bilirubin concentration in the serum slowly returns to the normal adult range of less than 35 µmol/l. Jaundice at birth or in the first 24 hours is unusual, however, as the bilirubin is adequately excreted by the placenta up until the time of delivery.
+During the first week of life the enzyme system that conjugates bilirubin with glucuronic acid in the liver functions slowly, as in the fetus. Therefore, unconjugated bilirubin accumulates in the serum as the placenta is no longer present to remove it. As a result, newborn infants commonly become jaundiced due to an increased concentration of unconjugated bilirubin in the serum. After a few days the rate of liver conjugation increases and the bilirubin concentration in the serum slowly returns to the normal adult range of less than 35&nbsp;µmol/l. Jaundice at birth or in the first 24&nbsp;hours is unusual, however, as the bilirubin is adequately excreted by the placenta up until the time of delivery.
 
 Some of the bilirubin that is conjugated and excreted by the liver in the first week of life is broken down by the fetal enzyme in the intestine which continues to function for a few weeks after birth. This unconjugated bilirubin is reabsorbed by the intestine, adding to the increase of the TSB.
 
@@ -154,9 +154,9 @@ There are also other uncommon forms of haemolytic disease in newborn infants.
 
 ### 9-14 What are blood groups?
 
-Red cells have proteins on their surface called antigens, which determine a person’s blood group. The red cell antigens of a fetus are inheri­ted from both parents and, therefore, may differ from that of the mother. The most important red cell antigens are the ABO antigens and the D (Rhesus) antigen. If the A antigen is present on a person’s red cells the blood group will be A. Similarly, the presence of the B antigen makes the blood group B. If both antigens are present the blood group will be AB while if both antigens are absent the blood group will be O. Most people are blood group O.
+Red cells have proteins on their surface called antigens, which determine a person’s blood group. The red cell antigens of a fetus are inheri­ted from both parents and, therefore, may differ from that of the mother. The most important red cell antigens are the ABO antigens and the D (Rhesus) antigen. If the A&nbsp;antigen is present on a person’s red cells the blood group will be A. Similarly, the presence of the B antigen makes the blood group B. If both antigens are present the blood group will be AB while if both antigens are absent the blood group will be O. Most people are blood group O.
 
-The D antigen is inherited separately from the ABO antigens. The presence of the D antigen on the red cells makes a person Rhesus positive. If the D antigen is missing, then the person is Rhesus negative.
+The D antigen is inherited separately from the ABO antigens. The presence of the D&nbsp;antigen on the red cells makes a person Rhesus&nbsp;positive. If the D antigen is missing, then the person is Rhesus negative.
 
 Therefore, a person with both A and D antigens will have the A positive blood group while another with neither A, B nor D antigens will be blood group O negative.
 
@@ -206,7 +206,7 @@ Fetal red cells may cross the placenta into the mother’s blood:
 
 ### 9-18 How can you prevent Rhesus haemolytic disease?
 
-The Rh positive fetal red cells that cross the placenta can be destroyed, before they sensitise the mother, by giving her 100 µg (4 ml) anti-D immunoglobulin by intramuscular injection within 72 hours. This is usually given after delivery of an Rh-negative mother. However, anti-D immunoglobulin must also be given after any of the above complications of pregnancy. Unfortunately it is useless giving the mother anti-D immunoglobulin if she has already been sensitised and has developed her own anti-D antibodies.
+The Rh positive fetal red cells that cross the placenta can be destroyed, before they sensitise the mother, by giving her 100 µg (4&nbsp;ml) anti-D immunoglobulin by intramuscular injection within 72 hours. This is usually given after delivery of an Rh-negative mother. However, anti-D immunoglobulin must also be given after any of the above complications of pregnancy. Unfortunately it is useless giving the mother anti-D immunoglobulin if she has already been sensitised and has developed her own anti-D antibodies.
 
 > Give all Rhesus-negative mothers anti-D immunoglobulin after delivery.
 
@@ -274,7 +274,7 @@ By not allowing the TSB to reach dangerous levels. A number of methods can be us
 Phototherapy uses white or blue light (i.e. visible light) to change unconjugated bilirubin in the skin into a water-soluble form of bilirubin. The water-soluble bilirubin is then carried by albumin in the blood to the liver, from where it can easily be excreted without first having to be conjugated. Phototherapy is, therefore, able to rapidly lower the TSB. Bright light is able to change the shape but not the chemical composition of the bilirubin molecule. Ultraviolet light, which causes sunburn and severe tissue damage, could kill an infant and is not used for phototherapy.
 
 Note
-:	With phototherapy, unconjugated bilirubin is converted by the process of photoisomerisation into photobilirubin and lumirubin which are water soluble and, therefore, easily excreted in the stool and urine. Photo­therapy does not conjugate bilirubin. Blue light (at a wavelength of ) 455 nm is the most effective.
+:	With phototherapy, unconjugated bilirubin is converted by the process of photoisomerisation into photobilirubin and lumirubin which are water soluble and, therefore, easily excreted in the stool and urine. Photo­therapy does not conjugate bilirubin. Blue light (at a wavelength of ) 455&nbsp;nm is&nbsp;the most effective.
 
 ### 9-24 What is used to give phototherapy?
 
@@ -295,7 +295,7 @@ All infants born to women who are blood group O should have their TSB measured a
 
 With phototherapy it is possible to avoid almost all exchange transfusions.
 
-*Prophylactic phototherapy* is given when the TSB is still below the phototherapy line but either the TSB is expected to increase rapidly or the infant is at an increased risk of bilirubin encephalopathy. Therefore, prophylactic phototherapy is started immediately after birth if haemolytic disease of the newborn is suspected or diagnosed. Prophylactic phototherapy in preterm infants is usually started when the TSB reaches 125 µmol/l in infants weighing less than 1250 g, at 150 µmol/l in infants less than 1500 g, and at 200 µmol/l in infants weighing less than 2000 g.
+*Prophylactic phototherapy* is given when the TSB is still below the phototherapy line but either the TSB is expected to increase rapidly or the infant is at an increased risk of bilirubin encephalopathy. Therefore, prophylactic phototherapy is started immediately after birth if haemolytic disease of the newborn is suspected or diagnosed. Prophylactic phototherapy in preterm infants is usually started when the TSB reaches 125 µmol/l in infants weighing less than 1250 g, at 150&nbsp;µmol/l in infants less than 1500 g, and at 200&nbsp;µmol/l in infants weighing less than 2000&nbsp;g.
 
 <figure>
 	<img src="images/nc-fig-9-1.svg" alt="Figure 9-1: Simple phototherapy guide for term infants showing the phototherapy line.">	
@@ -310,10 +310,10 @@ With phototherapy it is possible to avoid almost all exchange transfusions.
 ### 9-26 How do you give phototherapy?
 
 1. Switch on the phototherapy unit and make sure the tubes are all working. Check the age of the tubes and ensure that the perspex sheet is in position.
-2. Place the infant naked in an incubator or bassinet so that the mattress is about 40 cm from the phototherapy tubes. The infant must not wear a nappy. Instead, a nappy can be placed under the infant.
+2. Place the infant naked in an incubator or bassinet so that the mattress is about 40&nbsp;cm from the phototherapy tubes. The infant must not wear a nappy. Instead, a nappy can be placed under the infant.
 3. Cover the infant’s eyes with pads as the bright light worries the infant and may possibly damage the retina. Remove the eye pads during feeding so that the eyes can be checked for infection and to allow the infant and mother to see each other.
 4. Turning the infant over every hour does not make the phototherapy more effective.
-5. Feed the infant milk, at least every 3 to 4 hours. Breastfeed if possible. Add an extra 25 ml/kg/day if the infant is demand fed with formula. The lights may be switched off during feeds or the infant may be removed from the phototherapy unit when fed.
+5. Feed the infant milk, at least every 3 to 4&nbsp;hours. Breastfeed if possible. Add an extra 25 ml/kg/day if the infant is demand fed with formula. The lights may be switched off during feeds or the infant may be removed from the phototherapy unit when fed.
 6. Monitor the infant’s temperature hourly, weigh twice a day and measure the TSB daily or more frequently if it approaches dangerous levels.
 7. Allow the mother unrestricted visiting. If possible, the infant should be given phototherapy next to the mother in the postnatal ward.
 
@@ -363,7 +363,7 @@ Note
 All infants who may need an exchange transfusion must be transferred urgently to a hospital with the staff and equipment needed. Send parental consent and a tube of clotted maternal blood with the infant for cross-matching. Give phototherapy in the meantime. Remember that an exchange transfusion has its dangers and side-effects.
 
 Note
-:	In an exchange transfusion, twice the infant’s blood volume is exchanged with fresh compatible group O negative donor blood (160 ml/kg). Usually the exchange is done via a catheter placed in the umbilical vein and 10–20 ml blood is exchanged at a time. Care should be taken to keep the infant warm and to monitor vital signs during the procedure.
+:	In an exchange transfusion, twice the infant’s blood volume is exchanged with fresh compatible group O negative donor blood (160 ml/kg). Usually the exchange is done via a catheter placed in the umbilical vein and 10–20&nbsp;ml blood is exchanged at a time. Care should be taken to keep the infant warm and to monitor vital signs during the procedure.
 
 ## Anaemia
 
@@ -376,7 +376,7 @@ To determine whether an infant has anaemia, either of the following can be measu
 
 Anaemia is defined as a PCV or Hb that falls below the normal range for the postnatal age of the infant.
 
-The normal PCV at birth is 45–65% and the Hb 15–25 g/dl. After delivery the PCV and Hb in term infants falls steadily until about 8 weeks of age and then slowly increases. The PCV should not fall below 35% and the Hb below 12 g/dl in a term infant. The life span of the red cell in the infant is only 90 days (3 months) compared to 120 days in the adult.
+The normal PCV at birth is 45–65% and the Hb 15–25 g/dl. After delivery the PCV and Hb in term infants falls steadily until about 8&nbsp;weeks of age and then slowly increases. The PCV should not fall below 35% and the Hb below 12&nbsp;g/dl in a term infant. The life span of the red cell in the infant is only 90 days (3&nbsp;months) compared to 120 days in the adult.
 
 It is important that the PCV or Hb is measured on a sample of venous or arterial blood, or blood collected from a warm heel. Capillary blood sampled from a cold heel will give a falsely high reading.
 
@@ -642,7 +642,7 @@ A phototherapy unit is used to provide a source of bright light to treat jaundic
 
 A number of commercial or hospital-made phototherapy units are available. Usually they have fluorescent tubes although some have white halogen or blue LED (light emitting diode) spot lights. The main components of a fluorescent tube phototherapy unit are:
 
-1. **The fluorescent tubes**: Most phototherapy units contain 4 or more white or blue fluorescent tubes. Increasing the number of fluorescent tubes improves the efficiency of the phototherapy. Ultraviolet tubes are *never* used as they will burn the infant very seriously. Usually 60 cm long white ‘Daylight’ tubes are used (labelled SABS No. 2; SABS stands for South African Bureau of Standards). Daylight tubes are also used in hospitals for lighting rooms and passages. To increase the amount of blue light produced by the phototherapy unit, Daylight tubes are often mixed with special blue tubes (Tl 20 Watt/03T produced by Philips). Fluorescent tubes have a limited life span and, therefore, must be replaced every 1000 hours (or 6 months if the hours in service are not recorded). A special photometer can be used to measure the light output of a phototherapy unit. This helps in deciding when to replace the tubes.
+1. **The fluorescent tubes**: Most phototherapy units contain 4 or more white or blue fluorescent tubes. Increasing the number of fluorescent tubes improves the efficiency of the phototherapy. Ultraviolet tubes are *never* used as they will burn the infant very seriously. Usually 60&nbsp;cm long white ‘Daylight’ tubes are used (labelled SABS No.&nbsp;2; SABS stands for South African Bureau of Standards). Daylight tubes are also used in hospitals for lighting rooms and passages. To increase the amount of blue light produced by the phototherapy unit, Daylight tubes are often mixed with special blue tubes (Tl 20&nbsp;Watt/03T produced by Philips). Fluorescent tubes have a limited life span and, therefore, must be replaced every 1000 hours (or 6 months if the hours in service are not recorded). A special photometer can be used to measure the light output of a phototherapy unit. This helps in deciding when to replace the tubes.
 2. **The light box**: The fluorescent tubes are fixed into a special light box which usually has a fan to keep the tubes cool. Otherwise the tubes and the infant will overheat. Most light boxes have a time counter which indicates how many hours the tubes have been used.
 
 	A thick sheet (1 cm) of clear perspex (plastic) must be placed under the tubes to protect the infant from falling glass if a tube explodes. The perspex does not lessen the effect of the phototherapy but it does reduce the amount of heat reaching the infant.
@@ -660,6 +660,6 @@ Some overhead radiant heaters (intensive care cribs) have white halogen spot lig
 5. The phototherapy lights are usually set at about 40 cm above the infant.
 6. Milk feeds should be continued unless there is a contraindication. Extra clear feeds are not necessary. Unless the TSB is very high, breast milk feeds can be continued.
 7. The infant’s skin temperature should be recorded every 3 hours. Lying undressed under phototherapy can result in either hypothermia or hyperthermia.
-8. The infant should be weighed every 12 hours. Weight loss is the best clinical guide to dehydration.
+8. The infant should be weighed every 12&nbsp;hours. Weight loss is the best clinical guide to dehydration.
 9. The infant is often turned onto the abdomen or back after each feed. However, this has not been shown to increase the effectiveness of phototherapy.
 10. Make sure that the mother can visit or stay with her infant during phototherapy.

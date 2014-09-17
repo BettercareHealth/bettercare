@@ -64,7 +64,7 @@ Due to the presence of peripheral cyanosis in most infants at delivery, it is un
 > A normal Apgar score is 7 or higher.
 
 Note
-:	The Apgar score is named after the late Dr Virginia Apgar, an anaesthetist from the USA, who described the scoring method in 1953.
+:	The Apgar score is named after the late Dr&nbsp;Virginia Apgar, an anaesthetist from the USA, who described the scoring method in 1953.
 
 ### 1-4 When should you determine the Apgar score?
 
@@ -112,7 +112,7 @@ The following clinical situations often lead to the delivery of an infant who do
 
 1. Signs of fetal distress during labour (baseline bradycardia or late decelerations)
 2. Delivery before 37 weeks of gestation
-3. Abnormal presentation of the fetus (e.g. breech)
+3. Abnormal presentation of the fetus (e.g.&nbsp;breech)
 4. Difficult or traumatic delivery (e.g. forceps delivery)
 5. General anaesthesia or recent analgesia (pethidine or morphine within the last 4 hours)
 
@@ -128,7 +128,7 @@ A warm, well-lit corner of the delivery room should be available for resuscitati
 
 The following essential equipment must be available in all hospitals and clinics where infants are delivered:
 
-1. **Suction apparatus**: An electric or wall vacuum suction apparatus is ideal but the vacuum pressure should not exceed 200 cm water (i.e. 20 kPa or 200 mbar). Soft F10 end hole suction catheters are needed. Smaller catheters (F5 and F6) with side holes are of limited use as they block easily. They can be used for an orogastric tube or for umbilical vein catheterisation. A suction bulb can also be used to remove secretions from the infant’s mouth and nose.
+1. **Suction apparatus**: An electric or wall vacuum suction apparatus is ideal but the vacuum pressure should not exceed 200&nbsp;cm water (i.e. 20 kPa or 200 mbar). Soft F10 end hole suction catheters are needed. Smaller catheters (F5 and F6) with side holes are of limited use as they block easily. They can be used for an orogastric tube or for umbilical vein catheterisation. A suction bulb can also be used to remove secretions from the infant’s mouth and nose.
 2. **Oxygen**: Whenever possible a cylinder or wall source of 100% oxygen or an oxygen concentrator should be available. However, most infants can be resuscitated in room air only without oxygen. A flow meter is needed and an air-oxygen blender is very useful. A pulse oximeter (saturation monitor) is very helpful to identify infants who are hypoxic.
 3. **Ventilation bag and mask**: A neonatal self-inflating ventilation bag and mask (e.g. Laerdal) must be available to provide ventilation. A reservoir attached to the ventilation bag is needed if high concentrations of oxygen are required. Correct size face masks with a cushioned rim are important.
 4. **Endotracheal tubes**: 2.5 mm, 3.0 mm and 3.5 mm straight tubes must be available. Introducers are also needed. Cuffed endotracheal or shouldered tubes must not be used in newborn infants.
@@ -146,7 +146,7 @@ Note
 
 ### 1-10 How should you stimulate respiration immediately after birth?
 
-Immediately after birth all infants must be thoroughly dried in a warm towel and then placed in a second warm, dry towel before they are clinically assessed. This prevents rapid heat loss due to evaporation, even in a warm room. Dry the infant’s head, body, arms and legs and wipe any blood or maternal faeces off the face,Handling and rubbing the newborn infant with a dry towel is usually all that is needed to stimulate the onset of breathing. Most infants can be dried on the mother’s abdomen. There is no need to smack newborn infants to get them to breathe. Never shake an infant. If the infant does not cry or breathe well in response to drying and stimulation, the umbilical cord must be cut and clamped immediately and the infant must be moved to the resuscitation area.
+Immediately after birth all infants must be thoroughly dried in a warm towel and then placed in a second warm, dry towel before they are clinically assessed. This prevents rapid heat loss due to evaporation, even in a warm room. Dry the infant’s head, body, arms and legs and wipe any blood or maternal faeces off the face,Handling and rubbing the newborn infant with a dry towel is usually all that is needed to stimulate the onset of breathing. Most infants can be dried on the mother’s abdomen. There is no need to smack newborn infants to get them to breathe. Never shake an infant. If&nbsp;the infant does not cry or breathe well in response to drying and stimulation, the umbilical cord must be cut and clamped immediately and the infant must be moved to the resuscitation area.
 
 > Dry to stimulate breathing in all infants immediately after delivery.
 
@@ -178,7 +178,7 @@ Infants needing ventilation include:
 
 1. Any infant who is not breathing at all, is breathing poorly or gasping
 2. Any infant who has central cyanosis
-3. Any infant who has a heart rate below 100 per minute
+3. Any infant who has a heart rate below 100&nbsp;per minute
 
 > Ventilation is indicated if the infant does not breathe well.
 
@@ -215,18 +215,18 @@ Once both effective ventilation and chest compressions have been given for one m
 
 ### 1-15 How should you give adrenaline to stimulate the heart?
 
-Adrenaline 1:10 000 should be given intravenously, usually into the umbilical vein. Adrenaline stimulates the myocardium and increases the heart rate. 1 ml of adrenaline 1:1000 must first be diluted with 9 ml normal saline to give a 1:10 000 solution. One ml of the diluted solution can then be given to term infants and 0.5 ml to preterm infants (recommended dose is 0.25 ml/kg of diluted adrenaline). Adrenaline is important if the heart rate remains slow or if no heart beat can be detected. The dose can be repeated every 3 to 5 minutes if the heart rate does not increase to above 60 beats per minute. Do not give adrenaline subcutaneously or by intramuscular injection.
+Adrenaline 1:10 000 should be given intravenously, usually into the umbilical vein. Adrenaline stimulates the myocardium and increases the heart rate. 1&nbsp;ml of adrenaline 1:1000 must first be diluted with 9 ml normal saline to give a 1:10 000 solution. One ml of the diluted solution can then be given to term infants and 0.5 ml to preterm infants (recommended dose is 0.25&nbsp;ml/kg of diluted adrenaline). Adrenaline is important if the heart rate remains slow or if no heart beat can be detected. The dose can be repeated every 3 to 5 minutes if the heart rate does not increase to above 60 beats per minute. Do not give adrenaline subcutaneously or by intramuscular injection.
 
 > Adrenaline is indicated if the heart rate is less than 60 beats per minute after one minute of chest compressions.
 
 Note
-:	1:1000 adrenaline gives 1 mg/ml. Therefore 1 ml of 1:10 000 adrenaline gives 0.1 mg while 0.5 ml gives 0.0 5mg. A dose of 0.25 ml/kg of 1:10 000 adrenaline gives 0.025 mg/kg. It has been suggested that 0.5 ml/kg may be  given via an endotracheal tube if it is not possible to access an intravenous route.
+:	1:1000 adrenaline gives 1 mg/ml. Therefore 1 ml of 1:10 000 adrenaline gives 0.1 mg while 0.5&nbsp;ml gives 0.0 5mg. A dose of 0.25 ml/kg of 1:10&nbsp;000 adrenaline gives 0.025 mg/kg. It has been suggested that 0.5 ml/kg may be  given via an endotracheal tube if it is not possible to access an intravenous route.
 
 If the infant has a good heart rate and is centrally pink, but still does not breathe, consider giving naloxone (Narcan) if the mother has received an opiate analgesic (pethidine or morphine) in the 4 hours before delivery.
 
 ### 1-16 How can you give naloxone to reverse pethidine or morphine?
 
-If the mother has received either pethidine or morphine during the 4 hour period before delivery, the infant’s poor breathing may be due to narcotic depression. If so, the depressing effect of the maternal analgesia on the infant’s respiration can be rapidly reversed with naloxone (1 ml ampoule contains 0.4 mg naloxone). Naloxone 0.1 mg/kg (i.e. 0.25 ml/kg) can be given by intramuscular injection into the anterolateral aspect of the thigh. Naloxone will not help resuscitate an infant if the mother has not received an opiate analgesic during labour, or has only received a general anaesthetic, barbiturates or other sedatives. Naloxone is not a general respiratory stimulant. Never give naloxone before providing adequate ventilation.
+If the mother has received either pethidine or morphine during the 4 hour period before delivery, the infant’s poor breathing may be due to narcotic depression. If so, the depressing effect of the maternal analgesia on the infant’s respiration can be rapidly reversed with naloxone (1 ml ampoule contains 0.4 mg naloxone). Naloxone 0.1 mg/kg (i.e. 0.25&nbsp;ml/kg) can be given by intramuscular injection into the anterolateral aspect of the thigh. Naloxone will not help resuscitate an infant if the mother has not received an opiate analgesic during labour, or has only received a general anaesthetic, barbiturates or other sedatives. Naloxone is not a general respiratory stimulant. Never give naloxone before providing adequate ventilation.
 
 > Naloxone must only be used after adequate ventilation has been provided.
 
@@ -293,7 +293,7 @@ Some infants develop apnoea and bradycardia as a result of the suctioning and, t
 > Meconium-stained infants must be suctioned before delivery of the shoulders.
 
 Note
-:	A recent study in countries where severe meconium aspiration is uncommon suggests that suctioning meconium-stained infants at delivery is not needed. However, these findings probably do not apply to services where monitoring in labour is poor, intrapartum hypoxia is an important cause of neonatal death, ccaesarean section rates are low and severe meconium aspiration syndrome is common. A meconium aspirator, which attaches between the endotracheal tube and bag, is very useful.
+:	A recent study in countries where severe meconium aspiration is uncommon suggests that suctioning meconium-stained infants at delivery is not needed. However, these findings probably do not apply to services where monitoring in labour is poor, intrapartum hypoxia is an important cause of neonatal death, ccaesarean section rates are low and severe meconium aspiration syndrome is common. A&nbsp;meconium aspirator, which attaches between the endotracheal tube and bag, is very useful.
 
 ### 1-23 How can you reduce the risk of meconium aspiration after delivery?
 
@@ -375,9 +375,9 @@ Note
 Prevent severe hypoxia, if possible, by good monitoring and care in labour. Once the hypoxic and ischaemic brain damage is done, there is little that can repair this.
 
 1. Infants with neonatal encephalopathy should be given general supportive care to prevent hypoglycaemia or further hypoxia. If possible they should be referred to a level 2 or 3 hospital.
-2. It is very important that they do not become too hot as this may make the brain damage worse. Their abdominal skin temperature should not be allowed to increase above 35.5 °C and axillary temperature above 36 °C.
-3. Fluid intake is usually restricted to 60 ml/kg daily for the first 3 days to help prevent cerebral oedema.
-4. Fits are controlled with 20 mg/kg intravenous phenobarbitone.
+2. It is very important that they do not become too hot as this may make the brain damage worse. Their abdominal skin temperature should not be allowed to increase above 35.5&nbsp;°C and axillary temperature above 36&nbsp;°C.
+3. Fluid intake is usually restricted to 60&nbsp;ml/kg daily for the first 3 days to help prevent cerebral oedema.
+4. Fits are controlled with 20&nbsp;mg/kg intravenous phenobarbitone.
 5. Ventilation may be needed.
 6. Monitor the vital signs and look out for hypoxic damage to other organs.
 7. Survivors must be followed up for signs of neurodevelopmental delay or cerebral palsy.
@@ -471,7 +471,7 @@ Abnormal neurological behaviour of a newborn infant within hours of birth. The i
 
 ### 6. When should attempts at resuscitation be stopped?
 
-If there is no heart beat after 10 minutes or no attempt at breathing after 20 minutes.
+If there is no heart beat after 10 minutes or no attempt at breathing after 20&nbsp;minutes.
 
 ## Case study 4
 
@@ -487,7 +487,7 @@ Excessive, deep suctioning often causes apnoea. This is why routine suctioning h
 
 ### 3. How should this infant have been resuscitated?
 
-The head and neck should have been correctly positioned to open the airway. Then bag and mask ventilation should have been given. With this basic resuscitation, the infant would almost certainly have started to breathe normally and cry. The infant became more and more hypoxic while attempts were made to intubate the trachea. The Apgar should also have been done at 5 minutes and every 5 minutes thereafter to record the condition of the infant during the resuscitation attempt.
+The head and neck should have been correctly positioned to open the airway. Then bag and mask ventilation should have been given. With this basic resuscitation, the infant would almost certainly have started to breathe normally and cry. The infant became more and more hypoxic while attempts were made to intubate the trachea. The Apgar should also have been done at 5 minutes and every 5&nbsp;minutes thereafter to record the condition of the infant during the resuscitation attempt.
 
 ### 4. What is the value of giving naloxone to infants who breathe poorly at birth?
 
@@ -523,7 +523,7 @@ When you have completed this skills workshop you should be able to:
 * Intubate an infant.
 * Give chest compressions.
 
-## Assessing the Apgar score
+## Assessing the Apgar&nbsp;score
 
 The Apgar score determines the infant’s clinical condition after birth. It consists of scoring the infant’s heart rate, breathing, colour, tone and response to stimulation.
 
@@ -553,9 +553,9 @@ The infant can be stimulated by simply drying with a towel. There is no need to 
 
 ### 1-f The final Apgar score
 
-The individual scores of the 5 criteria are now added up to give the Apgar score. The best way to learn how to perform an Apgar score accurately is to score infants with an experienced colleague. With practice the Apgar score can be accurately performed in less than a minute. Do not guess the Apgar score as this is usually higher than the correctly assessed score. Always record the Apgar score in the infant’s notes.
+The individual scores of the 5 criteria are now added up to give the Apgar score. The&nbsp;best way to learn how to perform an Apgar score accurately is to score infants with an experienced colleague. With practice the Apgar score can be accurately performed in less than a minute. Do not guess the Apgar score as this is usually higher than the correctly assessed score. Always record the Apgar score in the infant’s notes.
 
-The individual scores and total Apgar score are recorded at 1 minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
+The individual scores and total Apgar score are recorded at 1&nbsp;minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
 
 <figure>
 	<img src="images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
@@ -604,14 +604,14 @@ When giving bag and mask ventilation, always watch for chest movement. Squeeze t
 2. A good light so that you can see the infant
 3. A source of heat, such as an overhead heater or a warm room, so that the infant does not get cold. The body of the infant can be slid into a plastic bag to reduce heat loss.
 4. A source of oxygen, a flow meter and plastic tubing. An air/oxygen blender is useful to control the concentration of oxygen provided, if mechanical air is available. Usually a flow of 5 litres is used.
-5. Endotracheal tubes: 2.5, 3.0 and 3.5 mm (internal diameter). Straight tubes are safer and therefore should be used rather than shouldered tubes. A 2.5 mm tube is best for infants below 200 g; a 3.0 mm tube for infants 1000 to 2000 g; and a 3.5 mm tube for infants larger than 2000 g. Sometimes tubes are cut to 15 cm before use. Make sure that the connector has been inserted into the top of the endotracheal tube. 
-6. A ventilation bag and face mask (e.g. Laerdal). A reservoir enables 100% oxygen to be given if needed.
+5. Endotracheal tubes: 2.5, 3.0 and 3.5 mm (internal diameter). Straight tubes are safer and therefore should be used rather than shouldered tubes. A 2.5&nbsp;mm tube is best for infants below 200&nbsp;g; a 3.0&nbsp;mm tube for infants 1000 to 2000&nbsp;g; and a 3.5&nbsp;mm tube for infants larger than 2000&nbsp;g. Sometimes tubes are cut to 15&nbsp;cm before use. Make sure that the connector has been inserted into the top of the endotracheal tube. 
+6. A&nbsp;ventilation bag and face mask (e.g. Laerdal). A reservoir enables 100% oxygen to be given if needed.
 7. Introducers for the endotracheal tubes. Before intubating an infant, the introducer should be placed into the endotracheal tube. Make sure that the end of the introducer does not stick out beyond the tip of the endotracheal tube. It is important to bend a wire introducer at the top of the tube so that it does not slip out beyond the tip of the tube. With the introducer in place, bend the tip of the endotracheal tube slightly upward.
-8. A laryngoscope handle with small straight blades, size 0 (for small infants) and size 1 (for big infants). The blades must be cleaned or sterilised after use.
+8. A laryngoscope handle with small straight blades, size 0 (for small infants) and size&nbsp;1 (for big infants). The blades must be cleaned or sterilised after use.
 9. Spare batteries
 10. Spare bulbs
-11. Suction apparatus and tubing. The suction pressure most not exceed 200 cm water (20 kPa or 200 mbar).
-12. Suction catheters, sizes F5 and F6. A size F5 catheter will pass down a 2.5 mm endotracheal tube while a F6 catheter will pass down a 3.0 mm tube.
+11. Suction apparatus and tubing. The suction pressure most not exceed 200 cm water (20&nbsp;kPa or 200 mbar).
+12. Suction catheters, sizes F5 and F6. A size F5 catheter will pass down a 2.5&nbsp;mm endotracheal tube while a F6 catheter will pass down a 3.0 mm tube.
 13. A small stethoscope
 14. A saturation monitor is very useful but not essential.
 
@@ -659,13 +659,13 @@ The equipment must be checked daily to make certain that everything is present a
 
 ### 1-k Look for the vocal cords with the laryngoscope
 
-1. Pull the laryngoscope blade into a 90 degree position so that the light is switched on. Make sure that the bulb is tightly screwed in and that the correct blade is used.
+1. Pull the laryngoscope blade into a 90&nbsp;degree position so that the light is switched on. Make sure that the bulb is tightly screwed in and that the correct blade is used.
 2. Hold the laryngoscope in your left hand (even if you are right handed).
 3. With the infant lying supine (back down), and the infant’s head towards you in the correct position for mask ventilation, place the blade into the infant’s mouth. Always keep the base of the blade to the left of the mouth with the tip of the blade in the midline of the tongue. Throughout the procedure the tip of the blade must always remain in the midline. See Figure 1-F.
 4. Slowly move the tip of the blade along the back of the tongue until you can see the infant’s epiglottis. The epiglottis is about 1 cm long and is in the midline. It hangs down from the wall of the pharynx to cover the opening of the larynx (the glottis). If your view is obstructed by mucus, suction the pharynx with a catheter held in your right hand.
 5. Place the tip of the laryngoscope blade in the hollow just before the epiglottis (i.e. the vallecula). The epiglottis must always remain in view. One of the commonest mistakes is to push the blade in too far, beyond the epiglottis. It is important to initially look for the epiglottis rather than the vocal cords. See Figure 1-G.
 6. Now use the laryngoscope to lift the epiglottis out of the way so that the vocal cords and glottis can be seen. It is important to lift the laryngoscope upwards and not to pull the handle back towards you, as this may damage the infant’s upper gum. Slight downward pressure on the infant’s throat with the little finger of your left hand may make the vocal cords and glottis easier to see. This is called cricoid pressure. See Figure 1-H.
-7. The larynx (vocal cords and glottis) is a triangular structure and, therefore, is easy to recognise. The two sides of the triangle are formed by the vocal cords. The vocal cords tend to move apart when the infant breathes out. If the cords are in spasm against one another, they can be separated by gently squeezing the infant’s chest. The most important step in intubation is to get a good view of the vocal cords. The opening between the vocal cords is the glottis. This is where the endotracheal tube must be inserted. See Figure 1-I.
+7. The larynx (vocal cords and glottis) is a triangular structure and, therefore, is easy to recognise. The two sides of the triangle are formed by the vocal cords. The vocal cords tend to move apart when the infant breathes out. If the cords are in spasm against one another, they can be separated by gently squeezing the infant’s chest. The most important step in intubation is to get a good view of the vocal cords. The opening between the vocal cords is the glottis. This is where the endotracheal tube&nbsp;must be inserted. See Figure 1-I.
 
 ### 1-l Introducing the endotracheal tube
 
@@ -680,7 +680,7 @@ The equipment must be checked daily to make certain that everything is present a
 	* Once the infant has started to breathe well, the heart rate is above 100 beats per minute and the tongue is pink, the endotracheal tube can be pulled out.
 	* The laryngoscope and blade must be cleaned after use.
 
-A plastic intubation head model can be used to learn the method of laryngeal intubation. The correct ‘tip to lip’ distance of an endotracheal tube with oral intubation is approximately the infant’s weight plus 6 cm (e.g. 2.3 + 6 = 8.3 cm for a 2.3 kg infant).
+A plastic intubation head model can be used to learn the method of laryngeal intubation. The correct ‘tip to lip’ distance of an endotracheal tube with oral intubation is approximately the infant’s weight plus 6 cm (e.g. 2.3 + 6 = 8.3&nbsp;cm for a 2.3 kg infant).
 
 ## Chest compressions
 
@@ -688,7 +688,7 @@ If the heart rate remains below 60 beats per minute after adequate ventilation h
 
 ### 1-m Giving chest compressions
 
-An assistant ventilates the infant while you give chest compressions. The person giving chest compressions stands at the feet of the infant while the person ventilating the infant stands at the head. With the infant supine (back down) and the head facing away from you, place both of your hands under the infant’s chest. Both thumbs are now placed on the lower half of the infant’s sternum about 1 cm below the level of the nipples and 1 cm above the tip of the sternum. It is best to place one thumb over the other in a small infant as the sternum is very narrow. This will prevent you pushing on the infant’s ribs. Push down with both thumbs but do not squeeze the chest. This will depress the sternum about one third of the chest diameter (by about 2 cm). Keep your hands and thumbs in contact with the chest wall both when you are pushing down and while the chest is allowed to expand again. Push down on the sternum at about 90 times per minute. Continue with the cardiac massage until the infant’s heart rate increases to above 60 beats per minute.
+An assistant ventilates the infant while you give chest compressions. The person giving chest compressions stands at the feet of the infant while the person ventilating the infant stands at the head. With the infant supine (back down) and the head facing away from you, place both of your hands under the infant’s chest. Both thumbs are now placed on the lower half of the infant’s sternum about 1 cm below the level of the nipples and 1 cm above the tip of the sternum. It is best to place one thumb over the other in a small infant as the sternum is very narrow. This will prevent you pushing on the infant’s ribs. Push down with both thumbs but do not squeeze the chest. This will depress the sternum about one third of the chest diameter (by about 2 cm). Keep your hands and thumbs in contact with the chest wall both when you are pushing down and while the chest is allowed to expand again. Push down on the sternum at about 90&nbsp;times per minute. Continue with the cardiac massage until the infant’s heart rate increases to above 60 beats per minute.
 
 Pressing on the sternum compresses the heart between the sternum and the spine. This squeezes blood out of the heart and into the circulation. When the sternum returns to the normal position, the heart fills again with blood. Therefore it is important that the chest be allowed time to expand fully after each compression. Repeated compression of the heart causes the blood to circulate throughout the body.
 
@@ -704,4 +704,4 @@ Note
 
 When ventilation and chest compressions are both being given, 30 breaths and 90 chest compressions should be given each minute. This means 3 compressions to each ventilation. However, it is important to avoid giving a breath and a chest compression at the same time, especially with bag and mask ventilation.
 
-Therefore chest compressions and breaths must be co-ordinated. This is best achieved if the person giving the chest compressions counts out aloud ‘one-and-two-and-three-and-breath-and-one-and-two-and- …’. At each number count (one-and-two-and-three) the chest is compressed and then allowed to relax. At the count of ‘breath’ the chest is not compressed but the infant is given a breath. Note that the ventilation rate is reduced to 30 breaths per minute in order to allow time for chest compressions. Once chest compressions are stopped the ventilation rate should be increased again to 40 breaths per minute.
+Therefore chest compressions and breaths must be co-ordinated. This is best achieved if the person giving the chest compressions counts out aloud ‘one-and-two-and-three-and-breath-and-one-and-two-and- …’. At each number count (one-and-two-and-three) the chest is compressed and then allowed to relax. At the count of ‘breath’ the chest is not compressed but the infant is given a breath. Note that the ventilation rate is reduced to 30&nbsp;breaths per minute in order to allow time for chest compressions. Once chest compressions are stopped the ventilation rate should be increased again to 40 breaths per minute.

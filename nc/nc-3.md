@@ -58,7 +58,7 @@ Note
 
 ### 3-4 When should you give the infant to the mother?
 
-It is essential for the mother to see and hold her infant as soon as possible after delivery. If the infant appears to be normal and healthy, the infant can be given to the mother after the 1 minute Apgar score has been assessed, the umbilical cord clamped and the initial examination made. After delivery, both the infant and mother are in an alert state. The infant’s eyes are usually wide open and looking around.
+It is essential for the mother to see and hold her infant as soon as possible after delivery. If&nbsp;the infant appears to be normal and healthy, the infant can be given to the mother after&nbsp;the 1 minute Apgar score has been assessed, the umbilical cord clamped and the initial examination made. After delivery, both the infant and mother are in an alert state. The infant’s eyes are usually wide open and looking around.
 
 The mother will usually hold the infant so that she can look at the face. She will talk to her infant and touch the face and hands. This initial contact between a mother and her infant is an important stage in *bonding*. Bonding is the emotional attachment that develops between mother and child, and is an important step towards good parenting later. Where possible, it is important that the father be present at the delivery so that he can also be part of this important phase of the bonding process.
 
@@ -173,7 +173,7 @@ Note
 
 ### 3-20 Is it necessary to weigh a normal infant every day?
 
-No. The normal infant should be weighed at delivery and again on days 3 and 5 if still in hospital. Weight at discharge must be recorded. At every clinic visit the infant’s weight should be measured and recorded. Test weighing is not needed in normal infants. After the first week most infants gain about 25 g per day.
+No. The normal infant should be weighed at delivery and again on days 3 and 5 if still in hospital. Weight at discharge must be recorded. At every clinic visit the infant’s weight should be measured and recorded. Test weighing is not needed in normal infants. After the first week most infants gain about 25&nbsp;g per day.
 
 ### 3-21 How should the infant be dressed?
 
@@ -263,7 +263,7 @@ Extra fingers that are attached by a thread of skin are common and occur in norm
 
 If an infant’s finger nails become long they may scratch the face. Long nails should, therefore, be cut straight across with a sharp pair of scissors. Do not cut the nails too short. Never bite or tear the nails. Nail clippers are dangerous.
 
-## Discharging a normal infant
+## Discharging a normal&nbsp;infant
 
 ### 3-40 When can a normal infant be discharged from the hospital or clinic?
 
@@ -331,7 +331,7 @@ No. This is normal and common.
 
 ## Case study 2
 
-A normal infant weighs 3000 g at birth. By day 4 the infant’s weight has dropped to 2850 g. The infant has tongue tie and the mother thinks that this is preventing the infant from sucking well. The policy in the hospital is to keep all normal infants in the nursery where the mothers can visit at feeding time.
+A normal infant weighs 3000 g at birth. By day 4 the infant’s weight has dropped to 2850&nbsp;g. The infant has tongue tie and the mother thinks that this is preventing the infant from sucking well. The policy in the hospital is to keep all normal infants in the nursery where the mothers can visit at feeding time.
 
 ### 1. Is the weight loss of 150 g normal for this infant?
 
@@ -437,8 +437,8 @@ Before examining a newborn infant, it is important to first take a careful perin
 	* Family history of congenital abnormalities.
 2. **The present pregnancy:**
 	* Gestational age based on menstrual dates, early obstetric examination and ultrasound examination.
-	* Problems during the pregnancy, e.g. vaginal bleeding.
-	* Illnesses during the pregnancy, e.g. rubella.
+	* Problems during the pregnancy, e.g.&nbsp;vaginal bleeding.
+	* Illnesses during the pregnancy, e.g.&nbsp;rubella.
 	* Smoking, alcohol or medicines taken.
 	* VDRL (or RPR) and TPHA (or FTA) results. Treatment if syphilis diagnosed.
 	* HIV status and CD4 count if HIV positive.
@@ -463,7 +463,7 @@ Before examining a newborn infant, it is important to first take a careful perin
 	* Time since delivery.
 	* Feeds given.
 	* Urine and meconium passed.
-	* Any clinical problems, e.g. hypothermia, respiratory distress, hypoglycaemia.
+	* Any clinical problems, e.g.&nbsp;hypothermia, respiratory distress, hypoglycaemia.
 	* Contact between infant and mother.
 
 ### 3-c Assessment of history

@@ -98,9 +98,9 @@ Most infants need:
 * 125 ml/kg on day 4
 * 150 ml/kg on day 5 and thereafter
 
-Note that the fluid requirements are given in ml per kg body weight, and that they increase gradually from day 1 to day 5. After day 5 there is no further increase in the daily fluid needs per kg body weight. As the infant’s weight increases after day 5, the total amount of fluid a day will increase although the amount of fluid per kg remains constant at 150 ml/kg.
+Note that the fluid requirements are given in ml per kg body weight, and that they increase gradually from day 1 to day 5. After day 5 there is no further increase in the daily fluid needs per kg body weight. As the infant’s weight increases after day 5, the total amount of fluid a day will increase although the amount of fluid per kg remains constant at 150&nbsp;ml/kg.
 
-> The fluid requirements per day increase from 60 ml/kg on day 1 to 150 ml/kg on day 5.
+> The fluid requirements per day increase from 60&nbsp;ml/kg on day 1 to 150 ml/kg on day 5.
 
 The fluid needs given above for each day after birth are a guide. Some infants may need more while others need less.
 
@@ -108,7 +108,7 @@ The fluid needs given above for each day after birth are a guide. Some infants m
 
 For the first few days after delivery the mother’s breasts do not produce a lot of milk. To prevent dehydration, the kidneys of the newborn infant, therefore, produce little urine during this period. The infant also has an additional store of extracellular fluid at birth. As a result the infant does not need a lot of fluid in the first few days of life and is well adapted to surviving while the mother’s milk supply slowly increases.
 
-The infant’s fluid needs gradually increase from day 1 to 5. By day 5 the kidneys are functioning well and a lot more urine is passed. Giving 150 ml/kg during the first 4 days to term infants may result in overhydration and oedema.
+The infant’s fluid needs gradually increase from day 1 to 5. By day 5 the kidneys are functioning well and a lot more urine is passed. Giving 150&nbsp;ml/kg during the first 4 days to term infants may result in overhydration and oedema.
 
 ### 6-10 Why do infants lose weight after birth?
 
@@ -118,7 +118,7 @@ Because the fluid intake is reduced for the first few days. This weight loss is 
 
 Some infants need more than the amount of fluid given above:
 
-1. Infants weighing less than 1500 g need 75 ml/kg on both the first and second days of life.
+1. Infants weighing less than 1500 g need 75&nbsp;ml/kg on both the first and second days of life.
 2. Infants under a radiant warmer need an extra 25 ml/kg a day to replace the additional fluid lost through their skin. Infants receiving phototherapy do not usually need extra fluid if their temperature remains normal and a perspex sheet is placed under the phototherapy lights to absorb most of the heat.
 3. Infants with diarrhoea or vomiting.
 4. Some preterm infants need between 150 and 180 ml/kg after day 5 before they obtain enough energy for growth. However, most preterm infants will grow on 150 ml/kg feeds.
@@ -126,7 +126,7 @@ Some infants need more than the amount of fluid given above:
 Weighing the infant daily is the best method of assessing whether enough fluid is being given. If an infant looses more than 10% of their birth weight, then the daily fluid intake must be increased.
 
 Note
-:	Very small infants, weighing less than 1000 g, need even more extra fluid during the first 4 days. Usually 100 ml/kg is given on days 1 to 3.
+:	Very small infants, weighing less than 1000&nbsp;g, need even more extra fluid during the first 4&nbsp;days. Usually 100&nbsp;ml/kg is given on days 1 to 3.
 
 ### 6-12 What are the energy needs of an infant?
 
@@ -162,7 +162,7 @@ Resuscitation fluid is used to resuscitate an infant that is shocked due to hypo
 
 The choice of fluid depends on which fluid is available and the cause of shock. Normal saline is usually used. Collapse due to hypoxia or septicaemia can also be treated with stabilised human serum or Plasmalyte B. Acute blood loss is best treated with blood or stabilised human serum.
 
-Resuscitation fluid is given 10–20 ml/kg over 10–20 minutes until normal perfusion and blood pressure are achieved. In severe shock it must be given as fast as possible.
+Resuscitation fluid is given 10–20&nbsp;ml/kg over 10–20&nbsp;minutes until normal perfusion and blood pressure are achieved. In severe shock it must be given as fast as possible.
 
 ### 6-15 What is maintenance fluid and when is it used?
 
@@ -177,11 +177,11 @@ A neonatal giving set should be used to provide intravenous fluids to infants. A
 Note
 :	The daily electrolyte needs of the infant are:
 	
-	* Sodium: 1–3 mmol/kg
-	* Potassium 1–2 mmol/kg
-	* Chloride 1–4 mmol/kg
+	* Sodium: 1–3&nbsp;mmol/kg
+	* Potassium 1–2&nbsp;mmol/kg
+	* Chloride 1–4&nbsp;mmol/kg
 
-	Breast milk provides the term infant with 1 mmol sodium/kg/day. Some preterm infants need more sodium per kg body weight than do term infants, varying from 3–6 mmol/kg. The more immature the infant the greater the sodium loss in the kidneys and, therefore, the higher the daily sodium requirement.
+	Breast milk provides the term infant with 1&nbsp;mmol sodium/kg/day. Some preterm infants need more sodium per kg body weight than do term infants, varying from 3–6&nbsp;mmol/kg. The more immature the infant the greater the sodium loss in the kidneys and, therefore, the higher the daily sodium requirement.
 
 ### 6-16 What is replacement fluid and when is it used?
 
@@ -208,7 +208,7 @@ Whenever possible, every effort should be made to feed a preterm infant with *br
 
 ### 6-19 What milk formula should be used for preterm infants if breast milk is not available?
 
-If breast milk is not available, then formula (powdered milk) should be used. Infants weighing 1500 g or more can be given a standard newborn formula (such as Nan 1). However, infants weighing less than 1500 g should be given a special preterm formula (such as PreNan). While the nutrients and chemical make up of these special formulas are designed to meet the needs of preterm infants, they lack most of the anti-infection factors found in breast milk.
+If breast milk is not available, then formula (powdered milk) should be used. Infants weighing 1500 g or more can be given a standard newborn formula (such as Nan 1). However, infants weighing less than 1500&nbsp;g should be given a special preterm formula (such as PreNan). While the nutrients and chemical make up of these special formulas are designed to meet the needs of preterm infants, they lack most of the anti-infection factors found in breast milk.
 
 If the correct volume of breast milk or formula is given, the infant will receive the correct amount of nutrients and energy. Diluted feeds must *not* be used.
 
@@ -222,9 +222,9 @@ If the infant is fed via a nasogastric or orogastric tube, the mother must manua
 
 ### 6-21 How often should a preterm infant be fed?
 
-1. If below 1500 g: feed every 2 hours (i.e. 12 feeds a day).
-2. If 1500–1800 g: feed every 3 hours (i.e. 8 feeds a day).
-3. If 1800–2000 g: feed every 4 hours.(i.e. 6 feeds a day).
+1. If below 1500 g: feed every 2 hours (i.e. 12&nbsp;feeds a day).
+2. If 1500–1800 g: feed every 3 hours (i.e. 8&nbsp;feeds a day).
+3. If 1800–2000 g: feed every 4 hours.(i.e. 6&nbsp;feeds a day).
 4. If over 2000 g: feed every 4 hours or on demand.
 
 Note
@@ -236,7 +236,7 @@ The method of feeding depends on the weight of the infant:
 
 #### 1. Infants weighing less than 1500 g at birth
 
-Start with an intravenous infusion of maintenance fluid only on day 1. From day 2 tube feeds are gradually introduced and intravenous fluid is gradually stopped over a number of days. The smaller and sicker the infant, the more gradually milk feeds are introduced. If milk feeds are tolerated well, without vomiting, abdominal distension or apnoea, then the volume per feed can be increased.
+Start with an intravenous infusion of maintenance fluid only on day 1. From day&nbsp;2 tube feeds are gradually introduced and intravenous fluid is gradually stopped over a number of days. The smaller and sicker the infant, the more gradually milk feeds are introduced. If milk feeds are tolerated well, without vomiting, abdominal distension or apnoea, then the volume per feed can be increased.
 
 An example of the introduction of milk feeds to a small, preterm infant is given below:
 
@@ -289,14 +289,14 @@ To avoid these complications, sick infants are often kept nil per mouth for a fe
 As both these groups of infants are at high risk of hypoglycaemia, milk feeds or an intravenous infusion of maintenance fluid must be started within an hour of delivery. If possible milk feeds should be given, as they contain more energy than maintenance fluid. The volume of milk per feed can usually be increased much faster than in preterm or sick infants.
 
 Note
-:	Breast milk and formula contain 290 kJ/100 ml (70 kcal/100 ml) while maintenance fluid (10% dextrose) only contains 168 kJ/100 ml (40 kcal/100 ml).
+:	Breast milk and formula contain 290&nbsp;kJ/100&nbsp;ml (70&nbsp;kcal/100&nbsp;ml) while maintenance fluid (10% dextrose) only contains&nbsp;168&nbsp;kJ/100&nbsp;ml (40&nbsp;kcal/100&nbsp;ml).
 
 ### 6-27 What supplements are needed by preterm infants?
 
-1. Multivitamin drops 0.3 ml daily should be started on day 5 if the infant is tolerating milk feeds. This should be increased to 0.6 ml daily at term and then continued at 0.6 ml daily until the infant is 6 months old.
+1. Multivitamin drops 0.3 ml daily should be started on day 5 if the infant is tolerating milk feeds. This should be increased to 0.6&nbsp;ml daily at term and then continued at 0.6&nbsp;ml daily until the infant is 6 months old.
 2. Iron drops (ferrous lactate) 0.3 ml daily. They should be started when the infant is two weeks old. When the infant reaches term the dose is increased to 0.6 ml daily and continued at 0.6 ml daily until the infant is 6 months old.
 
-Both the multivitamin and iron drops can be added to the formula or breast milk if nasogastric or cup feeds are used. They can be given directly into the infant’s mouth if the infant is breastfeeding. Vitamins and iron are given to build up the infant’s nutrient reserves and, thereby, prevent vitamin deficiency and iron deficiency anaemia when the infant is a few months old. There is usually no need to introduce solids until the preterm infant is 4–6 months old.
+Both the multivitamin and iron drops can be added to the formula or breast milk if nasogastric or cup feeds are used. They can be given directly into the infant’s mouth if the infant is breastfeeding. Vitamins and iron are given to build up the infant’s nutrient reserves and, thereby, prevent vitamin deficiency and iron deficiency anaemia when the infant is a few months old. There is usually no need to introduce solids until the preterm infant is 4–6&nbsp;months old.
 
 > All preterm infants should receive multivitamin and iron supplements.
 
@@ -341,7 +341,7 @@ No. Only infants below 1800 g, infants with apnoea or respiratory distress and i
 
 ## Case study 1
 
-A 1900 g, healthy preterm infant is born by normal vertex delivery after a 34 week gestation.
+A 1900 g, healthy preterm infant is born by normal vertex delivery after a 34&nbsp;week gestation.
 
 ### 1. What method should be used to feed this infant?
 
@@ -357,7 +357,7 @@ Breast milk should be used if possible. If this is not available, then a standar
 
 ### 4. How often should feeds be given to this infant?
 
-4 hourly (i.e. 6 feeds a day). Therefore, the volume of each feed will be 114/6 = 19 ml.
+4 hourly (i.e. 6 feeds a day). Therefore, the volume of each feed will be 114/6 = 19&nbsp;ml.
 
 ### 5. What supplements does this infant need?
 
@@ -381,9 +381,9 @@ Small tube feeds of expressed breast milk (or preterm formula if breast milk is 
 
 ### 4. What volumes of milk and intravenous fluid will be needed on day 2?
 
-The total fluid intake on day 2 should be 75 ml/kg, as on day 1. This should consist of:
+The total fluid intake on day 2 should be 75&nbsp;ml/kg, as on day 1. This should consist of:
 
-1. Breast milk 25 ml/kg = 25 × 1.1 = 27.5 ml. Therefore, 2.3 ml (27.5 ml ÷ 12) should be given every 2 hours.
+1. Breast milk 25 ml/kg = 25 × 1.1 = 27.5 ml. Therefore, 2.3 ml (27.5&nbsp;ml ÷ 12) should be given every 2 hours.
 2. Intravenous maintenance fluid 50 ml/kg = 50 × 1.1 = 55 ml.
 
 After day 2 the volume of milk is gradually increased as the volume of intravenous fluid is gradually decreased to give a steady increase in total volume until day 5 when 150 ml/kg milk feeds should be given.
@@ -398,7 +398,7 @@ A 2100 g infant with hyaline membrane disease is given headbox oxygen and nursed
 
 ### 1. What volume of intravenous fluid should be given on day 1?
 
-60 ml/kg = 60 × 2.1 = 126 ml. However, an additional 25 ml/kg must be given as the infant will have increased fluid losses due to the overhead heater. Therefore an extra 25 ml/kg (= 25 × 2.1 = 52.5 ml) must be added to the daily volume. The total day one volume will be 126 + 52.5 = 178.5 ml.
+60 ml/kg = 60 × 2.1 = 126 ml. However, an additional 25 ml/kg must be given as the infant will have increased fluid losses due to the overhead heater. Therefore an extra 25&nbsp;ml/kg (= 25 × 2.1 = 52.5 ml) must be added to the daily volume. The total day one volume will be 126 + 52.5 = 178.5 ml.
 
 ### 2. What type of intravenous fluid should be given?
 
@@ -439,7 +439,7 @@ Gastro-oesophageal reflux.
 
 ### 4. How should you manage an infant with gastro-oesophageal reflux?
 
-Give frequent, small feeds. As the infant needs 240 ml per day (150 ml × 1.6 kg), feeds of 20 ml can be given every 2 hours (20 × 12 = 240 ml).
+Give frequent, small feeds. As the infant needs 240 ml per day (150 ml × 1.6 kg), feeds of 20&nbsp;ml can be given every 2 hours (20 × 12 = 240 ml).
 
 Nurse the infant prone (on the abdomen) and slightly raise the head of the mattress. If the infant continues to vomit and fails to gain weight, refer to a level 2 hospital. Nestagel can be added to cup feeds if other causes of vomiting have been excluded.
 
@@ -465,7 +465,7 @@ A nasogastric tube, which passes through a nostril to reach the stomach, is used
 
 ### 6-a Choosing the correct size tube
 
-A sterile plastic feeding ‘tube’ (catheter) must be used. It will be packed in a wrapper which is labelled with the size of the tube. A size F 5 tube is used for infants weighing less than 1500 g and a size F 6 tube is used for infants weighing between 1500 g and 2500 g. For infants above 2500 g a size F 8 tube is usually used.
+A sterile plastic feeding ‘tube’ (catheter) must be used. It will be packed in a wrapper which is labelled with the size of the tube. A size F&nbsp;5 tube is used for infants weighing less than 1500&nbsp;g and a size F&nbsp;6 tube is used for infants weighing between 1500&nbsp;g and 2500&nbsp;g. For infants above 2500 g a size F&nbsp;8 tube is usually used.
 
 ### 6-b Measuring the correct length of the tube
 
@@ -493,8 +493,8 @@ If formula feeds are to be given by mouth, it is very important that the bottles
 
 The bottles and teats must be cleaned very carefully as unsterile bottles are a common source of infections.
 
-1. Before use the bottle should be well washed out with water and detergent or soap. A bottle brush can be used to remove milk sediment from the bottom of the bottle.
-2. If possible, the bottles should be sterilised by autoclaving or boiling them for 15 minutes.
+1. Before use the bottle should be well washed out with water and detergent or soap. A&nbsp;bottle brush can be used to remove milk sediment from the bottom of the bottle.
+2. If possible, the bottles should be sterilised by autoclaving or boiling them for 15&nbsp;minutes.
 3. Bottles can also be cleaned by soaking them in a solution of sodium hypochlorite (Milton or Jik) for at least 15 minutes. If Jik is used it must first be diluted with water by adding 1 tablespoon of Jik to 2 litres of clean water. A fresh solution of Milton or Jik should be made up every day. It is not necessary to rinse the bottles with water before using them.
 4. The teats should be washed after use and then scrubbed inside and outside with a brush or rubbed with salt to remove any dried milk. If possible, teats should also be boiled, sterilised or soaked in Milton or Jik.
 5. Clean bottles and teats should be stored dry.
@@ -521,7 +521,7 @@ A peripheral intravenous infusion is usually referred to as a ‘drip’ or an �
 4. The neonatal maintenance fluids to be infused (usually Neonatalyte or Neolyte).
 5. Zinc oxide plaster 5 mm wide (‘pink strapping’). The plaster should be cut into lengths of about 10 cm.
 
-> Only use an administration set that supplies 60 drops/ml.
+> Only use an administration set that supplies 60&nbsp;drops/ml.
 
 Note
 :	A central cannula is used when a ‘long line’ is needed in a very small infant or when an intravenous infusion is needed for many days, e.g. to give parenteral nutrition. A central cannula has dangers but avoids the risk of tissue damage due to local infiltration.
@@ -529,7 +529,7 @@ Note
 ### 6-h Common sites for giving an intravenous infusion
 
 1. A *scalp vein* is often used especially if the infusion is to be given via a scalp vein set. The advantage of this site is that the needle or cannula can be easily and firmly secured. The disadvantage is that an area of scalp has to be shaved. It may take months before the hair fully regrows.
-2. A vein over the back of the *hand* or the top of the *foot*. Either a scalp vein set or a cannula can be used, but the advantage of a cannula is that it does not have to be changed as frequently as a scalp vein set. A splint may be needed to keep the hand or foot still.
+2. A vein over the back of the *hand* or the top of the *foot*. Either a scalp vein set or a cannula can be used, but the advantage of a cannula is that it does not have to be changed as frequently as a scalp vein set. A&nbsp;splint may be needed to keep the hand or foot still.
 
 Sites such as the forearm or the front of the elbow can also be used. The femoral vein, jugular vein and fontanelles must *not* be used.
 
@@ -588,7 +588,7 @@ The controller determines the rate at which fluid flows down the infusion set. T
 1. Start the peripheral infusion as described. The clamp on the infusion tubing should be closed and the bag of fluid must be at least 1 metre above the infant.
 2. Make sure that the power plug on the wall is in position and switched on.
 3. Open the door of the controller and place the tubing of the infusion set into position between the guides. When the tubing is correctly placed, close the controller door.
-4. Set the dial of the controller to give the drip rate that is required, e.g. 1 drop per minute which will give 1 ml of fluid per hour or about 25 ml per day. Always use an administration set that supplies 60 drops/ml.
+4. Set the dial of the controller to give the drip rate that is required, e.g. 1 drop per minute which will give 1 ml of fluid per hour or about 25 ml per day. Always use an administration set that supplies 60&nbsp;drops/ml.
 5. The controller can now be switched on by pressing the ‘on/off’ button.
 6. Release the clamp on the infusion tubing.
 7. Press the ‘start’ button to start the infusion. Every time a drop falls the ‘drop’ light flashes.

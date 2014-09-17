@@ -50,7 +50,7 @@ The concentration of blood glucose can be measured by different methods:
 
 ### 8-3 What is the normal concentration of glucose in the blood?
 
-The normal concentration of glucose in the blood of newborn infants is 2.0 mmol/l (35 mg/dl) to 7.0 mmol/l (120 mg/dl). This is called normoglycaemia (normo = normal; glycaemia = blood glucose). Most newborn infants have a blood glucose concentration in the middle of the normal range, about 3 to 5 mmol/l. The normal range for older children and adults is higher than this. It is preferable to use the metric units of mmol/l rather than the old units of mg/dl.
+The normal concentration of glucose in the blood of newborn infants is 2.0&nbsp;mmol/l (35&nbsp;mg/dl) to 7.0&nbsp;mmol/l (120&nbsp;mg/dl). This is called normoglycaemia (normo = normal; glycaemia = blood glucose). Most newborn infants have a blood glucose concentration in the middle of the normal range, about 3 to 5&nbsp;mmol/l. The normal range for older children and adults is higher than this. It is preferable to use the metric units of mmol/l rather than the old units of mg/dl.
 
 Note that the normal blood glucose concentration, as measured with reagent strips, is 0.5 mmol/l lower than the serum glucose concentration, as measured in the laboratory.
 
@@ -61,7 +61,7 @@ Note
 
 ### 8-4 What is hypoglycaemia?
 
-A blood glucose concentration below 2.0 mmol/l (35 mg/dl) is abnormal and, therefore, defined as hypoglycaemia (hypo = low; glycaemia = blood glucose). Mild hypoglycaemia is defined as a blood glucose concentration between 1.5 to 2.0 mmol/l while severe hypoglycaemia is defined as a blood glucose concentration of less than 1.5 mmol/l (25 mg/dl). Whenever a reagent strip gives a reading below 1.5 mmol/l, a sample of blood should be taken, if possible, to confirm the diagnosis of hypoglycaemia by a laboratory measurement. The definition of hypoglycaemia when serum is sent to the laboratory is a concentration below 2.5 mmol/l (blood glucose is lower than serum glucose concentrations).
+A blood glucose concentration below 2.0&nbsp;mmol/l (35 mg/dl) is abnormal and, therefore, defined as hypoglycaemia (hypo = low; glycaemia = blood glucose). Mild hypoglycaemia is defined as a blood glucose concentration between 1.5 to 2.0 mmol/l while severe hypoglycaemia is defined as a blood glucose concentration of less than 1.5 mmol/l (25 mg/dl). Whenever a reagent strip gives a reading below 1.5 mmol/l, a sample of blood should be taken, if possible, to confirm the diagnosis of hypoglycaemia by a laboratory measurement. The definition of hypoglycaemia when serum is sent to the laboratory is a concentration below 2.5 mmol/l (blood glucose is lower than serum glucose concentrations).
 
 Note
 :	The definition of hypoglycaemia in newborn infants remains debatable with textbooks often giving different cut-off points.
@@ -158,14 +158,14 @@ The following steps must be taken to prevent hypoglycaemia:
 2. Monitor the blood glucose concentration of these infants with reagent strips so that a falling blood glucose can be detected before hypoglycaemic levels are reached.
 3. Feed all infants as soon as possible after delivery, especially preterm, underweight for gestational age and wasted infants, as well as infants of diabetic women.
 4. Whenever possible, milk feeds should be given. Both clear feeds orally and oral dextrose feeds should *not* be used in newborn infants as they are low in energy and may result in hypoglycaemia.
-5. If milk feeds cannot be given, then an intravenous infusion of 10% glucose (e.g. Neonatalyte) should be started.
+5. If milk feeds cannot be given, then an intravenous infusion of 10% glucose (e.g.&nbsp;Neonatalyte) should be started.
 6. Prevent hypothermia.
 
 > Early feeding with milk helps to prevent hypoglycaemia.
 
 ### 8-13 How should you treat an infant with mild hypoglycaemia?
 
-These infants, with a blood glucose concen­tration between 1.5 mmol/l and 2.0 mmol/l, need milk feeds or intravenous glucose urgently to prevent severe hypoglycaemia:
+These infants, with a blood glucose concen­tration between 1.5 mmol/l and 2.0&nbsp;mmol/l, need milk feeds or intravenous glucose urgently to prevent severe hypoglycaemia:
 
 1. If they tolerate oral or nasogastric feeds, give 10 ml/kg breast milk or milk formula immediately. Do not give 5% or 10% dextrose orally as the energy content is less than that of breast milk or milk formula.
 2. Repeat the blood glucose measurement 30 minutes after the feed to determine whether the blood glucose concentration has returned to the normal range. If it is still in the mild hypoglycaemia range, repeat the feed with an added 5 ml sugar (one teaspoon) per 30 ml milk and repeat the blood glucose measurement after a further 30 minutes.
@@ -184,7 +184,7 @@ All infants with a blood glucose concentration below 1.5 mmol/l have severe hypo
 1. The treatment of choice is to start an intravenous infusion of 10% dextrose (or Neonatalyte) at a drip rate calculated to give 60 ml/kg in the first 24 hours. Infants older than 24 hours can be given a larger volume calculated for their age.
 
 	Note
-	:	A 10% dextrose infusion at 60 ml/kg/24 hours will provide 0.22 mmol (4 mg) glucose/kg/minute which will meet most infants’ energy needs. To increase a 5% to a 10% glucose solution, add 10 ml of 50% dextrose to 100 ml 5% dextrose. Some infants will need a 15% glucose solution, however, to maintain a normal blood glucose concentration. 
+	:	A 10% dextrose infusion at 60 ml/kg/24 hours will provide 0.22 mmol (4 mg) glucose/kg/minute which will meet most infants’ energy needs. To increase a 5% to a 10% glucose solution, add 10 ml of 50% dextrose to 100 ml 5%&nbsp;dextrose. Some infants will need a 15%&nbsp;glucose solution, however, to maintain a normal blood glucose concentration. 
 
 2. If you cannot rapidly establish a peripheral intravenous line, insert an umbilical vein catheter so that intravenous fluids can be given.
 3. Once an intravenous line has been estab­lished, give 2 ml/kg of 10% glucose as a bolus. It is not advisable to inject a bolus of 25% or 50% dextrose as it is extremely hypertonic.
@@ -193,14 +193,14 @@ All infants with a blood glucose concentration below 1.5 mmol/l have severe hypo
 	Note
 	:	Take 5 ml of blood from these infants for glucose and insulin estimation before giving the hydrocortisone. This is very important in identifying the correct cause of the hypoglycaemia. Glucagon 0.3 mg/kg IM or IV can be used if hydrocortisone fails to correct the blood glucose concentration.
 
-5. In an emergency, if you are unable to give intravenous dextrose, give the infant 10 ml/kg breast milk or formula (or cow’s milk if neither is available) by mouth or via a nasogastric tube. You can add 5 ml (a teaspoon) of sugar, or 5 ml of 50% dextrose, per 10 ml feed to increase the energy concentration. Do not give pure 50% dextrose as it will cause vomiting.
+5. In an emergency, if you are unable to give intravenous dextrose, give the infant 10&nbsp;ml/kg breast milk or formula (or cow’s milk if neither is available) by mouth or via a nasogastric tube. You can add 5&nbsp;ml (a teaspoon) of sugar, or 5 ml of 50% dextrose, per 10 ml feed to increase the energy concentration. Do not give pure 50% dextrose as it will cause vomiting.
 6. Start regular milk feeds as soon as possible. Extra sugar can be added to the milk feeds if necessary.
 7. As the volume of milk feeds are increased the rate of the intravenous infusion can be reduced. Never suddenly withdraw intravenous dextrose as this may precipitate hypoglycaemia, as commonly happens if the drip infiltrates the tissues. Reduce the drip rate gradually when oral feeds are introduced.
 8. Keep the infant warm.
 9. Once the blood glucose concentration has returned to normal, monitor the blood glucose concentration hourly until full volume feeds have been established.
 
 Note
-:	Repeated or unresponsive hypoglycaemia may be due to a rare metabolic cause and urgent specialist medical advice must be sought. A sample of venous blood should be taken for further investigations.
+:	Repeated or unresponsive hypoglycaemia may be due to a rare metabolic cause and urgent specialist medical advice must be sought. A&nbsp;sample of venous blood should be taken for further investigations.
 
 > The treatment of severe hypoglycaemia is an intravenous infusion of 10% dextrose.
 
@@ -208,7 +208,7 @@ Note
 
 The blood glucose concentration should be closely monitored in infants at risk of hypoglycaemia and in infants who have had hypoglycaemia:
 
-1. In most infants at high risk of hypogly­caemia, the blood glucose concentration should be measured hourly with for the first 3 hours, then 2 hourly for the next 3 hours. Thereafter the blood glucose should be monitored every 3 hours until 100 ml/kg/day milk feeds have been established which is usually in 24 to 48 hours.
+1. In most infants at high risk of hypogly­caemia, the blood glucose concentration should be measured hourly with for the first 3 hours, then 2 hourly for the next 3 hours. Thereafter the blood glucose should be monitored every 3&nbsp;hours until 100 ml/kg/day milk feeds have been established which is usually in 24 to 48&nbsp;hours.
 2. Infants with mild hypoglycaemia should be monitored every 30 minutes until the blood glucose concentration has returned to the normal range. Readings should then be made hourly for 3 hours to ensure that the blood glucose concentration does not fall again. Thereafter, measure the blood glucose concentration every 2 hours until 100 ml/kg milk feeds are established.
 3. Infants with severe hypoglycaemia should have their blood glucose concentration measured every 15 minutes until it has increased above 1.5 mmol/l. Then measure the blood glucose concentration as for infants with mild hypoglycaemia.
 
@@ -222,7 +222,7 @@ The risk of brain damage depends on the severity, duration and number of hypogly
 
 ### 8-17 What is hyperglycaemia?
 
-Hyperglycaemia (hyper = high; glycaemia = blood glucose) is defined as a blood glucose concentration above 7.0 mmol/l (120 mg/dl). Usually hyperglycaemia does not cause problems until the blood glucose concentration increases above 10 mmol/l.
+Hyperglycaemia (hyper = high; glycaemia = blood glucose) is defined as a blood glucose concentration above 7.0&nbsp;mmol/l (120 mg/dl). Usually hyperglycaemia does not cause problems until the blood glucose concentration increases above 10 mmol/l.
 
 ### 8-18 What is the cause of hyperglycaemia?
 
@@ -244,7 +244,7 @@ The raised blood glucose concentration usually can be lowered into the normal ra
 
 ## Case study 1
 
-A term infant is brought to a rural clinic after having been born at home. The infant is cold and wasted but otherwise appears well. A reagent strip reading is between 1.5 and 2.0 mmol/l when the colour is matched against the container.
+A term infant is brought to a rural clinic after having been born at home. The infant is cold and wasted but otherwise appears well. A reagent strip reading is between 1.5 and 2.0&nbsp;mmol/l when the colour is matched against the container.
 
 ### 1. What is your interpretation of the blood glucose concentration?
 
@@ -371,7 +371,7 @@ Capillary blood is usually obtained from the infant’s heel:
 
 ### 8-d Do not prick your finger by mistake
 
-Be very careful not to prick your finger by mistake when obtaining a sample of capillary blood from an infant. Immediately after piercing the infant’s skin, the lancet must be placed in a special container for ‘sharps’. It is very important to dispose of the lancet before transferring the drop of blood onto the reagent strip. Most people prick themselves while removing the used equipment after the procedure. Therefore, never leave a lancet or needle lying exposed. Viruses such as hepatitis B and HIV can be transmitted as a result of a finger prick with a lancet or needle if the patient is infected.
+Be very careful not to prick your finger by mistake when obtaining a sample of capillary blood from an infant. Immediately after piercing the infant’s skin, the lancet must be placed in a special container for ‘sharps’. It is very important to dispose of the lancet before transferring the drop of blood onto the reagent strip. Most people prick themselves while removing the used equipment after the procedure. Therefore, never leave a lancet or needle lying exposed. Viruses such as hepatitis&nbsp;B and HIV can be transmitted as a result of a finger prick with a lancet or needle if the patient is infected.
 
 > Place the lancet in a special container for ‘sharps’ immediately after piercing the skin.
 

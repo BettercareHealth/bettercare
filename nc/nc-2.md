@@ -40,7 +40,7 @@ The average gestational age is 40 weeks (280 days). Not all women with normal pr
 
 Infants that are born before 37 weeks are called preterm infants. About 5% of all infants are born preterm in an affluent community and often more than 20% in a poor community. Preterm infants have a high risk of neonatal problems. Therefore, any pregnancy ending before 37 weeks is regarded as too short.
 
-Infants with a gestational age of 42 weeks or more are called postterm infants. About 5% of infants are born postterm. As these infants also have an increased risk of neonatal problems, a pregnancy of 42 weeks or more is regarded as too long.
+Infants with a gestational age of 42 weeks or more are called postterm infants. About 5% of infants are born postterm. As these infants also have an increased risk of neonatal problems, a pregnancy of 42&nbsp;weeks or more is regarded as too long.
 
 > Infants born before 37 weeks gestation are called preterm infants.
 
@@ -111,7 +111,7 @@ Infants can be divided into groups by their birth weight. This is particularly u
 
 Infants weighing less than 2500 g are called low birth weight (LBW) infants.
 
-> Low birth weight infants weigh less than 2500 g, often have clinical problems in the newborn period and may need extra care.
+> Low birth weight infants weigh less than 2500&nbsp;g, often have clinical problems in the newborn period and may need extra care.
 
 ## Grouping infants by their weight for gestational age
 
@@ -380,7 +380,7 @@ An obese diabetic patient delivers an infant at 36.5 weeks. The infant appears v
 
 ### 1. How would you classify this infant?
 
-Preterm and overweight for gestational age as the infant was born before 37 weeks and must be above the 90th centile with a weight of 3700 g. This should be confirmed by plotting the infant’s weight for gestational age on a chart.
+Preterm and overweight for gestational age as the infant was born before 37 weeks and must be above the 90th centile with a weight of 3700&nbsp;g. This should be confirmed by plotting the infant’s weight for gestational age on a chart.
 
 ### 2. What is the probable cause of the infant being overweight for gestational age?
 
@@ -445,7 +445,7 @@ Other scoring methods such as the Finnstrom method and the Dubowitz method can a
 
 ### 2-c Use of the Ballard method
 
-The Ballard scoring method uses both neurological features and external features. The descriptions given below describe how to assess the features illustrated in Figure 2-A. Each feature is given a score and these individual scores are added up to give a final total score. This final total score can then be converted to an estimated gestational age by consulting the table in Figure 2-A. Where possible, examine both the left and right sides of the body when doing the Ballard score and give the average score observed on either side. Half scores can be used. Note that some features have negative scores for very preterm infants.
+The Ballard scoring method uses both neurological features and external features. The descriptions given below describe how to assess the features illustrated in Figure&nbsp;2-A. Each feature is given a score and these individual scores are added up to give a final total score. This final total score can then be converted to an estimated gestational age by consulting the table in Figure 2-A. Where possible, examine both the left and right sides of the body when doing the Ballard score and give the average score observed on either side. Half scores can be used. Note that some features have negative scores for very preterm infants.
 
 ### 2-d Neurological features
 
@@ -543,7 +543,7 @@ Breast: Both the appearance of the breast and the size of the breast bud are con
 * Score 1 if the areola is small and flat, and no breast bud can be felt.
 * Score 2 if the breast bud can just be felt and the areola is stippled (has fine bumps).
 * Score 3 if the areola is raised above the surrounding skin and the breast bud is easily felt (3–4 mm).
-* Score 4 if the areola appears distended and the breast bud is the size of a pea (5–10 mm).
+* Score 4 if the areola appears distended and the breast bud is the size of a pea (5–10&nbsp;mm).
 
 Ears and eyes: Both the shape and thickness of the external ear are considered. With increasing maturity the edge of the ear curls in. In addition, the cartilage in the ear thickens with maturity so that the ear springs back into the normal position after it is folded against the infant’s head. The eyelids separate with increasing maturity.
 
@@ -581,7 +581,7 @@ Each separate criteria is given a score after examining that sign on the infant.
 
 ### 2-f Weighing an infant
 
-The naked infant is weighed, to the nearest 10 g, on a scale. Usually a digital scale is used. If a spring scale is used, it should be standardised with a known weight every month. If possible, the infant should always be weighed on the same scale. The birth weight must be recorded on the infant record card.
+The naked infant is weighed, to the nearest 10&nbsp;g, on a scale. Usually a digital scale is used. If a spring scale is used, it should be standardised with a known weight every month. If possible, the infant should always be weighed on the same scale. The birth weight must be recorded on the infant record card.
 
 See Figure 2-B for a weight for gestational age chart.
 
@@ -598,15 +598,15 @@ The crown-heel length is usually not measured routinely as this is very inaccura
 
 ### 2-h Plotting weight for gestational age
 
-On the chart in Figure 2-B an infant’s birth weight of 3000 g and gestational age of 39 weeks have been recorded. Note that lines have been drawn from the given weight and gestational age. The weight for gestational age is recorded at the point where these 2 lines meet.
+On the chart in Figure 2-B an infant’s birth weight of 3000 g and gestational age of 39&nbsp;weeks have been recorded. Note that lines have been drawn from the given weight and gestational age. The weight for gestational age is recorded at the point where these 2 lines meet.
 
 Practise plotting weight for gestational age on the above chart by recording the following infants’ weight and gestational age. Decide whether each infant is overweight, appropriate weight, or underweight for gestational age. Remember that the centile lines mark the outer limit of the normal (or appropriate) weight for gestational age.
 
-1. Weight 1500 g and gestational age 30 weeks.
-2. Weight 1500 g and gestational age 34.5 weeks.
-3. Weight 3950 g and gestational age 39 weeks.
-4. Weight 4000 g and gestational age 42.2 weeks.
-5. Weight 3000 g and gestational age 43 weeks.
+1. Weight 1500 g and gestational age 30&nbsp;weeks.
+2. Weight 1500 g and gestational age 34.5&nbsp;weeks.
+3. Weight 3950 g and gestational age 39&nbsp;weeks.
+4. Weight 4000 g and gestational age 42.2&nbsp;weeks.
+5. Weight 3000 g and gestational age 43&nbsp;weeks.
 
 ### 2-i Plotting head circumference for gestational age
 

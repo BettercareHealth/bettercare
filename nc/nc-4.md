@@ -35,7 +35,7 @@ Like the adult, the infant needs the following nutrients to grow and develop nor
 6. Minerals (such as sodium, potassium, chloride, calcium, magnesium, phosphate)
 7. Trace elements (such as iron)
 
-The carbohydrates, proteins and fats provide the infant with 440 kilojoules per kg per day (105 kilocalories/kg/day) needed to grow normally.
+The carbohydrates, proteins and fats provide the infant with 440 kilojoules per&nbsp;kg per&nbsp;day (105 kilocalories/kg/day) needed to grow normally.
 
 ### 4-2 What milk can be given to a normal infant?
 
@@ -270,7 +270,7 @@ A normal, full breast feels tense and heavy, but is not painful and is relieved 
 	* Sometimes only a segment of one breast is painful due to a blocked milk duct. Changing the infant’s position during the feed and gently massaging the breast towards the nipple usually clears the obstruction.
 2. **Mastitis (milk fever):**
 	* Mastitis is an inflammation of the breast due to blocked milk ducts and seepage of milk into the surrounding tissues. It causes a swollen, painful, red area of one breast. The mother feels ill and may have a temperature.
-	* Treat with rest, warm compresses and a mild analgesic. It is most important that the infant continues to suckle frequently on the affected breast as this will help the milk to flow. Altering the feeding position often helps to drain the affected area. The breast milk is not dangerous for the infant. If the signs and symptoms do not improve within 24 hours an antibiotic (flucloxacillin) is prescribed for 10 days. If a fluctuant mass develops then a breast abscess has formed. This should be surgically drained. Because of the pain of a breast abscess, feeding may have to be stopped on that breast for a few days. Usually feeding can start again once the oozing from the abscess has stopped. Breastfeeding from the other breast must continue.
+	* Treat with rest, warm compresses and a mild analgesic. It is most important that the infant continues to suckle frequently on the affected breast as this will help the milk to flow. Altering the feeding position often helps to drain the affected area. The breast milk is not dangerous for the infant. If the signs and symptoms do not improve within 24&nbsp;hours an antibiotic (flucloxacillin) is prescribed for 10&nbsp;days. If a fluctuant mass develops then a breast abscess has formed. This should be surgically drained. Because of the pain of a breast abscess, feeding may have to be stopped on that breast for a few days. Usually feeding can start again once the oozing from the abscess has stopped. Breastfeeding from the other breast must continue.
 
 ### 4-26 How do you prevent painful nipples?
 
@@ -307,7 +307,7 @@ Note
 
 1. If the mother has decided that she definitely does not want to breastfeed, then the infant should be fed formula. If possible the formula feed should be given by cup rather than by bottle.
 2. If a mother is unable to breastfeed because she is separated from her infant, she should express her milk, manually or with a breast pump, for the infant. Only if this is not practical should the infant be formula fed.
-3. If the mother has an inadequate milk supply despite advice and support, and if the infant is not gaining weight by 7 days, then complementary feeds should be started to ensure normal growth. However, the mother should be encouraged to continue to express her breast milk to increase her milk production.
+3. If the mother has an inadequate milk supply despite advice and support, and if the infant is not gaining weight by 7&nbsp;days, then complementary feeds should be started to ensure normal growth. However, the mother should be encouraged to continue to express her breast milk to increase her milk production.
 4. If the mother is very ill.
 5. If an HIV-infected mother decides to exclusively formula feed.
 
@@ -316,7 +316,7 @@ Note
 
 ### 4-32 What formula should be used for a term infant?
 
-A number of starter formula feeds are available for term infants (e.g. NAN 1, S26 1, SMA 1). They are very similar and, therefore, the milk available at the local clinic or the cheapest milk should be bought. Unaltered cows milk, evaporated milk and skimmed milk are not suitable for infants under 6 months of age. Milk creamers must never be used to feed infants. Follow-up formulas are used from 6 months (e.g. NAN 2, S26 2, Lactogen 2).
+A number of starter formula feeds are available for term infants (e.g. NAN 1, S26 1, SMA 1). They are very similar and, therefore, the milk available at the local clinic or the cheapest milk should be bought. Unaltered cows milk, evaporated milk and skimmed milk are not suitable for infants under 6 months of age. Milk creamers must never be used to feed infants. Follow-up formulas are used from 6&nbsp;months (e.g. NAN 2, S26 2, Lactogen 2).
 
 Formula-fed infants should be fed on demand. If fed according to a schedule, most infants will need to be fed 5 times a day, at 06:00, 10:00, 14:00, 18:00 and 22:00. Most term infants will take about 100 ml per feed after the first week.
 
@@ -349,7 +349,7 @@ Note
 
 ### 4-36 When should solids be introduced?
 
-Normally breast milk or formula feeds will meet all the infant’s nutritional needs until 6 months of age. Thereafter milk alone is not enough and solids are usually introduced. If possible, an infant should be exclusively breastfed for 6 months. Even if the mother can only breastfeed for a few weeks or months, this will be of benefit to both her and her infant. Introducing solids reduces the anti-infectious properties of breast milk.
+Normally breast milk or formula feeds will meet all the infant’s nutritional needs until 6&nbsp;months of age. Thereafter milk alone is not enough and solids are usually introduced. If possible, an infant should be exclusively breastfed for 6 months. Even if the mother can only breastfeed for a few weeks or months, this will be of benefit to both her and her infant. Introducing solids reduces the anti-infectious properties of breast milk.
 
 Some mothers continue to partially breastfeed up to 2 years. It is best to continue breastfeeding after solids have been introduced. This practice is particularly important in poor communities as breast milk provides the infant with a good source of protein. Weaning should be done over a few weeks by dropping one feed per week. In practice solids are often introduced early, especially with formula feeding.
 
@@ -453,7 +453,7 @@ Yes. Normal infants can lose up to 10% of their birth weight, which would be 320
 
 ### 2. When should an infant start gaining weight after birth?
 
-Most infants start gaining weight between 3 days and 5 days after birth when breast­feeding is established and the mother’s milk supply increases.
+Most infants start gaining weight between 3&nbsp;days and 5 days after birth when breast­feeding is established and the mother’s milk supply increases.
 
 ### 3. Should the mother give complementary feeds of formula?
 
@@ -491,7 +491,7 @@ Demand feeding whenever the infant is hungry helps prevent engorged breasts whic
 
 By showing the mother how to latch correctly. Breast milk helps the nipple to heal.
 
-### 5. Should the mother continue breast­feeding as she is taking an antibiotic? Give reasons for your answer.
+### 5. Should the mother continue breast­feeding as she is taking an antibiotic? Give&nbsp;reasons for your answer.
 
 Yes, she should continue breastfeeding. Like most other antibiotics, flucloxacillin will cross into the breast milk in small quantities only. This should not be dangerous to the infant.
 
@@ -509,7 +509,7 @@ She can buy any term formula. There is no need to buy the more expensive formula
 
 ### 2. How is formula made up?
 
-Most formulas are made up by adding one level scoop of milk powder to every 25 ml of water. The water should first be boiled and allowed to cool. The formula must be mixed well. Making the formula too strong or too weak is dangerous.
+Most formulas are made up by adding one level scoop of milk powder to every 25&nbsp;ml of water. The water should first be boiled and allowed to cool. The formula must be mixed well. Making the formula too strong or too weak is dangerous.
 
 ### 3. What is the best way to formula feed an infant?
 

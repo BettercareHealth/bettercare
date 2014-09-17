@@ -20,7 +20,7 @@ Objectives
 * Diagnose and treat fits.
 * Diagnose and treat acidosis.
 
-## Classification of infants on the basis of risk
+## Classification of infants on the basis of&nbsp;risk
 
 ### 5-1 How can infants be classified on the basis of risk?
 
@@ -88,8 +88,8 @@ Therefore, if a well or high-risk infant develops one or more abnormal clinical 
 The most important clinical signs that indicate that an infant is sick are:
 
 1. **Heart rate**. The infant may have a:
-	* Tachycardia (a heart rate more than 160 beats per minute)
-	* Bradycardia (a heart rate less than 120 beats per minute)
+	* Tachycardia (a heart rate more than 160&nbsp;beats per minute)
+	* Bradycardia (a heart rate less than 120&nbsp;beats per minute)
 2. **Respiration rate and pattern**. Abnormal signs are:
 	* Slow, shallow, irregular respiration
 	* Rapid respiration (tachypnoea) more than 60 breaths per minute
@@ -319,7 +319,7 @@ Note
 	* Diazepam (Valium) 0.5 mg/kg by slow intravenous injection or rectally. Intravenous Valium may cause apnoea. Rectal Valium is given by a syringe and nasogastric tube. Valium is usually only used if phenobarbitone fails to stop the fit.
 
 	Note
-	:	If available, paraldehyde 0.3 ml/kg by intramuscular injection can also be used. Do not keep paraldehyde in a plastic syringe for more than 2 minutes as it may react with the plastic.
+	:	If available, paraldehyde 0.3&nbsp;ml/kg by intramuscular injection can also be used. Do not keep paraldehyde in a plastic syringe for more than 2 minutes as it may react with the plastic.
 
 3. Look for and treat the cause of the fit.
 	* Important steps in diagnosing the cause of the fit are:
@@ -369,10 +369,10 @@ The pH, the base deficit and carbon dioxide concentration are determined with a 
 
 Always try to find and correct the cause, e.g. giving oxygen for hypoxia, treating septicaemia with antibiotics, and correcting shock with intravenous fluids.
 
-If the pH is below 7.20 then 4% sodium bicarb­onate must be given intravenously. Usually 2 ml/kg is given slowly over 10 minutes. The correct amount of 4% sodium bicarbonate that should be given can be calculated from the base deficit:
+If the pH is below 7.20 then 4% sodium bicarb­onate must be given intravenously. Usually 2 ml/kg is given slowly over 10&nbsp;minutes. The correct amount of 4% sodium bicarbonate that should be given can be calculated from the base deficit:
 
 * The volume of 4% sodium bicarbonate (in ml) = base deficit × the infant’s weight in kg × 0.6.
-* For example: If the base deficit was 10 and the infant weighs 1.5 kg then the volume of 4% sodium bicarbonate needed would be 9 ml (10 × 1.5 × 0.6).
+* For example: If the base deficit was 10 and the infant weighs 1.5 kg then the volume of 4% sodium bicarbonate needed would be 9&nbsp;ml (10 × 1.5 × 0.6).
 
 Never use 8% sodium bicarbonate in newborn infants as the concentration is dangerously high. If 4% sodium bicarbonate is not available, then 8% sodium bicarbonate must be diluted with an equal volume of sterile water to make up a 4% solution.
 
@@ -407,7 +407,7 @@ The vital signs of a high-risk infant are normal. If any of the vital signs beco
 
 ## Case study 2
 
-A two day old term infant becomes lethargic and develops abdominal distension. A clinical diagnosis of septicaemia is made. The heart rate is 180 beats per minute, the respiration and temperature are normal and the infant is peripherally cyanosed. The capillary filling time of the skin over the anterior chest is 5 seconds.
+A two day old term infant becomes lethargic and develops abdominal distension. A clinical diagnosis of septicaemia is made. The heart rate is 180 beats per minute, the respiration and temperature are normal and the infant is peripherally cyanosed. The capillary filling time of the skin over the anterior chest is 5&nbsp;seconds.
 
 ### 1. Is this a high-risk infant or a sick infant?
 
@@ -438,7 +438,7 @@ By giving 10 to 20 ml of normal saline (or fresh frozen plasma, stabilised human
 
 ## Case study 3
 
-A term infant is delivered by caesarean section after a diagnosis of fetal distress is made. The Apgar scores are 2 at 1 minute and 5 at 5 minutes. After resuscitation the infant appears lethargic and at 2 hours has a generalised fit. The blood glucose concentration is normal.
+A term infant is delivered by caesarean section after a diagnosis of fetal distress is made. The Apgar scores are 2 at 1 minute and 5 at 5&nbsp;minutes. After resuscitation the infant appears lethargic and at 2 hours has a generalised fit. The blood glucose concentration is normal.
 
 ### 1. What is the probable cause of the fit?
 
@@ -552,7 +552,7 @@ You now have a good idea of the clinical problems that require management.
 
 Read the following case history and draw up your own problem list:
 
-*"After a normal vaginal delivery at 40 weeks, an infant has Apgar scores of 3 and 8 and requires mask ventilation. The birth weight is 2300 g. The infant is not put to the breast after delivery and at 45 minutes after birth the blood glucose concentration, measured with a reagent strip, is 1.5 mmol/l. While starting an intravenous infusion, the infant’s skin temperature falls to 34.5 °C."*
+*"After a normal vaginal delivery at 40 weeks, an infant has Apgar scores of 3 and 8 and requires mask ventilation. The birth weight is 2300&nbsp;g. The infant is not put to the breast after delivery and at 45&nbsp;minutes after birth the blood glucose concentration, measured with a reagent strip, is 1.5 mmol/l. While starting an intravenous infusion, the infant’s skin temperature falls to 34.5 °C."*
 
 You should be able to identify at least 4 problems. Each will have to be managed.
 
@@ -566,19 +566,19 @@ Finally the management of the infant must be planned. The management consists of
 
 	S:
 
-	18 year old primip. Booked. Spontaneous preterm labour. 35 weeks by dates and palpation. No signs of fetal distress. 
+	18 year old primip. Booked. Spontaneous preterm labour. 35&nbsp;weeks by dates and palpation. No signs of fetal distress. 
 
 	NVD 06:15. Apgar scores 4 and 9. Intubation and ventilation needed for 3 minutes. Thereafter infant moved to nursery.
 
 	O:
 
-	Male infant. Weight 2000 g.
+	Male infant. Weight 2000&nbsp;g.
 
-	Assessed gestational age 36 weeks.
+	Assessed gestational age 36&nbsp;weeks.
 
 	Active. No congenital abnormalities.
 
-	Skin temperature 36 °C.
+	Skin temperature 36&nbsp;°C.
 
 	RS – Respiratory distress with recession and a respiratory rate of 65 breaths per minute. Infant needs 50% head box oxygen to remain pink.
 
@@ -623,19 +623,19 @@ These brief notes give all the important information in a simple and systematic 
 
 	No antenatal care. Antepartum haemorrhage.
 
-	Normal delivery. 2000 g. Female, term infant.
+	Normal delivery. 2000&nbsp;g. Female, term infant.
 
 	Good Apgar scores. Vitamin K given.
 
-	Temp. 36 °C. Infant looks pale. Blood glucose normal.
+	Temp. 36&nbsp;°C. Infant looks pale. Blood glucose normal.
 
 	No respiratory distress. Heart rate 200/min.
 
 	Abdomen normal. Sucks poorly.
 
-	Keep nil per mouth. Neonatalyte infusion started at 5 dpm.
+	Keep nil per mouth. Neonatalyte infusion started at 5&nbsp;dpm.
 
-	Hb. 10 g/dl. Blood taken for cross match.
+	Hb. 10&nbsp;g/dl. Blood taken for cross match.
 
 	Nurse in incubator.
 
@@ -675,7 +675,7 @@ Again the SOAP system can be used, but now it is applied to each problem in the 
 
 	1. Keep in incubator.
 	2. Start 2 x 12 feeds of expressed breast milk.
-	3. Continue Neonatalyte at 4 dpm.
+	3. Continue Neonatalyte at 4&nbsp;dpm.
 
 	2. Respiratory distress.
 
@@ -798,7 +798,7 @@ It is essential that clear instructions are given each day for both milk and int
 
 Fluid may be lost in the urine, stool, vomitus or may be aspiration from a nasogastric or orogastric tube. Less commonly, fluid may be lost via a drain from the chest or other site. Some forms of fluid loss, such as in the stools and from the lungs and skin, cannot be measured easily and therefore are not routinely recorded. If necessary, they can be measured or calculated. Even very small volumes of fluid loss may be important in a small infant.
 
-Urine has to be collected in a urine bag, aspirated via a catheter and measured with a plastic syringe if an accurate record of urine output is to be kept. This is often difficult, especially in a female infant, as the urine tends to leak out of the bag. In addition, removing a urine bag may damage the infant’s skin. Disposable nappies can be weighed dry and wet with urine to calculate output. This is usually done in a level 3 nursery. Therefore, an accurate record of the volume of urine passed is only kept when there is a clinical indication, e.g. possible dehydration or renal failure. Most infants pass about 2 ml/kg/hour. Oliguria in a newborn infant is defined as a urine output of less than 1 ml/kg/hour.
+Urine has to be collected in a urine bag, aspirated via a catheter and measured with a plastic syringe if an accurate record of urine output is to be kept. This is often difficult, especially in a female infant, as the urine tends to leak out of the bag. In addition, removing a urine bag may damage the infant’s skin. Disposable nappies can be weighed dry and wet with urine to calculate output. This is usually done in a level 3 nursery. Therefore, an accurate record of the volume of urine passed is only kept when there is a clinical indication, e.g. possible dehydration or renal failure. Most infants pass about 2&nbsp;ml/kg/hour. Oliguria in a newborn infant is defined as a urine output of less than 1&nbsp;ml/kg/hour.
 
 In many small infants, only a record of the frequency of wet nappies is kept. Most infants have about 8–10 wet nappies a day.
 
