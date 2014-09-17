@@ -1,0 +1,155 @@
+---
+title: 6A. Skills workshop: Feeding sick or high-risk infants
+layout: chapter
+---
+
+6A
+{:.chapter-number}
+
+# Skills workshop: Feeding sick or high-risk infants
+
+## Objectives
+
+When you have completed this skills workshop you should be able to:
+
+* Pass a nasogastric tube.
+* Give a nasogastric feed.
+* Prepare a formula feed.
+* Start a peripheral intravenous infusion.
+* Use a fluid controller.
+
+## Passing a nasogastric tube
+
+A nasogastric tube, which passes through a nostril to reach the stomach, is used in infants who are too preterm or too ill to suck and yet need milk feeds. In very small infants and infants with respiratory distress, an orogastric tube, which is passed through the mouth instead of the nose, may be used instead of a nasogastric tube.
+
+### 6-a Choosing the correct size tube
+
+A sterile plastic feeding ‘tube’ (catheter) must be used. It will be packed in a wrapper which is labelled with the size of the tube. A size F&nbsp;5 tube is used for infants weighing less than 1500&nbsp;g and a size F&nbsp;6 tube is used for infants weighing between 1500&nbsp;g and 2500&nbsp;g. For infants above 2500 g a size F&nbsp;8 tube is usually used.
+
+### 6-b Measuring the correct length of the tube
+
+Before removing the tube from the package, it is important to wash your hands. The length of the tube from the nostril to the stomach can be determined by measuring the distance from the suprasternal notch to the xiphisternum (the length of the infant’s sternum), doubling this distance and then adding 2.5 cm. The correct length can be marked on the tube with a felt-tipped or ball point pen or a narrow strip of coloured plastic tape.
+
+### 6-c Inserting a nasogastric tube
+
+1. Flex the infant’s neck slightly and gently pass the required length of tube through one nostril. If the tube does not slide easily into the nostril, try inserting the tube into the other nostril. Never force the tube into the nostril.
+2. The tube is then fixed in place with a strip of zinc oxide plaster. Strap the tube to the infant’s upper lip and not the nose. Make sure that the other nostril is patent.
+3. Aspirate a few drops of gastric fluid with a small syringe. Place a drop of the gastric aspirate onto a strip of blue litmus paper. If the litmus paper turns pink then the fluid is acidic and confirms that the end of the tube is in the stomach. If the litmus paper remains blue then either the tube has not been pushed far enough down the oesophagus or is not in the oesophagus at all but is in the trachea or curled up in the pharynx. If the end of the tube is in the oesophagus instead of the stomach, the infant may vomit or develop apnoea when a feed is given, due to the reflux of milk. If acid fluid is not obtained after pushing the tube in a little further, remove the tube completely and try inserting it again. It is very important that the tube is in the correct place. A nasogastric tube can be left in place for up to 7 days. If the tube blocks or slips out, it should be replaced with a new tube.
+
+If an orogastric tube is needed, the length of the tube is measured as for a nasogastric tube. However, the tube is pushed into the mouth rather than through a nostril. The tube is fixed with strapping to the side of the mouth.
+
+## Nasogastric feeding
+
+### 6-d Giving a tube feed
+
+Breast milk or formula feeds can be injected into the tube with a sterile syringe or the feed can be allowed to drain into the tube from a funnel. A sterile syringe barrel without a plunger can be used as a funnel. Usually the barrel of a 10 or 20 ml syringe is used. The feed should be given over 10 to 15 minutes. If the milk does not flow out of the funnel, place a sterile rubber teat into the open end of the funnel and push your thumb into the teat. This will increase the pressure in the funnel and start the milk flowing through the tube. A staff member should always be present while a tube feed is being given. If the mother is taught what to do, she can also help with feeds. The funnel can be held by hand or allowed to hang through the hole in the top (hood) of a closed incubator.
+
+## Preparation of formula feeds
+
+If formula feeds are to be given by mouth, it is very important that the bottles and teats or cup, as well as the formula, are prepared properly. It is far better to use a cup than bottle for formula feeds.
+
+### 6-e Cleaning bottles and teats
+
+The bottles and teats must be cleaned very carefully as unsterile bottles are a common source of infections.
+
+1. Before use the bottle should be well washed out with water and detergent or soap. A&nbsp;bottle brush can be used to remove milk sediment from the bottom of the bottle.
+2. If possible, the bottles should be sterilised by autoclaving or boiling them for 15&nbsp;minutes.
+3. Bottles can also be cleaned by soaking them in a solution of sodium hypochlorite (Milton or Jik) for at least 15 minutes. If Jik is used it must first be diluted with water by adding 1 tablespoon of Jik to 2 litres of clean water. A fresh solution of Milton or Jik should be made up every day. It is not necessary to rinse the bottles with water before using them.
+4. The teats should be washed after use and then scrubbed inside and outside with a brush or rubbed with salt to remove any dried milk. If possible, teats should also be boiled, sterilised or soaked in Milton or Jik.
+5. Clean bottles and teats should be stored dry.
+
+It is easier, safer and more hygienic to use a cup rather than a bottle and teat. A cup can also be soaked in Milton or Jik, or simply washed well with soap and water and then allowed to dry. The advantage of a cup is that the bottom can easily be reached with a finger while cleaning. It also does not have grooves that are difficult to keep clean while a teat is not needed. Whenever possible, cup feeds should be used rather than bottle feeds. Special cups are available to measure the water, mix, store and give the feed.
+
+> It is better to use a cup than a bottle for formula feeds.
+
+### 6-f Making up formula
+
+1. The bottles and teats must be clean.
+2. It is very important that the water to be used is sterile. This is best achieved by boiling the water. Wait until the water is cool before adding the milk powder. Chlorinated tap water can be used for older infants. Dirty water is a common cause of gastroenteritis.
+3. When making up most formulas, a level scoop (25 ml) of powder must be added to 100 ml of water. Do not heap or pack the scoop with powder. Fill the scoop and scrape off the excess powder with a clean knife. If too little powder is added the infant will not gain weight adequately. Alternatively, too much powder is dangerous as the infant will receive too much sodium which may cause hypernatraemia. Always read the instructions on the tin.
+
+## Starting a peripheral intravenous infusion
+
+A peripheral intravenous infusion is usually referred to as a ‘drip’ or an ‘I.V. line’. The infusion is given into a peripheral vein using a small needle or a peripheral cannula (IV catheter).
+
+### 6-g Equipment needed to start an intravenous infusion
+
+1. Alcohol swabs, or sterile swabs and surgical spirits.
+2. A 23 gauge ‘scalp vein set’. Alternatively, a 24 gauge cannula (intravenous catheter), may be used.
+3. A solution administration set (a ‘giving set’) which supplies 60 drops/ml. Occasionally a controlled volume administration set, with a chamber to measure the volume of fluid, is used.
+4. The neonatal maintenance fluids to be infused (usually Neonatalyte or Neolyte).
+5. Zinc oxide plaster 5 mm wide (‘pink strapping’). The plaster should be cut into lengths of about 10 cm.
+
+> Only use an administration set that supplies 60&nbsp;drops/ml.
+
+Note
+:	A central cannula is used when a ‘long line’ is needed in a very small infant or when an intravenous infusion is needed for many days, e.g. to give parenteral nutrition. A central cannula has dangers but avoids the risk of tissue damage due to local infiltration.
+
+### 6-h Common sites for giving an intravenous infusion
+
+1. A *scalp vein* is often used especially if the infusion is to be given via a scalp vein set. The advantage of this site is that the needle or cannula can be easily and firmly secured. The disadvantage is that an area of scalp has to be shaved. It may take months before the hair fully regrows.
+2. A vein over the back of the *hand* or the top of the *foot*. Either a scalp vein set or a cannula can be used, but the advantage of a cannula is that it does not have to be changed as frequently as a scalp vein set. A&nbsp;splint may be needed to keep the hand or foot still.
+
+Sites such as the forearm or the front of the elbow can also be used. The femoral vein, jugular vein and fontanelles must *not* be used.
+
+### 6-i Starting an intravenous infusion via a scalp vein set
+
+1. Collect all the equipment that is needed and take it to the infant’s incubator or cot side.
+2. Attach the infusion set to the bag of infusion fluid (usually Neonatalyte) and then attach the scalp vein set to the end of the infusion set.
+3. Allow the fluid to fill the infusion set and the scalp vein set. Make sure that all air bubbles are cleared.
+4. Wash your hands well with soap and water or a disinfectant.
+5. Find a suitable vein and clean the skin with alcohol.
+6. Compress the limb above the vein if a hand or foot vein is to be used. If a scalp vein is used, press over the vein below the site chosen for the infusion. Always press between the chosen vein and the infant’s heart. This will obstruct the flow of blood making the vein easier to see.
+7. The needle can now be slowly pushed into the vein. As soon as the needle is in the correct position a little blood will be seen to flush back into the tubing at the base of the needle. Do not push the needle any further into the vein.
+8. Make sure that the fluid runs in well without any swelling under the skin at the end of the needle.
+9. The needle must now be secured in place with strips of zinc oxide strapping or plaster of Paris.
+
+The technique of inserting a scalp vein needle or cannula is best learned by personal tuition by someone experienced in the skill.
+
+### 6-j Starting an intravenous infusion via a cannula
+
+1. Collect the equipment needed and prepare the infusion set as described above. Wash your hands and then clean the skin with alcohol. Select a suitable vein and distend it.
+2. Remove the cannula set from the sterile package.
+3. Remove the cannula set from the protective cover.
+4. Insert the cannula with the needle still in place into the chosen vein.
+5. When the cannula set is correctly in place the transparent hub will fill with blood.
+6. While keeping the needle still, push the cannula forward to advance it beyond the tip of the needle. Continue pushing the cannula up the vein until the coloured hub of the cannula reaches the skin around the puncture site.
+7. Withdraw the needle and attach the fluid-filled giving set to the coloured hub of the cannula.
+8. Allow the fluid in the giving set to run into the cannula for a few seconds to make sure that the cannula is correctly in the vein. Make sure that swelling does not develop at the site of the cannula tip. If the fluid does not run freely, or swelling develops at the end of the cannula, then the cannula is not correctly in the vein and must be removed.
+9. Fix the cannula in place using the same method as that for fixing a scalp vein needle.
+
+It is very important not to prick yourself with the needle after it is used, because of the risk of infection with HIV. A sharps container must always be used for needles. Place the used needle in the sharps container as soon as possible. Most needle stick accidents happen when the equipment is being cleared up after the infusion has been safely started.
+
+### 6-k Complications of a peripheral infusion
+
+1. Obstruction of the needle or cannula, or thrombosis of the vein, causing the infusion to ‘block’.
+2. Leakage of the infusion fluid into the tissues (‘the drip goes into the tissues’). This results in swelling (oedema) around the infusion site which usually resolves in a few hours once the infusion is stopped. If an infusion pump, rather than a controller, is used then the leakage into the tissues can be marked. Leakage of certain drugs or hypertonic fluids may cause local necrosis and subsequent ulceration and scarring.
+3. Infection. This presents as swelling, redness and tenderness around the infusion site (thrombophlebitis).
+4. The needle or cannula may be accidentally pulled out of the skin. The infusion fluid now leaks onto the skin and strapping. Bleeding is rarely a problem.
+5. With any infusion one of the greatest dangers is to give too much fluid too quickly. This may cause heart failure.
+
+## Using a fluid controller
+
+A fluid controller (infusion controller) is a machine which controls the rate at which intravenous fluid is infused into an infant. Gravity alone provides the pressure needed to infuse the fluid. A fluid controller differs from an infusion pump which actively pumps fluid in the infant. The most commonly used fluid controller is manufactured by Ivac. This machine will, therefore, be used to illustrate the use of a fluid controller.
+
+A number of different fluid controllers are available. Some controllers measure the fluid in drops per minute while others use ml per minute. For more details of the use of a specific make of controller read the instruction manual or consult the local sales representative.
+
+A fluid controller consists of a sensor and the controller itself.
+
+### 6-l The sensor
+
+The sensor shines a beam of light through the drip chamber of the infusion set and counts the drops of fluid given. The sensor must be clipped around the drip chamber so that the beam of light crosses about 2 mm above the surface of the fluid. If the sensor is placed too low it cannot detect the drops and as a result the controller will sound an alarm.
+
+### 6-m The controller
+
+The controller determines the rate at which fluid flows down the infusion set. The method of setting up the controller is as follows:
+
+1. Start the peripheral infusion as described. The clamp on the infusion tubing should be closed and the bag of fluid must be at least 1 metre above the infant.
+2. Make sure that the power plug on the wall is in position and switched on.
+3. Open the door of the controller and place the tubing of the infusion set into position between the guides. When the tubing is correctly placed, close the controller door.
+4. Set the dial of the controller to give the drip rate that is required, e.g. 1 drop per minute which will give 1 ml of fluid per hour or about 25 ml per day. Always use an administration set that supplies 60&nbsp;drops/ml.
+5. The controller can now be switched on by pressing the ‘on/off’ button.
+6. Release the clamp on the infusion tubing.
+7. Press the ‘start’ button to start the infusion. Every time a drop falls the ‘drop’ light flashes.
+
+The alarm will sound and the ‘alarm’ light will flash if the needle or cannula is blocked, if the fluid bag is empty or if the sensor is incorrectly placed. Correct the problem and press the ‘start’ button to switch off the alarm and to restart the infusion. If the power fails the controller has its own rechargeable battery that should provide power for a few hours.
