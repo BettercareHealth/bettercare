@@ -265,6 +265,14 @@ figure img {
 	max-width: 100%;
 }
 
+/*
+ * Hide screen-only and non-printing elements
+ */
+
+.non-printing {
+	display: none;
+}
+
 /* 
  * Generic output 
  */

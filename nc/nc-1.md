@@ -10,6 +10,8 @@ layout: chapter
 
 Before you begin, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
+[Take the quiz](http://q.na/9NMFF){:.button .non-printing}
+
 ## Objectives
 
 When you have completed this unit you should be able to:
