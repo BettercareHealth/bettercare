@@ -81,19 +81,19 @@ Finally the management of the infant must be planned. The management consists of
 
 	S:
 
-	18 year old primip. Booked. Spontaneous preterm labour. 35&nbsp;weeks by dates and palpation. No signs of fetal distress. 
+	18 year old primip. Booked. Spontaneous preterm labour. 35 weeks by dates and palpation. No signs of fetal distress. 
 
 	NVD 06:15. Apgar scores 4 and 9. Intubation and ventilation needed for 3 minutes. Thereafter infant moved to nursery.
 
 	O:
 
-	Male infant. Weight 2000&nbsp;g.
+	Male infant. Weight 2000 g.
 
-	Assessed gestational age 36&nbsp;weeks.
+	Assessed gestational age 36 weeks.
 
 	Active. No congenital abnormalities.
 
-	Skin temperature 36&nbsp;°C.
+	Skin temperature 36°C.
 
 	RS – Respiratory distress with recession and a respiratory rate of 65 breaths per minute. Infant needs 50% head box oxygen to remain pink.
 
@@ -138,19 +138,19 @@ These brief notes give all the important information in a simple and systematic 
 
 	No antenatal care. Antepartum haemorrhage.
 
-	Normal delivery. 2000&nbsp;g. Female, term infant.
+	Normal delivery. 2000 g. Female, term infant.
 
 	Good Apgar scores. Vitamin K given.
 
-	Temp. 36&nbsp;°C. Infant looks pale. Blood glucose normal.
+	Temp. 36 °C. Infant looks pale. Blood glucose normal.
 
 	No respiratory distress. Heart rate 200/min.
 
 	Abdomen normal. Sucks poorly.
 
-	Keep nil per mouth. Neonatalyte infusion started at 5&nbsp;dpm.
+	Keep nil per mouth. Neonatalyte infusion started at 5 dpm.
 
-	Hb. 10&nbsp;g/dl. Blood taken for cross match.
+	Hb. 10 g/dl. Blood taken for cross match.
 
 	Nurse in incubator.
 
@@ -190,7 +190,7 @@ Again the SOAP system can be used, but now it is applied to each problem in the 
 
 	1. Keep in incubator.
 	2. Start 2 x 12 feeds of expressed breast milk.
-	3. Continue Neonatalyte at 4&nbsp;dpm.
+	3. Continue Neonatalyte at 4 dpm.
 
 	2. Respiratory distress.
 

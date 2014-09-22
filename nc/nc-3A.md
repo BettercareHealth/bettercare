@@ -127,111 +127,483 @@ See Figure 3-A, a form used to record the results of the physical examination. I
 *Table 3-1: Guidelines for a detailed examination*
 {:.table-caption}
 
-|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-|      Measurements      |                                                     Normal                                                     |                                                                      Abnormal                                                                      |
-|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| Birthweight            | 2500 g to 4000 g. Between 10th and 90th centile for gestational age.                                           | Low birthweight (below 2500 g). Underweight (below 10th centile) or overweight (above 90th centile) for gestational age.                           |
-| Head circumference     | Between 10th and 90th centile for gestational age.                                                             | Small head (below 10th centile) or large head (above 90th centile for gestational age).                                                            |
-| Gestational age        | Physical and neurological features of term infants (37–42 weeks).                                              | Immature features in preterm infant (below 37 weeks). Postterm infants (42 weeks and above) have long nails.                                       |
-| Skin temperature       | Abdominal wall (36–36.5 °C) or axilla (36.5–37 °C).                                                            | Hypothermia (below 36 °C).                                                                                                                         |
-| **GENERAL INSPECTION**                                                                                                                                                                                                                                                                       |
-| Wellbeing              | Active, alert.                                                                                                 | Lethargic, appears ill.                                                                                                                            |
-| Appearance             | No abnormalities.                                                                                              | Gross abnormalities. Abnormal face.                                                                                                                |
-| Wasting                | Well nourished.                                                                                                | Soft tissue wasting.                                                                                                                               |
-| Colour                 | Pink tongue.                                                                                                   | Cyanosis, pallor, jaundice, plethora.                                                                                                              |
-| Skin                   | Smooth or mildly dry. Vernix and lanugo. Stork bite, mongolian spots, milia, erythema toxicum, salmon patches. | Dry, marked peeling. Meconium staining. Petechiae, bruising. Large or many pigmented naevi. Capillary or cavernous haemangioma. Infection. Oedema. |
-| **Regional examination**                                                                                                                                                                                                                                                                     |
-| **HEAD**                                                                                                                                                                                                                                                                                     |
-| Shape                  | Caput, moulding.                                                                                               | Cephalhaematoma, subaponeurotic bleed. Asymmetry, anencephaly, hydrocephaly, encephalocoele.                                                       |
-| Fontanelle             | Open, soft fontanelle with palpable sutures.                                                                   | Full or sunken anterior fontanelle. Large or closed fontanelles. Wide or fused sutures.                                                            |
-| **EYES**               |                                                                                                                |                                                                                                                                                    |
-| Position               |                                                                                                                | Wide or closely spaced.                                                                                                                            |
-| Size                   |                                                                                                                | Small or abnormal eyes.                                                                                                                            |
-| Lids                   | Mild oedema common after delivery.                                                                             | Marked oedema, ptosis, bruising.                                                                                                                   |
-| Conjunctivae           | May have small subconjunctival haemorrhages.                                                                   | Pale or plethoric. Conjunctivitis. Excessive tearing when nasolacrimal duct obstructed.                                                            |
-| Cornea, iris and lens  | Cornea clear, regular pupil, red reflex.                                                                       | Opaque cornea, irregular pupil, cataracts, no red reflex, squint, abnormal eye movements.                                                          |
-| **NOSE**                                                                                                                                                                                                                                                                                     |
-| Shape                  | Small and upturned.                                                                                            | Flattened in oligohydramnios.                                                                                                                      |
-| Nostrils               | Both patent. Easy passage of feeding catheter.                                                                 | Choanal atresia. Blocked with dry secretions.                                                                                                      |
-| Discharge              |                                                                                                                | Mucoid, purulent or bloody secretions.                                                                                                             |
-| **MOUTH**                                                                                                                                                                                                                                                                                    |
-| Lips                   | Sucking blisters.                                                                                              | Cleft lip. Long smooth upper lip in fetal alcohol syndrome.                                                                                        |
-| Palate                 | Epstein’s pearls.                                                                                              | High arched or cleft palate.                                                                                                                       |
-| Tongue                 | Pink.                                                                                                          | Cyanosed, pale, or large.                                                                                                                          |
-| Teeth                  | None at birth.                                                                                                 | Extra or primary teeth.                                                                                                                            |
-| Gums                   | Small cysts.                                                                                                   | Tumours.                                                                                                                                           |
-| Mucous membranes       | Pink, shiny.                                                                                                   | Thrush, ulcers.                                                                                                                                    |
-| Saliva                 |                                                                                                                | Excessive if poor swallowing or oesophageal atresia.                                                                                               |
-| Jaw                    | Smaller than in older child.                                                                                   | Very small.                                                                                                                                        |
-| **EARS**                                                                                                                                                                                                                                                                                     |
-| Site                   | Ears vertical.                                                                                                 | Low-set ears.                                                                                                                                      |
-| Appearance             | Familial variation.                                                                                            | Skin tag or sinus. Malformed ears. Hairy ears.                                                                                                     |
-| **NECK**                                                                                                                                                                                                                                                                                     |
-| Shape                  | Usually short.                                                                                                 | Webbing, torticollis.                                                                                                                              |
-| Masses                 | No palpable lymph nodes or thyroid.                                                                            | Cystic hygroma. Goitre. Sternomastoid tumour.                                                                                                      |
-| Clavicle               |                                                                                                                | Swelling or fracture.                                                                                                                              |
-| **BREASTS**                                                                                                                                                                                                                                                                                  |
-| Appearance             | Breast bud at term 5 to 10 mm. Enlarged, lactating breasts.                                                    | Extra or wide spaced nipples. Mastitis.                                                                                                            |
-| **HEART**                                                                                                                                                                                                                                                                                    |
-| Pulses                 | Brachial and femoral pulses easily palpable. 120–160 beats per minute.                                         | Pulses weak, collapsing, absent, fast or slow or irregular.                                                                                        |
-| Capillary filling time | Less than 4 seconds over chest and peripheries.                                                                | Prolonged filling time if infant cold or shocked.                                                                                                  |
-| Blood pressure         | Systolic 50 to 70 mm at term.                                                                                  | Hypertensive or hypotensive.                                                                                                                       |
-| Precordium             | Mild pulsation felt over heart and epigastrium.                                                                | Hyperactive precordium.                                                                                                                            |
-| Apex beat              | Heard maximally to left of sternum.                                                                            | Heard best in right chest in dextrocardia.                                                                                                         |
-| Murmurs                | Soft, short systolic murmur common on day 1.                                                                   | Systolic or diastolic murmurs.                                                                                                                     |
-| Heart failure          |                                                                                                                | Oedema, hepatomegaly, tachypnoea or excessive weight gain.                                                                                         |
-| **LUNGS**                                                                                                                                                                                                                                                                                    |
-| Respiration rate       | 40-60 breaths per minute. Irregular in REM sleep. Periodic breathing with no change in heart rate or colour.   | Tachypnoea above 60 breaths per minute. Gasping. Apnoea with drop in heart rate, pallor or cyanosis.                                               |
-| Chest shape            | Symmetrical.                                                                                                   | Hyperinflated or small chest.                                                                                                                      |
-| Chest movement         | Symmetrical.                                                                                                   | Asymmetrical in pneumothorax and diaphragmatic hernia.                                                                                             |
-| Recession              | Mild recession in preterm infant.                                                                              | Severe recession in respiratory distress.                                                                                                          |
-| Grunting               |                                                                                                                | Expiratory grunt in respiratory distress.                                                                                                          |
-| Stridor                |                                                                                                                | Inspiratory stridor a sign of upper airway obstruction.                                                                                            |
-| Percussion             | Resonant bilaterally.                                                                                          | Dull with effusion or haemothorax. Hyperresonant with pneumothorax.                                                                                |
-| Air entry              | Equal air entry over both lungs. Bronchovesicular.                                                             | Unequal or decreased.                                                                                                                              |
-| Adventitious sounds    | Transmitted sounds.                                                                                            | Crackles, wheeze or rhonchi.                                                                                                                       |
-| **ABDOMEN**                                                                                                                                                                                                                                                                                  |
-| Umbilicus              | 2 arteries and 1 vein.                                                                                         | 1 artery, 1 vein. Infection. Bleeding or discharge. Hernia. Exomphalos.                                                                            |
-| Skin                   |                                                                                                                | Periumbilical redness or oedema.                                                                                                                   |
-| Shape                  |                                                                                                                | Distended or hollow.                                                                                                                               |
-| Liver                  | Palpable 1 cm below coastal margin, soft.                                                                      | Enlarged, firm, tender.                                                                                                                            |
-| Spleen                 | Not easily felt.                                                                                               | Enlarged, firm.                                                                                                                                    |
-| Kidneys                | Often felt but normal size.                                                                                    | Enlarged, firm.                                                                                                                                    |
-| Masses                 | No other masses palpable. Full bladder can be percussed.                                                       | Palpable mass.                                                                                                                                     |
-| Bowel sounds           | Heard immediately on auscultation.                                                                             | Few or absent.                                                                                                                                     |
-| Anus                   | Patent.                                                                                                        | Absent or covered.                                                                                                                                 |
-| Stools                 | Meconium passed within 48 hours of birth. Yellow stools by day 5. Breastfed stool may be green and mucoid.     | Blood in stool. White stools in obstructive jaundice. Offensive watery stools.                                                                     |
-| **SPINE**                                                                                                                                                                                                                                                                                    |
-| Appearance             | Coccygeal dimple or sinus. Straight spine.                                                                     | Sacral dimple or sinus. Scoliosis. Meningomyelocoele.                                                                                              |
-| **GENITALIA**                                                                                                                                                                                                                                                                                |
-| Penis                  | Urethral dimple at centre of glans.                                                                            | Hypospadias.                                                                                                                                       |
-| Testes                 | Descended by 37 weeks.                                                                                         | Undescended.                                                                                                                                       |
-| Scrotum                | Well formed at term.                                                                                           | Inguinal hernia. Fluid hernia.                                                                                                                     |
-| Vulva                  | Skin tags, mucoid or bloody discharge.                                                                         | Fusion of labia.                                                                                                                                   |
-| Clitoris               | Uncovered in preterm or wasted infants.                                                                        | Enlarged in adrenal hyperplasia.                                                                                                                   |
-| Urine                  | Passed in first 12 hours.                                                                                      | Poor stream suggests posterior urethral valve.                                                                                                     |
-| **ARMS**                                                                                                                                                                                                                                                                                     |
-| Position               | Flexed position in term infant.                                                                                | Brachial palsy.                                                                                                                                    |
-| **HANDS**                                                                                                                                                                                                                                                                                    |
-| Appearance             |                                                                                                                | Extra, fused or missing fingers. Skin tags. Single palmar crease. Hypoplastic nails.                                                               |
-| **LEGS**                                                                                                                                                                                                                                                                                     |
-| Appearance             | Mild bowing of lower legs common.                                                                              | Dislocatable knees in breach.                                                                                                                      |
-| **FEET**                                                                                                                                                                                                                                                                                     |
-| Appearance             | Positional deformation.                                                                                        | Clubbed feet. Abnormal toes.                                                                                                                       |
-| **NEUROLOGICAL STATUS**                                                                                                                                                                                                                                                                      |
-| Behaviour              | Alert, responsive.                                                                                             | Drowsy, irritable.                                                                                                                                 |
-| Position               | Flexion of all limbs at term.                                                                                  | Extended limbs or frog position in preterm and ill infants.                                                                                        |
-| Movement               | Active. Moves all limbs equally when awake. Stretches, yawns and twists.                                       | Absent, decreased or asymmetrical movement. Jittery or convulsions.                                                                                |
-| Tone                   |                                                                                                                | Decreased or increased.                                                                                                                            |
-| Hands                  | Intermittently clenched.                                                                                       | Permanently clenched.                                                                                                                              |
-| Cry                    | Good cry when awake.                                                                                           | Weak, high pitch or hoarse cry.                                                                                                                    |
-| Vision                 | Follows a face, bright light or red object.                                                                    | Absent or poor following.                                                                                                                          |
-| Hearing                | Responds to loud noise.                                                                                        | No response.                                                                                                                                       |
-| Sucking                | Good suck and rooting reflexes after 36 weeks gestation.                                                       | Weak suck at term.                                                                                                                                 |
-| Moro reflex            | Full extension then flexion of arms and hands. Symmetrical.                                                    | Absent, incomplete or asymmetrical response.                                                                                                       |
-| **HIPS**                                                                                                                                                                                                                                                                                     |
-| Movement               | Click common. Fully abducted.                                                                                  | Dislocated or dislocatable. Limited abduction.                                                                                                     |
-|------------------------+----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+  <thead>
+    <tr>
+      <th>Measurements</th>
+      <th>Normal</th>
+      <th>Abnormal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Birthweight</td>
+      <td>2500 g to 4000 g. Between 10th and 90th centile for gestational age.</td>
+      <td>Low birthweight (below 2500 g). Underweight (below 10th centile) or overweight (above 90th centile) for gestational age.</td>
+    </tr>
+    <tr>
+      <td>Head circumference</td>
+      <td>Between 10th and 90th centile for gestational age.</td>
+      <td>Small head (below 10th centile) or large head (above 90th centile for gestational age).</td>
+    </tr>
+    <tr>
+      <td>Gestational age</td>
+      <td>Physical and neurological features of term infants (37–42 weeks).</td>
+      <td>Immature features in preterm infant (below 37 weeks). Postterm infants (42 weeks and above) have long nails.</td>
+    </tr>
+    <tr>
+      <td>Skin temperature</td>
+      <td>Abdominal wall (36–36.5 °C) or axilla (36.5–37 °C).</td>
+      <td>Hypothermia (below 36 °C).</td>
+    </tr>
+    <tr>
+      <td colspan="3"><div align="center"><strong>General inspection</strong> </div></td>
+    </tr>
+    <tr>
+      <td>Wellbeing</td>
+      <td>Active, alert.</td>
+      <td>Lethargic, appears ill.</td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>No abnormalities.</td>
+      <td>Gross abnormalities. Abnormal face.</td>
+    </tr>
+    <tr>
+      <td>Wasting</td>
+      <td>Well nourished.</td>
+      <td>Soft tissue wasting.</td>
+    </tr>
+    <tr>
+      <td>Colour</td>
+      <td>Pink tongue.</td>
+      <td>Cyanosis, pallor, jaundice, plethora.</td>
+    </tr>
+    <tr>
+      <td>Skin</td>
+      <td>Smooth or mildly dry. Vernix and lanugo. Stork bite, mongolian spots, milia, erythema toxicum, salmon patches.</td>
+      <td>Dry, marked peeling. Meconium staining. Petechiae, bruising. Large or many pigmented naevi. Capillary or cavernous haemangioma. Infection. Oedema.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><div align="center"><strong>Regional examination</strong></div> </td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Head</em></td>
+    </tr>
+    <tr>
+      <td>Shape</td>
+      <td>Caput, moulding.</td>
+      <td>Cephalhaematoma, subaponeurotic bleed. Asymmetry, anencephaly, hydrocephaly, encephalocoele.</td>
+    </tr>
+    <tr>
+      <td>Fontanelle</td>
+      <td>Open, soft fontanelle with palpable sutures.</td>
+      <td>Full or sunken anterior fontanelle. Large or closed fontanelles. Wide or fused sutures.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Eyes</em></td>
+    </tr>
+    <tr>
+      <td>Position</td>
+      <td> </td>
+      <td>Wide or closely spaced.</td>
+    </tr>
+    <tr>
+      <td>Size</td>
+      <td> </td>
+      <td>Small or abnormal eyes.</td>
+    </tr>
+    <tr>
+      <td>Lids</td>
+      <td>Mild oedema common after delivery.</td>
+      <td>Marked oedema, ptosis, bruising.</td>
+    </tr>
+    <tr>
+      <td>Conjunctivae</td>
+      <td>May have small subconjunctival haemorrhages.</td>
+      <td>Pale or plethoric. Conjunctivitis. Excessive tearing when nasolacrimal duct obstructed.</td>
+    </tr>
+    <tr>
+      <td>Cornea, iris and lens</td>
+      <td>Cornea clear, regular pupil, red reflex.</td>
+      <td>Opaque cornea, irregular pupil, cataracts, no red reflex, squint, abnormal eye movements.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Nose </em></td>
+    </tr>
+    <tr>
+      <td>Shape</td>
+      <td>Small and upturned.</td>
+      <td>Flattened in oligohydramnios.</td>
+    </tr>
+    <tr>
+      <td>Nostrils</td>
+      <td>Both patent. Easy passage of feeding catheter.</td>
+      <td>Choanal atresia. Blocked with dry secretions.</td>
+    </tr>
+    <tr>
+      <td>Discharge</td>
+      <td> </td>
+      <td>Mucoid, purulent or bloody secretions.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Mouth</em></td>
+    </tr>
+    <tr>
+
+      <td>Lips</td>
+      <td>Sucking blisters.</td>
+      <td>Cleft lip. Long smooth upper lip in fetal alcohol syndrome.</td>
+    </tr>
+    <tr>
+      <td>Palate</td>
+      <td>Epstein's pearls.</td>
+      <td>High arched or cleft palate.</td>
+    </tr>
+    <tr>
+      <td>Tongue</td>
+      <td>Pink.</td>
+      <td>Cyanosed, pale, or large.</td>
+    </tr>
+    <tr>
+      <td>Teeth</td>
+      <td>None at birth.</td>
+      <td>Extra or primary teeth.</td>
+    </tr>
+    <tr>
+      <td>Gums</td>
+      <td>Small cysts.</td>
+      <td>Tumours.</td>
+    </tr>
+    <tr>
+      <td>Mucous membranes</td>
+      <td>Pink, shiny.</td>
+      <td>Thrush, ulcers.</td>
+    </tr>
+    <tr>
+      <td>Saliva</td>
+      <td> </td>
+      <td>Excessive if poor swallowing or oesophageal atresia.</td>
+    </tr>
+    <tr>
+      <td>Jaw</td>
+      <td>Smaller than in older child.</td>
+      <td>Very small.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Ears</em></td>
+    </tr>
+    <tr>
+      <td>Site</td>
+      <td>Ears vertical.</td>
+      <td>Low-set ears.</td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>Familial variation.</td>
+      <td>Skin tag or sinus. Malformed ears. Hairy ears.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Neck</em></td>
+    </tr>
+    <tr>
+      <td>Shape</td>
+      <td>Usually short.</td>
+      <td>Webbing, torticollis.</td>
+    </tr>
+    <tr>
+      <td>Masses</td>
+      <td>No palpable lymph nodes or thyroid.</td>
+      <td>Cystic hygroma. Goitre. Sternomastoid tumour.</td>
+    </tr>
+    <tr>
+      <td>Clavicle</td>
+      <td> </td>
+      <td>Swelling or fracture.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Breasts</em>  </td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>Breast bud at term 5 to 10 mm. Enlarged, lactating breasts.</td>
+      <td>Extra or wide spaced nipples. Mastitis.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Heart</em>  </td>
+    </tr>
+    <tr>
+      <td>Pulses</td>
+      <td>Brachial and femoral pulses easily palpable. 120–160 beats per minute.</td>
+      <td>Pulses weak, collapsing, absent, fast or slow or irregular.</td>
+    </tr>
+    <tr>
+      <td>Capillary filling time</td>
+      <td>Less than 4 seconds over chest and peripheries.</td>
+      <td>Prolonged filling time if infant cold or shocked.</td>
+    </tr>
+    <tr>
+      <td>Blood pressure</td>
+      <td>Systolic 50 to 70 mm at term.</td>
+      <td>Hypertensive or hypotensive.</td>
+    </tr>
+    <tr>
+      <td>Precordium</td>
+      <td>Mild pulsation felt over heart and epigastrium.</td>
+      <td>Hyperactive precordium.</td>
+    </tr>
+    <tr>
+      <td>Apex beat</td>
+      <td>Heard maximally to left of sternum.</td>
+      <td>Heard best in right chest in dextrocardia.</td>
+    </tr>
+    <tr>
+      <td>Murmurs</td>
+      <td>Soft, short systolic murmur common on day 1.</td>
+      <td>Systolic or diastolic murmurs.</td>
+    </tr>
+    <tr>
+      <td>Heart failure</td>
+      <td> </td>
+      <td>Oedema, hepatomegaly, tachypnoea or excessive weight gain.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Lungs</em>  </td>
+    </tr>
+    <tr>
+      <td>Respiration rate</td>
+      <td>40-60 breaths per minute. Irregular in REM sleep. Periodic breathing with no change in heart rate or colour.</td>
+      <td>Tachypnoea above 60 breaths per minute. Gasping. Apnoea with drop in heart rate, pallor or cyanosis.</td>
+    </tr>
+    <tr>
+      <td>Chest shape</td>
+      <td>Symmetrical.</td>
+      <td>Hyperinflated or small chest.</td>
+    </tr>
+    <tr>
+      <td>Chest movement</td>
+      <td>Symmetrical.</td>
+      <td>Asymmetrical in pneumothorax and diaphragmatic hernia.</td>
+    </tr>
+    <tr>
+      <td>Recession</td>
+      <td>Mild recession in preterm infant.</td>
+      <td>Severe recession in respiratory distress.</td>
+    </tr>
+    <tr>
+      <td>Grunting</td>
+      <td> </td>
+      <td>Expiratory grunt in respiratory distress.</td>
+    </tr>
+    <tr>
+      <td>Stridor</td>
+      <td> </td>
+      <td>Inspiratory stridor a sign of upper airway obstruction.</td>
+    </tr>
+    <tr>
+      <td>Percussion</td>
+      <td>Resonant bilaterally.</td>
+      <td>Dull with effusion or haemothorax. Hyperresonant with pneumothorax.</td>
+    </tr>
+    <tr>
+      <td>Air entry</td>
+      <td>Equal air entry over both lungs. Bronchovesicular.</td>
+      <td>Unequal or decreased.</td>
+    </tr>
+    <tr>
+      <td>Adventitious sounds</td>
+      <td>Transmitted sounds.</td>
+      <td>Crackles, wheeze or rhonchi.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Abdomen</em></td>
+    </tr>
+    <tr>
+      <td>Umbilicus</td>
+      <td>2 arteries and 1 vein.</td>
+      <td>1 artery, 1 vein. Infection. Bleeding or discharge. Hernia. Exomphalos.</td>
+    </tr>
+    <tr>
+      <td>Skin</td>
+      <td> </td>
+      <td>Periumbilical redness or oedema.</td>
+    </tr>
+    <tr>
+      <td>Shape</td>
+      <td> </td>
+      <td>Distended or hollow.</td>
+    </tr>
+    <tr>
+      <td>Liver</td>
+      <td>Palpable 1 cm below coastal margin, soft.</td>
+      <td>Enlarged, firm, tender.</td>
+    </tr>
+    <tr>
+      <td>Spleen</td>
+      <td>Not easily felt.</td>
+      <td>Enlarged, firm.</td>
+    </tr>
+    <tr>
+      <td>Kidneys</td>
+      <td>Often felt but normal size.</td>
+      <td>Enlarged, firm.</td>
+    </tr>
+    <tr>
+      <td>Masses</td>
+      <td>No other masses palpable. Full bladder can be percussed.</td>
+      <td>Palpable mass.</td>
+    </tr>
+    <tr>
+      <td>Bowel sounds</td>
+      <td>Heard immediately on auscultation.</td>
+      <td>Few or absent.</td>
+    </tr>
+    <tr>
+      <td>Anus</td>
+      <td>Patent.</td>
+      <td>Absent or covered.</td>
+    </tr>
+    <tr>
+      <td>Stools</td>
+      <td>Meconium passed within 48 hours of birth. Yellow stools by day 5. Breastfed stool may be green and mucoid.</td>
+      <td>Blood in stool. White stools in obstructive jaundice. Offensive watery stools.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Spine</em></td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>Coccygeal dimple or sinus. Straight spine.</td>
+      <td>Sacral dimple or sinus. Scoliosis. Meningomyelocoele.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Genitalia</em>  </td>
+    </tr>
+    <tr>
+      <td>Penis</td>
+      <td>Urethral dimple at centre of glans.</td>
+      <td>Hypospadias.</td>
+    </tr>
+    <tr>
+      <td>Testes</td>
+      <td>Descended by 37 weeks.</td>
+      <td>Undescended.</td>
+    </tr>
+    <tr>
+      <td>Scrotum</td>
+      <td>Well formed at term.</td>
+      <td>Inguinal hernia. Fluid hernia.</td>
+    </tr>
+    <tr>
+      <td>Vulva</td>
+      <td>Skin tags, mucoid or bloody discharge.</td>
+      <td>Fusion of labia.</td>
+    </tr>
+    <tr>
+      <td>Clitoris</td>
+      <td>Uncovered in preterm or wasted infants.</td>
+      <td>Enlarged in adrenal hyperplasia.</td>
+    </tr>
+    <tr>
+      <td>Urine</td>
+      <td>Passed in first 12 hours.</td>
+      <td>Poor stream suggests posterior urethral valve.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Arms</em>  </td>
+    </tr>
+    <tr>
+      <td>Position</td>
+      <td>Flexed position in term infant.</td>
+      <td>Brachial palsy.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Hands</em>  </td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td> </td>
+      <td>Extra, fused or missing fingers. Skin tags. Single palmar crease. Hypoplastic nails.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Legs</em>  </td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>Mild bowing of lower legs common.</td>
+      <td>Dislocatable knees in breach.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Feet</em>  </td>
+    </tr>
+    <tr>
+      <td>Appearance</td>
+      <td>Positional deformation.</td>
+      <td>Clubbed feet. Abnormal toes.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><em>Hips</em></td>
+    </tr>
+    <tr>
+      <td>Movement</td>
+      <td>Click common. Fully abducted.</td>
+      <td>Dislocated or dislocatable. Limited abduction.</td>
+    </tr>
+    <tr>
+      <td colspan="3"><div align="center"><strong>Neurological status</strong></div> </td>
+    </tr>
+    <tr>
+      <td>Behaviour</td>
+      <td>Alert, responsive.</td>
+      <td>Drowsy, irritable.</td>
+    </tr>
+    <tr>
+      <td>Position</td>
+      <td>Flexion of all limbs at term.</td>
+      <td>Extended limbs or frog position in preterm and ill infants.</td>
+    </tr>
+    <tr>
+      <td>Movement</td>
+      <td>Active. Moves all limbs equally when awake. Stretches, yawns and twists.</td>
+      <td>Absent, decreased or asymmetrical movement. Jittery or convulsions.</td>
+    </tr>
+    <tr>
+      <td>Tone</td>
+      <td> </td>
+      <td>Decreased or increased.</td>
+    </tr>
+    <tr>
+      <td>Hands</td>
+      <td>Intermittently clenched.</td>
+      <td>Permanently clenched.</td>
+    </tr>
+    <tr>
+      <td>Cry</td>
+      <td>Good cry when awake.</td>
+      <td>Weak, high pitch or hoarse cry.</td>
+    </tr>
+    <tr>
+      <td>Vision</td>
+      <td>Follows a face, bright light or red object.</td>
+      <td>Absent or poor following.</td>
+    </tr>
+    <tr>
+      <td>Hearing</td>
+      <td>Responds to loud noise.</td>
+      <td>No response.</td>
+    </tr>
+    <tr>
+      <td>Sucking</td>
+      <td>Good suck and rooting reflexes after 36 weeks gestation.</td>
+      <td>Weak suck at term.</td>
+    </tr>
+    <tr>
+      <td>Moro reflex</td>
+      <td>Full extension then flexion of arms and hands. Symmetrical.</td>
+      <td>Absent, incomplete or asymmetrical response.</td>
+    </tr>
+  </tbody>
+</table>
 
 Note
 :	The Moro reflex was described by Ernst Moro in 1918. He was professor of paediatrics in Heidelberg, Germany.
