@@ -242,6 +242,7 @@ td {
 }
 .table-subhead {
 	page-break-after: avoid;
+	background-color: #F2F2F2;
 }
 td p {
 	margin: 0;

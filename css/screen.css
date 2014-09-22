@@ -45,8 +45,20 @@ dt {
 	font-size: small;
 	letter-spacing: 0.05em;
 }
+pre, code {
+	white-space: pre-wrap;
+}
+
+/*
+ * Tables 
+ */
+ 
 table {
 	border-collapse: collapse;
+}
+.table-subhead {
+	page-break-after: avoid;
+	background-color: #F2F2F2;
 }
 th, td {
 	border: 1px solid #ccc;
@@ -55,9 +67,6 @@ th, td {
 td p {
 	margin: 0;
 	padding: 0;
-}
-pre, code {
-	white-space: pre-wrap;
 }
 
 /*
