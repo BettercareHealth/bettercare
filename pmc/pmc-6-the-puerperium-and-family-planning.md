@@ -346,7 +346,7 @@ A lower respiratory tract infection, such as acute bronchitis or pneumonia, is d
 
 ### 6-30 How should you manage a patient with a lower respiratory tract infection?
 
-1.	**Treatment**.
+1.	**Treatment**.  
 	These patients require admission to a hospital urgently and must be referred unless the infection is very mild. While waiting to be transferred treatment could be initiated:
 	*	Oxygen if required.
 	*	Ampicillin orally or intravenously depending on the severity of the infection.
