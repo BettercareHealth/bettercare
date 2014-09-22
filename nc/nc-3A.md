@@ -156,7 +156,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Abdominal wall (36–36.5 °C) or axilla (36.5–37 °C).</td>
       <td>Hypothermia (below 36 °C).</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><div align="center"><strong>General inspection</strong> </div></td>
     </tr>
     <tr>
@@ -184,10 +184,10 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Smooth or mildly dry. Vernix and lanugo. Stork bite, mongolian spots, milia, erythema toxicum, salmon patches.</td>
       <td>Dry, marked peeling. Meconium staining. Petechiae, bruising. Large or many pigmented naevi. Capillary or cavernous haemangioma. Infection. Oedema.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><div align="center"><strong>Regional examination</strong></div> </td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Head</em></td>
     </tr>
     <tr>
@@ -200,7 +200,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Open, soft fontanelle with palpable sutures.</td>
       <td>Full or sunken anterior fontanelle. Large or closed fontanelles. Wide or fused sutures.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Eyes</em></td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Cornea clear, regular pupil, red reflex.</td>
       <td>Opaque cornea, irregular pupil, cataracts, no red reflex, squint, abnormal eye movements.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Nose </em></td>
     </tr>
     <tr>
@@ -246,7 +246,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td> </td>
       <td>Mucoid, purulent or bloody secretions.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Mouth</em></td>
     </tr>
     <tr>
@@ -290,7 +290,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Smaller than in older child.</td>
       <td>Very small.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Ears</em></td>
     </tr>
     <tr>
@@ -303,7 +303,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Familial variation.</td>
       <td>Skin tag or sinus. Malformed ears. Hairy ears.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Neck</em></td>
     </tr>
     <tr>
@@ -321,7 +321,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td> </td>
       <td>Swelling or fracture.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Breasts</em>  </td>
     </tr>
     <tr>
@@ -329,7 +329,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Breast bud at term 5 to 10 mm. Enlarged, lactating breasts.</td>
       <td>Extra or wide spaced nipples. Mastitis.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Heart</em>  </td>
     </tr>
     <tr>
@@ -367,7 +367,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td> </td>
       <td>Oedema, hepatomegaly, tachypnoea or excessive weight gain.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Lungs</em>  </td>
     </tr>
     <tr>
@@ -415,7 +415,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Transmitted sounds.</td>
       <td>Crackles, wheeze or rhonchi.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Abdomen</em></td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Meconium passed within 48 hours of birth. Yellow stools by day 5. Breastfed stool may be green and mucoid.</td>
       <td>Blood in stool. White stools in obstructive jaundice. Offensive watery stools.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Spine</em></td>
     </tr>
     <tr>
@@ -476,7 +476,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Coccygeal dimple or sinus. Straight spine.</td>
       <td>Sacral dimple or sinus. Scoliosis. Meningomyelocoele.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Genitalia</em>  </td>
     </tr>
     <tr>
@@ -509,7 +509,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Passed in first 12 hours.</td>
       <td>Poor stream suggests posterior urethral valve.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Arms</em>  </td>
     </tr>
     <tr>
@@ -517,7 +517,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Flexed position in term infant.</td>
       <td>Brachial palsy.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Hands</em>  </td>
     </tr>
     <tr>
@@ -525,7 +525,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td> </td>
       <td>Extra, fused or missing fingers. Skin tags. Single palmar crease. Hypoplastic nails.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Legs</em>  </td>
     </tr>
     <tr>
@@ -533,7 +533,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Mild bowing of lower legs common.</td>
       <td>Dislocatable knees in breach.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Feet</em>  </td>
     </tr>
     <tr>
@@ -541,7 +541,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Positional deformation.</td>
       <td>Clubbed feet. Abnormal toes.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><em>Hips</em></td>
     </tr>
     <tr>
@@ -549,7 +549,7 @@ See Figure 3-A, a form used to record the results of the physical examination. I
       <td>Click common. Fully abducted.</td>
       <td>Dislocated or dislocatable. Limited abduction.</td>
     </tr>
-    <tr>
+    <tr class="table-subhead">
       <td colspan="3"><div align="center"><strong>Neurological status</strong></div> </td>
     </tr>
     <tr>
