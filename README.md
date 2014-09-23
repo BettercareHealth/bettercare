@@ -1,8 +1,49 @@
 # Bettercare
 
-This is currently a testing site for Bettercare content-development workflows only. Do not use this information for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books.
+This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books.
+
+## The workflow
+
+To make Bettercare books, we need a system that is easy for non-technical people to edit, includes great version control, produces books fast (no weeks laying out pages in InDesign), and instantly spits out HTML we can use for the web, ebooks, our apps, and print. By print, we mean high-end books you buy in a store, not just 'save as PDF'.
+
+Essentially:
+
+* we store our master files as markdown;
+* we create HTML from that, as needed, using Jekyll.
+
+This workflow is powerful enough to produce neat HTML we can use flexibly, and markdown is simple enough that non-technical people can create and edit it.
+
+We keep our master content files in markdown, structured for Jekyll, on GitHub. Bettercare is here:
+
+[https://github.com/electricbookworks/bettercare](https://github.com/electricbookworks/bettercare)
+
+We use the [kramdown syntax](http://kramdown.gettalong.org/) for our markdown, because it's what GitHub uses. (Among other things, kramdown supports classes, so we can get almost everything we need for neat HTML. For complex tables and for figures, we use HTML inside the markdown docs.) 
+
+Then we let GitHub Pages publish the static HTML output, which it does automatically using Jekyll. Bettercare content then appears here:
+
+[http://electricbookworks.github.io/bettercare/](http://electricbookworks.github.io/bettercare/)
+
+So far we've only done a couple of our books this way. We're slowly migrating other books to this system. Publishing with GitHub Pages works for Bettercare because its content is open-licensed (CC-BY-NC-ND). 
+
+In future, we'll make this GitHub Pages site prettier and we'll use it instead of Scribd for online reading ([which we do currently](http://bettercare.co.za/books/newborn-care/)).
+
+When we use this workflow for closed content, we don't use GitHub Pages, but rather local Jekyll instances to generate HTML from markdown as needed. We still use private GitHub repos for version control.
+
+If you click through to a book chapter on our GitHub Pages view, you'll see the HTML we get from kramdown is very simple. For example:
+
+[http://electricbookworks.github.io/bettercare/nc/nc-1.html](http://electricbookworks.github.io/bettercare/nc/nc-1.html)
+
+The key to simple HTML is mapping our books' features to HTML elements, so that we need very few classes. This way we can very easily use the same HTML with simple stylesheets for the web, our app, epub, and output to print PDF using PrinceXML. And our HTML content will remain readable in readers and low-bandwidth browsers that don't support publisher CSS.
+
+### Alternatives
+
+There are similar systems for this that use variants of Jekyll and/or markdown, such as [Gitbook IO](https://www.gitbook.io/) and [Phil Schatz's viewer](http://philschatz.com/2014/07/07/tiny-book-reader). 
+
+We've also tried the OERPub Editor, a web-based editor for non-technical people to create EPUB3 HTML that includes maths. See [the Textbook Editor here](http://oerpub.org/tools/). It's essentially Javascript editor that saves content in EPUB3 structure to a GitHub repo.
 
 ## Converting a Bettercare chapter to Markdown
+
+This is for Bettercare team members, but may contain useful tips to others working on similar material.
 
 ### Before you start
 

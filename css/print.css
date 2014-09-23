@@ -240,7 +240,7 @@ td {
 	vertical-align: top;
 	page-break-inside: avoid;
 }
-.table-subhead {
+thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
 }

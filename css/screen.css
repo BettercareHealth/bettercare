@@ -56,7 +56,7 @@ pre, code {
 table {
 	border-collapse: collapse;
 }
-.table-subhead {
+thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
 }
