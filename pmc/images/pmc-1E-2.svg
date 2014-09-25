@@ -4,9 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="368px" height="60px" viewBox="0 0 368 60" enable-background="new 0 0 368 60" xml:space="preserve">
 <rect x="0.5" y="0.5" fill="none" stroke="#000000" width="367" height="59"/>
-<rect x="58.296" y="22.336" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#231F20" stroke-width="0.5" width="125.424" height="13.104"/>
+<rect x="58.296" y="22.336" fill="none" stroke="#231F20" stroke-width="0.5" width="125.424" height="13.104"/>
 <g>
-	<text transform="matrix(1 0 0 1 21.4321 31.9131)" fill="#231F20" font-family="'Arial-BoldMT'" font-size="9.936">RVD:</text>
+	<text transform="matrix(1 0 0 1 21.4321 31.9121)" fill="#231F20" font-family="'Arial-BoldMT'" font-size="9.936">RVD:</text>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 60.6719 31.7695)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">Test done </text>
@@ -17,18 +17,16 @@
 <g>
 	<text transform="matrix(1 0 0 1 162.3359 31.7695)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">No</text>
 </g>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#808184" stroke-width="1.0001" d="M142.536,39.968
-	c7.416,0,13.392-4.752,13.392-10.656s-5.976-10.728-13.392-10.728c-7.344,0-13.32,4.824-13.32,10.728S135.192,39.968,142.536,39.968
-	z"/>
-<rect x="236.378" y="22.254" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#231F20" stroke-width="0.5" width="111.444" height="12.528"/>
-<text transform="matrix(1 0 0 1 237.5303 31.0381)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">Precautions </text>
+<path fill="none" stroke="#808184" stroke-width="1.0001" d="M142.536,39.968c7.416,0,13.392-4.752,13.392-10.656
+	s-5.976-10.728-13.392-10.728c-7.344,0-13.32,4.824-13.32,10.728S135.192,39.968,142.536,39.968z"/>
+<rect x="236.378" y="22.254" fill="none" stroke="#231F20" stroke-width="0.5" width="111.444" height="12.527"/>
+<text transform="matrix(1 0 0 1 237.5303 31.0371)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">Precautions </text>
 <g>
-	<text transform="matrix(1 0 0 1 299.0254 31.0381)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">Yes</text>
+	<text transform="matrix(1 0 0 1 299.0254 31.0371)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">Yes</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 328.7617 31.0381)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">No</text>
+	<text transform="matrix(1 0 0 1 328.7617 31.0371)" fill="#231F20" font-family="'ArialMT'" font-size="9.936">No</text>
 </g>
-<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#808184" stroke-width="1.0001" d="M308.298,38.742
-	c6.696,0,12.096-4.824,12.096-10.728c0-5.832-5.399-10.656-12.096-10.656c-6.624,0-12.096,4.824-12.096,10.656
-	C296.202,33.918,301.674,38.742,308.298,38.742z"/>
+<path fill="none" stroke="#808184" stroke-width="1.0001" d="M308.298,38.742c6.696,0,12.097-4.824,12.097-10.728
+	c0-5.832-5.399-10.656-12.097-10.656c-6.624,0-12.096,4.824-12.096,10.656C296.202,33.918,301.674,38.742,308.298,38.742z"/>
 </svg>
