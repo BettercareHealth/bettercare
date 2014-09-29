@@ -119,6 +119,11 @@ div.frontmatter, div.toc, div.chapter, div.test {
 	page-break-before: always;
 }
 
+/* To keep an element with the next element, apply this class */
+.keep-with-next {
+	page-break-after: avoid;
+}
+
 /*
  * Title page
  */

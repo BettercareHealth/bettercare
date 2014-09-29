@@ -306,7 +306,7 @@ With phototherapy it is possible to avoid almost all exchange transfusions.
 
 <figure>
 	<img src="images/nc-fig-9-2.svg" alt="Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.">	
-	<figcaption>Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories (e.g. 34 to 34 weeks and 6 days or 34 to less than 35 weeks). (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.</figcaption>
+	<figcaption>Figure 9-2: Detailed phototherapy chart for infants in different birth weight and gestational age categories. (From: A R Horn: Neonatal Medicine, University of Cape Town.) Start intensive phototherapy when the TSB is above the line according to gestation or weight.</figcaption>
 </figure>
 
 ### 9-26 How do you give phototherapy?

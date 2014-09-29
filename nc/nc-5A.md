@@ -8,7 +8,7 @@ layout: chapter
 
 # Skills workshop: Clinical notes and observations
 
-Objectives
+## Objectives
 
 * When you have completed this skills workshop you should be able to:
 * Write good clinical notes.

@@ -430,11 +430,11 @@ This is a sick infant as some of the vital signs are abnormal and the infant app
 
 The normal capillary filling time is 3 seconds or less.
 
-5. What is the clinical significance of a prolonged capillary filling time?
+### 5. What is the clinical significance of a prolonged capillary filling time?
 
 It indicates that the infant is shocked.
 
-6. How should the shock be treated?
+### 6. How should the shock be treated?
 
 By giving 10 to 20 ml of normal saline (or fresh frozen plasma, stabilised human serum or Haemaccel) per kilogram by intravenous infusion over 10 to 20 minutes. The septicaemia, which has caused the shock, must also be treated with parenteral antibiotics.
 
