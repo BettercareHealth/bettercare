@@ -39,7 +39,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Primary Newborn Care
 
-*Primary Newborn Care* was written specifically for nurses and doctors who provide primary care for newborn infants in level 1 clinics and hospitals. Primary Newborn Care addresses the care of infants at birth, care of normal infants, care of low-birth-weight infants, neonatal emergencies, and common minor problems in newborn infants.
+*Primary Newborn Care* was written specifically for nurses and doctors who provide primary care for newborn infants in level 1 clinics and hospitals. *Primary Newborn Care* addresses the care of infants at birth, care of normal infants, care of low-birth-weight infants, neonatal emergencies, and common minor problems in newborn infants.
 
 ### Mother and Baby Friendly Care
 

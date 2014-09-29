@@ -230,11 +230,12 @@ th, td {
 	border-right: 1px dotted #f2f2f2;
 	padding: 0.15em 0.3em;
 }
-th {
+thead, th {
 	font-weight: 600;
 }
 .table-caption {
 	page-break-after:avoid;
+	font-style: italic;
 }
 td {
 	vertical-align: top;
@@ -243,6 +244,9 @@ td {
 thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
+}
+.table-row-stub {
+	font-weight: 600;
 }
 td p {
 	margin: 0;

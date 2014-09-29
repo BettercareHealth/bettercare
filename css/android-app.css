@@ -1,0 +1,21 @@
+/*
+ * Bettercare Android app-specific styles
+ */
+
+@charset "utf-8";
+
+#wrapper {
+	height: 95%;
+	padding: 0.5em 0 0 1em;
+	font-size: x-large;
+    white-space: wrap;
+	column-width: 200px;
+	-webkit-column-width: 18em; /* Safari and Chrome */
+	-moz-column-width: 18em; /* Firefox */	
+}
+h2, h3 {
+	-webkit-column-break-before: always;
+}
+h2 + h3 {
+	-webkit-column-break-before: avoid;
+}

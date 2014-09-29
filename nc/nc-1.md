@@ -139,7 +139,7 @@ The following essential equipment must be available in all hospitals and clinics
 7. **Adrenaline** 1:1000 and normal saline ampoules.
 8. **Wall clock or wrist watch**: Needed to note the time at birth and time the Apgar scoring.
 9. **Disposable gloves**. Always wear gloves when delivering or resuscitating an infant.
-10. Stethoscope.
+10. **Stethoscope**.
 
 > All resuscitation equipment must be available and checked every day.
 

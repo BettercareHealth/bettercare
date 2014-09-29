@@ -51,10 +51,122 @@ The individual scores of the 5 criteria are now added up to give the Apgar score
 
 The individual scores and total Apgar score are recorded at 1&nbsp;minute on a special form which should be attached to the infant’s notes. The score is repeated at 5 minutes if active resuscitation is required.
 
-<figure>
-	<img src="images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
-	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
-</figure>
+Table 1-A: The Apgar scoring sheet
+{:.table-caption}
+
+<table width="100%" border="1">
+<thead>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2">1 minute</td>
+    <td colspan="2">5 minutes</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+    <td class="table-row-stub" rowspan="3">Heart rate per minute</td>
+    <td>None</td>
+    <td>0</td>
+    <td>None</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Less than 100</td>
+    <td>1</td>
+    <td>Less than 100</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>More than 100</td>
+    <td>2</td>
+    <td>More than 100</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td class="table-row-stub" rowspan="3">Respiratory effort</td>
+    <td>Absent</td>
+    <td>0</td>
+    <td>Absent</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Weak/irregular</td>
+    <td>1</td>
+    <td>Weak/irregular</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Good/cries</td>
+    <td>2</td>
+    <td>Good/cries</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td class="table-row-stub" rowspan="3">Colour</td>
+    <td>Centrally cyanosed</td>
+    <td>0</td>
+    <td>Centrally cyanosed</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Peripherally cyanosed</td>
+    <td>1</td>
+    <td>Peripherally cyanosed</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Peripherally pink</td>
+    <td>2</td>
+    <td>Peripherally pink</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td class="table-row-stub" rowspan="3">Muscle tone</td>
+    <td>Limp</td>
+    <td>0</td>
+    <td>Limp</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Some flexion</td>
+    <td>1</td>
+    <td>Some flexion</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Active/well flexed</td>
+    <td>2</td>
+    <td>Active/well flexed</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td class="table-row-stub" rowspan="3">Response to stimulation</td>
+    <td>None</td>
+    <td>0</td>
+    <td>None</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Some response</td>
+    <td>1</td>
+    <td>Some response</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Good response</td>
+    <td>2</td>
+    <td>Good response</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>&nbsp;</td>
+    <td>/10</td>
+    <td>&nbsp;</td>
+    <td>/10</td>
+  </tr>
+ </tbody>
+</table>
 
 ## Giving mask ventilation
 
@@ -65,8 +177,8 @@ The infant must lie supine (back down) on a firm, flat horizontal surface. A res
 If you pretend that you are offered a flower to smell, you would hold the flower in front of your nose, push your head slightly forward and slightly extend your neck. This is the position that you want the infant’s head and neck to be in as it keeps the upper airways open (and makes the vocal cords easier to see with a laryngoscope).
 
 <figure>
-	<img src="images/nc-fig-1-B.svg" alt="The position of the head during mask ventilation">	
-	<figcaption>Figure 1-B: The position of the head during mask ventilation</figcaption>
+	<img src="images/nc-fig-1-A.svg" alt="The position of the head during mask ventilation">	
+	<figcaption>Figure 1-A: The position of the head during mask ventilation</figcaption>
 </figure>
 
 ### 1-h Bag and mask ventilation
@@ -110,43 +222,43 @@ When giving bag and mask ventilation, always watch for chest movement. Squeeze t
 14. A saturation monitor is very useful but not essential.
 
 <figure>
-	<img src="images/nc-fig-1-C.svg" alt="A bag and mask for resuscitation">	
-	<figcaption>Figure 1-C: A bag and mask for resuscitation</figcaption>
+	<img src="images/nc-fig-1-B.svg" alt="A bag and mask for resuscitation">	
+	<figcaption>Figure 1-B: A bag and mask for resuscitation</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-D.svg" alt="An endotracheal tube with an introducer in place">	
-	<figcaption>Figure 1-D: An endotracheal tube with an introducer in place</figcaption>
+	<img src="images/nc-fig-1-C.svg" alt="An endotracheal tube with an introducer in place">	
+	<figcaption>Figure 1-C: An endotracheal tube with an introducer in place</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-E.svg" alt="A laryngoscope with a small, straight blade">	
-	<figcaption>Figure 1-E: A laryngoscope with a small, straight blade</figcaption>
+	<img src="images/nc-fig-1-D.svg" alt="A laryngoscope with a small, straight blade">	
+	<figcaption>Figure 1-D: A laryngoscope with a small, straight blade</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-F.svg" alt="The blade of the laryngoscope on the tongue">	
-	<figcaption>Figure 1-F: The blade of the laryngoscope on the tongue</figcaption>
+	<img src="images/nc-fig-1-E.svg" alt="The blade of the laryngoscope on the tongue">	
+	<figcaption>Figure 1-E: The blade of the laryngoscope on the tongue</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-G.svg" alt="A view of the epiglottis">	
-	<figcaption>Figure 1-G: A view of the epiglottis</figcaption>
+	<img src="images/nc-fig-1-F.svg" alt="A view of the epiglottis">	
+	<figcaption>Figure 1-F: A view of the epiglottis</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-H.svg" alt="The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis">	
-	<figcaption>Figure 1-H: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis.</figcaption>
+	<img src="images/nc-fig-1-G.svg" alt="The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis">	
+	<figcaption>Figure 1-G: The laryngoscope is lifted upwards to see the vocal cords. Note that the tip of the blade is in the hollow just before the epiglottis.</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-I.svg" alt="View of the larynx">	
-	<figcaption>Figure 1-I: View of the larynx.</figcaption>
+	<img src="images/nc-fig-1-H.svg" alt="View of the larynx">	
+	<figcaption>Figure 1-H: View of the larynx.</figcaption>
 </figure>
 
 <figure>
-	<img src="images/nc-fig-1-J.svg" alt="Introducing the endotracheal tube">	
-	<figcaption>Figure 1-J: Introducing the endotracheal tube.</figcaption>
+	<img src="images/nc-fig-1-I.svg" alt="Introducing the endotracheal tube">	
+	<figcaption>Figure 1-I: Introducing the endotracheal tube.</figcaption>
 </figure>
 
 The equipment must be checked daily to make certain that everything is present and in good working order.
@@ -155,16 +267,16 @@ The equipment must be checked daily to make certain that everything is present a
 
 1. Pull the laryngoscope blade into a 90&nbsp;degree position so that the light is switched on. Make sure that the bulb is tightly screwed in and that the correct blade is used.
 2. Hold the laryngoscope in your left hand (even if you are right handed).
-3. With the infant lying supine (back down), and the infant’s head towards you in the correct position for mask ventilation, place the blade into the infant’s mouth. Always keep the base of the blade to the left of the mouth with the tip of the blade in the midline of the tongue. Throughout the procedure the tip of the blade must always remain in the midline. See Figure 1-F.
+3. With the infant lying supine (back down), and the infant’s head towards you in the correct position for mask ventilation, place the blade into the infant’s mouth. Always keep the base of the blade to the left of the mouth with the tip of the blade in the midline of the tongue. Throughout the procedure the tip of the blade must always remain in the midline. See Figure 1-E.
 4. Slowly move the tip of the blade along the back of the tongue until you can see the infant’s epiglottis. The epiglottis is about 1 cm long and is in the midline. It hangs down from the wall of the pharynx to cover the opening of the larynx (the glottis). If your view is obstructed by mucus, suction the pharynx with a catheter held in your right hand.
-5. Place the tip of the laryngoscope blade in the hollow just before the epiglottis (i.e. the vallecula). The epiglottis must always remain in view. One of the commonest mistakes is to push the blade in too far, beyond the epiglottis. It is important to initially look for the epiglottis rather than the vocal cords. See Figure 1-G.
-6. Now use the laryngoscope to lift the epiglottis out of the way so that the vocal cords and glottis can be seen. It is important to lift the laryngoscope upwards and not to pull the handle back towards you, as this may damage the infant’s upper gum. Slight downward pressure on the infant’s throat with the little finger of your left hand may make the vocal cords and glottis easier to see. This is called cricoid pressure. See Figure 1-H.
-7. The larynx (vocal cords and glottis) is a triangular structure and, therefore, is easy to recognise. The two sides of the triangle are formed by the vocal cords. The vocal cords tend to move apart when the infant breathes out. If the cords are in spasm against one another, they can be separated by gently squeezing the infant’s chest. The most important step in intubation is to get a good view of the vocal cords. The opening between the vocal cords is the glottis. This is where the endotracheal tube&nbsp;must be inserted. See Figure 1-I.
+5. Place the tip of the laryngoscope blade in the hollow just before the epiglottis (i.e. the vallecula). The epiglottis must always remain in view. One of the commonest mistakes is to push the blade in too far, beyond the epiglottis. It is important to initially look for the epiglottis rather than the vocal cords. See Figure 1-F.
+6. Now use the laryngoscope to lift the epiglottis out of the way so that the vocal cords and glottis can be seen. It is important to lift the laryngoscope upwards and not to pull the handle back towards you, as this may damage the infant’s upper gum. Slight downward pressure on the infant’s throat with the little finger of your left hand may make the vocal cords and glottis easier to see. This is called cricoid pressure. See Figure 1-G.
+7. The larynx (vocal cords and glottis) is a triangular structure and, therefore, is easy to recognise. The two sides of the triangle are formed by the vocal cords. The vocal cords tend to move apart when the infant breathes out. If the cords are in spasm against one another, they can be separated by gently squeezing the infant’s chest. The most important step in intubation is to get a good view of the vocal cords. The opening between the vocal cords is the glottis. This is where the endotracheal tube&nbsp;must be inserted. See Figure 1-H.
 
 ### 1-l Introducing the endotracheal tube
 
 1.	Take the endotracheal tube, with the introducer in place, in your right hand and insert it towards the larynx from the right side of the mouth. This will allow you to keep the vocal cords in view all the time. Push the first 1 to 2 cm of the endotracheal tube between the vocal cords and into the glottis (to the black ‘vocal cord line’). Always make sure that you can see the vocal cords clearly, otherwise you will push the tube into the oesaphagus. Make sure that you do not push the tube in too far. Once the tube is correctly in place, the laryngoscope can be removed. Your left hand can now be used to hold the endotracheal tube in place. It is helpful to hold the endotracheal tube tightly against the infant’s hard palate. Note the length of the endotracheal tube at the infant’s lip.
-2.	Remove the introducer with your right hand while the endotracheal tube is held in position with your left hand. Make sure that the endotracheal tube does not slip out of the larynx. See Figure 1-J.
+2.	Remove the introducer with your right hand while the endotracheal tube is held in position with your left hand. Make sure that the endotracheal tube does not slip out of the larynx. See Figure 1-I.
 3.	Attach the connector at the end of the endotracheal tube to the ventilation bag and ventilate the infant at about 40 breaths per minute using your right hand. Usually the face mask is removed before the ventilation bag is attached to the connector of the endotracheal tube.
 4.	Listen to both sides of the chest and watch the chest movement:
 	* The chest should move well with each inspiration and air should be heard to enter both sides equally when the chest is examined with a stethoscope. Misting of the inside of the endotracheal tube during expiration is a helpful sign that the tube is in the trachea and not the oesophagus.
@@ -187,8 +299,8 @@ An assistant ventilates the infant while you give chest compressions. The person
 Pressing on the sternum compresses the heart between the sternum and the spine. This squeezes blood out of the heart and into the circulation. When the sternum returns to the normal position, the heart fills again with blood. Therefore it is important that the chest be allowed time to expand fully after each compression. Repeated compression of the heart causes the blood to circulate throughout the body.
 
 <figure>
-	<img src="images/nc-fig-1-K.svg" alt="The position of the hands when giving chest compressions">	
-	<figcaption>Figure 1-K: The position of the hands when giving chest compressions.</figcaption>
+	<img src="images/nc-fig-1-J.svg" alt="The position of the hands when giving chest compressions">	
+	<figcaption>Figure 1-J: The position of the hands when giving chest compressions.</figcaption>
 </figure>
 
 Note
