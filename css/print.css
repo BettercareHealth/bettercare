@@ -124,6 +124,11 @@ div.frontmatter, div.toc, div.chapter, div.test {
 	page-break-after: avoid;
 }
 
+/* To prevent an element breaking across pages, apply this class */
+.keep-together {
+	page-break-inside: avoid;
+}
+
 /*
  * Title page
  */
@@ -185,12 +190,12 @@ div.frontmatter, div.toc, div.chapter, div.test {
 /*
  * Tests
  */
- 
- .test {
-	 column-count: 2;
-	 column-gap: 3em;
+
+.test {
+	column-count: 2;
+	column-gap: 3em;
  }
- .test h1 {
+.test h1 {
 	font-size: 1.5em;
 	font-weight: 600;
  }
@@ -198,7 +203,7 @@ div.frontmatter, div.toc, div.chapter, div.test {
 	font-size: 1.2em;
 	font-weight: 400;
  }
- .test ol li {
+.test ol li {
 	margin: 0 0 1em 0;
 	font-weight: 600;
 	page-break-inside: avoid;
@@ -217,6 +222,23 @@ div.frontmatter, div.toc, div.chapter, div.test {
 }
 
 /*
+ * Answers
+ */
+
+.answers {
+	column-count: 2;
+	column-gap: 3em;
+ }
+.answers h1 {
+	font-size: 1.5em;
+	font-weight: 600;
+ }
+ .answers h2 {
+	font-size: 1.2em;
+	font-weight: 400;
+}
+
+/*
  * Tables
  */
 
@@ -225,9 +247,6 @@ table {
 	border-collapse: collapse;
 	margin: 1em 0;
 	font-size: 80%;
-}
-.table-keep-together {
-	page-break-inside: avoid;
 }
 th, td {
 	border-top: 1px solid #ccc;
