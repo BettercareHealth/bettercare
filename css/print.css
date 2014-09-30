@@ -201,6 +201,7 @@ div.frontmatter, div.toc, div.chapter, div.test {
  .test ol li {
 	margin: 0 0 1em 0;
 	font-weight: 600;
+	page-break-inside: avoid;
  }
 .test ol li li {
 	list-style-type: lower-alpha;
