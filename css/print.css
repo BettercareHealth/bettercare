@@ -69,9 +69,9 @@
   @bottom-left {
     content: counter(page) "\2003" string(chapter-title, last);
     text-align: left;
-    font-size: 9pt;
+    font-size: 7pt;
 	text-transform: uppercase;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.05em;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 300;
   }
@@ -80,9 +80,9 @@
   @bottom-right {
     content: string(section-title, last) "\2003" counter(page);
     text-align: right;
-    font-size: 9pt;
+    font-size: 7pt;
 	text-transform: uppercase;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.05em;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 300;
   }
