@@ -115,8 +115,8 @@
 	size: A5; 
 	margin: 15mm 15mm 20mm 15mm;
 	padding: 0;
-	marks: crop;
-	prince-bleed: 3mm;
+	marks: none;
+	prince-bleed: 0;
 }
 
 /* Naming our divs for PrinceXML */

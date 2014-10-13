@@ -1,13 +1,8 @@
 /*
-Title: Bettercare screen styles
-Author: Arthur Attwell
-Author URI: http://arthurattwell.com/
-Description: Screen styles for Bettercare http://bettercare.co.za
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: bettercare
-*/
+ * Bettercare http://bettercare.co.za screen styles by Arthur Attwell http://arthurattwell.com/
+ * License: GNU General Public License v2
+ * Requires Internet access for fonts. Or add @font-face rules and fonts for offline use.
+ */
 
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic|Neuton:200,300,400,700,800,400italic);

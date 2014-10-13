@@ -116,6 +116,7 @@
 	margin: 15mm 15mm 20mm 15mm;
 	padding: 0;
 	marks: crop;
+	prince-bleed: 3mm;
 }
 
 /* Naming our divs for PrinceXML */

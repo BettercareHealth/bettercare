@@ -104,7 +104,7 @@ This is for Bettercare team members, but may contain useful tips to others worki
 
 ```html
 <figure>
-	<img src="../images/nc-fig-1-A.svg" alt="The Apgar scoring sheet">	
+	<img src="../images/nc-fig-1-A.svg" alt="The Apgar scoring sheet" />	
 	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
 </figure>
 ```

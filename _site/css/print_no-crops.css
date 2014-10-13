@@ -115,7 +115,7 @@
 	size: A5; 
 	margin: 15mm 15mm 20mm 15mm;
 	padding: 0;
-	marks: crop;
+	marks: none;
 	prince-bleed: 3mm;
 }
 
