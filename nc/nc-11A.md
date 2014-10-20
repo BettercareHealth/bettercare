@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 11A. Skills workshop on Oxygen therapy
 layout: chapter
 ---

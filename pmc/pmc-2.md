@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 2. Assessment of fetal growth and condition during pregnancy
 layout: chapter
 ---

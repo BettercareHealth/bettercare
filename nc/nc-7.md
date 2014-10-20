@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 7. Temperature control and hypothermia
 layout: chapter
 ---

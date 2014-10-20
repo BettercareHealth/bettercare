@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 1. Failure to breathe at birth and resuscitation
 layout: chapter
 ---

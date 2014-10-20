@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 10A. Skills workshop on Respiratory distress and apnoea
 layout: chapter
 ---

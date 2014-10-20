@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 1E. Skills workshop on screening tests for HIV
 layout: chapter
 ---

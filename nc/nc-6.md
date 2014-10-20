@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 6. Feeding sick or high-risk infants
 layout: chapter
 ---

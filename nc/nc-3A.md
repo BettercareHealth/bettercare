@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 3A. Skills workshop on Clinical history and examination
 layout: chapter
 ---

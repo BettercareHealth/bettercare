@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 8. Glucose control and hypoglycaemia
 layout: chapter
 ---

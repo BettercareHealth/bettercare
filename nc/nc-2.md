@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 2. Assessing gestational age and size at birth
 layout: chapter
 ---

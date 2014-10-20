@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 2A. Skills workshop on Gestational age and weight
 layout: chapter
 ---

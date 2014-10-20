@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 9A. Skills workshop on Jaundice and phototherapy
 layout: chapter
 ---

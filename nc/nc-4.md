@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 4. Feeding normal infants
 layout: chapter
 ---

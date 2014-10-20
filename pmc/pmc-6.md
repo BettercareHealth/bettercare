@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 6. The puerperium and family planning
 layout: chapter
 ---

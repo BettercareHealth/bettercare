@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 3. The routine care of normal infants
 layout: chapter
 ---

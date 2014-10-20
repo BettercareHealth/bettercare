@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 6A. Skills workshop on Feeding sick or high-risk infants
 layout: chapter
 ---

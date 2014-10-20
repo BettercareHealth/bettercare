@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 5. Care of high-risk and sick infants
 layout: chapter
 ---

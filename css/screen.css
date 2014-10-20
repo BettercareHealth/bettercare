@@ -7,6 +7,10 @@
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic|Neuton:200,300,400,700,800,400italic);
 
+/* 
+ * Structure
+ */
+
 body {
 	font-family: "Source Sans Pro", sans-serif;
 }
@@ -14,34 +18,40 @@ body {
 	max-width: 960px;
 	margin: auto;
 }
-li p {
-	margin: 0;
+#footer {
+	border-top: 1px solid #f9f9f9;
+	margin: 2em 0 0 0;
+	padding: 1em 0 2em 0;
 }
-blockquote {
-	color: white;
-	background-color: #4f89d2;
-	font-weight: bold;
-	margin: 0;
-	padding: 0.5em 1em 0.5em 1em;
-	border-radius: 0.25em;
+.footer-content {
+	clear: both;
+	max-width: 960px;
+	margin: auto;
+	font-size: 0.8em;
+	color: grey;
 }
-blockquote p {
-	margin: 0;
-	padding: 0;
+
+/* 
+ * Nav bar including 'Close' button for chapter and frontmatter layouts
+ */
+ 
+#nav-bar {
+	position: fixed;
+	top: 0;
+	background-color: white;
+	height: 2em;
+	width: 100%;
+	opacity: 0.9;
+	border-bottom: 1px solid #f9f9f9;
 }
-li blockquote {
-	margin: 1em 0;
+a.nav-bar-close {
+	text-decoration: none;
+	color: #dddddd;
+	float: right;
+	margin: 0.3em 0.3em 0 0;
 }
-dl {
-	color: #666;
-}
-dt {
-	text-transform: uppercase;
-	font-size: small;
-	letter-spacing: 0.05em;
-}
-pre, code {
-	white-space: pre-wrap;
+a.nav-bar-close:hover {
+	color: grey;
 }
 
 /*
@@ -136,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 	page-break-after: avoid;
 }
 h1 {
-	font-weight: 300;
+	font-weight: 600;
 	font-size: 3.5em;
 	max-width: 80%;
 	line-height: 90%;
@@ -151,10 +161,25 @@ h3 {
 h4 {
 	margin-bottom: 0.3em;
 }
+p, ul, ol, blockquote, dl {
+	max-width: 40em;
+}
+p {
+	margin: 0 0 0.5em 0;
+}
 p.chapter-number {
 	font-weight: bold;
 	font-size: 3.5em;
 	margin: 0 0 -0.25em 0;
+}
+
+/* 
+ * Links
+ */
+
+a {
+	text-decoration: none;
+	color: #4f89d2;
 }
 a.button {
 	display: block;
@@ -169,6 +194,55 @@ a.button {
 	font-size: 150%;
 	font-weight: 300;
 	text-decoration: none;
+}
+
+/* 
+ * Blockquotes. Note in Bettercare these are used for key-concept boxes by default.
+ */
+
+blockquote {
+	color: white;
+	background-color: #4f89d2;
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5em 1em 0.5em 1em;
+	border-radius: 0.25em;
+}
+blockquote p {
+	margin: 0;
+	padding: 0;
+}
+
+/* 
+ * Lists
+ */
+
+li blockquote {
+	margin: 1em 0;
+}
+li p {
+	margin: 0;
+}
+
+/* 
+ * Definition lists. In Bettercare these are used by default for Notes.
+ */
+ 
+dl {
+	color: #666;
+}
+dt {
+	text-transform: uppercase;
+	font-size: small;
+	letter-spacing: 0.05em;
+}
+
+/* 
+ * Unformatted text and code. In Bettercare, these are sometimes used to indicate manual notes, e.g. a history taken by a nurse.
+ */
+ 
+pre, code {
+	white-space: pre-wrap;
 }
 
 /* 

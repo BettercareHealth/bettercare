@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 3A. Skills workshop on measuring blood pressure and proteinuria
 layout: chapter
 ---

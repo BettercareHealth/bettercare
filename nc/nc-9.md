@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 9. Jaundice, anaemia and polycythaemia
 layout: chapter
 ---

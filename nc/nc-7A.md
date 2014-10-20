@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 7A. Skills workshop on Temperature control and hypothermia
 layout: chapter
 ---
