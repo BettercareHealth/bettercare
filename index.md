@@ -1,6 +1,6 @@
 ---
 title: Bettercare
-layout: default
+layout: index
 ---
 
 # Bettercare books
