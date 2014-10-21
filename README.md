@@ -8,8 +8,8 @@ To make Bettercare books, we need a system that is easy for non-technical people
 
 Essentially:
 
-* we store our master files as markdown;
-* we create HTML from that, as needed, using Jekyll.
+*	we store our master files as markdown;
+*	we create HTML from that, as needed, using Jekyll.
 
 This workflow is powerful enough to produce neat HTML we can use flexibly, and markdown is simple enough that non-technical people can create and edit it.
 
@@ -61,8 +61,8 @@ This is for Bettercare team members, but may contain useful tips to others worki
 1. Paste the text with formatting into your text editor.
 1. Search and replace (S&R) all line breaks with double line breaks:
 	* Tick 'Regular expression' (because you're using the regex \n to mean 'line break', not actually searching for the characters 'slash' and 'lowercase en').
-	* Find \n
-	* Replace with \n\n
+	* Find `\n`
+	* Replace with `\n\n`
 1. Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
 	* Find \n\nnote\s
 	* Replace with \n\nNote\n:\t
