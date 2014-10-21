@@ -48,7 +48,7 @@ This is for Bettercare team members, but may contain useful tips to others worki
 ### Before you start
 
 * Read through all these notes, including the tips at the end. You may not understand it all at first, but you need to plant all these seeds in your brain for when you need them.
-* Have the [Markdown syntax reference](daringfireball.net/projects/markdown/syntax) to hand.
+* Have the [Markdown syntax reference](http://daringfireball.net/projects/markdown/syntax) to hand.
 * For more advanced syntax (including for tables), see the [kramdown syntax](http://kramdown.gettalong.org/syntax.html) and kramdown [quick reference](http://kramdown.gettalong.org/quickref.html).
 * Use a good text editor like Notepad++.
 * Set your default character encoding for your documents to 'UTF without BOM'. (We use GitHub Pages with Jekyll to create our HTML, and Jekyll can break if we don't.)
