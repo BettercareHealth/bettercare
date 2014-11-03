@@ -1,0 +1,526 @@
+---
+book: Maternal Mental Health
+title: 1. Introduction to Maternal Mental Health
+layout: chapter
+---
+
+1
+{:.chapter-number}
+
+# Introduction to maternal mental health
+
+Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
+
+## Objectives
+
+When you have completed this unit you should be able to:
+
+*	Define maternal mental health and illness
+* 	Understand the difference between mental health, mental illness and mental distress
+* 	Understand why maternal mental illness is so common in South Africa 
+* 	Understand how maternal mental illness can affect infants, children, and families
+* 	List the risk factors that are linked to maternal mental illness
+* 	Understand different types of maternal mental illnesses.
+
+## Introduction to maternal mental health
+
+### 1-1	What is mental health?
+
+Mental health is a term used to describe a person’s emotional wellness and their ability to enjoy life. It refers to a person having a sense of purpose, emotional wellbeing and a sense of connectedness to others. It is more than the absence of mental illness.
+
+> Mental health refers to a person's emotional wellness and ability to enjoy life. 
+
+### 1-2	What is mental illness?
+
+Mental illness is the opposite of mental health. Mental illness is a general term used to refer to any long term psychological or emotional condition which prevents a person from functioning ‘normally’.
+
+Mental illness can disrupt a person’s thoughts, emotions or behaviour. Different types of mental illness are called mental disorders which are defined by particular combinations of thoughts, emotions and behaviours. Mental illness is a diagnosable condition.
+
+Most people have emotional problems of short duration during times of stress which do not interfere with their daily activities. This would not be regarded as mental illness.
+
+> Mental illness is a long-term psychological or emotional condition which prevents a person from functioning normally. 
+
+### 1-3	What is maternal mental illness?
+
+Maternal mental illness is mental illness that occurs during pregnancy or in the first year after childbirth. 
+
+> Maternal mental illness is a mental illness that occurs during pregnancy or in the first year after childbirth.  
+
+### 1-4	Is mental distress the same as mental illness?
+
+No. Mental illness is a long term abnormal, diagnosable condition.  In contrast, mental distress is a general term for short lived mental suffering.  It includes a range of possible symptoms such as confused emotions, rage, anxiety and depression.  Mental distress may be an appropriate response to a threatening situation.  Therefore a person with mental distress usually is not considered ‘ill’ in a medical sense because the distress does not last long enough, and functioning is not affected.
+However, mental distress that goes on for a long time may affect a person’s mood and well-being and develop into a mental illness. 
+For example: A mother may be distressed about her baby being in hospital, but she does not necessarily have a mental illness. However, if her mental distress goes on for a long time, it may develop into a mental illness
+
+> Mental distress is a severe but short-lived, appropriate emotional response to a threatening situation. 
+
+### 1-5	What can cause mental illness?
+
+Mental Illness can be affected by personal factors and influences by society.  There may also be physical causes for mental illness. Examples of a physical cause could be chronic infection or disease, anaemia and thyroid deficiency. HIV infection can affect the brain and lead to mental illness. When there is a physical cause to mental illness there needs to be management of both the underlying disease and of the mental illness.  
+
+Family, friends, community and how one is able to live one’s life also influence mental health. These are psycho-social factors that can contribute to mental illness. 
+
+### 1-6	How common is mental illness during and after pregnancy in South Africa?
+
+In South Africa, mental illness, during and after pregnancy, is very common. Nearly half of poor pregnant women in South Africa experience depression or anxiety. 
+
+Note
+:	The prevalence (frequency) of maternal mental illness is expressed as the number of people who have the condition (affected individuals) out of the population group at a given point in time. For example: studies in Cape Town and KwaZulu-Natal show that 47% of pregnant women in those areas have depression during or after pregnancy.  
+
+### 1-7	Why is mental illness during and after pregnancy so common in South Africa?
+
+Pregnancy and the postnatal period is a psychologically distressing time for many women, particularly for those living in poverty, or with violence, abuse, HIV/AIDS or an unintended pregnancy. Many women in South Africa live in these circumstances. 
+
+### 1-8	Is mental illness during and after pregnancy also common in other countries?
+
+In high income countries, the prevalence of maternal mental illness is around 10 to 15 %. It is thought to be higher than this in low and middle income countries. 
+
+Note
+:	The South African prevalence rate of maternal mental illness is about three times higher than the prevalence found in developed countries. It is also significantly higher than the rate in other developing countries such as Ethiopia, Nigeria or Uganda.
+	 
+### 1-9	What types of mental illness are common during and after pregnancy?
+
+Depression and anxiety. They are known as the common mental disorders (CMD).
+
+### 1-10 Is suicide an important cause of death during and after pregnancy?
+
+Suicide is a leading cause of maternal death in developed countries. In most low and middle-income countries (including South Africa), suicide data are not accurately recorded. Yet, if the high rates of maternal depression are considered, coupled with poverty, unemployment and substance use, maternal suicide is likely to be very high in these regions. 
+
+### 1-11 Can the risk of postnatal depression be identified during pregnancy?
+
+Yes. If someone is depressed during pregnancy, there is a strong chance that she will be depressed after the birth of the baby. Depression after the baby’s birth is known as postnatal depression. 
+
+> The risk of postnatal depression can be identified during pregnancy. 
+
+### 1-12 Are formal screening programmes for maternal mental illness available in South Africa?
+
+In South Africa, there are currently no formal screening programmes to identify women who are at risk of mental illness or who have mental illness. There are also no dedicated mental health services during pregnancy, labour and a year after delivery. 
+
+### 1-13 Are services to manage maternal mental illness available in South Africa?
+
+Very few management procedures and treatment options exist in the public sector in South Africa for treating maternal mental illness. It is often difficult for health workers to identify women’s psychological problems because of staff shortages, high patient numbers and inadequate staff training in mental health. 
+
+### 1-14 Can mental illness during pregnancy affect the infant and child?
+
+Mental illness in pregnant women is associated with:
+*	Poor fetal growth
+*	Preterm delivery
+*	Infants that are more vulnerable to infection and disease
+*	Infants that are more frequently admitted to hospital.
+
+Children of mothers with mental illness are more likely to:
+*	Be abused
+*	Perform poorly at school
+*	Develop mental illness themselves.
+
+### 1-15 What impact may maternal mental illness have on the family and society?
+
+Mental illness in parents has a negative effect on the social, emotional, cognitive (mental) and physical development of children. This can have a negative impact on the educational and economic potential of children in a country. Therefore addressing the mental health needs of mothers has positive implications for the well-being of women, their children and families, as well as their wider communities and society. 
+
+## Risk factors linked to poor maternal mental health
+
+### 1-16 What is a risk factor?
+
+A risk factor is something that increases the chance of a person developing a particular illness or disease Therefore, a risk factor will increase the likelihood or chance of suffering from an illness, harm or loss. 
+
+Note
+:	Smoking as an example of a risk factor as it is associated with an increased likelihood of lung cancer. However, not all people who smoke develop lung cancer while not all people with lung cancer smoked. 
+
+### 1-17 What are the risk factors linked to an increased likelihood of poor maternal mental health?
+
+The risk factors that increase the chance of maternal mental illness are:
+
+1.	Poverty – women who live in poverty have the added stresses of unemployment, poor housing and food insecurity. If they develop a mental illness, they are more likely to experience isolation and stigma, limited ability to generate income and have to spend more time and money on health care. 
+2.	Rape, violence and abuse – women can have an increased risk of domestic violence during pregnancy. As the pregnancy progresses, the violence tends to become worse. These women are more likely to become depressed and anxious. 
+3.	HIV/ AIDS - women with HIV/AIDS have special mental health needs. Many women learn their HIV status for the first time during pregnancy. The process of adjusting to this news and disclosing to family and friends could result in guilt, stigma and rejection by partners, family or the community. She may feel guilty or anxious about her baby getting HIV; she may deny her HIV status; she may feel depressed about her situation and diagnosis. HIV/AIDS can affect the brain while adapting to medication and can also cause emotional distress. On the other hand, positive mental health can improve adherence to anti-retroviral medications including Prevention of Mother to Child Transmission interventions, and can improve the use of antenatal care. 
+4.	Adolescents - are twice as likely to experience depression compared to pregnant adults. Also, teenage mothers with depression are more likely to get pregnant again within 1 to 2 years than those teens who are not depressed. 
+5.	Refugee status - In fleeing their own countries, refugee women may have experienced extreme trauma, violence, rape, the loss of loved ones and great emotional distress. They are also more likely to experience post-traumatic stress disorder. They may find it difficult to make friends in the new country and have little support. 
+6.	Substance use - substance use and mental illness often occur at the same time, or as a result of each other. This can have devastating effects on both the mother and the child. South Africa has some of the highest rates of Fetal Alcohol Syndrome in the world, which is a result of the widespread misuse of alcohol during pregnancy.
+7.	No partner or an unsupportive partner – the partner may have left, or not provide any emotional or financial support. This can have a negative effect on how women feel about themselves during pregnancy.
+8.	No emotional or practical support from family or friends – women without social support are more likely to suffer from mental illnesses. Having supportive family and friends has a positive effect on mental health. 
+9.	Unintended pregnancy – women who have an unplanned or unwanted pregnancy are at greater risk of mental distress than those who have a planned pregnancy.
+10.	Previous history of mental illness – having previous experience of any mental illness make it more likely that during pregnancy, the women could suffer from mental illness.
+11.	Pregnancy loss – experiencing previous pregnancy loss (from example a miscarriage, stillbirth or abortion) or the loss of an infant or child, put women at greater risk of suffering from a mental illness during pregnancy. Often the previous loss has not been emotionally dealt with, and during the subsequent pregnancy may focus on this grief and loss. 
+12.	Obstetric complications – obstetric complications during pregnancy or in a previous pregnancy, labour or delivery may contribute to the possibility of mental illness during pregnancy.
+13.	Major negative life event in the past year – difficult events in a women’s life (e.g moving house, loss of a job, death of a close friend or relative, injury) can influence her mental health. If these occurred during the year before (or during) her pregnancy, they can put her at risk for experiencing mental illness. 
+
+## Types of maternal mental illness
+
+### 1-18 What is a symptom?
+
+A symptom is something that a patient complains of and may indicate a condition, disease or illness.  It is a subjective feeling or a presenting complaint. In contrast to a symptom, a sign is a clinical finding that a doctor or nurse makes when examining a patient.  A headache is a symptom but an enlarged liver is a sign.
+
+### 1-19 What are the ‘baby blues’?
+
+The ‘baby blues’ is a temporary psychological state. It usually starts on the third day after delivery and is probably linked to hormonal changes. It involves sudden mood swings (feeling very happy, then very sad), crying for no apparent reason, feeling impatient, unusually irritable, restless, anxious, lonely and sad. These symptoms last only a few hours or as long as 1 to 2 weeks after delivery, and resolves with compassionate support. 
+
+However, if these emotions and feelings continue and become so bad that they interfere with a woman’s daily life, and she has difficulty with carrying out her usual daily tasks, then it is possible that she is suffering from a mental illness. The ‘Baby Blues needs to be monitored carefully as about 20% of women who experience the ‘Baby Blues’ will progress to having Postnatal Depression.
+
+### 1-20 What is a mental disorder?
+
+It is a condition made up of specific patterns of emotional and behavioural symptoms that can be recognised and diagnosed as a particular condition.
+
+### 1-21 Are all maternal mental illnesses the same?
+
+No. Mental illness during and after pregnancy can be classified into two different groups: non-psychotic disorders and psychotic disorders. 
+
+### 1-22 What are non-psychotic mental disorders?
+
+A non-psychotic mental disorder is a condition of the mind that affects the way a person feels, thinks, or behaves without also causing psychosis (a sense of losing contact with reality). These disorders are common and typically refer to ‘mood disorders’ or ‘emotional disorders’, such as depression or anxiety. 
+
+This is different from psychotic disorders when the person may imagine that they can see or hear things which are not present (discussed in 1.31).
+
+### 1-23 What is Depression?
+
+Depression is characterised by low mood, loss of interest and enjoyment, as well as reduced energy for at least two to four weeks. Other common symptoms of depression include:
+
+*	Extreme sadness, tearfulness
+*	Difficulty in concentrating, forgetfulness
+*	Disturbed appetite or sleep (too much or too little)
+*	Thoughts that one is worthless (low self-esteem)
+*	Feelings of guilt 
+*	Helplessness
+*	Irritability
+*	Extreme tiredness
+*	Loss of sex drive
+*	Many physical symptoms
+*	Ideas or attempts of self-harm or suicide
+
+In severe cases, depressed people may have symptoms of a psychotic disorder. 
+
+### 1-24 What is anxiety?
+
+Anxiety is characterised by an abnormal and great sense of uneasiness, worry or fear. Symptoms of anxiety include emotional symptoms such as:
+
+*	Nervousness 
+*	Worry 
+*	Panic
+*	Irritability 
+*	Feeling of dread
+*	Tiredness 
+*	Fear of being alone.
+
+Physical symptoms of anxiety include:
+
+*	Sleep disturbance
+*	Physical tension 
+*	Sweating
+*	Increased pulse
+*	Muscle tightness
+*	Body aches or stomach problems (e.g. feeling sick, diarrhoea) 
+*	Difficulty concentrating.
+
+These symptoms are normal if there is a real threat present. However, when someone suffers from these symptoms in response to ordinary events, and the symptoms interfere with daily tasks, then it is known as an anxiety disorder.
+
+> An anxiety disorder is present when a person experiences symptoms of anxiety is response to ordinary life events. 
+
+### 1-25 What are anxiety disorders?
+
+Anxiety disorders are a common group of disorders in pregnant or postnatal women. There are different types of anxiety disorders such as: 
+
+*	Generalised Anxiety Disorder
+*	Obsessive-Compulsive Disorder
+*	Post-Traumatic-Stress Disorder
+*	Tocophobia
+
+### 1-26 What is Generalised Anxiety Disorder?
+
+Generalized anxiety disorder (GAD) is an anxiety disorder that is characterized by excessive, uncontrollable and often irrational worry about many everyday things. The worry often interferes with daily functioning.  People suffering from GAD often anticipate disaster, and are overly concerned about everyday matters such as money, death, family problems, friendship problems, work difficulties or their health. The symptoms must have lasted for at least 6 months for this disorder to be diagnosed. 
+
+### 1-27 What is Obsessive-Compulsive Disorder?
+
+Obsessive-Compulsive Disorder, or OCD, is one of the more common mental illnesses occurring during the perinatal period. Women already suffering from OCD are likely to experience a worsening of symptoms during pregnancy.  
+
+OCD is characterised by obsessive thoughts. In addition, compulsive behaviours are present to relieve the stress associated with the obsessive thoughts. Symptoms can range from mild to severe. Persons with OCD experience ‘obsessive’ or unwanted thoughts that occur repeatedly in their mind. For example, a woman with OCD may have:
+
+*	Constant fears that harm can come to herself or a loved one
+*	An unreasonable concern with becoming sick or infected with a disease
+*	An overwhelming need to do things correctly or perfectly.
+
+The woman experiences the disturbing thoughts again and again. They are unpleasant and they produce high levels of anxiety. These obsessions cause the woman to act out repetitive or ‘compulsive’ behaviours, such as:
+
+*	Washing hands often because of fear of contamination
+*	Checking and re-checking things 
+*	Storing things unnecessarily or excessively 
+*	Counting
+*	Making lists
+*	Repeating phrases to herself
+*	Following certain patterns of behaviour like a ritual.
+
+> Obsessive-Compulsive Disorder is characterised by obsessive thoughts and compulsive behaviour.
+
+The woman performs these behaviours in the belief that these actions will prevent harm to herself or others, such as her child. These patterns provide relief from anxiety for a little while, but this relief is only temporary. These behaviours then become involuntary and difficult to control.
+If severe and left untreated, OCD can severely affect a person’s ability to function at work, school or at home. Sometimes, women with OCD can feel ashamed and are then less likely to look for help. It is therefore important to recognise these symptoms early. OCD can be accompanied by depression, eating disorders, substance use, attention deficit disorder, or another anxiety disorder.
+
+### 1-28 What is Post-Traumatic Stress Disorder?
+
+Post-Traumatic Stress Disorder (PTSD) develops as a result of a traumatic event such as a sexual or physical attack, the unexpected death of a loved one, an accident, war, torture or a natural disaster. The traumatic event is usually associated with serious physical, emotional or psychological harm, or the threat of harm.
+
+Women who have experienced rape, sexual or emotional abuse, crime, torture or war, or previous traumatic birth experiences (such as previous emergency Caesarean section or stillbirth) are particularly at risk of developing PTSD during or after pregnancy. Pregnancy can act as a trigger for negative memories of past traumas.  
+
+PTSD is a common anxiety disorder where a traumatic event or extreme hardship from the past is repeatedly re-experienced emotionally. Symptoms of PTSD include:
+
+*	Repeatedly re-living the traumatic event through realistic nightmares or flash-backs: a mother with PTSD may have very strong mental and physical reactions if reminded of the event, such as sweating, increased heart-rate, screaming and uncontrollable crying.
+*	Avoidance: a mother with PTSD may avoid thoughts, feelings or conversations that remind her of the event. This can lead to her becoming numb to her surroundings, losing interest in important activities and feeling that there is nothing to look forward to in the future.
+*	Increased agitation: she can show excessive emotions, feel that she can never relax and must be on guard all the time; she may have trouble sleeping, be easily startled or ‘jumpy’ and have angry outbursts.  
+
+There are also other physical symptoms, such as:
+
+*	Headaches 
+*	Increased heart rate
+*	Rapid breathing
+*	Muscle tension
+*	Nausea
+*	Diarrhoea or other gastro-intestinal distress
+*	Dizziness
+*	Chest pain
+*	Discomfort in other parts of the body.
+
+PTSD in pregnancy can lead to pre-term delivery. It can also occur at the same time as depression, other anxiety disorders, alcohol or other substance use disorders. 
+
+### 1-29 What is Tocophobia?
+
+Tocophobia is an abnormal and persistent fear of childbirth. It occurs in all cultures and social groups and affects one in seven women. It can be related to previous traumatic birth experiences, sexual abuse or rape or exaggerated stories of painful labour and birth. Sometimes, it can lead to a frightening or traumatic delivery. In such cases:
+
+*	The mother may be ‘uncooperative’ – panicking or displaying aggression
+*	She may experience an obstructed or prolonged labour
+*	She may be at increased risk of needing a Caesarean section.
+
+Note
+:	From the Greek 'tokos' meaning offspring. Therefore, a fear of bearing an offspring.
+
+### 1-30 What is Bipolar Affective Disorder?
+
+A woman who suffers from Bipolar Affective Disorder experiences extreme mood swings, from depression to mania, with a usual recovery stage between the two states. The onset of manic symptoms can be very slow, and can take several weeks or months before it can be recognised. 
+
+Mania refers to an extreme increase in energy and activity. The period during which a person experiences mania is called a manic episode. Common symptoms of mania include:
+
+*	A very happy mood or irritability 
+*	Rapid talking
+*	Not sleeping
+*	Excessive self-esteem
+*	Unrealistic plans or ideas
+*	Spending a lot of money
+*	Increased sexual energy or inappropriate sexual behaviour 
+*	Little understanding that one is behaving in an unusual way.
+
+In some cases there may also symptoms of a psychotic disorder.
+
+### 1-31	What are Psychotic Disorders?
+
+Psychotic disorders are severe mental conditions that cause abnormal thinking and perceptions. People with these psychoses lose touch with reality. Two of the main symptoms are delusions and hallucinations:
+
+*	Delusions are false beliefs, such as thinking that someone is plotting against you or that the TV is sending you secret messages.
+*	Hallucinations are false perceptions not shared by others, such as hearing, seeing, smelling, tasting or feeling something that is not there. They are less common than the non-psychotic disorders but tend to be more severe. 
+
+Other symptoms of psychosis can include: 
+
+*	Strange behaviour e.g. talking to herself or not talking at all
+*	Inappropriate emotions e.g. laughing at something sad
+*	Violent behaviour
+*	Agitation and restlessness
+*	Blunted behaviour (very slow and restricted movements)
+*	Poor concentration 
+*	Lack of motivation
+*	Social withdrawal 
+*	Ignoring responsibilities at work or at home.
+
+The psychotic beliefs are very real to a person, and cannot be overcome through reasoning. Also, hallucinations, such as hearing voices, can feel very real and frightening to the person. For example, it is not uncommon for these voices to ‘instruct’ to self-harm or harm others. Remember that a woman who hears voices might look like she is talking to herself, but in fact she is answering the voices.
+Psychotic symptoms can also lead to difficulties with social interactions. A person with severe symptoms can also have problems with carrying out daily activities.
+
+Schizophrenia is one type of psychotic disorder. People with bipolar affective disorder may also have psychotic symptoms. Other problems that can cause psychosis include alcohol, illicit drugs, some medications, brain tumours, brain infections and stroke. 
+
+Treatment depends on the cause of the psychosis. It might involve medication to control symptoms and counselling therapy. Hospitalization is an option for serious cases where a person might be dangerous to themself or to others.
+
+### 1-32 What is Postnatal Psychosis?
+
+Postnatal psychosis is the term used to describe the onset of psychotic symptoms following childbirth. It is the most common psychotic disorders in the time after birth. However, other mental conditions, such as schizophrenia, Bipolar Affective Disorder, or Alcohol or Substance Use Disorders, can also lead to psychotic symptoms. The onset (how quickly the symptoms appear) of postnatal psychosis is often sudden, within a week of birth, and can become severe quickly. 
+
+Psychotic symptoms in the postnatal period often relate to the circumstances at the time. For example:
+
+*	The mother may believe her partner or the health-workers are trying to harm her.
+*	The mother may believe that the baby is evil and dangerous. 
+
+### 1-33 What are Alcohol and Substance Use Disorders?
+
+Some women may try to cope with stress, anxiety or depression by taking alcohol or other types of substances. For this reason, it is common for women who suffer from a mental illness to also present with alcohol and substance use disorders. On the other hand, alcohol and substance use can also lead to the development of a mental disorder or symptoms of mental illness (e.g. depression, hallucinations, memory loss).
+
+Dependence refers to when a person starts using alcohol or substances and develops an uncontrollable need to continue, both physically and psychologically. When a person is dependent and stops drinking alcohol or taking substances, the person shows withdrawal symptoms such as:
+
+*	Trembling hands
+*	Sweating
+*	Vomiting
+*	Agitation.
+
+On examination they often have an increased heart rate and blood pressure.
+
+It is commonly accepted by health workers that any use of alcohol or substances during pregnancy is not recommended, in particular for the development and outcomes of the fetus. However, the use of alcohol or other substances becomes particularly harmful to a woman when: 
+
+*	It is a problem at work, at home, with friends or in the community, for example violent and aggressive behaviour (e.g. getting into fights) or not being able to care for children.
+*	It has negative effects on her physical health, for example confusion, blackouts, liver or heart disease, sleep problems.
+*	The woman is physically and mentally dependent on the substance.
+*	Financial problems and poverty are made worse due to the cost of alcohol and/or substances and the inability to work.
+
+During pregnancy, it has been shown that women can be particularly motivated to quit or reduce the use of alcohol and substances. This provides health workers a valuable opportunity to intervene at this time. The motivational interviewing technique may be very effective. 
+
+### 1-34 What is the meaning of co-morbid?
+
+Co-morbidity refers to the presence of two or more mental or physical disorders at the same time. Often co-morbid disorders affect each other negatively.
+
+It is possible for a woman to suffer from both depression and another mental disorder at the same time, such as anxiety or alcohol and substance use disorder. In this case, a combination of symptoms from different disorders will be present. All of them must be addressed and treated to improve the woman’s mental health.
+
+## Case study 1
+
+A pregnant woman booking at a clinic is crying quietly during the examination. The nurse asks her if she is in pain. The patient says that her body aches all over, she just can’t stop crying and feels unhappy all the time. She says she has been feeling this way for the last month and finds it difficult to get up and dressed in the mornings. The nurse cannot find a physical cause for the pain. 
+
+### 1.	What is mental health?
+
+Mental health describes a person’s emotional wellness and their ability to enjoy life. It is more than the absence of a mental disorder. It refers to a person having a sense of purpose and a sense of connectedness to others. This patient does not have good mental health.
+
+### 2.	What is mental illness?
+
+Mental illness refers to any long term psychological or emotional condition which prevents a person from functioning ‘normally’. Mental illness can disrupt a person’s thoughts, emotions or behaviour. 
+
+### 3.	How common is mental illness during pregnancy?
+
+Nearly half of poor pregnant women in South Africa experience depression or anxiety during or after their pregnancy.
+
+### 4.	As the nurse cannot find a physical cause for the pain, should she take this seriously?
+
+Yes, mental illness could lead to suicide. Maternal mental illness also negatively affects the fetus and child. 
+
+### 5.	What might be wrong with this patient?
+
+She could be suffering from a mental illness such as depression. She is crying, feels unhappy and is not able to function properly. Her body aches, but there does not seem to be a physical cause for this – and it has gone on for a long time.
+
+## Case study 2
+
+An HIV positive teenager, with an unplanned pregnancy has booked for antenatal care late in her pregnancy. She is withdrawn and barely answers the nurse’s questions. The nurse thinks she is behaving like a typically rude teenager.    
+
+### 1.	What risk factors for mental illness does this patient have?
+
+*	She is a teenager
+*	She is HIV positive
+*	Her pregnancy was not planned
+
+### 2.	What might her behaviour indicate?
+
+Her behaviour could indicate low mood and loss of interest and enjoyment in life. These are symptoms of depression.
+
+### 3.	What would the nurse need to find out in order to identify mental distress or a mental disorder?
+
+She would need to find out about the patient’s mood, functioning and how long she has had the symptoms for. 
+
+### 4.	If the patient is suffering from a mental disorder, what would the most common mental disorders be?
+
+The most common mental disorders during pregnancy are depression and anxiety.
+
+### 5.	If she was suffering from anxiety, what symptoms would the nurse need to look out for?
+
+Common psychological symptoms of anxiety include:
+
+*	Nervousness 
+*	Worry 
+*	Panic
+*	Irritability 
+*	Feeling of dread
+*	Tiredness 
+*	Fear of being alone.
+
+Common physical symptoms of anxiety include:
+
+*	Sleep disturbance
+*	Physical tension 
+*	Sweating
+*	Increased pulse
+*	Muscle tightness
+*	Body aches or stomach problems (e.g. feeling sick, diarrhoea) 
+*	Difficulty concentrating.
+
+## Case study 3
+
+A mother comes into the clinic with a week-old baby. The baby is sick and has rapid breathing. The mother is told that the baby will need to go to hospital for treatment. The mother starts crying. 
+
+### 1.	Do you think that this mother’s crying indicates mental illness?
+
+No, the situation of baby needing to go to hospital is distressing for the mother. Mental distress would be appropriate and would not indicate a mental illness. 
+
+### 2.	If the mother has been having mood swings and crying a lot since the baby was born, what could this indicate?
+
+Mood swings and crying in the week or 2 after the birth of the baby could be symptoms of ‘The Baby Blues’. 
+
+### 3.	If the mother was unhappy during her pregnancy, and been crying a lot over the past few months, what could this indicate?
+
+Distress and crying over a long period of time could indicate a mental disorder. 
+
+### 4.	If crying is a symptom of a mental disorder, what would the most common disorder be?
+
+Depression
+
+### 5.	What are other symptoms that could indicate depression?
+
+Common symptoms of depression include:
+
+*	Extreme sadness, tearfulness
+*	Difficulty in concentrating, forgetfulness
+*	Disturbed appetite or sleep (too much or too little)
+*	Thoughts that one is worthless (low self-esteem)
+*	Feelings of guilt 
+*	Helplessness
+*	Hopelessness about the future 
+*	Irritability
+*	Extreme tiredness
+*	Loss of sex drive
+*	Many physical symptoms
+*	Ideas or attempts of self-harm or suicide.
+
+
+## Case study 4
+
+A pregnant woman comes to the clinic for an antenatal visit. She tells the nurse on duty that she cannot move forward in the queue until the man stops talking to her. She mentions that she has ants crawling under her skin. The nurse cannot hear or see a man talking to her. The nurse notices that the woman’s hands are shaking, she is sweating and on examination her blood pressure is high.  
+
+### 1.	What symptoms of mental illness is this woman showing?
+
+She is out of touch with reality – hearing voices and seeing people
+
+### 2.	What kind of disorder is this a symptom of?
+
+Psychotic disorder
+
+### 3.	What does co-morbid mean?
+
+Symptoms of two different disorders present at the same time. 
+
+### 4.	If the nurse notices physical symptoms that could indicate substance withdrawal, could this patient have 2 mental disorders?
+
+Yes, withdrawal from alcohol or substance abuse could lead to hallucinations and psychosis. 
+
+### 5.	What would indicate that using alcohol or substances was a mental disorder?
+
+When a person is dependent on alcohol or drugs and needs them – both psychologically and physically – then this is a mental disorder. 
+
+## Case study 5
+
+A young woman seems very distressed during labour. She is agitated, screaming and crying, and will not let the midwife perform an internal examination. A friend, who is with her, tells the midwife that the patient became pregnant because she was raped. 
+
+### 1.	What symptoms of distress is this patient showing?
+
+She is agitated, screaming and crying and not wanting the midwife to perform an internal examination. 
+
+### 2.	What mental disorder could this patient be suffering from?
+
+Post-traumatic stress disorder
+
+### 3.	Why do you think she is so agitated?
+
+As she was raped, being asked to open her legs for an internal examination may trigger terrible memories of the time when she was raped. She could experience flashbacks of the rape. This may increase her heart rate and make her very tense. 
+
+### 4.	What other features of post-traumatic stress disorder could the woman have shown during pregnancy?
+
+*	She may have had flashbacks or nightmares.
+*	She may have avoided coming to the clinic. 
+*	She may have had angry outbursts at the antenatal visits. 
+
+### 5.	What events could cause refugee women to experience post-traumatic stress disorder?
+
+They may have experienced physical violence, torture, rape, witnessed brutality or lost loved ones. 
