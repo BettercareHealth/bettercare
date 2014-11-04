@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 1D. Skills workshop on screening tests for syphilis
 layout: chapter
 ---

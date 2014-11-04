@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 1A. Skills workshop on general examination at the first antenatal visit
 layout: chapter
 ---

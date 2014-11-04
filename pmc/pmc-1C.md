@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 1C. Skills workshop on vaginal examination in pregnancy
 layout: chapter
 ---

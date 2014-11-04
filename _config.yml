@@ -1,5 +1,7 @@
-name: "Bettercare"
-description: "Bettercare coursebooks"
+publisher: "Bettercare"
+publisher-url: "http://bettercare.co.za"
+name: "Bettercare books"
+description: "Self-managed-learning coursebooks for healthcare professionals"
 
 url: http://localhost:4000
 baseurl: /bettercare

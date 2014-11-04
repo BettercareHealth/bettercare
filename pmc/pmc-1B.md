@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 1B. Skills workshop on examination of the abdomen in pregnancy
 layout: chapter
 ---

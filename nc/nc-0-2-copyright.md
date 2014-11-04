@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: Copyright
 layout: frontmatter
 ---

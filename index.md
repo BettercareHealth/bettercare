@@ -1,6 +1,6 @@
 ---
 title: Bettercare
-layout: default
+layout: index
 ---
 
 # Bettercare books
@@ -9,3 +9,7 @@ The content here is for development and testing purposes only. For up-to-date me
 
 * [Newborn Care](nc/nc-0-3-contents.html)
 * [Primary Maternal Care](pmc/pmc-0-3-contents.html)
+
+## In development
+
+* [Maternal Mental Health](mmh/mmh-0-3-contents.html)

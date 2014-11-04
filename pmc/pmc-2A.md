@@ -1,4 +1,5 @@
 ---
+book: Primary Maternal Care
 title: 2A. Skills workshop on routine use of the antenatal card
 layout: chapter
 ---

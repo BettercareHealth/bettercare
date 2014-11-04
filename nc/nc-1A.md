@@ -1,4 +1,5 @@
 ---
+book: Newborn Care
 title: 1A. Skills workshop on Neonatal resuscitation
 layout: chapter
 ---
