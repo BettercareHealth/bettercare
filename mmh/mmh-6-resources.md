@@ -29,7 +29,8 @@ This section provides copies of the screening tools discussed in this book, info
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French.  
 *	Information about how to score each screening tool can be found in Chapter 2. 
 
-### The Whooley Depression Screen (English)
+The Whooley Depression Screen (English)
+{:.table-caption}
 
 |---+-----------------------------------------------------------------------------------------------+---------+--------|
 |   |                                           Question                                            | **Yes** | **No** |
@@ -39,7 +40,8 @@ This section provides copies of the screening tools discussed in this book, info
 | 3 | Is this something you feel you need or want help with?                                        | Yes     | No     |
 |---+-----------------------------------------------------------------------------------------------+---------+--------|
 
-### The Whooley Depression Screen (Afrikaans)
+The Whooley Depression Screen (Afrikaans)
+{:.table-caption}
 
 |---+----------------------------------------------------------------------------------------------------------+----+-----|
 |   |                                                  Vraag                                                   | Ja | Nee |
@@ -49,7 +51,8 @@ This section provides copies of the screening tools discussed in this book, info
 | 3 | Voel jy dis iets waarmee hy hulp benodig het, of hulp mee wil hê?                                        | Ja | Nee |
 |---+----------------------------------------------------------------------------------------------------------+----+-----|
 
-### The Whooley Depression Screen (IsiXhosa)
+The Whooley Depression Screen (IsiXhosa)
+{:.table-caption}
 
 |---+----------------------------------------------------------------------------------------------------------------------------------------+-----+------|
 |   |                                                                 Umbuzo                                                                 | Ewe | Hayi |
@@ -59,7 +62,8 @@ This section provides copies of the screening tools discussed in this book, info
 | 3 | Ingaba lento uziva ufuna / udlinga unceolo ngayo na?                                                                                   | Ewe | Hayi |
 |---+----------------------------------------------------------------------------------------------------------------------------------------+-----+------|
 
-### The Whooley Depression Screen (French)
+The Whooley Depression Screen (French)
+{:.table-caption}
 
 |---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
 |   |                                                         Question                                                          | Oui | Non |
@@ -69,9 +73,10 @@ This section provides copies of the screening tools discussed in this book, info
 | 3 | Voulez-vous ou avez-vous besoin d’aide avec ces sentiments-là?                                                            | Oui | Non |
 |---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
 
-### Edinburgh Postnatal Depression Scale (EPDS) (English)
+Edinburgh Postnatal Depression Scale (EPDS) (English)
+{:.table-caption}
 
-*My feelings now that I am pregnant/have had a baby.*
+#### My feelings now that I am pregnant/have had a baby.
 
 As you are pregnant/have had a baby, we would like to know how you are feeling. It may assist us in choosing the best care for your needs. The information you provide us will be kept private and confidential. 
 
@@ -132,11 +137,12 @@ There is a choice of four answers for each question. Please mark the one that co
 |    | Never                                                                | 0 |
 |----+----------------------------------------------------------------------+---|
  
-*Thank you*
+Thank you
 
-### Edinburgh Postnatal Depression Scale (EPDS) (Afrikaans)
+Edinburgh Postnatal Depression Scale (EPDS) (Afrikaans)
+{:.table-caption}
 
-*My gevoelens nou dat ek swanger is/my baba gekry het.*
+#### My gevoelens nou dat ek swanger is/my baba gekry het.
 
 Nou dat jy swanger is/die baba het, wil ons graag weet hoe jy voel. Dit mag ons help om die beste sorg vir jou behoeftes te beplan. Die inligting wat jy aan ons verskaf sal privaat en vertroulik hanteer word.
 
@@ -199,11 +205,12 @@ hoe jy nou vandag voel nie.
 |    | Nooit                                                                           | 0 |
 |----+---------------------------------------------------------------------------------+---|
 
-*Baie dankie*
+Baie dankie
 
-### Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
+Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
+{:.table-caption}
 
-*Indlela endiziva ngayo ngexa ndikhulelweyo naxa disasandula ukufumana umntwana.*
+#### Indlela endiziva ngayo ngexa ndikhulelweyo naxa disasandula ukufumana umntwana.
 
 Njengokuba ukhulelewe okanye usandula ukufumana usana sifuna ukwazi ukuba uziva njani. Oko kungasinceda ukukhetha eyona ndlela esingathi sincedisane nemfuno zakho. Yonke inkcazelo oyakuthi usinike yona izakugcinwa iyimfihlo.
 	
@@ -264,11 +271,12 @@ Kunentlobo ezine zempendulo kumbuzo ngamnye, Nceda yenza isangqa kwenye ethe yas
 |    | Ayizange                                                                              | 0 |
 |----+---------------------------------------------------------------------------------------+---|
 
-*Enkosi kakhulu*
+Enkosi kakhulu
 
-### Edinburgh Postnatal Depression Scale (EPDS) (French) 
+Edinburgh Postnatal Depression Scale (EPDS) (French) 
+{:.table-caption}
 
-*Mes sentiments, maintenant que je suis enceinte/que j’ai un bébé.*
+#### Mes sentiments, maintenant que je suis enceinte/que j’ai un bébé.
 
 Comme vous êtes enceinte/vous avez un bébé, nous aimerions savoir comment vous vous sentez. Cela nous aidera à choisir les meilleurs soins dont vous avez besoin. Les renseignements que vous nous fournirez demeureront privés et confidentiels.
 
@@ -329,11 +337,12 @@ Il y a un choix de quatre réponses pour chaque question. Encerclez celle qui se
 |    | Jamais                                                                                 | 0 |
 |----+----------------------------------------------------------------------------------------+---|
 
-*Merci*
+Merci
 
-### Risk Factor Assessment (RFA) (English)
+Risk Factor Assessment (RFA) (English)
+{:.table-caption}
 
-*My situation now that I am pregnant/have had my baby:*
+#### My situation now that I am pregnant/have had my baby:
 
 We are interested to find out how your situation is in your pregnancy/now that you have had your baby. This questionnaire may help us suggest extra care for you if necessary. Your answers will be kept confidential. Please answer either yes or no to the following questions. Tick the box.
 
@@ -353,11 +362,12 @@ We are interested to find out how your situation is in your pregnancy/now that y
 | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
 |----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
 
-*Thank you*
+Thank you
 
-### Risk Factor Assessment (RFA) (Afrikaans)
+Risk Factor Assessment (RFA) (Afrikaans)
+{:.table-caption}
 
-*My situasie nou dat ek swanger is/my baba gekry het.*
+#### My situasie nou dat ek swanger is/my baba gekry het.
 
 Ons stel daarin belang om uit te vind wat jou situasie is in jou swangerskap. Hierdie vrae kan ons help om moontlik extra hulp vir jou aan te bied indien nodig. Jou antwoorde sal vetroulik hanteer word.
 
@@ -379,11 +389,12 @@ Antwoord asseblief Ja of Nee op die volgende vrae. Maak ‘n kruisie.
 | 11 | Ek het van te vore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                      |     |    |
 |----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
 
-*Dankie*
+Dankie
 
-### Risk Factor Assessment (RFA) (isiXhosa)
+Risk Factor Assessment (RFA) (isiXhosa)
+{:.table-caption}
 
-*Imeko endikuyo njengokuba ndikhulelwe/naxa ndifumene umntwana.*
+#### Imeko endikuyo njengokuba ndikhulelwe/naxa ndifumene umntwana.
 
 Sinomdla wokwazi injani imeko okuyo njengokuba ukhulelewe okanye ufumene umntwana. Lemibuzo ingasinceda ukuthi sikwazi ukukubonelela ngoncedo xa kuyimfuneko. Impendulo yakho iyakugcinwa iyimfihlo. Nceda phendula apha Ewe okanye Hayi kulemibuzo ilandelayo. Hlaba kwibhokisi.
 
@@ -404,11 +415,12 @@ Sinomdla wokwazi injani imeko okuyo njengokuba ukhulelewe okanye ufumene umntwan
 |    |                                                                                                                                                                                                |     |      |
 |----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
 
-*Enkosi*
+Enkosi
 
-### Risk Factor Assessment (RFA) (French)
+Risk Factor Assessment (RFA) (French)
+{:.table-caption}
 
-*Ma situation, maintenant que je suis enceinte/que j’ai un bébé.*
+#### Ma situation, maintenant que je suis enceinte/que j’ai un bébé.
 
 Nous aimerions connaître votre situation durant votre grossesse. Ce questionnaire nous aidera à suggérer des soins supplémentaires pour vous, si  c’est nécessaire. Vos réponses seront confidentielles.
 
@@ -428,7 +440,7 @@ Nous aimerions connaître votre situation durant votre grossesse. Ce questionnai
 | 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   |     |     |
 |----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
 
-*Merci*
+Merci
 
 ## 2.	Termination of Pregnancy Services
 
@@ -697,6 +709,9 @@ This evaluation form helps to see if your referral has been useful.
 
 After referring your client, complete a “follow-up” evaluation using the form below. 
 
+Follow-up referral evaluation form
+{:.table-caption}
+
 |----------------------------------------------------+-----+----|
 |              Referral Evaluation Form              |     |    |
 |----------------------------------------------------+-----+----|
@@ -733,6 +748,9 @@ After referring your client, complete a “follow-up” evaluation using the for
 |----------------------------------------------------+-----+----|
 
 ## 8.	South African national helplines
+
+South African national helpline contact numbers
+{:.table-caption}
 
 |-------------------------------------------------------------+-------------------------------------|
 |                        Organisation                         |               Number                |

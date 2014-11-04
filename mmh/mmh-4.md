@@ -440,7 +440,8 @@ Active listening is paying careful attention to what someone is saying, as well 
 
 Listening requires more than just hearing what the mother is saying. It involves observing other aspects of her behaviour. The image below summarises the many ways all the senses are used to really listen to a client. 
 
-**Active listening skills**
+Active listening skills
+{:.table-caption}
 
 |-------------------------+------------------------------------------------------------------|
 | Active listening skills                                                                    |
@@ -534,6 +535,9 @@ Giving feedback also gives the health worker the opportunity to validate the mot
 
 ### 4-40 What are the guidelines for listening and responding?
 
+Guidelines for listening and responding
+{:.table-caption} 
+
 |---------------------------------------------------------------+------------------------------------------------|
 |                              Do                               |                     Don't                      |
 |---------------------------------------------------------------+------------------------------------------------|
@@ -552,6 +556,9 @@ Giving feedback also gives the health worker the opportunity to validate the mot
 ### 4-41 How could you respond if she says the following?
 
 The table below gives some examples and possible responses to comments that might be made by mothers that health workers are listening to: 
+
+Responding appropriately
+{:.table-caption}
 
 |--------------------------------------------------+-----------------------------------------------------------------------------|
 |                  If she says                     |                               You could say                                 |

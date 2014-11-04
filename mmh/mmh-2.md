@@ -228,7 +228,8 @@ A tool is validated when that the tool has been tested against a diagnostic ‘g
 
 The Whooley Depression Screen is a set of 3 questions that have been used to assess whether a person is likely to be suffering from depression. 
 
-**The Whooley Depression Screen**
+The Whooley Depression Screen
+{:.table-caption}
 
 |---+-----------------------------------------------------------------------------------------------+---------+--------|
 |   |                                           Question                                            | **Yes** | **No** |
@@ -257,7 +258,8 @@ Health workers may use this questionnaire but only if it is copied and used in f
 Note
 :	The version of the EPDS provided here has been adapted for use in South Africa, and specifically for use in a Midwife Obstetric Unit in Cape Town. It is based on the work of: *Cox JL, Holden JM & Sagovsky R (1987) Detection of postnatal depression, development of the 10 item postnatal depression scale. British Journal of Psychiatry. 150: 782-6*. 
 
-**The Edinburgh Postnatal Depression Scale**
+The Edinburgh Postnatal Depression Scale
+{:.table-caption}
 
 *As you are pregnant or have had a baby, we would like to know how you are feeling. It may help us in choosing the best care for your needs. The information you provide us will be kept private and confidential.* 
  
@@ -351,7 +353,8 @@ If the mother gives an answer with a score of 1, 2 or 3 to question 10, you shou
 
 This questionnaire was developed by the Perinatal Mental Health Project (PMHP) in Cape Town. While the EPDS screens for depression and anxiety, the RFA questionnaire assesses the risk factors for depression and anxiety. This is a screening tool which is quick and easy to use in busy settings. It identifies women who are at increased risk of developing depression or anxiety during or soon after pregnancy, whether or not they feel or appear well. It is important to note that this tool has not yet been validated like the EPDS. However, it has been developed based on international research and on the PMHP experience with women during and after pregnancy. Research shows that it is better to screen for both mood symptoms and risk factors. It could be helpful to combine the EPDS with the RFA tool, although this may take too long for some settings.
 
-**Risk Factor Assessment**
+Risk Factor Assessment
+{:.table-caption}
 
 *We are interested to find out how your situation is in your pregnancy. This questionnaire may help us suggest extra care for you, if necessary. Your answers will be kept confidential. Please answer either yes or no to all the following questions. Tick the box.*
 
@@ -388,6 +391,9 @@ Score the answers.
 
 *	YES answers to these questions indicate the woman is at risk. Give a score of 1 for each of these questions if the answer is YES. 
 *	NO answers to these questions indicate low risk. Give a score of 0 for each of these questions if the answer is NO.
+
+Scoring
+{:.table-caption}
 
 |----------+-------+-------|
 | Question |  Yes  |  No   |

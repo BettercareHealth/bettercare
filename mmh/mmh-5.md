@@ -524,7 +524,8 @@ Some potential reasons for a high suicide rate among pregnant women are:
 
 There are many stories about suicide and the type of people who commit suicide, and those who do not. Some of these are incorrect, as can be seen in the table below.
 
-**Common myths about suicide**
+Common myths about suicide
+{:.table-caption}
 
 |------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                               Incorrect                                |                                                                                                                                                                    Correct                                                                                                                                                                    |
