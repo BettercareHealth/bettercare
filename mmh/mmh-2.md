@@ -1,0 +1,632 @@
+---
+book: Maternal Mental Health
+title: 2. Identifying maternal mental illness
+layout: chapter
+---
+
+2
+{:.chapter-number}
+
+# Identifying maternal mental illness
+
+Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
+
+## Objectives:
+
+When you have completed this unit you should be able to:
+
+*	Understand why mental illness is often overlooked
+*	Define stigma
+*	Understand how emotions influence physical health
+*	Understand how patients may think about and express mental distress
+*	Understand when and how to screen for mental illness
+*	Use the Whooley screening tool to screen for depression and anxiety
+*	Use the Edinburgh Postnatal Depression Scale  to screen for depression and anxiety
+*	Use the Risk Factor Assessment to asses risk factors for anxiety and depression.
+
+## Challenges in identifying maternal mental illness
+
+### 2-1 Why is mental illness often overlooked?
+
+Many people do not understand what mental illness is, nor that it can be successfully treated. When people feel very down or worried for long periods of time, they often believe that this is ‘normal’ for them; that nothing can be done to help them feel better or that it is their own fault. Mental illnesses may not be recognised because of stigma, lack of knowledge about mental health and because of isolation. Health workers may feel uncomfortable to address the mental distress in their patients because the health workers themselves don’t feel confident with their clinical skills. Also, they may be afraid that the distress in others may make them think about their own distress.
+
+### 2-2 What is stigma?
+
+Stigma is a severe social disapproval of personal characteristics or beliefs.  People with mental illness experience a great deal of stigma, which adds to the negative outcomes of the disorders. Some women may not want to report that they are feeling psychologically unwell because they feel ashamed.  They fear that their baby will be taken away from them. Health workers can also disapprove of people with mental illness, and as a result, do not feel comfortable giving care to them. 
+ 
+### 2-3 How do emotions influence physical health?
+
+Most health workers have been trained in a way that separates physical problems from how women feel emotionally. This can lead to the diagnosis and management of physical symptoms without understanding the influence of psychological factors. Sometimes, physical symptoms result from mental illness. For example: 
+
+*	Abdominal pains and diarrhoea could be symptoms of anxiety 
+*	Headaches, chest pain and nausea could also be signs of anxiety, particularly Post-Traumatic Stress Disorder 
+*	Prolonged labour could indicate the presence of Tocophobia, which is an extreme fear of labour 
+*	Chronic aches and pains can be symptoms of depression.
+
+### 2-4 How do physical health problems influence mental health?
+
+Physical illness and the treatment for it, can affect the way people think and feel. A serious illness can make them feel sad, frightened, worried or angry. Some physical health problems like anaemia or an under-active thyroid may affect brain function and cause depression. Some drug treatments, such as steroids, may also  affect the way the brain functions and can cause anxiety and depression. If people feel out of control of their bodies and situations, the may feel that there is nothing that can be done. A feeling of hopelessness can make people feel depressed. 
+
+### 2-5 Why are women more isolated during pregnancy?
+
+Isolation refers to a lack of social interactions, contacts and relationships. This can happen even if someone is physically surrounded by people.
+
+Pregnant women’s social networks change because they are no longer at work or at school. Some women may no longer have the support of parents or close relatives, such as women whose family disapprove of their pregnancy, or women who have been abandoned by their partners or refugees who have fled from other countries. It is also common for rural women to leave their families and move to urban areas during pregnancy to access maternity care. This means that there may not be anyone around to notice a mother’s change in mood and emotional well-being, to provide support or to assist her in getting help. 
+
+### 2-6 Does everyone talk about mental illness in the same way?
+
+The way people experience both physical and mental illness is linked to their social and cultural backgrounds and the language they use to describe it. Doctors, nurses and health workers are usually trained to understand illnesses in a medical sense. People who are not health workers, or who come from other cultures, may have a different way of understanding illnesses. This means that some people might describe mental illness in different ways than you would. For example:
+
+*	Some people believe mental illness is a result of bewitchment, curses, spirits, anger of ancestors or a punishment from god.
+*	Some people believe that a traditional or religious ritual may be required to try to overcome the mental illness.
+
+### 2-7 How might mental distress present through physical symptoms?
+
+Whether a women is from a different culture of not, they may talk of mental illness in physical terms.  A reason for this is that it may be easier for some women to discuss physical problems compared to emotional or mental ones. In the same way, health workers sometimes prefer, and find it easier, to deal with physical problems, compared to mental ones. 
+
+A woman may use physical health problems as a ‘call for help’ from health workers. This may be her way of making contact with a health worker whom she believes can help her with her ‘real’ underlying problem. Or, she may not be aware that there is an emotional part to her physical problem.
+
+Look out for these presenting symptoms which could indicate mental distress:
+
+*	Fear, ‘butterflies’, worrying about things and aggression could indicate anxiety.	
+*	Tiredness or a lack of energy could indicate depression.
+*	Stories about problems with relationships, work or with other children could indicate depression or anxiety.
+*	General words such as ‘stress’ or ‘worry’ or ‘thinking too much’ are also often used to indicate emotional distress.
+
+Health workers need to be able to identify symptoms of the different types of mental illness. It is important to note that the symptoms of mental health problems can be confused with many of the usual physical symptoms of pregnancy. Or, that physical health problem may be made worse by mental distress.
+
+### 2-8 How do you know when mental distress needs to be addressed?
+
+Changes in sleep or appetite, aches, pains and tiredness are common symptoms in pregnant women, but they can also indicate possible mental distress or illness. Mental distress can also make the experience of these common physical symptoms much worse.
+
+1.	A health worker needs to be able to tell which women are experiencing the ‘usual minor’ complications of pregnancy and which women need help for their emotional wellbeing. Below are some useful tips for picking up mental distress and mental illness:    
+	*	Does the mother return frequently with a range of different physical symptoms, such as vague aches and pains?
+	*	Has she visited many different health workers?
+	*	Does she present with false labour? This may be a sign of underlying distress.
+	*	A woman’s body language and behaviour can often show that she is ‘sad’ or ‘worried’. For example:
+		*	Is she taking care of her appearance?
+		*	What is her facial expression like? Does she look sad or distressed?
+		*	What does her voice sound like? Does she sound distressed?
+		*	Does she avoid eye-contact? 
+		*	What is her posture like? How does she move her body?
+		*	Does she seem unhappy?
+2.	Another sign could be that the mother is talking about many other problems in her life, and not just her health. These can include:
+	*	Work issues
+	*	Problems with relationships
+	*	Problems with her other children.
+3. The interaction between the mother and the baby can give you clues about her emotional state. 
+
+### 2-9 How can the interaction between a mother and her baby suggest she may be suffering from mental distress?
+
+The mother could be experiencing mental distress if:
+
+*	Breastfeeding is difficult, especially if the difficulty is related to low self-esteem, hopelessness or excessive worrying
+*	The mother does not play or communicate with her baby
+*	The mother shows hostility towards the baby
+*	The mother’s interaction with her baby is either remote or too intense 
+*	The mother repeatedly describes the baby as ‘irritable’, ‘fussy’, ‘difficult’ or ‘colicky’.
+
+### 2-10 What is the 'door handle' sign?
+
+Often, the real problem is only revealed when the woman has her hand on the door handle. She is about to leave and so feels that it is safe to raise her real problems. She then has the option of ‘running away’ or avoiding the problem because she is halfway out the room. This can be the most important part of the consultation. By gently drawing the woman back into the room and consultation, she may be able to open the discussion on the ‘real’ problem. 
+
+### 2-11 Why is it important to diagnose mental illness early?
+
+It is extremely important to diagnose mental illness in pregnant women and mothers as early as possible. There are effective treatment options available, which can lead to long-term benefits for the mother and child. Without treatment, the mother’s mental illness may become worse. This can have several negative outcomes, such as: 
+
+*	Increasing suicide risk
+*	Increasing the chances of substance or alcohol misuse
+*	Increasing the risk of harming the child (infanticide or child abuse)
+*	The infant failing to thrive (not growing)
+*	Poor cognitive (intellectual) development in the infant 
+*	Difficulties forming an attachments between mother and child (poor bonding)
+*	Behavioural problems in the child
+*	Mental illness in the child which could continue into childhood and adolescence.
+
+### 2-12 How can health workers help women with mental health problems?
+
+Women who are distressed or suffer from a mental health problem need someone who can listen, guide them and provide information. They can feel isolated and vulnerable and need to be encouraged to make social connections to form support systems. They require different types of treatment and care, depending on the severity or level of their distress.
+
+Information can empower women and help them to feel in control of their situation. Listening skills and empathy are also vital tools to help mothers in distress.  
+
+### 2-13 Is mental illness more common for women during or after pregnancy than at other times in their lives? 
+
+Research has shown that women experience a high rate of onset (increased number of new cases) of mental illness during or after pregnancy than at other times in their lives. 
+
+## Screening for common maternal mental disorders (depression and anxiety)
+
+### 2-14 What is screening?
+
+Screening is a strategy used to detect a person with high chance of illness or risk of illness in a large group of individuals, such as mothers attending antenatal clinics. Mental health screening is usually done using a questionnaire. 
+
+### 2-15 What is a screening questionnaire and a cut-off score?
+
+A screening questionnaire asks a set of questions. The answer to each question get a score, and the scores are then added together to give a total score. The cut-off score is the total score that indicates if someone is likely to have a mental illness or not. If the woman screens positive, her total score is above the cut-off score. This means that it is likely that she has mental illness, but this is not definite (suggests but does not prove that she has a mental illness). If someone screens negative, her total score is below cut-off score. It is likely that she does not have mental illness, but again this is not definite. Your certainty in either case depends on the screening tool used and the population being screened. A mental health diagnosis can only be made by a mental health professional or by a diagnostic assessment. 
+
+Therefore, screening tools identify individuals who need further testing to determine whether they have an illness. This is important as it is not possible nor practical to do a diagnostic assessment on everyone.
+
+### 2-16 What are the positive impacts of screening?
+
+There are a number of benefits to providing mental health screening in the maternal and child health setting during pregnancy or in the postnatal period:
+
+*	Identifying a mental illness can stop it from getting worse
+*	Screening for risk of a mental illness could prevent the illness from occurring, if the risk factor is addressed
+*	Screening occurs in a familiar and non-threatening environment
+*	Women can avoid the stigma associated with seeking help for mental health problems
+*	Women do not have to spend extra time and money to access mental health care
+
+### 2-17 What should be considered before screening?
+
+Before screening can be started, a referral system must be in place so that those women who are identified as being at risk or experiencing symptoms of mental illness can be appropriately referred to support groups, counsellors, psychiatrists, mental health nurses, social workers or other appropriate services.
+
+### 2-18 Who should be screened?
+
+Ideally every antenatal woman should be screened. However, your clinic or facility may not be able to screen all women who are attending antenatal care.  Where there are not enough resources, certain high-risk groups may be selected for screening. High-risk groups that could be prioritised for screening include: 
+
+*	Adolescents
+*	HIV-positive women
+*	Poor women
+*	Women with social problems
+*	Women that are ‘worrying’ or who seem ‘stressed’ 
+*	Women with a past or present history of mental illness
+
+### 2-19 How should screening be done?
+
+To ensure confidentiality, the screening should be conducted privately.  Give the mother the choice of filling the form in either by herself, with support, or verbally with you filling in the answers.  
+
+### 2-20 How should you explain why are you screening?
+
+It is necessary to explain to the mother why you are asking these questions or asking her to fill in the questionnaire.  A useful thing to say is that you are concerned about all mothers’ mental health in addition to their physical health. Explain to her that the questionnaires could help you to know if she needs some extra support. This support may not be available at your facility, but by finding out what she needs, you can refer her properly. 
+
+Some examples of what you could say to the mother:
+
+*	Here at ______ clinic we are not only interested in your physical health, we are also interested in your emotional well-being.
+*	The questionnaire helps us to know how you are feeling inside.
+*	The questionnaire helps us decide whether we should offer you extra support, for example, counselling.
+
+### 2-21 Is the screening voluntary?
+
+You may need to tell the mother that she does not have to answer the questions. If she chooses not to, it is a good thing to assure the mother that she will still receive good care. Assure her that it is her own decision to make. She can always change her mind and be screened at a later visit if she wishes.
+
+### 2-22 What is confidentiality?
+
+Confidential means that the information the mother gives to you remains private. Only authorised health workers will have access to this information when it is necessary for her care. It should be made clear that you will not discuss this information with her partner, family, friends, or anyone other than those involved in her health care.
+
+If possible, arrange for the forms to be stored in a locked cabinet, and inform the mother of this.
+
+### 2-23 Why should screening be private?
+
+To ensure confidentiality, the screening should be conducted privately.  This means that no partners, mothers or other people must be present while the mother fills in the questionnaire. Someone looking over the shoulders of a mother during screening may cause her to feel pressured to answer in a particular way that does not necessarily show how she really feels. 
+
+### 2-24 What language do you use?
+
+If the mother chooses to fill in the questionnaire by herself, ask her which language she would prefer. Ensure that your screening forms are available in the languages spoken by the mothers who attend your clinic (for examples, see the Resources section at the end of the book).
+
+### 2-25 How do you assess whether the mother can read and write?
+
+Some women may not be able to read and write well. A friendly way of helping the mother could be to say ‘I am here to help you if you have any problem completing the questionnaire.’
+
+### 2-26 How can you determine whether the form has been filled in correctly?
+
+Sometimes items are left out by mistake. Sometimes they are avoided on purpose. If the questionnaire was not filled in completely, ask the mother if there is anything else she would like to add or if she would like to complete the missing item. 
+
+Try to score the questionnaires while the mother is still in the clinic or waiting to see you. You may not get another chance. You can also complete any information (such as age, gestation age and contact details) which the mother may have missed and make referral arrangements more easily while she is in the clinic.
+
+### 2-27 What screening tools can be used?
+
+There are many screening tools that have been used in different countries and settings. Some ask about mood symptoms and some about risk factors. The most common screens assess for depression and anxiety during pregnancy and after birth. This chapter will look at:
+
+*	The Whooley depression screen
+*	The Edinburgh Postnatal Depression Scale (EPDS)
+*	The Risk Factor Assessment (RFA) for anxiety and depression. 
+ 
+### 2-28 What does ‘validated’ mean?
+
+A tool is validated when that the tool has been tested against a diagnostic ‘gold standard’ assessment, and proven to be a suitable and adequate (valid) screening tool for assessing depression and anxiety in that community.
+
+### 2-29 What is the Whooley Depression Screen?
+
+The Whooley Depression Screen is a set of 3 questions that have been used to assess whether a person is likely to be suffering from depression. 
+
+The Whooley Depression Screen
+{:.table-caption}
+
+|---+-----------------------------------------------------------------------------------------------+---------+--------|
+|   |                                           Question                                            | **Yes** | **No** |
+|---+-----------------------------------------------------------------------------------------------+---------+--------|
+| 1 | During the past month, have you been bothered by feeling down, depressed or hopeless?         | Yes     | No     |
+| 2 | During the past month, have you been bothered by little interest or pleasure in doing things? | Yes     | No     |
+| 3 | Is this something you feel you need or want help with?                                        | Yes     | No     |
+|---+-----------------------------------------------------------------------------------------------+---------+--------|
+
+### 2-30 How do you calculate the score?
+
+The Perinatal Mental Health Project at the University of Cape Town has done some research on using this screening tool with pregnant women. They suggest that the scoring be modified so that each ‘yes’ answer is counted. 2 or 3 ‘yes’ answers means that the woman has a high probability of suffering from a common mental disorder (depression or anxiety) and should be referred for mental health counselling. 
+
+### 2-31 Why is the Whooley Depression Screen a good screening tool to use?
+
+The benefit of the Whooley Depression Screen over other mood screening instruments is its length – it has only three questions. It takes a short time to administer and is easy to score. 
+
+Note
+:	The Whooley questions are from the National Institute for Health and Clinical Excellence (NICE) in Britain. It can be used for pregnant women or the general population. Depression in adults: the treatment and management of depression in adults. *NICE Clinical Guidelines 90. NHS: UK*.   
+
+### 2-32 What is the Edinburgh Postnatal Depression Scale (EPDS)?
+
+The EPDS is a set of questions about how a woman has been feeling in the past week. It is used to assess whether or not a woman may be suffering from depression or anxiety, or both. It can be used antenatally and postnatally. It is one of the most widely accepted tools in the world. It has been validated through research in many different cultures and countries.
+Health workers may use this questionnaire but only if it is copied and used in full. When screening women, do not use the copy on the next page. Rather, copy the questionnaires without scores in the Resources section at the end of this book.
+
+Note
+:	The version of the EPDS provided here has been adapted for use in South Africa, and specifically for use in a Midwife Obstetric Unit in Cape Town. It is based on the work of: *Cox JL, Holden JM & Sagovsky R (1987) Detection of postnatal depression, development of the 10 item postnatal depression scale. British Journal of Psychiatry. 150: 782-6*. 
+
+The Edinburgh Postnatal Depression Scale
+{:.table-caption}
+
+*As you are pregnant or have had a baby, we would like to know how you are feeling. It may help us in choosing the best care for your needs. The information you provide us will be kept private and confidential.* 
+ 
+*There is a choice of four answers for each question. Please circle the one that comes closest to how you have felt in the past seven days, not just how you feel today.*
+
+SCORES ON RIGHT HAND SIDE
+
+|----+----------------------------------------------------------------------+---|
+|    |                       In the past seven days:                        |   |
+|----+----------------------------------------------------------------------+---|
+|  1 | I have been able to see the funny side of things:                    |   |
+|    | As much as I always could                                            | 0 |
+|    | Not quite so much now                                                | 1 |
+|    | Definitely not so much now                                           | 2 |
+|    | Not at all                                                           | 3 |
+|  2 | I have looked forward with enjoyment to things:                      |   |
+|    | As much as I ever did                                                | 0 |
+|    | A little less than I used to                                         | 1 |
+|    | Much less than I used to                                             | 2 |
+|    | Hardly at all                                                        | 3 |
+|  3 | I have blamed myself when things went wrong, and it wasn't my fault: |   |
+|    | Yes, most of the time                                                | 3 |
+|    | Yes, some of the time                                                | 2 |
+|    | Not very much                                                        | 1 |
+|    | No, never                                                            | 0 |
+|  4 | I have been worried and I don't know why:                            |   |
+|    | No, not at all                                                       | 0 |
+|    | Hardly ever                                                          | 1 |
+|    | Yes, sometimes                                                       | 2 |
+|    | Yes, very much                                                       | 3 |
+|  5 | I have felt scared or panicky and I don't know why:                  |   |
+|    | Yes, quite a lot                                                     | 3 |
+|    | Yes, sometimes                                                       | 2 |
+|    | No, not much                                                         | 1 |
+|    | No, not at all                                                       | 0 |
+|  6 | I have had difficulty in coping with things:                         |   |
+|    | Yes, most of the time I haven't been coping at all                   | 3 |
+|    | Yes, sometimes I haven't been coping as well as usual                | 2 |
+|    | No, most of the time I have coping quite well                        | 1 |
+|    | No, I have been coping as well as ever                               | 0 |
+|  7 | I have been so unhappy I have had difficulty sleeping:               |   |
+|    | Yes, most of the time                                                | 3 |
+|    | Yes, sometimes                                                       | 2 |
+|    | Not very much                                                        | 1 |
+|    | No, not at all                                                       | 0 |
+|  8 | I have felt sad and miserable:                                       |   |
+|    | Yes, most of the time                                                | 3 |
+|    | Yes, quite a lot                                                     | 2 |
+|    | Not very much                                                        | 1 |
+|    | No, not at all                                                       | 0 |
+|  9 | I have been so unhappy that I have been crying:                      |   |
+|    | Yes, most of the time                                                | 3 |
+|    | Yes, quite a lot                                                     | 2 |
+|    | Only sometimes                                                       | 1 |
+|    | No, never                                                            | 0 |
+| 10 | I have thought of harming myself or ending my life:                  |   |
+|    | Yes, quite a lot                                                     | 3 |
+|    | Sometimes                                                            | 2 |
+|    | Hardly ever                                                          | 1 |
+|    | Never                                                                | 0 |
+|----+----------------------------------------------------------------------+---|
+
+### 2-33 How do you calculate her score?
+
+Make sure that she has ticked all the questions. The EPDS questionnaire is made up of ten multiple-choice questions. These questions ask the mother about how she has felt in the last seven days. Each question has four possible answers. These answers are given score values, from 0 to 3. The scores indicate how strongly the mother was feeling about something. A higher score indicates a more severe symptom. 
+After the client has completed the questionnaire, add up all her answers to get her TOTAL EPDS score. The example of the EPDS given on the previous pages includes scores for each answer. Note how the ordering of highest or lowest score is not the same for each question. Add up each of the scores the mother got for the ten questions. The TOTAL EPDS score is important.  It may be a good idea to add up your scores twice as it is easy to make a mistake when one if busy.
+
+### 2-34 What does her score mean?
+
+If the TOTAL score is:
+
+*	Below 10: the mother is probably fine and does not need to be referred
+*	10 and above: she is at risk of depression and anxiety and may need to be referred                
+*	13 and above: the women needs to be referred 
+
+There may be too many women who have scores of 13 and above to be referred to the resources available in your area. If so, you may only be able to refer those women who have higher scores (e.g. 15 and above). The decision regarding your choice of cut-off should be carefully made with all the role-players. Depending on resource changes, the cut-off may need to shift up or down. 
+
+### 2-35 Which answers need to be checked?
+
+The answers to some questions might need to be double-checked
+
+*	Question 7: ‘I have been so unhappy I have had difficulty sleeping.’
+Check if the mother is having difficulty sleeping because of her feelings, or because of being physically uncomfortable due to the pregnancy. 
+*	Question 10: ‘I have thought of harming myself or ending my life.’
+
+If the mother gives an answer with a score of 1, 2 or 3 to question 10, you should ask her further questions to find out if she is suicidal.    
+
+> If the mother has previously attempted suicide, or has a plan for how she may harm herself, you need to refer her URGENTLY. It does not matter what her overall score is.
+
+### 2-36 What is the Risk Factor Assessment (RFA)?
+
+This questionnaire was developed by the Perinatal Mental Health Project (PMHP) in Cape Town. While the EPDS screens for depression and anxiety, the RFA questionnaire assesses the risk factors for depression and anxiety. This is a screening tool which is quick and easy to use in busy settings. It identifies women who are at increased risk of developing depression or anxiety during or soon after pregnancy, whether or not they feel or appear well. It is important to note that this tool has not yet been validated like the EPDS. However, it has been developed based on international research and on the PMHP experience with women during and after pregnancy. Research shows that it is better to screen for both mood symptoms and risk factors. It could be helpful to combine the EPDS with the RFA tool, although this may take too long for some settings.
+
+Risk Factor Assessment
+{:.table-caption}
+
+*We are interested to find out how your situation is in your pregnancy. This questionnaire may help us suggest extra care for you, if necessary. Your answers will be kept confidential. Please answer either yes or no to all the following questions. Tick the box.*
+
+|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
+|    |                                                                                                                                        | Yes | No |
+|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
+|  1 | I feel pleased about being pregnant.                                                                                                   |     |    |
+|  2 | I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home etc.) |     |    |
+|  3 | My husband/boyfriend and I are still together.                                                                                         |     |    |
+|  4 | I feel my husband/boyfriend cares about me (say no if you are not with him anymore).                                                   |     |    |
+|  5 | My husband/boyfriend or someone else in the household is sometimes violent towards me.                                                 |     |    |
+|  6 | My family and friends care about how I feel.                                                                                           |     |    |
+|  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                            |     |    |
+|  8 | My family and friends help me in practical ways.                                                                                       |     |    |
+|  9 | On the whole, I have a good relationship with my own mother (indicate “no” if your mother has passed away).                            |     |    |
+| 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.  |     |    |
+| 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
+|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
+
+### 2-37 How do you score the Risk Factor Assessment (RFA)?
+
+**Step 1**
+Make sure that the mother has ticked all the questions. 
+
+**Step 2**
+Score the answers. 
+
+*Questions 1, 3, 4, 6, 8 and 9*
+
+*	NO answers to these questions indicate the woman is at risk. Give a score of 1 for each of these questions if the answer is NO. 
+*	YES answers to these questions indicate low risk. Give a score of 0 for each of these questions if the answer is ‘yes’.
+
+*Questions 2, 5, 7, 10 and 11*
+
+*	YES answers to these questions indicate the woman is at risk. Give a score of 1 for each of these questions if the answer is YES. 
+*	NO answers to these questions indicate low risk. Give a score of 0 for each of these questions if the answer is NO.
+
+Scoring
+{:.table-caption}
+
+|----------+-------+-------|
+| Question |  Yes  |  No   |
+|----------+-------+-------|
+|        1 | 0     | **1** |
+|        2 | **1** | 0     |
+|        3 | 0     | **1** |
+|        4 | 0     | **1** |
+|        5 | **1** | 0     |
+|        6 | 0     | **1** |
+|        7 | **1** | 0     |
+|        8 | 0     | **1** |
+|        9 | 0     | **1** |
+|       10 | **1** | 0     |
+|       11 | **1** | 0     |
+|----------+-------+-------|
+
+**Step 3**
+Add up the scores
+
+Based on the scoring instructions, add up all the scores. Use the table above as a guide by counting the answers in bold. If a woman’s total score is 3 or above, she needs to be referred to a counsellor.
+
+> It may be a good idea to add up your scores twice as it is easy to make a mistake when one if busy.
+
+### 2-38 What do you do with the information from the Risk Factor Assessment (RFA) screening?
+
+1.	Explain the result of the score to the mother 
+A score below the cut-off does not necessarily mean that the mother is ‘fine’. Simply explain that it means you will not suggest referral at this stage. However, also explain that she is free to request help or referral if she would like this – either now or at another time. Explain to a mother with a score at or above the cut-off, that you are concerned about her. You could ‘normalise’ the situation by saying that many of the mothers in your clinic, who score above the cut-off, do well with some extra support.
+
+2.	Your clinical judgement may override the screening guidelines. 
+If you feel the mother is experiencing a lot of distress or has a strong risk for this, you should feel free to offer referral, even if she does not make the cut-off score on any screening tool.
+
+3.	Referral
+The better the quality of the referral process, the greater the chance it will benefit the mother. If you do offer a referral, explain that this is voluntary. Explain to the mother what she can expect when she is referred to the counsellor, service or organisation. More information on how to refer is in Chapter 3. More information about the counselling process can be found in Chapter 3 and Chapter 4. 
+
+4.	Open-door policy
+An open-door policy allows a mother, who does not take up the referral offer the first time, to change her mind at a later stage and to return to you. It is useful also to have an open-door policy for mothers who do not arrive for their referral appointments. You cannot always know the reasons for why they were not able to attend their appointments. They may be afraid, they may not have transport money, they may not be able to miss work, or they may have to look after children or sick relatives at home.
+
+5.	In an emergency
+If you believe the mother is suicidal or requires emergency care:
+
+*	Contact the psychiatric nurse, midwife, sister, or doctor in charge.
+*	Do not leave the mother alone, even if the screening score is ‘normal’.
+
+> Be prepared for emergencies: Find the names and numbers of appropriate people and organisations to contact in case of an emergency and keep them in a handy place. 
+
+## Case study 1
+
+A pregnant woman visits the antenatal clinic several times in the past 3 weeks. These are not her scheduled antenatal visits. She complains of aches and pains in her abdomen. 
+
+### 1.	Could these pains be normal during pregnancy? 
+
+Yes, depending how far in her pregnancy she is, she could be experiencing Braxton Hicks contractions. These could be experienced as painful and be quite normal. However, the aches and pains may also be symptoms that something is wrong physically, and the nurse needs to examine her to determine if there are any physical causes. 
+
+The nurse examines the woman and cannot find any physical cause for the aches and pains. While she is doing the examinations, she notices that the woman looks less tidy than previously. 
+
+### 2.	Could this be a sign of mental distress?
+
+Yes, this woman has presented with three possible indicators of mental distress: she has visited the clinic many times when it is not her scheduled visit, she complains of aches and pains that do not seem to have a physical cause and she is looking less tidy than usual. 
+
+### 3.	What other signs of mental distress should the nurse look out for?
+
+A woman’s body language and behaviour can often show that she is ‘sad’ or ‘worried’. For example:
+
+*	Is she taking care of her appearance?
+*	What is her facial expression like? Does she look sad or distressed?
+*	What does her voice sound like? Does she sound distressed?
+*	Does she avoid eye-contact? 
+*	What is her posture like? 
+*	Does she seem unhappy? Is there a heavy feeling about her?
+
+Another indicator of mental distress could be that the mother is talking about many other problems in her life, and not just her health. These can include:
+
+*	Work issues
+*	Problems with relationships
+*	Problems with her other children
+
+### 4.	Why do you think that the woman does not tell the nurse that she is feeling distressed?
+
+For some women it is easier to discuss physical problems than emotional ones. In the same way, health workers sometimes prefer, and find it easier, to deal with physical problems, compared to mental ones. A woman may use physical health problems as a ‘call for help’ from health workers.  This may be her way of making contact with a health worker whom she believes can help her with her ‘real’ underlying problem. Or, she may not be aware that there is an emotional part to her physical problem. She may be worried about what other people would think about her if she had a mental problem. 
+
+### 5.	Are there other ways women may describe emotional distress?
+
+Many women will be able to tell you how they feel. Some may express emotional distress as physical pain, and others may describe their emotional distress in terms of ancestors, spirit possession, contamination, curses, or poisoning. There are many ways that emotional distress is expressed, and it can differ between cultures and individuals. 
+
+## Case study 2
+
+In a busy antenatal clinic, the nurse notices that many women complain of stress and are worried about their children. 
+
+### 1.	Should the nurse screen these women for mental distress?
+
+Before screening can be started, a referral system must be in place so that those women who are identified as being at risk or experiencing symptoms of mental distress can be appropriately referred to support groups, counsellors, psychiatrists, mental health nurses, social workers or any other service. It is not ethical to screen for mental distress if there is no help available.
+
+### 2.	What is mental health screening?
+
+Screening is a strategy used to detect an illness in a large group of individuals, such as mothers attending antenatal clinics. Mental health screening is usually done using a questionnaire which asks questions about how a woman has been feeling. 
+
+### 3.	Does the screening questionnaire tell us if a woman has depression or anxiety?
+
+The answers on the screening questionnaire are added together to give a total score. The cut-off score is the number that indicates if someone is likely to be experiencing depression or anxiety or not. If the woman screens positive, her total score is above the cut-off score. This means that it is likely that she is depressed or anxious, but this is not definite proof that she can be diagnosed with these disorders. If someone screens negative, her total score is below cut-off score. It is likely that she is not depressed or anxious, but again this is not definite. Your certainty in either case depends on the screening tool used and the population being screened. A mental health diagnosis can only be made by a mental health professional or by a diagnostic assessment.
+
+### 4.	Why is screening for common mental disorders (depression and anxiety) considered a good idea during pregnancy?
+
+Mental health screening during pregnancy can have a number of positive impacts:
+
+*	It gives health works with the opportunity to detect common mental disorders in their patients
+*	Identifying depression and anxiety can stop it from getting worse
+*	Screening for risk of a common mental disorder could prevent the illness from occurring
+*	Screening occurs in a familiar and non-threatening environment
+*	Women can avoid the stigma associated with seeking help for mental health problems
+*	Women do not have to spend extra time and money to access mental health care
+
+### 5.	How would screening pregnant women for mental illness assist the nurse?
+
+If many women are complaining about their worries, it can be very stressful for the nurse. This is particularly true if she does not have the time or resources to help these women. By setting up a protocol to assist with identifying and dealing with emotional problems, this can  take a burden away from the nurse and help her to see the patient in a more holistic way, being able to deal with both the emotional and physical side of the patient. 
+ 
+## Case study 3
+
+A clinic has decided to screen pregnant women for mental distress using the Edinburgh Postnatal Depression Scale (EPDS). This is a questionnaire that asks women how they have been feeling during the past week, not just today. 
+
+### 1.	What needs to be thought about before screening?
+
+There are a number of things to consider when screening:
+ 
+a)	Why is screening being done?
+It is necessary to explain to the mother why these questions are being asked. Explain to her that the questionnaires could help to discover if she needs some extra support. Does the mother have to answer the questions?
+The mother does not have to answer the questions. If she chooses not to, it is a good thing to assure her that she will still receive good care if she does not want to be screened for mental illness.
+
+b)	Will the screening be private?
+Yes. Only authorised health workers will have access to this information when it is necessary for her care. It should be made clear that her information will not be discussed with her partner, family, friends, or anyone other than those involved in her health care.
+The nurse takes the woman into a private space and asks her to fill in the questionnaire. 
+
+### 2.	What else does she need to check on?
+
+a) Is the form in a language that the woman understands?
+b) Is the mother able to read and write easily, or will she need help to fill in the form?
+
+### 3.	When she has completed the form, what does the nurse need to do?
+
+a)	Check if all the questions have been answered.
+b)	Score the questionnaire according to the score sheet and check the scoring.
+c)	If the woman has answered that she has had difficulties sleeping, check if this is because she is worried or if it is because she is physically uncomfortable.
+d)	Check if the woman has had thoughts of suicide.
+
+### 4.	This woman has a total score of 15 on the EPDS. What does this mean?
+
+A positive score on the EPDS is 13 or more. As this woman scores more than the cut-off, it means that it is likely that she is experiencing depression or anxiety. The score is NOT a diagnosis of mental illness.
+
+### 5.	What should the nurse do?
+
+The nurse needs to explain to the woman that she is concerned about the woman’s emotional well-being. Her answers on the questionnaire seem to indicate that she is feeling down or stressed. The nurse could ‘normalise’ the situation by saying that many of the mothers in the clinic, who score above the cut-off, do well with some extra support. It may be helpful to explore if there are any fears or myths held by the mother regarding counselling and discuss these. 
+A referral should be offered. Explain that this is voluntary. Explain to the mother what she can expect when she is referred to the counsellor, service or organisation.  Tell her that if she does not want to take this referral up now, then she is welcome to do so at another time. 
+
+## Case study 4
+
+In an antenatal clinic, staff are using the Edinburgh Postnatal Depression Scale (EPDS) to screen women for depression and anxiety. A nurse has just done the screening with a pregnant teenager. Her total score is 10. She seems very withdrawn. She is living in a woman’s shelter as her parents have asked her to leave the home.
+
+### 1.	Does she need to be referred?
+
+Although her score is less than the cut-off of 13, the following still need to be checked: 
+a)	What does her answer on the suicide question indicate?
+b)	Adolescents are at greater risk of developing mental distress during pregnancy. 
+c)	What does the nurse’s clinical judgement say about the teenager? What does the teenager’s behaviour and body-language indicate about her? 
+d)	Is there relevant background information that raises levels of concern for her emotional well-being? 
+
+If the nurse feels that the teenager is not doing well, then she should offer her a referral even though her score is not positive. 
+
+### 2.	On checking the suicide question, the nurse notices that the teenager indicates that she has frequent thoughts of harming herself.What should the nurse do?
+
+The nurse needs to ask her further questions about this. If the teenager has previously attempted suicide, or has a plan for how she may harm herself, she needs to be referred URGENTLY.
+
+If the nurse believes the teenager is suicidal or requires emergency care:
+
+*	Contact the psychiatric nurse, midwife, sister, or doctor in charge.
+*	Do not leave the mother alone, even if the screening score is ‘normal’.
+*	Be prepared for emergencies: Find the names and numbers of appropriate people and organisations to contact in case of an emergency and keep them in a handy place.
+
+### 3.	If she does not appear to have suicidal thoughts, what should the nurse say to her?
+
+The nurse needs to explain that the teenager’s score is below the cut-off, which seems to indicate that she is doing fine and may not need additional support at this stage. The nurse should also say that because of her circumstances, she may still benefit from support. She should explore whether the teenager agrees.  
+
+### 4.	What if the teenager refuses referral?
+
+Reassure the teenager that if she changes her mind, and if she feels that she would like some help at a later time, that a referral can be arranged for her. It may be helpful to break some of the myths held by many about counselling and explain how helpful it has been for so many young women.
+
+### 5.	If this teenager does not get help for distress, what are the possible negative outcomes?
+
+*	Increasing suicide risk
+*	Increasing chances of substance or alcohol misuse
+*	Increasing risk of harming the child (infanticide or child abuse)
+*	The infant failing to thrive (not growing)
+*	Poor cognitive development in the infant 
+*	Difficulties in bonding (developing a close relationship between mother and child) 
+*	Behavioural problems in the child
+*	Mental illness in the child which could continue into childhood and adolescence
+*	The teenager may become pregnant again in short while.
+
+### 6.	What can the nurse do to help?
+
+Women who are distressed or suffer from a mental health problem need someone who can listen, guide them and provide information. They can have low self-esteem, feel isolated and vulnerable and need to be encouraged to make social connections to form support systems.  
+
+They require different types of treatment and care, depending on the severity or level of their distress.
+
+Information (not advice) can empower women and help them to feel in control of their situation. Listening skills and empathy are also vital tools to help mothers in distress.  
+
+By not showing any judgement of the teenager, a nurse may then have the chance to develop a real therapeutic relationship with her. (Also see additional information on teen pregnancy in chapter 5.)
+
+## Case study 5
+
+In an antenatal clinic, staff are using the Risk Factor Assessment (RFA) as a mental health screen. 
+
+### 1.	What is the difference between the Edinburgh Postnatal Depression Scale (EDPS) and the RFA?
+
+The EPDS screens for depression and anxiety and asks questions about how a woman has been feeling. The RFA assesses the risk factors for common mental disorders. This gives an idea of how likely it is that a woman may experience depression or anxiety, not how she is feeling at the moment. 
+
+### 2.	A mother at the clinic has ticked ‘yes’ to all the questions on the RFA, does this mean that she is at great risk of mental illness?
+
+No, some of the ‘yes’ answers indicate risk (like ‘yes’ I have had some very difficult things happen to me in the last year), but some of the ‘yes’ answers indicate no risk (like ‘yes’ I am pleased about this pregnancy – this would be a positive thing and would not count as a risk). As all her answers are “yes”, she may not understand how to complete the questionnaire correctly. 
+
+### 3.	What would the total score on the RFA be if the mother had ticked all the ‘yes’ questions? (Use the score guide to help you.)
+
+She would have a score of 5 with risk factors:
+
+*	Question 2: I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home etc.)
+*	Question 5: My husband/boyfriend or someone else in the household is sometimes violent towards me.
+*	Question 7: I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).
+*	Question 10: I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.
+*	Question 11: I have had serious depression, panic attacks or problems with anxiety before.
+
+### 4.	What do the answers to this questionnaire indicate about this woman’s life?
+
+She is experiencing domestic abuse and has experience of past abuse. She is still with her partner. She has suffered from mental illness in the past, and has experienced a previous pregnancy loss. In the last year, something has occurred which has been difficult for her to cope with. She has supportive family and friends and a good relationship with her mother. She is pleased about her current pregnancy. 
+
+### 5.	What kind of support could be offered to this woman?
+
+It would useful to offer her referral to a mental health counsellor to assist her with her current problem of domestic violence and to help her deal with her past traumas. A counsellor may assist her to draw on her mother, family and friends as a support system. Are there other resources in the community that may be helpful? If a women’s shelter was available and appropriate, a referral there may be helpful. (See additional information on domestic violence in Chapter 5 and in the Resources section.)
