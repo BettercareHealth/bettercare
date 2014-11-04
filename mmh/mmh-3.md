@@ -143,8 +143,7 @@ It is important to keep an open-door policy. Quite often, at a later stage or in
 
 > If you keep an open-door policy and allow the mother to come back when she is ready, she may be more likely to be compliant and benefit from a referral and the help you offer.
 
-Note
-:	In the Resources section, you can find an example of a referral letter and a referral evaluation form. The referral letter template can be used as a model for letters that you send with the mother to the new service. The referral evaluation form can be used when you have a follow-up appointment with the mother, after the referral.
+In the Resources section, you can find an example of a referral letter and a referral evaluation form. The referral letter template can be used as a model for letters that you send with the mother to the new service. The referral evaluation form can be used when you have a follow-up appointment with the mother, after the referral.
 
 ## Counselling
 

@@ -247,7 +247,7 @@ The Perinatal Mental Health Project at the University of Cape Town has done some
 The benefit of the Whooley Depression Screen over other mood screening instruments is its length – it has only three questions. It takes a short time to administer and is easy to score. 
 
 Note
-:	The Whooley questions are from the National Institute for Health and Clinical Excellence (NICE) in Britain. It can be used for pregnant women or the general population. Depression in adults: the treatment and management of depression in adults. NICE Clinical Guidelines 90. NHS: UK.   
+:	The Whooley questions are from the National Institute for Health and Clinical Excellence (NICE) in Britain. It can be used for pregnant women or the general population. Depression in adults: the treatment and management of depression in adults. *NICE Clinical Guidelines 90. NHS: UK*.   
 
 ### 2-32 What is the Edinburgh Postnatal Depression Scale (EPDS)?
 
@@ -255,7 +255,7 @@ The EPDS is a set of questions about how a woman has been feeling in the past we
 Health workers may use this questionnaire but only if it is copied and used in full. When screening women, do not use the copy on the next page. Rather, copy the questionnaires without scores in the Resources section at the end of this book.
 
 Note
-:	The version of the EPDS provided here has been adapted for use in South Africa, and specifically for use in a Midwife Obstetric Unit in Cape Town. It is based on the work of: Cox JL, Holden JM & Sagovsky R (1987) Detection of postnatal depression, development of the 10 item postnatal depression scale. British Journal of Psychiatry. 150: 782-6. 
+:	The version of the EPDS provided here has been adapted for use in South Africa, and specifically for use in a Midwife Obstetric Unit in Cape Town. It is based on the work of: *Cox JL, Holden JM & Sagovsky R (1987) Detection of postnatal depression, development of the 10 item postnatal depression scale. British Journal of Psychiatry. 150: 782-6*. 
 
 **The Edinburgh Postnatal Depression Scale**
 
@@ -342,7 +342,8 @@ The answers to some questions might need to be double-checked
 *	Question 7: ‘I have been so unhappy I have had difficulty sleeping.’
 Check if the mother is having difficulty sleeping because of her feelings, or because of being physically uncomfortable due to the pregnancy. 
 *	Question 10: ‘I have thought of harming myself or ending my life.’
-If the mother gives an answer with a score of 1, 2 or 3 to this question, you should ask her further questions to find out if she is suicidal.    
+
+If the mother gives an answer with a score of 1, 2 or 3 to question 10, you should ask her further questions to find out if she is suicidal.    
 
 > If the mother has previously attempted suicide, or has a plan for how she may harm herself, you need to refer her URGENTLY. It does not matter what her overall score is.
 
@@ -592,7 +593,7 @@ They require different types of treatment and care, depending on the severity or
 
 Information (not advice) can empower women and help them to feel in control of their situation. Listening skills and empathy are also vital tools to help mothers in distress.  
 
-By not showing any judgement of the teenager, a nurse may then have the chance to develop a real therapeutic relationship with her. (Also see additional resources on Teen pregnancy xxxxx)
+By not showing any judgement of the teenager, a nurse may then have the chance to develop a real therapeutic relationship with her. (Also see additional information on teen pregnancy in chapter 5.)
 
 ## Case study 5
 

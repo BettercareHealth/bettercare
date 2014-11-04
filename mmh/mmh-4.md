@@ -36,6 +36,8 @@ Change of any kind can be stressful for people to cope with. During pregnancy an
 
 Poor women and girls have a greater chance of experiencing severe traumatic events during their lives than those who have more supports. Domestic violence, rape, crime, HIV, a lack of supportive relationships and previous traumatic births or unplanned pregnancies are just some of the challenges pregnant women may face in settings of poverty. These situations can make the difficult time around childbirth even more stressful, particularly where there are few resources. 
 
+> Poor women often face many stressful experiences. 
+
 ### 4-3 Why is the health worker’s relationship with a mother so important?
 
 A mother who is experiencing emotional difficulties is more likely to have health problems, such as birth complications, traumatic birth experiences and postnatal depression. These problems can be avoided or improved if the mother receives gentle and compassionate care. This is why the role of the health worker is so important.
@@ -47,6 +49,8 @@ By caring for a mother’s overall well-being, the health worker can also have a
 ### 4-4 What is the Better Births Initiative (BBI)?
 
 The BBI is an international project which aims to improve the quality of care during labour and childbirth. By adopting the BBI principles and practices - which are based on scientific evidence – health workers can prevent harm and improve the health of mothers and their babies. The BBI principles are useful and widely used in the South African setting, and have been adopted in many maternity units in low- and middle-income countries.  
+
+> The Better Births Initiative aims at improving the quality of care during labour and delivery. 
 
 ### 4-5 What are the principles of BBI? 
 
@@ -268,6 +272,8 @@ Women who experience negative emotions need a supportive approach from health wo
 
 Health workers involved with pregnancy and childbirth have a very important role to play in the lives of mothers and babies. There are many physical and psychological demands made on health workers and mothers. The work may be rewarding and exciting, but it can also be stressful and draining. Health workers may also face many stresses, both in their professional and personal life. They also need support, compassion and appreciation. In order to provide the best possible care for mothers and babies, health workers need to ensure the best possible care for themselves. 
 
+> The emotional state of health workers influences the way they work. 
+
 ### 4-19 What are the personal factors that may affect health workers?
 
 Factors range from external pressures (such as the work environment and personal relationships) to internal pressures (how they are feeling). 
@@ -434,7 +440,17 @@ Active listening is paying careful attention to what someone is saying, as well 
 
 Listening requires more than just hearing what the mother is saying. It involves observing other aspects of her behaviour. The image below summarises the many ways all the senses are used to really listen to a client. 
 
-## Active listening skills
+**Active listening skills**
+
+|-------------------------+------------------------------------------------------------------|
+| Active listening skills                                                                    |
+|-------------------------+------------------------------------------------------------------|
+| With your body          | Lean towards the mother                                          |
+| With your heart         | Feel the mother’s distress, e.g. empathy                         |
+| With your eyes          | Make eye contact, watch and observe body language                |
+| With your ears          | Listen carefully to understand and respond sincerely             |
+| With your mouth         | Respond to what you’ve heard in a warm, friendly and helpful way |
+|-------------------------+------------------------------------------------------------------|
 
 ### 4-33 What is empathy?
 
@@ -770,11 +786,65 @@ Your colleague decides that she will take the rest of the week off to help her b
 
 Showing positive regard would mean that you support her, regardless of what she does. So, you would say: “I’m sure that your brother will appreciate your support” rather than “If you take time off, then I will have to cope with more patients.”
 
-## Additional resources
+## Activities
 
-### Activity 1: The Secret History
+### Activity 1: The ‘secret history’
 
-**Two sides to every story: The secret history of Sr Sarah Jack and Johanna Booi**
+The clinical setting does not usually allow you to get to know each mother very well. The mother may not have the opportunity to tell you her story. However, it is helpful for you to try and understand the point of view of the mothers in your care. You may be able to do this by trying to imagine her ‘history’. The following activity can help you with this. 
+
+Try to imagine the ‘secret history’ of any of the following:
+
+*	An HIV-positive mother
+*	A teenage mother
+*	A mother from a rural area
+*	A mother from a traditional or religious culture
+*	A single mother
+*	A physically abused mother
+*	A refugee mother
+
+Answer the following questions as if you, yourself, were one of the mothers described:
+
+*	How did you feel when you found out you were pregnant?
+*	Who did you tell? When did you tell them?
+*	How did they respond?
+*	What kind of support did you have?
+*	What happened at work/school?
+*	What were your thoughts in the early days of your pregnancy?
+*	What decisions did you make? Why did you make these particular decisions?
+*	What have the outcomes been?
+*	What are you most worried about?
+
+**Your notes**
+
+After thinking about these questions, write down some points which would be important to remember when dealing with mothers from any of the above circumstances.
+
+**Note**
+
+There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story.  Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
+
+### Activity 2: Understanding your own reactions
+
+If you understand how personal stresses affect your thoughts, feelings and actions, you may be able to manage your own emotions better, improve your own well-being, as well as the quality of your work. This allows you to provide better care to mothers, while still taking the best care of yourself.
+
+Sometimes health workers can have a strong positive or negative emotional reaction to a mother.  It is important to reflect on why they feel this way. The following activity is a quick way to understand your feelings about a mother and how they might affect your behaviour towards her.
+
+Think about a mother to whom you have had a strong negative reaction.
+
+*	Why do you think you felt strongly about this mother?
+*	Were you reminded of a painful event or bad relationship from your own life?
+*	Did you judge her because of you own attitudes, culture, tradition, or religious beliefs?
+*	How could you have handled this situation in a positive way?
+*	What would it take for you to provide this mother with the best possible care?
+
+Be aware of situations which may cause strong reactions. For example: 
+
+*	A teen mother may remind you of your own teenage daughter and your concerns about her becoming pregnant.
+*	A mother screaming and uncontrollable in labour may remind you of your own labour when you were alone and terrified.
+*	A verbally abusive mother may remind you of an abusive family member at home.
+*	A refugee woman from a foreign country may remind you of your negative feelings toward foreigners living in South Africa.
+*	A very poor woman with many children may make you feel angry with her for having so many children that she is unable to care for.
+
+### Activity 3: Two sides to every story: The secret history of Sr Sarah Jack and Johanna Booi
 
 In order to provide the mother with quality care and support, it is necessary to understand her untold story as best you can. At the same time, you need to be aware of the stresses and strains in your own life and how they can affect your work. This can be difficult to do, but the next activity may help. This activity is designed for health workers, and intended as a group activity. Half of the group ‘become’ Sr Sarah Jack, the other half ‘become’ Johanna Booi. Half-way through the journey, the groups exchange roles, becoming the other person. 
 
@@ -836,34 +906,168 @@ The strain of their personal lives may break down the vital relationships betwee
 
 Sr. Jack’s secret history is a vital part of who she is. She deserves to have assistance for her problems. However, as a professional, Sr. Jack should try to separate her own issues from her interaction with Johanna. If not, the interaction may be destructive for both of them.
 
-### Speaking and being heard
+### Activity 4: Who can you talk to?
 
-On the next pages are suggestions for mothers who are experiencing emotional distress. This handout could be copied and given to mothers to read.
+Close your eyes, and think about a period in your life when you were very unhappy. If you could choose someone with whom you could talk and share your pain, even if they could do nothing to change your painful circumstances, what qualities would you want that person to have?
 
-The following story was written by Ntombomzi, a Perinatal Mental Health Project service user.
+You are likely to choose someone you trust who would:
 
-*Things are easier for women today, because we are independent. Our mothers were not respected. They didn’t have the rights we have now and didn’t have the same opportunities. They were like slaves. These days if there is a problem, there is help available, something that I was fortunate to have when I discovered that I was suffering from postnatal depression.*
+*	Accept your feelings 
+*	Not tell you what to do 
+*	Not interrupt you 
+*	Make you feel safe.
 
-*When I first became a mother, I didn’t know about depression. Now I would like to let everyone know about this problem so that people can stand up and do something about it.*
+## Additional resources
 
-*I was born one of twins. My parents divorced when I was only two months old. Because my mother was alone she couldn’t do what she was supposed to do as a mother and I grew up with her family. There was really no one to talk to or to discipline us and I became pregnant at the age of 14. I have suffered depression since then.*
+### Useful numbers for health workers in South Africa
 
-*Having a baby at such an early age was really hard. I had to leave school and was forced to work as a domestic worker, which I couldn’t really do because I was so young. I tried very hard, but I just couldn’t do it. So, I decided to go back to school when my baby was three years old. I passed my standard nine [penultimate year of high school], but didn’t have enough money to register for my final year. I was forced again to go back to work as a domestic worker; which I am still doing to this day.*
+#### ICAS (an employee wellness support organisation)
 
-*When I was twenty-one years old, I got married to my husband. He is not the father of my first child. A couple of years after being married, we had a child together. I again suffered very much from postnatal depression, although I did not know what it was called at the time. The clinic I went to in the township did not know anything about depression. So, I was unable to get help from them. Luckily, my husband was always there for me and supportive throughout my depression, even though he didn’t always understand what I was going through.*
+In many provinces, health workers and their dependants have access to the ICAS employee wellness service.
 
-*Since then, I suffered from depression until I was able to get help from the Perinatal Mental Health Project in 2004. This was the first time I heard about perinatal or postnatal depression. I had suffered from depression all these years, but I didn’t really know what it was. Finally, I was able to get help.*
+*	They offer counselling in all official languages.
+*	They offer referrals to face-to-face short-term counselling. 
+*	They can be reached by telephone 24 hours a day. 
+*	Toll free number: 0800 068 6858 
 
-*When I was pregnant with my last baby, I was working for Linda, a psychologist. I was not at all happy to be pregnant. I was just very stressed and worried about telling her. I knew it was not the right time for me to become pregnant and I was very concerned about my job and all the things that I needed money for. But I realised that I needed to tell Linda, not only because she was my employer, but because I needed help. Everything was very hectic for me and nothing that I was experiencing seemed to be good. I knew that I was becoming more and more depressed.*
+#### SADAG (South African Depression & Anxiety Group)**
 
-*I finally told Linda when I was 5 months pregnant. It turns out that she specialises in women who have perinatal and postnatal depression and when she heard my history she thought I was suffering from it. She decided to take the step to get help for me by sending me to the Mowbray Maternity Hospital which provides the Perinatal Mental Health Project.*
+SADAG offers referrals to psychologists, psychiatrists or support groups by trained counsellors. 
 
-*At Mowbray, I met with a counsellor. It was very good to speak to her about how I was feeling and to just talk out about everything. That was what was killing me, having to keep all my feelings inside of me for a long time. I was so lonely and there were so many things that I needed someone to listen to. I needed to express my feelings and to be heard when I was saying something. I needed someone who could understand and who could listen when I was talking. Meeting with this counsellor gave me that chance to finally speak out, which helped so much. They also sent me to a psychiatrist to get medication for my depression. Now I am doing just fine and coping very well with motherhood.*
+*	They are open 7 days a week from 8am to 8pm. 
+*	Telephone number: 011 262 6396 or 0800 20 50 26 
 
-*Dealing with perinatal and postnatal depression is a very difficult thing. When you are depressed there are so many things that are affecting you. You may not be able to tell exactly what it is that is making you feel so bad, but just that you can’t get out from the fog you are in. Everything can feel like it is just falling apart, that nothing is happening right or according to plans. You may not know to take it seriously when you are first suffering from it, but it is very important to address it and to find a way out. There are so many women who are dying inside from this thing. They don’t know how to deal with it or how to cope. Everything in their lives is turning upside down. And they need someone who will understand and not judge them.*
+#### Lifeline
+ 
+Lifeline offers support for personal crisis, trauma, abuse or rape.
 
-*That is why I talk about this depression with everyone. I even talk to mothers I see on the bus. I want everyone to know about this problem. I want the mothers to listen.*
+*	Toll free number: 0861 322 322 
 
-*If I could have my way, each and every one of the hospitals would have these kinds of counsellors, especially the government hospitals which are for everybody. That way everyone, including all black women who really don’t know anything about this depression, could get help.*
+#### FAMSA (Family & Marriage Society of SA)
 
-*Until that happens, I hope that all the mothers out there, who are suffering from perinatal and postnatal depression, will take care of themselves and find support. You only live once, and it does not have to be a life filled with depression!*
+FAMSA offers counselling for couples and families with branches throughout South Africa.
+
+*	National office telephone number: (011) 975 7106/7
+
+### Resources for pregnant women and new mothers
+
+The following resources can be photocopied and given to pregnant or new mothers.
+
+#### A few suggestions…
+ 
+*	Stay close to people who are supportive, sensitive and who do not criticise you. Stay away from people and places which make you feel bad.
+*	It can be useful to have a ‘mother-person’ who you can turn to in times of crisis. This is someone who can help you feel safe and supported. Maybe you know another woman who can support you, even if your own mother is not there.
+*	Ask others to help you. Ask clearly for the type of help you need. Some examples are: 
+	*	Ask a friend or relative to look after your older children
+	*	Find someone you trust to look after your new baby sometimes, to allow you to have a break and to rest                                                                                      
+	*	Ask someone to help with your housework or run your errands for you
+	*	If people offer to help you, thank them, and allow them to do so – do not feel guilty. 
+	*	Lower your housekeeping standards. It is more important to take care of yourself and your baby than to have a tidy house.
+*	Even if you cannot sleep, rest whenever you can.
+*	Be well informed. Ask your health workers questions about things that worry you. If you can, visit a library or look on a website for information on pregnancy, motherhood or parenting. 
+*	Get to know what to expect during pregnancy and labour. Your experience may not be what you expected and it is important to know that you have not ‘failed’ as a woman or as a mother if things do not go according to plan. 
+*	The arrival of your baby will be a big change, so try not to make any other major changes to your life at this time. Try to simplify your life as much as possible.
+*	If you are feeling very anxious or depressed most of the time, try to do something about it. Talk to someone you trust about how you feel: your clinic sister, community caregiver, doctor, your partner, mother or a trusted friend.
+*	Counselling and/or medication for depression during pregnancy can help prevent some difficult, negative effects of maternal depression, which could affect you, your baby and your family. 
+*	You may need to cry sometimes, or feel sad, and this is completely acceptable. It is not helpful to say ‘pull yourself together’.  Instead, be kind to yourself.
+*	Try to make healthy decisions, like eating properly and quitting smoking or taking drugs.
+*	If you have a partner, try to keep communication open and friendly. If this is not easy, or you are experiencing other problems in your relationship, try to get counselling for both of you.  
+*	Mental distress does not mean that you are a bad mother, weak or ‘crazy’. Many people who have experienced mental health problems now live normal and happy lives.
+
+> About 1 out of every 3 pregnant women suffers from depression or anxiety during or after pregnancy. It is not your fault. You are not a bad mother. You can and should get help. 
+ 
+**Useful phone numbers**
+
+|-------------------------------------+------------------|
+|            Organisation             |  Contact number  |
+|-------------------------------------+------------------|
+| FAMSA (Family and Marriage Society) | (011) 975 7106/7 |
+| Lifeline                            | 0861 322 322     |
+| SA Depression and Anxiety Group     | 011 262 6396     |
+| AIDS Helpline                       | 0800 012 322     |
+|-------------------------------------+------------------| 
+
+**Other**
+
+(include your own notes here)
+
+*	
+*	
+*	
+*	
+*	
+
+#### Listening: A poem
+ 
+*You are not listening to me when…*
+
+You do not care about me;
+
+You say you understand before you know me well enough;
+
+You have an answer for my problem before I’ve finished telling you what my problem is;
+
+You cut me off before I’ve finished speaking;
+
+You finish my sentence for me;
+
+You feel critical of my vocabulary, grammar or accent;
+
+You are dying to tell me something;
+
+You tell me about your experience, making mine seem unimportant;
+
+You are communicating to someone else in the room;
+
+You refuse my thanks by saying you haven’t really done anything.
+ 
+
+*You are listening to me when…*
+
+You come quietly into my private world and let me be;
+
+You really try to understand me even if I’m not making much sense;
+
+You grasp my point of view even when it’s against your own sincere convictions;
+
+You realise that the time I took from you has left you a bit tired and drained;
+
+You allow me the dignity of making my own decisions even though you think they might be wrong;
+
+You do not take my problem from me, but allow me to deal with it in my own way;
+
+You hold back your desire to give me good advice;
+
+You do not offer me religious solace when you sense I am not ready for it;
+
+You give me enough room to discover for myself what is really going on.
+
+#### Speaking and being heard: a true story
+
+*The following story was written by Ntombomzi, a Perinatal Mental Health Project service user.*
+
+Things are easier for women today, because we are independent. Our mothers were not respected. They didn’t have the rights we have now and didn’t have the same opportunities. They were like slaves. These days if there is a problem, there is help available, something that I was fortunate to have when I discovered that I was suffering from postnatal depression.
+
+When I first became a mother, I didn’t know about depression. Now I would like to let everyone know about this problem so that people can stand up and do something about it.
+
+I was born one of twins. My parents divorced when I was only two months old. Because my mother was alone she couldn’t do what she was supposed to do as a mother and I grew up with her family. There was really no one to talk to or to discipline us and I became pregnant at the age of 14. I have suffered depression since then.
+
+Having a baby at such an early age was really hard. I had to leave school and was forced to work as a domestic worker, which I couldn’t really do because I was so young. I tried very hard, but I just couldn’t do it. So, I decided to go back to school when my baby was three years old. I passed my standard nine [penultimate year of high school], but didn’t have enough money to register for my final year. I was forced again to go back to work as a domestic worker; which I am still doing to this day.
+
+When I was twenty-one years old, I got married to my husband. He is not the father of my first child. A couple of years after being married, we had a child together. I again suffered very much from postnatal depression, although I did not know what it was called at the time. The clinic I went to in the township did not know anything about depression. So, I was unable to get help from them. Luckily, my husband was always there for me and supportive throughout my depression, even though he didn’t always understand what I was going through.
+
+Since then, I suffered from depression until I was able to get help from the Perinatal Mental Health Project in 2004. This was the first time I heard about perinatal or postnatal depression. I had suffered from depression all these years, but I didn’t really know what it was. Finally, I was able to get help.
+
+When I was pregnant with my last baby, I was working for Linda, a psychologist. I was not at all happy to be pregnant. I was just very stressed and worried about telling her. I knew it was not the right time for me to become pregnant and I was very concerned about my job and all the things that I needed money for. But I realised that I needed to tell Linda, not only because she was my employer, but because I needed help. Everything was very hectic for me and nothing that I was experiencing seemed to be good. I knew that I was becoming more and more depressed.
+
+I finally told Linda when I was 5 months pregnant. It turns out that she specialises in women who have perinatal and postnatal depression and when she heard my history she thought I was suffering from it. She decided to take the step to get help for me by sending me to the Mowbray Maternity Hospital which provides the Perinatal Mental Health Project.
+
+At Mowbray, I met with a counsellor. It was very good to speak to her about how I was feeling and to just talk out about everything. That was what was killing me, having to keep all my feelings inside of me for a long time. I was so lonely and there were so many things that I needed someone to listen to. I needed to express my feelings and to be heard when I was saying something. I needed someone who could understand and who could listen when I was talking. Meeting with this counsellor gave me that chance to finally speak out, which helped so much. They also sent me to a psychiatrist to get medication for my depression. Now I am doing just fine and coping very well with motherhood.
+
+Dealing with perinatal and postnatal depression is a very difficult thing. When you are depressed there are so many things that are affecting you. You may not be able to tell exactly what it is that is making you feel so bad, but just that you can’t get out from the fog you are in. Everything can feel like it is just falling apart, that nothing is happening right or according to plans. You may not know to take it seriously when you are first suffering from it, but it is very important to address it and to find a way out. There are so many women who are dying inside from this thing. They don’t know how to deal with it or how to cope. Everything in their lives is turning upside down. And they need someone who will understand and not judge them.
+
+That is why I talk about this depression with everyone. I even talk to mothers I see on the bus. I want everyone to know about this problem. I want the mothers to listen.
+
+If I could have my way, each and every one of the hospitals would have these kinds of counsellors, especially the government hospitals which are for everybody. That way everyone, including all black women who really don’t know anything about this depression, could get help.
+
+Until that happens, I hope that all the mothers out there, who are suffering from perinatal and postnatal depression, will take care of themselves and find support. You only live once, and it does not have to be a life filled with depression!

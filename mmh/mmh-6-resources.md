@@ -201,7 +201,7 @@ hoe jy nou vandag voel nie.
 
 *Baie dankie*
 
-### Edinburgh Postanal Depression Scale (EPDS) (isiXhosa)
+### Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
 
 *Indlela endiziva ngayo ngexa ndikhulelweyo naxa disasandula ukufumana umntwana.*
 
@@ -430,7 +430,6 @@ Nous aimerions connaître votre situation durant votre grossesse. Ce questionnai
 
 *Merci*
 
-
 ## 2.	Termination of Pregnancy Services
 
 Certain public health facilities should be able to perform terminations of pregnancy free of charge. These services are less available in rural areas. 
@@ -472,19 +471,19 @@ For an adoption to take place, an adoption agency needs to:
 
 Organisations that assist with adoption services: 
 
-**ACVV (Afrikaanse Christelike Vroue Vereniging)**
+#### ACVV (Afrikaanse Christelike Vroue Vereniging)
 
 *	A welfare organisation, with 112 branches in the Western Cape, Eastern Cape, Northern Cape and North West, that focuses on general child and family services.
 *	Tel: 021 461 7437
 *	www.acvv.org.za
 
-**BADISA**
+#### BADISA
  
 *	BADISA has 52 social service offices providing services in various towns/districts in the Eastern-, Northern- and Western Cape. 
 *	Tel: 021 957 7130
 *	www.badisa.org.za
 
-**Child Welfare South Africa (CWSA)**
+#### Child Welfare South Africa (CWSA)
  
 *	An umbrella body that represents more than 263 member organisations and outreach projects in communities throughout South Africa. They have offices and member organisations in all the nine provinces of the country.
 *	Tel: 021 945 3111
@@ -619,7 +618,7 @@ Depending on the severity of the abuse, once the application forms and affidavit
 
 All courts process Protection Orders slightly differently, but the procedure that most courts follow is described below. 
 
-**Applying for the Protection Order**
+#### Applying for the Protection Order
 
 A woman can apply for a Protection Order at any Magistrates’ Court nearest to where she lives or works, nearest to where her abuser lives or works, or nearest to where the abuse took place. 
 
@@ -636,7 +635,7 @@ In this section, we will refer to a woman applying for a Protection Order.
 9.	If the clerk does not give the woman an Interim or Final Warrant of Arrest, she must demand one or report it to the chief magistrate. 
 10.	The woman’s court return date should not be less than 10 days after the Interim Protection Order has been served on the abuser. However, there is no time limit as to how far in advance the date should be made for the final court hearing. 
 
-**Finalising the Protection Order**
+#### Finalising the Protection Order
 
 11.	The Interim Protection Order lasts until the woman and her abuser have to go back to court on the woman’s return date to find out if she can get a Final Protection Order.
 12.	During her hearing in court, the magistrate, and lawyers (if she or the abuser have one) will ask questions to her and her abuser. 
@@ -692,7 +691,7 @@ A letter of referral may be used when referring to an organisation outside your 
 | Job Title                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-**Mental Health Referral Evaluation**
+#### Mental Health Referral Evaluation
 
 This evaluation form helps to see if your referral has been useful. 
 
@@ -766,18 +765,20 @@ After referring your client, complete a “follow-up” evaluation using the for
 | National Mental Health Information Line                     | 0800 567 567                        |
 |-------------------------------------------------------------+-------------------------------------|
 
+> National Mental Health Information Line: 0800 567 567
+
 ## 9.	South African organisations for training in counselling
 
 ### Lay counselling training
 
-**Families South Africa (FAMSA)**
+#### Families South Africa (FAMSA)
 
 *	Offers basic and advanced counselling training to support staff, common interest groups and community developers
 *	www.famsa.org.za
 *	011 975 7106
 *	011 975 7107
 
-**Lifeline**
+#### Lifeline
 
 *	Offers a training programme for volunteer champions
 *	www.lifeline.org
@@ -786,26 +787,26 @@ After referring your client, complete a “follow-up” evaluation using the for
 
 ### Professional counselling training
 
-**CTI education group**
+#### CTI education group
 
 *	Offers a university degree in psychology and counselling (BPysch). The main campus is in Midrand, but they have links to remote sites of delivery around the country.
 *	www.cti.co.za
 *	011 467 8422
 
-**Families South Africa (FAMSA)**
+#### Families South Africa (FAMSA)
 
 *	Offers advanced and special groups counselling to professionals. They have offices in each province in South Africa.
 *	www.famsa.org.za
 *	011 975 7106
 *	011 975 7107
 
-**South African College of Applied Psychology (SACAP)**
+#### South African College of Applied Psychology (SACAP)
 
 *	Offers accredited counselling, coaching and Psychology courses. They offer distance learning and have campuses in Cape Town, Johannesburg and also offer online studies.
 *	www.sacap.edu.za
 *	0860 77 1111
 
-**University South Africa (UNISA)**
+#### University South Africa (UNISA)
 
 *	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma counselling). Studies can be done through distance learning
 *	www.unisa.ac.za
