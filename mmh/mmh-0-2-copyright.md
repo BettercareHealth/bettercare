@@ -3,7 +3,7 @@ title: Copyright
 layout: frontmatter
 ---
 
-Maternal Mental Health: A guide for healthcare workers
+**Maternal Mental Health: A guide for healthcare workers**
 
 First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 

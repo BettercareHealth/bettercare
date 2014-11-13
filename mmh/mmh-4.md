@@ -50,7 +50,7 @@ By caring for a mother’s overall well-being, the health worker can also have a
 
 The BBI is an international project which aims to improve the quality of care during labour and childbirth. By adopting the BBI principles and practices - which are based on scientific evidence – health workers can prevent harm and improve the health of mothers and their babies. The BBI principles are useful and widely used in the South African setting, and have been adopted in many maternity units in low- and middle-income countries.  
 
-> The Better Births Initiative aims at improving the quality of care during labour and delivery. 
+> The Better Births Initiative aims to improve the quality of care during labour and delivery. 
 
 ### 4-5 What are the principles of BBI? 
 
@@ -64,14 +64,14 @@ BBI is based on 4 main principles:
 ### 4-6 What are the practices and procedures around childbirth that BBI recommends health workers should avoid? 
 
 Avoid practices which have no proven benefit, for example:
-
+{:.keep-with-next}
 *	Shaving
 *	Enemas
 *	Supine position at delivery (lying on the back)
 *	Withholding fluid and food in labour.
 
 Avoid procedures for which there is no proven benefit, for example:
-
+{:.keep-with-next}
 *	Performing routine episiotomy without a clinical indication
 *	Routinely rupturing the membranes early (amniotomy) even when the progress of labour is good
 *	Providing routine nasal and oral suction for infants even when meconium is not present.
@@ -105,6 +105,7 @@ Her emotional state can be influenced by:
 *	Community: Safety, crime, availability of services, stigma, religious groups
 
 The following image shows the different factors which can influence a woman’s emotional state during the perinatal period. 
+{:.keep-with-next}
 
 <figure>
 	<img src="images/mmh-4-1.svg" alt="Figure 4-1: Factors affecting a woman's emotional state in the perinatal period">
@@ -569,14 +570,14 @@ Responding appropriately
 | It's all his fault.                              | Tell me how he's involved.                                                  |
 | What should I do?                                | What are your choices? Let's talk about them.                               |
 | I'm so tired because my baby cries all the time. | It takes courage to say how you really feel.                                |
-| I smacked my baby really hard.                   | * What do you think drove you to do this?                                   |
-|                                                  | * How often has it happened?                                                |
-|                                                  | * I think you need to be referred to someone to help you with this problem. |
+| I smacked my baby really hard.                   | What do you think drove you to do this?                                   |
+|                                                  | How often has it happened?                                                |
+|                                                  | I think you need to be referred to someone to help you with this problem. |
 |                                                  | (More information about child abuse is in Chapter 5.)                       |
 | I'll never be the same again.                    | That must be a scary feeling.                                               |
 | I feel terrible.                                 | Tell me about your feelings.                                                |
-| I want to kill myself.                           | * Why do you think suicide is a way out?                                    |
-|                                                  | * How long have you been feeling this way?                                  |
+| I want to kill myself.                           | Why do you think suicide is a way out?                                    |
+|                                                  | How long have you been feeling this way?                                  |
 |                                                  | (More information about suicide is in Chapter 5.)                           |
 |--------------------------------------------------+-----------------------------------------------------------------------------|
 
@@ -603,7 +604,8 @@ A mother, with 2 small children, is pregnant once again. This is not a planned p
 ### 3.	Why is the health worker’s relationship with this mother so important?
 
 Women who experience emotional difficulties are more likely to experience physical health problems. Gentle and compassionate care from the health worker is likely to have a positive influence on the mother, her pregnancy and her interaction with the child. 
-Your facility has adopted the principles and practices of the Better Birth Initiative (BBI).  You want to explain to this mother what she can expect during labour, based on the practices that BBI promotes. 
+
+*Your facility has adopted the principles and practices of the Better Birth Initiative (BBI).  You want to explain to this mother what she can expect during labour, based on the practices that BBI promotes.*
 
 ### 4.	What are practices that BBI promotes for during labour?
 
@@ -642,7 +644,7 @@ A primigravid mother who you have seen throughout her pregnancy has just given b
 *	Isolation at home
 *	Economic worries.
 
-As this mother had not given birth before, she asked many questions about the facility and about the birth process. She was very worried before she went into labour. 
+*As this mother had not given birth before, she asked many questions about the facility and about the birth process. She was very worried before she went into labour.*
 
 ### 3.	What are some of things that might have been influencing how she felt?
 
@@ -657,7 +659,7 @@ As this mother had not given birth before, she asked many questions about the fa
 *	Scared of the doctors, midwives or medical equipment
 *	Feeling helpless, degraded or embarrassed. 
 
-After the birth, the mother kept crying and then smiling at her baby. She was relieved that the delivery had gone well. She felt disappointed that she had a girl, when her husband had wanted a son. She was exhausted, but pleased that she was able to breastfeed and that the baby latched on well. She was worried about giving the baby a bath and what would happen when she got home. She was proud to be a mother but feeling overwhelmed by the responsibilities. 
+*After the birth, the mother kept crying and then smiling at her baby. She was relieved that the delivery had gone well. She felt disappointed that she had a girl, when her husband had wanted a son. She was exhausted, but pleased that she was able to breastfeed and that the baby latched on well. She was worried about giving the baby a bath and what would happen when she got home. She was proud to be a mother but feeling overwhelmed by the responsibilities.*
 
 ### 4.	Identify the positive emotions that this mother feels.
 
@@ -708,7 +710,7 @@ Create a better working environment (smile, greet, give positive feedback, liste
 *	Get enough sleep
 *	Pay attention to her physical health.
 
-If your colleague does not get help, and is feeling upset and unhappy, she may act in an uncaring and harsh manner towards mothers at the facility. 
+*If your colleague does not get help, and is feeling upset and unhappy, she may act in an uncaring and harsh manner towards mothers at the facility.*
 
 ### 5.	How might her clients react to this treatment?
 
@@ -738,7 +740,7 @@ Both women are distressed.
 
 Elise is scared and worried. When Sr. Michaels was cross with her, she reacted with a ‘flight’ reaction. This is a way of expressing her emotions. 
 
-Elise is being uncooperative, so it is taking longer for Sr. Michaels to see to all her patients, and she will get home late again after her shift. This makes her more frustrated and stressed. As a professional, she needs to separate her own issues from her interaction with Elise. 
+*Elise is being uncooperative, so it is taking longer for Sr. Michaels to see to all her patients, and she will get home late again after her shift. This makes her more frustrated and stressed. As a professional, she needs to separate her own issues from her interaction with Elise.*
 
 ### 3.	What are the basic counselling skills that Sr. Michaels could use to help in her interaction with Elise?
 
@@ -778,7 +780,7 @@ A colleague from work has just had a phone call from her brother. The brother’
 *	Ask questions of clarity. For example: “Does your brother live near to you?”
 *	Validate how she is feeling. For example: “This must be very upsetting for you and your family.”
 
-In this conversation, your colleague said: “I am so worried. My nephew, Henry, has always been a bit wild. He could have been drinking! He has put so many grey hairs on my brother’s head. Maybe he caused the accident? There could have been other people hurt in the accident! My brother will be frantic with worry about all this. Henry could have permanent damage. I just don’t know what to do to help!”
+*In this conversation, your colleague said: “I am so worried. My nephew, Henry, has always been a bit wild. He could have been drinking! He has put so many grey hairs on my brother’s head. Maybe he caused the accident? There could have been other people hurt in the accident! My brother will be frantic with worry about all this. Henry could have permanent damage. I just don’t know what to do to help!”*
 
 ### 3.	How could you paraphrase this conversation?
 
@@ -787,7 +789,8 @@ You could say: “What I am understanding is that you are worried that Henry cou
 ### 4.	How can you give feedback?
 
 You could say: “You sound very worried about the situation with Henry, but nothing you have told me indicates that he has actually done anything wrong. Do you think you could find out more?” Or you could say: “It sounds as if you want to support your brother. What do you think he would like from you right now?” 
-Your colleague decides that she will take the rest of the week off to help her brother. The other sister on the team is already on maternity leave. This is going to mean that you will have to deal with a greater patient load.  You think that your colleague has not thought about what the consequences will be if she takes time off.  
+
+*Your colleague decides that she will take the rest of the week off to help her brother. The other sister on the team is already on maternity leave. This is going to mean that you will have to deal with a greater patient load.  You think that your colleague has not thought about what the consequences will be if she takes time off.*
 
 ### 5.	How would you show positive regard?
 
@@ -822,11 +825,11 @@ Answer the following questions as if you, yourself, were one of the mothers desc
 *	What are you most worried about?
 
 **Your notes**
-
+{:.keep-with-next}
 After thinking about these questions, write down some points which would be important to remember when dealing with mothers from any of the above circumstances.
 
 **Note**
-
+{:.keep-with-next}
 There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story.  Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
 
 ### Activity 2: Understanding your own reactions
@@ -863,6 +866,8 @@ Read through the following journeys of two women, a health worker and a pregnant
 
 You are Johanna Booi from Township X. You are 23 years old with one child and are unbooked at 25 weeks pregnant. You arrive for your first visit at 10am at the clinic where you delivered previously.
 
+*	How do you feel? What help and support do you need?
+
 You are Sr. Sarah Jack, a divorced mother of two children, aged 4 and 2. You are working two extra shifts this week to make enough money for rent. Johanna is 3 hours late for her first visit. 
 
 *	How do you feel? What help and support do you need?
@@ -870,6 +875,8 @@ You are Sr. Sarah Jack, a divorced mother of two children, aged 4 and 2. You are
 *Second antenatal visit*
 
 Johanna Booi: You are one week late for your second appointment as your previous employer threatened to fire you for days of missed work. Now your contract is over and you are unemployed, but your neighbour wanted help with a casual laundry service this morning. This was the first opportunity for you to earn money in 2 weeks as your child had been sick at home with TB. The sister starts to ask why you did not come at the proper time.  
+
+*	How do you feel? What help and support do you need?
 
 Sr. Sarah Jack: The full quota of 18 new bookings was filled at 7:30am as usual. You are the only sister in the clinic and are half-way through seeing your patients. You have not taken tea yet. Johanna has a blank face when you ask why she did not attend her second appointment.
 
@@ -879,6 +886,8 @@ Sr. Sarah Jack: The full quota of 18 new bookings was filled at 7:30am as usual.
 
 Johanna Booi: You default the clinic date that was given to you as you were beaten up by your boyfriend the day before and had had to move out and stay with a friend in another township. You did not have money for taxi fare on that day. It is now 2 weeks later. You are still staying with your friend. You finally manage to attend another clinic visit. The same nurse calls you into her cubicle. 
 
+*	How do you feel? What help and support do you need?
+
 Sr. Sarah Jack: You have had a bad night with a sick child. You had to get up at 4am to take him to your ex-mother-in-law to look after him for the day. Johanna tells you she no longer lives in the catchment area of your clinic. 
 
 *	How do you feel? What help and support do you need?
@@ -887,6 +896,8 @@ Sr. Sarah Jack: You have had a bad night with a sick child. You had to get up at
 
 Johanna Booi: You are back living with your boyfriend in Township X. You are 36 weeks pregnant now and had a huge fight with him last night. Your membranes ruptured at 5am. It is now 2pm. You have had to arrange childcare for child and have had to borrow money for taxi fare to take her to your mother. You arrive in the labour ward where you see the same sister.
 
+*	How do you feel? What help and support do you need?
+
 Sr. Sarah Jack: You are on labour ward duty even though you have been working full shifts in the clinic because your colleague has gone off with her 4th migraine this month. You have just delivered a 15 year-old primigravida who swore at you throughout the labour. You see Johanna arrive and see from the notes that her membranes ruptured many hours ago.
 
 *	How do you feel? What help and support do you need?
@@ -894,6 +905,8 @@ Sr. Sarah Jack: You are on labour ward duty even though you have been working fu
 *Postnatal visit*
 
 Johanna Booi: After delivery, the baby was transferred to another hospital for respiratory distress and discharged 2 days later. You went home to your boyfriend’s house only to hear that he said he is not the father. You have not been able to sleep at night even though you are exhausted. You attend the clinic on Day 4 for postnatal care. The same sister is on duty.
+
+*	How do you feel? What help and support do you need?
 
 Sr. Sarah Jack: You have been called by the junior nurse in the postnatal clinic to give advice about the weight loss and dehydration of Johanna’s baby. Johanna has said that she cannot breastfeed and requests help with getting formula. 
 
@@ -905,13 +918,10 @@ After thinking about Sr Jack’s and Johanna’s secret histories, write down yo
 
 **Activity conclusions**
 
-You may have come to the following conclusions from this exercise:
-
-Both Sr. Jack and Johanna are going through difficulties in their lives at the moment. They need to interact, at an intimate level, about important maternity care issues, yet neither of them is aware of the other person’s distress.
-
-The strain of their personal lives may break down the vital relationships between them. This may discourage the health worker further and may also be dangerous for the mother and the baby. When women feel the disapproval and resentment of staff, they are far less likely to attend the clinic appropriately or report important medical information. This again can make the working conditions of the staff more difficult. 
-
-Sr. Jack’s secret history is a vital part of who she is. She deserves to have assistance for her problems. However, as a professional, Sr. Jack should try to separate her own issues from her interaction with Johanna. If not, the interaction may be destructive for both of them.
+*	You may have come to the following conclusions from this exercise:
+*	Both Sr. Jack and Johanna are going through difficulties in their lives at the moment. They need to interact, at an intimate level, about important maternity care issues, yet neither of them is aware of the other person’s distress.
+*	The strain of their personal lives may break down the vital relationships between them. This may discourage the health worker further and may also be dangerous for the mother and the baby. When women feel the disapproval and resentment of staff, they are far less likely to attend the clinic appropriately or report important medical information. This again can make the working conditions of the staff more difficult. 
+*	Sr. Jack’s secret history is a vital part of who she is. She deserves to have assistance for her problems. However, as a professional, Sr. Jack should try to separate her own issues from her interaction with Johanna. If not, the interaction may be destructive for both of them.
 
 ### Activity 4: Who can you talk to?
 
@@ -937,7 +947,7 @@ In many provinces, health workers and their dependants have access to the ICAS e
 *	They can be reached by telephone 24 hours a day. 
 *	Toll free number: 0800 068 6858 
 
-#### SADAG (South African Depression & Anxiety Group)**
+#### SADAG (South African Depression & Anxiety Group)
 
 SADAG offers referrals to psychologists, psychiatrists or support groups by trained counsellors. 
 
@@ -995,7 +1005,7 @@ The following resources can be photocopied and given to pregnant or new mothers.
 |-------------------------------------+------------------| 
 
 **Other**
-
+{:.keep-with-next}
 (include your own notes here)
 
 *	

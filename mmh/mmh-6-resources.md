@@ -29,6 +29,8 @@ This section provides copies of the screening tools discussed in this book, info
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French.  
 *	Information about how to score each screening tool can be found in Chapter 2. 
 
+### 1-1 The Whooley Depression Screen
+
 The Whooley Depression Screen (English)
 {:.table-caption}
 
@@ -73,6 +75,8 @@ The Whooley Depression Screen (French)
 | 3 | Voulez-vous ou avez-vous besoin d’aide avec ces sentiments-là?                                                            | Oui | Non |
 |---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
 
+### 1-2 Edinburgh Postnatal Depression Scale (EPDS)
+
 Edinburgh Postnatal Depression Scale (EPDS) (English)
 {:.table-caption}
 
@@ -86,55 +90,55 @@ There is a choice of four answers for each question. Please mark the one that co
 |    |                       In the past seven days:                        |   |
 |----+----------------------------------------------------------------------+---|
 |  1 | I have been able to see the funny side of things:                    |   |
-|    | As much as I always could                                            | 0 |
-|    | Not quite so much now                                                | 1 |
-|    | Definitely not so much now                                           | 2 |
-|    | Not at all                                                           | 3 |
+|    | As much as I always could                                            |   |
+|    | Not quite so much now                                                |   |
+|    | Definitely not so much now                                           |   |
+|    | Not at all                                                           |   |
 |  2 | I have looked forward with enjoyment to things:                      |   |
-|    | As much as I ever did                                                | 0 |
-|    | A little less than I used to                                         | 1 |
-|    | Much less than I used to                                             | 2 |
-|    | Hardly at all                                                        | 3 |
+|    | As much as I ever did                                                |   |
+|    | A little less than I used to                                         |   |
+|    | Much less than I used to                                             |   |
+|    | Hardly at all                                                        |   |
 |  3 | I have blamed myself when things went wrong, and it wasn't my fault: |   |
-|    | Yes, most of the time                                                | 3 |
-|    | Yes, some of the time                                                | 2 |
-|    | Not very much                                                        | 1 |
-|    | No, never                                                            | 0 |
+|    | Yes, most of the time                                                |   |
+|    | Yes, some of the time                                                |   |
+|    | Not very much                                                        |   |
+|    | No, never                                                            |   |
 |  4 | I have been worried and I don't know why:                            |   |
-|    | No, not at all                                                       | 0 |
-|    | Hardly ever                                                          | 1 |
-|    | Yes, sometimes                                                       | 2 |
-|    | Yes, very much                                                       | 3 |
+|    | No, not at all                                                       |   |
+|    | Hardly ever                                                          |   |
+|    | Yes, sometimes                                                       |   |
+|    | Yes, very much                                                       |   |
 |  5 | I have felt scared or panicky and I don't know why:                  |   |
-|    | Yes, quite a lot                                                     | 3 |
-|    | Yes, sometimes                                                       | 2 |
-|    | No, not much                                                         | 1 |
-|    | No, not at all                                                       | 0 |
+|    | Yes, quite a lot                                                     |   |
+|    | Yes, sometimes                                                       |   |
+|    | No, not much                                                         |   |
+|    | No, not at all                                                       |   |
 |  6 | I have had difficulty in coping with things:                         |   |
-|    | Yes, most of the time I haven't been coping at all                   | 3 |
-|    | Yes, sometimes I haven't been coping as well as usual                | 2 |
-|    | No, most of the time I have coping quite well                        | 1 |
-|    | No, I have been coping as well as ever                               | 0 |
+|    | Yes, most of the time I haven't been coping at all                   |   |
+|    | Yes, sometimes I haven't been coping as well as usual                |   |
+|    | No, most of the time I have coping quite well                        |   |
+|    | No, I have been coping as well as ever                               |   |
 |  7 | I have been so unhappy I have had difficulty sleeping:               |   |
-|    | Yes, most of the time                                                | 3 |
-|    | Yes, sometimes                                                       | 2 |
-|    | Not very much                                                        | 1 |
-|    | No, not at all                                                       | 0 |
+|    | Yes, most of the time                                                |   |
+|    | Yes, sometimes                                                       |   |
+|    | Not very much                                                        |   |
+|    | No, not at all                                                       |   |
 |  8 | I have felt sad and miserable:                                       |   |
-|    | Yes, most of the time                                                | 3 |
-|    | Yes, quite a lot                                                     | 2 |
-|    | Not very much                                                        | 1 |
-|    | No, not at all                                                       | 0 |
+|    | Yes, most of the time                                                |   |
+|    | Yes, quite a lot                                                     |   |
+|    | Not very much                                                        |   |
+|    | No, not at all                                                       |   |
 |  9 | I have been so unhappy that I have been crying:                      |   |
-|    | Yes, most of the time                                                | 3 |
-|    | Yes, quite a lot                                                     | 2 |
-|    | Only sometimes                                                       | 1 |
-|    | No, never                                                            | 0 |
+|    | Yes, most of the time                                                |   |
+|    | Yes, quite a lot                                                     |   |
+|    | Only sometimes                                                       |   |
+|    | No, never                                                            |   |
 | 10 | I have thought of harming myself or ending my life:                  |   |
-|    | Yes, quite a lot                                                     | 3 |
-|    | Sometimes                                                            | 2 |
-|    | Hardly ever                                                          | 1 |
-|    | Never                                                                | 0 |
+|    | Yes, quite a lot                                                     |   |
+|    | Sometimes                                                            |   |
+|    | Hardly ever                                                          |   |
+|    | Never                                                                |   |
 |----+----------------------------------------------------------------------+---|
  
 Thank you
@@ -154,55 +158,55 @@ hoe jy nou vandag voel nie.
 |    |                        Gedurende die afgelope sewe dae:                         |   |
 |----+---------------------------------------------------------------------------------+---|
 |  1 | Kon ek die snaakse kant van dinge sien:                                         |   |
-|    | So maklik soos ek altyd kon                                                     | 0 |
-|    | Nie heeltemal so maklik nie                                                     | 1 |
-|    | Definitief nie so maklik nie                                                    | 2 |
-|    | Glad nie                                                                        | 3 |
+|    | So maklik soos ek altyd kon                                                     |   |
+|    | Nie heeltemal so maklik nie                                                     |   |
+|    | Definitief nie so maklik nie                                                    |   |
+|    | Glad nie                                                                        |   |
 |  2 | Kon ek met genot na dinge uitsien:                                              |   |
-|    | So baie soos ek altyd het                                                       | 0 |
-|    | ‘n Bietjie minder as wat ek altyd het                                           | 1 |
-|    | Baie minder as wat ek gewoonlik het                                             | 2 |
-|    | Amper glad nie                                                                  | 3 |
+|    | So baie soos ek altyd het                                                       |   |
+|    | ‘n Bietjie minder as wat ek altyd het                                           |   |
+|    | Baie minder as wat ek gewoonlik het                                             |   |
+|    | Amper glad nie                                                                  |   |
 |  3 | Het ek myself blameer wanneer dinge verkeerd gaan, al was dit nie my skuld nie: |   |
-|    | Ja, meeste van die tyd                                                          | 3 |
-|    | Ja, soms                                                                        | 2 |
-|    | Nee, nie dikwels nie                                                            | 1 |
-|    | Nee, nooit nie                                                                  | 0 |
+|    | Ja, meeste van die tyd                                                          |   |
+|    | Ja, soms                                                                        |   |
+|    | Nee, nie dikwels nie                                                            |   |
+|    | Nee, nooit nie                                                                  |   |
 |  4 | Was ek bekommerd en ek weet nie hoekom nie:                                     |   |
-|    | Nee, glad nie                                                                   | 0 |
-|    | Omtrent nooit                                                                   | 1 |
-|    | Ja, soms                                                                        | 2 |
-|    | Ja, dikwels                                                                     | 3 |
+|    | Nee, glad nie                                                                   |   |
+|    | Omtrent nooit                                                                   |   |
+|    | Ja, soms                                                                        |   |
+|    | Ja, dikwels                                                                     |   |
 |  5 | Het ek bang en paniekerig gevoel en ek weet nie hoekom nie:                     |   |
-|    | Ja, nogal baie                                                                  | 3 |
-|    | Ja, soms                                                                        | 2 |
-|    | Nee, nie so baie nie                                                            | 1 |
-|    | Nee, glad nie                                                                   | 0 |
+|    | Ja, nogal baie                                                                  |   |
+|    | Ja, soms                                                                        |   |
+|    | Nee, nie so baie nie                                                            |   |
+|    | Nee, glad nie                                                                   |   |
 |  6 | Het ek gesukkel om dinge te hanteer:                                            |   |
-|    | Ja, meeste van die tyd sukkel ek om dinge te hanteer                            | 3 |
-|    | Ja, soms hanteer ek dinge nie so maklik soos gewoonlik nie                      | 2 |
-|    | Nee, meesal hanteer ek dinge redelik goed                                       | 1 |
-|    | Nee, ek hanteer dinge so goed as wat ek altyd kon                               | 0 |
+|    | Ja, meeste van die tyd sukkel ek om dinge te hanteer                            |   |
+|    | Ja, soms hanteer ek dinge nie so maklik soos gewoonlik nie                      |   |
+|    | Nee, meesal hanteer ek dinge redelik goed                                       |   |
+|    | Nee, ek hanteer dinge so goed as wat ek altyd kon                               |   |
 |  7 | Was ek so ongelukkig dat ek sleg geslaap het:                                   |   |
-|    | Ja, meeste van die tyd                                                          | 3 |
-|    | Ja, soms                                                                        | 2 |
-|    | Nie dikwels nie                                                                 | 1 |
-|    | Nee, glad nie                                                                   | 0 |
+|    | Ja, meeste van die tyd                                                          |   |
+|    | Ja, soms                                                                        |   |
+|    | Nie dikwels nie                                                                 |   |
+|    | Nee, glad nie                                                                   |   |
 |  8 | Het ek hartseer en ongelukkig gevoel:                                           |   |
-|    | Ja, meeste van die tyd                                                          | 3 |
-|    | Ja, nogal dikwels                                                               | 2 |
-|    | Nie dikwels nie                                                                 | 1 |
-|    | Nee, nooit nie                                                                  | 0 |
+|    | Ja, meeste van die tyd                                                          |   |
+|    | Ja, nogal dikwels                                                               |   |
+|    | Nie dikwels nie                                                                 |   |
+|    | Nee, nooit nie                                                                  |   |
 |  9 | Was ek so hartseer dat ek gehuil het:                                           |   |
-|    | Ja, meeste van die tyd                                                          | 3 |
-|    | Ja, dikwels                                                                     | 2 |
-|    | Net soms                                                                        | 1 |
-|    | Nee, nooit                                                                      | 0 |
+|    | Ja, meeste van die tyd                                                          |   |
+|    | Ja, dikwels                                                                     |   |
+|    | Net soms                                                                        |   |
+|    | Nee, nooit                                                                      |   |
 | 10 | Die idee om myself leed aan te doen het al by my opgekom:                       |   |
-|    | Ja, nogal dikwels                                                               | 3 |
-|    | Soms                                                                            | 2 |
-|    | Amper nooit                                                                     | 1 |
-|    | Nooit                                                                           | 0 |
+|    | Ja, nogal dikwels                                                               |   |
+|    | Soms                                                                            |   |
+|    | Amper nooit                                                                     |   |
+|    | Nooit                                                                           |   |
 |----+---------------------------------------------------------------------------------+---|
 
 Baie dankie
@@ -220,55 +224,55 @@ Kunentlobo ezine zempendulo kumbuzo ngamnye, Nceda yenza isangqa kwenye ethe yas
 |    |                          Kwintsuku ezisixhenxe ezidlulileyo:                          |   |
 |----+---------------------------------------------------------------------------------------+---|
 |  1 | Ndibenakho ukubona icala lezinto ezingalunganga:                                      |   |
-|    | Kangangoko bendisenza                                                                 | 0 |
-|    | Hayi kangako                                                                          | 1 |
-|    | Ngokuqinesekileyo akukho kangako ngoku                                                | 2 |
-|    | Akukho kwaphela                                                                       | 3 |
+|    | Kangangoko bendisenza                                                                 |   |
+|    | Hayi kangako                                                                          |   |
+|    | Ngokuqinesekileyo akukho kangako ngoku                                                |   |
+|    | Akukho kwaphela                                                                       |   |
 |  2 | Izinto ndizijonga ndinolonwabo:                                                       |   |
-|    | Njengoko bendihlala ndisenza                                                          | 0 |
-|    | Kancinane kunokuba ndisenza                                                           | 1 |
-|    | Kancinci kakhulu kunokuba bendisenza                                                  | 2 |
-|    | Hayi konke konke                                                                      | 3 |
+|    | Njengoko bendihlala ndisenza                                                          |   |
+|    | Kancinane kunokuba ndisenza                                                           |   |
+|    | Kancinci kakhulu kunokuba bendisenza                                                  |   |
+|    | Hayi konke konke                                                                      |   |
 |  3 | Bendibeka ityala kum xa izinto zingandihambeli kakhule, ibe ingeyompazamo yam:        |   |
-|    | Ewe amaxesha amaninzi                                                                 | 3 |
-|    | Ewe ngelinye ixesha                                                                   | 2 |
-|    | Hayi kangako                                                                          | 1 |
-|    | Hayi kwaphela                                                                         | 0 |
+|    | Ewe amaxesha amaninzi                                                                 |   |
+|    | Ewe ngelinye ixesha                                                                   |   |
+|    | Hayi kangako                                                                          |   |
+|    | Hayi kwaphela                                                                         |   |
 |  4 | Bendikhathazekile kwaye ndingamazi unobangela:                                        |   |
-|    | Hayi konke konke                                                                      | 0 |
-|    | Kunqabile ukuba kwenzeka                                                              | 1 |
-|    | Ewe ngamanye amaxesha                                                                 | 2 |
-|    | Ewe kakhulu                                                                           | 3 |
+|    | Hayi konke konke                                                                      |   |
+|    | Kunqabile ukuba kwenzeka                                                              |   |
+|    | Ewe ngamanye amaxesha                                                                 |   |
+|    | Ewe kakhulu                                                                           |   |
 |  5 | Bendiziva ndisoyika okanye ndinexhala kwaye ndingamazi unobangela:                    |   |
-|    | Ewe kakhulu                                                                           | 3 |
-|    | Ewe ngamanye amaxesha                                                                 | 2 |
-|    | Hayi kangako                                                                          | 1 |
-|    | Hayi konke konke                                                                      | 0 |
+|    | Ewe kakhulu                                                                           |   |
+|    | Ewe ngamanye amaxesha                                                                 |   |
+|    | Hayi kangako                                                                          |   |
+|    | Hayi konke konke                                                                      |   |
 |  6 | Ndifumene ubunzima kakhulu ukumelana nezinto:                                         |   |
-|    | Ewe ixesha elininzi bendikwazi ukumelana nezinto                                      | 3 |
-|    | Ewe ngelinye ixesha bendingakwazi ukumelana nezinto ngendlela ebendimelana nazo ngayo | 2 |
-|    | Hayi ixesha elininzi bendiphumelela kakhulu                                           | 1 |
-|    | Hayi bendingafumani bunzima kwaphela                                                  | 0 |
+|    | Ewe ixesha elininzi bendikwazi ukumelana nezinto                                      |   |
+|    | Ewe ngelinye ixesha bendingakwazi ukumelana nezinto ngendlela ebendimelana nazo ngayo |   |
+|    | Hayi ixesha elininzi bendiphumelela kakhulu                                           |   |
+|    | Hayi bendingafumani bunzima kwaphela                                                  |   |
 |  7 | Bendingonwabanga kakhulu kwaye bendifumana ubunzima xa kufuneka ndilele:              |   |
-|    | Ewe ixesha elininzi                                                                   | 3 |
-|    | Ewe ngalinye ixesha                                                                   | 2 |
-|    | Hayi kangako                                                                          | 1 |
-|    | Hayi konke konke                                                                      | 0 |
+|    | Ewe ixesha elininzi                                                                   |   |
+|    | Ewe ngalinye ixesha                                                                   |   |
+|    | Hayi kangako                                                                          |   |
+|    | Hayi konke konke                                                                      |   |
 |  8 | Bendizive ndibuhlungu kwaye ndixhalisekile:                                           |   |
-|    | Ewe amaxesha amaninzi                                                                 | 3 |
-|    | Ewe ngolonahlobo                                                                      | 2 |
-|    | Hayi kangako                                                                          | 1 |
-|    | Hayi konke konke                                                                      | 0 |
+|    | Ewe amaxesha amaninzi                                                                 |   |
+|    | Ewe ngolonahlobo                                                                      |   |
+|    | Hayi kangako                                                                          |   |
+|    | Hayi konke konke                                                                      |   |
 |  9 | Bendingonwabanga kakhulu ndisoloko ndilila:                                           |   |
-|    | Ewe ixesha elininzi                                                                   | 3 |
-|    | Ewe ngolonahlobo                                                                      | 2 |
-|    | Ngamanye amaxesha                                                                     | 1 |
-|    | Hayi azange                                                                           | 0 |
+|    | Ewe ixesha elininzi                                                                   |   |
+|    | Ewe ngolonahlobo                                                                      |   |
+|    | Ngamanye amaxesha                                                                     |   |
+|    | Hayi azange                                                                           |   |
 | 10 | Ingcinga yokuzenzakalisa ike yandifikela:                                             |   |
-|    | Ewe ngolonahlobo                                                                      | 3 |
-|    | Ngamanye amaxesha                                                                     | 2 |
-|    | Ayizange kwaphela                                                                     | 1 |
-|    | Ayizange                                                                              | 0 |
+|    | Ewe ngolonahlobo                                                                      |   |
+|    | Ngamanye amaxesha                                                                     |   |
+|    | Ayizange kwaphela                                                                     |   |
+|    | Ayizange                                                                              |   |
 |----+---------------------------------------------------------------------------------------+---|
 
 Enkosi kakhulu
@@ -286,58 +290,60 @@ Il y a un choix de quatre réponses pour chaque question. Encerclez celle qui se
 |    |                                Les sept derniers jours:                                |   |
 |----+----------------------------------------------------------------------------------------+---|
 |  1 | J’ai été capable de voir le côté amusant des choses:                                   |   |
-|    | Autant que je l’ai toujours pu                                                         | 0 |
-|    | Pas autant maintenant                                                                  | 1 |
-|    | Certainement pas autant                                                                | 2 |
-|    | Pas du tout                                                                            | 3 |
+|    | Autant que je l’ai toujours pu                                                         |   |
+|    | Pas autant maintenant                                                                  |   |
+|    | Certainement pas autant                                                                |   |
+|    | Pas du tout                                                                            |   |
 |  2 | J’ai attendu les événements avec impatience et plaisir:                                |   |
-|    | Autant que je l’ai toujours fait                                                       | 0 |
-|    | Un peu moins qu’auparavant                                                             | 1 |
-|    | Bien moins que d’habitude                                                              | 2 |
-|    | Presque pas                                                                            | 3 |
+|    | Autant que je l’ai toujours fait                                                       |   |
+|    | Un peu moins qu’auparavant                                                             |   |
+|    | Bien moins que d’habitude                                                              |   |
+|    | Presque pas                                                                            |   |
 |  3 | Je me suis blâmée quand les choses n’allaient pas bien et que ce n’était pas ma faute: |   |
-|    | Oui, la plupart du temps                                                               | 3 |
-|    | Oui, quelquefois                                                                       | 2 |
-|    | Pas beaucoup                                                                           | 1 |
-|    | Non jamais                                                                             | 0 |
+|    | Oui, la plupart du temps                                                               |   |
+|    | Oui, quelquefois                                                                       |   |
+|    | Pas beaucoup                                                                           |   |
+|    | Non jamais                                                                             |   |
 |  4 | J’étais inquiète, et je ne savais pas pourquoi:                                        |   |
-|    | Non, pas du tout                                                                       | 0 |
-|    | Presque jamais                                                                         | 1 |
-|    | Oui, quelquefois                                                                       | 2 |
-|    | Oui, beaucoup                                                                          | 3 |
+|    | Non, pas du tout                                                                       |   |
+|    | Presque jamais                                                                         |   |
+|    | Oui, quelquefois                                                                       |   |
+|    | Oui, beaucoup                                                                          |   |
 |  5 | Je me suis sentie effrayée et pleine de panique et je ne savais pas pourquoi:          |   |
-|    | Oui, beaucoup                                                                          | 3 |
-|    | Oui, quelquefois                                                                       | 2 |
-|    | Non, pas beaucoup                                                                      | 1 |
-|    | Non pas du tout                                                                        | 0 |
+|    | Oui, beaucoup                                                                          |   |
+|    | Oui, quelquefois                                                                       |   |
+|    | Non, pas beaucoup                                                                      |   |
+|    | Non pas du tout                                                                        |   |
 |  6 | J’ai eu des difficultés à faire face aux événements:                                   |   |
-|    | Oui, la plupart du temps, je n’ai pas pu me débrouiller                                | 3 |
-|    | Oui, quelquefois, je n’ai pas pu me débrouiller comme d’habitude                       | 2 |
-|    | Non, la plupart du temps, je me suis assez bien débrouillée                            | 1 |
-|    | Non, je me suis pas débrouillée aussi bien qu’avant                                    | 0 |
+|    | Oui, la plupart du temps, je n’ai pas pu me débrouiller                                |   |
+|    | Oui, quelquefois, je n’ai pas pu me débrouiller comme d’habitude                       |   |
+|    | Non, la plupart du temps, je me suis assez bien débrouillée                            |   |
+|    | Non, je me suis pas débrouillée aussi bien qu’avant                                    |   |
 |  7 | J’ai été si malheureuse, que j’ai eu des difficultés à dormir:                         |   |
-|    | Oui, la plupart du temps                                                               | 3 |
-|    | Oui, quelquefois                                                                       | 2 |
-|    | Pas beaucoup                                                                           | 1 |
-|    | Non, pas du tout                                                                       | 0 |
+|    | Oui, la plupart du temps                                                               |   |
+|    | Oui, quelquefois                                                                       |   |
+|    | Pas beaucoup                                                                           |   |
+|    | Non, pas du tout                                                                       |   |
 |  8 | Je me suis sentie triste et misérable:                                                 |   |
-|    | Oui, la plupart du temps                                                               | 3 |
-|    | Oui, beaucoup                                                                          | 2 |
-|    | Non, pas beaucoup                                                                      | 1 |
-|    | Non, pas du tout                                                                       | 0 |
+|    | Oui, la plupart du temps                                                               |   |
+|    | Oui, beaucoup                                                                          |   |
+|    | Non, pas beaucoup                                                                      |   |
+|    | Non, pas du tout                                                                       |   |
 |  9 | J’ai été si malheureuse que j’ai pleuré:                                               |   |
-|    | Oui, la plupart du temps                                                               | 3 |
-|    | Oui, beaucoup                                                                          | 2 |
-|    | Quelquefois seulement                                                                  | 1 |
-|    | Non, jamais                                                                            | 0 |
+|    | Oui, la plupart du temps                                                               |   |
+|    | Oui, beaucoup                                                                          |   |
+|    | Quelquefois seulement                                                                  |   |
+|    | Non, jamais                                                                            |   |
 | 10 | La pensée de me faire du mal m’est venue:                                              |   |
-|    | Oui, souvent                                                                           | 3 |
-|    | Quelquefois                                                                            | 2 |
-|    | Presque jamais                                                                         | 1 |
-|    | Jamais                                                                                 | 0 |
+|    | Oui, souvent                                                                           |   |
+|    | Quelquefois                                                                            |   |
+|    | Presque jamais                                                                         |   |
+|    | Jamais                                                                                 |   |
 |----+----------------------------------------------------------------------------------------+---|
 
 Merci
+
+### 1-3 Risk Factor Assessment (RFA)
 
 Risk Factor Assessment (RFA) (English)
 {:.table-caption}
@@ -451,7 +457,7 @@ The Marie Stopes Clinics also do terminations. They are an international organis
 
 The National Department of Social Development is responsible for Child Protection services in South Africa. Social Workers are trained to assist with adoptions. There are many adoption agencies in the country. 
 
-### 3.1	What is the process for adoption?
+### 3-1	What is the process for adoption?
 
 If the biological parents of the child are alive, they must both consent to the adoption. Consent is not necessary if the parent or guardian: 
 
@@ -468,7 +474,7 @@ A child may be placed temporarily with care givers who are not the child’s fam
 
 When the child is adopted all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
 
-### 3.2	What needs to happen for the child to be placed with an adoptive family?
+### 3-2	What needs to happen for the child to be placed with an adoptive family?
 
 For an adoption to take place, an adoption agency needs to:  
 
@@ -479,7 +485,7 @@ For an adoption to take place, an adoption agency needs to:
 *	If the family agrees, the agency sends a report to the Children’s Court to finalise the adoption and issue an adoption order.
 *	The Court report will be sent to the Department of Social Development so they can check if correct procedure was followed and to record both the family and the child’s details.
 
-### 3.3	What organisations help with adoptions?
+### 3-3	What organisations help with adoptions?
 
 Organisations that assist with adoption services: 
 
@@ -512,7 +518,7 @@ Other websites that provide information about adoptions include:
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in other countries. 
 
-### 4.1	What is the process for getting a Maintenance Order?
+### 4-1	What is the process for getting a Maintenance Order?
 
 The mother (for the sake of simplicity, we refer to a mother applying for a Maintenance Order in this section. However, fathers and other primary caregivers can also apply) needs to go to the Maintenance Office at the Maintenance Court in her area to apply for the court order. The mother will need to fill in a form.
 
@@ -527,7 +533,7 @@ If the mother agrees with how much the father must pay for the children, the Mai
 If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
 The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
 
-### 4.2	What if the person ordered to pay maintenance does not pay?
+### 4-2	What if the person ordered to pay maintenance does not pay?
 
 The mother needs to go to the Maintenance Office and complain. It is important to make a formal complaint every time that the other parent does not pay.
 The Maintenance Office records each time payments are made. This record will show when payments are not made and how much is owed. 
@@ -544,7 +550,7 @@ This information applies to South Africa. It is worth finding out about relevant
 The Child Support Grant is a monthly payment to help parents or primary caregivers in financial need to support the children in their care.
 The amount changes every year.  From 1 October 2014 the Child Support Grant is R320 per month. 
 
-### 5.1	Who qualifies for a Child Support grant?
+### 5-1	Who qualifies for a Child Support grant?
 
 Parents or primary caregivers can apply for this monthly payment on behalf of the children in their care.
 
@@ -556,7 +562,7 @@ Parents or primary caregivers who earn below a certain amount can also access th
 *	A married couple who together earn R5 800 or less per month (or less than R69 600 per year) can apply for this grant.
 *	Parents or primary caregivers must be South African citizens or permanent residents of South Africa. They and the child must be living in South Africa. 
 
-### 5.2	What is the process for getting a Child Support grant?
+### 5-2	What is the process for getting a Child Support grant?
 
 Parents or primary caregivers can apply for a grant at their nearest South African Social Security Agency (SASSA) office. There is no cost to apply. 
 
@@ -606,7 +612,7 @@ For more information contact a local SASSA office or look at:  http://www.servic
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in your country.  This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. (www.mosaic.org.za)
 
-### 6.1	What is a Protection Order?
+### 6-1	What is a Protection Order?
 
 A Protection Order is a document which legally forbids an abuser from committing any acts of domestic violence against the applicant (e.g. woman)*. The types of abuse covered by Protection Orders are: 
 
@@ -626,7 +632,7 @@ Anyone who has been or is being abused can apply for a Protection Order. Also:
 
 Depending on the severity of the abuse, once the application forms and affidavit have been completed, an Interim Protection Order might be granted for a short period until the date the abuser must appear in front of the magistrate for the hearing of the case. Once the Protection Order is finalised, the Protection Order is permanent. A Protection Order can be withdrawn.  
 
-### 6.2	What is the process for getting a Protection Order?
+### 6-2	What is the process for getting a Protection Order?
 
 All courts process Protection Orders slightly differently, but the procedure that most courts follow is described below. 
 
@@ -655,13 +661,15 @@ In this section, we will refer to a woman applying for a Protection Order.
 14.	With the Final Protection Order, the woman will also get a Final Warrant of Arrest. 
 15.	If the woman’s Protection Order is lost or destroyed, it can always be replaced if she goes back to court and ask for another copy.
 
-### 6.3	What happens if the abuser goes against the Protection Order?
+### 6-3	What happens if the abuser goes against the Protection Order?
 
 *	If the woman is abused after she has received her Interim or Final Protection Order, she must take the Interim or Final Warrant of Arrest and her copy of the Interim or Final Protection Order to the police so that they can arrest her abuser. 
 *	The woman will have to return to court to get another Warrant of Arrest when the police take her Warrant of Arrest away from her when they arrest her abuser.
 *	If she does not have a Warrant of Arrest, then she will have to take her Protection Order with her to the police station and lay a charge of assault against her abuser.
 
 ## 7.	How to make a referral
+
+### 7-1 How to write a referral letter
 
 A letter of referral may be used when referring to an organisation outside your facility. Use the template below to draft a letter of referral.
 
@@ -703,7 +711,7 @@ A letter of referral may be used when referring to an organisation outside your 
 | Job Title                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-#### Mental Health Referral Evaluation
+### 7-2 Mental Health Referral Evaluation
 
 This evaluation form helps to see if your referral has been useful. 
 
@@ -787,7 +795,7 @@ South African national helpline contact numbers
 
 ## 9.	South African organisations for training in counselling
 
-### Lay counselling training
+### 9-1 Lay counselling training
 
 #### Families South Africa (FAMSA)
 
@@ -803,7 +811,7 @@ South African national helpline contact numbers
 *	011 715 2000
 *	082 231 0805
 
-### Professional counselling training
+### 9-2 Professional counselling training
 
 #### CTI education group
 

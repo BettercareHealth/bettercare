@@ -27,7 +27,7 @@ When you have completed this unit you should be able to:
 ### 1-1	What is mental health?
 
 Mental health is a term used to describe a person’s emotional wellness and their ability to enjoy life. It refers to a person having a sense of purpose, emotional wellbeing and a sense of connectedness to others. It is more than the absence of mental illness.
-
+{:.keep-with-next}
 > Mental health refers to a person's emotional wellness and ability to enjoy life. 
 
 ### 1-2	What is mental illness?
@@ -49,7 +49,9 @@ Maternal mental illness is mental illness that occurs during pregnancy or in the
 ### 1-4	Is mental distress the same as mental illness?
 
 No. Mental illness is a long term abnormal, diagnosable condition.  In contrast, mental distress is a general term for short lived mental suffering.  It includes a range of possible symptoms such as confused emotions, rage, anxiety and depression.  Mental distress may be an appropriate response to a threatening situation.  Therefore a person with mental distress usually is not considered ‘ill’ in a medical sense because the distress does not last long enough, and functioning is not affected.
+
 However, mental distress that goes on for a long time may affect a person’s mood and well-being and develop into a mental illness. 
+
 For example: A mother may be distressed about her baby being in hospital, but she does not necessarily have a mental illness. However, if her mental distress goes on for a long time, it may develop into a mental illness
 
 > Mental distress is a severe but short-lived, appropriate emotional response to a threatening situation. 
@@ -67,6 +69,8 @@ In South Africa, mental illness, during and after pregnancy, is very common. Nea
 Note
 :	The prevalence (frequency) of maternal mental illness is expressed as the number of people who have the condition (affected individuals) out of the population group at a given point in time. For example: studies in Cape Town and KwaZulu-Natal show that 47% of pregnant women in those areas have depression during or after pregnancy.  
 
+> In South Africa, nearly half of poor, pregnant women experience depression or anxiety. 
+
 ### 1-7	Why is mental illness during and after pregnancy so common in South Africa?
 
 Pregnancy and the postnatal period is a psychologically distressing time for many women, particularly for those living in poverty, or with violence, abuse, HIV/AIDS or an unintended pregnancy. Many women in South Africa live in these circumstances. 
@@ -82,6 +86,8 @@ Note
 
 Depression and anxiety. They are known as the common mental disorders (CMD).
 
+> Depression and anxiety are known as common mental disorders. 
+
 ### 1-10 Is suicide an important cause of death during and after pregnancy?
 
 Suicide is a leading cause of maternal death in developed countries. In most low and middle-income countries (including South Africa), suicide data are not accurately recorded. Yet, if the high rates of maternal depression are considered, coupled with poverty, unemployment and substance use, maternal suicide is likely to be very high in these regions. 
@@ -96,6 +102,8 @@ Yes. If someone is depressed during pregnancy, there is a strong chance that she
 
 In South Africa, there are currently no formal screening programmes to identify women who are at risk of mental illness or who have mental illness. There are also no dedicated mental health services during pregnancy, labour and a year after delivery. 
 
+> There are no formal screening programmes for maternal mental illness in South Africa.
+
 ### 1-13 Are services to manage maternal mental illness available in South Africa?
 
 Very few management procedures and treatment options exist in the public sector in South Africa for treating maternal mental illness. It is often difficult for health workers to identify women’s psychological problems because of staff shortages, high patient numbers and inadequate staff training in mental health. 
@@ -103,15 +111,19 @@ Very few management procedures and treatment options exist in the public sector 
 ### 1-14 Can mental illness during pregnancy affect the infant and child?
 
 Mental illness in pregnant women is associated with:
+
 *	Poor fetal growth
 *	Preterm delivery
 *	Infants that are more vulnerable to infection and disease
 *	Infants that are more frequently admitted to hospital.
 
 Children of mothers with mental illness are more likely to:
+
 *	Be abused
 *	Perform poorly at school
 *	Develop mental illness themselves.
+
+> Mental illness in the mother can negatively affect the infant and child. 
 
 ### 1-15 What impact may maternal mental illness have on the family and society?
 
@@ -168,7 +180,7 @@ No. Mental illness during and after pregnancy can be classified into two differe
 
 A non-psychotic mental disorder is a condition of the mind that affects the way a person feels, thinks, or behaves without also causing psychosis (a sense of losing contact with reality). These disorders are common and typically refer to ‘mood disorders’ or ‘emotional disorders’, such as depression or anxiety. 
 
-This is different from psychotic disorders when the person may imagine that they can see or hear things which are not present (discussed in 1.31).
+This is different from psychotic disorders when the person may imagine that they can see or hear things which are not present (discussed in 1-31).
 
 ### 1-23 What is Depression?
 
@@ -187,6 +199,8 @@ Depression is characterised by low mood, loss of interest and enjoyment, as well
 *	Ideas or attempts of self-harm or suicide
 
 In severe cases, depressed people may have symptoms of a psychotic disorder. 
+
+> Depression in characterised by low mood, loss of interest and enjoyment, as well as reduced energy for at least two to four weeks. 
 
 ### 1-24 What is anxiety?
 
@@ -212,7 +226,7 @@ Physical symptoms of anxiety include:
 
 These symptoms are normal if there is a real threat present. However, when someone suffers from these symptoms in response to ordinary events, and the symptoms interfere with daily tasks, then it is known as an anxiety disorder.
 
-> An anxiety disorder is present when a person experiences symptoms of anxiety is response to ordinary life events. 
+> An anxiety disorder is present when a person experiences symptoms of anxiety in response to ordinary life events. 
 
 ### 1-25 What are anxiety disorders?
 
@@ -258,8 +272,10 @@ Post-Traumatic Stress Disorder (PTSD) develops as a result of a traumatic event 
 
 Women who have experienced rape, sexual or emotional abuse, crime, torture or war, or previous traumatic birth experiences (such as previous emergency Caesarean section or stillbirth) are particularly at risk of developing PTSD during or after pregnancy. Pregnancy can act as a trigger for negative memories of past traumas.  
 
-PTSD is a common anxiety disorder where a traumatic event or extreme hardship from the past is repeatedly re-experienced emotionally. Symptoms of PTSD include:
+PTSD is a common anxiety disorder where a traumatic event or extreme hardship from the past is repeatedly re-experienced emotionally. 
 
+Symptoms of PTSD include:
+{:.keep-with-next}
 *	Repeatedly re-living the traumatic event through realistic nightmares or flash-backs: a mother with PTSD may have very strong mental and physical reactions if reminded of the event, such as sweating, increased heart-rate, screaming and uncontrollable crying.
 *	Avoidance: a mother with PTSD may avoid thoughts, feelings or conversations that remind her of the event. This can lead to her becoming numb to her surroundings, losing interest in important activities and feeling that there is nothing to look forward to in the future.
 *	Increased agitation: she can show excessive emotions, feel that she can never relax and must be on guard all the time; she may have trouble sleeping, be easily startled or ‘jumpy’ and have angry outbursts.  
@@ -276,7 +292,9 @@ There are also other physical symptoms, such as:
 *	Chest pain
 *	Discomfort in other parts of the body.
 
-PTSD in pregnancy can lead to pre-term delivery. It can also occur at the same time as depression, other anxiety disorders, alcohol or other substance use disorders. 
+PTSD in pregnancy can lead to pre-term delivery. It can also occur at the same time as depression, other anxiety disorders, alcohol or other substance use disorders.
+
+> PTSD can occur at the same time as depression, anxiety or other mental health disorders.  
 
 ### 1-29 What is Tocophobia?
 
@@ -285,7 +303,7 @@ Tocophobia is an abnormal and persistent fear of childbirth. It occurs in all cu
 *	The mother may be ‘uncooperative’ – panicking or displaying aggression
 *	She may experience an obstructed or prolonged labour
 *	She may be at increased risk of needing a Caesarean section.
-
+{:.keep-with-next}
 Note
 :	From the Greek 'tokos' meaning offspring. Therefore, a fear of bearing an offspring.
 
@@ -339,7 +357,9 @@ Postnatal psychosis is the term used to describe the onset of psychotic symptoms
 Psychotic symptoms in the postnatal period often relate to the circumstances at the time. For example:
 
 *	The mother may believe her partner or the health-workers are trying to harm her.
-*	The mother may believe that the baby is evil and dangerous. 
+*	The mother may believe that the baby is evil and dangerous.
+
+> Postnatal psychosis can be very sudden and severe. She may believe someone is trying to harm her or that her baby is evil.  
 
 ### 1-33 What are Alcohol and Substance Use Disorders?
 
