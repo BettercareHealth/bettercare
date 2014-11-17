@@ -49,6 +49,8 @@ There are many issues associated with poverty which can negatively affect a woma
 *	Past or recent trauma
 *	Sick children or relatives requiring her care.
 
+> Women living in poverty are at greater risk of developing a mental illness. 
+
 ### 5-2 How does poverty affect the way in which women access resources for mental illness?
 
 When helping and supporting a woman to identify the resources that are available, it must be kept in mind that women living in poverty face significant challenges. There may be fewer resources available to them and their situation might make it more difficult for them to get help that is available. However, it is important to be aware that the ‘vicious cycle’ relationship between poverty and mental ill-health can be broken if the correct interventions are put into place.  
@@ -99,6 +101,8 @@ After pregnancy:
 *	Women experience guilt and anxiety that their babies may also be HIV-positive 
 *	She may fear for the future of her family if she becomes sick with AIDS. 
 
+> Mental illness is much more common in HIV-positive women. 
+
 ### 5-6 How can mental health affect HIV/AIDS?
 
 Mental illness can also have a very negative impact on the progression of HIV/AIDS. Mental illness that is not treated can lead to:
@@ -123,7 +127,9 @@ Pregnant teenagers are at greater risk of developing mental illness. Also, young
 
 About 60% of all pregnancies in South Africa are unintended (unplanned). Of these, one out of three is unwanted. The decision to either terminate or continue with the pregnancy is a very difficult one for most women and may cause severe distress. 
 
-For some women, the choice to terminate a pregnancy may have negative mental health consequences, and for others, the choice to continue with an unintended pregnancy has mental health consequences, both for the mother and for the child. They may be stressed or worried that they will not be able to provide for this child. They may feel anger at a partner who has abandoned them. The timing of this pregnancy may disrupt schooling, studies or work plans – all of which may negatively affect others in the family or home. There are many reasons why an unintended pregnancy can cause mental distress.  
+For some women, the **choice to terminate** a pregnancy may have negative mental health consequences, and for others, the **choice to continue** with an unintended pregnancy has mental health consequences, both for the mother and for the child. They may be stressed or worried that they will not be able to provide for this child. They may feel anger at a partner who has abandoned them. The timing of this pregnancy may disrupt schooling, studies or work plans – all of which may negatively affect others in the family or home. There are many reasons why an unintended pregnancy can cause mental distress.  
+
+> Unplanned and unwanted pregnancies are common in South Africa and may result in mental illness. 
 
 ### 5-10 How can health workers help women with unintended pregnancies?
 
@@ -188,9 +194,11 @@ Substance abuse, is a patterned use of a substance (like drugs and alcohol) in w
 
 Drug or alcohol misuse can lead to mental illness (substance use disorder), and in some cases, mental illness can make a person more likely to misuse drugs or alcohol as a form of ‘self-medication’. Substance misuse is a threat to the physical health of both the woman and her pregnancy.
 
-> Drug or alcohol abuse is also a mental illness, and can be treated. By being supportive, health workers can make a positive impact to a mother’s recovery.
- 
+Drug or alcohol abuse is also a mental illness, and can be treated. By being supportive, health workers can make a positive impact to a mother’s recovery.
+
 Drug and alcohol misuse are serious health problems and may require the mother to be referred to addiction specialists. But, being aware that the mother has a substance misuse problem is important for the treatment of the mother, and for her overall antenatal care. The most commonly misused substances in South Africa are alcohol, cannabis, ‘tik’ (or methamphetamine), crack/cocaine and heroin. Alcohol misuse is the biggest substance misuse problem in South Africa.
+
+> Substance misuse may lead to mental illness while mental illness can result in the misuse of drugs. 
 
 ### 5-21 What are the signs of substance misuse?
 
@@ -232,6 +240,8 @@ There are very high rates of rape and violent assault in South Africa: it has th
 
 Experiencing domestic violence is common in South Africa, and domestic violence is likely to increase during pregnancy. It is important for a health worker to pay special attention to these situations as they can affect a woman’s mental and physical health.
 
+> Domestic violence is common in South Africa and can affect a woman’s mental health. 
+
 ### 5-25 What is intimate partner violence (IPV)?
 
 Intimate partner violence (IPV) is defined as threatened, attempted, or completed physical or sexual violence or emotional abuse by a current or former intimate (sexual) partner. IPV can be committed by a spouse, an ex-spouse, a current or former boyfriend or girlfriend, or a dating partner.
@@ -255,7 +265,7 @@ As a result of emotional abuse, a person may live in fear and have altered thoug
 *	Demanding sexual acts
 *	Control of person’s sexual and reproductive choices
 *	Financial control (see financial abuse below).
- 
+
 The abuser uses emotional abuse to damage someone’s feelings of self-worth and independence. People who have experienced emotional abuse may feel that there is no way out of their relationship, or that ‘they are nothing’ without their abusive partner. They will often blame themselves for the abuse.
 
 ### 5-27 What is physical abuse?
@@ -301,7 +311,7 @@ Domestic violence often occurs in a cycle.
 4.	Remorse: the abuser shows remorse and repeatedly apologises and begs forgiveness
 5.	Forgiveness: the woman starts feeling guilty, thinking perhaps she was the cause of the outburst, and accepts the abuser’s apology
 6.	‘Honeymoon’ phase : the quiet, violence-free period starts again and the cycle continues
-
+{:.keep-with-next}
 <figure>
 	<img src="images/mmh-5-1.svg" alt="Figure 5-1: The cycle of violence">
 	<figcaption>Figure 5-1: The cycle of violence</figcaption>
@@ -508,6 +518,8 @@ The mother may feel unsure or even scared about Child Welfare getting involved i
 *	Do not judge the mother.
 *	Assure her that Social Services/Child Welfare will do what is best for the baby and the mother.
 
+> Urgent action must be taken if a mother has hurt her child more than once. 
+
 ## The risk of suicide
 
 ### 5-50 Is suicide a real risk to some mothers?
@@ -621,7 +633,7 @@ When a woman loses her baby through termination, miscarriage, stillbirth or neon
 ### 5-57 How can a health worker help women who experience miscarriage?
 
 During or after a miscarriage you can:
-
+{:.keep-with-next}
 *	Acknowledge the loss of a baby, no matter how early the miscarriage. Avoid using words like “miscarriage”, “embryo” or “fetus” as these may seem impersonal to some women.
 *	Explain that the miscarriage is not the mother’s fault and that it can happen in as many as a third of pregnancies.  
 *	Recognise that parents can experience intense grief, however early the miscarriage. You can help them to acknowledge these feelings. 
@@ -681,7 +693,7 @@ Look after yourself. The loss of a newborn baby, a late miscarriage or stillbirt
 
 Do not be afraid to show your emotions. However, make sure you are not putting too much of a burden on the parents by being upset. Instead, you may need to talk to someone else about the experience. 
 
-> Do not be afraid to ask for support or a debriefing if you need it.
+> Do not be afraid to ask for support or a debriefing if you need it. Health workers need support themselves after helping parents with a perinatal loss. 
 
 ## Case study 1 
 
@@ -744,7 +756,7 @@ You could say:
 *	She seems to lack parenting skills and sees violence as a way to solve problems.
 *	She seems unable to relate to her children.
 
-You talk to the mother and she tells you that she does sometimes get out of control and hit her children.
+*You talk to the mother and she tells you that she does sometimes get out of control and hit her children.*
 
 ### 4.	What short term solutions can you tell her about to help her when she is stressed with the children?
 
@@ -761,7 +773,7 @@ You can say:
 
 Help the mother understand the children’s needs and behaviour. For example, explain that they are not trying to frustrate her on purpose. If you think that she should be referred to a counsellor, you can introduce the idea by saying: "It sounds as though you are extremely stressed and that you need help immediately. I need to refer you to someone who will be able to give you the help and support you need. They might want to speak to you, your partner or your family about the situation."
 
-While you are talking, the older child comes over and you notice that she has bruises on her arms. Some of them look old and some are new. You realise that this may be a case of on-going child abuse.
+*While you are talking, the older child comes over and you notice that she has bruises on her arms. Some of them look old and some are new. You realise that this may be a case of on-going child abuse.*
 
 ### 5.	What can you do?
 
@@ -795,7 +807,7 @@ A young mother at your facility has come in with her new baby. It is a hot day a
 *	Listen to her and acknowledge what she tells you.
 *	Avoid pressuring her to leave her abuser, unless her safety can be guaranteed.
 
-You ask the mother about her relationship with her partner. She starts crying and tells you that it is very difficult. She says that at times everything is fine, and then he starts finding fault in the things that she does. He comes home and says the house has not been cleaned properly and that his work shirts are not ironed. She tries hard to get everything done, but never seems to be good enough for him. He shouts at her, tells her she is useless and sometimes hits her. Then he is sorry, says he won’t do it again and everything is fine for a while. She keeps hoping that this time he will change and be the loving person that she once knew. She worries that she has no-where else to go and that she is stupid and unable to earn money to support herself and the baby. He won’t let her see her cousins who live nearby. 
+*You ask the mother about her relationship with her partner. She starts crying and tells you that it is very difficult. She says that at times everything is fine, and then he starts finding fault in the things that she does. He comes home and says the house has not been cleaned properly and that his work shirts are not ironed. She tries hard to get everything done, but never seems to be good enough for him. He shouts at her, tells her she is useless and sometimes hits her. Then he is sorry, says he won’t do it again and everything is fine for a while. She keeps hoping that this time he will change and be the loving person that she once knew. She worries that she has no-where else to go and that she is stupid and unable to earn money to support herself and the baby. He won’t let her see her cousins who live nearby.* 
 
 ### 3.	What do you suspect is happening at home?
 
@@ -803,7 +815,7 @@ The mother has been describing domestic abuse.
 
 ### 4.	What is the cycle of repeated abuse known as?
 
-It is known as the cycle of violence. 
+It is known as the 'cycle of violence'. 
 
 ### 5.	What are some of the reasons that this mother gives for why she stays with her violent partner?
 
@@ -834,8 +846,7 @@ A pregnant mother at your facility has been losing weight. You have noticed that
 
 ### 2.	Why was your reaction inappropriate? What should you have done to help her? 
 
-It is important to take any threat or hint of suicide seriously. Telling her she to stop being silly is not taking her seriously. 
-You should not scold her or put her down. You told her to stop being silly and think about the baby.
+It is important to take any threat or hint of suicide seriously. Telling her she to stop being silly is not taking her seriously. You should not scold her or put her down. You told her to stop being silly and think about the baby.
 
 Instead, you should:
 
@@ -845,7 +856,7 @@ Instead, you should:
 *	Talk openly about suicide.
 *	Ask the woman how she plans on committing suicide. There is a higher risk if she has a detailed plan, and has spent time thinking about how to commit suicide.
 
-You find talking to this suicidal mother very difficult and need to stay calm.
+*You find talking to this suicidal mother very difficult and need to stay calm.*
 
 ### 3.	What might it be helpful to say to her? 
 
@@ -859,7 +870,7 @@ You find talking to this suicidal mother very difficult and need to stay calm.
 *	You can be proud for speaking to someone about how you feel. It means that you want to survive this; that some part of you wants to live. It shows that you are a survivor.  
 *	I feel that I need to contact your partner/doctor/family to let them know how desperate you are feeling. You need support right now, and they can help in different ways to support you.
 
-You realise that this is not a situation that you can handle alone. You are going to need help with dealing with this suicidal mother. In your conversation with her, she says that her partner has left her but that her mother lives nearby. Her mother is a member of a church group. 
+*You realise that this is not a situation that you can handle alone. You are going to need help with dealing with this suicidal mother. In your conversation with her, she says that her partner has left her but that her mother lives nearby. Her mother is a member of a church group.*
 
 ### 4.	Who can assist you? 
 
@@ -870,7 +881,7 @@ You realise that this is not a situation that you can handle alone. You are goin
 *	Explore if it is suitable for the mother can draw on the minister or church group for support.
 *	Give her the telephone numbers of helplines and emergency services.
 
-You have found dealing with this woman very traumatic and stressful. She has finally gone home with her mother, and has an appointment to see the psychiatric nurse in the morning. You have given them the numbers for a help-line and the emergency services. 
+*You have found dealing with this woman very traumatic and stressful. She has finally gone home with her mother, and has an appointment to see the psychiatric nurse in the morning. You have given them the numbers for a help-line and the emergency services.*
 
 ### 5.	What else should you do?
 
@@ -909,7 +920,7 @@ It might be useful to help this couple to discuss their wishes for the infant:
 *	Tell the parents where their baby has been taken in case they want to see their baby again.
 *	Explain to them the procedures that will take place after the birth, e.g. Will there be a post-mortem? What will the funeral and administrative arrangements be? 
 
-The parents are very upset and confused about the death of their baby. They are angry with you and feel that this is because they did not have proper antenatal care. They are scared that this will happen again if they ever want to have another child. 
+*The parents are very upset and confused about the death of their baby. They are angry with you and feel that this is because they did not have proper antenatal care. They are scared that this will happen again if they ever want to have another child.*
 
 ### 4.	What can you do to help in this situation?
 
@@ -922,7 +933,7 @@ The parents are very upset and confused about the death of their baby. They are 
 *	Empathise with the parents. It is acceptable to show some of your feelings, but be careful not to get too involved, to avoid the parents feeling concerned about your feelings and grief. 
 *	Ask the parents what they want to know and give relevant information. Give explanations, where appropriate, to help them understand what has happened. Do not get annoyed if these same explanations need to be given many times.
 
-The loss of this baby has been very upsetting. You have answered the parent’s questions and they have gone home. You are feeling exhausted and sad. 
+*The loss of this baby has been very upsetting. You have answered the parent’s questions and they have gone home. You are feeling exhausted and sad.*
 
 ### 5.	What support may you need?
 You may need to talk to someone else about the experience. Do not be afraid to ask for support or a debriefing.

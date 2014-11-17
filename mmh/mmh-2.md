@@ -30,9 +30,13 @@ When you have completed this unit you should be able to:
 
 Many people do not understand what mental illness is, nor that it can be successfully treated. When people feel very down or worried for long periods of time, they often believe that this is ‘normal’ for them; that nothing can be done to help them feel better or that it is their own fault. Mental illnesses may not be recognised because of stigma, lack of knowledge about mental health and because of isolation. Health workers may feel uncomfortable to address the mental distress in their patients because the health workers themselves don’t feel confident with their clinical skills. Also, they may be afraid that the distress in others may make them think about their own distress.
 
+> Mental illness is often overlooked. 
+
 ### 2-2 What is stigma?
 
-Stigma is a severe social disapproval of personal characteristics or beliefs.  People with mental illness experience a great deal of stigma, which adds to the negative outcomes of the disorders. Some women may not want to report that they are feeling psychologically unwell because they feel ashamed.  They fear that their baby will be taken away from them. Health workers can also disapprove of people with mental illness, and as a result, do not feel comfortable giving care to them. 
+Stigma is a severe social disapproval of personal characteristics or beliefs.  People with mental illness experience a great deal of stigma, which adds to the negative outcomes of the disorders. Some women may not want to report that they are feeling psychologically unwell because they feel ashamed.  They fear that their baby will be taken away from them. Health workers can also disapprove of people with mental illness, and as a result, do not feel comfortable giving care to them.
+
+> Stigma is severe social disapproval of people with certain characteristics or beliefs.
  
 ### 2-3 How do emotions influence physical health?
 
@@ -46,6 +50,8 @@ Most health workers have been trained in a way that separates physical problems 
 ### 2-4 How do physical health problems influence mental health?
 
 Physical illness and the treatment for it, can affect the way people think and feel. A serious illness can make them feel sad, frightened, worried or angry. Some physical health problems like anaemia or an under-active thyroid may affect brain function and cause depression. Some drug treatments, such as steroids, may also  affect the way the brain functions and can cause anxiety and depression. If people feel out of control of their bodies and situations, the may feel that there is nothing that can be done. A feeling of hopelessness can make people feel depressed. 
+
+> Emotions may cause physical problems while physical illness may affect emotions. 
 
 ### 2-5 Why are women more isolated during pregnancy?
 
@@ -138,6 +144,8 @@ Research has shown that women experience a high rate of onset (increased number 
 ### 2-14 What is screening?
 
 Screening is a strategy used to detect a person with high chance of illness or risk of illness in a large group of individuals, such as mothers attending antenatal clinics. Mental health screening is usually done using a questionnaire. 
+
+> Screening is a method of detecting a person with a high chance of an illness or risk of illness within a large group of individuals. 
 
 ### 2-15 What is a screening questionnaire and a cut-off score?
 
@@ -260,12 +268,13 @@ Note
 
 The Edinburgh Postnatal Depression Scale
 {:.table-caption}
-
+{:.keep-with-next}
 *As you are pregnant or have had a baby, we would like to know how you are feeling. It may help us in choosing the best care for your needs. The information you provide us will be kept private and confidential.* 
- 
+{:.keep-with-next}
 *There is a choice of four answers for each question. Please circle the one that comes closest to how you have felt in the past seven days, not just how you feel today.*
-
+{:.keep-with-next}
 SCORES ON RIGHT HAND SIDE
+{:.keep-with-next}
 
 |----+----------------------------------------------------------------------+---|
 |    |                       In the past seven days:                        |   |
@@ -355,8 +364,9 @@ This questionnaire was developed by the Perinatal Mental Health Project (PMHP) i
 
 Risk Factor Assessment
 {:.table-caption}
-
+{:.keep-with-next}
 *We are interested to find out how your situation is in your pregnancy. This questionnaire may help us suggest extra care for you, if necessary. Your answers will be kept confidential. Please answer either yes or no to all the following questions. Tick the box.*
+{:.keep-with-next}
 
 |----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
 |    |                                                                                                                                        | Yes | No |
@@ -383,12 +393,12 @@ Make sure that the mother has ticked all the questions.
 Score the answers. 
 
 *Questions 1, 3, 4, 6, 8 and 9*
-
+{:.keep-with-next}
 *	NO answers to these questions indicate the woman is at risk. Give a score of 1 for each of these questions if the answer is NO. 
 *	YES answers to these questions indicate low risk. Give a score of 0 for each of these questions if the answer is ‘yes’.
 
 *Questions 2, 5, 7, 10 and 11*
-
+{:.keep-with-next}
 *	YES answers to these questions indicate the woman is at risk. Give a score of 1 for each of these questions if the answer is YES. 
 *	NO answers to these questions indicate low risk. Give a score of 0 for each of these questions if the answer is NO.
 
@@ -416,28 +426,33 @@ Add up the scores
 
 Based on the scoring instructions, add up all the scores. Use the table above as a guide by counting the answers in bold. If a woman’s total score is 3 or above, she needs to be referred to a counsellor.
 
-> It may be a good idea to add up your scores twice as it is easy to make a mistake when one if busy.
+> It may be a good idea to add up your scores twice as it is easy to make a mistake when one is busy.
 
 ### 2-38 What do you do with the information from the Risk Factor Assessment (RFA) screening?
 
-1.	Explain the result of the score to the mother 
+**1.	Explain the result of the score to the mother**
+{:.keep-with-next}
 A score below the cut-off does not necessarily mean that the mother is ‘fine’. Simply explain that it means you will not suggest referral at this stage. However, also explain that she is free to request help or referral if she would like this – either now or at another time. Explain to a mother with a score at or above the cut-off, that you are concerned about her. You could ‘normalise’ the situation by saying that many of the mothers in your clinic, who score above the cut-off, do well with some extra support.
 
-2.	Your clinical judgement may override the screening guidelines. 
+**2.	Your clinical judgement may override the screening guidelines.**
+{:.keep-with-next}
 If you feel the mother is experiencing a lot of distress or has a strong risk for this, you should feel free to offer referral, even if she does not make the cut-off score on any screening tool.
 
-3.	Referral
+**3.	Referral**
+{:.keep-with-next}
 The better the quality of the referral process, the greater the chance it will benefit the mother. If you do offer a referral, explain that this is voluntary. Explain to the mother what she can expect when she is referred to the counsellor, service or organisation. More information on how to refer is in Chapter 3. More information about the counselling process can be found in Chapter 3 and Chapter 4. 
 
-4.	Open-door policy
+**4.	Open-door policy**
+{:.keep-with-next}
 An open-door policy allows a mother, who does not take up the referral offer the first time, to change her mind at a later stage and to return to you. It is useful also to have an open-door policy for mothers who do not arrive for their referral appointments. You cannot always know the reasons for why they were not able to attend their appointments. They may be afraid, they may not have transport money, they may not be able to miss work, or they may have to look after children or sick relatives at home.
 
-5.	In an emergency
+**5.	In an emergency**
+{:.keep-with-next}
 If you believe the mother is suicidal or requires emergency care:
-
+{:.keep-with-next}
 *	Contact the psychiatric nurse, midwife, sister, or doctor in charge.
 *	Do not leave the mother alone, even if the screening score is ‘normal’.
-
+{:.keep-with-next}
 > Be prepared for emergencies: Find the names and numbers of appropriate people and organisations to contact in case of an emergency and keep them in a handy place. 
 
 ## Case study 1
@@ -448,7 +463,7 @@ A pregnant woman visits the antenatal clinic several times in the past 3 weeks. 
 
 Yes, depending how far in her pregnancy she is, she could be experiencing Braxton Hicks contractions. These could be experienced as painful and be quite normal. However, the aches and pains may also be symptoms that something is wrong physically, and the nurse needs to examine her to determine if there are any physical causes. 
 
-The nurse examines the woman and cannot find any physical cause for the aches and pains. While she is doing the examinations, she notices that the woman looks less tidy than previously. 
+*The nurse examines the woman and cannot find any physical cause for the aches and pains. While she is doing the examinations, she notices that the woman looks less tidy than previously.*
 
 ### 2.	Could this be a sign of mental distress?
 
@@ -524,7 +539,8 @@ The mother does not have to answer the questions. If she chooses not to, it is a
 
 b)	Will the screening be private?
 Yes. Only authorised health workers will have access to this information when it is necessary for her care. It should be made clear that her information will not be discussed with her partner, family, friends, or anyone other than those involved in her health care.
-The nurse takes the woman into a private space and asks her to fill in the questionnaire. 
+
+*The nurse takes the woman into a private space and asks her to fill in the questionnaire.*
 
 ### 2.	What else does she need to check on?
 
@@ -545,6 +561,7 @@ A positive score on the EPDS is 13 or more. As this woman scores more than the c
 ### 5.	What should the nurse do?
 
 The nurse needs to explain to the woman that she is concerned about the woman’s emotional well-being. Her answers on the questionnaire seem to indicate that she is feeling down or stressed. The nurse could ‘normalise’ the situation by saying that many of the mothers in the clinic, who score above the cut-off, do well with some extra support. It may be helpful to explore if there are any fears or myths held by the mother regarding counselling and discuss these. 
+
 A referral should be offered. Explain that this is voluntary. Explain to the mother what she can expect when she is referred to the counsellor, service or organisation.  Tell her that if she does not want to take this referral up now, then she is welcome to do so at another time. 
 
 ## Case study 4
@@ -554,6 +571,7 @@ In an antenatal clinic, staff are using the Edinburgh Postnatal Depression Scale
 ### 1.	Does she need to be referred?
 
 Although her score is less than the cut-off of 13, the following still need to be checked: 
+
 a)	What does her answer on the suicide question indicate?
 b)	Adolescents are at greater risk of developing mental distress during pregnancy. 
 c)	What does the nurse’s clinical judgement say about the teenager? What does the teenager’s behaviour and body-language indicate about her? 
@@ -561,7 +579,9 @@ d)	Is there relevant background information that raises levels of concern for he
 
 If the nurse feels that the teenager is not doing well, then she should offer her a referral even though her score is not positive. 
 
-### 2.	On checking the suicide question, the nurse notices that the teenager indicates that she has frequent thoughts of harming herself.What should the nurse do?
+*On checking the suicide question, the nurse notices that the teenager indicates that she has frequent thoughts of harming herself.*
+
+### 2.	What should the nurse do?
 
 The nurse needs to ask her further questions about this. If the teenager has previously attempted suicide, or has a plan for how she may harm herself, she needs to be referred URGENTLY.
 
@@ -593,13 +613,10 @@ Reassure the teenager that if she changes her mind, and if she feels that she wo
 
 ### 6.	What can the nurse do to help?
 
-Women who are distressed or suffer from a mental health problem need someone who can listen, guide them and provide information. They can have low self-esteem, feel isolated and vulnerable and need to be encouraged to make social connections to form support systems.  
-
-They require different types of treatment and care, depending on the severity or level of their distress.
-
-Information (not advice) can empower women and help them to feel in control of their situation. Listening skills and empathy are also vital tools to help mothers in distress.  
-
-By not showing any judgement of the teenager, a nurse may then have the chance to develop a real therapeutic relationship with her. (Also see additional information on teen pregnancy in chapter 5.)
+*	Women who are distressed or suffer from a mental health problem need someone who can listen, guide them and provide information. They can have low self-esteem, feel isolated and vulnerable and need to be encouraged to make social connections to form support systems.  
+*	They require different types of treatment and care, depending on the severity or level of their distress.
+*	Information (not advice) can empower women and help them to feel in control of their situation. Listening skills and empathy are also vital tools to help mothers in distress.  
+*	By not showing any judgement of the teenager, a nurse may then have the chance to develop a real therapeutic relationship with her. (Also see additional information on teen pregnancy in Chapter 5.)
 
 ## Case study 5
 
