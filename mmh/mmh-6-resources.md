@@ -448,14 +448,15 @@ Nous aimerions connaître votre situation durant votre grossesse. Ce questionnai
 
 Merci
 
-## 2.	Termination of Pregnancy Services
+## 2.	Termination of Pregnancy (TOP) Services
 
 Certain public health facilities should be able to perform terminations of pregnancy free of charge. These services are less available in rural areas. 
-The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: www.mariestopes.org.za or their toll-free number 080011 7785.
+
+The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: www.mariestopes.org.za or their toll-free number 0800 11 77 85.
 
 ## 3.	Adoption Services
 
-The National Department of Social Development is responsible for Child Protection services in South Africa. Social Workers are trained to assist with adoptions. There are many adoption agencies in the country. 
+The National Department of Social Development is responsible for child protection services in South Africa. Social workers are trained to assist with adoptions. There are many adoption agencies in the country. 
 
 ### 3-1	What is the process for adoption?
 
@@ -470,7 +471,7 @@ If the biological parents of the child are alive, they must both consent to the 
 
 Both the mother and the father must sign the consent form to allow the adoption by a specific person or couple. If the biological parents are not married, the mother and father must also give consent for the adoption of the child. Biological parents can withdraw their consent within 60 days of signing their consent. 
 
-A child may be placed temporarily with care givers who are not the child’s family. This is called foster care. In most cases the foster child lives with their foster carers full time but the length of their stay will depend on individual needs and circumstances. If the child is in foster care, the foster parents must also certify that they do not wish to adopt the child. 
+A child may be placed temporarily with caregivers who are not the child’s family. This is called foster care. In most cases the foster child lives with their foster carers full time but the length of their stay will depend on individual needs and circumstances. If the child is in foster care, the foster parents must also certify that they do not wish to adopt the child. 
 
 When the child is adopted all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
 
@@ -478,7 +479,7 @@ When the child is adopted all parental responsibilities and rights between the c
 
 For an adoption to take place, an adoption agency needs to:  
 
-*	Conduct a screening/ home study to check if the adoptive family are fit and proper to adopt a child.
+*	Conduct a screening/home study to check if the adoptive family are fit and proper to adopt a child.
 *	If the agency is satisfied with the results, they will register the family on a Register of Adoptable Children and Adoptive Parents.
 *	The agency helps the family to search for a child who is available for adoption.
 *	If a child is available, the agency and family meet with the child to find out if this is a child they are interested in adopting. 
@@ -497,7 +498,7 @@ Organisations that assist with adoption services:
 
 #### BADISA
  
-*	BADISA has 52 social service offices providing services in various towns/districts in the Eastern-, Northern- and Western Cape. 
+*	BADISA has 52 social service offices providing services in various towns/districts in the Eastern Cape, Northern Cape and Western Cape. 
 *	Tel: 021 957 7130
 *	www.badisa.org.za
 
@@ -520,26 +521,24 @@ This information applies to South Africa. It is worth finding out about relevant
 
 ### 4-1	What is the process for getting a Maintenance Order?
 
-The mother (for the sake of simplicity, we refer to a mother applying for a Maintenance Order in this section. However, fathers and other primary caregivers can also apply) needs to go to the Maintenance Office at the Maintenance Court in her area to apply for the court order. The mother will need to fill in a form.
+The mother (for the sake of simplicity, we refer to a mother applying for a Maintenance Order in this section, however, fathers and other primary caregivers can also apply) needs to go to the Maintenance Office at the Maintenance Court in her area to apply for the court order. The mother will need to fill in a form.
 
-The Maintenance Officer will send a summons to the father, asking the father to come to the Maintenance Office on a certain date. 
-On the date, the mother and the father must go to the office to determine how much that person must pay for the children.
-The Maintenance Officer will help the mother work out all the things she must pay for every month, how much money she earns and how much money the father earns. 
-If the father says that he is not the father of the child, the mother needs to ask the court to order a paternity test. 
-The Magistrate will listen to both the parents' stories. They will ask both of them to show how much they earn and how much they pay every month for things like rent, electricity and food. 
-
-The Magistrate then decides how much the father must pay for the children. The Magistrate will make this amount an “Order of Court”, in writing. 
-If the mother agrees with how much the father must pay for the children, the Maintenance Officer will get both parents to sign a paper called an “Order of Court”. This says that the father must pay the agreed amount of money every week or every month.
-If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
-The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
+*	The Maintenance Officer will send a summons to the father, asking the father to come to the Maintenance Office on a certain date. 
+*	On the date, the mother and the father must go to the office to determine how much that person must pay for the children.
+*	The Maintenance Officer will help the mother work out all the things she must pay for every month, how much money she earns and how much money the father earns. 
+*	If the father says that he is not the father of the child, the mother needs to ask the court to order a paternity test. 
+*	The Magistrate will listen to both the parents' stories. They will ask both of them to show how much they earn and how much they pay every month for things like rent, electricity and food. 
+*	The Magistrate then decides how much the father must pay for the children. The Magistrate will make this amount an “Order of Court”, in writing. 
+*	If the mother agrees with how much the father must pay for the children, the Maintenance Officer will get both parents to sign a paper called an “Order of Court”. This says that the father must pay the agreed amount of money every week or every month.
+*	If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
+*	The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
 
 ### 4-2	What if the person ordered to pay maintenance does not pay?
 
-The mother needs to go to the Maintenance Office and complain. It is important to make a formal complaint every time that the other parent does not pay.
-The Maintenance Office records each time payments are made. This record will show when payments are not made and how much is owed. 
-If the other parent is employed and fails to pay maintenance, the mother must ask the court to make an order to get the maintenance directly from the other parent’s employer. 
-
-If the other parent does not pay, that parent is not obeying the order of court. This is a crime. The court will send the other parent a notice telling the person to come to court on a certain date. The person must then explain why they did not pay the money. If there is not a good reason, the court will usually tell the other party to pay all the maintenance the person owes, or the person will go to jail. 
+*	The mother needs to go to the Maintenance Office and complain. It is important to make a formal complaint every time that the other parent does not pay.
+*	The Maintenance Office records each time payments are made. This record will show when payments are not made and how much is owed. 
+*	If the other parent is employed and fails to pay maintenance, the mother must ask the court to make an order to get the maintenance directly from the other parent’s employer. 
+*	If the other parent does not pay, that parent is not obeying the order of court. This is a crime. The court will send the other parent a notice telling the person to come to court on a certain date. The person must then explain why they did not pay the money. If there is not a good reason, the court will usually tell the other party to pay all the maintenance the person owes, or the person will go to jail. 
 
 For more information contact the Maintenance Officer at your local Magistrates' Court.
 
@@ -547,17 +546,18 @@ For more information contact the Maintenance Officer at your local Magistrates' 
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in your country. 
 
-The Child Support Grant is a monthly payment to help parents or primary caregivers in financial need to support the children in their care.
-The amount changes every year.  From 1 October 2014 the Child Support Grant is R320 per month. 
+The Child Support Grant is a monthly payment to help parents or primary caregivers in financial need to support the children in their care. The amount changes every year. From 1 October 2014 the Child Support Grant is R320 per month. 
 
 ### 5-1	Who qualifies for a Child Support grant?
 
 Parents or primary caregivers can apply for this monthly payment on behalf of the children in their care.
 
 When primary caregivers apply for a grant for a child, they must declare under oath that they are the primary caregiver, and provide some documentary proof of this. They cannot receive this grant for more than six children, unless the children are legally adopted.
+
 Children who are heading households, and who are between the ages of 16 and 18, can apply for the Child Support Grant with the help of a supervising adult, like a social worker.
 
 Parents or primary caregivers who earn below a certain amount can also access this grant.
+
 *	A single parent or caregiver who earns R2 900 or less per month (or less than R34 800 per year) can apply for this grant.
 *	A married couple who together earn R5 800 or less per month (or less than R69 600 per year) can apply for this grant.
 *	Parents or primary caregivers must be South African citizens or permanent residents of South Africa. They and the child must be living in South Africa. 
@@ -568,7 +568,7 @@ Parents or primary caregivers can apply for a grant at their nearest South Afric
 
 The parent or primary caregiver will need: 
 
-*	A South African identity document and the identity document for the child, which must be bar-coded
+*	A South African identity document and the identity document for the child, which must be barcoded
 *	The child’s birth certificate
 *	If the parent or primary caregiver is married, proof of the person’s marital status
 *	Proof of income: salary slip, bank statements for three months, or pension slips, and any other proof of income
@@ -580,9 +580,10 @@ If the primary caregiver is not the child's parent or guardian:
 *	Information about how the person has tried to get the parents to pay maintenance
 *	Information that shows that the person is the child's primary caregiver.
 
-At the SASSA office, the parent or primary caregiver will be asked to complete and sign a form known as a “sworn affidavit”, confirming who the person and the children are. The parent or primary caregiver will also be asked to bring an affidavit from a reputable person (like a councillor, traditional healer, social worker, priest or school principal) who can verify that they know the person. SASSA may also ask for other documents, like a clinic card or the child’s school report.
+At the SASSA office, the parent or primary caregiver will be asked to complete and sign a form known as a 'sworn affidavit', confirming who the person and the children are. The parent or primary caregiver will also be asked to bring an affidavit from a reputable person (like a councillor, traditional healer, social worker, priest or school principal) who can verify that they know the person. SASSA may also ask for other documents, like a clinic card or the child’s school report.
 
 At the SASSA office, the parent or primary caregiver will be assisted to complete the forms. The person will be interviewed and fingerprints will be taken.
+
 If the parent or primary caregiver cannot go to the office, a friend or family member can take the documents, with a letter from the person and a doctor saying that the person cannot go to the SASSA office. A SASSA official will then arrange to visit the person at home.
 
 When the parent or primary caregiver makes the application, the person must say how he/she would like the money to be paid. The person can: 
@@ -592,7 +593,7 @@ When the parent or primary caregiver makes the application, the person must say 
 
 In some SASSA offices, applicants are told immediately whether or not they qualify for a grant. 
 
-SASSA cannot take longer than 3 months, from the date of the mother’s application, to start paying the grant. The payments will be backdated to the date the parent or primary caregiver applied for the grant, if it takes this long.
+SASSA cannot take longer than 3 months from the date of the mother’s application to start paying the grant. The payments will be backdated to the date the parent or primary caregiver applied for the grant, if it takes this long.
 
 The parent or primary caregiver can phone the free SASSA helpline: 0800 601 011 to find out what has happened to the application and when the person can expect payment.
 
@@ -614,7 +615,7 @@ This information applies to South Africa. It is worth finding out about relevant
 
 ### 6-1	What is a Protection Order?
 
-A Protection Order is a document which legally forbids an abuser from committing any acts of domestic violence against the applicant (e.g. woman)*. The types of abuse covered by Protection Orders are: 
+A Protection Order is a document which legally forbids an abuser from committing any acts of domestic violence against the applicant (e.g. woman). The types of abuse covered by Protection Orders are: 
 
 *	Physical abuse
 *	Sexual abuse
@@ -624,7 +625,7 @@ A Protection Order is a document which legally forbids an abuser from committing
 *	Economic abuse
 *	Harassment
 
-Anyone who has been or is being abused can apply for a Protection Order. Also:
+Anyone who has been or is being abused can apply for a Protection Order. In this section, we will refer to a woman applying for a Protection Order. Also:
 
 *	A third party can apply for a Protection Order on behalf of the woman, with her written permission. In this written consent, the woman must explain why she is not able to make the application herself.
 *	The child of the woman can apply for a Protection Order without requiring the assistance of the woman as parent or guardian, however the case will be referred to the Children’s Court. 
@@ -640,12 +641,10 @@ All courts process Protection Orders slightly differently, but the procedure tha
 
 A woman can apply for a Protection Order at any Magistrates’ Court nearest to where she lives or works, nearest to where her abuser lives or works, or nearest to where the abuse took place. 
 
-In this section, we will refer to a woman applying for a Protection Order. 
-
-1.	The woman will have to fill in an Application form for a Protection Order and write out a statement (affidavit) about the abuse. 
+1.	The woman will have to fill in an application form for a Protection Order and write out a statement (affidavit) about the abuse. 
 2.	She will be asked to make a sworn statement to the clerk or policeman that what she has written is true, and sign the application form. Her file will be passed on to the magistrate.
-3.	The magistrate will read through the application form and decide if the woman qualifies for an Interim (Temporary) Protection Order or not. 
-4.	If it is granted, the clerk will tell the woman what her court return date is, and will give her an Application Number.
+3.	The magistrate will read through the application form and decide if the woman qualifies for an Interim (temporary) Protection Order or not. 
+4.	If it is granted, the clerk will tell the woman what her court return date is, and will give her an application number.
 5.	The magistrate will issue a Notice to Appear in Court to the abuser, which will inform him that an application for a Protection Order has been made, and that he must appear on the return date to give his side of the story.  
 6.	The police or sheriff will go to the abuser’s address and serve the copy of the Interim Protection Order on the woman’s abuser. 
 7.	The police or the sheriff will fill in the Return of Service form, and return it to the court when the Protection Order has been served.
@@ -715,7 +714,7 @@ A letter of referral may be used when referring to an organisation outside your 
 
 This evaluation form helps to see if your referral has been useful. 
 
-After referring your client, complete a “follow-up” evaluation using the form below. 
+After referring your client, complete a 'follow-up' evaluation using the form below. 
 
 Follow-up referral evaluation form
 {:.table-caption}
@@ -815,7 +814,7 @@ South African national helpline contact numbers
 
 #### CTI education group
 
-*	Offers a university degree in psychology and counselling (BPysch). The main campus is in Midrand, but they have links to remote sites of delivery around the country.
+*	Offers a university degree in psychology and counselling (BPsych). The main campus is in Midrand, but they have links to remote sites of delivery around the country.
 *	www.cti.co.za
 *	011 467 8422
 
@@ -834,5 +833,5 @@ South African national helpline contact numbers
 
 #### University South Africa (UNISA)
 
-*	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma counselling). Studies can be done through distance learning
+*	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma counselling). Studies can be done through distance learning.
 *	www.unisa.ac.za
