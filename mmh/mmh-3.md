@@ -11,7 +11,7 @@ layout: chapter
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-## Objectives:
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -47,13 +47,13 @@ These may include:
 *	Counsellor
 *	Psychologist
 *	Psychiatrist
-*	Non-governmental organisation
+*	Non-governmental organisation.
 
 Referral is a very important part of mental health care, but can only be made if there are appropriate resources available. These differ from place to place, so it is important to identify what is available in your community. There may be both governmental services and community-based services in your area. Below are examples of the types of services and resources which may be available. 
 	
 ### 3-4 What are community mental health nurses?
 
-These nurses are usually based in clinics, community health centres or district hospitals. They have received special training and often work together with psychologists and psychiatrists. They are sometimes known as community psychiatric nurses. It would be important to refer all mothers with psychotic features, suicidal plans or severe mental health symptoms that affect functioning. If needed the community mental health nurse will refer the mother to a psychologist or psychiatrist.
+These nurses are usually based in clinics, community health centres or district hospitals. They have received special training and often work together with psychologists and psychiatrists. They are sometimes known as community psychiatric nurses. It would be important to refer all mothers with psychotic features, suicidal plans or severe mental health symptoms that affect functioning. If needed, the community mental health nurse will refer the mother to a psychologist or psychiatrist.
 
 ### 3-5 When do you refer to a social worker?
 
@@ -63,9 +63,9 @@ If the mother has a problem related to social issues, like accessing social gran
 
 A mother’s condition can be considered an emergency if:
 
-*	She is suicidal, or has thoughts about harming herself 
+*	She is suicidal or has thoughts about harming herself 
 *	She has thoughts of harming others
-*	She is psychotic (out of touch with reality)
+*	She is psychotic (out of touch with reality).
 
 Contact the community mental health or psychiatric nurse, or the doctor in your ward or facility. They will need to urgently refer the mother to an emergency unit for assessment, or preferably to the nearest health facility offering psychiatric services.
 
@@ -85,7 +85,7 @@ It may be useful to look for organisations in the area which could be able to as
 *	Community care organisations
 *	Counselling centres
 *	Trauma services
-*	Shelters
+*	Shelters.
 
 In South Africa, some examples of social assistance are maintenance orders and the Child Support Grant. Mothers with mental illness may need social assistance.
 
@@ -106,7 +106,7 @@ If the partner denies paternity, he can be forced to take a paternity test. This
 
 ### 3-10 Who can access the Child Support Grant?
 
-The primary caregiver of a child (her own or someone else’ child) can apply for a Child Support Grant. Parents and primary caregivers do not have to pay school fees for children who are benefiting from a Child Support Grant. 
+The primary caregiver of a child (her own or someone else’s child) can apply for a Child Support Grant. Parents and primary caregivers do not have to pay school fees for children who are benefiting from a Child Support Grant. 
 
 > The primary caregiver of a child can apply for a Child Support Grant. 
 
@@ -164,13 +164,14 @@ It is important to keep an open-door policy. Quite often, at a later stage or in
 
 > If you keep an open-door policy and allow the mother to come back when she is ready, she may be more compliant and benefit from a referral and the help you offer.
 
-In the Resources section, you can find an example of a referral letter and a referral evaluation form. The referral letter template can be used as a model for letters that you send with the mother to the new service. The referral evaluation form can be used when you have a follow-up appointment with the mother, after the referral.
+Note
+:	In the Resources section, you can find an example of a referral letter and a referral evaluation form. The referral letter template can be used as a model for letters that you send with the mother to the new service. The referral evaluation form can be used when you have a follow-up appointment with the mother, after the referral.
 
 ## Counselling
 
 ### 3-14 What is counselling?
 
-Counselling is a process of education, communication and support by which a counsellor helps a person or people to cope with difficult situations in their lives so that they are able to make important decisions and find realistic ways to solve their problems. Counselling, therefore, helps people to make their own informed decisions and supports their choices, rather than simply telling them what to do. Many mental health problems can be successfully managed through counselling.
+Counselling is a process of education, communication and support by which a counsellor helps a person or people to cope with difficult situations in their lives so that they are able to make important decisions and find realistic ways to solve their problems. Counselling helps people to make their own informed decisions and supports their choices, rather than simply telling them what to do. Many mental health problems can be successfully managed through counselling.
 
 > Counselling helps people make the best decisions for themselves. 
 
@@ -184,7 +185,7 @@ It is a good idea to find out about the services offered in your area. When maki
 
 *	If a mother is being referred during pregnancy, reassure her that it is a good thing to have the opportunity to talk to a counsellor before the baby is born, and that she will feel more prepared when the baby comes.  
 *	Explain that many mothers feel better and more confident when they are able to talk about their problems to a trained counsellor. 
-*	Everything that is said to the counsellor will be confidential. 
+*	Everything that what is said to the counsellor will be confidential. 
 *	Discuss what she expects to happen in a counselling session.
 *	Assure the mother that she will receive sensitive, supportive and reliable care.
 *	Explain that the counsellor will listen carefully to what she says, and will allow her to speak and express her feelings in her own words and in her own way. 
@@ -208,7 +209,7 @@ If the mother is isolated and stressed but not in crisis, refer her for counsell
 	*	What other resources are there?
 
 *	**Severe anger**
-If the mother is feeling very angry, refer her for counselling. A counsellor can encourage her to write a letter to the person she is angry with, getting out all her feelings and the reasons for her anger. After she has written it, she can decide to send it or not. Sometimes, having the opportunity to express feelings can help her to feel less angry.
+If the mother is feeling very angry, refer her for counselling. A counsellor can encourage her to write a letter to the person she is angry with, getting out all her feelings and the reasons for her anger. After she has written it, she can decide whether to send it or not. Sometimes, having the opportunity to express feelings can help her to feel less angry.
 
 *	**Abuse** 
 If the mother was abused as a child, or is currently experiencing abuse, assure her that it is not her fault and refer her for counselling. Positively support her feelings. If she wants to talk about this more, help her to do so. If she does not, do not push her. Remain supportive, and listen to what she wants to talk about.
@@ -350,10 +351,10 @@ You may work in a place where the resources for referral do not exist or you may
 *	**Listen to the mother’s story**
 Many women may feel isolated and have no support. Having someone to talk to, even for a short time, has real and positive effects for women. While you are doing the booking procedures, taking the history and checking the physical health of the mother, you can listen to her story. Listening to the mother and showing empathy are the most important things you can do for her. 
 
-	Often, health workers don’t ask women how they are feeling, because it takes too much time to listen properly. Health workers may also find it difficult to hear about other people’s feelings and problems. However, compassionate care does not need to take much more time than the routine engagement with the mother.  The quality of care is an important as the quantity of care. 
+	Often, health workers don’t ask women how they are feeling, because it takes too much time to listen properly. Health workers may also find it difficult to hear about other people’s feelings and problems. However, compassionate care does not need to take much more time than the routine engagement with the mother.  The quality of care is as important as the quantity of care. 
 
 *	**Provide basic counselling**
-Professional counselling can only be given after training. Identifying a registered training organisation to equip you and your colleagues with professional counselling skills can enhance the care you can provide for women. This can also increase your own job satisfaction and enable you to care for your own psychological well-being. (further details in Chapter 4)
+Professional counselling can only be given after training. Identifying a registered training organisation to equip you and your colleagues with professional counselling skills can enhance the care you can provide for women. This can also increase your own job satisfaction and enable you to care for your own psychological well-being. (See Chapter 4 for further details.)
 
 *	**Set up a support group**
 Support groups provide a useful space for women to share their experiences and to learn about mental health issues or other pregnancy-related matters. Support groups help people feel less alone with their problems. Feeling supported is particularly important for the recovery of women suffering from a maternal mental illness. 
@@ -378,12 +379,17 @@ To have another woman in constant attendance during birth and the weeks that fol
 ### 3-27 What can a doula do?
 
 *	Encourage the woman during labour
-*	Help the woman focus on the fact that she is bringing a new life into the world, a powerful process
+*	Help the woman focus on the fact that she is bringing a new life into the world - a powerful process
 *	Provide physical support, such as massaging the woman and helping her find comfortable positions for labour
 *	Give the  labouring mother energy-sustaining foods and fluids
 *	Give on-going support from the first stages of labour at home, through the journey to the clinic or hospital, during labour and after the birth, until the baby is successfully breastfeeding and the family is settled.
 
 All mothers need to be able to trust the people around them during the birthing process. The doula creates a safe environment where the mother feels protected and calm. A doula does not perform any medical tasks but can assist labour ward staff by calming and supporting mothers in labour.
+
+<figure>
+	<img src="images/mmh-3-4.svg" alt="Figure 3-4: A doula is a birth companion who calms and supports a mother in labour">
+	<figcaption>Figure 3-4: A doula is a birth companion who calms and supports a mother in labour</figcaption>
+</figure>
 
 ### 3-28 What are the benefits of having a doula?
 
@@ -392,14 +398,14 @@ The benefits of a doula during labour can include:
 *	A positive effect on the mother: continuous support promotes the steady release of hormones which help the mother to feel calmer, more comfortable and experience less pain
 *	A lower chance of experiencing mental distress during labour or in the postnatal period
 *	A shorter labour
-*	Fewer forceps or vacuum deliveries, and fewer Caesarean sections
+*	Fewer forceps or vacuum deliveries and fewer Caesarean sections
 *	Less need for pain medication
 *	An increased chance and duration of successful breastfeeding
 *	Better bonding with the baby.
 
 ## Case study 1
 
-A mother at your facility who has a 6 week old baby seems to be very depressed. She complains of lack of sleep due to worry and says that she feels like crying all the time. 
+A mother at your facility who has a 6-week-old baby seems to be very depressed. She complains of lack of sleep due to worry and says that she feels like crying all the time. 
 
 ### 1.	What can you do to help her to get help?
 
@@ -425,7 +431,7 @@ In order to assess how urgently she needs the referral, you need to find out if:
 *	She has thoughts of harming others
 *	She is psychotic.
 
-*The mother does not appear to be in any danger of harming herself or others and does not require emergency mental health care. There are a number of organisations in your area which offer services. These include a drug rehabilitation centre, a social worker, an HIV counsellor, a church choir and a mothers’ group who grow vegetables.*
+*The mother does not appear to be in any danger of harming herself or others and does not require emergency mental health care. There are a number of organisations in your area which offer services. These include a drug rehabilitation centre, a social worker, an HIV counsellor, a church choir and a group of mothers who grow vegetables.*
 
 ### 5.	Which of these do you think would be appropriate referrals for this mother?
 
@@ -517,14 +523,14 @@ A pregnant mother at your facility has screened positive for anxiety. She says t
 
 ### 1.	What information can you give this mother about the referral to counselling?
 
-You may explain the following: 
+You may explain the following things to the mother.  
 
-*	Reassure her that it is a good thing to have the opportunity to talk to a counsellor before the baby is born, and that she will feel more prepared when the baby comes.  
-*	Explain that many women feel better and more confident when they are able to talk about their problems to a trained counsellor. 
-*	Everything that is said to the counsellor will be confidential. 
+*	Reassure her that it is a good thing to have the opportunity to talk to a counsellor before the baby is born, and that she will feel more prepared when the baby comes 
+*	Explain that many women feel better and more confident when they are able to talk about their problems to a trained counsellor.
+*	Everything that what is said to the counsellor will be confidential.
 *	Discuss what she expects to happen in a counselling session.
 *	Assure the mother that she will receive sensitive, supportive and reliable care.
-*	Explain that the counsellor will listen carefully to what she says, and will allow her to speak and express her feelings in her own words and in her own way. 
+*	Explain that the counsellor will listen carefully to what she says, and will allow her to speak and express her feelings in her own words and in her own way.
 *	Explain that the counsellor will not express opinions, or give direct advice. ‘Patient-centred counselling' allows the mother to understand her own feelings and improve her self-esteem. Then she can develop her own solutions and gain confidence in her ability to cope. 
 *	Explain that a counsellor may assist in times of crisis and also with coping for less urgent difficulties.
 
@@ -548,7 +554,7 @@ The  counselling process consists of: 
 *	Establishing a relationship and building trust between the mother and the counsellor
 *	Good listening by the counsellor
 *	The counsellor will try to get a good understanding of the mother’s problems 
-*	The counsellor will try to support the mother to identifying resources  and improve coping and functioning.
+*	The counsellor will try to support the mother to identify resources and improve coping and functioning.
 
 *The mother now understands what might go on during the time she is in counselling. She seems to be willing to meet with the counsellor.*
 
@@ -580,7 +586,7 @@ A young pregnant mother at your facility screens positive for depression but doe
 
 ### 1.	What can you do to help?
 
-Listen to the mother’s story. Many women may feel isolated and have no support. Having someone to talk to, even for a short time, has real and positive effects for women. Listening to the mother and showing empathy is one of the most important things you can do for her.  Compassionate care does not need to take much more time than the routine engagement with the mother. 
+Listen to the mother’s story. Many women may feel isolated and have no support. Having someone to talk to, even for a short time, has real and positive effects for women. Listening to the mother and showing empathy is one of the most important things you can do for her. Compassionate care does not need to take much more time than the routine engagement with the mother. 
 
 *When you listen to this mother, you understand that she is very lonely and isolated. She is not from this area, and does not trust her neighbours as they are rude to her. She finds it very difficult to make friends and worries that she will be alone during the birth of her baby as her husband travels a lot for his work.*
 
@@ -592,7 +598,7 @@ Support groups provide a useful space for women to share their experiences and t
 
 ### 3.	Can you explain what a doula is?
 
-A doula is a woman who helps other women in labour. Today a doula is another word for a birth companion. A doula’s function is to care for and support the birthing mother.  The doula offers emotional and physical support to the birthing mother, and also to those who are with her during labour. A doula is not a midwife. 
+A doula is a woman who helps other women in labour. Today a doula is another word for a birth companion. A doula’s function is to care for and support the birthing mother. The doula offers emotional and physical support to the birthing mother, and also to those who are with her during labour. A doula is not a midwife. 
 
 *The mother is interested in this, but wants more information.*
 
