@@ -15,9 +15,11 @@ Illustrations by Graeme Arendse
 
 Getup © Electric Book Works 2009
 
-ISBN (paperback): 978-1-920218-xx-x
+ISBN (print edition): 978-1-920218-83-6
 
-ISBN (PDF ebook): 978-1-920218-xx-x
+ISBN (PDF edition): 978-1-920218-84-3
+
+ISBN (reflowable edition): 978-1-920218-88-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

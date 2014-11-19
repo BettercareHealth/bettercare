@@ -11,7 +11,7 @@ layout: chapter
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned. 
 
-## Objectives:
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -96,9 +96,9 @@ During pregnancy:
 
 After pregnancy:
 
-*	HIV-positive women may face difficult decisions around the method of feeding their infant
-*	If they choose to bottle feed, they run the risk of family and friends becoming suspicious of their HIV status
-*	Women experience guilt and anxiety that their babies may also be HIV-positive 
+*	HIV-positive women may face difficult decisions around the method of feeding their infant.
+*	If they choose to bottle feed, they run the risk of family and friends becoming suspicious of their HIV status.
+*	Women experience guilt and anxiety that their babies may also be HIV-positive.
 *	She may fear for the future of her family if she becomes sick with AIDS. 
 
 > Mental illness is much more common in HIV-positive women. 
@@ -115,7 +115,7 @@ Mental illness can also have a very negative impact on the progression of HIV/AI
 
 ### 5-7 How are pregnant teenagers affected by mental illness?
 
-Pregnant teenagers are at greater risk of developing mental illness. Also, young women who are depressed are more likely to become pregnant during their teenage years. Health workers should keep in mind that adolescence is a time when a number of physical and emotional changes take place. Adolescent girls are vulnerable, and may have difficulties dealing with crises or recovering from trauma. They also may experience pressure to engage in sex or use alcohol and drugs. Pregnant adolescents need special attention that is non-judging and supportive. 
+Pregnant teenagers are at greater risk of developing mental illness. Also, young women who are depressed are more likely to become pregnant during their teenage years. Health workers should keep in mind that adolescence is a time when a number of physical and emotional changes take place. Adolescent girls are vulnerable and may have difficulties dealing with crises or recovering from trauma. They also may experience pressure to engage in sex or use alcohol and drugs. Pregnant adolescents need special attention that is non-judging and supportive. 
 
 ### 5-8 Can typical adolescent behaviour be confused with mental illness?
 
@@ -133,11 +133,11 @@ For some women, the **choice to terminate** a pregnancy may have negative mental
 
 ### 5-10 How can health workers help women with unintended pregnancies?
 
-Any women experiencing distress needs non-judgemental support and kindness to help them to make the best decision for themselves. Persuasion by a health worker to make a decision either way, may be damaging for the mother.
+Any women experiencing distress needs non-judgemental support and kindness to help them to make the best decision for themselves. Persuasion by a health worker to make a decision either way may be damaging for the mother.
 
 ### 5-11 Is terminating the pregnancy an option?
 
-Health workers are legally obliged to provide information on Termination of Pregnancy (TOP) services for those who seek this, whatever the personal beliefs that the staff may have. A health worker who is approached by a woman for an abortion may decline if they choose to do so, but are obligated by law to inform the woman of her rights and refer her to another health worker or facility where she can get an abortion.
+Health workers are legally obliged to provide information on Termination of Pregnancy (TOP) services for those who seek this, whatever the personal beliefs the staff may have. A health worker who is approached by a woman for an abortion may decline if they choose to do so, but are obligated by law to inform the woman of her rights and refer her to another health worker or facility where she can get an abortion.
  
 ### 5-12 What is the law on terminating a pregnancy in South Africa?
 
@@ -178,7 +178,12 @@ Because refugees have been separated from their families and communities, they o
 *	Not understand the procedures of the clinic or what is happening during her pregnancy or labour. 
 
 Note
-:	“Loneliness, loss of identity, poverty and trauma are the main stressors that we see. Many refugee women have no one to talk to, and pregnancy makes them more vulnerable.” Charlotte Mande-Ilunga: French-speaking Perinatal Mental Health Project counsellor
+:	“Loneliness, loss of identity, poverty and trauma are the main stressors that we see. Many refugee women have no-one to talk to, and pregnancy makes them more vulnerable.” Charlotte Mande-Ilunga: French-speaking Perinatal Mental Health Project counsellor
+
+<figure>
+	<img src="images/mmh-5-1.svg" alt="Figure 5-1: Loneliness, loss of identity, poverty and trauma are the main stressors refugees face.">
+	<figcaption>Figure 5-1: Loneliness, loss of identity, poverty and trauma are the main stressors refugees face.</figcaption>
+</figure>
 
 ## Substance misuse
 
@@ -188,7 +193,7 @@ Substance misuse is the harmful use of substances (like drugs and alcohol) for n
 
 ### 5-19 What is substance abuse?
 
-Substance abuse, is a patterned use of a substance (like drugs and alcohol) in which the user consumes the substance in amounts or with methods that are harmful to themselves or others.
+Substance abuse, is a pattern of use of a substance (like drugs and alcohol) in which the user consumes the substance in amounts or with methods that are harmful to themselves or others.
 
 ### 5-20 How does substance misuse affect mental health?
 
@@ -222,7 +227,7 @@ Direct questions such as ‘are you drunk?’ are threatening and may sound judg
 
 If the mother is using substances, she should be referred for appropriate assessment and treatment. Brief motivational interviewing has been shown to be useful for addiction problems. 
 
-> If your facility does not have such services, try to find a suitable referral organisation in the community. 
+> If your facility does not have substance misuse treatment services, try to find a suitable referral organisation in the community. 
 
 ## Maternal abuse
 
@@ -263,7 +268,7 @@ As a result of emotional abuse, a person may live in fear and have altered thoug
 *	Threats of harm to the person, or the person’s children, friends or family
 *	Exploitation
 *	Demanding sexual acts
-*	Control of person’s sexual and reproductive choices
+*	Control of a person’s sexual and reproductive choices
 *	Financial control (see financial abuse below).
 
 The abuser uses emotional abuse to damage someone’s feelings of self-worth and independence. People who have experienced emotional abuse may feel that there is no way out of their relationship, or that ‘they are nothing’ without their abusive partner. They will often blame themselves for the abuse.
@@ -278,7 +283,7 @@ Sexual abuse is any sexual contact or interaction (physical, visual, verbal or p
 
 ### 5-29 What is rape?
 
-Rape is any sexual act which has been forced onto another person. It can include, but is not limited to, acts of sexual penetration into the vagina, anus or mouth of another individual without their consent. A person can be raped by their partner, a family member, a friend, someone they know, a stranger, or by several people. Rape may be committed by a person who is a blood or legal relative.. Rape is a violent, traumatic and life changing experience that can happen to anyone, female or male. It can create stressful situations within a person’s relationship, family and community.
+Rape is any sexual act which has been forced onto another person. It can include, but is not limited to, acts of sexual penetration into the vagina, anus or mouth of another individual without their consent. A person can be raped by their partner, a family member, a friend, someone they know, a stranger, or by several people. Rape may be committed by a person who is a blood or legal relative. Rape is a violent, traumatic and life changing experience that can happen to anyone, female or male. It can create stressful situations within a person’s relationship, family and community.
 
 ### 5-30 What is economic or financial abuse?
 
@@ -310,11 +315,11 @@ Domestic violence often occurs in a cycle.
 3.	Violence: the abuse begins, and can be of any form (e.g. physical, emotional etc.)
 4.	Remorse: the abuser shows remorse and repeatedly apologises and begs forgiveness
 5.	Forgiveness: the woman starts feeling guilty, thinking perhaps she was the cause of the outburst, and accepts the abuser’s apology
-6.	‘Honeymoon’ phase : the quiet, violence-free period starts again and the cycle continues
+6.	‘Honeymoon’ phase: the quiet, violence-free period starts again and the cycle continues
 {:.keep-with-next}
 <figure>
-	<img src="images/mmh-5-1.svg" alt="Figure 5-1: The cycle of violence">
-	<figcaption>Figure 5-1: The cycle of violence</figcaption>
+	<img src="images/mmh-5-2.svg" alt="Figure 5-2: The cycle of violence">
+	<figcaption>Figure 5-2: The cycle of violence</figcaption>
 </figure>
 
 The cycle usually repeats itself as the woman hopes that the abuser will change and go back to the person she once knew.
@@ -326,8 +331,8 @@ Note
 
 Women are not all the same, yet there are some common signs that women show when they are experiencing abuse. Rape and other forms of abuse can have a range of effects on women, such as:
 
-1.	Physical effects: shock, physical injury, nausea, tension headaches, disturbed sleeping and eating patterns, HIV or other sexually transmitted infections, pregnancy
-2.	Behavioural effects: crying more than usual, difficulty concentrating, restlessness, listlessness, withdrawing from people, relationships and social situations, not wanting to be alone, being easily frightened and jumpy, being easily upset, irritability, fear of sex, loss of sexual pleasure, changes in lifestyle, increased substance misuse and behaving as if the rape did not occur (denial)
+1.	Physical effects: shock, physical injury, nausea, tension headaches, disturbed sleeping and eating patterns, HIV or other sexually transmitted infections, pregnancy.
+2.	Behavioural effects: crying more than usual, difficulty concentrating, restlessness, listlessness, withdrawing from people, relationships and social situations, not wanting to be alone, being easily frightened and jumpy, being easily upset, irritability, fear of sex, loss of sexual pleasure, changes in lifestyle, increased substance misuse and behaving as if the rape did not occur (denial).
 3.	Psychological effects: anxiety and fear, guilt, helplessness, humiliation and embarrassment, shame, low self-esteem, anger, feeling alone and misunderstood, losing hope for the future, numbness, confusion, aggression, personality changes, loss of memory, having flashbacks of the rape, nightmares, anxiety, depression and suicidal thoughts.
 
 However, if a woman does not show any of these reactions or symptoms, it does not necessarily mean that she has not been abused. She may be hiding the effects.
@@ -365,37 +370,39 @@ Many health workers avoid asking about abuse, perhaps because they are worried i
 
 ### 5-37 How can a health worker offer emotional support?
 
-*	Ask the mother how she is feeling
-*	Express your concern
-*	Listen to her and acknowledge what she tells you
+*	Ask the mother how she is feeling.
+*	Express your concern.
+*	Listen to her and acknowledge what she tells you.
 *	Avoid pressuring her to leave her abuser, unless her safety can be guaranteed.
 *	Women are often most vulnerable to violence and murder after they attempt to leave.
-*	You could discuss a safety plan with her
-*	Use the basic, but powerful listening and counselling skills covered in Chapter 4
+*	You could discuss a safety plan with her.
+*	Use the basic, but powerful listening and counselling skills covered in Chapter 4.
 *	You could offer to see her again as she may only be ready to accept help once a relationship of trust has developed with you and once she feels stronger in herself. 
 
 ### 5-38 What options are available to an abused mother?
 
 *	Explain to the mother that she has a right to human dignity, freedom of movement, equality and life. Explain that the way she is being treated goes against her rights.
-*	Explain that she can apply for a Protection Order (in South Africa), which will legally forbid the abuser from committing any acts of domestic violence against her. 
-*	There is more information about the process of applying for a Protection Order in the Resources Chapter 
+*	Explain that she can apply for a Protection Order (in South Africa), which will legally forbid the abuser from committing any acts of domestic violence against her. (There is more information about the process of applying for a Protection Order in the Resources Chapter.)
 *	Try and get to know the NGOs, support organisations or shelters that work with domestic and gender-based violence in the community: you can refer the woman to one of these so she can get legal, social and emotional support. She should get help from someone she trusts. 
 *	You could offer her a referral to a medical doctor to assess her injuries or any other physical problems she may have.
 
 ### 5-39 Can the mother stay in the abusive situation?
 
 In extreme situations, a woman may have to remove herself from immediate harm, and stay in a shelter or at a friend’s or relative’s home.
+
 This is a difficult and important step for a woman victim of domestic abuse: it is essential that she is shown empathy and emotional support. You may be able to develop a safety plan with her. This will include ensuring secrecy of the location of where she is going, packing (sometimes secretly storing, over time) important documents, ID documents, valuables, clothing and food necessary for the woman and her children to leave. 
 
 ### 5-40 What if she does not want to leave?
 
 The abuser might suspect that she is leaving, so she may not want to disclose her plans. Try to be patient, understanding, and not pressure her to talk. 
-She is especially vulnerable, as she may be losing the financial or practical support she had in her home. Try to make sure that there is someone (e.g. sibling, cousin, friend, or someone from a support organisation) who can support her and help her stay away from harm. 
+
+She is especially vulnerable as she may be losing the financial or practical support she had in her home. Try to make sure that there is someone (e.g. sibling, cousin, friend, or someone from a support organisation) who can support her and help her stay away from harm. 
+
 Try to support her choice, no matter what she decides to do.
  
 A woman may deny she is being abused when she is asked about it. However, by simply asking, you are showing the mother that you care. She will appreciate that, and may feel safe to disclose at a later stage. 
 
-Women who are being abused may have also witnessed abuse of their children. Often more than one person is being abused in a home.  The woman herself may be abusing her children. The decision to stay or leave an abusive relationship may be influenced by whether her children are  also being abused.
+Women who are being abused may have also witnessed abuse of their children. Often more than one person is being abused in a home. The woman herself may be abusing her children. The decision to stay or leave an abusive relationship may be influenced by whether her children are also being abused.
 
 ## Child Abuse
 
@@ -462,7 +469,7 @@ It is important to remember that cultural or religious differences can make it d
 
 For example, values concerning the role of the child in the family, and attitudes about the use of physical punishment, differ between cultures. It is important to be sensitive and careful in these cases. 
 
-### 5-46	What can health workers do about child abuse?
+### 5-46 What can health workers do about child abuse?
 
 Health workers have a duty and legal obligation to take action if child abuse is taking place. You may notice that a mother is not coping. She might say something that causes the health worker to be concerned, such as: 
 
@@ -586,7 +593,7 @@ Other signs that the woman may be at higher risk of hurting herself are:
 *	Empathise, but do not encourage the mother to feel sorry for herself.
 *	Be supportive, but do not make unrealistic promises. It is not your job to ‘rescue’ the mother: instead, care for her and make sure you refer her so she can get the help she needs. 
 *	Talk openly about suicide.
-*	Ask the woman how she plans on committing suicide. There is a higher risk if she has a detailed plan, and has  spent time thinking about how to commit suicide.
+*	Ask the woman how she plans on committing suicide. There is a higher risk if she has a detailed plan and has spent time thinking about how to commit suicide.
 
 > If the risk seems high, and you think the mother is in danger of acting on her plan, do not leave her alone. GET HELP URGENTLY!
 
@@ -666,7 +673,7 @@ Treat the infant gently at birth, e.g. wrap the infant in warm blankets.
 Parents may not know how to be with their infant who has died. Watching the health worker’s tender interaction with the infant may help to show them.
 
 *	Offer to show the baby who has died to the parents and other members of the family, if they wish, and help them cuddle the infant if that is what they want. Point out positive features, e.g. beautiful little hands.
-*	Support parents in deciding whether to stay with a dying or dead infant, and help them care for the infant if they want to do this. Do not judge their decision, whatever it is.
+*	Support parents in deciding whether to stay with an infant who is dying or has died, and help them care for the infant if they want to do this. Do not judge their decision, whatever it is.
 *	Give parents privacy with their infant for as long they want after the birth. Put a bereavement (grieving) notice on the door.
 *	Help parents to obtain photographs and other mementos, such as a foot or hand print or lock of hair, if this is what they want.
 *	Suggest they choose a name for the baby
@@ -715,7 +722,7 @@ People with HIV infection are more vulnerable to mental illness. She is therefor
 *	She has been diagnosed as HIV positive for the first time. 
 *	She feels betrayed and considers that her husband has been unfaithful to her and that he may be HIV positive. This is likely to affect their relationship.
 *	She is worried that her baby may be infected with HIV 
-*	She will need to adjust to the Prevention of Mother to Child Transmission (PMTCT) Programme or having to take the Antiretroviral Treatment (ART).
+*	She will need to adjust to the Prevention of Mother to Child Transmission (PMTCT) Programme or having to take Antiretroviral Treatment (ART).
 
 ### 4.	With regard to her HIV status, what issues does this mother need to consider once the baby is born?
 
@@ -758,7 +765,7 @@ You could say:
 
 *You talk to the mother and she tells you that she does sometimes get out of control and hit her children.*
 
-### 4.	What short term solutions can you tell her about to help her when she is stressed with the children?
+### 4.	What short-term solutions can you tell her about to help her when she is stressed with the children?
 
 You can say: 
 
@@ -807,7 +814,7 @@ A young mother at your facility has come in with her new baby. It is a hot day a
 *	Listen to her and acknowledge what she tells you.
 *	Avoid pressuring her to leave her abuser, unless her safety can be guaranteed.
 
-*You ask the mother about her relationship with her partner. She starts crying and tells you that it is very difficult. She says that at times everything is fine, and then he starts finding fault in the things that she does. He comes home and says the house has not been cleaned properly and that his work shirts are not ironed. She tries hard to get everything done, but never seems to be good enough for him. He shouts at her, tells her she is useless and sometimes hits her. Then he is sorry, says he won’t do it again and everything is fine for a while. She keeps hoping that this time he will change and be the loving person that she once knew. She worries that she has no-where else to go and that she is stupid and unable to earn money to support herself and the baby. He won’t let her see her cousins who live nearby.* 
+*You ask the mother about her relationship with her partner. She starts crying and tells you that it is very difficult. She says that at times everything is fine, and then he starts finding fault in the things that she does. He comes home and says the house has not been cleaned properly and that his work shirts are not ironed. She tries hard to get everything done, but never seems to be good enough for him. He shouts at her, tells her she is useless and sometimes hits her. Then he is sorry, says he won’t do it again and everything is fine for a while. She keeps hoping that this time he will change and be the loving person that she once knew. She worries that she has nowhere else to go and that she is stupid and unable to earn money to support herself and the baby. He won’t let her see her cousins who live nearby.* 
 
 ### 3.	What do you suspect is happening at home?
 
@@ -820,8 +827,8 @@ It is known as the 'cycle of violence'.
 ### 5.	What are some of the reasons that this mother gives for why she stays with her violent partner?
 
 *	She keeps hoping that this time he will change and be the loving person that she once knew. 
-*	She worries that she has now where else to go. 
-*	She feels worthless (stupid).
+*	She worries that she has nowhere else to go. 
+*	She feels worthless and stupid.
 *	She is financially dependent on him.
 
 ### 6.	What options are open to this abused mother?
@@ -852,7 +859,7 @@ Instead, you should:
 
 *	Let the mother know you care about her.
 *	Empathise, but do not encourage the mother to feel sorry for herself.
-*	Be supportive, but do not make unrealistic promises. It is not your job to ‘rescue’ the mother: instead, care for her and make sure you refer her so she can get the help she needs. 
+*	Be supportive, but do not make unrealistic promises. It is not your job to ‘rescue’ the mother. Instead, care for her and make sure you refer her so she can get the help she needs. 
 *	Talk openly about suicide.
 *	Ask the woman how she plans on committing suicide. There is a higher risk if she has a detailed plan, and has spent time thinking about how to commit suicide.
 
@@ -878,10 +885,10 @@ Instead, you should:
 *	As she does not have a partner, find out whether she trusts her mother to assist. If so, call her mother.
 *	If available, contact the psychiatric nurse at the nearest facility.
 *	Call a helpline, so she can speak to a counsellor on the phone.
-*	Explore if it is suitable for the mother can draw on the minister or church group for support.
+*	Explore if it is suitable for the mother to draw on the minister or church group for support.
 *	Give her the telephone numbers of helplines and emergency services.
 
-*You have found dealing with this woman very traumatic and stressful. She has finally gone home with her mother, and has an appointment to see the psychiatric nurse in the morning. You have given them the numbers for a help-line and the emergency services.*
+*You have found dealing with this woman very traumatic and stressful. She has finally gone home with her mother, and has an appointment to see the psychiatric nurse in the morning. You have given them the numbers for a helpline and the emergency services.*
 
 ### 5.	What else should you do?
 
@@ -910,10 +917,10 @@ It might be useful to help this couple to discuss their wishes for the infant:
 
 ### 3.	What do you think you can do for these parents once the baby has been born?
 
-*	Be gentle with the baby who has died. Wrap it gently in warm blankets. This may help to show the parents how to be with their dead infant. 
+*	Be gentle with the baby who has died. Wrap it gently in warm blankets. This may help to show the parents how to be with their infant who has died. 
 *	Offer to show the stillborn baby to the parents and other members of the family, if they wish, and help them cuddle the baby if that is what they want.
 *	Point out positive features, e.g. beautiful little hands.
-*	Support the parents in deciding whether to stay with the dead baby, and help them care for the baby if they want to do this. Do not judge their decision, whatever it is.
+*	Support the parents in deciding whether to stay with the baby who has died, and help them care for the baby if they want to do this. Do not judge their decision, whatever it is.
 *	Give the parents privacy with their baby for as long they want after the birth. Put a bereavement (grieving) notice on the door.
 *	Help the parents to obtain photographs and other mementos, such as a foot or hand print or lock of hair, if this is what they want.
 *	Suggest they choose a name for the baby.

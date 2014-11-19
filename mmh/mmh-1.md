@@ -26,7 +26,7 @@ When you have completed this unit you should be able to:
 
 ### 1-1	What is mental health?
 
-Mental health is a term used to describe a person’s emotional wellness and their ability to enjoy life. It refers to a person having a sense of purpose, emotional wellbeing and a sense of connectedness to others. It is more than the absence of mental illness.
+Mental health is a term used to describe a person’s emotional wellness and their ability to enjoy life. It refers to a person having a sense of purpose, emotional well-being and a sense of connectedness to others. It is more than the absence of mental illness.
 {:.keep-with-next}
 > Mental health refers to a person's emotional wellness and ability to enjoy life. 
 
@@ -48,11 +48,11 @@ Maternal mental illness is mental illness that occurs during pregnancy or in the
 
 ### 1-4	Is mental distress the same as mental illness?
 
-No. Mental illness is a long term abnormal, diagnosable condition.  In contrast, mental distress is a general term for short lived mental suffering.  It includes a range of possible symptoms such as confused emotions, rage, anxiety and depression.  Mental distress may be an appropriate response to a threatening situation.  Therefore a person with mental distress usually is not considered ‘ill’ in a medical sense because the distress does not last long enough, and functioning is not affected.
+No. Mental illness is a long-term abnormal, diagnosable condition.  In contrast, mental distress is a general term for short-lived mental suffering.  It includes a range of possible symptoms such as confused emotions, rage, anxiety and depression.  Mental distress may be an appropriate response to a threatening situation.  Therefore a person with mental distress usually is not considered ‘ill’ in a medical sense because the distress does not last long enough, and functioning is not affected.
 
 However, mental distress that goes on for a long time may affect a person’s mood and well-being and develop into a mental illness. 
 
-For example: A mother may be distressed about her baby being in hospital, but she does not necessarily have a mental illness. However, if her mental distress goes on for a long time, it may develop into a mental illness
+For example: A mother may be distressed about her baby being in hospital, but she does not necessarily have a mental illness. However, if her mental distress goes on for a long time, it may develop into a mental illness.
 
 > Mental distress is a severe but short-lived, appropriate emotional response to a threatening situation. 
 
@@ -133,7 +133,7 @@ Mental illness in parents has a negative effect on the social, emotional, cognit
 
 ### 1-16 What is a risk factor?
 
-A risk factor is something that increases the chance of a person developing a particular illness or disease Therefore, a risk factor will increase the likelihood or chance of suffering from an illness, harm or loss. 
+A risk factor is something that increases the chance of a person developing a particular illness or disease. Therefore, a risk factor will increase the likelihood or chance of suffering from an illness, harm or loss. 
 
 Note
 :	Smoking as an example of a risk factor as it is associated with an increased likelihood of lung cancer. However, not all people who smoke develop lung cancer while not all people with lung cancer smoked. 
@@ -144,7 +144,7 @@ The risk factors that increase the chance of maternal mental illness are:
 
 1.	Poverty – women who live in poverty have the added stresses of unemployment, poor housing and food insecurity. If they develop a mental illness, they are more likely to experience isolation and stigma, limited ability to generate income and have to spend more time and money on health care. 
 2.	Rape, violence and abuse – women can have an increased risk of domestic violence during pregnancy. As the pregnancy progresses, the violence tends to become worse. These women are more likely to become depressed and anxious. 
-3.	HIV/ AIDS - women with HIV/AIDS have special mental health needs. Many women learn their HIV status for the first time during pregnancy. The process of adjusting to this news and disclosing to family and friends could result in guilt, stigma and rejection by partners, family or the community. She may feel guilty or anxious about her baby getting HIV; she may deny her HIV status; she may feel depressed about her situation and diagnosis. HIV/AIDS can affect the brain while adapting to medication and can also cause emotional distress. On the other hand, positive mental health can improve adherence to anti-retroviral medications including Prevention of Mother to Child Transmission interventions, and can improve the use of antenatal care. 
+3.	HIV/ AIDS - women with HIV/AIDS have special mental health needs. Many women learn their HIV status for the first time during pregnancy. The process of adjusting to this news and disclosing to family and friends could result in guilt, stigma and rejection by their partners, family or the community. She may feel guilty or anxious about her baby getting HIV; she may deny her HIV status; she may feel depressed about her situation and diagnosis. HIV/AIDS can affect the brain while adapting to medication and can also cause emotional distress. On the other hand, positive mental health can improve adherence to anti-retroviral medications including Prevention of Mother to Child Transmission interventions, and can improve the use of antenatal care. 
 4.	Adolescents - are twice as likely to experience depression compared to pregnant adults. Also, teenage mothers with depression are more likely to get pregnant again within 1 to 2 years than those teens who are not depressed. 
 5.	Refugee status - In fleeing their own countries, refugee women may have experienced extreme trauma, violence, rape, the loss of loved ones and great emotional distress. They are also more likely to experience post-traumatic stress disorder. They may find it difficult to make friends in the new country and have little support. 
 6.	Substance use - substance use and mental illness often occur at the same time, or as a result of each other. This can have devastating effects on both the mother and the child. South Africa has some of the highest rates of Fetal Alcohol Syndrome in the world, which is a result of the widespread misuse of alcohol during pregnancy.
@@ -152,7 +152,7 @@ The risk factors that increase the chance of maternal mental illness are:
 8.	No emotional or practical support from family or friends – women without social support are more likely to suffer from mental illnesses. Having supportive family and friends has a positive effect on mental health. 
 9.	Unintended pregnancy – women who have an unplanned or unwanted pregnancy are at greater risk of mental distress than those who have a planned pregnancy.
 10.	Previous history of mental illness – having previous experience of any mental illness make it more likely that during pregnancy, the women could suffer from mental illness.
-11.	Pregnancy loss – experiencing previous pregnancy loss (from example a miscarriage, stillbirth or abortion) or the loss of an infant or child, put women at greater risk of suffering from a mental illness during pregnancy. Often the previous loss has not been emotionally dealt with, and during the subsequent pregnancy may focus on this grief and loss. 
+11.	Pregnancy loss – experiencing previous pregnancy loss (from example a miscarriage, stillbirth or abortion) or the loss of an infant or child, put women at greater risk of suffering from a mental illness during pregnancy. Often the previous loss has not been emotionally dealt with, and during the subsequent pregnancy they may focus on this grief and loss. 
 12.	Obstetric complications – obstetric complications during pregnancy or in a previous pregnancy, labour or delivery may contribute to the possibility of mental illness during pregnancy.
 13.	Major negative life event in the past year – difficult events in a women’s life (e.g moving house, loss of a job, death of a close friend or relative, injury) can influence her mental health. If these occurred during the year before (or during) her pregnancy, they can put her at risk for experiencing mental illness. 
 
@@ -160,13 +160,13 @@ The risk factors that increase the chance of maternal mental illness are:
 
 ### 1-18 What is a symptom?
 
-A symptom is something that a patient complains of and may indicate a condition, disease or illness.  It is a subjective feeling or a presenting complaint. In contrast to a symptom, a sign is a clinical finding that a doctor or nurse makes when examining a patient.  A headache is a symptom but an enlarged liver is a sign.
+A symptom is something that a patient complains of and may indicate a condition, disease or illness.  It is a subjective feeling or a presenting complaint. In contrast to a symptom, a sign is a clinical finding that a doctor or nurse makes when examining a patient. For example: A headache is a symptom but an enlarged liver is a sign.
 
 ### 1-19 What are the ‘baby blues’?
 
 The ‘baby blues’ is a temporary psychological state. It usually starts on the third day after delivery and is probably linked to hormonal changes. It involves sudden mood swings (feeling very happy, then very sad), crying for no apparent reason, feeling impatient, unusually irritable, restless, anxious, lonely and sad. These symptoms last only a few hours or as long as 1 to 2 weeks after delivery, and resolves with compassionate support. 
 
-However, if these emotions and feelings continue and become so bad that they interfere with a woman’s daily life, and she has difficulty with carrying out her usual daily tasks, then it is possible that she is suffering from a mental illness. The ‘Baby Blues needs to be monitored carefully as about 20% of women who experience the ‘Baby Blues’ will progress to having Postnatal Depression.
+However, if these emotions and feelings continue and become so bad that they interfere with a woman’s daily life, and she has difficulty with carrying out her usual daily tasks, then it is possible that she is suffering from a mental illness. The ‘baby blues' needs to be monitored carefully as about 20% of women who experience the ‘baby blues’ will progress to having postnatal depression.
 
 ### 1-20 What is a mental disorder?
 
@@ -182,7 +182,7 @@ A non-psychotic mental disorder is a condition of the mind that affects the way 
 
 This is different from psychotic disorders when the person may imagine that they can see or hear things which are not present (discussed in 1-31).
 
-### 1-23 What is Depression?
+### 1-23 What is depression?
 
 Depression is characterised by low mood, loss of interest and enjoyment, as well as reduced energy for at least two to four weeks. Other common symptoms of depression include:
 
@@ -196,7 +196,7 @@ Depression is characterised by low mood, loss of interest and enjoyment, as well
 *	Extreme tiredness
 *	Loss of sex drive
 *	Many physical symptoms
-*	Ideas or attempts of self-harm or suicide
+*	Ideas or attempts of self-harm or suicide.
 
 In severe cases, depressed people may have symptoms of a psychotic disorder. 
 
@@ -235,11 +235,13 @@ Anxiety disorders are a common group of disorders in pregnant or postnatal women
 *	Generalised Anxiety Disorder
 *	Obsessive-Compulsive Disorder
 *	Post-Traumatic-Stress Disorder
-*	Tocophobia
+*	Tocophobia.
 
 ### 1-26 What is Generalised Anxiety Disorder?
 
-Generalized anxiety disorder (GAD) is an anxiety disorder that is characterized by excessive, uncontrollable and often irrational worry about many everyday things. The worry often interferes with daily functioning.  People suffering from GAD often anticipate disaster, and are overly concerned about everyday matters such as money, death, family problems, friendship problems, work difficulties or their health. The symptoms must have lasted for at least 6 months for this disorder to be diagnosed. 
+Generalized Anxiety Disorder (GAD) is an anxiety disorder that is characterized by excessive, uncontrollable and often irrational worry about many everyday things. The worry often interferes with daily functioning.  People suffering from GAD often anticipate disaster, and are overly concerned about everyday matters such as money, death, family problems, friendship problems, work difficulties or their health. The symptoms must have lasted for at least 6 months for this disorder to be diagnosed. 
+
+> Generalised Anxiety Disorder is characterised by excessive, uncontrollable and often irrational worry about everyday things. 
 
 ### 1-27 What is Obsessive-Compulsive Disorder?
 
@@ -251,7 +253,7 @@ OCD is characterised by obsessive thoughts. In addition, compulsive behaviours a
 *	An unreasonable concern with becoming sick or infected with a disease
 *	An overwhelming need to do things correctly or perfectly.
 
-The woman experiences the disturbing thoughts again and again. They are unpleasant and they produce high levels of anxiety. These obsessions cause the woman to act out repetitive or ‘compulsive’ behaviours, such as:
+The woman experiences the disturbing thoughts again and again. They are unpleasant and they produce high levels of anxiety. These obsessions cause the woman to act out repetitive or compulsive (acting from compulsion, against one's conscious wishes) behaviours, such as:
 
 *	Washing hands often because of fear of contamination
 *	Checking and re-checking things 
@@ -272,7 +274,7 @@ Post-Traumatic Stress Disorder (PTSD) develops as a result of a traumatic event 
 
 Women who have experienced rape, sexual or emotional abuse, crime, torture or war, or previous traumatic birth experiences (such as previous emergency Caesarean section or stillbirth) are particularly at risk of developing PTSD during or after pregnancy. Pregnancy can act as a trigger for negative memories of past traumas.  
 
-PTSD is a common anxiety disorder where a traumatic event or extreme hardship from the past is repeatedly re-experienced emotionally. 
+> PTSD is a common anxiety disorder where a traumatic event or extreme hardship from the past is repeatedly re-experienced emotionally. 
 
 Symptoms of PTSD include:
 {:.keep-with-next}
@@ -300,10 +302,13 @@ PTSD in pregnancy can lead to pre-term delivery. It can also occur at the same t
 
 Tocophobia is an abnormal and persistent fear of childbirth. It occurs in all cultures and social groups and affects one in seven women. It can be related to previous traumatic birth experiences, sexual abuse or rape or exaggerated stories of painful labour and birth. Sometimes, it can lead to a frightening or traumatic delivery. In such cases:
 
-*	The mother may be ‘uncooperative’ – panicking or displaying aggression
+*	The mother may be uncooperative – panicking or displaying aggression
 *	She may experience an obstructed or prolonged labour
 *	She may be at increased risk of needing a Caesarean section.
 {:.keep-with-next}
+
+> Tocophobia is an abnormal and persistent fear of childbirth. 
+
 Note
 :	From the Greek 'tokos' meaning offspring. Therefore, a fear of bearing an offspring.
 
@@ -322,11 +327,11 @@ Mania refers to an extreme increase in energy and activity. The period during wh
 *	Increased sexual energy or inappropriate sexual behaviour 
 *	Little understanding that one is behaving in an unusual way.
 
-In some cases there may also symptoms of a psychotic disorder.
+In some cases there may also be symptoms of a psychotic disorder.
 
 ### 1-31	What are Psychotic Disorders?
 
-Psychotic disorders are severe mental conditions that cause abnormal thinking and perceptions. People with these psychoses lose touch with reality. Two of the main symptoms are delusions and hallucinations:
+Psychotic Disorders are severe mental conditions that cause abnormal thinking and perceptions. People with these psychoses lose touch with reality. Two of the main symptoms are delusions and hallucinations:
 
 *	Delusions are false beliefs, such as thinking that someone is plotting against you or that the TV is sending you secret messages.
 *	Hallucinations are false perceptions not shared by others, such as hearing, seeing, smelling, tasting or feeling something that is not there. They are less common than the non-psychotic disorders but tend to be more severe. 
@@ -344,15 +349,18 @@ Other symptoms of psychosis can include:
 *	Ignoring responsibilities at work or at home.
 
 The psychotic beliefs are very real to a person, and cannot be overcome through reasoning. Also, hallucinations, such as hearing voices, can feel very real and frightening to the person. For example, it is not uncommon for these voices to ‘instruct’ to self-harm or harm others. Remember that a woman who hears voices might look like she is talking to herself, but in fact she is answering the voices.
+
 Psychotic symptoms can also lead to difficulties with social interactions. A person with severe symptoms can also have problems with carrying out daily activities.
 
 Schizophrenia is one type of psychotic disorder. People with bipolar affective disorder may also have psychotic symptoms. Other problems that can cause psychosis include alcohol, illicit drugs, some medications, brain tumours, brain infections and stroke. 
 
-Treatment depends on the cause of the psychosis. It might involve medication to control symptoms and counselling therapy. Hospitalization is an option for serious cases where a person might be dangerous to themself or to others.
+Treatment depends on the cause of the psychosis. It might involve medication to control symptoms and counselling therapy. Hospitalization is an option for serious cases where a person might be dangerous to herself or to others.
+
+> Psychotic Disorders are severe mental conditions that cause abnormal thinking and perceptions, loss of touch with reality, delusions and hallucinations.
 
 ### 1-32 What is Postnatal Psychosis?
 
-Postnatal psychosis is the term used to describe the onset of psychotic symptoms following childbirth. It is the most common psychotic disorders in the time after birth. However, other mental conditions, such as schizophrenia, Bipolar Affective Disorder, or Alcohol or Substance Use Disorders, can also lead to psychotic symptoms. The onset (how quickly the symptoms appear) of postnatal psychosis is often sudden, within a week of birth, and can become severe quickly. 
+Postnatal Psychosis is the term used to describe the onset of psychotic symptoms following childbirth. It is the most common psychotic disorders in the time after birth. However, other mental conditions, such as schizophrenia, Bipolar Affective Disorder, or Alcohol or Substance Use Disorders, can also lead to psychotic symptoms. The onset (how quickly the symptoms appear) of postnatal psychosis is often sudden, within a week of birth, and can become severe quickly. 
 
 Psychotic symptoms in the postnatal period often relate to the circumstances at the time. For example:
 
@@ -374,7 +382,7 @@ Dependence refers to when a person starts using alcohol or substances and develo
 
 On examination they often have an increased heart rate and blood pressure.
 
-It is commonly accepted by health workers that any use of alcohol or substances during pregnancy is not recommended, in particular for the development and outcomes of the fetus. However, the use of alcohol or other substances becomes particularly harmful to a woman when: 
+It is commonly accepted by health workers that any use of alcohol or substances during pregnancy is not recommended, in particular for the development of and outcomes for the fetus. However, the use of alcohol or other substances becomes particularly harmful to a woman when: 
 
 *	It is a problem at work, at home, with friends or in the community, for example violent and aggressive behaviour (e.g. getting into fights) or not being able to care for children.
 *	It has negative effects on her physical health, for example confusion, blackouts, liver or heart disease, sleep problems.
@@ -382,6 +390,8 @@ It is commonly accepted by health workers that any use of alcohol or substances 
 *	Financial problems and poverty are made worse due to the cost of alcohol and/or substances and the inability to work.
 
 During pregnancy, it has been shown that women can be particularly motivated to quit or reduce the use of alcohol and substances. This provides health workers a valuable opportunity to intervene at this time. The motivational interviewing technique may be very effective. 
+
+> The use of alcohol or substances can have negative outcomes for the fetus and cause psycho-social problems for the mother. 
 
 ### 1-34 What is the meaning of co-morbid?
 
@@ -399,7 +409,7 @@ Mental health describes a person’s emotional wellness and their ability to enj
 
 ### 2.	What is mental illness?
 
-Mental illness refers to any long term psychological or emotional condition which prevents a person from functioning ‘normally’. Mental illness can disrupt a person’s thoughts, emotions or behaviour. 
+Mental illness refers to any long-term psychological or emotional condition which prevents a person from functioning ‘normally’. Mental illness can disrupt a person’s thoughts, emotions or behaviour. 
 
 ### 3.	How common is mental illness during pregnancy?
 
@@ -411,17 +421,17 @@ Yes, mental illness could lead to suicide. Maternal mental illness also negative
 
 ### 5.	What might be wrong with this patient?
 
-She could be suffering from a mental illness such as depression. She is crying, feels unhappy and is not able to function properly. Her body aches, but there does not seem to be a physical cause for this – and it has gone on for a long time.
+She could be suffering from a mental illness such as depression. She is crying, feels unhappy and is not able to function properly. Her body aches, but there does not seem to be a physical cause for this. This has gone on for a long time.
 
 ## Case study 2
 
-An HIV positive teenager, with an unplanned pregnancy has booked for antenatal care late in her pregnancy. She is withdrawn and barely answers the nurse’s questions. The nurse thinks she is behaving like a typically rude teenager.    
+An HIV positive teenager with an unplanned pregnancy has booked for antenatal care late in her pregnancy. She is withdrawn and barely answers the nurse’s questions. The nurse thinks she is behaving like a typically rude teenager.    
 
 ### 1.	What risk factors for mental illness does this patient have?
 
 *	She is a teenager
 *	She is HIV positive
-*	Her pregnancy was not planned
+*	Her pregnancy was not planned.
 
 ### 2.	What might her behaviour indicate?
 
@@ -467,7 +477,7 @@ No, the situation of baby needing to go to hospital is distressing for the mothe
 
 ### 2.	If the mother has been having mood swings and crying a lot since the baby was born, what could this indicate?
 
-Mood swings and crying in the week or 2 after the birth of the baby could be symptoms of ‘The Baby Blues’. 
+Mood swings and crying in the week or two after the birth of the baby could be symptoms of the 'baby blues’. 
 
 ### 3.	If the mother was unhappy during her pregnancy, and been crying a lot over the past few months, what could this indicate?
 
@@ -494,14 +504,13 @@ Common symptoms of depression include:
 *	Many physical symptoms
 *	Ideas or attempts of self-harm or suicide.
 
-
 ## Case study 4
 
 A pregnant woman comes to the clinic for an antenatal visit. She tells the nurse on duty that she cannot move forward in the queue until the man stops talking to her. She mentions that she has ants crawling under her skin. The nurse cannot hear or see a man talking to her. The nurse notices that the woman’s hands are shaking, she is sweating and on examination her blood pressure is high.  
 
 ### 1.	What symptoms of mental illness is this woman showing?
 
-She is out of touch with reality – hearing voices and seeing people
+She is out of touch with reality – hearing voices and seeing people who are not there. 
 
 ### 2.	What kind of disorder is this a symptom of?
 
@@ -511,7 +520,7 @@ Psychotic disorder
 
 Symptoms of two different disorders present at the same time. 
 
-### 4.	If the nurse notices physical symptoms that could indicate substance withdrawal, could this patient have 2 mental disorders?
+### 4.	If the nurse notices physical symptoms that could indicate substance withdrawal, could this patient have two mental disorders?
 
 Yes, withdrawal from alcohol or substance abuse could lead to hallucinations and psychosis. 
 

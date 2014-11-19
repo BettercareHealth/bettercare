@@ -11,7 +11,7 @@ layout: chapter
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned. 
 
-## Objectives:
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -23,14 +23,14 @@ When you have completed this unit you should be able to:
 *	Understand how the feelings of both health work and mother can impact on each other 
 *	Assess what type of care is needed by distressed mothers 
 *	Understand practical skills for interacting with distressed mothers
-*	Provide basic counselling to  mothers in the form of listening 
-*	Understand what happens when mothers are referred somewhere else for professional counselling
+*	Provide basic counselling to mothers in the form of listening 
+*	Understand what happens when mothers are referred somewhere else for professional counselling.
 
 ## Why pregnancy and childbirth are stressful periods
 
 ### 4-1 Why is the time around pregnancy and childbirth so stressful?
 
-Change of any kind can be stressful for people to cope with. During pregnancy and around the time of childbirth, women experience changes in body, self-image, expectations and relationships. They are also faced with new challenges and responsibilities. It is a major life transition, to which it can be difficult to adapt. Women who have difficulties in making adjustments are vulnerable to mental illness. 
+Change of any kind can be stressful for people to cope with. During pregnancy and around the time of childbirth, women experience changes in body, self-image, expectations and relationships. They are also faced with new challenges and responsibilities. It is a major life transition that can be difficult to adapt to. Women who have difficulties in making adjustments are vulnerable to mental illness. 
 
 ### 4-2 Is it more stressful for women in low income settings?
 
@@ -48,7 +48,7 @@ By caring for a mother’s overall well-being, the health worker can also have a
 
 ### 4-4 What is the Better Births Initiative (BBI)?
 
-The BBI is an international project which aims to improve the quality of care during labour and childbirth. By adopting the BBI principles and practices - which are based on scientific evidence – health workers can prevent harm and improve the health of mothers and their babies. The BBI principles are useful and widely used in the South African setting, and have been adopted in many maternity units in low- and middle-income countries.  
+The BBI is an international project which aims to improve the quality of care during labour and childbirth. By adopting the BBI principles and practices - which are based on scientific evidence – health workers can prevent harm and improve the health of mothers and their babies. The BBI principles are useful, widely used in South Africa, and have been adopted in many maternity units in low- and middle-income countries.  
 
 > The Better Births Initiative aims to improve the quality of care during labour and delivery. 
 
@@ -59,7 +59,7 @@ BBI is based on 4 main principles:
 *	Humanity: women are to be treated with respect
 *	Benefit: provide care that is based on the best available evidence
 *	Commitment: health workers are committed to improving care
-*	Action: develop effective strategies to change harmful practices
+*	Action: develop effective strategies to change harmful practices.
 
 ### 4-6 What are the practices and procedures around childbirth that BBI recommends health workers should avoid? 
 
@@ -86,7 +86,7 @@ BBI promotes practices which have proven to be of benefit:
 *	Encourage and ensure that mothers have a companion during labour 
 *	Ensure that HIV-positive mothers can prevent mother-to-child transmission
 *	Provide magnesium sulphate for preventing or treating eclampsia
-*	Provide oxytocin in the third stage of labour to prevent postnatal haemorrhage
+*	Provide oxytocin in the third stage of labour to prevent postnatal haemorrhage.
 
 Note
 :	If you would like to know more about the BBI:
@@ -101,8 +101,8 @@ Her emotional state can be influenced by:
 
 *	Personal factors: biological and genetic, personality, personal beliefs, past history
 *	Family: relationships with others, like the father of the child, others’ expectations of mother and baby
-*	Household: income, resources for child-rearing, availability of child-care
-*	Community: Safety, crime, availability of services, stigma, religious groups
+*	Household: income, resources for child-rearing, availability of child care
+*	Community: Safety, crime, availability of services, stigma, religious groups.
 
 The following image shows the different factors which can influence a woman’s emotional state during the perinatal period. 
 {:.keep-with-next}
@@ -123,14 +123,14 @@ In order to provide better care, health workers need to consider a mother’s wh
 *	Women who have been physically, mentally or sexually abused 
 *	Women who have moved from rural to urban areas during their pregnancy to look for better health care
 *	Women living in poverty
-*	Women who speak other languages, or come from other countries
+*	Women who speak other languages or come from other countries
 *	Women who have been rejected by their communities and families because of their choices or circumstances 
 *	Women who feel isolated and alone
 *	Women who are far from their own mothers and in need of ‘mothering’ care and support
 *	Women who want to, or are expected to, follow traditional rituals associated with childbirth and becoming a mother.
 
 Note
-:	At the end of this Chapter, there is an activity that may helpful for you to better understand the point of view of the mothers in your care. See Activity 1: The Secret History.
+:	At the end of this Chapter, there is an activity that may helpful for you to better understand the point of view of the mothers in your care. See Activity 1: The 'secret history'.
 
 ### 4-10 What positive influences may affect how a mother feels about her pregnancy? 
 
@@ -147,7 +147,7 @@ During the second trimester of pregnancy, the following may influence emotions i
 
 *	Development of emotional attachment to the fetus
 *	Supportive network in place
-*	Starting to think and prepare for the infant
+*	Starting to think about and prepare for the infant
 *	Feeling physically and emotionally healthy.
 
 During the third trimester of pregnancy, the following may influence emotions in a positive way: 
@@ -178,7 +178,7 @@ During the third trimester of pregnancy, the following may influence emotions in
 *	Problems with sex life
 *	Physical discomfort
 *	Major life changes, such as stopping employment
-*	Concern about  financial stress associated with a new child
+*	Concern about financial stress associated with a new child
 *	A lack of family support or maternal figure to assist new mother.
 
 ### 4-12 What may a mother feel about her maternity care?
@@ -190,7 +190,7 @@ Once a mother becomes part of the clinic or a hospital system, she may feel:
 *	Overwhelmed or afraid
 *	Uncomfortable, because she may have to wait for hours, discuss highly personal information with strangers, and undergo medical procedures and tests
 *	That she is not treated with respect and is judged by staff
-*	That she has many questions and concerns that cannot be addressed in a short consultation, and that she is rushed to make way for the next mother
+*	That she has many questions and concerns that cannot be addressed in a short consultation, and that she is rushed to make way for the next mother.
 
 ### 4-13 What may a mother feel about labour and childbirth?
 
@@ -205,7 +205,7 @@ Labour and childbirth can be an extremely stressful time for mothers and fathers
 *	Missing her own mother
 *	Having memories of previous trauma such as sexual abuse, rape, miscarriage, stillbirth, abortion or another previous negative birth experience 
 *	Scared of the doctors, midwives or medical equipment
-*	Feeling helpless, degraded or embarrassed 
+*	Feeling helpless, degraded or embarrassed.
 
 These feelings may affect the progress of labour and the way in which the mother is able to work with the staff during labour.
 
@@ -295,7 +295,7 @@ Health workers often identify the following stressful factors related to work:
 *	High rates of absenteeism
 *	Burden of high numbers of patients
 *	Very little time to spend with each mother
-*	Lack of opportunities for continuous education
+*	Lack of opportunities for continuous education.
 
 ### 4-21 What are the internal personal issues that can affect a health worker’s job performance? 
 
@@ -339,28 +339,38 @@ The relationship with a mother may improve if the health worker is able to keep 
 It is important that health workers take care of themselves. These are some suggestions for how this can be done.
 
 **Ask for help**
+{:.keep-with-next}
 Speak to someone you trust when you feel anxious, sad or stressed. Talking about your feelings can help you feel better. Ask your supervisor or manager for help in identifying support services, such as counselling. 
 
 **Identify your support networks**
-
+{:.keep-with-next}
 *	Do you have a close friend, colleague or family member you can talk to? 
 *	Can you visit your church or mosque?
 *	Can you join a group activity or support group in your neighbourhood? 
 *	Do you make time to socialise outside of work with friends who are supportive, positive and have healthy habits?
 *	Avoid people who are critical, judgemental or negative.
+{:.keep-with-next}
+<figure>
+	<img src="images/mmh-4-2.svg" alt="Figure 4-2: Speaking to a trusted colleague can help you deal with stressful situations at work and at home.">
+	<figcaption>Figure 4-2: Speaking to a trusted colleague can help you deal with stressful situations at work and at home.</figcaption>
+</figure>
 
 **Take time out**
+{:.keep-with-next}
 We all need time to relax. It helps to take time to be alone, to reflect, to sit quietly, breathe deeply or to listen to music as a relaxation technique. Take a walk. Time outside in the fresh air can be relaxing. Step outside for your tea break, or take a walk after work with a friend, colleague or relative.
 
 **Get enough sleep**
+{:.keep-with-next}
 Lack of sleep can impact on your functioning, your mood, and how you are able to cope with stress. Drinks with caffeine after lunch time can affect the quality of your sleep.
 
 **Pay attention to your nutrition**
+{:.keep-with-next}
 Try not to skip meals, especially breakfast. Pack a lunch to take to work. Healthy meal choices can give you energy. Too much caffeine, sugar, nicotine, salt or starchy foods can make you feel tired and worsen your mood or stress symptoms. Remember to drink enough water. 
 
 **Pay attention to your physical wellbeing**
+{:.keep-with-next}
 Identify what happens to your body when you feel sad, stressed or angry.
-
+{:.keep-with-next}
 *	Do you get headaches? 
 *	Do you experience gastro-intestinal problems? 
 *	Does your back ache? 
@@ -439,7 +449,7 @@ Active listening is paying careful attention to what someone is saying, as well 
 
 ### 4-32 How do you actively listen? 
 
-Listening requires more than just hearing what the mother is saying. It involves observing other aspects of her behaviour. The image below summarises the many ways all the senses are used to really listen to a client. 
+Listening requires more than just hearing what the mother is saying. It involves observing other aspects of her behaviour. The table below summarises the many ways all the senses are used to really listen to a client. 
 
 Active listening skills
 {:.table-caption}
@@ -465,7 +475,7 @@ To validate someone’s feelings means to give value to her feelings, and show a
 ### 4-35 What is the difference between a good listener and a poor listener?
 
 **Good listeners…**
-
+{:.keep-with-next}
 *	Are aware of their own feelings and responses and can separate these from the interaction
 *	Find a private, quiet place to talk
 *	Feel empathy for the mother
@@ -482,7 +492,7 @@ To validate someone’s feelings means to give value to her feelings, and show a
 *	Use senses and body language to ‘listen actively’. 
 
 **Poor listeners…**
-
+{:.keep-with-next}
 *	Talk about themselves or their own experiences
 *	Use clichés or false reassurances e.g. ‘Everything will be okay’
 *	Try to solve the mother’s problems
@@ -492,15 +502,20 @@ To validate someone’s feelings means to give value to her feelings, and show a
 *	Feel uncomfortable with someone’s feelings
 *	Minimise the problem e.g. saying ‘It could be worse!’
 *	Interrupt or stop to talk to other people or answer the phone 
-*	Concentrate and ask about the facts only, not  the mother’s feelings 
+*	Concentrate and ask about the facts only, not the mother’s feelings 
 *	Display body language which indicates that they are not focused on the mother e.g. yawning
 *	Take the side of the other person e.g. saying ‘You should have listened to your mother’
 *	Rush the appointment 
 *	Ask too many questions, give advice or judge.
 
+<figure class="keep-with-next">
+	<img src="images/mmh-4-3.svg" alt="Figure 4-3: Active listening empowers mothers to think about and solve their own problems.">
+	<figcaption>Figure 4-3: Active listening empowers mothers to think about and solve their own problems.</figcaption>
+</figure>
+
 ### 4-36 When you are listening, how should you respond?
 
-Part of listening is being able to respond in a helpful way. Below are 3 useful ways of responding: 
+Part of listening is being able to respond in a helpful way. Below are three useful ways of responding: 
 
 *	Clarification
 *	Paraphrasing
@@ -522,7 +537,7 @@ Seek clarity by asking the mother gentle questions when appropriate. For example
 
 Paraphrasing is repeating what the mother has said in your own words. It is a way of showing the mother that what she has said is important and that the health worker has been listening. It is also provides an opportunity to check with the mother if her story has been understood correctly. Try starting sentences with these words and paraphrasing may come more naturally: 
 
-*	What I'm understanding is … 
+*	What I'm understanding is… 
 *	In other words… 
 *	So basically what you're saying is… 
 *	It sounds as if… 
@@ -592,26 +607,26 @@ A mother, with 2 small children, is pregnant once again. This is not a planned p
 *	Unplanned pregnancy
 *	Recent major life event (moving to new area)
 *	Partner not present
-*	Previous pregnancy loss .
+*	Previous pregnancy loss
 
 ### 2.	What positive factors can you identify that may influence her mental well-being?
 
-*	Her previous birth experiences were normal
-*	Her partner is financially supportive
-*	She appears to be making friends and interacting with others
-*	She seems to be able to take good care of her children and provide for them
+*	Her previous birth experiences were normal.
+*	Her partner is financially supportive.
+*	She appears to be making friends and interacting with others.
+*	She seems to be able to take good care of her children and provide for them.
 
 ### 3.	Why is the health worker’s relationship with this mother so important?
 
 Women who experience emotional difficulties are more likely to experience physical health problems. Gentle and compassionate care from the health worker is likely to have a positive influence on the mother, her pregnancy and her interaction with the child. 
 
-*Your facility has adopted the principles and practices of the Better Birth Initiative (BBI).  You want to explain to this mother what she can expect during labour, based on the practices that BBI promotes.*
+*Your facility has adopted the principles and practices of the Better Birth Initiative (BBI). You want to explain to this mother what she can expect during labour, based on the practices that BBI promotes.*
 
 ### 4.	What are practices that BBI promotes for during labour?
 
-Mothers should labour and deliver with a birth companion. If her partner cannot be with her, does she have someone else who could be with her?
-Eating and drinking during normal labour is encouraged. She should prepare drinks and snacks to bring with her. 
-Moving around during labour is encouraged. She should wear comfortable clothing to allow for this. 
+*	Mothers should labour and deliver with a birth companion. If her partner cannot be with her, does she have someone else who could be with her?
+*	Eating and drinking during normal labour is encouraged. She should prepare drinks and snacks to bring with her. 
+*	Moving around during labour is encouraged. She should wear comfortable clothing to allow for this. 
 
 ### 5.	What can you explain to her about the practices and procedures that BBI would avoid?
 
@@ -621,11 +636,11 @@ Moving around during labour is encouraged. She should wear comfortable clothing 
 *	Withholding food and fluids during labour
 *	Episiotomy unless clinically required
 *	Rupturing the membranes when there is no clinical indication
-*	Suctioning of the infant’s nose and mouth when  meconium is not present 
+*	Suctioning of the infant’s nose and mouth when meconium is not present 
 
 ## Case study 2
  
-A primigravid mother who you have seen throughout her pregnancy has just given birth. In her first trimester you were aware that this was an unplanned pregnancy. She felt physically well and did not suffer from nausea. Her mother-in-law was very pleased that she was going to have a grandchild. However, her husband felt that they should have waited as he wanted to be earning more money before they had a child. During the second trimester, the mother was knitting clothes and blankets for the baby.  She and her husband were saving money to buy a cot. During the third trimester, she was very uncomfortable and could not sleep properly as the fetus was active at night. She stopped working and stayed at home alone.  Her husband was very excited about the baby’s arrival but was very worried that they would not have enough money. Her mother-in-law said she would come and help in the house when the baby arrived. 
+A primigravid mother who you have seen throughout her pregnancy has just given birth. In her first trimester you were aware that this was an unplanned pregnancy. She felt physically well and did not suffer from nausea. Her mother-in-law was very pleased that she was going to have a grandchild. However, her husband felt that they should have waited as he wanted to be earning more money before they had a child. During the second trimester, the mother was knitting clothes and blankets for the baby. She and her husband were saving money to buy a cot. During the third trimester, she was very uncomfortable and could not sleep properly as the fetus was active at night. She stopped working and stayed at home alone. Her husband was very excited about the baby’s arrival but was very worried that they would not have enough money. Her mother-in-law said she would come and help in the house when the baby arrived. 
 
 ### 1.	List the positive factors that may have influenced how this mother was feeling.
 
@@ -633,7 +648,7 @@ A primigravid mother who you have seen throughout her pregnancy has just given b
 *	Mother-in-law pleased
 *	Preparing for the baby
 *	Partner excited
-*	Mother-in-law to help.
+*	Mother-in-law to help
 
 ### 2.	List the negative factors that may have influenced how this mother was feeling. 
 
@@ -642,7 +657,7 @@ A primigravid mother who you have seen throughout her pregnancy has just given b
 *	Physical discomfort during 3rd trimester
 *	Major life change – stopped work
 *	Isolation at home
-*	Economic worries.
+*	Economic worries
 
 *As this mother had not given birth before, she asked many questions about the facility and about the birth process. She was very worried before she went into labour.*
 
@@ -657,34 +672,35 @@ A primigravid mother who you have seen throughout her pregnancy has just given b
 *	Missing her own mother
 *	Having memories of previous trauma such as sexual abuse, rape, miscarriage, stillbirth, abortion or another previous negative birth experience 
 *	Scared of the doctors, midwives or medical equipment
-*	Feeling helpless, degraded or embarrassed. 
+*	Feeling helpless, degraded or embarrassed 
 
-*After the birth, the mother kept crying and then smiling at her baby. She was relieved that the delivery had gone well. She felt disappointed that she had a girl, when her husband had wanted a son. She was exhausted, but pleased that she was able to breastfeed and that the baby latched on well. She was worried about giving the baby a bath and what would happen when she got home. She was proud to be a mother but feeling overwhelmed by the responsibilities.*
+*After the birth, the mother kept crying and then smiling at her baby. She was relieved that the delivery had gone well. She felt disappointed that she had a girl when her husband had wanted a son. She was exhausted but pleased that she was able to breastfeed and that the baby latched on well. She was worried about giving the baby a bath and what would happen when she got home. She was proud to be a mother but feeling overwhelmed by the responsibilities.*
 
 ### 4.	Identify the positive emotions that this mother feels.
 
 *	Relief
 *	Pleased with safe delivery
 *	Pleased with ability to breastfeed
-*	Proud to be a mother.
+*	Proud to be a mother
 
 ### 5.	Identify the negative emotions that this mother feels. 
 
 *	Disappointment
 *	Exhaustion
 *	Worried 
-*	Overwhelmed.
+*	Overwhelmed
 
 ## Case study 3
  
 A colleague at work is often absent. You think that she may have developed a drinking problem after her husband left her for another woman. When she does come to work, she is often late and explains that the trains are unpredictable. Recently, she took a taxi and had her bag snatched and lost her money for groceries. She is very overweight and has hypertension. This colleague has been asked to be responsible for ordering the urine dipsticks. The supplier company has not delivered them when they promised and you have now run out. The sister-in-charge shouted at your colleague, in front of the other staff and the patients and told her that she is incompetent. There are many women waiting to be seen and not enough staff on duty. Your colleague has hidden in the locker room and is crying. 
 
 ### 1.	Identify the personal issues in this health worker’s life that may be influencing how she feels.
+
 *	Marriage problems
 *	Possible alcohol abuse
 *	Stressful living conditions
 *	Crime
-*	Poor health.
+*	Poor health
 
 ### 2.	Identify the stressful factors at work that may affect how she feels. 
 
@@ -692,13 +708,13 @@ A colleague at work is often absent. You think that she may have developed a dri
 *	Insufficient supplies
 *	Poor management support
 *	High patient load
-*	Insufficient staff.
+*	Insufficient staff
 
 ### 3.	What support can you and the others on the staff provide to this colleague?
 
-Identify where she can get assistance for her personal problems (alcohol abuse, marriage counselling, assistance with her medical problems)
-Work with colleagues to raise work concerns through the correct channels (poor management, insufficient supplies, high patient load, insufficient staffing)
-Create a better working environment (smile, greet, give positive feedback, listen to colleagues)
+*	Identify where she can get assistance for her personal problems (alcohol abuse, marriage counselling, assistance with her medical problems)
+*	Work with colleagues to raise work concerns through the correct channels (poor management, insufficient supplies, high patient load, insufficient staffing)
+*	Create a better working environment (smile, greet, give positive feedback, listen to colleagues)
 
 ### 4.	What self-care strategies could this colleague adopt to improve how she is feeling?
 
@@ -708,9 +724,9 @@ Create a better working environment (smile, greet, give positive feedback, liste
 *	Pay attention to nutrition
 *	Take a walk
 *	Get enough sleep
-*	Pay attention to her physical health.
+*	Pay attention to her physical health
 
-*If your colleague does not get help, and is feeling upset and unhappy, she may act in an uncaring and harsh manner towards mothers at the facility.*
+*If your colleague does not get help and is feeling upset and unhappy, she may act in an uncaring and harsh manner towards mothers at the facility.*
 
 ### 5.	How might her clients react to this treatment?
 
@@ -734,7 +750,7 @@ Both women are distressed.
 *	Someone to support and not judge them 
 *	Respect
 *	The chance to explore their own possible solutions
-*	The opportunity to identify practical options.
+*	The opportunity to identify practical options
 
 ### 2.	Why do you think that Elise is being sulky and uncooperative?
 
@@ -746,7 +762,7 @@ Elise is scared and worried. When Sr. Michaels was cross with her, she reacted w
 
 *	Provide information about pregnancy and birth
 *	Apply active listening skills
-*	Show positive regard.
+*	Show positive regard
 
 ### 4.	Do you think that Sr. Michaels showed ‘positive regard’ to Elise when they interacted?
 
@@ -764,18 +780,18 @@ A colleague from work has just had a phone call from her brother. The brother’
 
 ### 1.	What poor listening skills have you just demonstrated?
 
-*	You multi-task
+*	You multi-task.
 *	You use clichés and false assurances like: “he will be okay”. 
-*	You display body language that indicates you are not interested (busy doing up your buttons)
-*	You interrupt
-*	You concentrate on the facts, and not how she is feeling
-*	You talk about your own experience
+*	You display body language that indicates you are not interested (busy doing up your buttons).
+*	You interrupt.
+*	You concentrate on the facts, and not how she is feeling.
+*	You talk about your own experience.
 *	You give advice. 
 
 ### 2.	If you were to actively listen, what would you do differently?
 
 *	Stop doing other things and concentrate on what she is saying and how she is telling you the story.
-*	Don’t interrupt, give her time to tell her story
+*	Don’t interrupt. Give her time to tell her story
 *	Reflect how she is feeling. For example: “You seem to be shocked by this news. Do you want to tell me about it?”
 *	Ask questions of clarity. For example: “Does your brother live near to you?”
 *	Validate how she is feeling. For example: “This must be very upsetting for you and your family.”
@@ -790,7 +806,7 @@ You could say: “What I am understanding is that you are worried that Henry cou
 
 You could say: “You sound very worried about the situation with Henry, but nothing you have told me indicates that he has actually done anything wrong. Do you think you could find out more?” Or you could say: “It sounds as if you want to support your brother. What do you think he would like from you right now?” 
 
-*Your colleague decides that she will take the rest of the week off to help her brother. The other sister on the team is already on maternity leave. This is going to mean that you will have to deal with a greater patient load.  You think that your colleague has not thought about what the consequences will be if she takes time off.*
+*Your colleague decides that she will take the rest of the week off to help her brother. The other sister on the team is already on maternity leave. This is going to mean that you will have to deal with a greater patient load. You think that your colleague has not thought about what the consequences will be if she takes time off.*
 
 ### 5.	How would you show positive regard?
 
@@ -810,7 +826,7 @@ Try to imagine the ‘secret history’ of any of the following:
 *	A mother from a traditional or religious culture
 *	A single mother
 *	A physically abused mother
-*	A refugee mother
+*	A refugee mother.
 
 Answer the following questions as if you, yourself, were one of the mothers described:
 
@@ -830,13 +846,13 @@ After thinking about these questions, write down some points which would be impo
 
 **Note**
 {:.keep-with-next}
-There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story.  Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
+There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story. Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
 
 ### Activity 2: Understanding your own reactions
 
 If you understand how personal stresses affect your thoughts, feelings and actions, you may be able to manage your own emotions better, improve your own well-being, as well as the quality of your work. This allows you to provide better care to mothers, while still taking the best care of yourself.
 
-Sometimes health workers can have a strong positive or negative emotional reaction to a mother.  It is important to reflect on why they feel this way. The following activity is a quick way to understand your feelings about a mother and how they might affect your behaviour towards her.
+Sometimes health workers can have a strong positive or negative emotional reaction to a mother. It is important to reflect on why they feel this way. The following activity is a quick way to understand your feelings about a mother and how they might affect your behaviour towards her.
 
 Think about a mother to whom you have had a strong negative reaction.
 
@@ -868,13 +884,13 @@ You are Johanna Booi from Township X. You are 23 years old with one child and ar
 
 *	How do you feel? What help and support do you need?
 
-You are Sr. Sarah Jack, a divorced mother of two children, aged 4 and 2. You are working two extra shifts this week to make enough money for rent. Johanna is 3 hours late for her first visit. 
+You are Sr. Sarah Jack, a divorced mother of two children, aged four and two. You are working two extra shifts this week to make enough money for rent. Johanna is three hours late for her first visit. 
 
 *	How do you feel? What help and support do you need?
 
 *Second antenatal visit*
 
-Johanna Booi: You are one week late for your second appointment as your previous employer threatened to fire you for days of missed work. Now your contract is over and you are unemployed, but your neighbour wanted help with a casual laundry service this morning. This was the first opportunity for you to earn money in 2 weeks as your child had been sick at home with TB. The sister starts to ask why you did not come at the proper time.  
+Johanna Booi: You are one week late for your second appointment as your previous employer threatened to fire you for days of missed work. Now your contract is over and you are unemployed, but your neighbour wanted help with a casual laundry service this morning. This was the first opportunity for you to earn money in two weeks as your child had been sick at home with TB. The sister starts to ask why you did not come at the proper time.  
 
 *	How do you feel? What help and support do you need?
 
@@ -884,27 +900,27 @@ Sr. Sarah Jack: The full quota of 18 new bookings was filled at 7:30am as usual.
 
 *Third antenatal visit*
 
-Johanna Booi: You default the clinic date that was given to you as you were beaten up by your boyfriend the day before and had had to move out and stay with a friend in another township. You did not have money for taxi fare on that day. It is now 2 weeks later. You are still staying with your friend. You finally manage to attend another clinic visit. The same nurse calls you into her cubicle. 
+Johanna Booi: You default the clinic date that was given to you as you were beaten up by your boyfriend the day before and had had to move out and stay with a friend in another township. You did not have money for taxi fare on that day. It is now two weeks later. You are still staying with your friend. You finally manage to attend another clinic visit. The same nurse calls you into her cubicle. 
 
 *	How do you feel? What help and support do you need?
 
-Sr. Sarah Jack: You have had a bad night with a sick child. You had to get up at 4am to take him to your ex-mother-in-law to look after him for the day. Johanna tells you she no longer lives in the catchment area of your clinic. 
+Sr. Sarah Jack: You have had a bad night with a sick child. You had to get up at 4:00am to take him to your ex-mother-in-law to look after him for the day. Johanna tells you she no longer lives in the catchment area of your clinic. 
 
 *	How do you feel? What help and support do you need?
 
 *Labour*
 
-Johanna Booi: You are back living with your boyfriend in Township X. You are 36 weeks pregnant now and had a huge fight with him last night. Your membranes ruptured at 5am. It is now 2pm. You have had to arrange childcare for child and have had to borrow money for taxi fare to take her to your mother. You arrive in the labour ward where you see the same sister.
+Johanna Booi: You are back living with your boyfriend in Township X. You are 36 weeks pregnant now and had a huge fight with him last night. Your membranes ruptured at 5:00am. It is now 2:00pm. You have had to arrange child care for child and have had to borrow money for taxi fare to take her to your mother. You arrive in the labour ward where you see the same sister.
 
 *	How do you feel? What help and support do you need?
 
-Sr. Sarah Jack: You are on labour ward duty even though you have been working full shifts in the clinic because your colleague has gone off with her 4th migraine this month. You have just delivered a 15 year-old primigravida who swore at you throughout the labour. You see Johanna arrive and see from the notes that her membranes ruptured many hours ago.
+Sr. Sarah Jack: You are on labour ward duty even though you have been working full shifts in the clinic because your colleague has gone off with her fourth migraine this month. You have just delivered a 15 year-old primigravida who swore at you throughout the labour. You see Johanna arrive and see from the notes that her membranes ruptured many hours ago.
 
 *	How do you feel? What help and support do you need?
 
 *Postnatal visit*
 
-Johanna Booi: After delivery, the baby was transferred to another hospital for respiratory distress and discharged 2 days later. You went home to your boyfriend’s house only to hear that he said he is not the father. You have not been able to sleep at night even though you are exhausted. You attend the clinic on Day 4 for postnatal care. The same sister is on duty.
+Johanna Booi: After delivery, the baby was transferred to another hospital for respiratory distress and discharged two days later. You went home to your boyfriend’s house only to hear that he said he is not the father. You have not been able to sleep at night even though you are exhausted. You attend the clinic on Day Four for postnatal care. The same sister is on duty.
 
 *	How do you feel? What help and support do you need?
 
@@ -917,8 +933,9 @@ Sr. Sarah Jack: You have been called by the junior nurse in the postnatal clinic
 After thinking about Sr Jack’s and Johanna’s secret histories, write down your thoughts about how each of them are feeling. Then write down what help and support they need.
 
 **Activity conclusions**
-
-*	You may have come to the following conclusions from this exercise:
+{:.keep-with-next}
+You may have come to the following conclusions from this exercise:
+{:.keep-with-next}
 *	Both Sr. Jack and Johanna are going through difficulties in their lives at the moment. They need to interact, at an intimate level, about important maternity care issues, yet neither of them is aware of the other person’s distress.
 *	The strain of their personal lives may break down the vital relationships between them. This may discourage the health worker further and may also be dangerous for the mother and the baby. When women feel the disapproval and resentment of staff, they are far less likely to attend the clinic appropriately or report important medical information. This again can make the working conditions of the staff more difficult. 
 *	Sr. Jack’s secret history is a vital part of who she is. She deserves to have assistance for her problems. However, as a professional, Sr. Jack should try to separate her own issues from her interaction with Johanna. If not, the interaction may be destructive for both of them.
@@ -951,7 +968,7 @@ In many provinces, health workers and their dependants have access to the ICAS e
 
 SADAG offers referrals to psychologists, psychiatrists or support groups by trained counsellors. 
 
-*	They are open 7 days a week from 8am to 8pm. 
+*	They are open seven days a week from 8am to 8pm. 
 *	Telephone number: 011 262 6396 or 0800 20 50 26 
 
 #### Lifeline
@@ -975,9 +992,9 @@ The following resources can be photocopied and given to pregnant or new mothers.
 *	Stay close to people who are supportive, sensitive and who do not criticise you. Stay away from people and places which make you feel bad.
 *	It can be useful to have a ‘mother-person’ who you can turn to in times of crisis. This is someone who can help you feel safe and supported. Maybe you know another woman who can support you, even if your own mother is not there.
 *	Ask others to help you. Ask clearly for the type of help you need. Some examples are: 
-	*	Ask a friend or relative to look after your older children
-	*	Find someone you trust to look after your new baby sometimes, to allow you to have a break and to rest                                                                                      
-	*	Ask someone to help with your housework or run your errands for you
+	*	Ask a friend or relative to look after your older children.
+	*	Find someone you trust to look after your new baby sometimes, to allow you to have a break and to rest.                           
+	*	Ask someone to help with your housework or run your errands for you.
 	*	If people offer to help you, thank them, and allow them to do so – do not feel guilty. 
 	*	Lower your housekeeping standards. It is more important to take care of yourself and your baby than to have a tidy house.
 *	Even if you cannot sleep, rest whenever you can.
@@ -986,7 +1003,7 @@ The following resources can be photocopied and given to pregnant or new mothers.
 *	The arrival of your baby will be a big change, so try not to make any other major changes to your life at this time. Try to simplify your life as much as possible.
 *	If you are feeling very anxious or depressed most of the time, try to do something about it. Talk to someone you trust about how you feel: your clinic sister, community caregiver, doctor, your partner, mother or a trusted friend.
 *	Counselling and/or medication for depression during pregnancy can help prevent some difficult, negative effects of maternal depression, which could affect you, your baby and your family. 
-*	You may need to cry sometimes, or feel sad, and this is completely acceptable. It is not helpful to say ‘pull yourself together’.  Instead, be kind to yourself.
+*	You may need to cry sometimes, or feel sad, and this is completely acceptable. It is not helpful to say ‘pull yourself together’. Instead, be kind to yourself.
 *	Try to make healthy decisions, like eating properly and quitting smoking or taking drugs.
 *	If you have a partner, try to keep communication open and friendly. If this is not easy, or you are experiencing other problems in your relationship, try to get counselling for both of you.  
 *	Mental distress does not mean that you are a bad mother, weak or ‘crazy’. Many people who have experienced mental health problems now live normal and happy lives.
@@ -1077,7 +1094,7 @@ Since then, I suffered from depression until I was able to get help from the Per
 
 When I was pregnant with my last baby, I was working for Linda, a psychologist. I was not at all happy to be pregnant. I was just very stressed and worried about telling her. I knew it was not the right time for me to become pregnant and I was very concerned about my job and all the things that I needed money for. But I realised that I needed to tell Linda, not only because she was my employer, but because I needed help. Everything was very hectic for me and nothing that I was experiencing seemed to be good. I knew that I was becoming more and more depressed.
 
-I finally told Linda when I was 5 months pregnant. It turns out that she specialises in women who have perinatal and postnatal depression and when she heard my history she thought I was suffering from it. She decided to take the step to get help for me by sending me to the Mowbray Maternity Hospital which provides the Perinatal Mental Health Project.
+I finally told Linda when I was five months pregnant. It turns out that she specialises in women who have perinatal and postnatal depression and when she heard my history she thought I was suffering from it. She decided to take the step to get help for me by sending me to the Mowbray Maternity Hospital which provides the Perinatal Mental Health Project.
 
 At Mowbray, I met with a counsellor. It was very good to speak to her about how I was feeling and to just talk out about everything. That was what was killing me, having to keep all my feelings inside of me for a long time. I was so lonely and there were so many things that I needed someone to listen to. I needed to express my feelings and to be heard when I was saying something. I needed someone who could understand and who could listen when I was talking. Meeting with this counsellor gave me that chance to finally speak out, which helped so much. They also sent me to a psychiatrist to get medication for my depression. Now I am doing just fine and coping very well with motherhood.
 

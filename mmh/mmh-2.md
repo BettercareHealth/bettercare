@@ -11,7 +11,7 @@ layout: chapter
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-## Objectives:
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -63,12 +63,12 @@ Pregnant women’s social networks change because they are no longer at work or 
 
 The way people experience both physical and mental illness is linked to their social and cultural backgrounds and the language they use to describe it. Doctors, nurses and health workers are usually trained to understand illnesses in a medical sense. People who are not health workers, or who come from other cultures, may have a different way of understanding illnesses. This means that some people might describe mental illness in different ways than you would. For example:
 
-*	Some people believe mental illness is a result of bewitchment, curses, spirits, anger of ancestors or a punishment from god.
+*	Some people believe mental illness is a result of bewitchment, curses, spirits, anger of ancestors or a punishment from God.
 *	Some people believe that a traditional or religious ritual may be required to try to overcome the mental illness.
 
 ### 2-7 How might mental distress present through physical symptoms?
 
-Whether a women is from a different culture of not, they may talk of mental illness in physical terms.  A reason for this is that it may be easier for some women to discuss physical problems compared to emotional or mental ones. In the same way, health workers sometimes prefer, and find it easier, to deal with physical problems, compared to mental ones. 
+Whether a women is from a different culture or not, they may talk of mental illness in physical terms.  A reason for this is that it may be easier for some women to discuss physical problems compared to emotional or mental ones. In the same way, health workers sometimes prefer, and find it easier, to deal with physical problems, compared to mental ones. 
 
 A woman may use physical health problems as a ‘call for help’ from health workers. This may be her way of making contact with a health worker whom she believes can help her with her ‘real’ underlying problem. Or, she may not be aware that there is an emotional part to her physical problem.
 
@@ -79,13 +79,13 @@ Look out for these presenting symptoms which could indicate mental distress:
 *	Stories about problems with relationships, work or with other children could indicate depression or anxiety.
 *	General words such as ‘stress’ or ‘worry’ or ‘thinking too much’ are also often used to indicate emotional distress.
 
-Health workers need to be able to identify symptoms of the different types of mental illness. It is important to note that the symptoms of mental health problems can be confused with many of the usual physical symptoms of pregnancy. Or, that physical health problem may be made worse by mental distress.
+Health workers need to be able to identify symptoms of the different types of mental illness. It is important to note that the symptoms of mental health problems can be confused with many of the usual physical symptoms of pregnancy. Or, that physical health problems may be made worse by mental distress.
 
 ### 2-8 How do you know when mental distress needs to be addressed?
 
 Changes in sleep or appetite, aches, pains and tiredness are common symptoms in pregnant women, but they can also indicate possible mental distress or illness. Mental distress can also make the experience of these common physical symptoms much worse.
 
-1.	A health worker needs to be able to tell which women are experiencing the ‘usual minor’ complications of pregnancy and which women need help for their emotional wellbeing. Below are some useful tips for picking up mental distress and mental illness:    
+1.	A health worker needs to be able to tell which women are experiencing the ‘usual, minor’ complications of pregnancy and which women need help for their emotional well-being. Below are some useful tips for picking up mental distress and mental illness:    
 	*	Does the mother return frequently with a range of different physical symptoms, such as vague aches and pains?
 	*	Has she visited many different health workers?
 	*	Does she present with false labour? This may be a sign of underlying distress.
@@ -93,7 +93,7 @@ Changes in sleep or appetite, aches, pains and tiredness are common symptoms in 
 		*	Is she taking care of her appearance?
 		*	What is her facial expression like? Does she look sad or distressed?
 		*	What does her voice sound like? Does she sound distressed?
-		*	Does she avoid eye-contact? 
+		*	Does she avoid eye contact? 
 		*	What is her posture like? How does she move her body?
 		*	Does she seem unhappy?
 2.	Another sign could be that the mother is talking about many other problems in her life, and not just her health. These can include:
@@ -125,7 +125,7 @@ It is extremely important to diagnose mental illness in pregnant women and mothe
 *	Increasing the risk of harming the child (infanticide or child abuse)
 *	The infant failing to thrive (not growing)
 *	Poor cognitive (intellectual) development in the infant 
-*	Difficulties forming an attachments between mother and child (poor bonding)
+*	Difficulties forming an attachment between mother and child (poor bonding)
 *	Behavioural problems in the child
 *	Mental illness in the child which could continue into childhood and adolescence.
 
@@ -149,16 +149,18 @@ Screening is a strategy used to detect a person with high chance of illness or r
 
 ### 2-15 What is a screening questionnaire and a cut-off score?
 
-A screening questionnaire asks a set of questions. The answer to each question get a score, and the scores are then added together to give a total score. The cut-off score is the total score that indicates if someone is likely to have a mental illness or not. If the woman screens positive, her total score is above the cut-off score. This means that it is likely that she has mental illness, but this is not definite (suggests but does not prove that she has a mental illness). If someone screens negative, her total score is below cut-off score. It is likely that she does not have mental illness, but again this is not definite. Your certainty in either case depends on the screening tool used and the population being screened. A mental health diagnosis can only be made by a mental health professional or by a diagnostic assessment. 
+A screening questionnaire asks a set of questions. The answer to each question gets a score, and the scores are then added together to give a total score. The cut-off score is the total score that indicates if someone is likely to have a mental illness or not. If the woman screens positive, her total score is above the cut-off score. This means that it is likely that she has mental illness, but this is not definite (suggests but does not prove that she has a mental illness). If someone screens negative, her total score is below cut-off score. It is likely that she does not have mental illness, but again this is not definite. Your certainty in either case depends on the screening tool used and the population being screened. A mental health diagnosis can only be made by a mental health professional or by a diagnostic assessment. 
 
 Therefore, screening tools identify individuals who need further testing to determine whether they have an illness. This is important as it is not possible nor practical to do a diagnostic assessment on everyone.
+
+> Screening tools identify individuals who need further testing to determine whether they have a mental illness.
 
 ### 2-16 What are the positive impacts of screening?
 
 There are a number of benefits to providing mental health screening in the maternal and child health setting during pregnancy or in the postnatal period:
 
 *	Identifying a mental illness can stop it from getting worse
-*	Screening for risk of a mental illness could prevent the illness from occurring, if the risk factor is addressed
+*	Screening for risk of a mental illness could prevent the illness from occurring if the risk factor is addressed
 *	Screening occurs in a familiar and non-threatening environment
 *	Women can avoid the stigma associated with seeking help for mental health problems
 *	Women do not have to spend extra time and money to access mental health care
@@ -166,6 +168,11 @@ There are a number of benefits to providing mental health screening in the mater
 ### 2-17 What should be considered before screening?
 
 Before screening can be started, a referral system must be in place so that those women who are identified as being at risk or experiencing symptoms of mental illness can be appropriately referred to support groups, counsellors, psychiatrists, mental health nurses, social workers or other appropriate services.
+
+<figure>
+	<img src="images/mmh-3-1.svg" alt="Figure 2-1: Referral systems need to be in place so that women can be appropriately referred.">
+	<figcaption>Figure 3-1: Referral systems need to be in place so that women can be appropriately referred.</figcaption>
+</figure>
 
 ### 2-18 Who should be screened?
 
@@ -214,6 +221,11 @@ If the mother chooses to fill in the questionnaire by herself, ask her which lan
 
 Some women may not be able to read and write well. A friendly way of helping the mother could be to say ‘I am here to help you if you have any problem completing the questionnaire.’
 
+<figure>
+	<img src="images/mmh-2-2.svg" alt="Figure 2-1: Screening should be conducted privately but you may offer to help mothers who may not be able to read and write well.">
+	<figcaption>Figure 2-2: Screening should be conducted privately but you may offer to help mothers who may not be able to read and write well.</figcaption>
+</figure>
+
 ### 2-26 How can you determine whether the form has been filled in correctly?
 
 Sometimes items are left out by mistake. Sometimes they are avoided on purpose. If the questionnaire was not filled in completely, ask the mother if there is anything else she would like to add or if she would like to complete the missing item. 
@@ -224,7 +236,7 @@ Try to score the questionnaires while the mother is still in the clinic or waiti
 
 There are many screening tools that have been used in different countries and settings. Some ask about mood symptoms and some about risk factors. The most common screens assess for depression and anxiety during pregnancy and after birth. This chapter will look at:
 
-*	The Whooley depression screen
+*	The Whooley Depression Screen
 *	The Edinburgh Postnatal Depression Scale (EPDS)
 *	The Risk Factor Assessment (RFA) for anxiety and depression. 
  
@@ -249,7 +261,7 @@ The Whooley Depression Screen
 
 ### 2-30 How do you calculate the score?
 
-The Perinatal Mental Health Project at the University of Cape Town has done some research on using this screening tool with pregnant women. They suggest that the scoring be modified so that each ‘yes’ answer is counted. 2 or 3 ‘yes’ answers means that the woman has a high probability of suffering from a common mental disorder (depression or anxiety) and should be referred for mental health counselling. 
+The Perinatal Mental Health Project at the University of Cape Town has done some research on using this screening tool with pregnant women. They suggest that the scoring be modified so that each ‘yes’ answer is counted. Two or three ‘yes’ answers means that the woman has a high probability of suffering from a common mental disorder (depression or anxiety) and should be referred for mental health counselling. 
 
 ### 2-31 Why is the Whooley Depression Screen a good screening tool to use?
 
@@ -261,6 +273,7 @@ Note
 ### 2-32 What is the Edinburgh Postnatal Depression Scale (EPDS)?
 
 The EPDS is a set of questions about how a woman has been feeling in the past week. It is used to assess whether or not a woman may be suffering from depression or anxiety, or both. It can be used antenatally and postnatally. It is one of the most widely accepted tools in the world. It has been validated through research in many different cultures and countries.
+
 Health workers may use this questionnaire but only if it is copied and used in full. When screening women, do not use the copy on the next page. Rather, copy the questionnaires without scores in the Resources section at the end of this book.
 
 Note
@@ -334,6 +347,7 @@ SCORES ON RIGHT HAND SIDE
 ### 2-33 How do you calculate her score?
 
 Make sure that she has ticked all the questions. The EPDS questionnaire is made up of ten multiple-choice questions. These questions ask the mother about how she has felt in the last seven days. Each question has four possible answers. These answers are given score values, from 0 to 3. The scores indicate how strongly the mother was feeling about something. A higher score indicates a more severe symptom. 
+
 After the client has completed the questionnaire, add up all her answers to get her TOTAL EPDS score. The example of the EPDS given on the previous pages includes scores for each answer. Note how the ordering of highest or lowest score is not the same for each question. Add up each of the scores the mother got for the ten questions. The TOTAL EPDS score is important.  It may be a good idea to add up your scores twice as it is easy to make a mistake when one if busy.
 
 ### 2-34 What does her score mean?
@@ -342,16 +356,18 @@ If the TOTAL score is:
 
 *	Below 10: the mother is probably fine and does not need to be referred
 *	10 and above: she is at risk of depression and anxiety and may need to be referred                
-*	13 and above: the women needs to be referred 
+*	13 and above: the women needs to be referred.
 
 There may be too many women who have scores of 13 and above to be referred to the resources available in your area. If so, you may only be able to refer those women who have higher scores (e.g. 15 and above). The decision regarding your choice of cut-off should be carefully made with all the role-players. Depending on resource changes, the cut-off may need to shift up or down. 
 
 ### 2-35 Which answers need to be checked?
 
-The answers to some questions might need to be double-checked
+The answers to some questions might need to be double-checked:
 
 *	Question 7: ‘I have been so unhappy I have had difficulty sleeping.’
+
 Check if the mother is having difficulty sleeping because of her feelings, or because of being physically uncomfortable due to the pregnancy. 
+
 *	Question 10: ‘I have thought of harming myself or ending my life.’
 
 If the mother gives an answer with a score of 1, 2 or 3 to question 10, you should ask her further questions to find out if she is suicidal.    
@@ -432,7 +448,7 @@ Based on the scoring instructions, add up all the scores. Use the table above as
 
 **1.	Explain the result of the score to the mother**
 {:.keep-with-next}
-A score below the cut-off does not necessarily mean that the mother is ‘fine’. Simply explain that it means you will not suggest referral at this stage. However, also explain that she is free to request help or referral if she would like this – either now or at another time. Explain to a mother with a score at or above the cut-off, that you are concerned about her. You could ‘normalise’ the situation by saying that many of the mothers in your clinic, who score above the cut-off, do well with some extra support.
+A score below the cut-off does not necessarily mean that the mother is ‘fine’. Simply explain that it means you will not suggest referral at this stage. However, also explain that she is free to request help or referral if she would like this – either now or at any other time. Explain to a mother with a score at or above the cut-off, that you are concerned about her. You could ‘normalise’ the situation by saying that many of the mothers in your clinic who score above the cut-off do well with some extra support.
 
 **2.	Your clinical judgement may override the screening guidelines.**
 {:.keep-with-next}
@@ -519,7 +535,7 @@ Mental health screening during pregnancy can have a number of positive impacts:
 *	Screening for risk of a common mental disorder could prevent the illness from occurring
 *	Screening occurs in a familiar and non-threatening environment
 *	Women can avoid the stigma associated with seeking help for mental health problems
-*	Women do not have to spend extra time and money to access mental health care
+*	Women do not have to spend extra time and money to access mental health care.
 
 ### 5.	How would screening pregnant women for mental illness assist the nurse?
 
@@ -545,13 +561,17 @@ Yes. Only authorised health workers will have access to this information when it
 ### 2.	What else does she need to check on?
 
 a) Is the form in a language that the woman understands?
+
 b) Is the mother able to read and write easily, or will she need help to fill in the form?
 
 ### 3.	When she has completed the form, what does the nurse need to do?
 
 a)	Check if all the questions have been answered.
+
 b)	Score the questionnaire according to the score sheet and check the scoring.
+
 c)	If the woman has answered that she has had difficulties sleeping, check if this is because she is worried or if it is because she is physically uncomfortable.
+
 d)	Check if the woman has had thoughts of suicide.
 
 ### 4.	This woman has a total score of 15 on the EPDS. What does this mean?
@@ -560,7 +580,7 @@ A positive score on the EPDS is 13 or more. As this woman scores more than the c
 
 ### 5.	What should the nurse do?
 
-The nurse needs to explain to the woman that she is concerned about the woman’s emotional well-being. Her answers on the questionnaire seem to indicate that she is feeling down or stressed. The nurse could ‘normalise’ the situation by saying that many of the mothers in the clinic, who score above the cut-off, do well with some extra support. It may be helpful to explore if there are any fears or myths held by the mother regarding counselling and discuss these. 
+The nurse needs to explain to the woman that she is concerned about the woman’s emotional well-being. Her answers on the questionnaire seem to indicate that she is feeling down or stressed. The nurse could ‘normalise’ the situation by saying that many of the mothers in the clinic who score above the cut-off do well with some extra support. It may be helpful to explore if there are any fears or myths held by the mother regarding counselling and discuss these. 
 
 A referral should be offered. Explain that this is voluntary. Explain to the mother what she can expect when she is referred to the counsellor, service or organisation.  Tell her that if she does not want to take this referral up now, then she is welcome to do so at another time. 
 
