@@ -13,3 +13,4 @@ The content here is for development and testing purposes only. For up-to-date me
 ## In development
 
 * [Maternal Mental Health](mmh/mmh-0-3-contents.html)
+* [Facilitator's Guide](fg/fg-0-3-contents.html)
