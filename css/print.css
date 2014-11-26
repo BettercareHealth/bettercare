@@ -113,7 +113,10 @@
 /* Set up our basic page margins */
 @page { 
 	size: A5; 
-	margin: 15mm 15mm 20mm 15mm;
+	margin-top: 15mm;
+	margin-bottom: 20mm;
+	margin-outside: 13mm;
+	margin-inside: 17mm;
 	padding: 0;
 	marks: crop;
 	prince-bleed: 3mm;
