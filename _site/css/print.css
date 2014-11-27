@@ -363,6 +363,16 @@ figcaption {
 figure img {
 	max-width: 100%;
 }
+figure.wrap-left {
+	width: 50%;
+	float: left;
+	padding-right: 1.5em;
+}
+figure.wrap-right {
+	width: 50%;
+	float: right;
+	padding-left: 1.5em;
+}
 
 /*
  * Hide screen-only and non-printing elements
@@ -407,11 +417,13 @@ h2 {
 }
 h3 {
 	font-size: 1.1em;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.5em;
 }
 h4 {
-	font-size: 1em;
-	margin-bottom: 0.3em;
+	font-size: 1.1em;
+	font-weight: normal;
+	font-style: italic;
+	margin-bottom: 0.5em;
 }
 p {
 	margin: 0 0 0.5em 0;
