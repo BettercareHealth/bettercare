@@ -28,22 +28,6 @@ The content here is for development and testing purposes only. For up-to-date me
 
 ## Coming here soon
 
-### Maternal Mental Health
-
-*	[Read online](mmh/mmh-0-3-contents.html)
-*	[Preview and buy books](http://bettercare.co.za/books/maternal-mental-health/)
-*	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
-
-This book is currently in development. [Find out more here](http://bettercare.co.za/books/maternal-mental-health/).
-
-### Facilitator's Guide
-
-*	[Read online](fg/fg-0-3-contents.html)
-*	[Preview and buy books](http://bettercare.co.za/books/facilitators-guide/)
-*	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
-
-Our Facilitator’s Guide was developed to help you run your own training groups of health workers and community health workers using Bettercare study material. In this guide, you will find out how to start and run a group, keep participants motivated, ensure learning is applied in the work setting, and celebrate the end of a course. The guide includes photocopiable templates to help with planning, starting and running a group.
-
 ### Adult HIV
 
 *	[Read online](http://bettercare.co.za/books/adult-hiv/)
@@ -102,9 +86,15 @@ This book is in development and due for publication in 2015. It will cover triag
 *	[Preview and buy books](http://bettercare.co.za/books/ebola-prevention-control/)
 *	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
 
-*Ebola Prevention and Control* is a crucial guide to managing, preventing and controlling Ebola and other viral haemorrhagic fevers, especially in resource-limited settings. It covers virology and epidemiology, patient management, protection of healthcare workers, support services, documentation and communication, community engagement, and resources and guidelines.
+*Ebola Prevention and Control* is a crucial guide to managing, preventing and controlling Ebola and other viral haemorrhagic fevers, especially in resource-limited settings. This book is for healthcare workers, managers and administrators and covers virology and epidemology, patient management, protection of health care workers, and support services. It is written by Dr Angela Dramowski (Stellenbosch University) and Professor Shaheen Mehtar (Stellenbosch, ICAN, WHO), and endorsed by the Infection Control Africa Network (ICAN).
 
-Ebola Prevention and Control is for healthcare workers, managers and health administrators tasked with preventing, controlling and managing outbreaks of viral haemorrhagic diseases.
+### Facilitator's Guide
+
+*	[Read online](fg/fg-0-3-contents.html)
+*	[Preview and buy books](http://bettercare.co.za/books/facilitators-guide/)
+*	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
+
+Our Facilitator’s Guide was developed to help you run your own training groups of health workers and community health workers using Bettercare study material. In this guide, you will find out how to start and run a group, keep participants motivated, ensure learning is applied in the work setting, and celebrate the end of a course. The guide includes photocopiable templates to help with planning, starting and running a group.
 
 ### Infection Prevention and Control
 
@@ -129,6 +119,16 @@ Ebola Prevention and Control is for healthcare workers, managers and health admi
 *	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
 
 *Maternal Care* is for midwives and doctors working in labour wards in level 2 hospitals. It covers the common and important problems that occur during pregnancy, labour, delivery and the puerperium. 
+
+### Maternal Mental Health
+
+*	[Read online](mmh/mmh-0-3-contents.html)
+*	[Preview and buy books](http://bettercare.co.za/books/maternal-mental-health/)
+*	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
+
+This book is currently in development. [Find out more here](http://bettercare.co.za/books/maternal-mental-health/).
+
+*Maternal Mental Health* demystifies maternal mental distress and mental illness and provides a clear guide to supporting mental health in the perinatal period. This course equips healthcare workers with the tools they need to provide essential perinatal mental health care. It helps identify maternal mental illness and explains how to assist expectant and new mothers. It is written by Sally Field and Dr Simone Honikman from the Perinatal Mental Health Project (UCT).
 
 ### Mother and Baby Friendly Care
 
