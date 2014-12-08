@@ -26,3 +26,5 @@ This licence means you may share, copy and redistribute the material in any medi
 * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
