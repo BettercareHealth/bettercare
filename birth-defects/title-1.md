@@ -1,0 +1,11 @@
+---
+book: Title Here
+title: 1. Chapter title
+layout: chapter
+---
+
+1
+{:.chapter-number}
+
+# First heading
+
