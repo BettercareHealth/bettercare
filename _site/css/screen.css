@@ -21,6 +21,7 @@ body {
 	padding: 0 0.3em 0 0.3em;
 }
 #footer {
+	clear: both;
 	border-top: 1px solid #f9f9f9;
 	margin: 2em 0 0 0;
 	padding: 1em 0.3em 2em 0.3em;
@@ -34,7 +35,7 @@ body {
 }
 
 /* 
- * Nav bar including 'Close' button for chapter and frontmatter layouts
+ * Navigation bar
  */
  
 #nav-bar {
@@ -45,14 +46,13 @@ body {
 	width: 100%;
 	opacity: 0.9;
 	border-bottom: 1px solid #f9f9f9;
+	padding: 0 0.3em;
 }
-a.nav-bar-close {
-	text-decoration: none;
-	color: #dddddd;
-	float: right;
-	margin: 0.3em 0.3em 0 0;
-}
-a.nav-bar-close:hover {
+.nav-content {
+	clear: both;
+	max-width: 960px;
+	margin: 0.5em auto;
+	font-size: 0.8em;
 	color: grey;
 }
 
@@ -86,6 +86,14 @@ td p {
 	font-style: italic;
 }
 
+/*
+ * Index page 
+ */
+
+.index-logo {
+	margin: 1em 0;
+}
+ 
 /*
  * Title page 
  */
@@ -170,6 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 	page-break-after: avoid;
 }
 h1 {
+	margin: 1.5em 0 1em 0;
 	font-weight: 600;
 	font-size: 3.5em;
 	max-width: 80%;
@@ -272,9 +281,9 @@ pre, code {
 }
 
 /* 
- * Figures 
+ * Figures and images
  */
- 
+
 figure {
 	margin: 1em 0;
 	padding: 0;
@@ -294,6 +303,33 @@ figure.wrap-right {
 	width: 50%;
 	float: right;
 	padding-left: 1.5em;
+}
+
+/*
+ * Cover
+ */
+
+body.cover, div.cover {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+p.cover {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	max-width: inherit;
+	height: 100%;
+}
+img.cover {
+	height: 100%;
+	border: 1px solid #f9f9f9;
+}
+img.thumbnail {
+	margin: 0 2em 0 0;
+	height: 10em;
+	float: left;
+	border: 1px solid #f9f9f9;
 }
 
 /*
