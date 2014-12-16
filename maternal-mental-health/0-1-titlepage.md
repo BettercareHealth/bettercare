@@ -16,6 +16,4 @@ Written by Sally Field and Dr Simone Honikman
 Edited by Prof Dave Woods
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
