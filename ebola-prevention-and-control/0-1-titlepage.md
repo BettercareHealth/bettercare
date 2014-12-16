@@ -7,15 +7,10 @@ layout: frontmatter
 Ebola Prevention and Control
 {:.titlepage-title}
 
-Management and safety in low-resource settings
-{:.titlepage-subtitle}
-
-Written by Angela Dramowski and Shaheen Mehtar
+Written by Dr Angela Dramowski and Prof Shaheen Mehtar
 {:.titlepage-author}
 
-with the Infection Control Africa Network
+Edited by Prof Dave Woods
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
