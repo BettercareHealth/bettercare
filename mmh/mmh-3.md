@@ -95,14 +95,16 @@ If a woman’s partner has left her, she can report him to the Maintenance Offic
 
 If the partner denies paternity, he can be forced to take a paternity test. This gives genetic information to say if he is the baby’s father. This is a complicated procedure, but it can be worth doing as it may provide some financial support for the mother. Below are some facts about maintenance orders in South Africa. 
 
-> Maintenance orders: Facts
-> 
-> *	Both parents have a legal duty to support their children.
-*	The parent who is looking after the child has a right to apply to the Maintenance Court for the other parent to contribute to the costs of parenting.
-*	If the child is not living with the mother or the father, the person who is looking after the child can also apply for maintenance from the parents. For example, if a child is living with the grandparents, the grandparents can apply to get maintenance from the father and the mother of the child.
-*	Once there is a court order instructing a parent to pay child support, it is a criminal offence not to pay.
-*	There are special Maintenance Courts at most Magistrates’ Courts. 
-*	For details on how to apply for a Maintenance Order and what to do when payment is not made, go to the Resources section.
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                        Maintenance orders: Facts                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Both parents have a legal duty to support their children.                                                                                                                                                                                                                                                |
+| The parent who is looking after the child has a right to apply to the Maintenance Court for the other parent to contribute to the costs of parenting.                                                                                                                                                    |
+| If the child is not living with the mother or the father, the person who is looking after the child can also apply for maintenance from the parents. For example, if a child is living with the grandparents, the grandparents can apply to get maintenance from the father and the mother of the child. |
+| Once there is a court order instructing a parent to pay child support, it is a criminal offence not to pay.                                                                                                                                                                                              |
+| There are special Maintenance Courts at most Magistrates’ Courts.                                                                                                                                                                                                                                        |
+| For details on how to apply for a Maintenance Order and what to do when payment is not made, go to the Resources section.                                                                                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### 3-10 Who can access the Child Support Grant?
 
@@ -117,13 +119,15 @@ Note
 
 A woman can also apply for indigency status at her Municipal Office. This can allow her to get assistance with the cost of water, electricity and property rates. If a woman has applied for a grant, but has not yet received it, she can apply for urgent support. People in desperate need of support can apply for temporary assistance called Social Relief of Distress. This is normally issued as a food parcel but can also be a voucher or cash payment. If a woman receives cash, this will be deducted from the grant money she eventually receives.
 
-> Tips
-> 
-> *	Work together with your colleagues to draw up a list of useful organisations and resources in your area. 
-*	Having a handy resource file in your clinic can make referrals more efficient.
-*	Remember to update your resource file over time!
-*	Making a personal contact with someone working at the resource organisation can be extremely useful.
-*	When you are able to provide the mother with options, it can help her feel empowered and give you a greater sense of job satisfaction.
+|----------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                  Tips                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------|
+| Work together with your colleagues to draw up a list of useful organisations and resources in your area.                               |
+| Having a handy resource file in your clinic can make referrals more efficient.                                                         |
+| Remember to update your resource file over time!                                                                                       |
+| Making a personal contact with someone working at the resource organisation can be extremely useful.                                   |
+| When you are able to provide the mother with options, it can help her feel empowered and give you a greater sense of job satisfaction. |
+|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ### 3-12 What is the aim of a good referral?
 

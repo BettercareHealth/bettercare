@@ -12,7 +12,7 @@ After each answer, the number indicates from where the questions were taken. For
 
 1.	b	(1-2)
 2.	c	(1-6)
-3.	a	(1-9)
+3.	a 	(1-9)
 4.	d	(1-14)
 5.	c	(1-17)
 6.	d	(1-17)

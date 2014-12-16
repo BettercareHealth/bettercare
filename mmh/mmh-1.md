@@ -16,11 +16,11 @@ Before you begin this unit, please take the corresponding test to assess your kn
 When you have completed this unit you should be able to:
 
 *	Define maternal mental health and illness
-* 	Understand the difference between mental health, mental illness and mental distress
-* 	Understand why maternal mental illness is so common in South Africa 
-* 	Understand how maternal mental illness can affect infants, children, and families
-* 	List the risk factors that are linked to maternal mental illness
-* 	Understand different types of maternal mental illnesses.
+*	Understand the difference between mental health, mental illness and mental distress
+*	Understand why maternal mental illness is so common in South Africa 
+*	Understand how maternal mental illness can affect infants, children, and families
+*	List the risk factors that are linked to maternal mental illness
+*	Understand different types of maternal mental illnesses.
 
 ## Introduction to maternal mental health
 
