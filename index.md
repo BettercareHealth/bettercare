@@ -105,7 +105,7 @@ Our Facilitator’s Guide was developed to help you run your own training groups
 
 ## Maternal Mental Health
 
-*	[Read online](mmh/mmh-0-3-contents.html)
+*	[Read online](maternal-mental-health)
 *	[Preview and buy books](http://bettercare.co.za/books/maternal-mental-health/)
 *	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
 
