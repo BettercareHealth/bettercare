@@ -34,6 +34,7 @@ body {
 	margin: auto;
 	font-size: 0.8em;
 	color: grey;
+	line-height: 140%;
 }
 
 /* 
@@ -46,7 +47,7 @@ body {
 	background-color: #f9f9f9;
 	width: 100%;
 	border-bottom: 1px solid #f2f2f2;
-	padding: 0.2em;
+	padding: 0.2em 0 0 0;
 }
 .nav-content {
 	clear: both;
@@ -62,6 +63,7 @@ a.nav-item {
 	color: white;
 	border-radius: 0.1em;
 	margin-right: 0.2em;
+	margin-bottom: 0.2em
 }
 a.nav-item:hover {
 	background-color: #4faad2;
