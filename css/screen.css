@@ -318,10 +318,10 @@ p.cover {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	max-width: inherit;
 	height: 100%;
 }
 img.cover {
+	position: absolute;
 	height: 100%;
 	border: 1px solid #f9f9f9;
 }
