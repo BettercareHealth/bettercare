@@ -113,10 +113,13 @@
 /* Set up our basic page margins */
 @page { 
 	size: A5; 
-	margin: 15mm 15mm 20mm 15mm;
+	margin-top: 15mm;
+	margin-bottom: 20mm;
+	margin-outside: 13mm;
+	margin-inside: 17mm;
 	padding: 0;
-	marks: none;
-	prince-bleed: 0;
+	marks: crop;
+	prince-bleed: 3mm;
 }
 
 /* Naming our divs for PrinceXML */
@@ -253,6 +256,28 @@ div.frontmatter, div.toc, div.chapter, div.test {
 	margin: 1em 0 0.5em 0;
 }
 
+/* TOCs in individual pages, created in kramdown with a placeholder ol/ul followed by {:toc} */
+
+ul#markdown-toc, ol#markdown-toc {
+	list-style-type: none;
+	border-top: 1px solid #f9f9f9;
+	border-bottom: 1px solid #f9f9f9;
+	padding: 1em 0;
+	margin: 2em 0;
+}
+#markdown-toc ul {
+	list-style-type: none;
+	margin: 0;
+}
+#markdown-toc ol {
+	margin: 0;
+}
+#markdown-toc li {
+}
+#markdown-toc a {
+	text-decoration: none;
+}
+
 /*
  * Tests
  */
@@ -360,6 +385,16 @@ figcaption {
 figure img {
 	max-width: 100%;
 }
+figure.wrap-left {
+	width: 50%;
+	float: left;
+	padding-right: 1.5em;
+}
+figure.wrap-right {
+	width: 50%;
+	float: right;
+	padding-left: 1.5em;
+}
 
 /*
  * Hide screen-only and non-printing elements
@@ -404,11 +439,13 @@ h2 {
 }
 h3 {
 	font-size: 1.1em;
-	margin-bottom: 0.3em;
+	margin-bottom: 0.5em;
 }
 h4 {
-	font-size: 1em;
-	margin-bottom: 0.3em;
+	font-size: 1.1em;
+	font-weight: normal;
+	font-style: italic;
+	margin-bottom: 0.5em;
 }
 p {
 	margin: 0 0 0.5em 0;
