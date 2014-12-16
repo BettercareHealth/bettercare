@@ -123,7 +123,7 @@ This book is currently in development. [Find out more here](http://bettercare.co
 
 ## Newborn Care
 
-*	[Read online](/newborn-care)
+*	[Read online](newborn-care)
 *	[Preview and buy books](http://bettercare.co.za/books/newborn-care/)
 *	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
 
@@ -139,7 +139,7 @@ This book is currently in development. [Find out more here](http://bettercare.co
 
 ## Primary Maternal Care
 
-*	[Read online](/primary-maternal-care)
+*	[Read online](primary-maternal-care)
 *	[Preview and buy books](http://bettercare.co.za/books/primary-maternal-care/)
 *	[Institutional licensing](http://bettercare.co.za/buy/institutional-licensing/)
 
