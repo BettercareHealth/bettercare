@@ -13,6 +13,8 @@
 
 body {
 	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1.3em;
+	line-height: 140%;
 }
 #wrapper{
 	clear: both;
@@ -41,19 +43,28 @@ body {
 #nav-bar {
 	position: fixed;
 	top: 0;
-	background-color: white;
-	height: 2em;
+	background-color: #f9f9f9;
 	width: 100%;
-	opacity: 0.9;
-	border-bottom: 1px solid #f9f9f9;
-	padding: 0 0.3em;
+	border-bottom: 1px solid #f2f2f2;
+	padding: 0.2em;
 }
 .nav-content {
 	clear: both;
 	max-width: 960px;
-	margin: 0.5em auto;
-	font-size: 0.8em;
-	color: grey;
+	margin: 0 auto;
+}
+a.nav-item {
+	height: 1.2em;
+	background-color: #4f89d2;
+	display: block;
+	float: left;
+	padding: 0.5em 0.5em;
+	color: white;
+	border-radius: 0.1em;
+	margin-right: 0.2em;
+}
+a.nav-item:hover {
+	background-color: #4faad2;
 }
 
 /*
@@ -84,14 +95,6 @@ td p {
 .table-caption {
 	page-break-after:avoid;
 	font-style: italic;
-}
-
-/*
- * Index page 
- */
-
-.index-logo {
-	margin: 1em 0;
 }
  
 /*
@@ -205,7 +208,8 @@ p {
 p.chapter-number {
 	font-weight: bold;
 	font-size: 3.5em;
-	margin: 1em 0 -0.25em 0;
+	margin: 1.5em 0 -1em 0;
+	color: #e9e9e9;
 }
 
 /* 
@@ -219,27 +223,29 @@ a {
 a.button {
 	display: block;
 	border: 1px solid gainsboro;
-	background-color: #09F;
+	background-color: #4f89d2;
 	color: white;
 	padding: 0.5em;
 	width: 9em;
 	margin: 0;
-	border-radius: 0.5em;
+	border-radius: 0.1em;
 	text-align: center;
 	font-size: 150%;
 	font-weight: 300;
 	text-decoration: none;
 }
-
+a.button:hover {
+	background-color: #4faad2;
+}
 /* 
  * Blockquotes. Note in Bettercare these are used for key-concept boxes by default.
  */
 
 blockquote {
 	color: white;
-	background-color: #4f89d2;
+	background-color: #4fd298;
 	font-weight: bold;
-	margin: 0;
+	margin: 1em 0;
 	padding: 0.5em 1em 0.5em 1em;
 	border-radius: 0.25em;
 }
@@ -330,6 +336,21 @@ img.thumbnail {
 	height: 10em;
 	float: left;
 	border: 1px solid #f9f9f9;
+}
+
+/* Index page thumbnails */
+
+.index .cover-thumb {
+	border: 1px solid gainsboro;
+	margin: 0.5em;
+	width: 150px;
+}
+.index .unavailable {
+	opacity: 0.3;
+}
+.index-logo {
+	text-align: center;
+	margin: 1em 0;
 }
 
 /*
