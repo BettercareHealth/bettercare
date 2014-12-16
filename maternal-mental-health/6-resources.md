@@ -735,15 +735,12 @@ Follow-up referral evaluation form
 |                                                    |     |    |
 |                                                    |     |    |
 |                                                    |     |    |
-|                                                    |     |    |
 | If Yes, did you get help for your problem?         | Yes | No |
 | What help was given?                               |     |    |
 |                                                    |     |    |
 |                                                    |     |    |
 |                                                    |     |    |
-|                                                    |     |    |
 | What do you think about the help that was offered? |     |    |
-|                                                    |     |    |
 |                                                    |     |    |
 |                                                    |     |    |
 |                                                    |     |    |

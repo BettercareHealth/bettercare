@@ -844,9 +844,7 @@ Answer the following questions as if you, yourself, were one of the mothers desc
 {:.keep-with-next}
 After thinking about these questions, write down some points which would be important to remember when dealing with mothers from any of the above circumstances.
 
-**Note**
-{:.keep-with-next}
-There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story. Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
+> There may be reasons why women do not feel comfortable speaking about their lives. Different status or home language, levels of education, poverty, or gender could be barriers to women revealing their story. Women who are poor or uneducated could be disempowered and find it difficult to tell their story.  This is known as ‘the silence of powerlessness’. 
 
 ### Activity 2: Understanding your own reactions
 
@@ -875,11 +873,11 @@ Be aware of situations which may cause strong reactions. For example:
 In order to provide the mother with quality care and support, it is necessary to understand her untold story as best you can. At the same time, you need to be aware of the stresses and strains in your own life and how they can affect your work. This can be difficult to do, but the next activity may help. This activity is designed for health workers, and intended as a group activity. Half of the group ‘become’ Sr Sarah Jack, the other half ‘become’ Johanna Booi. Half-way through the journey, the groups exchange roles, becoming the other person. 
 
 **Step 1** 
-
+{:.keep-with-next}
 Read through the following journeys of two women, a health worker and a pregnant mother. Imagine yourself as each of these women. You will find out a bit more about each woman as the journey progresses. Reflect on what you think your feelings and needs would be at each point along the way.
 
 *First antenatal visit*
-
+{:.keep-with-next}
 You are Johanna Booi from Township X. You are 23 years old with one child and are unbooked at 25 weeks pregnant. You arrive for your first visit at 10am at the clinic where you delivered previously.
 
 *	How do you feel? What help and support do you need?
@@ -889,7 +887,7 @@ You are Sr. Sarah Jack, a divorced mother of two children, aged four and two. Yo
 *	How do you feel? What help and support do you need?
 
 *Second antenatal visit*
-
+{:.keep-with-next}
 Johanna Booi: You are one week late for your second appointment as your previous employer threatened to fire you for days of missed work. Now your contract is over and you are unemployed, but your neighbour wanted help with a casual laundry service this morning. This was the first opportunity for you to earn money in two weeks as your child had been sick at home with TB. The sister starts to ask why you did not come at the proper time.  
 
 *	How do you feel? What help and support do you need?
@@ -899,7 +897,7 @@ Sr. Sarah Jack: The full quota of 18 new bookings was filled at 7:30am as usual.
 *	How do you feel? What help and support do you need?
 
 *Third antenatal visit*
-
+{:.keep-with-next}
 Johanna Booi: You default the clinic date that was given to you as you were beaten up by your boyfriend the day before and had had to move out and stay with a friend in another township. You did not have money for taxi fare on that day. It is now two weeks later. You are still staying with your friend. You finally manage to attend another clinic visit. The same nurse calls you into her cubicle. 
 
 *	How do you feel? What help and support do you need?
@@ -909,7 +907,7 @@ Sr. Sarah Jack: You have had a bad night with a sick child. You had to get up at
 *	How do you feel? What help and support do you need?
 
 *Labour*
-
+{:.keep-with-next}
 Johanna Booi: You are back living with your boyfriend in Township X. You are 36 weeks pregnant now and had a huge fight with him last night. Your membranes ruptured at 5:00am. It is now 2:00pm. You have had to arrange child care for child and have had to borrow money for taxi fare to take her to your mother. You arrive in the labour ward where you see the same sister.
 
 *	How do you feel? What help and support do you need?
@@ -919,7 +917,7 @@ Sr. Sarah Jack: You are on labour ward duty even though you have been working fu
 *	How do you feel? What help and support do you need?
 
 *Postnatal visit*
-
+{:.keep-with-next}
 Johanna Booi: After delivery, the baby was transferred to another hospital for respiratory distress and discharged two days later. You went home to your boyfriend’s house only to hear that he said he is not the father. You have not been able to sleep at night even though you are exhausted. You attend the clinic on Day Four for postnatal care. The same sister is on duty.
 
 *	How do you feel? What help and support do you need?
@@ -945,7 +943,7 @@ You may have come to the following conclusions from this exercise:
 Close your eyes, and think about a period in your life when you were very unhappy. If you could choose someone with whom you could talk and share your pain, even if they could do nothing to change your painful circumstances, what qualities would you want that person to have?
 
 You are likely to choose someone you trust who would:
-
+{:.keep-with-next}
 *	Accept your feelings 
 *	Not tell you what to do 
 *	Not interrupt you 

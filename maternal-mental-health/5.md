@@ -309,7 +309,7 @@ There are many reasons why women stay in abusive relationships. A woman might:
 ### 5-32 What is the ‘cycle of violence’?
 
 Domestic violence often occurs in a cycle. 
-
+{:.keep-with-next}
 1.	‘Honeymoon’ phase: a violence-free period
 2.	Tension: as the relationship progresses, arguments start; the abuser’s reaction seems extreme and tension builds up
 3.	Violence: the abuse begins, and can be of any form (e.g. physical, emotional etc.)
