@@ -49,6 +49,12 @@ body {
 	border-bottom: 1px solid #f2f2f2;
 	padding: 0.2em 0 0 0;
 }
+	@media only screen 
+	and (max-width : 984px) {
+		#nav-bar {
+			padding: 0.2em 0.2em 0 0.2em;
+		}
+	}
 .nav-content {
 	clear: both;
 	max-width: 960px;
