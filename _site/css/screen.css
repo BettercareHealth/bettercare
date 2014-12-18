@@ -216,7 +216,7 @@ p {
 p.chapter-number {
 	font-weight: bold;
 	font-size: 3.5em;
-	margin: 1.5em 0 -1em 0;
+	margin: 2em 0 -0.5em 0;
 	color: #e9e9e9;
 }
 
@@ -378,9 +378,13 @@ img.thumbnail {
 	border-radius: 0.2em;
 	margin: 0 0 0 0.5em;
 }
-iframe.live-test {
+.live-test {
+	display: none; /* Element hidden till show/hide script rewrites this line */
+}
+.live-test iframe {
 	width: 100%;
-	border: 1px solid #f2f2f2;
+	border: none;
 	border-radius: 0.1em;
 	padding: 0 0.5em;
+	height: 30em;
 }

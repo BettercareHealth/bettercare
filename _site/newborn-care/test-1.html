@@ -18,28 +18,21 @@
     <script src="./../BookResources/js/paging.min.js"></script>
 	<!-- End links and scripts for the Bettercare Learning Station app -->
 
-	<!--Resizes live-test iframe based on content height. Declare in iframe with onload="setIframeHeight(this.id) using id="ifrm". From http://www.dyn-web.com/tutorials/iframes/height/ -->
-<script type="text/javascript">
-
-function getDocHeight(doc) {
-    doc = doc || document;
-    // from http://stackoverflow.com/questions/1145850/get-height-of-entire-document-with-javascript
-    var body = doc.body, html = doc.documentElement;
-    var height = Math.max( body.scrollHeight, body.offsetHeight, 
-        html.clientHeight, html.scrollHeight, html.offsetHeight );
-    return height;
-}
-
-function setIframeHeight(id) {
-    var ifrm = document.getElementById(id);
-    var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
-    ifrm.style.visibility = 'hidden';
-    ifrm.style.height = "10px"; // reset to minimal height in case going from longer to shorter doc
-    // some IE versions need a bit added or scrollbar appears
-    ifrm.style.height = getDocHeight( doc ) + 4 + "px";
-    ifrm.style.visibility = 'visible';
-}
-</script> 
+	<!--Show/Hide script: http://www.cssnewbie.com/example/showhide-content/ -->
+	<script language="javascript" type="text/javascript">
+	function showHide(shID) {
+	   if (document.getElementById(shID)) {
+		  if (document.getElementById(shID+'-show').style.display != 'none') {
+			 document.getElementById(shID+'-show').style.display = 'none';
+			 document.getElementById(shID).style.display = 'block';
+		  }
+		  else {
+			 document.getElementById(shID+'-show').style.display = 'inline';
+			 document.getElementById(shID).style.display = 'none';
+		  }
+	   }
+	}
+	</script>
 	
 </head>
 <body>
@@ -59,9 +52,13 @@ function setIframeHeight(id) {
 <div class="test">
 <h1 id="test-1-failure-to-breathe-at-birth-and-resuscitation">Test 1: Failure to breathe at birth and resuscitation</h1>
 
-<p><a href="live-test/live-test-1.html" class="button non-printing">Take the test online</a></p>
+<p><a href="#" id="live-test-show" class="button non-printing" onclick="showHide('live-test');return false;">Take chapter test</a></p>
 
-<iframe id="ifrm" name="ifrm" class="live-test non-printing" src="http://form.myjotform.com/form/43496817304561" onload="setIframeHeight(this.id)"></iframe>
+<div id="live-test" class="live-test non-printing">
+	<a href="#" id="live-test-hide" class="button non-printing" onclick="showHide('live-test');return false;">Close test</a>
+	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
+</div>
+<!--#live-test .live test .non-printing-->
 
 <ol>
   <li>How many infants breathe well at birth?

@@ -6,10 +6,13 @@ layout: test
 
 # Test 1: Failure to breathe at birth and resuscitation
 
-[Take the test online](live-test/live-test-1.html){:.button .non-printing}
+<a href="#" id="live-test-show" class="button non-printing" onclick="showHide('live-test');return false;">Take chapter test</a>
 
-<iframe id="ifrm" name="ifrm" class="live-test non-printing" src="http://form.myjotform.com/form/43496817304561" onload="setIframeHeight(this.id)"></iframe>
-	
+<div id="live-test" class="live-test non-printing">
+	<a href="#" id="live-test-hide" class="button non-printing" onclick="showHide('live-test');return false;">Close test</a>
+	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
+</div><!--#live-test .live test .non-printing-->
+
 1.	How many infants breathe well at birth?
 	1.	50%
 	1.	75%
