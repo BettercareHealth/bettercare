@@ -155,6 +155,15 @@ td p {
 }
 .toc a {
 	text-decoration: none;
+	border: 1px solid #f2f2f2;
+	padding: 0.25em;
+	margin: 0 0 0.5em 0;
+	display: block;
+	border-radius: 0.1em;
+	background-color: #f9f9f9;
+}
+.toc a:hover {
+	background-color: white;
 }
 
 /* TOCs in individual pages, created in kramdown with a placeholder ol/ul followed by {:toc} */
@@ -345,19 +354,39 @@ img.thumbnail {
 	border: 1px solid #f9f9f9;
 }
 
-/* Index page thumbnails */
+/* 
+ * Index page 
+ */
 
+.index h1 {
+	text-align: center;
+	margin: 1em 0;
+	padding: 0;
+	max-width: 100%;
+	font-size: 1.5em;
+	color: #a1a1a1;
+	font-weight: 300;
+}
+.index-available {
+	margin: 1em 0 1em -0.5em;
+}
+.index-coming-soon {
+	text-align: center;
+	border: 1px solid #f2f2f2;
+	background-color: #f9f9f9;
+}
 .index .cover-thumb {
 	border: 1px solid gainsboro;
 	margin: 0.5em;
 	width: 150px;
 }
-.index .unavailable {
-	opacity: 0.3;
+.index img.unavailable {
+	opacity: 0.7;
 }
 .index-logo {
 	text-align: center;
 	margin: 1em 0;
+	max-width: 100%;
 }
 
 /*

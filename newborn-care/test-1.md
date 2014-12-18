@@ -13,6 +13,8 @@ layout: test
 	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
 </div><!--#live-test .live test .non-printing-->
 
+<a class="button non-printing" href="http://form.myjotform.com/form/43496817304561" onclick="return poptest('http://form.myjotform.com/form/43496817304561')">Chapter test popup</a>
+
 1.	How many infants breathe well at birth?
 	1.	50%
 	1.	75%

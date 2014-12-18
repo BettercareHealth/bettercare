@@ -34,6 +34,18 @@
 	}
 	</script>
 	
+	<!-- Popup script for tests -->
+	<script language="javascript" type="text/javascript">
+	<!--
+	function poptest(url) {
+		newwindow=window.open(url,'name','height=400,width=800');
+		if (window.focus) {newwindow.focus()}
+		return false;
+	}
+
+	// -->
+	</script>
+	
 </head>
 <body>
 
@@ -59,6 +71,8 @@
 	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
 </div>
 <!--#live-test .live test .non-printing-->
+
+<p><a class="button non-printing" href="http://form.myjotform.com/form/43496817304561" onclick="return poptest('http://form.myjotform.com/form/43496817304561')">Chapter test popup</a></p>
 
 <ol>
   <li>How many infants breathe well at birth?
