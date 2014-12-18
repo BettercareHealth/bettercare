@@ -6,8 +6,10 @@ layout: test
 
 # Test 1: Failure to breathe at birth and resuscitation
 
-[Take the test online](http://qurio.co/c/9NMFF){:.button .non-printing}
+[Take the test online](live-test/live-test-1.html){:.button .non-printing}
 
+<iframe id="ifrm" name="ifrm" class="live-test non-printing" src="http://form.myjotform.com/form/43496817304561" onload="setIframeHeight(this.id)"></iframe>
+	
 1.	How many infants breathe well at birth?
 	1.	50%
 	1.	75%

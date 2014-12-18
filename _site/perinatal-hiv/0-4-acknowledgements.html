@@ -17,6 +17,29 @@
     <script src="./../BookResources/js/jquery.min.js"></script>
     <script src="./../BookResources/js/paging.min.js"></script>
 	<!-- End links and scripts for the Bettercare Learning Station app -->
+
+	<!--Resizes live-test iframe based on content height. Declare in iframe with onload="setIframeHeight(this.id) using id="ifrm". From http://www.dyn-web.com/tutorials/iframes/height/ -->
+<script type="text/javascript">
+
+function getDocHeight(doc) {
+    doc = doc || document;
+    // from http://stackoverflow.com/questions/1145850/get-height-of-entire-document-with-javascript
+    var body = doc.body, html = doc.documentElement;
+    var height = Math.max( body.scrollHeight, body.offsetHeight, 
+        html.clientHeight, html.scrollHeight, html.offsetHeight );
+    return height;
+}
+
+function setIframeHeight(id) {
+    var ifrm = document.getElementById(id);
+    var doc = ifrm.contentDocument? ifrm.contentDocument: ifrm.contentWindow.document;
+    ifrm.style.visibility = 'hidden';
+    ifrm.style.height = "10px"; // reset to minimal height in case going from longer to shorter doc
+    // some IE versions need a bit added or scrollbar appears
+    ifrm.style.height = getDocHeight( doc ) + 4 + "px";
+    ifrm.style.visibility = 'visible';
+}
+</script> 
 	
 </head>
 <body>
@@ -25,7 +48,7 @@
 		<div id="nav-bar" class="non-printing">
 			<div class="nav-content">
 				<a href="/" class="nav-item">Bettercare books</a>
-				<a href="0-3-contents.html" class="nav-item"><em>Perinatal HIV</em></a>
+				<a href="0-3-contents.html" class="nav-item">Perinatal HIV</a>
 				<a href="#" class="nav-item">Acknowledgements</a>
 			</div><!--.nav-content-->
 		</div>

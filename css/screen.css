@@ -61,15 +61,15 @@ body {
 	margin: 0 auto;
 }
 a.nav-item {
-	height: 1.2em;
+	line-height: 100%;
 	background-color: #4f89d2;
 	display: block;
 	float: left;
-	padding: 0.5em 0.5em;
+	padding: 0.5em 0.75em 0.5em 0.5em;
 	color: white;
-	border-radius: 0.1em;
+	border-radius: 0.5em 2em 2em 0.5em;
 	margin-right: 0.2em;
-	margin-bottom: 0.2em
+	margin-bottom: 0.2em;
 }
 a.nav-item:hover {
 	background-color: #4faad2;
@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	margin: 1.5em 0 1em 0;
 	font-weight: 600;
-	font-size: 3.5em;
+	font-size: 2.5em;
 	max-width: 80%;
 	line-height: 90%;
 }
@@ -238,9 +238,8 @@ a.button {
 	margin: 0;
 	border-radius: 0.1em;
 	text-align: center;
-	font-size: 150%;
-	font-weight: 300;
 	text-decoration: none;
+	line-height: 100%;
 }
 a.button:hover {
 	background-color: #4faad2;
@@ -255,7 +254,7 @@ blockquote {
 	font-weight: bold;
 	margin: 1em 0;
 	padding: 0.5em 1em 0.5em 1em;
-	border-radius: 0.25em;
+	border-radius: 0.1em;
 }
 blockquote p {
 	margin: 0;
@@ -378,4 +377,10 @@ img.thumbnail {
 	padding: 0.1em 0.3em;
 	border-radius: 0.2em;
 	margin: 0 0 0 0.5em;
+}
+iframe.live-test {
+	width: 100%;
+	border: 1px solid #f2f2f2;
+	border-radius: 0.1em;
+	padding: 0 0.5em;
 }
