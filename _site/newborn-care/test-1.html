@@ -27,25 +27,13 @@
 			 document.getElementById(shID).style.display = 'block';
 		  }
 		  else {
-			 document.getElementById(shID+'-show').style.display = 'inline';
+			 document.getElementById(shID+'-show').style.display = 'block';
 			 document.getElementById(shID).style.display = 'none';
 		  }
 	   }
 	}
 	</script>
-	
-	<!-- Popup script for tests -->
-	<script language="javascript" type="text/javascript">
-	<!--
-	function poptest(url) {
-		newwindow=window.open(url,'name','height=400,width=800');
-		if (window.focus) {newwindow.focus()}
-		return false;
-	}
 
-	// -->
-	</script>
-	
 </head>
 <body>
 
@@ -63,16 +51,6 @@
 
 <div class="test">
 <h1 id="test-1-failure-to-breathe-at-birth-and-resuscitation">Test 1: Failure to breathe at birth and resuscitation</h1>
-
-<p><a href="#" id="live-test-show" class="button non-printing" onclick="showHide('live-test');return false;">Take chapter test</a></p>
-
-<div id="live-test" class="live-test non-printing">
-	<a href="#" id="live-test-hide" class="button non-printing" onclick="showHide('live-test');return false;">Close test</a>
-	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
-</div>
-<!--#live-test .live test .non-printing-->
-
-<p><a class="button non-printing" href="http://form.myjotform.com/form/43496817304561" onclick="return poptest('http://form.myjotform.com/form/43496817304561')">Chapter test popup</a></p>
 
 <ol>
   <li>How many infants breathe well at birth?

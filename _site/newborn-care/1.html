@@ -27,25 +27,13 @@
 			 document.getElementById(shID).style.display = 'block';
 		  }
 		  else {
-			 document.getElementById(shID+'-show').style.display = 'inline';
+			 document.getElementById(shID+'-show').style.display = 'block';
 			 document.getElementById(shID).style.display = 'none';
 		  }
 	   }
 	}
 	</script>
-	
-	<!-- Popup script for tests -->
-	<script language="javascript" type="text/javascript">
-	<!--
-	function poptest(url) {
-		newwindow=window.open(url,'name','height=400,width=800');
-		if (window.focus) {newwindow.focus()}
-		return false;
-	}
 
-	// -->
-	</script>
-	
 </head>
 <body>
 
@@ -66,11 +54,18 @@
 
 <h1 id="failure-to-breathe-at-birth-and-resuscitation">Failure to breathe at birth and resuscitation</h1>
 
-<p>Before you begin, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.</p>
+<p>Take the chapter test before and after you read this chapter.</p>
 
-<p><a href="test-1.html" class="button non-printing">Go to chapter test</a></p>
+<p><a href="#live-test" id="live-test-show" class="button non-printing" onclick="showHide('live-test');">Open test</a></p>
 
-<p><a class="button non-printing" href="http://form.myjotform.com/form/43496817304561" onclick="return poptest('http://form.myjotform.com/form/43496817304561')">Chapter test popup</a></p>
+<div id="live-test" class="live-test non-printing">
+	<a id="restart-test" href="#" class="button non-printing" onclick="location.reload(true)">Start again</a>
+	<div class="loading">
+		<iframe class="autoHeight" src="http://form.myjotform.com/form/43496817304561"></iframe>
+	</div><!--.loading-->
+	<a id="restart-test" href="#" class="button non-printing" onclick="location.reload(true)">Start again</a>
+</div>
+<!--#live-test .live test .non-printing-->
 
 <h2 id="objectives">Objectives</h2>
 

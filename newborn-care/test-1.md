@@ -6,15 +6,6 @@ layout: test
 
 # Test 1: Failure to breathe at birth and resuscitation
 
-<a href="#" id="live-test-show" class="button non-printing" onclick="showHide('live-test');return false;">Take chapter test</a>
-
-<div id="live-test" class="live-test non-printing">
-	<a href="#" id="live-test-hide" class="button non-printing" onclick="showHide('live-test');return false;">Close test</a>
-	<iframe src="http://form.myjotform.com/form/43496817304561"></iframe>
-</div><!--#live-test .live test .non-printing-->
-
-<a class="button non-printing" href="http://form.myjotform.com/form/43496817304561" onclick="return poptest('http://form.myjotform.com/form/43496817304561')">Chapter test popup</a>
-
 1.	How many infants breathe well at birth?
 	1.	50%
 	1.	75%
