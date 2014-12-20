@@ -16,6 +16,7 @@ layout: toc
 3.	[Protection of healthcare workers](3.html)
 4.	[Support services and documentation](4.html)
 5.	[Communication and community engagement](5.html)
+6.	[Resources](6.html)
 
 ## Tests
 
