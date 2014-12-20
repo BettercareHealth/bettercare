@@ -19,7 +19,7 @@ body {
 #wrapper{
 	clear: both;
 	max-width: 960px;
-	margin: 6em auto;
+	margin: 6em auto; /* Keeps content showing below the fixed nav bar even when nav bar wraps */
 	padding: 0 0.3em 0 0.3em;
 }
 #footer {
@@ -343,8 +343,8 @@ p.cover {
 	height: 100%;
 }
 img.cover {
-	position: absolute;
-	height: 100%;
+	max-height: 100%;
+	max-width: 100%;
 	border: 1px solid #f9f9f9;
 }
 img.thumbnail {
