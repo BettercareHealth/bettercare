@@ -6,16 +6,23 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[About the book](0-4-about-the-book.html)
+*	[About the authors](0-5-about-the-authors.html)
+*	[Acknowledgements](0-6-acknowledgements.html)
+*	[Introduction](0-7-introduction.html)
 
-*	[Introduction](title-0-5-introduction.html)
-
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Virology and epidemiology](1.html)
+2.	[Patient management](2.html)
+3.	[Protection of healthcare workers](3.html)
+4.	[Support services and documentation](4.html)
+5.	[Communication and community engagement](5.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Virology and epidemiology](test-1.html)
+2.	[Patient management](test-2.html)
+3.	[Protection of healthcare workers](test-3.html)
+4.	[Support services and documentation](test4.html)
+5.	[Communication and community engagement](test-5.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)

@@ -6,6 +6,8 @@ layout: test
 
 # Test 3: Protection of Healthcare Workers
 
+Please choose the one, most correct answer to each question or statement.
+
 1.	Can healthcare workers in an Ebola Treatment Unit become infected by indirect contact with contaminated equipment or surfaces?
 	1.	Not with Ebola
 	1.	Only if the contaminated object touches the healthcare worker’s mouth
