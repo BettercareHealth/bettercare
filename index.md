@@ -1,5 +1,6 @@
 ---
-title: Bettercare
+title: Select a book
+book: Home
 layout: index
 ---
 

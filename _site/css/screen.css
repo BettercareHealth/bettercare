@@ -358,6 +358,9 @@ img.thumbnail {
  * Index page 
  */
 
+.index {
+	margin-top: -5em;
+}
 .index h1 {
 	text-align: center;
 	margin: 1em 0;
