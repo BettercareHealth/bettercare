@@ -49,6 +49,11 @@ body {
 	font-size: 1.3em;
 	line-height: 140%;
 }
+	@media (max-device-width: 1280px) and (orientation: landscape) { /* Targeting Bettercare's Galaxy Tab-based Learning Stations */
+		body {
+			font-size: 1.6em;
+		}
+	}
 #wrapper{
 	clear: both;
 	max-width: 960px;
