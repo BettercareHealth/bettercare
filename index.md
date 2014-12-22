@@ -8,6 +8,8 @@ layout: index
 
 	<div class="index-available">
 
+		<h1>Select a course</h1>
+
 		<a href="newborn-care/0-3-contents.html" title="Newborn Care"><img class="cover-thumb" src="newborn-care/images/cover-thumb.jpg" alt="Newborn Care" title="Newborn Care is for healthcare workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation, assessing size and gestational age, routine care of normal and high-risk infants, hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, and communication with parents." /></a>
 	
 		<a href="primary-maternal-care/0-3-contents.html" title="Primary Maternal Care"><img class="cover-thumb" src="primary-maternal-care/images/cover-thumb.jpg" alt="Primary Maternal Care" title="Primary Maternal Care is for midwives and doctors in level 1 hospitals and clinics who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory chapters and skills workshops from [*Maternal Care*](http://bettercare.co.za/books/maternal-care/), and complements the national protocol for antenatal care in South Africa. It covers antenatal care, assessment of fetal growth and condition during pregnancy, hypertensive disorders of pregnancy, antepartum haemorrhage, preterm labour and preterm rupture of the membrames, the puerperium and family planning, and medical problems during pregnancy and the puerperium." /></a>

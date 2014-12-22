@@ -197,7 +197,7 @@ td p {
 	padding: 0.25em;
 	margin: 0 0 0.5em 0;
 	display: block;
-	border-radius: 0.1em;
+	border-radius: 0.2em;
 	background-color: #f9f9f9;
 }
 .toc a:hover {
@@ -283,7 +283,7 @@ a.button {
 	padding: 0.5em;
 	width: 9em;
 	margin: 0;
-	border-radius: 0.1em;
+	border-radius: 0.2em;
 	text-align: center;
 	text-decoration: none;
 	line-height: 100%;
@@ -301,7 +301,7 @@ blockquote {
 	font-weight: bold;
 	margin: 1em 0;
 	padding: 0.5em 1em 0.5em 1em;
-	border-radius: 0.1em;
+	border-radius: 0.2em;
 }
 blockquote p {
 	margin: 0;
@@ -454,10 +454,10 @@ img.thumbnail {
 .live-test iframe {
 	width: 100%;
 	border: none;
-	border-radius: 0.1em;
+	border-radius: 0.2em;
 	padding: 0 0.5em;
 	margin: 1em 0;
-	height: 25em;
+	height: 20em;
 }
 .test-result-page {
 	margin: 5em 0 0 0;
@@ -465,7 +465,7 @@ img.thumbnail {
 .test-results iframe {
 	width: 100%;
 	border: none;
-	border-radius: 0.1em;
+	border-radius: 0.2em;
 	margin: 1em 0;
 	padding: 0 0.5em;
 	height: 150em;
