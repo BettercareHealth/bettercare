@@ -86,6 +86,8 @@ To help solve these many problems, a self-help decentralised learning method has
 
 *Infection Prevention and Control* was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
 
+### Maternal Mental Health
+
 *Maternal Mental Health* was written for health and social workers caring for women before and after birth. It includes and introduction to maternal mental health and illness, making referrals for maternal mental illness, helping mothers with mental health problems and special issues in maternal mental health. It includes a resource section for assessing, referring and supporting mothers in the perinatal period.
 
 ## Format of the courses
