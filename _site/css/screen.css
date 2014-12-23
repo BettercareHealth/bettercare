@@ -189,7 +189,7 @@ td p {
 	margin: 0 0 0.5em 0;
 }
 .toc li li {
-	margin: 0;
+	margin: 0 0 0 1em;
 }
 .toc a {
 	text-decoration: none;
@@ -199,6 +199,9 @@ td p {
 	display: block;
 	border-radius: 0.2em;
 	background-color: #f9f9f9;
+}
+.toc li li a {
+	color: silver
 }
 .toc a:hover {
 	background-color: white;
