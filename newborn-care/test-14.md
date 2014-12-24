@@ -45,7 +45,7 @@ layout: test
 	1.	Circumcised
 	1.	Referred to a level 3 hospital for urgent surgery
 	1.	Referred to a urology clinic `correct`{:.correct-answer}
-	1.	Booked for a follow-up examination at 5?years
+	1.	Booked for a follow-up examination at 5 years
 9.	Infants with ambiguous genitalia:
 	1.	Should all be brought up as females
 	1.	Should be referred to a plastic surgery clinic when they are 1 month old
