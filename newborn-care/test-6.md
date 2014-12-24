@@ -61,7 +61,7 @@ layout: test
 	1.	Every 3 hours
 	1.	Every 4 hours
 	1.	Every 8 hours
-12.	An infant between 1500 and 1800?g should be fed:
+12.	An infant between 1500 and 1800 g should be fed:
 	1.	12 times a day
 	1.	8 times a day `correct`{:.correct-answer}
 	1.	6 times a day
