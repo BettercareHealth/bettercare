@@ -93,7 +93,8 @@ body {
 			padding: 0.2em 0.2em 0 0.2em;
 		}
 	}
-	@media (max-width: 480px) { /* Let nav-bar scroll out of view on narrow screens */
+	@media only screen 
+	and (max-width: 480px), (max-height: 600px) { /* Let nav-bar scroll out of view on small screens */
 		#nav-bar {
 			position: relative;
 		}
@@ -465,7 +466,7 @@ img.thumbnail {
 	border-radius: 0.2em;
 	padding: 0 0.5em;
 	margin: 1em 0;
-	height: 20em;
+	height: 25em;
 }
 .test-result-page {
 	margin: 5em 0 0 0;
