@@ -93,6 +93,11 @@ body {
 			padding: 0.2em 0.2em 0 0.2em;
 		}
 	}
+	@media (max-width: 480px) { /* Let nav-bar scroll out of view on narrow screens */
+		#nav-bar {
+			position: relative;
+		}
+	}
 .nav-content {
 	clear: both;
 	max-width: 960px;
