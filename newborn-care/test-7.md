@@ -1,6 +1,6 @@
 ---
 book: Newborn Care
-title: Test
+title: Test 7. Temperature control and hypothermia
 layout: test
 ---
 

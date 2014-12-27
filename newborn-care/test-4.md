@@ -1,6 +1,6 @@
 ---
 book: Newborn Care
-title: Test
+title: Test 4. Feeding normal infants
 layout: test
 ---
 
