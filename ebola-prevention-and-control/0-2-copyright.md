@@ -18,9 +18,12 @@ Illustrations by Lizelle Niit
 
 Getup © Electric Book Works 2015
 
+
 ISBN (paperback): 978-1-920218-86-7
 
-ISBN (PDF ebook): 978-1-920218-00-0
+ISBN (PDF edition): 978-1-920218-87-4
+
+ISBN (reflowable edition): 978-1-920218-88-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
