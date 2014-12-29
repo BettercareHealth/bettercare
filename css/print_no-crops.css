@@ -478,6 +478,7 @@ li li:first-of-type {
 	page-break-before:avoid;
 }
 blockquote {
+	clear: both;
 	font-family: "Source Sans Pro", sans-serif;
 	background-color: #666;
 	font-size: 110%;
