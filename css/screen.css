@@ -305,6 +305,7 @@ a.button:hover {
  */
 
 blockquote {
+	clear: both;
 	color: white;
 	background-color: #4fd298;
 	font-weight: bold;
@@ -361,6 +362,7 @@ figcaption {
 	font-style: italic;
 }
 figure img {
+	width: 100%;
 	max-width: 100%;
 }
 figure.wrap-left {
@@ -372,6 +374,15 @@ figure.wrap-right {
 	width: 50%;
 	float: right;
 	padding-left: 1.5em;
+}
+figure.full-page img {
+	max-width: 100%;
+}
+figure.half-page img {
+	max-width: 50%;
+}
+figure.quarter-page img {
+	max-width: 25%;
 }
 
 /*

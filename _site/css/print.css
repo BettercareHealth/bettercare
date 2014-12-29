@@ -290,7 +290,7 @@ ul#markdown-toc, ol#markdown-toc {
 	font-size: 1.5em;
 	font-weight: 600;
  }
- .test h2 {
+.test h2 {
 	font-size: 1.2em;
 	font-weight: 400;
  }
@@ -370,7 +370,7 @@ td p {
 }
 
 /*
- * Figures
+ * Figures and images
  */
 
 figure {
@@ -394,6 +394,15 @@ figure.wrap-right {
 	width: 50%;
 	float: right;
 	padding-left: 1.5em;
+}
+figure.full-page img {
+	max-height: 150mm;
+}
+figure.half-page img {
+	max-height: 80mm;
+}
+figure.quarter-page img {
+	max-height: 30mm;
 }
 
 /*
@@ -469,6 +478,7 @@ li li:first-of-type {
 	page-break-before:avoid;
 }
 blockquote {
+	clear: both;
 	font-family: "Source Sans Pro", sans-serif;
 	background-color: #666;
 	font-size: 110%;

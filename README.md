@@ -103,6 +103,24 @@ This is for Bettercare team members, but may contain useful tips to others worki
 	That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
 3.	Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
 
+#### Image placement
+
+You may need to control how an image is placed on the page, depending on its size and nearby images or other elements. You do this by applying a class to the figure, and you have these options:
+
+*	`wrap-left` puts the image on the left with the text wrapping on its right
+*	`wrap-right` puts the image on the right with the text wrapping on its left (this looks better than wrap-left)
+*	`full-page` sets the max image size to 15cm high, to fill a page
+*	`half-page` sets the max image size to 8cm, about half a page including caption
+*	`quarter-page` sets the max image size to 3cm, about a quarter of the page including caption.
+
+You apply these by adding `class="wrap-right"` (or whichever class you want to apply) to the opening `<figure>` tag:
+
+```html
+<figure class="wrap-right">
+```
+
+Note that the `wrap-` classes make the text that *follows* the `<figure>` element wrap around the figure. So in your markdown, place the `<figure>` element *before* the paragraph that you want to wrap it with.
+
 ### Tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
