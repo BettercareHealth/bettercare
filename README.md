@@ -104,7 +104,7 @@ Styles:
 *	Use shades of grey only where needed, and as few shades as possible.
 *	Font: Source Sans Pro
 *	Font sizes: 10pt
-*	Fit artboards to artwork bounds; there must be no white space around the art in an image. (We control space with styling.) Since you're creating images to a specific size, you need to exapnd artwork to fit the artboard, *not* fit artboards to artwork bounds, which would make your whole image smaller.
+*	Fit artboards to artwork bounds; there must be no white space around the art in an image. (We control space with styling.) Since you're creating images to a specific size, you need to **expand artwork to fit the artboard**, *not* fit artboards to artwork bounds, which would make your whole image smaller.
 
 If you use live trace to create art from a raster source, you must clean up the file to remove unnecessary fills that add to file size but do little for clarity.
 
