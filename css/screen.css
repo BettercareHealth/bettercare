@@ -125,6 +125,7 @@ a.nav-item:hover {
  
 table {
 	border-collapse: collapse;
+	margin: 0 0 1em 0;
 }
 thead, th, .table-subhead {
 	page-break-after: avoid;
