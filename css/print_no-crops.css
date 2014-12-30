@@ -360,6 +360,7 @@ td {
 thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
+	line-height: 120%;
 }
 .table-row-stub {
 	font-weight: 600;
