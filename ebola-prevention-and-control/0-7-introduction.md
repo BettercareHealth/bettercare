@@ -8,7 +8,7 @@ layout: chapter
 
 ## About the Bettercare series
 
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation and the Desmond Tutu TB Centre, with contributions from numerous experts.
+Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre and the Academic Unit for Infection Prevention and Control and Infection Control Africa Network with contributions from numerous experts.
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
@@ -118,10 +118,6 @@ Note
 ### Case studies
 
 Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned earlier in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital. The participant should attempt to answer each question in the case study before reading the correct answer. 
-
-### Practical training
-
-Certain chapters contain skills workshops, which need to be practised by the participants (preferably in groups). The skills workshops, which are often illustrated with line drawings, list essential equipment and present step-by-step instructions on how to perform each task. If participants aren’t familiar with a practical skill, they are encouraged to ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues.
 
 ### Final examination
 
