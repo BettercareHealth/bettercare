@@ -147,6 +147,10 @@ The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is
 
 The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
 
+### The Infection Control Africa Network
+
+The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health related associations.
+
 ### Updating the course material
 
 Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
