@@ -10,10 +10,13 @@ layout: frontmatter
 
 The Infection Control Africa Network (ICAN)
 
+Development of this book was a collaborative effort with the Academic Unit for Infection Prevention and Control at Tygerberg Hospital and Stellenbosch University, Cape Town, South Africa.
+
 ## Authors
 
-Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH, Paediatric Infec-tious Diseases, Department of Paediatrics and Child Health, Stellenbosch University, South Africa
-Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for Infec-tion Prevention and Control, Stellenbosch University, South Africa 
+Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH, Paediatric Infectious Diseases, Department of Paediatrics and Child Health, Stellenbosch University, South Africa
+
+Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for Infection Prevention and Control, Stellenbosch University, South Africa 
 
 ## Editor
 
