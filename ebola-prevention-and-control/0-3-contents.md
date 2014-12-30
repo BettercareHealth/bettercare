@@ -23,7 +23,7 @@ layout: toc
 1.	[Virology and epidemiology](test-1.html)
 2.	[Patient management](test-2.html)
 3.	[Protection of healthcare workers](test-3.html)
-4.	[Support services and documentation](test4.html)
+4.	[Support services and documentation](test-4.html)
 5.	[Communication and community engagement](test-5.html)
 
 *	[Answers](test-answers.html)
