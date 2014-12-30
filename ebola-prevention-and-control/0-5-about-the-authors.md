@@ -6,7 +6,7 @@ layout: frontmatter
 
 # About the authors and editor
 
-Dr Angela Dramowski is a paediatric infectious diseases specialist with a passion for improv-ing infection prevention and control practices and an interest in the education of healthcare professionals.
+Dr Angela Dramowski is a paediatric infectious diseases specialist with a passion for improving infection prevention and control practices and an interest in the education of healthcare professionals.
 
 Prof Shaheen Mehtar is a retired Infection Prevention and Control expert, who remains active-ly involved in the field as the chair of the Infection Control Africa Network (ICAN). She also serves as an advisor and committee member on several World Health Organisation (WHO) working groups, including advising on viral haemorrhagic fever outbreak management.
 
