@@ -86,12 +86,47 @@ This is for Bettercare team members, but may contain useful tips to others worki
 
 ### Images
 
-1.	Create .svg versions of all images. A suggested workflow for this:
-	*	If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.
-	*	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
-	*	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills workshops images, that might be 1E-B.svg for workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
-	*	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
-2.	We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
+#### Creating images
+
+Wherever possible, Bettercare images should be created with the same sizes, styles and settings. To create images, you must have a working knowledge of the difference between vector and raster (aka bitmap) images. We always favour vector, except where raster is absolutely necessary.
+
+These constraints make our designs consistent, make layout easier (for print, ebook and web on large and small screens), and keep file sizes down for mobile devices.
+
+Sizes:
+
+*	Default width: 115mm (this is just under the 118mm-wide text area in our A5 print format)
+*	Alternative width: 55mm (this is a half-page-width image)
+*	Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.
+
+Styles:
+
+*	Default style: Black and white line art, with average 1mm line thickness.
+*	Use shades of grey only where needed, and as few shades as possible.
+*	Font: Source Sans Pro
+*	Font sizes: 10pt
+*	Fit artboards to artwork bounds; there must be no white space around the art in an image. (We control space with styling.) Since you're creating images to a specific size, you need to exapnd artwork to fit the artboard, *not* fit artboards to artwork bounds, which would make your whole image smaller.
+
+If you use live trace to create art from a raster source, you must clean up the file to remove unnecessary fills that add to file size but do little for clarity.
+
+Settings:
+
+*	Default file format: SVG
+*	Convert type to outlines (the alternative to embed and subset fonts doesn't work reliably in print output currently)
+*	Raster elements embedded, not linked
+*	Transparent background
+
+Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (best) or png. Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. 
+
+If you're creating images from InDesign originals using Illustrator, a suggested workflow:
+
+*	If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.
+*	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
+*	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills workshops images, that might be 1E-B.svg for workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
+*	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
+
+#### The `<figure>` element
+
+We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
 
 ```html
 <figure>
@@ -100,8 +135,11 @@ This is for Bettercare team members, but may contain useful tips to others worki
 </figure>
 ```
 
-	That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
-3.	Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
+That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
+
+#### Cover images
+
+Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
 
 #### Image placement
 
@@ -121,7 +159,7 @@ You apply these by adding `class="wrap-right"` (or whichever class you want to a
 
 Note that the `wrap-` classes make the text that *follows* the `<figure>` element wrap around the figure. So in your markdown, place the `<figure>` element *before* the paragraph that you want to wrap it with.
 
-### Tips
+### General tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * Do not use a colon `:` in the title you include in your YAML header (inside the `---`s at the tops of files). (Jekyll will bug out unsure if you're trying to map a second value to the YAML key.)
