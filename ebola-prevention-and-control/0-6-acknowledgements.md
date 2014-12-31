@@ -14,9 +14,9 @@ Development of this book was a collaborative effort with the Academic Unit for I
 
 ## Authors
 
-Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH, Paediatric Infectious Diseases, Department of Paediatrics and Child Health, Stellenbosch University, South Africa
+Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH, Paediatric Infectious Diseases, Department of Paediatrics and Child Health, Stellenbosch University South Africa
 
-Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for Infection Prevention and Control, Stellenbosch University, South Africa 
+Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for Infection Prevention and Control, Stellenbosch University South Africa 
 
 ## Editor
 
@@ -24,7 +24,7 @@ Prof Dave Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
 
 ## Funded by
 
-The Stellenbosch University Rural Medical Education Partnership Initiative (SURMEPI) supported by the President’s Emergency Plan for AIDS relief (PEPFAR) through HRSA un-der the term T84HA21652.
+The Stellenbosch University Rural Medical Education Partnership Initiative (SURMEPI) supported by the President’s Emergency Plan for AIDS relief (PEPFAR) through HRSA under the term T84HA21652.
 
 ## Reviewers 
 
