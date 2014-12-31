@@ -24,7 +24,7 @@ Prof Dave Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
 
 ## Funded by
 
-The Stellenbosch University Rural Medical Education Partnership Initiative (SURMEPI) supported by the President’s Emergency Plan for AIDS relief (PEPFAR) through HRSA under the term T84HA21652.
+The Stellenbosch University Rural Medical Education Partnership Initiative (SURMEPI) supported by the President’s Emergency Plan for AIDS relief (PEPFAR) through the Health Resources and Services Administration (HRSA) under the term T84HA21652.
 
 ## Reviewers 
 
@@ -38,7 +38,7 @@ Dr Rosie Burton (Infectious Diseases Specialist, Khayelitsha District Hospital, 
 
 Jens Pedersen (Policy Advisor, Medecins sans Frontieres, South Africa): chapter 2
 
-Professor Dale Fisher (Head of Infectious Diseases, Department of Medicine, National University Hospital and the National University of Singapore, Singapore): sections 1 and 2
+Professor Dale Fisher (Head of Infectious Diseases, Department of Medicine, National University Hospital and the National University of Singapore, Singapore): chapters 1 and 2
 
 Dr Sergey Eremin (Pandemic and Epidemic Diseases, World Health Organization, Geneva, Switzerland): chapter 3
 

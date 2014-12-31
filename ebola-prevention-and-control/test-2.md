@@ -99,7 +99,7 @@ d.	Oedema of the legs
 	1.	A lime solution
 	1.	A 0.5% chlorine solution
 	1.	Soap and water
-19	How should corpses be prepared for disposal?
+19.	How should corpses be prepared for disposal?
 	1.	They should be placed in 2 leak-proof plastic bags, each of which must be carefully disinfected
 	1.	They must be burned immediately
 	1.	They should be soaked in a lime solution for 24 hours
