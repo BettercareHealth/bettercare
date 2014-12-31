@@ -28,7 +28,7 @@ The Stellenbosch University Rural Medical Education Partnership Initiative (SURM
 
 ## Reviewers 
 
-Professor Wolgang Preiser (Department of Medical Virology, Stellenbosch University, Cape Town, South Africa): chapter 1 
+Professor Wolfgang Preiser (Department of Medical Virology, Stellenbosch University, Cape Town, South Africa): chapter 1 
 
 Professor Lucille Blumberg (National Institute for Communicable Diseases, Johannesburg, South Africa): chapter 1
 
@@ -37,6 +37,8 @@ Dr Petrus Janse Van Vuren (National Institute for Communicable Diseases, Johanne
 Dr Rosie Burton (Infectious Diseases Specialist, Khayelitsha District Hospital, Cape Town, South Africa): chapter 2
 
 Jens Pedersen (Policy Advisor, Medecins sans Frontieres, South Africa): chapter 2
+
+Professor Dale Fisher (Head of Infectious Diseases, Department of Medicine, National University Hospital and the National University of Singapore, Singapore): sections 1 and 2
 
 Dr Sergey Eremin (Pandemic and Epidemic Diseases, World Health Organization, Geneva, Switzerland): chapter 3
 
