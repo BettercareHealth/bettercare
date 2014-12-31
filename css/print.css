@@ -360,6 +360,7 @@ td {
 thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
+	line-height: 120%;
 }
 .table-row-stub {
 	font-weight: 600;
@@ -399,10 +400,10 @@ figure.full-page img {
 	max-height: 150mm;
 }
 figure.half-page img {
-	max-height: 80mm;
+	max-height: 55mm;
 }
 figure.quarter-page img {
-	max-height: 30mm;
+	max-height: 25mm;
 }
 
 /*

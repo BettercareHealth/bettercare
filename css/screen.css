@@ -130,6 +130,7 @@ table {
 thead, th, .table-subhead {
 	page-break-after: avoid;
 	background-color: #F2F2F2;
+	line-height: 120%;
 }
 thead, th {
 	font-weight: 600;
@@ -363,7 +364,6 @@ figcaption {
 	font-style: italic;
 }
 figure img {
-	width: 100%;
 	max-width: 100%;
 }
 figure.wrap-left {
