@@ -12,7 +12,8 @@ First published in 2015 by [Bettercare](http://bettercare.co.za), a division of 
 
 Text © Infection Control Africa Network 2015
 
-Cover photograph © EU Humanitarian Aid and Civil Protection [EU Humanitarian Aid and Civil Protection](https://www.flickr.com/photos/69583224@N05/13717624625/)
+Cover photograph © EU Humanitarian Aid and Civil Protection [EU Humanitarian Aid and Civil Protection](https://www.flickr.com/photos/69583224@N05/13717624625/).
+
 Illustrations by Lizelle Niit
 
 Getup © Electric Book Works 2015
