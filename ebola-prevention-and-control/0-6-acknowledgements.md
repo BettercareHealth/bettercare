@@ -28,7 +28,7 @@ The Stellenbosch University Rural Medical Education Partnership Initiative (SURM
 
 ## Reviewers 
 
-Professor Wolgang Preiser (Department of Medical Virology, Stellenbosch University, Cape Town, South Africa): chapter 1 
+Professor Wolfgang Preiser (Department of Medical Virology, Stellenbosch University, Cape Town, South Africa): chapter 1 
 
 Professor Lucille Blumberg (National Institute for Communicable Diseases, Johannesburg, South Africa): chapter 1
 
