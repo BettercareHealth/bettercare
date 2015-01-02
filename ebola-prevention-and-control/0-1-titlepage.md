@@ -7,7 +7,6 @@ layout: frontmatter
 Ebola Prevention and Control
 {:.titlepage-title}
 
-
 Written by Dr Angela Dramowski and Prof Shaheen Mehtar
 {:.titlepage-author}
 
