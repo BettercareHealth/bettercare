@@ -48,43 +48,50 @@ This is for Bettercare team members, but may contain useful tips to others worki
 
 ### Process
 
-1. Open the InDesign file and copy all the text
-1. Paste the text with formatting into your text editor.
-1. Search and replace (S&R) all line breaks with double line breaks:
+1.	Open the InDesign file and copy all the text
+1.	Paste the text with formatting into your text editor.
+1.	Search and replace (S&R) all line breaks with double line breaks:
 	* Tick 'Regular expression' (because you're using the regex \n to mean 'line break', not actually searching for the characters 'slash' and 'lowercase en').
 	* Find `\n`
 	* Replace with `\n\n`
-1. Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
-	* Find \n\nnote\s
-	* Replace with \n\nNote\n:\t
-1. Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level:
-	* chapter title is h1 = #
-	* subunit head is h2 = ##
-	* article head (question) is h3 = ###. To S&R here, luckily all article heads start with the chapter number and a hyphen. So if you're working on chapter 3, find \n\n3- and replace with \n\n### 3-. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day...'
-1. At the same time, you may want to:
-	* manually create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists.
-	* manually marking key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
-	* Note that list indents can get complicated, so check previous chapters and test your markdown-to-HTML conversion when you hit a tricky one (e.g. a note inside a bullet list nested inside a numbered list).
-1. Add Markdown image references. We use reference-style image syntax. 
-	* In the text we put ![Alt text][id]. 
-	* After the image reference, include a caption in italics. E.g. *Figure 3-2: Swaddling a newborn baby.**
-	* Then at the end of the document, we list all that chapter's images, each one as [id]: url/to/image  "Optional title attribute". This makes it easy to check all image paths and attributes at once. 
-	* Image IDs are named like this: fig-2-1 for the first figure in chapter two. Or fig-1-B for the second image in the skills workshop appended to chapter 1.
-	* Image files are named similarly, like this: fig-2-3.svg for Figure 2-3.
-	* The path to images is {{ site.baseurl }}/book-folder/images/fig-1-1.svg (this path ensures our Jekyll server can find the images on local machines or on GitHub Pages)
-1. Convert all images to SVG format so that they scale neatly. Ensure bitmap elements in SVG are high-res enough for printing. Save images in the book's images folder.
-1. Look out for italic and bold, and manually mark these in markdown with asterisks: *italic* and **bold**. It's best to search the InDesign document for these instances so you don't miss any.
-1. Look out for special characters, especially degree symbols (°), superscripts and subscripts. It's best to search the InDesign document (search by style and basic character formats, e.g. 'Position' for superscript and subscript) for these instances so you don't miss any. Most superscripts and subscripts in InDesign and similar are created by formatting normal text (shrink and baseline shift). In text-only, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). E.g. when typing the symbol for oxygen, O₂, the subscript 2 is ₂, unicode character U+2082. To type these characters, you may need special software (e.g. for Windows, Google unicodeinput.exe), or copy-paste from [an online reference](http://scriptsource.org/cms/scripts/page.php?item_id=character_list&key=2070). In Windows, you can also find symbols in Character Map, e.g. search in Character Map for 'Subscript Two'.
-1. For tables, create the Markdown layout manually, or use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To do this:
-	* Click and drag over some cells in the InDesign table (not the header row). Then Ctrl+A to select the whole table.
-	* Ctrl+C to copy, then paste into a blank spreadsheet.
-	* Select all the relevant cells in your spreadsheet, and copy. The table text is now on your clipboard, with the cells separated by tabs.
-	* Paste into the online Format Text as Table Input field.
-	* Click 'Create Table'. (The default settings are usually fine. Play with them only if you need to.)
-	* Copy the Output and paste it into your markdown file.
-	* The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
+1.	Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
+	*	Find `\n\nnote\s`
+	*	Replace with `\n\nNote\n:\t`
+1.	Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level:
+	*	chapter title is h1 = `#`
+	*	subunit head is h2 = `##`
+	*	article head (question) is h3 = `###`. To S&R here, luckily all article heads start with the chapter number and a hyphen. So if you're working on chapter 3, find `\n\n3-` and replace with `\n\n### 3-`. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day...'
+1.	At the same time, you may want to:
+	*	manually create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists.
+	*	manually marking key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
+	*	Note that list indents can get complicated, so check previous chapters and test your markdown-to-HTML conversion when you hit a tricky one (e.g. a note inside a bullet list nested inside a numbered list).
+1.	Look out for italic and bold, and manually mark these in markdown with asterisks: *italic* and **bold**. It's best to search the InDesign document for these instances so you don't miss any (in InDesign, you can search for a text style or formatting; if you put no characters in the search field, it'll find every instance of that style or formatting).
+1.	Look out for special characters, especially degree symbols (°), superscripts and subscripts. It's best to search the InDesign document (search by style and basic character formats, e.g. 'Position' for superscript and subscript) for these instances so you don't miss any. Most superscripts and subscripts in InDesign and similar are created by formatting normal text (shrink and baseline shift). In text-only, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). E.g. when typing the symbol for oxygen, O₂, the subscript 2 is ₂, unicode character U+2082. To type these characters, you may need special software (e.g. for Windows, Google unicodeinput.exe), or copy-paste from [an online reference](http://scriptsource.org/cms/scripts/page.php?item_id=character_list&key=2070). In Windows, you can also find symbols in Character Map, e.g. search in Character Map for 'Subscript Two'.
+1.	At tables, add `{:.table-caption}` in the line immediately after the table caption, which should *always* immediately precede the table. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. Tables can be created in markdown, but if you need any cell merging or other fine formatting control, you must create an HTML table (using `<table>` etc. tags). To easily create tables with markdown (for Kramdown processing):
+	*	use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To do this:
+	*	Click and drag over some cells in the InDesign table (not the header row). Then Ctrl+A to select the whole table.
+	*	Ctrl+C to copy, then paste into a blank spreadsheet.
+	*	Select all the relevant cells in your spreadsheet, and copy. The table text is now on your clipboard, with the cells separated by tabs.
+	*	Paste into the online Format Text as Table Input field.
+	*	Click 'Create Table'. (The default settings are usually fine. Play with them only if you need to.)
+	*	Copy the Output and paste it into your markdown file.
+	*	The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
+1.	Add markdown/code for the images, and make sure the image files are in the book's `images` folder. See the images section below for detail on this.
 
 ### Images
+
+#### The `<figure>` element
+
+We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
+
+```html
+<figure>
+	<img src="../images/fig-1-A.svg" alt="The Apgar scoring sheet" />	
+	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
+</figure>
+```
+
+That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
 
 #### Creating images
 
@@ -124,19 +131,6 @@ If you're creating images from InDesign originals using Illustrator, a suggested
 *	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills workshops images, that might be 1E-B.svg for workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
 *	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
 
-#### The `<figure>` element
-
-We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
-
-```html
-<figure>
-	<img src="../images/fig-1-A.svg" alt="The Apgar scoring sheet" />	
-	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
-</figure>
-```
-
-That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
-
 #### Cover images
 
 Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
@@ -164,12 +158,15 @@ Note that the `wrap-` classes make the text that *follows* the `<figure>` elemen
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * Do not use a colon `:` in the title you include in your YAML header (inside the `---`s at the tops of files). (Jekyll will bug out unsure if you're trying to map a second value to the YAML key.)
 * In lists, Kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
-* Add `{:.table-caption}` in the line immediately after a table caption. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. (Table captions must always appear above tables, not after them.)
 * To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills workshops are then `1A.md`, `1B.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
 
-### Reusing tests for Qurio
+### Live online tests
 
-We use [Qurio](http://qurio.co) for some of our quizzes. To turn our tests markup into [Qurio-importable quiz text](https://github.com/edgecampus/qurio-text-format), you just need to run a few search-and-replaces. Don't try to keep a copy of Qurio-importable text; that will create version-control issues. Just run these search-and-replaces quickly on the master markdown each time you revise a test on Qurio. You need to use regular expressions, so use a text editor that can do that (like Notepad++ or most code editors).
+We use [Qurio](http://qurio.co) and [Jotform](http://www.jotform.com) for live online quizzes.
+
+#### Creating tests with Qurio
+
+To turn our tests markup into [Qurio-importable quiz text](https://github.com/edgecampus/qurio-text-format), you just need to run a few search-and-replaces. Don't try to keep a copy of Qurio-importable text; that will create version-control issues. Just run these search-and-replaces quickly on the master markdown each time you revise a test on Qurio. You need to use regular expressions, so use a text editor that can do that (like Notepad++ or most code editors).
 
 1.	Remove the YAML header at the top (the part starting and ending with three hyphens), and the heading.
 2.	Change the list markers: search for tab-1-dot-tab and replace with tab-hyphen-space. Using regex: search for `\t1.\t` and replace with `\t-" "`
@@ -180,3 +177,26 @@ When you create a quiz on Qurio:
 
 *	For what we call 'pre tests' and 'post tests', use a Qurio 'quiz' (marks, results shown immediately). Distribution settings: anyone can answer, but they must be registered. Randomise answer order but not question order.
 *	For what we call an 'exam', use a Qurio 'test' (marks, send results manually). Distribution settings: anyone can answer, must be registered, randomise both questions and answers order, and set a time limit of one hour.
+
+#### Creating tests with Jotform
+
+*	In our Bettercare account on Jotform, clone the quiz's form template.
+*	Paste the questions and answers in.
+*	Check that the Thank You page points to [http://ls.bettercare.co.za/testing/results.php](http://ls.bettercare.co.za/testing/results.php)
+*	Open [http://quizform.jotform.io](http://quizform.jotform.io)
+	*	Authorise the app
+	*	Select the relevant form
+	*	In 'Options': 
+		*	Select send results, and set them to go to learningstation@bettercare.co.za
+		*	Select 'include correct answer'
+		*	Do *not* tick 'Show Results', since that will simply overwrite the results page URL in Jotform ([http://ls.bettercare.co.za/testing/results.php](http://ls.bettercare.co.za/testing/results.php)) incorrectly with the QuizForm default, and you'll have to resave [http://ls.bettercare.co.za/testing/results.php](http://ls.bettercare.co.za/testing/results.php) there.
+	*	Select the correct answers. Be *very careful* to get this right. It will be almost impossible to spot mistakes later.
+	*	The Quizform app will tick each MCQ as questions for scoring. In the unlikely event that you add or change questions in the Jotform form later, you may have to tick these new questions manually.
+
+To add the test to the book gGet the Jotform form ID from its URL (e.g. 43496817304561) and add to the chapter. Use this, changing form ID between the Jotform Liquid (curly braces) tags:
+
+```
+Take the chapter test before and after you read this chapter.
+
+{% include jotform-start.html %}43496817304561{% include jotform-end.html %}
+```
