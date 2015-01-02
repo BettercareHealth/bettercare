@@ -4,23 +4,30 @@ title: Copyright
 layout: frontmatter
 ---
 
-**Maternal Care**
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+**Maternal Care: A health professional’s guide to pregnancy and childbirth**
 
-Text © 
+First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Cover photograph © 
+*	Layout updated: 1 January 2015
+*	Updated: 11 August 2014
+*	Updated: 31 March 2014
+*	Updated: 15 August 2012
+*	Updated: 25 March 2011
+*	Layout updated: 1 August 2011
 
-Illustrations 
+Text © Perinatal Education Programme 2010
 
-Getup © Electric Book Works
+Getup © Electric Book Works 2010
 
-ISBN (print edition): 
+Illustrations by Anne Westoby
 
-ISBN (PDF edition): 
+ISBN (paperback): 978-1-920218-27-0
 
-ISBN (reflowable edition): 
+ISBN (PDF ebook): 978-1-920218-45-4
+
+ISBN (reflowable edition): TBC
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
