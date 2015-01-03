@@ -49,7 +49,7 @@ This is for Bettercare team members, but may contain useful tips to others worki
 ### Process
 
 1.	Open the InDesign file and copy all the text
-1.	Paste the text with formatting into your text editor.
+1.	Paste the text with formatting into your text editor. (Note: the suggested S&Rs here were tested in Notepad++, and may work differently in other editors.)
 1.	Search and replace (S&R) all line breaks with double line breaks:
 	* Tick 'Regular expression' (because you're using the regex \n to mean 'line break', not actually searching for the characters 'slash' and 'lowercase en').
 	* Find `\n`
@@ -57,10 +57,10 @@ This is for Bettercare team members, but may contain useful tips to others worki
 1.	Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
 	*	Find `\n\nnote\s`
 	*	Replace with `\n\nNote\n:\t`
-1.	Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level:
+1.	Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level. Using S&R, start with the h3 (article) heads, so that you can then navigate the doc easily by those numbers.
 	*	chapter title is h1 = `#`
 	*	subunit head is h2 = `##`
-	*	article head (question) is h3 = `###`. To S&R here, luckily all article heads start with the chapter number and a hyphen. So if you're working on chapter 3, find `\n\n3-` and replace with `\n\n### 3-`. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day...'
+	*	article head (question) is h3 = `###`. To S&R here, luckily all article heads start with the chapter number and a hyphen. So if you're working on chapter 3, find `\n\n3-` and replace with `\n\n### 3-`. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day…' or '2-hourly…' (these are real examples, it does happen!)
 1.	At the same time, you may want to:
 	*	manually create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists.
 	*	manually marking key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
@@ -180,6 +180,7 @@ When you create a quiz on Qurio:
 
 #### Creating tests with Jotform
 
+*	Sign in as Bettercare.
 *	In our Bettercare account on Jotform, clone the quiz's form template.
 *	Paste the questions and answers in.
 *	Check that the Thank You page points to [http://ls.bettercare.co.za/testing/results.php](http://ls.bettercare.co.za/testing/results.php)
@@ -193,7 +194,7 @@ When you create a quiz on Qurio:
 	*	Select the correct answers. Be *very careful* to get this right. It will be almost impossible to spot mistakes later.
 	*	The Quizform app will tick each MCQ as questions for scoring. In the unlikely event that you add or change questions in the Jotform form later, you may have to tick these new questions manually.
 
-To add the test to the book gGet the Jotform form ID from its URL (e.g. 43496817304561) and add to the chapter. Use this, changing form ID between the Jotform Liquid (curly braces) tags:
+To add the test to the book get the Jotform form ID from its URL (e.g. 43496817304561) and add to the chapter. Use this, changing form ID between the Jotform Liquid (curly braces) tags:
 
 ```
 Take the chapter test before and after you read this chapter.
