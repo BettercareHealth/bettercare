@@ -4,697 +4,384 @@ title: 1. Chapter title
 layout: scrub
 ---
 
-
-# Acknowledgements
-
-Maternal Care has been edited from the Maternal Care manual of the Perinatal Education Programme. This learning programme for professionals is developed by the Perinatal Education Trust and funded by Eduhealthcare.
-
-We acknowledge all the participants of the Perinatal Education Programme who have made suggestions and offered constructive criticism over the years. It is only through constant feedback from colleagues and participants that the content of the Perinatal Education Programme courses can be improved.
-
-Contributors to Maternal Care: Prof H van C de Groot, Dr D Greenfield, Ms H Louw, Ms M Petersen, Dr N Rhoda, Prof G Theron, Prof D Woods
-
-Bettercare would like to acknowledge Dr Kenneth Beviss-Challinor for his contribution towards the proofreading of this book.
-
-Editor-in-Chief of the Perinatal Education Programme: Prof D Woods
-
-Editor of Maternal Care: Prof G Theron
-
-
-
-
-
-Introduction
-
-About the Bettercare series
-
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation and the Desmond Tutu TB Centre, with contributions from numerous experts.
-
-Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can manage their own continuing education courses which will enable them to learn, practise and deliver skillful, efficient patient care.
-
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
-
-Why decentralised learning? 
-
-Continuing education for healthcare workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These teaching courses are expensive to attend, often far away from the healthcare workers’ families and places of work, and the content frequently fails to address the real healthcare requirements of the poor, rural communities who face the biggest healthcare challenges.
-
-To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in poor, rural communities.
-
-Books in the Bettercare series
-
-Maternal Care addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills workshops teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy.
-
-Maternal Care is aimed at healthcare workers in level 1 hospitals or clinics.
-
-Primary Maternal Care addresses the needs of healthcare workers who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory chapters and skills workshops from Maternal Care. This book is ideal for midwives and doctors providing primary maternal care in level 1 district hospitals and clinics, and complements the national protocol of antenatal care in South Africa.
-
-Intrapartum Care was developed for doctors and advanced midwives who care for women who deliver in district hospitals. It contains theory chapters and skills workshops adapted from the labour chapters of Maternal Care. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. Intrapartum Care was written to support and complement the national protocol of intrapartum care in South Africa.
-
-Newborn Care was written for healthcare workers providing special care for newborn infants in regional hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills workshops address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
-
-Primary Newborn Care was written specifically for nurses and doctors who provide primary care for newborn infants in level 1 clinics and hospitals. Primary Newborn Care addresses the care of infants at birth, care of normal infants, care of low-birth-weight infants, neonatal emergencies, and common minor problems in newborn infants.
-
-Mother and Baby Friendly Care describes gentler, kinder, evidence-based ways of caring for women during pregnancy, labour and delivery. It also presents improved methods of providing infant care with an emphasis on kangaroo mother care and exclusive breastfeeding.
-
-Saving Mothers and Babies was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
-
-Birth Defects was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa.
-
-Perinatal HIV enables midwives, nurses and doctors to care for pregnant women and their infants in communities where HIV infection is common. Special emphasis has been placed on the prevention of mother-to-infant transmission of HIV. It covers the basics of HIV infection and screening, antenatal and intrapartum care of women with HIV infection, care of HIV-exposed newborn infants, and parent counselling.
-
-Childhood HIV enables nurses and doctors to care for children with HIV infection. It addresses an introduction to HIV in children, the clinical and immunological diagnosis of HIV infection, management of children with and without antiretroviral treatment, antiretroviral drugs, opportunistic infections and end-of-life care.
-
-Childhood TB was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. Childhood TB was developed by paediatricians with wide experience in the care of children with tuberculosis, through the auspices of the Desmond Tutu Tuberculosis Centre at the University of Stellenbosch.
-
-Child Healthcare addresses all the common and important clinical problems in children, including immunisation, history and examination, growth and nutrition, acute and chronic infections, parasites, skin conditions, and difficulties in the home and society. Child Healthcare was developed for use in primary care settings.
-
-Childhood Critical Care (forthcoming) covers triage and resuscitation, oxygen therapy, fluid therapy, treating infection, common conditions, and critical care management.
-
-Adult HIV covers an introduction to HIV infection, management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to opportunistic infections. Adult HIV was developed by doctors and nurses with wide experience in the care of adults with HIV, through the auspices of the Desmond Tutu HIV Foundation at the University of Cape Town.
-
-Well Women was written for primary health workers who manage the everyday health needs of women. It covers reproductive health, family planning and infertility, common genital infections, vaginal bleeding, and the abuse of women.
-
-Breast Care was written for nurses and doctors who manage the health needs of women from childhood to old age. It covers the assessment and management of benign breast conditions, breast cancer and palliative care. 
-
-Infection Prevention and Control was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
-
-Format of the courses
-
-1. Objectives
-
-The learning objectives are clearly stated at the start of each chapter. They help the participant to identify and understand the important lessons to be learned.
-
-2. Pre- and post-tests
-
-There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter, to benchmark their current knowledge, and a post-test after each chapter, to assess what they have learned. 
-
-Self-assessment allows participants to monitor their own progress through the course.
-
-3. Question-and-answer format
-
-Theoretical knowledge is presented in a question-and-answer format, which encourages the learner to actively participate in the learning process. In this way, the participant is led step by step through the definitions, causes, diagnosis, prevention, dangers and management of a particular problem.
-
-Participants should cover the answer for a few minutes with a piece of paper while thinking about the correct reply to each question. This method helps learning. 
-
-Simplified flow diagrams are also used, where necessary, to indicate the correct approach to diagnosing or managing a particular problem. 
-
-Each question is written in bold, like this, and is identified with the number of the chapter, followed by the number of the question, e.g. 5-23.
-
-4. Important lessons
-
-Important practical lessons are emphasised like this.
-
-5. Notes
-
-Note
-:	Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice questions.
-
-6. Case studies
-
-Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned earlier in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital. The participant should attempt to answer each question in the case study before reading the correct answer. 
-
-7. Practical training
-
-Certain chapters contain skills workshops, which need to be practised by the participants (preferably in groups). The skills workshops, which are often illustrated with line drawings, list essential equipment and present step-by-step instructions on how to perform each task. If participants aren’t familiar with a practical skill, they are encouraged to ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues.
-
-8. Final examination
-
-On completion of each course, participants can take a 75-question multiple-choice examination.
-
-All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills workshops will not be included in the examination.
-
-Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. Bettercare courses are not yet accredited for nurses, but South African doctors can earn CPD points on the successful completion of an examination.
-
-Contributors
-
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
-
-Perinatal Education Trust
-
-Books developed by the Perinatal Education Programme are provided as cheaply as possible. Writing and updating the programme is both funded and managed on a non-profit basis by the Perinatal Education Trust.
-
-Eduhealthcare
-
-Eduhealthcare is a non-profit organisation based in South Africa. It aims to improve health and wellbeing, especially in poor communities, through affordable education for healthcare workers. To this end it provides financial support for the development and publishing of the Bettercare series.
-
-The Desmond Tutu HIV Foundation
-
-The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is a centre of excellence in HIV medicine, building capacity through training and enhancing knowledge through research.
-
-The Desmond Tutu Tuberculosis Centre
-
-The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
-
-Updating the course material
-
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
-
-Contact information
-
-Bettercare
-
-Website: www.bettercare.co.za 
-
-Email: info@bettercare.co.za
-
-Phone: +27 (0)21 671 1278
-
-Cell: 076 657 0353
-
-Fax: 086 219 8093
-
-Post: 3rd Floor, Sunclare Building, 21 Dreyer Street, Claremont, 7708
-
-Perinatal Education Programme
-
-Editor-in-Chief: Professor Dave Woods 
-
-Website: www.pepcourse.co.za
-
-Email: pepcourse@mweb.co.za
-
-Phone/fax: 021 786 5369
-
-Post: Perinatal Education Programme, 
-
-70 Dorries Drive, Simon’s Town, 7975
-
-Exams
-
-exams@bettercare.co.za
-
 1
+{:.chapter-number}
 
-Antenatal care
+# Antenatal care
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-List the goals of good antenatal care.
+*	List the goals of good antenatal care.
+*	Diagnose pregnancy.
+*	Know what history should be taken and examination done at the first visit.
+*	Determine the duration of pregnancy.
+*	List and assess the results of the side-room and screening tests needed at the first visit.
+*	Identify low-, intermediate- and high-risk pregnancies.
+*	Plan and provide antenatal care that is problem orientated.
+*	List what specific complications to look for at 28, 34 and 41 weeks.
+*	Provide health information during antenatal visits.
+*	Manage pregnant women with HIV infection.
 
-Diagnose pregnancy.
+## Goals of good antenatal care
 
-Know what history should be taken and examination done at the first visit.
-
-Determine the duration of pregnancy.
-
-List and assess the results of the side-room and screening tests needed at the first visit.
-
-Identify low-, intermediate- and high-risk pregnancies.
-
-Plan and provide antenatal care that is problem orientated.
-
-List what specific complications to look for at 28, 34 and 41 weeks.
-
-Provide health information during antenatal visits.
-
-Manage pregnant women with HIV infection.
-
-Goals of good antenatal care
-
-1-1 What are the aims and principles of good antenatal care?
+### 1-1 What are the aims and principles of good antenatal care?
 
 The aims of good antenatal care are to ensure that pregnancy causes no harm to the mother and to keep the fetus healthy during the antenatal period. In addition, the opportunity must be taken to provide health education. These aims can usually be achieved by the following:
 
-Antenatal care must follow a definite plan.
-
-Antenatal care must be problem oriented.
-
-Possible complications and risk factors that may occur at a particular gestational age must be looked for at these visits.
-
-The fetal condition must be repeatedly assessed.
-
-Healthcare education must be provided.
+1. Antenatal care must follow a definite plan.
+2. Antenatal care must be problem oriented.
+3. Possible complications and risk factors that may occur at a particular gestational age must be looked for at these visits.
+4. The fetal condition must be repeatedly assessed.
+5. Healthcare education must be provided.
 
 All information relating to the pregnancy must be entered on a patient-held antenatal card. The antenatal card can also serve as a referral letter if a patient is referred to the next level of care and therefore serves as a link between the different levels of care as well as the antenatal clinic and labour ward.
 
-The antenatal card is an important source of information during the antenatal period and labour.
+> The antenatal card is an important source of information during the antenatal period and labour.
 
-Diagnosing pregnancy
+## Diagnosing pregnancy
 
-1-2 How can you confirm that a patient is pregnant?
+### 1-2 How can you confirm that a patient is pregnant?
 
 The common symptoms of pregnancy are amenorrhoea (no menstruation), nausea, breast tenderness and urinary frequency. If the history suggests that a patient is pregnant, the diagnosis is easily confirmed by testing the urine with a standard pregnancy test. The test becomes positive by the time the first menstrual period is missed.
 
 A positive pregnancy test is produced by both an intra-uterine and an extra-uterine pregnancy. Therefore, it is important to establish whether the pregnancy is intra-uterine or not.
 
-Confirm that the patient is pregnant before beginning antenatal care.
+> Confirm that the patient is pregnant before beginning antenatal care.
 
-1-3 How do you diagnose an intra-uterine pregnancy?
+### 1-3 How do you diagnose an intra-uterine pregnancy?
 
 The characteristics of an intra-uterine pregnancy are:
 
-The size of the uterus is appropriate for the duration of pregnancy.
+1.	The size of the uterus is appropriate for the duration of pregnancy.
+2.	There is no lower abdominal pain or vaginal bleeding.
+3.	There is no tenderness of the lower abdomen.
 
-There is no lower abdominal pain or vaginal bleeding.
-
-There is no tenderness of the lower abdomen.
-
-1-4 How do you diagnose an extra-uterine pregnancy?
+### 1-4 How do you diagnose an extra-uterine pregnancy?
 
 The characteristics of an extra-uterine (ectopic) pregnancy are:
 
-The uterus is smaller than expected for the duration of pregnancy.
+1.	The uterus is smaller than expected for the duration of pregnancy.
+2.	Lower abdominal pain and vaginal bleeding are usually present.
+3.	Tenderness over the lower abdomen is usually present.
 
-Lower abdominal pain and vaginal bleeding are usually present.
-
-Tenderness over the lower abdomen is usually present.
-
-The first antenatal visit
+## The first antenatal visit
 
 This visit is usually the patient’s first contact with medical services during her pregnancy. She must be treated with kindness and understanding in order to gain her confidence and to ensure her future co-operation and regular attendance. This opportunity must be taken to book the patient for antenatal care and thereby ensure the early detection and management of treatable complications.
 
-1-5 At what gestational age (duration of pregnancy) should a patient first attend an antenatal clinic?
+### 1-5 At what gestational age (duration of pregnancy) should a patient first attend an antenatal clinic?
 
 As early as possible, preferably when the second menstrual period has been missed, i.e. at a gestational age of 8 weeks. Note that for practical reasons the gestational age is measured from the first day of the last normal menstrual period. Antenatal care should start at the time that the pregnancy is confirmed.
 
-It is important that all pregnant women book for antenatal care as early as possible.
+> It is important that all pregnant women book for antenatal care as early as possible.
 
-1-6 What are the aims of the first antenatal visit?
+### 1-6 What are the aims of the first antenatal visit?
 
-A full history must be taken.
+1.	A full history must be taken.
+2.	A full physical examination must be done.
+3.	The duration of pregnancy must be established.
+4.	Important screening tests must be done.
+5.	Some high-risk patients can be identified.
 
-A full physical examination must be done.
-
-The duration of pregnancy must be established.
-
-Important screening tests must be done.
-
-Some high-risk patients can be identified.
-
-1-7 What history should be taken?
+### 1-7 What history should be taken?
 
 A full history, containing the following:
 
-The previous obstetric history.
+1.	The previous obstetric history.
+2.	The present obstetric history.
+3.	A medical history.
+4.	HIV status.
+5.	History of medication and allergies.
+6.	A surgical history.
+7.	A family history.
+8.	The social circumstances of the patient.
 
-The present obstetric history.
+### 1-8 What is important in the previous obstetric history?
 
-A medical history.
+1.	Establish the number of pregnancies (gravidity), the number of previous pregnancies reaching viability (parity) and the number of miscarriages and ectopic pregnancies that the patient may have had. This information may reveal the following important factors:
+	*	Grande multiparity (i.e. five or more pregnancies which have reached viability).
+	*	Miscarriages: 3 or more successive first-trimester miscarriages suggest a possible genetic abnormality in the father or mother. A previous midtrimester miscarriage suggests a possible incompetent internal cervical os.
+	*	Ectopic pregnancy: ensure that the present pregnancy is intra-uterine.
+	*	Multiple pregnancy: non-identical twins tend to recur.
+2.	The birth weight, gestational age, and method of delivery of each previous infant as well as of previous perinatal deaths are important.
+	*	Previous low-birth-weight infants or spontaneous preterm labours tend to recur.
+	*	Previous large infants (4 kg or more) suggest maternal diabetes.
+	*	The type of previous delivery is also important: a forceps delivery or vacuum extraction may suggest that a degree of cephalopelvic disproportion had been present. If the patient had a previous Caesarean section, the indication for the Caesarean section must be determined.
+	*	The type of incision in the uterus is also important (this information must be obtained from the patient’s folder) as only patients with a transverse lower segment incision should be considered for a possible vaginal delivery.
+	*	Having had one or more perinatal deaths places the patient at high risk of further perinatal deaths. Therefore, every effort must be made to find out the cause of any previous deaths. If no cause can be found, then the risk of a recurrence of perinatal death is even higher.
+3.	Previous complications of pregnancy or labour.
+	*	In the antenatal period, e.g. pre-eclampsia, preterm labour, diabetes, and antepartum haemorrhage. Patients who develop pre-eclampsia before 34 weeks gestation have a greater risk of pre-eclampsia in further pregnancies.
+	*	First stage of labour, e.g. a long labour.
+	*	Second stage of labour, e.g. impacted shoulders.
+	*	Third stage of labour, e.g. a retained placenta or a postpartum haemorrhage.
 
-HIV status.
+> Complications in previous pregnancies tend to recur in subsequent pregnancies. Therefore, patients with a previous perinatal death are at high risk of another perinatal death, while patients with a previous spontaneous preterm labour are at high risk of preterm labour in their next pregnancy.
 
-History of medication and allergies.
+### 1-9 What information should be asked for when taking the present obstetric history?
 
-A surgical history.
+1.	The first day of the last normal menstrual period must be determined as accurately as possible.
+2.	Any medical or obstetric problems which the patient has had since the start of this pregnancy, for example:
+	*	Pyrexial illnesses (such as influenza) with or without skin rashes.
+	*	Symptoms of a urinary tract infection.
+	*	Any vaginal bleeding.
+3.	Attention must be given to minor symptoms which the patient may experience during her present pregnancy, for example:
+	*	Nausea and vomiting.
+	*	Heartburn.
+	*	Constipation.
+	*	Oedema of the ankles and hands.
+4.	Is the pregnancy planned and wanted, and was there a period of infertility before she became pregnant?
+5.	If the patient is already in the third trimester of her pregnancy, attention must be given to the condition of the fetus.
 
-A family history.
+### 1-10 What important facts must be considered when determining the date of the last menstrual period?
 
-The social circumstances of the patient.
+1.	The date should be used to measure the duration of the pregnancy only if the patient had a regular menstrual cycle.
+2.	Were the date of onset and the duration of the last period normal? If the last period was shorter in duration and earlier in onset than usual, it may have been an implantation bleed. Then the previous period must be used to determine the duration of pregnancy.
+3.	Patients on oral or injectable contraception must have menstruated spontaneously after stopping contraception, otherwise the date of the last period should not be used to measure the duration of pregnancy.
 
-1-8 What is important in the previous obstetric history?
-
-Establish the number of pregnancies (gravidity), the number of previous pregnancies reaching viability (parity) and the number of miscarriages and ectopic pregnancies that the patient may have had. This information may reveal the following important factors:
-
-Grande multiparity (i.e. five or more pregnancies which have reached viability).
-
-Miscarriages: 3 or more successive first-trimester miscarriages suggest a possible genetic abnormality in the father or mother. A previous midtrimester miscarriage suggests a possible incompetent internal cervical os.
-
-Ectopic pregnancy: ensure that the present pregnancy is intra-uterine.
-
-Multiple pregnancy: non-identical twins tend to recur.
-
-The birth weight, gestational age, and method of delivery of each previous infant as well as of previous perinatal deaths are important.
-
-Previous low-birth-weight infants or spontaneous preterm labours tend to recur.
-
-Previous large infants (4 kg or more) suggest maternal diabetes.
-
-The type of previous delivery is also important: a forceps delivery or vacuum extraction may suggest that a degree of cephalopelvic disproportion had been present. If the patient had a previous Caesarean section, the indication for the Caesarean section must be determined.
-
-The type of incision in the uterus is also important (this information must be obtained from the patient’s folder) as only patients with a transverse lower segment incision should be considered for a possible vaginal delivery.
-
-Having had  or more perinatal deaths places the patient at high risk of further perinatal deaths. Therefore, every effort must be made to find out the cause of any previous deaths. If no cause can be found, then the risk of a recurrence of perinatal death is even higher.
-
-Previous complications of pregnancy or labour.
-
-In the antenatal period, e.g. pre-eclampsia, preterm labour, diabetes, and antepartum haemorrhage. Patients who develop pre-eclampsia before 34 weeks gestation have a greater risk of pre-eclampsia in further pregnancies.
-
-First stage of labour, e.g. a long labour.
-
-Second stage of labour, e.g. impacted shoulders.
-
-Third stage of labour, e.g. a retained placenta or a postpartum haemorrhage.
-
-Complications in previous pregnancies tend to recur in subsequent pregnancies. Therefore, patients with a previous perinatal death are at high risk of another perinatal death, while patients with a previous spontaneous preterm labour are at high risk of preterm labour in their next pregnancy.
-
-1-9 What information should be asked for when taking the present obstetric history?
-
-The first day of the last normal menstrual period must be determined as accurately as possible.
-
-Any medical or obstetric problems which the patient has had since the start of this pregnancy, for example:
-
-Pyrexial illnesses (such as influenza) with or without skin rashes.
-
-Symptoms of a urinary tract infection.
-
-Any vaginal bleeding.
-
-Attention must be given to minor symptoms which the patient may experience during her present pregnancy, for example:
-
-Nausea and vomiting.
-
-Heartburn.
-
-Constipation.
-
-Oedema of the ankles and hands.
-
-Is the pregnancy planned and wanted, and was there a period of infertility before she became pregnant?
-
-If the patient is already in the third trimester of her pregnancy, attention must be given to the condition of the fetus.
-
-1-10 What important facts must be considered when determining the date of the last menstrual period?
-
-The date should be used to measure the duration of the pregnancy only if the patient had a regular menstrual cycle.
-
-Were the date of onset and the duration of the last period normal? If the last period was shorter in duration and earlier in onset than usual, it may have been an implantation bleed. Then the previous period must be used to determine the duration of pregnancy.
-
-Patients on oral or injectable contraception must have menstruated spontaneously after stopping contraception, otherwise the date of the last period should not be used to measure the duration of pregnancy.
-
-1-11 Why is the medical history important?
+### 1-11 Why is the medical history important?
 
 Some medical conditions may become worse during pregnancy, e.g. a patient with heart valve disease may go into cardiac failure while a hypertensive patient is at high risk of developing pre-eclampsia.
 
 Ask the patient if she has had any of the following:
 
-Hypertension.
-
-Diabetes mellitus.
-
-Rheumatic or other heart disease.
-
-Epilepsy.
-
-Asthma.
-
-Tuberculosis.
-
-Psychiatric illness.
-
-Any other major illness.
+1.	Hypertension.
+2.	Diabetes mellitus.
+3.	Rheumatic or other heart disease.
+4.	Epilepsy.
+5.	Asthma.
+6.	Tuberculosis.
+7.	Psychiatric illness.
+8.	Any other major illness.
 
 It is important to ask whether the patient knows her HIV status.  If she had an HIV test, both the date and result need to be noted.  If she is HIV positive, record whether she is on ARV treatment and which drugs she is taking. If she is not on ARV treatment, note whether she knows her CD4 count and when it was done.
 
-1-12 Why is it important to ask about any medication taken and a history of allergy?
+### 1-12 Why is it important to ask about any medication taken and a history of allergy?
 
-Ask about the regular use of any medication. This is often a pointer to an illness not mentioned in the medical history.
+1.	Ask about the regular use of any medication. This is often a pointer to an illness not mentioned in the medical history.
+2.	Certain drugs, such as retinoids which are used for acne, and efavirenz (Stocrin) which is used in ARV treatment, can be teratogenic (damaging to the fetus) during the first trimester of pregnancy.
+3.	Some drugs, such as Warfarin, can be dangerous to the fetus if they are taken close to term.
+4.	Allergies are also important and the patient must be specifically asked if she is allergic to penicillin.
 
-Certain drugs, such as retinoids which are used for acne, and efavirenz (Stocrin) which is used in ARV treatment, can be teratogenic (damaging to the fetus) during the first trimester of pregnancy.
+### 1-13 What previous operations may be important?
 
-Some drugs, such as Warfarin, can be dangerous to the fetus if they are taken close to term.
+1.	Operations on the urogenital tract, e.g. Caesarean section, myomectomy, a cone biopsy of the cervix, operations for stress incontinence, and vesicovaginal fistula repair.
+2.	Cardiac surgery, e.g. heart valve replacement.
 
-Allergies are also important and the patient must be specifically asked if she is allergic to penicillin.
-
-1-13 What previous operations may be important?
-
-Operations on the urogenital tract, e.g. Caesarean section, myomectomy, a cone biopsy of the cervix, operations for stress incontinence, and vesicovaginal fistula repair.
-
-Cardiac surgery, e.g. heart valve replacement.
-
-1-14 Why is the family history important?
+### 1-14 Why is the family history important?
 
 Close family members with a condition such as diabetes, multiple pregnancy, bleeding tendencies or mental retardation increases the risk of these conditions in the patient and her unborn infant. Some birth defects are inherited.
 
-1-15 Why is information about the patient’s social circumstances very important?
+### 1-15 Why is information about the patient’s social circumstances very important?
 
-Ask if the woman smokes cigarettes or drinks alcohol. Smoking may cause intra-uterine growth restriction (fetal growth restriction) while alcohol may cause both intra-uterine growth restriction and congenital malformations.
+1.	Ask if the woman smokes cigarettes or drinks alcohol. Smoking may cause intra-uterine growth restriction (fetal growth restriction) while alcohol may cause both intra-uterine growth restriction and congenital malformations.
+2.	An unmarried mother may need help to plan for the care of her infant.
+3.	Unemployment, poor housing, and overcrowding increase the risk of tuberculosis, malnutrition, and intra-uterine growth restriction. Patients living in poor social conditions need special support and help.
 
-An unmarried mother may need help to plan for the care of her infant.
+### 1-16 To which systems must you pay particular attention when doing a physical examination?
 
-Unemployment, poor housing, and overcrowding increase the risk of tuberculosis, malnutrition, and intra-uterine growth restriction. Patients living in poor social conditions need special support and help.
+1.	The general appearance of the patient is of great importance as it can indicate whether or not she is in good health.
+2.	A woman’s height and weight may reflect her past and present nutritional status.
+3.	In addition, the following systems or organs must be carefully examined:
+	*	The thyroid gland.
+	*	The breasts.
+	*	Lymph nodes in the neck, axillae (armpits) and inguinal areas.
+	*	The respiratory system.
+	*	The cardiovascular system.
+	*	The abdomen.
+	*	Both external and internal genitalia.
 
-1-16 To which systems must you pay particular attention when doing a physical examination?
+### 1-17 What is important in the examination of the thyroid gland?
 
-The general appearance of the patient is of great importance as it can indicate whether or not she is in good health.
+1.	A thyroid gland which is visibly enlarged is possibly abnormal and must be examined by a doctor.
+2.	A thyroid gland which on palpation is only slightly diffusely enlarged is normal in pregnancy.
+3.	An obviously enlarged gland, a single palpable nodule, or a nodular goitre is abnormal and needs further investigation.
 
-A woman’s height and weight may reflect her past and present nutritional status.
+### 1-18 What is important in the examination of the breasts?
 
-In addition, the following systems or organs must be carefully examined:
+1.	Inverted or flat nipples must be diagnosed and treated so that the patient will be more likely to breastfeed successfully.
+2.	A breast lump or a blood-stained discharge from the nipple must be investigated further as it may indicate the presence of a tumour.
+3.	Whenever possible, patients should be advised and encouraged to breastfeed. Teaching the advantages of breastfeeding is an essential part of antenatal care and must be emphasised in the following groups of women:
+	*	HIV-negative women.
+	*	Women with unknown HIV status.
+	*	HIV-positive women who have elected to exclusively breastfeed.
 
-The thyroid gland.
+### 1-19 What is important in the examination of the respiratory and cardiovascular systems?
 
-The breasts.
+1.	Look for any signs which suggest that the patient has difficulty breathing (dyspnoea).
+2.	The blood pressure must be measured and the pulse rate counted.
 
-Lymph nodes in the neck, axillae (armpits) and inguinal areas.
+### 1-20 How do you examine the abdomen at the booking visit?
 
-The respiratory system.
+1.	The abdomen is palpated (felt) for enlarged organs or masses.
+2.	The height of the fundus above the symphysis pubis is measured.
 
-The cardiovascular system.
+### 1-21 What must be looked for when the external and internal genitalia are examined?
 
-The abdomen.
+1.	Signs of sexually transmitted diseases which may present as single or multiple ulcers, a purulent discharge or enlarged inguinal lymph nodes.
+2.	Carcinoma of the cervix is the commonest form of cancer in most communities. Advanced stages of this disease present as a wart-like growth or an ulcer on the cervix. A cervix which looks normal does not exclude the possibility of an early cervical carcinoma.
 
-Both external and internal genitalia.
+### 1-22 When must a cervical smear be taken when examining the internal genitalia (gynaecological examination)?
 
-1-17 What is important in the examination of the thyroid gland?
+1.	All patients aged 30 years or more who have not previously had a cervical smear that was reported as normal.
+2.	All patients who have previously had a cervical smear that was reported as abnormal.
+3.	All patients who have a cervix that looks abnormal.
+4.	All HIV-positive patients who did not have a cervical smear reported as normal within the last year.
 
-A thyroid gland which is visibly enlarged is possibly abnormal and must be examined by a doctor.
+> A cervix that looks normal may have an early carcinoma.
 
-A thyroid gland which on palpation is only slightly diffusely enlarged is normal in pregnancy.
-
-An obviously enlarged gland, a single palpable nodule, or a nodular goitre is abnormal and needs further investigation.
-
-1-18 What is important in the examination of the breasts?
-
-Inverted or flat nipples must be diagnosed and treated so that the patient will be more likely to breastfeed successfully.
-
-A breast lump or a blood-stained discharge from the nipple must be investigated further as it may indicate the presence of a tumour.
-
-Whenever possible, patients should be advised and encouraged to breastfeed. Teaching the advantages of breastfeeding is an essential part of antenatal care and must be emphasised in the following groups of women:
-
-HIV-negative women.
-
-Women with unknown HIV status.
-
-HIV-positive women who have elected to exclusively breastfeed.
-
-1-19 What is important in the examination of the respiratory and cardiovascular systems?
-
-Look for any signs which suggest that the patient has difficulty breathing (dyspnoea).
-
-The blood pressure must be measured and the pulse rate counted.
-
-1-20 How do you examine the abdomen at the booking visit?
-
-The abdomen is palpated (felt) for enlarged organs or masses.
-
-The height of the fundus above the symphysis pubis is measured.
-
-1-21 What must be looked for when the external and internal genitalia are examined?
-
-Signs of sexually transmitted diseases which may present as single or multiple ulcers, a purulent discharge or enlarged inguinal lymph nodes.
-
-Carcinoma of the cervix is the commonest form of cancer in most communities. Advanced stages of this disease present as a wart-like growth or an ulcer on the cervix. A cervix which looks normal does not exclude the possibility of an early cervical carcinoma.
-
-1-22 When must a cervical smear be taken when examining the internal genitalia (gynaecological examination)?
-
-All patients aged 30 years or more who have not previously had a cervical smear that was reported as normal.
-
-All patients who have previously had a cervical smear that was reported as abnormal.
-
-All patients who have a cervix that looks abnormal.
-
-All HIV-positive patients who did not have a cervical smear reported as normal within the last year.
-
-A cervix that looks normal may have an early carcinoma.
-
-Determining the duration of pregnancy
+## Determining the duration of pregnancy
 
 All available information is now used to assess the duration of pregnancy as accurately as possible:
 
-Last normal menstrual period.
+1.	Last normal menstrual period.
+2.	Size of the uterus on bimanual or abdominal examination up to 18 weeks.
+3.	Height of the fundus at or after 18 weeks.
+4.	The result of an ultrasound examination (ultrasonology).
 
-Size of the uterus on bimanual or abdominal examination up to 18 weeks.
+> An accurate assessment of the duration of pregnancy is of great importance, especially if the woman develops complications later in her pregnancy.
 
-Height of the fundus at or after 18 weeks.
-
-The result of an ultrasound examination (ultrasonology).
-
-An accurate assessment of the duration of pregnancy is of great importance, especially if the woman develops complications later in her pregnancy.
-
-1-23 When is the duration of pregnancy calculated from the last normal menstrual period?
+### 1-23 When is the duration of pregnancy calculated from the last normal menstrual period?
 
 When there is certainty about the accuracy of the dates of the last normal menstrual period. The duration of pregnancy is then calculated from the first day of that period.
 
-1-24 How does the size of the uterus indicate the duration of pregnancy?
+### 1-24 How does the size of the uterus indicate the duration of pregnancy?
 
-Up to 12 weeks the size of the uterus, assessed by bimanual examination, is a reasonably accurate method of determining the duration of pregnancy. Therefore, if there is uncertainty about the duration of pregnancy before 12 weeks the patient should be referred for a bimanual examination.
+1.	Up to 12 weeks the size of the uterus, assessed by bimanual examination, is a reasonably accurate method of determining the duration of pregnancy. Therefore, if there is uncertainty about the duration of pregnancy before 12 weeks the patient should be referred for a bimanual examination.
+2.	From 13 to 17 weeks, when the fundus of the uterus is still below the umbilicus, the abdominal examination is the most accurate method of determining the duration of pregnancy.
+3.	From 18 weeks, the symphysis-fundus height measurement is the more accurate method.
 
-From 13 to 17 weeks, when the fundus of the uterus is still below the umbilicus, the abdominal examination is the most accurate method of determining the duration of pregnancy.
+### 1-25 How should you determine the duration of pregnancy if the uterine size and the menstrual dates do not indicate the same gestational age?
 
-From 18 weeks, the symphysis-fundus height measurement is the more accurate method.
+1.	If the fundus is below the umbilicus (in other words, the patient is less than 22 weeks pregnant).
+	*	If the dates and the uterine size differ by 3 weeks or more, the uterine size should be considered as the more accurate indicator of the duration of pregnancy.
+	*	If the dates and the uterine size differ by less than 3 weeks, the dates are more likely to be correct.
+2.	If the fundus is at or above the umbilicus (in other words, the patient is 22 weeks or more pregnant).
+	*	If the dates and the uterine size differ by 4 weeks or more, the uterine size should be considered as the more accurate indicator of the duration of pregnancy.
+	*	If the dates and the uterine size differ by less than 4 weeks, the dates are more likely to be correct.
 
-1-25 How should you determine the duration of pregnancy if the uterine size and the menstrual dates do not indicate the same gestational age?
-
-If the fundus is below the umbilicus (in other words, the patient is less than 22 weeks pregnant).
-
-If the dates and the uterine size differ by 3 weeks or more, the uterine size should be considered as the more accurate indicator of the duration of pregnancy.
-
-If the dates and the uterine size differ by less than 3 weeks, the dates are more likely to be correct.
-
-If the fundus is at or above the umbilicus (in other words, the patient is 22 weeks or more pregnant).
-
-If the dates and the uterine size differ by 4 weeks or more, the uterine size should be considered as the more accurate indicator of the duration of pregnancy.
-
-If the dates and the uterine size differ by less than 4 weeks, the dates are more likely to be correct.
-
-1-26 How should you use the symphysis-fundus height measurement to determine the duration of pregnancy?
+### 1-26 How should you use the symphysis-fundus height measurement to determine the duration of pregnancy?
 
 From 18 weeks gestation, the symphysis-fundus (s-f) height measurement in cm is plotted on the 50th centile of the s-f growth curve to determine the duration of pregnancy. For example, a s-f measurement of 26 cm corresponds to a gestation of 27 weeks.
 
-A difference between the gestational age according to the menstrual dates and the size of the uterus is usually the result of incorrect dates.
+> A difference between the gestational age according to the menstrual dates and the size of the uterus is usually the result of incorrect dates.
 
-1-27 What conditions other than incorrect menstrual dates cause a difference between the duration of pregnancy calculated from menstrual dates and the size of the uterus?
+### 1-27 What conditions other than incorrect menstrual dates cause a difference between the duration of pregnancy calculated from menstrual dates and the size of the uterus?
 
-A uterus bigger than dates suggests:
+1.	A uterus bigger than dates suggests:
+	*	Multiple pregnancy.
+	*	Polyhydramnios.
+	*	A fetus which is large for the gestational age.
+	*	Diabetes mellitus.
+2.	A uterus smaller than dates suggests:
+	*	Intra-uterine growth restriction.
+	*	Oligohydramnios.
+	*	Intra-uterine death.
+	*	Rupture of the membranes.
 
-Multiple pregnancy.
+## Side-room and special screening investigations
 
-Polyhydramnios.
+### 1-28 Which side-room examinations must be done routinely?
 
-A fetus which is large for the gestational age.
+1.	A haemoglobin estimation at the first antenatal visit and again at 28 and 36 weeks.
+2.	A urine test for protein and glucose is done at every visit.
 
-Diabetes mellitus.
+### 1-29 What special screening investigations should be done routinely?
 
-A uterus smaller than dates suggests:
-
-Intra-uterine growth restriction.
-
-Oligohydramnios.
-
-Intra-uterine death.
-
-Rupture of the membranes.
-
-Side-room and special screening investigations
-
-1-28 Which side-room examinations must be done routinely?
-
-A haemoglobin estimation at the first antenatal visit and again at 28 and 36 weeks.
-
-A urine test for protein and glucose is done at every visit.
-
-1-29 What special screening investigations should be done routinely?
-
-A laboratory serological screening test for syphilis such as a VDRL, RPR or TPHA test. An on-site RPR card test or syphilis rapid test can be performed in the clinic, if a laboratory is not within easy reach of the hospital or clinic.
-
-Determining whether the patient’s blood group is Rh positive or negative. A Rh card test can be done in the clinic.
-
-A rapid HIV screening test after health worker initiated counselling and preferably after written consent.
-
-A smear of the cervix for cytology if it is indicated.
-
-If possible, all patients should have a midstream urine specimen examined for asymptomatic bacteriuria. The best test is bacterial culture of the urine.
-
-Where possible, an ultrasound examination when the patient is 18–22 weeks pregnant can be arranged
+1.	A laboratory serological screening test for syphilis such as a VDRL, RPR or TPHA test. An on-site RPR card test or syphilis rapid test can be performed in the clinic, if a laboratory is not within easy reach of the hospital or clinic.
+2.	Determining whether the patient’s blood group is Rh positive or negative. A Rh card test can be done in the clinic.
+3.	A rapid HIV screening test after health worker initiated counselling and preferably after written consent.
+4.	A smear of the cervix for cytology if it is indicated.
+5.	If possible, all patients should have a midstream urine specimen examined for asymptomatic bacteriuria. The best test is bacterial culture of the urine.
+6.	Where possible, an ultrasound examination when the patient is 18–22 weeks pregnant can be arranged
 
 Note
 :	Ultrasound screening at 11 to 13 weeks for nuchal thickness, or the triple test, is very useful in screening for Down syndrome and other chromosomal abnormalities. Written informed consent for HIV testing is not a legal requirement in South Africa, but recommended as good practice.
 
-1-30 Is it necessary to do an ultrasound examination on all patients who book early enough for antenatal care?
+### 1-30 Is it necessary to do an ultrasound examination on all patients who book early enough for antenatal care?
 
 With well-trained ultrasonographers and adequate ultrasound equipment, it is of great value to:
 
-Accurately determine the gestational age if the first ultrasound examination is done at 24 weeks or less. With uncertain gestational age the fundal height will measure less than 24 cm.
-
-Diagnose multiple pregnancies early.
-
-Identify the site of the placenta.
-
-Diagnose severe congenital abnormalities.
+1.	Accurately determine the gestational age if the first ultrasound examination is done at 24 weeks or less. With uncertain gestational age the fundal height will measure less than 24 cm.
+2.	Diagnose multiple pregnancies early.
+3.	Identify the site of the placenta.
+4.	Diagnose severe congenital abnormalities.
 
 If it is not possible to provide ultrasound examinations to all antenatal patients before 24 weeks gestation, the following groups of patients may benefit greatly from the additional information which may be obtained:
 
-Patients with a gestational age of 14 to 16 weeks:
+1.	Patients with a gestational age of 14 to 16 weeks:
+	*	Patients aged 37 years or more because of their increased risk of having a fetus with a chromosomal abnormality (especially Down syndrome). A patient who would agree to termination of pregnancy if the fetus was abnormal, should be referred for amniocentesis.
+	*	Patients with a previous history or family history of congenital abnormalities. The nearest hospital with a genetic service should be contacted to determine the need for amniocentesis.
+2.	Patients with a gestational age of 18 to 22 weeks:
+	*	Patients needing elective delivery (e.g. those with two previous Caesarean sections, a previous perinatal death, a previous vertical uterine incision or hysterotomy, and diabetes).
+	*	Gross obesity when it is often difficult to determine the duration of pregnancy.
+	*	Previous severe pre-eclampsia or preterm labour before 34 weeks. As there is a high risk of recurrence of either complication, accurate determination of the duration of pregnancy greatly helps in the management of these patients.
+	*	Rhesus sensitisation where accurate determination of the duration of pregnancy helps in the management of the patient.
 
-Patients aged 37 years or more because of their increased risk of having a fetus with a chromosomal abnormality (especially Down syndrome). A patient who would agree to termination of pregnancy if the fetus was abnormal, should be referred for amniocentesis.
+> An ultrasound examination done after 24 weeks is too unreliable to be used to estimate the duration of pregnancy.
 
-Patients with a previous history or family history of congenital abnormalities. The nearest hospital with a genetic service should be contacted to determine the need for amniocentesis.
-
-Patients with a gestational age of 18 to 22 weeks:
-
-Patients needing elective delivery (e.g. those with two previous Caesarean sections, a previous perinatal death, a previous vertical uterine incision or hysterotomy, and diabetes).
-
-Gross obesity when it is often difficult to determine the duration of pregnancy.
-
-Previous severe pre-eclampsia or preterm labour before 34 weeks. As there is a high risk of recurrence of either complication, accurate determination of the duration of pregnancy greatly helps in the management of these patients.
-
-Rhesus sensitisation where accurate determination of the duration of pregnancy helps in the management of the patient.
-
-An ultrasound examination done after 24 weeks is too unreliable to be used to estimate the duration of pregnancy.
-
-1-31 What is the assessment of risk after booking the patient?
+### 1-31 What is the assessment of risk after booking the patient?
 
 Once the patient has been booked for antenatal care, it must be assessed whether she or her fetus have complications or risk factors present, as this will decide when she should be seen again. At the first visit some patients should already be placed in a high-risk category.
 
-1-32 If no risk factors are found at the booking visit, when should the patient be seen again?
+### 1-32 If no risk factors are found at the booking visit, when should the patient be seen again?
 
 She should be seen again when the results of the screening tests are available, preferably 2 weeks after the booking visit. However, if no risk factors were noted and the screening tests were normal the second visit is omitted.
 
-1-33 If there are risk factors noted at the booking visit, when should the patient be seen again?
+### 1-33 If there are risk factors noted at the booking visit, when should the patient be seen again?
 
-A patient with an underlying illness must be admitted for further investigation and treatment.
+1.	A patient with an underlying illness must be admitted for further investigation and treatment.
+2.	A patient with a risk factor is followed up sooner if necessary:
+	*	The management of a patient with chronic hypertension would be planned and the patient would be seen a week later.
+	*	An HIV-positive patient with an unknown CD4 count must be seen a week later to assess the state of her immune system.
 
-A patient with a risk factor is followed up sooner if necessary:
-
-The management of a patient with chronic hypertension would be planned and the patient would be seen a week later.
-
-An HIV-positive patient with an unknown CD4 count must be seen a week later to assess the state of her immune system.
-
-1-34 How should you list risk factors?
+### 1-34 How should you list risk factors?
 
 All risk factors must be entered on the problem list on the back of the antenatal card. The gestational age when management is needed should be entered opposite the gestational age at the top of the card, e.g. vaginal examination must be done at each visit from 26 to 32 weeks if there is a risk of preterm labour.
 
 The clinic checklist (Figure 1-3) for the first visit could now be completed. If all the open blocks for the first visit can be ticked off, the visit is completed and all important points have been addressed. The checklist should again be used during further visits to make sure that all problems have been considered (i.e. it should be used as a quality control tool).
 
-The second antenatal visit
+## The second antenatal visit
 
-1-35 What are the aims of the second antenatal visit?
+### 1-35 What are the aims of the second antenatal visit?
 
 If the results of the screening tests were not available by the end of the first antenatal visit, a second visit should be arranged 2 weeks later. The aims of this second visit are:
 
-To review and act on the results of the special screening investigations done at the booking visit.
-
-To perform the second assessment for risk factors.
+1.	To review and act on the results of the special screening investigations done at the booking visit.
+2.	To perform the second assessment for risk factors.
 
 If possible, all the results of the screening tests should be obtained at the first visit.
 
-Assessing the results of the special screening investigations
+## Assessing the results of the special screening investigations
 
-1-36 How should you interpret the results of the VDRL or RPR screening tests for syphilis?
+### 1-36 How should you interpret the results of the VDRL or RPR screening tests for syphilis?
 
 The correct interpretation of the results is of the greatest importance:
 
-If either the VDRL (Venereal Disease Research Laboratory),or RPR (Rapid Plasmin Reagin )testis  negative, then the patient does not have syphilis and no further tests for syphilis are needed.
-
-If the VDRL or RPR titre is 1:16 or higher, the patient has syphilis and must be treated.
-
-If theVDRL or RPR titre is 1:8 or lower (or the titre is not known), the laboratory should test the same blood sample by means of the TPHA (Treponema Pallidum Haemagglutin Assay) or FTA (Fluorescent Treponemal Antibody) test:
-
-If the TPHA or FTA  is also positive, the patient has syphilis and must be fully treated.
-
-If the TPHA or FTA  is negative, then the patient does not have syphilis and, therefore, need not be treated.
-
-If a TPHA or FTA test cannot be done, and the patient has not been fully treated for syphilis in the past 3 months, she must be given a full course of treatment.
+1.	If either the VDRL (Venereal Disease Research Laboratory),or RPR (Rapid Plasmin Reagin )testis  negative, then the patient does not have syphilis and no further tests for syphilis are needed.
+2.	If the VDRL or RPR titre is 1:16 or higher, the patient has syphilis and must be treated.
+3.	If theVDRL or RPR titre is 1:8 or lower (or the titre is not known), the laboratory should test the same blood sample by means of the TPHA (Treponema Pallidum Haemagglutin Assay) or FTA (Fluorescent Treponemal Antibody) test:
+	*	If the TPHA or FTA  is also positive, the patient has syphilis and must be fully treated.
+	*	If the TPHA or FTA  is negative, then the patient does not have syphilis and, therefore, need not be treated.
+	*	If a TPHA or FTA test cannot be done, and the patient has not been fully treated for syphilis in the past 3 months, she must be given a full course of treatment.
 
 A syphilis rapid test can be done instead of a TPHA or FTA test.
 
-A VDRL or RPR titre of less than 1 in 16 may be caused by syphilis.
+> A VDRL or RPR titre of less than 1 in 16 may be caused by syphilis.
 
 Note
 :	The VDRL, RPR or rapid syphilis test may still be negative during the first few weeks after infection with syphilis as the patient has not yet had enough time to form antibodies. The VDRL and RPR tests detect regain antibodies which indicate present syphilis infection while the TPHA, FTA and syphilis rapid tests detect spirichaetal antibodies which indicate syphilis at any time in that person’s life.
 
-1-37 How should the results of the on-site RPR card test and syphilis rapid test be interpreted?
+### 1-37 How should the results of the on-site RPR card test and syphilis rapid test be interpreted?
 
 If either test is negative the patient does not have syphilis.
 
-If the PRP card test is strongly positive the patient most likely has syphilis and treatment should be started. However, a blood specimen must be sent to the laboratory to confirm the diagnosis, and the patient must be seen again 1 week later. Further treatment will depend on the result of the laboratory test. It is important to explain to the patient that the result of the card test needs to be checked with a laboratory test. If the test is weakly positive a blood specimen must still be sent to the laboratory and the patient seen 1 week later. Any treatment will depend on the result of the laboratory test.
+1.	If the PRP card test is strongly positive the patient most likely has syphilis and treatment should be started. However, a blood specimen must be sent to the laboratory to confirm the diagnosis, and the patient must be seen again 1 week later. Further treatment will depend on the result of the laboratory test. It is important to explain to the patient that the result of the card test needs to be checked with a laboratory test. If the test is weakly positive a blood specimen must still be sent to the laboratory and the patient seen 1 week later. Any treatment will depend on the result of the laboratory test.
+2.	If the syphilis rapid test is positive the person either has active (untreated) syphilis or was infected in the past and no longer has active disease. The diagnosis of active syphilis must be confirmed or rejected by a VDRL or RPR test.  It is advisable that treatment for syphilis be started immediately while waiting for the result of the RPR or VDRL test. A TPHA can be used as a screening test in the same way as the syphilis rapid test.
 
-If the syphilis rapid test is positive the person either has active (untreated) syphilis or was infected in the past and no longer has active disease. The diagnosis of active syphilis must be confirmed or rejected by a VDRL or RPR test.  It is advisable that treatment for syphilis be started immediately while waiting for the result of the RPR or VDRL test. A TPHA can be used as a screening test in the same way as the syphilis rapid test.
-
-1-38 What is the treatment of syphilis in pregnancy?
+### 1-38 What is the treatment of syphilis in pregnancy?
 
 The treatment of choice is penicillin. If the patient is not allergic to penicillin, she is given benzathine penicillin (Bicillin LA or Penilente LA) 2.4 million units intramuscularly weekly for 3 weeks. At each visit 1.2 million units is given into each buttock. This is a painful injection so the importance of completing the full course must be impressed on the patient.
 
@@ -702,27 +389,20 @@ Benzathine penicillin crosses the placenta and also treats the fetus.
 
 If the patient is allergic to penicillin, she is given erythromycin 500 mg 6-hourly orally for 14 days. This may not treat the fetus adequately, however. Tetracycline is contraindicated in pregnancy as it may damage the fetus.
 
-1-39 How should the results of the rapid HIV test be interpreted?
+### 1-39 How should the results of the rapid HIV test be interpreted?
 
-If the rapid HIV test is negative, there is a very small chance that the patient is HIV positive. The patient should be informed about the result and given counselling to help her to maintain her negative status.
+1.	If the rapid HIV test is *negative*, there is a very small chance that the patient is HIV positive. The patient should be informed about the result and given counselling to help her to maintain her negative status.
+2.	If the rapid HIV test is *positive*, a second rapid test should be done with a kit from another manufacturer. If the second test is also positive, then the patient is HIV positive. The patient should be given the result, and post-test counselling for an HIV-positive patient should be provided.
+3.	If the first rapid test is positive and the second negative, the patient’s HIV status is uncertain. This information should be given to the patient and blood should be taken and sent to the nearest laboratory for an ELISA test for HIV.
+	*	If the ELISA test is negative, there is only a very small chance that the patient is HIV positive.
+	*	If the ELISA test is positive, the patient is HIV positive.
 
-If the rapid HIV test is positive, a second rapid test should be done with a kit from another manufacturer. If the second test is also positive, then the patient is HIV positive. The patient should be given the result, and post-test counselling for an HIV-positive patient should be provided.
+### 1-40 What should you do if the cervical cytology result is abnormal?
 
-If the first rapid test is positive and the second negative, the patient’s HIV status is uncertain. This information should be given to the patient and blood should be taken and sent to the nearest laboratory for an ELISA test for HIV.
-
-If the ELISA test is negative, there is only a very small chance that the patient is HIV positive.
-
-If the ELISA test is positive, the patient is HIV positive.
-
-1-40 What should you do if the cervical cytology result is abnormal?
-
-A patient whose smear shows an infiltrating cervical carcinoma must immediately be referred to the nearest gynaecological oncology clinic (level 3 hospital). The duration of pregnancy is very important, and this information (determined as accurately as possible) must be available when the unit is phoned.
-
-A patient with a smear showing a low grade CIL (cervical intra-epithelial lesion) such as CIN I (cervical intra-epithelial neoplasia), atypia or only condylomatous changes is checked after 9 months, or as recommended on the cytology report.
-
-A patient with a smear showing a high grade CIL, such as CIN II or III or atypical condylomatous changes, must get an appointment at the nearest gynaecology or cytology clinic.
-
-Abnormal vaginal flora is only treated if the patient is symptomatic.
+1.	A patient whose smear shows an infiltrating cervical carcinoma must immediately be referred to the nearest gynaecological oncology clinic (level 3 hospital). The duration of pregnancy is very important, and this information (determined as accurately as possible) must be available when the unit is phoned.
+2.	A patient with a smear showing a low grade CIL (cervical intra-epithelial lesion) such as CIN I (cervical intra-epithelial neoplasia), atypia or only condylomatous changes is checked after 9 months, or as recommended on the cytology report.
+3.	A patient with a smear showing a high grade CIL, such as CIN II or III or atypical condylomatous changes, must get an appointment at the nearest gynaecology or cytology clinic.
+4.	Abnormal vaginal flora is only treated if the patient is symptomatic.
 
 Note
 :	A colposcopy will be done at the referral clinic. If there are no signs of infiltrating cervical carcinoma, the patient can deliver normally and receive further treatment six weeks after birth. A patient with a macroscopically normal cervix, who comes from an area which does not have access to a gynaecological or cytology clinic, must have her smear repeated at 32 weeks gestation. If the result is unchanged, the patient may deliver normally and receive further treatment six weeks after delivery. Biopsies must be taken from areas which are macroscopically suspicious of cervical carcinoma to exclude infiltrating carcinoma.
@@ -730,57 +410,52 @@ Note
 Note
 :	The latest information from the Cochrane Library indicates that treating bacterial vaginosis does not reduce the risk of preterm labour.
 
-It is essential to record on the antenatal card the plan that has been decided upon, and to ensure that the patient is fully treated after delivery.
+> It is essential to record on the antenatal card the plan that has been decided upon, and to ensure that the patient is fully treated after delivery.
 
-1-41 What should you do if the patient’s blood group is Rh negative?
+### 1-41 What should you do if the patient’s blood group is Rh negative?
 
 Between 5 and 15% of patients are Rhesus negative (i.e. they do not have the Rhesus D antigen on their red cells). The blood grouping laboratory will look for Rhesus anti-D antibodies in these patients. If the Rh card test was used, blood must be sent to the blood grouping laboratory to confirm the result and look for Rhesus anti-D antibodies.
 
-If there are no anti-D antibodies present, the patient is not sensitised. Blood must be taken at 26, 32 and 38 weeks of pregnancy to determine if the patient has developed anti-D antibodies since the first test was done.
+1.	If there are no anti-D antibodies present, the patient is not sensitised. Blood must be taken at 26, 32 and 38 weeks of pregnancy to determine if the patient has developed anti-D antibodies since the first test was done.
+2.	If anti-D antibodies are present, the patient has been sensitised to the Rhesus D antigen. With an anti-D antibody titre of 1:16 or higher, she must be referred to a centre which specialises in the management of this problem. If the titre is less than 1:16, the titre should be repeated within 2 weeks or as directed by the laboratory.
 
-If anti-D antibodies are present, the patient has been sensitised to the Rhesus D antigen. With an anti-D antibody titre of 1:16 or higher, she must be referred to a centre which specialises in the management of this problem. If the titre is less than 1:16, the titre should be repeated within 2 weeks or as directed by the laboratory.
-
-1-42 What is the importance of atypical antibodies?
+### 1-42 What is the importance of atypical antibodies?
 
 The presence of these antibodies indicates that the patient has been sensitised to a red-cell antigen other than the Rhesus D antigen. The husband’s blood must be examined to determine if he has the antigen which gave rise to the development of these maternal antibodies.
 
-If this is the case, then these atypical antibodies may endanger the fetus, and the laboratory or referral hospital must be consulted as to the further management of the patient.
+1.	If this is the case, then these atypical antibodies may endanger the fetus, and the laboratory or referral hospital must be consulted as to the further management of the patient.
+2.	If not, then the atypical antibodies are usually the result of an incompatible blood transfusion which the patient has had, and they will not endanger the fetus.
 
-If not, then the atypical antibodies are usually the result of an incompatible blood transfusion which the patient has had, and they will not endanger the fetus.
-
-1-43 What should you do if the ultrasound findings do not agree with the patient’s dates?
+### 1-43 What should you do if the ultrasound findings do not agree with the patient’s dates?
 
 Between 18 and 22 weeks:
 
-If the duration of pregnancy, as suggested by the patient’s menstrual dates, falls within the range of the duration of pregnancy as given by the ultrasonographer (usually 3 to 4 weeks), the dates should be accepted as correct.
-
-However, if the dates fall outside the range of the ultrasound assessment, then the dates must be regarded as incorrect.
+1.	If the duration of pregnancy, as suggested by the patient’s menstrual dates, falls within the range of the duration of pregnancy as given by the ultrasonographer (usually 3 to 4 weeks), the dates should be accepted as correct.
+2.	However, if the dates fall outside the range of the ultrasound assessment, then the dates must be regarded as incorrect.
 
 If the ultrasound examination is done in the first trimester (14 weeks or less), the error in determining the gestational age is only 1 week (range 2 weeks).
 
 Remember, if the patient is more than 24 weeks pregnant, ultrasonology cannot be used to determine the gestational age.
 
-1-44 What action should you take if an ultrasound examination at 18 to 22 weeks shows a placenta praevia?
+### 1-44 What action should you take if an ultrasound examination at 18 to 22 weeks shows a placenta praevia?
 
 In most cases the placenta will move out of the lower segment as pregnancy progresses, as the size of the uterus increases more than the size of the placenta. Therefore, a follow-up ultrasound examination must be arranged at 32 weeks, where a placenta praevia type II or higher has been diagnosed, to assess whether the placenta is still praevia.
 
-1-45 What should you do if the ultrasound examination shows a possible fetal abnormality?
+### 1-45 What should you do if the ultrasound examination shows a possible fetal abnormality?
 
 The patient must be referred to a level 3 hospital for detailed ultrasound evaluation and a decision about further management.
 
-Grading the risk
+## Grading the risk
 
 Once the results of the special investigations have been obtained, all patients must be graded into a risk category. (A list of risk factors and the level of care needed is given in appendix 1). A few high-risk patients would have already been identified at the first antenatal visit while others will be identified at the second visit.
 
-1-46 What are the risk categories?
+### 1-46 What are the risk categories?
 
 There are three risk categories:
 
-Low (average) risk
-
-Intermediate risk
-
-High risk
+1.	Low (average) risk
+2.	Intermediate risk
+3.	High risk
 
 A low-risk patient has no maternal or fetal risk factors present. These patients can receive primary care from a midwife.
 
@@ -788,31 +463,26 @@ An intermediate-risk patient has a problem which requires some, but not continuo
 
 A high-risk patient has a problem which requires continuous additional care. For example, a patient with heart valve disease or a patient with a multiple pregnancy. These patients usually require care by a doctor.
 
-Subsequent visits
+## Subsequent visits
 
 General principles:
 
-The subsequent visits must be problem oriented.
+1.	The subsequent visits must be problem oriented.
+2.	The visits at 28, 34 and 41 weeks are more important visits. At these visits, complications specifically associated with the duration of pregnancy are looked for.
+3.	From 28 weeks onwards the fetus is viable and the fetal condition must, therefore, be regularly assessed.
 
-The visits at 28, 34 and 41 weeks are more important visits. At these visits, complications specifically associated with the duration of pregnancy are looked for.
-
-From 28 weeks onwards the fetus is viable and the fetal condition must, therefore, be regularly assessed.
-
-1-47 When should a patient return for further antenatal visits?
+### 1-47 When should a patient return for further antenatal visits?
 
 If a patient books in the first trimester, and is found to be at low risk, her subsequent visits can be arranged as follows:
 
-Every 8 weeks until 28 weeks.
-
-The next visit is six weeks later at 34 weeks.
-
-Primigravidas are then seen every 2 weeks from 36 weeks and multigravidas from 38 weeks. However, multigravidas are also seen again at 36 weeks if a breech presentation was found at their 34 week visit.
-
-Thereafter primigravidas are seen at 40 weeks while multigravidas are seen at 41 weeks, if they have not yet delivered.
+1.	Every 8 weeks until 28 weeks.
+2.	The next visit is six weeks later at 34 weeks.
+3.	Primigravidas are then seen every 2 weeks from 36 weeks and multigravidas from 38 weeks. However, multigravidas are also seen again at 36 weeks if a breech presentation was found at their 34 week visit.
+4.	Thereafter primigravidas are seen at 40 weeks while multigravidas are seen at 41 weeks, if they have not yet delivered.
 
 In some rural areas it may be necessary to see low-risk patients less often because of the large distances involved. The risk of complications with less frequent visits in these patients is minimal. Visits may be scheduled as follows: after the first visit (combining the booking and second visit), the follow-up visits at 28, 34 and 41 weeks.
 
-1-48 Which patients should have more frequent antenatal visits?
+### 1-48 Which patients should have more frequent antenatal visits?
 
 If a complication develops, the risk grading will change. This change must be clearly recorded on the patient’s antenatal card. Subsequent visits will now be more frequent, depending on the nature of the risk factor.
 
@@ -820,310 +490,241 @@ Primigravidas, whenever possible, must be seen every 2 weeks from 36 weeks, even
 
 A waiting area (obstetric village), where cheap accommodation is available for patients, provides an ideal solution for some intermediate-risk patients, high-risk patients and the above-mentioned primigravidas, so that they can be seen more regularly.
 
-The visit at 28 weeks
+## The visit at 28 weeks
 
-1-49 What important complications of pregnancy should be looked for?
+### 1-49 What important complications of pregnancy should be looked for?
 
-Antepartum haemorrhage becomes a very important high-risk factor from 28 weeks.
+1.	Antepartum haemorrhage becomes a very important high-risk factor from 28 weeks.
+2.	Early signs of pre-eclampsia may now be present for the first time, as it is a problem which develops in the second half of pregnancy. Therefore, the patient must be assessed for proteinuria and a rise in the blood pressure.
+3.	Cervical changes in a patient who is at high risk for preterm labour, e.g. a patient with multiple pregnancy, a history of previous preterm labour, or polyhydramnios.
+4.	If the symphysis-fundus height measurement is below the 10th centile, assess the patient for causes of poor fundal growth.
+5.	If the symphysis-fundus height measurement is above the 90th centile, assess the patient for the causes of a uterus larger than dates.
+6.	Anaemia may be detected for the first time during pregnancy.
+7.	Diabetes in pregnancy may present now with glycosuria. If so, a random blood glucose concentration must be measured.
 
-Early signs of pre-eclampsia may now be present for the first time, as it is a problem which develops in the second half of pregnancy. Therefore, the patient must be assessed for proteinuria and a rise in the blood pressure.
+### 1-50 Why is an antepartum haemorr­hage a serious sign?
 
-Cervical changes in a patient who is at high risk for preterm labour, e.g. a patient with multiple pregnancy, a history of previous preterm labour, or polyhydramnios.
+1.	Abruptio placentae causes many perinatal deaths.
+2.	It may also be a warning sign of placenta praevia.
 
-If the symphysis-fundus height measurement is below the 10th centile, assess the patient for causes of poor fundal growth.
+### 1-51 How should you monitor the fetal condition?
 
-If the symphysis-fundus height measurement is above the 90th centile, assess the patient for the causes of a uterus larger than dates.
+1.	All women should be asked about the frequency of fetal movements and warned that they must report immediately if the movements suddenly decrease or stop.
+2.	If a patient has possible intra-uterine growth restriction or a history of a previous fetal death, then she should count fetal movements once a day from 28 weeks and record them on a fetal-movement chart.
 
-Anaemia may be detected for the first time during pregnancy.
+## The visit at 34 weeks
 
-Diabetes in pregnancy may present now with glycosuria. If so, a random blood glucose concentration must be measured.
+### 1-52 Why is the 34 weeks visit important?
 
-1-50 Why is an antepartum haemorr­hage a serious sign?
+1.	All the risk factors of importance at 28 weeks (except for preterm labour) are still important and must be excluded.
+2.	The lie of the fetus is now very important and must be determined. If the presenting part is not cephalic, then an external cephalic version must be attempted at 36 weeks if there are no contraindications. A grande multipara who goes into labour with an abnormal lie is at high risk of rupturing her uterus.
+3.	Patients who have had a previous Caesarean section must be assessed with a view to the safest method of delivery. A patient with a small pelvis, a previous classical Caesarean section, as well as other recurrent causes for a Caesarean section must be booked for an elective Caesarean section at 39 weeks.
+4.	The patient’s breasts must be examined again for flat or inverted nipples, or eczema of the areolae which may impair breastfeeding. Eczema should be treated.
+5.	If the first HIV screen was  negative, it should be repeated around 32 weeks gestation to detect any late infections.
 
-Abruptio placentae causes many perinatal deaths.
+## The visit at 41 weeks
 
-It may also be a warning sign of placenta praevia.
-
-1-51 How should you monitor the fetal condition?
-
-All women should be asked about the frequency of fetal movements and warned that they must report immediately if the movements suddenly decrease or stop.
-
-If a patient has possible intra-uterine growth restriction or a history of a previous fetal death, then she should count fetal movements once a day from 28 weeks and record them on a fetal-movement chart.
-
-The visit at 34 weeks
-
-1-52 Why is the 34 weeks visit important?
-
-All the risk factors of importance at 28 weeks (except for preterm labour) are still important and must be excluded.
-
-The lie of the fetus is now very important and must be determined. If the presenting part is not cephalic, then an external cephalic version must be attempted at 36 weeks if there are no contraindications. A grande multipara who goes into labour with an abnormal lie is at high risk of rupturing her uterus.
-
-Patients who have had a previous Caesarean section must be assessed with a view to the safest method of delivery. A patient with a small pelvis, a previous classical Caesarean section, as well as other recurrent causes for a Caesarean section must be booked for an elective Caesarean section at 39 weeks.
-
-The patient’s breasts must be examined again for flat or inverted nipples, or eczema of the areolae which may impair breastfeeding. Eczema should be treated.
-
-If the first HIV screen was  negative, it should be repeated around 32 weeks gestation to detect any late infections.
-
-The visit at 41 weeks
-
-1-53 Why is the visit at 41 weeks important?
+### 1-53 Why is the visit at 41 weeks important?
 
 A patient whose pregnancy extends beyond 42 weeks has an increased risk of developing the following complications:
 
-Intrapartum fetal distress.
+1.	Intrapartum fetal distress.
+2.	Meconium aspiration.
+3.	Intra-uterine death.
 
-Meconium aspiration.
+### 1-54 How should you manage a patient who is 41 weeks pregnant?
 
-Intra-uterine death.
-
-1-54 How should you manage a patient who is 41 weeks pregnant?
-
-A patient with a complication such as intra-uterine growth restriction (retardation) or pre-eclampsia must have labour induced.
-
-A patient who booked early and was sure of her last menstrual period and where, at the booking visit, the size of the uterus corresponded to the duration of pregnancy by dates must have the labour induced on the day she reaches 42 weeks. The same applies to a patient whose duration of pregnancy was confirmed by ultrasound examination before 24 weeks.
-
-A patient who is unsure of her dates, or who booked late, must have an ultrasound examination on the day she reaches 42 weeks to determine the amount of amniotic fluid present.
-
-If the amniotic fluid index (AFI) is more than 5 (or if the largest pool of liquor measures 3 cm or more) and the patient reports good fetal movement, she should be reassessed in 1 week’s time.
-
-If the AFI is less than 5 (or if the largest pool of liquor measures less than 3 cm), the pregnancy must be induced.
+1.	A patient with a complication such as intra-uterine growth restriction (retardation) or pre-eclampsia must have labour induced.
+2.	A patient who booked early and was sure of her last menstrual period and where, at the booking visit, the size of the uterus corresponded to the duration of pregnancy by dates must have the labour induced on the day she reaches 42 weeks. The same applies to a patient whose duration of pregnancy was confirmed by ultrasound examination before 24 weeks.
+3.	A patient who is unsure of her dates, or who booked late, must have an ultrasound examination on the day she reaches 42 weeks to determine the amount of amniotic fluid present.
+	*	If the amniotic fluid index (AFI) is more than 5 (or if the largest pool of liquor measures 3 cm or more) and the patient reports good fetal movement, she should be reassessed in 1 week’s time.
+	*	If the AFI is less than 5 (or if the largest pool of liquor measures less than 3 cm), the pregnancy must be induced.
 
 Note
 :	The amniotic fluid index measures the largest vertical pool of liquor in the each of the 4 quadrants of the uterus and adds them together.
 
-Remember that the commonest cause of being post-term is wrong dates.
+> Remember that the commonest cause of being post-term is wrong dates.
 
 Note
 :	If the patient is to be induced, a surgical induction of labour may be performed if the cervix is favourable and the patient is HIV negative. With an unfavourable cervix or HIV-positive patient, provide a medical induction of labour with misoprostol (Cytotec) 50 µg (a quarter of a tablet) every 4 hours orally until a total of 4 doses (total = 200 µg). Prostaglandin E2 (Prepidil gel 0.5 mg or Prandin 1 mg) can also be used. Induction of labour should take place in a hospital with facilities for Caesarean section. 
 
 It is very important that the above problems are actively looked for at 28, 34 and 41 weeks. It is best to memorise these problems and check then one by one at each visit.
 
-1-55 How should the history, clinical findings and results of the special investigations be recorded in low-risk patients?
+### 1-55 How should the history, clinical findings and results of the special investigations be recorded in low-risk patients?
 
 There are many advantages to a hand-held antenatal card which records all the patient’s antenatal information. It is simple, cheap, and effective. It is uncommon for patients to lose their records. The clinical record is then always available wherever the patient presents for care. The clinic need only record the patient’s personal details such as name, address and age together with the dates of her clinic visits and the result of any special investigations.
 
 On the one side of the card are recorded the patient’s personal details, history, estimated gestational age, examination findings, results of the special investigations, plan of management, and proposed future family planning. On the other side are recorded all the maternal and fetal observations made during pregnancy.
 
-It is important that all antenatal women have a hand-held antenatal card.
+> It is important that all antenatal women have a hand-held antenatal card.
 
-1-56 What topics should you discuss with patients during the health education sessions?
+### 1-56 What topics should you discuss with patients during the health education sessions?
 
 The following topics must be discussed:
 
-Danger symptoms and signs.
+1.	Danger symptoms and signs.
+2.	Dangerous habits, e.g. smoking or drinking alcohol.
+3.	Healthy eating.
+4.	Family planning.
+5.	Breastfeeding.
+6.	Care of the newborn infant.
+7.	The onset of labour and labour itself must also be included when the patient is a primigravida.
+8.	Avoiding HIV infection or getting counselling if HIV positive.
 
-Dangerous habits, e.g. smoking or drinking alcohol.
+### 1-57 What symptoms or signs, which may indicate the presence of serious complications, must be discussed with patients?
 
-Healthy eating.
+1.	Symptoms and signs that suggest abruptio placentae:
+	*	Vaginal bleeding.
+	*	Persistent, severe abdominal pain.
+	*	Decreased fetal movements.
+2.	Symptoms and signs that suggest pre-eclampsia:
+	*	Persistent headache.
+	*	Flashes before the eyes.
+	*	Sudden swelling of the hands, feet or face.
+3.	Symptoms and signs that suggest preterm labour:
+	*	Rupture of the membranes.
+	*	Regular uterine contractions before the expected date of delivery.
 
-Family planning.
+## Managing pregnant women with HIV infection
 
-Breastfeeding.
-
-Care of the newborn infant.
-
-The onset of labour and labour itself must also be included when the patient is a primigravida.
-
-Avoiding HIV infection or getting counselling if HIV positive.
-
-1-57 What symptoms or signs, which may indicate the presence of serious complications, must be discussed with patients?
-
-Symptoms and signs that suggest abruptio placentae:
-
-Vaginal bleeding.
-
-Persistent, severe abdominal pain.
-
-Decreased fetal movements.
-
-Symptoms and signs that suggest pre-eclampsia:
-
-Persistent headache.
-
-Flashes before the eyes.
-
-Sudden swelling of the hands, feet or face.
-
-Symptoms and signs that suggest preterm labour:
-
-Rupture of the membranes.
-
-Regular uterine contractions before the expected date of delivery.
-
-Managing pregnant women with HIV infection
-
-1-58 What is HIV infection and AIDS?
+### 1-58 What is HIV infection and AIDS?
 
 AIDS (Acquired Immune Deficiency Syndrome) is a severe chronic illness caused by the human immunodeficiency virus (HIV). Women with HIV infection can remain clinically well for many years before developing signs of the disease. Severe HIV disease is called AIDS. These patients have a damaged immune system and often die of other opportunistic infections such as tuberculosis.
 
-1-59 Is AIDS an important cause of maternal death?
+### 1-59 Is AIDS an important cause of maternal death?
 
 As the HIV epidemic spreads, the number of pregnant women dying of AIDS has increased dramatically. In some countries, such as South Africa, AIDS is now the commonest cause of maternal death. Therefore all pregnant women must be screened for HIV infection.
 
 Note
 :	The Second, Third and Forth Interim Report on Confidential Enquiries into Maternal Deaths in South Africa showed that AIDS was the commonest cause of maternal death. Many additional AIDS deaths may have been missed, as HIV testing is often not done.
 
-All pregnant women must be screened for HIV infection as AIDS is the commonest cause of maternal death in South Africa.
+> All pregnant women must be screened for HIV infection as AIDS is the commonest cause of maternal death in South Africa.
 
-1-60 Does pregnancy increase the risk of progression from asymptomatic HIV infection to AIDS?
+### 1-60 Does pregnancy increase the risk of progression from asymptomatic HIV infection to AIDS?
 
 Pregnancy appears to have little or no effect on the progression from asymptomatic to symptomatic HIV infection. However, in women who already have symptomatic HIV infection, pregnancy may lead to a more rapid progression to AIDS.
 
-1-61 How is the severity of HIV infection classified?
+### 1-61 How is the severity of HIV infection classified?
 
 The severity and progression of HIV infection during pregnancy can be monitored by:
 
-Assessing the clinical stage of the disease
+1.	Assessing the clinical stage of the disease
+	*	Stage 1: Clinically well.
+	*	Stage 2: Mild clinical problems.
+	*	Stage 3: Moderate clinical problems.
+	*	Stage 4: Severe clinical problems (i.e. AIDS).
+2.	Measuring the CD4 count in the blood. A falling CD4 count is an important marker of progression in HIV infection. It is an indicator of the degree of damage to the immune system. The normal adult CD4 count is 700 to 1100 cells/mm³. A CD4 count equal or below 350 cells/mm³ indicates severe damage to the immune system.
 
-Stage 1: Clinically well.
+> The CD4 count is an important marker of the severity and progression of HIV infection during pregnancy.
 
-Stage 2: Mild clinical problems.
+### 1-62 What clinical signs suggest stage 1 and 2 HIV infection?
 
-Stage 3: Moderate clinical problems.
+1.	Persistent generalised lymphadenopathy is the only clinical sign of stage 1 HIV infection.
+2.	Signs of stage 2 HIV infection include:
+	*	Repeated or chronic mouth or genital ulcers.
+	*	Extensive skin rashes.
+	*	Repeated upper respiratory tract infections such as otitis media or sinusitis.
+	*	Herpes zoster (shingles).
 
-Stage 4: Severe clinical problems (i.e. AIDS).
+### 1-63 What are important features suggesting stage 3 or 4 HIV infection?
 
-Measuring the CD4 count in the blood
+1.	Features of stage 3 HIV infection include:
+	*	Unexplained weight loss.
+	*	Oral candidiasis (thrush).
+	*	Cough, fever and night sweats suggesting pulmonary tuberculosis.
+	*	Cough, fever and shortness of breath suggesting bacterial pneumonia.
+	*	Chronic diarrhoea or unexplained fever for more than 1 month.
+	*	Pulmonary tuberculosis
+2.	Features of stage 4 HIV infection include:
+	*	Severe weight loss.
+	*	Severe or repeated bacterial infections, especially pneumonia.
+	*	Severe HIV-associated infections such as oesophageal candidiasis (which presents with difficulty swallowing) and Pneumocystis pneumonia (which presents with cough, fever and shortness of breath).
+	*	Malignancies such as Kaposi’s sarcoma.
+	*	Extrapulmonary tuberculosis (TB).
 
-A falling CD4 count is an important marker of progression in HIV infection. It is an indicator of the degree of damage to the immune system. The normal adult CD4 count is 700 to 1100 cells/mm3. A CD4 count equal or below 350 cells/mm3 indicates severe damage to the immune system.
-
-The CD4 count is an important marker of the severity and progression of HIV infection during pregnancy.
-
-1-62 What clinical signs suggest stage 1 and 2 HIV infection?
-
-Persistent generalised lymphadenopathy is the only clinical sign of stage 1 HIV infection.
-
-Signs of stage 2 HIV infection include:
-
-Repeated or chronic mouth or genital ulcers.
-
-Extensive skin rashes.
-
-Repeated upper respiratory tract infections such as otitis media or sinusitis.
-
-Herpes zoster (shingles).
-
-1-63 What are important features suggesting stage 3 or 4 HIV infection?
-
-Features of stage 3 HIV infection include:
-
-Unexplained weight loss.
-
-Oral candidiasis (thrush).
-
-Cough, fever and night sweats suggesting pulmonary tuberculosis.
-
-Cough, fever and shortness of breath suggesting bacterial pneumonia.
-
-Chronic diarrhoea or unexplained fever for more than 1 month.
-
-Pulmonary tuberculosis
-
-Features of stage 4 HIV infection include:
-
-Severe weight loss.
-
-Severe or repeated bacterial infections, especially pneumonia.
-
-Severe HIV-associated infections such as oesophageal candidiasis (which presents with difficulty swallowing) and Pneumocystis pneumonia (which presents with cough, fever and shortness of breath).
-
-Malignancies such as Kaposi’s sarcoma.
-
-Extrapulmonary tuberculosis (TB).
-
-1-64 How should pregnant women with a positive HIV screening test be managed?
+### 1-64 How should pregnant women with a positive HIV screening test be managed?
 
 It is very important to identify women with HIV infection as soon as possible in pregnancy so that they can be carefully assessed and their management can be planned. The HIV management should be integrated into the rest of the antenatal care. All women with a positive HIV screening test must have their CD4 count determined as soon as the HIV screening result is obtained.
 
 Determine and note the clinical stage of the disease on the antenatal record.
 
-All HIV-positive women must have a CD4 count.
+> All HIV-positive women must have a CD4 count.
 
-1-65 What are the indications for antiretroviral prophylaxis in pregnancy?
+### 1-65 What are the indications for antiretroviral prophylaxis in pregnancy?
 
 All pregnant women who are HIV positive should have either ARV prophylaxis or treatment.
 
-All pregnant women who are HIV positive should receive either antiretroviral prophylaxis or treatment.
+> All pregnant women who are HIV positive should receive either antiretroviral prophylaxis or treatment.
 
-1-66 What is antiretroviral prophylaxis?
+### 1-66 What is antiretroviral prophylaxis?
 
 ARV prophylaxis aims at reducing the risk of the mother infecting her fetus and newborn infant with HIV (prevention of mother-to-child transmission or PMTCT). It is not aimed at treating the mother’s HIV infection and therefore is given to HIV positive women who are clinically well with a CD4 count above 350 cells/mm3. With prophylaxis the women stop their ARVs once they have stopped breastfeeding and there is no further risk of mother-to-child transmission (WHO option B). ARV prophylaxis should be started at 14 weeks or as soon as possible thereafter. It will reduce the risk of HIV transmission from mother to infant to 2%, compared to 30% without prophylaxis.
 
 For prophylaxis a fixed dose combination (FDC) pill is taken daily, usually at bedtime. 
 
-Note: WHO option A , which is no longer used in South Africa, consists of zidovudine (AZT) 300 mg orally twice daily from 14 weeks gestation.  In addition a single dose of nevirapine 200mg is given to the mother at the onset of labour and AZT 300mg 3 hourly is given during labour. In addition a single dose of Truvada, a combination of tenofovir (TNF) and emtricitabine (FTC), must be given to the mother during or immediately after labour to prevent nevirapine resistance in the mother.
+Note
+:	WHO option A , which is no longer used in South Africa, consists of zidovudine (AZT) 300 mg orally twice daily from 14 weeks gestation.  In addition a single dose of nevirapine 200mg is given to the mother at the onset of labour and AZT 300mg 3 hourly is given during labour. In addition a single dose of Truvada, a combination of tenofovir (TNF) and emtricitabine (FTC), must be given to the mother during or immediately after labour to prevent nevirapine resistance in the mother.
 
-1-67 What are the indications for antiretroviral treatment in pregnancy?
+### 1-67 What are the indications for antiretroviral treatment in pregnancy?
 
 The indications for ARV treatment instead of ARV prophylaxis are any of the following:
 
-Clinical signs of stage 3 or 4 HIV infection.
-
-A CD4 count equal or below 350 cells/mm3.
-
-Tuberculosis.
+1.	Clinical signs of stage 3 or 4 HIV infection.
+2.	A CD4 count equal or below 350 cells/mm³.
+3.	Tuberculosis.
 
 The difference between ARV prophylaxis and treatment is that women on treatment continue their ARVs for life and do not stop once breast feeding is completed. In future all pregnant women who are HIV positive will probably be given treatment with ARVs for life (WHO option B+).
 
-1-68 What is antiretroviral treatment?
+### 1-68 What is antiretroviral treatment?
 
 The aim of ARV treatment is to lower the viral load and allow the immune system to recover. This will both reduce the risk of HIV transmission to the infant and to treat the mother’s HIV infection. ARV treatment consists of taking TDF, FTC and EFV as a FDC tablet daily. The use of FDC during pregnancy is the same for both prophylaxis and treatment.
 
 Women who are already on ARV treatment when they book for antenatal care should continue on their ARV treatment during the pregnancy.  If not already on FDC, their ARV’s may be changed to FDC by a special HIV clinic.
 
-A fixed dose combination of antiretroviral drugs is used for HIV prophylaxis and treatment during pregnancy.
+> A fixed dose combination of antiretroviral drugs is used for HIV prophylaxis and treatment during pregnancy.
 
-1-69 Can an HIV-positive woman be cared for in a primary-care clinic?
+### 1-69 Can an HIV-positive woman be cared for in a primary-care clinic?
 
 Most women who are HIV positive are clinically well with a normal pregnancy. Others may only have minor problems (stage 1 or 2). These women can usually be cared for in a primary-care clinic throughout their pregnancy, labour, and puerperium provided they remain well and their pregnancy is normal. Women with a pregnancy complication should be referred to hospital as would be done with HIV-negative patients. Women with severe (stage 3 or 4) HIV-related problems or severe treatment side effects will need to be referred to a special HIV clinic or hospital.
 
-Most HIV-positive women can be managed at a primary-care clinic during pregnancy.
+> Most HIV-positive women can be managed at a primary-care clinic during pregnancy.
 
-1-70 How are pregnant women with HIV infection managed at a primary-care clinic?
+### 1-70 How are pregnant women with HIV infection managed at a primary-care clinic?
 
 The management of pregnant women with HIV infection is very similar to that of non-pregnant adults with HIV infection. The most important step is to identify those pregnant women who are HIV positive.
 
 The principles of management of pregnant women with HIV infection at a primary-care clinic are:
 
-Make the diagnosis of HIV infection by offering HIV screening to all pregnant women at the start of their antenatal care.
+1.	Make the diagnosis of HIV infection by offering HIV screening to all pregnant women at the start of their antenatal care.
+2.	Assess the CD4 count in all HIV-positive women as soon as their positive HIV status is known.
+3.	Screen for clinical signs of HIV infection and clinical staging at each antenatal visit.
+4.	Screen for symptoms of TB.
+5.	Good diet. Nutritional support may be needed.
+6.	Emotional support and counselling.
+7.	Start ARV prophylaxis or treatment when indicated.
+8.	Early referral if there are pregnancy or HIV complications.
 
-Assess the CD4 count in all HIV-positive women as soon as their positive HIV status is known.
-
-Screen for clinical signs of HIV infection and clinical staging at each antenatal visit.
-
-Screen for symptoms of TB.
-
-Good diet. Nutritional support may be needed.
-
-Emotional support and counselling.
-
-Start ARV prophylaxis or treatment when indicated.
-
-Early referral if there are pregnancy or HIV complications.
-
-1-71 What preparation is needed for antiretroviral treatment?
+### 1-71 What preparation is needed for antiretroviral treatment?
 
 Preparing a patient to start ARV treatment is very important. This requires education, counselling and social assessment before ARV treatment can be started. These patients must have regular clinic attendance and must learn about their illness and the importance of excellent adherence (taking their ARV drugs at the correct time every day). They also need to know the side effects of ARV drugs and how to recognise them. Careful general examination and some blood tests are also needed before starting ARV treatment. ARV management should start as soon as possible, preferably within a few days.
 
-1-72 How should pregnant women on antiretroviral treatment be managed?
+### 1-72 How should pregnant women on antiretroviral treatment be managed?
 
 The national drug protocol using a FDC should be followed. It is very important that staff at the antenatal clinic are trained to manage women with HIV infection. They should work together with the local ARV clinic or HIV service of the local hospital.
 
-1-73 What drugs are used in the fixed dose combination pill?
+### 1-73 What drugs are used in the fixed dose combination pill?
 
 A fixed dose combination regimen of three drugs is usually used as first line treatment in South Africa. The FDC consists of tenofovir (TDF) 300 mg, emtricitabine (FTC) 200 mg and efavirenz (EFV) 600 mg. 
 
-1-74 What are the side effects of antiretroviral drugs?
+### 1-74 What are the side effects of antiretroviral drugs?
 
 Pregnant women on ARV prophylaxis or treatment may experience side effects to the ARV drugs. These are usually mild and occur during the first six weeks of treatment. However, side effects may occur at any time that patients are taking ARV drugs. It is important that the staff at primary-care clinics are aware of these side effects and that they ask for symptoms and look for signs at each clinic visit. 
 
 Common early side effects during the first few weeks of starting ARV drugs include:
 
-Lethargy, tiredness and headaches.
-
-Nausea, vomiting and diarrhoea.
-
-Muscle pains and weakness.
+1.	Lethargy, tiredness and headaches.
+2.	Nausea, vomiting and diarrhoea.
+3.	Muscle pains and weakness.
 
 These mild side effects usually disappear on their own. They can be treated symptomatically. It is important that ARVs are continued even if there are mild side effects.
 
@@ -1135,7 +736,7 @@ TDF may cause decreased renal function. Less common dangerous side effects of AR
 
 Staff at primary-care clinics must be aware and look out for these very important side effects.
 
-1-75 Is HIV/TB co-infection common in pregnancy?
+### 1-75 Is HIV/TB co-infection common in pregnancy?
 
 Tuberculosis (TB) is common in patients with HIV who have a weakened immune system. Therefore co-infection with both HIV and TB bacilli is common during pregnancy in communities with a high prevalence of HIV and TB. 
 
@@ -1143,119 +744,118 @@ Symptomatic screening for TB must be done at each visit by weighing the patient,
 
 TB is treated with four drugs (rifampicin, isoniazid, pyrizinamide and ethambutol) which may interact and increase the adverse effects of ARV drugs. Treatment of both HIV and tuberculosis should be integrated with routine antenatal care whenever possible.
 
-note The negative predictive value of symptomatic screening is 97%.  Therefore a negative screen reliably excludes TB. Further investigations for TB  include sputum for microscopy and culture as well as a single posterior-anterior chest X-ray with the fetus screened off with a lead apron.
+Note
+:	The negative predictive value of symptomatic screening is 97%.  Therefore a negative screen reliably excludes TB. Further investigations for TB  include sputum for microscopy and culture as well as a single posterior-anterior chest X-ray with the fetus screened off with a lead apron.
 
-Case study 1
+## Case study 1
 
 A 36-year-old gravida 4 para 3 patient presents at her first antenatal clinic visit. She does not know the date of her last menstrual period. The patient says that she had hypertension in her last two pregnancies. The symphysis-fundus height measurement suggests a 32-week pregnancy. At her second visit, the report of the routine cervical smear states that she has a low-grade cervical intra-epithelial lesion.
 
-1. Why is her past obstetric history important?
+### 1. Why is her past obstetric history important?
 
 Because hypertension in a previous pregnancy places her at high risk of hypertension again in this pregnancy. She must be carefully examined for hypertension and proteinuria at this visit and at each subsequent visit. This case stresses the importance of a careful history at the booking visit.
 
-2. How accurate is the symphysis-fundus height measurement in determining that the pregnancy is of 32 weeks duration?
+### 2. How accurate is the symphysis-fundus height measurement in determining that the pregnancy is of 32 weeks duration?
 
 This is the most accurate clinical method to determine the size of the uterus from 18 weeks gestation. If the uterine growth, as determined by symphysis-fundus measurement, follows the curve on the antenatal card, the gestational age as determined at the first visit is confirmed.
 
-3. Why would an ultrasound examination not be helpful in determining the gestational age?
+### 3. Why would an ultrasound examination not be helpful in determining the gestational age?
 
 Ultrasonology is accurate in determining the gestational age only up to 24 weeks. Thereafter, the range of error is virtually the same as that of a clinical examination.
 
-4. What should you do about the result of the cervical smear?
+### 4. What should you do about the result of the cervical smear?
 
 The cervical smear must be repeated after 9 months. It is important to write the result in the antenatal record and to indicate what plan of management has been decided upon.
 
-Case study 2
+## Case study 2
 
 At booking, a patient has a positive VDRL test with a titre of 1:4. She has had no illnesses or medical treatment during the past year. By dates and abdominal palpation she is 26 weeks pregnant.
 
-1. What does the result of this patient’s VDRL test indicate?
+### 1. What does the result of this patient’s VDRL test indicate?
 
 The positive VDRL test indicates that the patient may have syphilis. However, the titre is below 1:16 and, therefore, a definite diagnosis of syphilis cannot be made without a further blood test.
 
-2. What further test is needed to confirm or exclude a diagnosis of syphilis?
+### 2. What further test is needed to confirm or exclude a diagnosis of syphilis?
 
 If possible, the patient must have a TPHA or FTA or rapid syphilis test. A positive result of any of these tests will confirm the diagnosis of syphilis. If these tests are not available, the patient must be treated for syphilis.
 
-3. Why is the fetus at risk of congenital syphilis?
+### 3. Why is the fetus at risk of congenital syphilis?
 
 Because the spirochaetes that cause syphilis may cross the placenta and infect the fetus.
 
-4. What treatment is required if the patient has syphilis?
+### 4. What treatment is required if the patient has syphilis?
 
 The patient should be given 2.4 million units of benzathine penicillin (Bicillin LA or Penilente LA) intramuscularly weekly for 3 weeks. Half of the dose is given into each buttock. Benzathine penicillin will cross the placenta and also treat the fetus.
 
-5. What other medical conditions is this patient likely to suffer from?
+### 5. What other medical conditions is this patient likely to suffer from?
 
 She may have other sexually transmitted diseases such as HIV.
 
-Case study 3
+## Case study 3
 
 A healthy primigravida patient of 18 years booked for antenatal care at 22 weeks pregnant. Her rapid syphilis and HIV tests were negative. Her Rh blood group is positive according the Rh card test. She is classified as at low risk for problems during her pregnancy.
 
-1. What is the best time for a pregnant woman to attend an antenatal-care clinic for the first time?
+### 1. What is the best time for a pregnant woman to attend an antenatal-care clinic for the first time?
 
 If possible, all pregnant women should book for antenatal care within the first 12 weeks. The duration of pregnancy can then be confirmed with reasonable accuracy on physical examination, medical problems can be diagnosed early, and screening tests can be done as soon as possible.
 
-2. When should this patient return for her next antenatal visit?
+### 2. When should this patient return for her next antenatal visit?
 
 She should attend at 28 weeks.
 
-3. What important complications should be looked for in this patient at her 28 week visit?
+### 3. What important complications should be looked for in this patient at her 28 week visit?
 
 Anaemia, early signs of pre-eclampsia, a uterus smaller than expected (suggesting intra-uterine growth restriction), or a uterus larger than expected (suggesting multiple pregnancy). A history of antepartum haemorrhage should also be asked for.
 
-4. When should she attend antenatal clinic in the last trimester if she and her fetus remain normal?
+### 4. When should she attend antenatal clinic in the last trimester if she and her fetus remain normal?
 
 The next visit should be at 34 weeks, and then every 2 weeks until 41 weeks.
 
-Case study 4
+## Case study 4
 
 A 24-year-old gravida 2 para 1 attends the booking antenatal clinic and is seen by a midwife. The previous obstetric history reveals that she had a Caesarean section at term because of poor progress in labour. She is sure of her last menstrual period and is 14 weeks pregnant by dates. On abdominal palpation the height of the uterine fundus is halfway between the symphysis pubis and the umbilicus.
 
-1. What further important information must be obtained about the previous Caesarean section?
+### 1. What further important information must be obtained about the previous Caesarean section?
 
 The exact indication for the Caesarean section must be found in the patient’s hospital notes. In addition, the type of uterine incision made must be established, i.e. whether it was a transverse lower segment or a vertical incision.
 
-2. Why is it important to obtain this additional information?
+### 2. Why is it important to obtain this additional information?
 
 If the patient had a Caesarean section for a non-recurring cause and she had a transverse lower segment incision, she may be allowed a trial of labour.
 
-3. In which risk category would you place this patient?
+### 3. In which risk category would you place this patient?
 
 She should be placed in the intermediate category.
 
-4. How must you plan this patient’s antenatal care?
+### 4. How must you plan this patient’s antenatal care?
 
 Her next visit must be arranged at a hospital. If possible, the hospital where she had the Caesarean section so that the required information may be obtained from her folder. Then she may continue to receive her antenatal care from the midwife at the clinic until 36 weeks gestation. From then on the patient must again attend the hospital antenatal clinic where the decision about the method of delivery will be made.
 
-5. Which of the two estimations of the duration of pregnancy is the correct one?
+### 5. Which of the two estimations of the duration of pregnancy is the correct one?
 
 A fundal height measurement midway between the symphysis pubis and the umbilicus suggests a gestational age of 16 weeks. According to her dates, the patient is 14 weeks pregnant. As the difference between these two estimations is less than 3 weeks, the duration of pregnancy as calculated from the patient’s dates must be accepted as the correct one.
 
 1A
+{:.chapter-number}
 
-Skills workshop: General exam­ination at the first antenatal visit
+# Skills: General examination at the first antenatal visit
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Take an adequate history.
+*	Take an adequate history.
+*	Perform a good general examination.
+*	Test the patient’s urine.
+*	Perform and interpret a pregnancy test.
 
-Perform a good general examination.
-
-Test the patient’s urine.
-
-Perform and interpret a pregnancy test.
-
-History taking
+## History taking
 
 The purpose of taking a history is to assess the past and present obstetrical, medical and surgical problems in order to detect risk factors for the patient and her fetus.
 
-A. The last normal menstrual period (LMP)
+### A. The last normal menstrual period (LMP)
 
-Does the patient have a normal and regular menstrual cycle? When did she last have a normal menstrual period?
+Does the patient have a normal and regular menstrual cycle? When did she last have a *normal* menstrual period?
 
 It may be difficult to establish the LMP when she has an irregular cycle.
 
@@ -1263,119 +863,96 @@ If the patient is uncertain of her dates, it is often helpful to relate the onse
 
 The expected date of delivery (EDD) must now be estimated as accurately as possible. A quick estimate can be made by taking the date of the LMP and adding 9 months and 1 week. Therefore, if the LMP was on 2-2-2009, the EDD will be on 9-11-2009. If the LMP is 27-10-2009, the EDD will be 3-8-2010.
 
-B. Past obstetric history
+### B. Past obstetric history
 
 It is important to know how many pregnancies the patient has lost. Patients often forget about miscarriages and ectopic pregnancies, and may also not mention previous pregnancies from another husband or boyfriend. Questions which need to be asked are:
 
-How many times have you been pregnant? Ask specifically about miscarriages and ectopic pregnancies.
-
-How many children do you have? This can bring to light the fact that she has had twins.
-
-How many children do you have who are still alive? If a child has died, one needs to know approximately at what age the child died, and the cause of death, e.g. ‘died at 15 months from diarrhoea’. If the death occurred before delivery or during the neonatal period (first 28 days), information about the cause of death is of particular importance. Approximate birth weights of previous children, and the approximate period of gestation, if the infant was small or preterm, are useful. Low birth weight suggests either growth restriction or preterm delivery, and heavy infants should alert one to the possibility of maternal diabetes.
-
-Were you well during your previous pregnancies? In addition, asking about any episodes of hospitalisation can be helpful.
-
-How long were you in labour? It is important to know if she has had a long labour, as this may indicate cephalopelvic disproportion.
-
-The type of delivery is important. Any form of assisted delivery, including a Caesarean section, suggests that there may have been cephalopelvic disproportion. The patient should always be asked if she knows the reason for having had a Caesarean section. Information about the type of incision made in the uterus must be obtained from the hospital where the patient had her Caesarean section. A history of impacted shoulders is important as it suggests that the infant was very large.
-
-A retained placenta or postpartum haemorrhage in previous pregnancies should also specifically be asked about.
+1.	*How many times have you been pregnant?* Ask specifically about miscarriages and ectopic pregnancies.
+2.	*How many children do you have?* This can bring to light the fact that she has had twins.
+3.	*How many children do you have who are still alive?* If a child has died, one needs to know approximately at what age the child died, and the cause of death, e.g. ‘died at 15 months from diarrhoea’. If the death occurred before delivery or during the neonatal period (first 28 days), information about the cause of death is of particular importance. Approximate birth weights of previous children, and the approximate period of gestation, if the infant was small or preterm, are useful. Low birth weight suggests either growth restriction or preterm delivery, and heavy infants should alert one to the possibility of maternal diabetes.
+4.	*Were you well during your previous pregnancies?* In addition, asking about any episodes of hospitalisation can be helpful.
+5.	*How long were you in labour?* It is important to know if she has had a long labour, as this may indicate cephalopelvic disproportion.
+6.	*The type of delivery* is important. Any form of assisted delivery, including a Caesarean section, suggests that there may have been cephalopelvic disproportion. The patient should always be asked if she knows the reason for having had a Caesarean section. Information about the type of incision made in the uterus must be obtained from the hospital where the patient had her Caesarean section. A history of impacted shoulders is important as it suggests that the infant was very large.
+7.	*A retained placenta or postpartum haemorrhage* in previous pregnancies should also specifically be asked about.
 
 All these findings should be recorded briefly on the antenatal clinic record.
 
-C. Medical history
+### C. Medical history
 
 Patients must be asked about diabetes, epilepsy, hypertension, renal disease, heart valve disease and tuberculosis. Also ask about any other illnesses which she may have had. Asking about allergies and medication often brings to light a problem which the patient may have forgotten, or thought not to be of significance. Always ask whether she has ever had an operation or has been admitted to hospital and, if so, where and why.
 
 Any abnormal findings in the medical history should be recorded, with a brief comment, on the antenatal record.
 
-D. Family planning
+### D. Family planning
 
 The patient’s family planning needs and wishes should be discussed at the first antenatal visit. She (and her partner) should be encouraged to plan the number and spacing of their children. The contraceptive methods used should also be in keeping with these plans. The patient’s wishes should be respected. The outcome of these discussions should be recorded on the antenatal record.
 
-Examination of the patient
+## Examination of the patient
 
-E. General examination
+### E. General examination
 
 The following should be assessed:
 
-Height – measured in cm. This does not require special equipment. A tape measure stuck to the wall, or a wall marked at 1 cm intervals is adequate. The patient should not wear shoes when her height is measured.
+1.	*Height* – measured in cm. This does not require special equipment. A tape measure stuck to the wall, or a wall marked at 1 cm intervals is adequate. The patient should not wear shoes when her height is measured.
+2.	*Weight* – measured in kilograms. The patient should only wear light clothing while her weight is being measured. The scale should be periodically checked for accuracy, and, if necessary, re-calibrated. Latest research indicates that poor weight gain, no weight gain or excessive weight gain during pregnancy is not important. Worldwide there is a swing away from weighing patients except at the first antenatal visit.
+3.	*General appearance*:
+	*	Is the patient thin or overweight?
+	*	Is there evidence of recent weight loss?
+	*	The presence of pallor, oedema, jaundice and enlarged lymph nodes should be specifically looked for.
 
-Weight – measured in kilograms. The patient should only wear light clothing while her weight is being measured. The scale should be periodically checked for accuracy, and, if necessary, re-calibrated. Latest research indicates that poor weight gain, no weight gain or excessive weight gain during pregnancy is not important. Worldwide there is a swing away from weighing patients except at the first antenatal visit.
-
-General appearance:
-
-Is the patient thin or overweight?
-
-Is there evidence of recent weight loss?
-
-The presence of pallor, oedema, jaundice and enlarged lymph nodes should be specifically looked for.
-
-F. Examination of the thyroid gland
+### F. Examination of the thyroid gland
 
 This can be difficult when the patient has a short, thick neck, or when she is obese. Look for an obviously enlarged thyroid gland (a goitre). The patient should be referred for further investigation when there is obvious enlargement of the thyroid, the thyroid feels nodular, or a single nodule can be felt. A normal thyroid gland is usually slightly enlarged during pregnancy.
 
-G. Examination of the breasts
+### G. Examination of the breasts
 
 The patient must be undressed in order for the breasts to be examined properly. The breasts should be examined with the patient both sitting and lying on her back, with her hands above her head.
 
-Look: There may be obvious gross abnormalities. Particularly look for any distortion of the breasts or nipples. The nipples should be specifically examined with regard to their position and deformity (if any), discharge, and whether or not they are inverted. Note any eczema of the areola.
+1.	*Look*: There may be obvious gross abnormalities. Particularly look for any distortion of the breasts or nipples. The nipples should be specifically examined with regard to their position and deformity (if any), discharge, and whether or not they are inverted. Note any eczema of the areola.
+2.	*Feel*: Feel for lumps, using the flat hand rather than the fingers.
 
-Feel: Feel for lumps, using the flat hand rather than the fingers.
-
-H. Examination of the lymph nodes
+### H. Examination of the lymph nodes
 
 When the thyroid is examined, the neck should also be thoroughly examined for enlarged lymph nodes. The areas above the clavicles and behind the ears must be palpated. The axillae and inguinal areas should also be examined for enlarged lymph nodes.
 
 Patients with AIDS usually have enlarged lymph nodes in all these areas.
 
-I. Examination of the chest
+### I. Examination of the chest
 
 The patient must be undressed. Look for any of the following signs:
 
-Any deformities or scars.
+1.	Any deformities or scars.
+2.	Any abnormality of the spine.
+3.	Any difficulty breathing (dyspnoea).
 
-Any abnormality of the spine.
+### J. Examination of the cardiovascular system
 
-Any difficulty breathing (dyspnoea).
+1.	*Pulse*. The rate is important. A rapid heart rate is almost always an indication that the patient is anxious or ill.
+2.	*Blood pressure*. It is important that the blood pressure is recorded correctly.
 
-J. Examination of the cardiovascular system
-
-Pulse. The rate is important. A rapid heart rate is almost always an indication that the patient is anxious or ill.
-
-Blood pressure. It is important that the blood pressure is recorded correctly.
-
-Testing the patient’s urine
+## Testing the patient’s urine
 
 Urine is most conveniently tested using reagent strips. Some strips, such as Lenstrip‑5, will measure pH, glucose, ketones, protein and blood while others, such as Multistix and Combi-9, will also measure bilirubin, specific gravity, urobilinogen, nitrite and leucocytes. However, measuring glucose and protein are most important and, therefore, only glucose and protein need to be measured in routine antenatal screening. You can use Uristix for this. This is the cheapest method and the cost can be reduced even further by cutting the strips in two, longitudinally.
 
 The strips should be kept in their containers, away from direct sunlight, and at a temperature of less than 30 °C. A cool dry cupboard is satisfactory. The strips should only be removed from their containers one at a time immediately before use, and the container should be closed immediately.
 
-K. Procedure for testing urine
+### K. Procedure for testing urine
 
-The patient should pass a fresh specimen of urine. If the specimen is more than 1 hour old the test results may be unreliable.
-
-The specimen should be collected in a clean, dry container.
-
-Dip the reagent strip in the urine so that all the reagent areas are covered, and then remove it immediately. If the strip is left in the urine, the reagents dissolve out of the strip, giving a false reading.
-
-Draw the edge of the reagent strip across the edge of the urine container to remove excess urine, and hold the strip horizontally.
-
-Hold the strip close to the colour chart on the container label (but not touching it). It is important to compare the colours of the test strip with those on the chart at the correct times. Most of the test results are read between 30 and 60 seconds after dipping the strip in urine:
-
-Lenstrip-5: All the tests are read after 30–60 seconds.
-
-Multistix: The times for reading the individual tests are on the chart.
-
-Combi-9: All the tests are read after 60 seconds.
-
-After 2 minutes the colours on the reagent strips no longer give a reliable result.
+1.	The patient should pass a fresh specimen of urine. If the specimen is more than 1 hour old the test results may be unreliable.
+2.	The specimen should be collected in a clean, dry container.
+3.	Dip the reagent strip in the urine so that all the reagent areas are covered, and then remove it immediately. If the strip is left in the urine, the reagents dissolve out of the strip, giving a false reading.
+4.	Draw the edge of the reagent strip across the edge of the urine container to remove excess urine, and hold the strip horizontally.
+5.	Hold the strip close to the colour chart on the container label (but not touching it). It is important to compare the colours of the test strip with those on the chart at the correct times. Most of the test results are read between 30 and 60 seconds after dipping the strip in urine:
+	*	Lenstrip-5: All the tests are read after 30–60 seconds.
+	*	Multistix: The times for reading the individual tests are on the chart.
+	*	Combi-9: All the tests are read after 60 seconds.
+6.	After 2 minutes the colours on the reagent strips no longer give a reliable result.
 
 The patient’s urine should be tested at every antenatal visit, and the results recorded on the antenatal chart. Proteinuria of 1+ or more is abnormal while glycosuria must be investigated further.
 
-Doing a pregnancy test
+## Doing a pregnancy test
 
-L. Indications for a pregnancy test
+### L. Indications for a pregnancy test
 
 This test is usually done when a patient has missed 1 or more menstrual periods and when, on clinical examination, one is uncertain whether or not she is pregnant.
 
@@ -1386,511 +963,386 @@ The earliest that the test can be expected to be positive is 10 days after conce
 Note
 :	Modern pregnancy tests, which use reagent strips, are very accurate and become positive when the β-hCG concentration in the urine reaches 20 mIU/ml.
 
-M. Storage of test kit
+### M. Storage of test kit
 
 The test which is described in this unit is the U-test β-hCG strip foil. If another pregnancy test is used, the method of doing the test and reading the results must be carefully studied in the instruction booklet. All these kits can be stored at room temperature. However, do not expose to direct sunlight, moisture or heat.
 
-N. Method of performing a pregnancy test
+### N. Method of performing a pregnancy test
 
 The patient should bring a fresh urine specimen.
 
-Open the foil wrapper and remove the test strip.
+1.	Open the foil wrapper and remove the test strip.
+2.	Hold the blue end of the test strip so that the blue arrow points downwards. Dip the test strip into the urine, as far as the point of the arrow, for 5 seconds.
+3.	Place the test strip on a flat surface and read after 30 seconds. The result is not reliable if the test strip is read more than 10 minutes after it was dipped into the urine.
 
-Hold the blue end of the test strip so that the blue arrow points downwards. Dip the test strip into the urine, as far as the point of the arrow, for 5 seconds.
+### O. Reading the result of the pregnancy test
 
-Place the test strip on a flat surface and read after 30 seconds. The result is not reliable if the test strip is read more than 10 minutes after it was dipped into the urine.
+1.	*Negative* if only the control band nearest the upper blue part of the test strip becomes pink.
+2.	*Positive* if 2 pink bands are visible. Between the control band and the blue part of the test strip another pink band is seen.
+3.	*Uncertain* if no pink bands are seen. Either the test was not performed correctly or the test strip is damaged. Repeat the test with another test strip.
 
-O. Reading the result of the pregnancy test
 
-Negative if only the control band nearest the upper blue part of the test strip becomes pink.
-
-Positive if 2 pink bands are visible. Between the control band and the blue part of the test strip another pink band is seen.
-
-Uncertain if no pink bands are seen. Either the test was not performed correctly or the test strip is damaged. Repeat the test with another test strip.
 
 1B
+{:.chapter-number}
 
-Skills workshop: Examination of the abdomen in pregnancy
+# Skills: Examination of the abdomen in pregnancy
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Determine the gestational age from the size of the uterus.
+*	Determine the gestational age from the size of the uterus.
+*	Measure the symphysis-fundus height.
+*	Assess the lie and the presentation of the fetus.
+*	Assess the amount of liquor present.
+*	Listen to the fetal heart.
+*	Assess fetal movements.
+*	Assess the state of fetal wellbeing.
 
-Measure the symphysis-fundus height.
-
-Assess the lie and the presentation of the fetus.
-
-Assess the amount of liquor present.
-
-Listen to the fetal heart.
-
-Assess fetal movements.
-
-Assess the state of fetal wellbeing.
-
-General examination of the abdomen
+## General examination of the abdomen
 
 There are two main parts to the examination of the abdomen:
 
-General examination of the abdomen.
+1.	General examination of the abdomen.
+2.	Examination of the uterus and the fetus.
 
-Examination of the uterus and the fetus.
+### A. Preparation of the patient for examination
 
-A. Preparation of the patient for examination
+1.	The patient should have an empty bladder.
+2.	She should lie comfortably on her back with a pillow under her head. She should *not* lie slightly turned to the side, as is needed when the blood pressure is being taken.
 
-The patient should have an empty bladder.
-
-She should lie comfortably on her back with a pillow under her head. She should not lie slightly turned to the side, as is needed when the blood pressure is being taken.
-
-B. General appearance of the abdomen
+### B. General appearance of the abdomen
 
 The following should be specifically looked for and noted:
 
-The presence of obesity.
+1.	The presence of obesity.
+2.	The presence or absence of scars. When a scar is seen, the reason for it should be specifically asked for (e.g. what operation did you have?), if this has not already become clear from the history.
+3.	The apparent size and shape of the uterus.
+4.	Any abnormalities.
 
-The presence or absence of scars. When a scar is seen, the reason for it should be specifically asked for (e.g. what operation did you have?), if this has not already become clear from the history.
+### C. Palpation of the abdomen
 
-The apparent size and shape of the uterus.
+1.	The liver, spleen, and kidneys must be specifically palpated.
+2.	Any other abdominal mass should be noted.
+3.	The presence of an enlarged organ, or a mass, should be reported to the responsible doctor, and the patient should then be assessed by the doctor.
 
-Any abnormalities.
+## Examination of the uterus and the fetus
 
-C. Palpation of the abdomen
+### D. Palpation of the uterus
 
-The liver, spleen, and kidneys must be specifically palpated.
+1.	Check whether the uterus is lying in the midline of the abdomen. Sometimes it is rotated either to the right or the left.
+2.	Feel the wall of the uterus for irregularities. An irregular uterine wall suggests either:
+	*	The presence of myomas (fibroids) which usually enlarge during pregnancy and may become painful.
+	*	A congenital abnormality such as a bicornuate uterus.
 
-Any other abdominal mass should be noted.
+### E. Determining the size of the uterus before 18 weeks gestation
 
-The presence of an enlarged organ, or a mass, should be reported to the responsible doctor, and the patient should then be assessed by the doctor.
+1.	Anatomical landmarks, i.e. the symphysis pubis and the umbilicus, are used.
+2.	Gently palpate the abdomen with the left hand to determine the height of the fundus of the uterus:
+	*	If the fundus is palpable just above the symphysis pubis, the gestational age is probably 12 weeks.
+	*	If the fundus reaches halfway between the symphysis and the umbilicus, the gestational age is probably 16 weeks.
+	*	If the fundus is at the same height as the umbilicus, the gestational age is probably 22 weeks (1 finger under the umbilicus = 20 weeks and 1 finger above the umbilicus = 24 weeks).
 
-Examination of the uterus and the fetus
-
-D. Palpation of the uterus
-
-Check whether the uterus is lying in the midline of the abdomen. Sometimes it is rotated either to the right or the left.
-
-Feel the wall of the uterus for irregularities. An irregular uterine wall suggests either:
-
-The presence of myomas (fibroids) which usually enlarge during pregnancy and may become painful.
-
-A congenital abnormality such as a bicornuate uterus.
-
-E. Determining the size of the uterus before 18 weeks gestation
-
-Anatomical landmarks, i.e. the symphysis pubis and the umbilicus, are used.
-
-Gently palpate the abdomen with the left hand to determine the height of the fundus of the uterus:
-
-If the fundus is palpable just above the symphysis pubis, the gestational age is probably 12 weeks.
-
-If the fundus reaches halfway between the symphysis and the umbilicus, the gestational age is probably 16 weeks.
-
-If the fundus is at the same height as the umbilicus, the gestational age is probably 22 weeks (1 finger under the umbilicus = 20 weeks and 1 finger above the umbilicus = 24 weeks).
-
-F. Determining the height of the fundus from 18 weeks gestation
+### F. Determining the height of the fundus from 18 weeks gestation
 
 The symphysis-fundus height should be measured as follows:
 
-Feel for the fundus of the uterus. This is done by starting to gently palpate from the lower end of the sternum. Continue to palpate down the abdomen until the fundus is reached. When the highest part of the fundus has been identified, mark the skin at this point with a pen. If the uterus is rotated away from the midline, the highest point of the uterus will not be in the midline but will be to the left or right of the midline. Therefore, also palpate away from the midline to make sure that you mark the highest point at which the fundus can be palpated. Do not move the fundus into the midline before marking the highest point.
-
-Measure the symphysis-fundus (s-f) height. Having marked the fundal height, hold the end of the tape measure at the top of the symphysis pubis. Lay the tape measure over the curve of the uterus to the point marking the top of the uterus. The tape measure must not be stretched while doing the measurement. Measure this distance in centimetres from the symphysis pubis to the top of the fundus. This is the symphysis-fundus height.
-
-If the uterus does not lie in the midline but, for example, lies to the right, then the distance to the highest point of the uterus must still be measured without moving the uterus into the midline.
+1.	*Feel for the fundus of the uterus*. This is done by starting to gently palpate from the lower end of the sternum. Continue to palpate down the abdomen until the fundus is reached. When the highest part of the fundus has been identified, mark the skin at this point with a pen. If the uterus is rotated away from the midline, the highest point of the uterus will not be in the midline but will be to the left or right of the midline. Therefore, also palpate away from the midline to make sure that you mark the highest point at which the fundus can be palpated. Do not move the fundus into the midline before marking the highest point.
+2.	*Measure the symphysis-fundus (s-f) height*. Having marked the fundal height, hold the end of the tape measure at the top of the symphysis pubis. Lay the tape measure over the curve of the uterus to the point marking the top of the uterus. The tape measure must not be stretched while doing the measurement. Measure this distance in centimetres from the symphysis pubis to the top of the fundus. This is the symphysis-fundus height.
+3.	If the uterus does not lie in the midline but, for example, lies to the right, then the distance to the highest point of the uterus must still be measured *without* moving the uterus into the midline.
 
 Having determined the height of the fundus, you need to assess whether the height of the fundus corresponds to the patient’s dates, and to the size of the fetus. From 18 weeks, the s-f height must be plotted on the s-f growth curve to determine the gestational age. This method is, therefore, only used once the fundal height has reached 18 weeks. In other words, when the s-f height has reached 2 fingers width under the umbilicus.
 
-G. Palpation of the fetus
+### G. Palpation of the fetus
 
 The lie and presenting part of the fetus only becomes important when the gestational age reaches 34 weeks.
 
 The following must be determined:
 
-The lie of the fetus. This is the relationship of the long axis of the fetus to that of the mother. The lie may be longitudinal, transverse, or oblique.
+1.	*The lie of the fetus*. This is the relationship of the long axis of the fetus to that of the mother. The lie may be longitudinal, transverse, or oblique.
+2.	*The presentation of the fetus*. This is determined by the presenting part:
+	*	If there is a breech, it is a breech presentation.
+	*	If there is a head, it is a cephalic presentation.
+	*	If no presenting part can be felt, it is a transverse or oblique lie.
+3.	*The position of the back of the fetus*. This refers to whether the back of the fetus is on the left or right side of the uterus, and will assist in determining the position of the presenting part.
 
-The presentation of the fetus. This is determined by the presenting part:
-
-If there is a breech, it is a breech presentation.
-
-If there is a head, it is a cephalic presentation.
-
-If no presenting part can be felt, it is a transverse or oblique lie.
-
-The position of the back of the fetus. This refers to whether the back of the fetus is on the left or right side of the uterus, and will assist in determining the position of the presenting part.
-
-H. Methods of palpation
+### H. Methods of palpation
 
 There are four specific steps for palpating the fetus. These are performed systematically. With the mother lying comfortably on her back, the examiner faces the patient for the first three steps, and faces towards her feet for the fourth.
 
-First step. Having established the height of the fundus, the fundus itself is gently palpated with the fingers of both hands, in order to discover which pole of the fetus (breech or head) is present. The head feels hard and round, and is easily movable and ballotable. The breech feels soft, triangular and continuous with the body.
-
-Second step. The hands are now placed on the sides of the abdomen. On one side there is the smooth, firm curve of the back of the fetus, and on the other side, the rather knobbly feel of the fetal limbs. It is often difficult to feel the fetus well when the patient is obese, when there is a lot of liquor, or when the uterus is tight, as in some primigravidas.
-
-Third step. The examiner grasps the lower portion of the abdomen, just above the symphysis pubis, between the thumb and fingers of one hand. The objective is to feel for the presenting part of the fetus and to decide whether the presenting part is loose above the pelvis or fixed in the pelvis. If the head is loose above the pelvis, it can be easily moved and balloted. The head and breech are differentiated in the same way as in the first step.
-
-Fourth step. The objective of this step is to determine the amount of head palpable above the pelvic brim, if there is a cephalic presentation. The examiner faces the patient’s feet, and with the tips of the middle 3 fingers palpates deeply in the pelvic inlet. In this way the head can usually be readily palpated, unless it is already deeply in the pelvis. The amount of the head palpable above the pelvic brim can also be determined.
+1.	*First step*. Having established the height of the fundus, the fundus itself is gently palpated with the fingers of both hands, in order to discover which pole of the fetus (breech or head) is present. The head feels hard and round, and is easily movable and ballotable. The breech feels soft, triangular and continuous with the body.
+2.	*Second step*. The hands are now placed on the sides of the abdomen. On one side there is the smooth, firm curve of the back of the fetus, and on the other side, the rather knobbly feel of the fetal limbs. It is often difficult to feel the fetus well when the patient is obese, when there is a lot of liquor, or when the uterus is tight, as in some primigravidas.
+3.	*Third step*. The examiner grasps the lower portion of the abdomen, just above the symphysis pubis, between the thumb and fingers of one hand. The objective is to feel for the presenting part of the fetus and to decide whether the presenting part is loose above the pelvis or fixed in the pelvis. If the head is loose above the pelvis, it can be easily moved and balloted. The head and breech are differentiated in the same way as in the first step.
+4.	*Fourth step*. The objective of this step is to determine the amount of head palpable above the pelvic brim, if there is a cephalic presentation. The examiner faces the patient’s feet, and with the tips of the middle 3 fingers palpates deeply in the pelvic inlet. In this way the head can usually be readily palpated, unless it is already deeply in the pelvis. The amount of the head palpable above the pelvic brim can also be determined.
 
 I. Special points about the palpation of the fetus
 
-When you are palpating the fetus, always try to assess the size of the fetus itself. Does the fetus fill the whole uterus, or does it seem to be smaller than you would expect for the size of the uterus and the duration of pregnancy? A fetus which feels smaller than you would expect for the duration of pregnancy, suggests intra-uterine growth restriction, while a fetus which feels smaller than expected for the size of the uterus, suggests the presence of a multiple pregnancy.
+1.	When you are palpating the fetus, always try to assess the size of the fetus itself. Does the fetus fill the whole uterus, or does it seem to be smaller than you would expect for the size of the uterus and the duration of pregnancy? A fetus which feels smaller than you would expect for the duration of pregnancy, suggests intra-uterine growth restriction, while a fetus which feels smaller than expected for the size of the uterus, suggests the presence of a multiple pregnancy.
+2.	If you find an abnormal lie when you palpate the fetus, you should always consider the possibility of a multiple pregnancy. When you suspect that a patient might have a multiple pregnancy, she should have an ultrasound examination.
 
-If you find an abnormal lie when you palpate the fetus, you should always consider the possibility of a multiple pregnancy. When you suspect that a patient might have a multiple pregnancy, she should have an ultrasound examination.
+### J. Special points about the palpation of the fetal head
 
-J. Special points about the palpation of the fetal head
+1.	*Does the head feel too small for the size of the uterus?* You should always try to relate the size of the head to the size of the uterus and the duration of pregnancy. If it feels smaller than you would have expected, consider the possibility of a multiple pregnancy.
+2.	*Does the head feel too hard for the size of the fetus?* The fetal head feels harder as the pregnancy gets closer to term. A relatively small fetus with a hard head suggests the presence of intra-uterine growth restriction.
 
-Does the head feel too small for the size of the uterus? You should always try to relate the size of the head to the size of the uterus and the duration of pregnancy. If it feels smaller than you would have expected, consider the possibility of a multiple pregnancy.
-
-Does the head feel too hard for the size of the fetus? The fetal head feels harder as the pregnancy gets closer to term. A relatively small fetus with a hard head suggests the presence of intra-uterine growth restriction.
-
-K. Assessment of the amount of liquor present
+### K. Assessment of the amount of liquor present
 
 This is not always easy to feel. The amount of liquor decreases as the pregnancy nears term. The amount of liquor is assessed clinically by feeling the way that the fetus can be moved (balloted) while being palpated.
 
-If the liquor volume is reduced (oligohydramnios), it suggests that:
-
-There may be intra-uterine growth restriction.
-
-There may be a urinary tract obstruction or some other urinary tract abnormality in the fetus. This is uncommon.
-
-If the liquor volume is increased (polyhydramnios), it suggests that one of the following conditions may be present:
-
-Multiple pregnancy.
-
-Maternal diabetes.
-
-A fetal abnormality such as spina bifida, anencephaly or oesophageal atresia.
+1.	If the liquor volume is reduced (oligohydramnios), it suggests that:
+	*	There may be intra-uterine growth restriction.
+	*	There may be a urinary tract obstruction or some other urinary tract abnormality in the fetus. This is uncommon.
+2.	If the liquor volume is increased (polyhydramnios), it suggests that one of the following conditions may be present:
+	*	Multiple pregnancy.
+	*	Maternal diabetes.
+	*	A fetal abnormality such as spina bifida, anencephaly or oesophageal atresia.
 
 In many cases, however, the cause of polyhydramnios is unknown. However, serious problems can be present and the patient should be referred to a hospital where the fetus can be carefully assessed. The patient needs an ultrasound examination by a trained person to exclude multiple pregnancy or a congenital abnormality in the fetus.
 
-L. Assessment of uterine irritability
+### L. Assessment of uterine irritability
 
 This means that the uterus feels tight, or has a contraction, while being palpated. Uterine irritability normally only occurs after 36 weeks of pregnancy, i.e. near term. If there is an irritable uterus before this time, it suggests either that there is intra-uterine growth restriction or that the patient may be in, or is likely to go into, preterm labour.
 
 M. Listening to the fetal heart
 
-Where should you listen? The fetal heart is most easily heard by listening over the back of the fetus. This means that the lie and position of the fetus must be established by palpation before listening for the fetal heart.
+1.	*Where should you listen?* The fetal heart is most easily heard by listening over the back of the fetus. This means that the lie and position of the fetus must be established by palpation before listening for the fetal heart.
+2.	*When should you listen to the fetal heart?* You need only listen to the fetal heart if a patient has not felt any fetal movements during the day. Listening to the fetal heart is, therefore, done to rule out an intra-uterine death.
+3.	*How long should you listen for?* You should listen long enough to be sure that what you are hearing is the fetal heart and not the mother’s heart. When you are listening to the fetal heart, you should, at the same time, also feel the mother’s pulse.
 
-When should you listen to the fetal heart? You need only listen to the fetal heart if a patient has not felt any fetal movements during the day. Listening to the fetal heart is, therefore, done to rule out an intra-uterine death.
-
-How long should you listen for? You should listen long enough to be sure that what you are hearing is the fetal heart and not the mother’s heart. When you are listening to the fetal heart, you should, at the same time, also feel the mother’s pulse.
-
-N. Assessment of fetal movements
+### N. Assessment of fetal movements
 
 The fetus makes two types of movement:
 
-Kicking movements, which are caused by movement of the limbs. These are usually quick movements.
-
-Rolling movements, which are caused by the fetus changing position.
+1.	*Kicking* movements, which are caused by movement of the limbs. These are usually quick movements.
+2.	*Rolling* movements, which are caused by the fetus changing position.
 
 When you ask a patient to count her fetal movements, she must count both types of movement.
 
 If there is a reason for the patient to count fetal movements and to record them on a fetal-movement chart, it should be done as follows:
 
-Time of day. Most patients find that the late morning is a convenient time to record fetal movements. However, she should be encouraged to choose the time which suits her best. She will need to rest for an hour. It is best that she use the same time every day.
+1.	*Time of day*. Most patients find that the late morning is a convenient time to record fetal movements. However, she should be encouraged to choose the time which suits her best. She will need to rest for an hour. It is best that she use the same time every day.
+2.	*Length of time*. This should be for 1 hour per day, and the patient should be able to rest and not be disturbed for this period of time. Sometimes the patient may be asked to rest and count fetal movements for 2 or more half-hour periods a day. The patient must have access to a watch or clock, and know how to measure half- and 1-hour periods.
+3.	*Position of the patient*. She may either sit or lie down. If she lies down, she should lie on her side. In either position she should be relaxed and comfortable.
+4.	*Recording of fetal movements*. The fetal movements should be recorded on a chart as shown in Table 1B-1.
 
-Length of time. This should be for 1 hour per day, and the patient should be able to rest and not be disturbed for this period of time. Sometimes the patient may be asked to rest and count fetal movements for 2 or more half-hour periods a day. The patient must have access to a watch or clock, and know how to measure half- and 1-hour periods.
+Table 1B-1: Chart for recording fetal movements
+{:.table-caption}
 
-Position of the patient. She may either sit or lie down. If she lies down, she should lie on her side. In either position she should be relaxed and comfortable.
+| Date   | Time  |           | Total |
+|--------+-------+-----------+-------|
+| 3 July | 8–9   | ✓✓✓✓✓✓    | 6     |
+| 4 July | 11–12 | ✓✓✓✓✓✓✓✓✓ | 9     |
+| 5 July | 8–9   | ✓✓✓       | 3     |
 
-Recording of fetal movements. The fetal movements should be recorded on a chart as shown in Figure 1B-6.
+The chart records that:
 
-
-
-Date
-
-	Time
-
-		Total
-
-
-
-3 July	8–9	ü ü ü ü ü ü	6
-
-4 July	11–12	ü ü ü ü ü ü ü ü ü	9
-
-5 July	8–9	ü ü ü	3
-
-
-
-Between 08:00 and 09:00 on 3 July the fetus moved 6 times.
-
-Between 11:00 and 12:00 on 4 July the fetus moved 9 times.
-
-Between 08:00 and 09:00 on 5 July the fetus moved 3 times.
+*	*Between 08:00 and 09:00 on 3 July the fetus moved 6 times.*
+*	*Between 11:00 and 12:00 on 4 July the fetus moved 9 times.*
+*	*Between 08:00 and 09:00 on 5 July the fetus moved 3 times.*
 
 Every time the fetus moves, the patient must make a tick on the chart so that all the movements are recorded. The time and day should be marked on the chart. If the patient is illiterate, the nurse giving her the chart can fill in the day (and times if the chart is to be used more than once a day). It is important to explain to the patient exactly how to use the chart. Remember that a patient who is resting can easily fall asleep and, therefore, miss fetal movements.
 
 O. Assessment of the state of fetal wellbeing
 
-It is very important to assess the state of fetal wellbeing at the end of every abdominal palpation. This is done by taking into account all the features mentioned in this skills workshop.
+It is very important to assess the state of fetal wellbeing at the end of *every* abdominal palpation. This is done by taking into account all the features mentioned in this skills chapter.
+
+
+
 
 1C
+{:.chapter-number}
 
-Skills workshop: Vaginal examination in pregnancy
+# Skills: Vaginal examination in pregnancy
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-List the indications for a vaginal examination.
+*	List the indications for a vaginal examination.
+*	Insert a bivalve speculum.
+*	Perform a bimanual vaginal examination.
+*	Take a cervical smear.
 
-Insert a bivalve speculum.
-
-Perform a bimanual vaginal examination.
-
-Take a cervical smear.
-
-Indications for a vaginal examination
+## Indications for a vaginal examination
 
 A vaginal examination is the most intimate examination a woman is ever subjected to. It must never be performed without:
 
-A careful explanation to the patient about the examination.
+1.	A careful explanation to the patient about the examination.
+2.	Asking permission from the patient to perform the examination.
+3.	A valid reason for performing the examination.
 
-Asking permission from the patient to perform the examination.
+### A. Indications for a vaginal examination in pregnancy
 
-A valid reason for performing the examination.
+1.	*At the first visit*:
+	*	The diagnosis of pregnancy during the first trimester.
+	*	Assessment of the gestational age.
+	*	Detection of abnormalities in the genital tract.
+	*	Investigation of a vaginal discharge.
+	*	Examination of the cervix.
+	*	Taking a cervical (Papanicolaou) smear.
+2.	*At subsequent antenatal visits*:
+	*	Investigation of a threatened abortion.
+	*	Confirmation of preterm rupture of the membranes with a sterile speculum.
+	*	To confirm the diagnosis of preterm labour.
+	*	Detection of cervical effacement and/or dilatation in a patient with a risk for preterm labour e.g. multiple pregnancy, a previous midtrimester abortion, preterm labour or polyhydramnios.
+	*	Assessment of the ripeness of the cervix prior to induction of labour.
+	*	Identification of the presenting part in the pelvis.
+	*	Performance of a pelvic assessment.
+3.	*Immediately before labour*:
+	*	Performance of artificial rupture of the membranes to induce labour.
 
-A. Indications for a vaginal examination in pregnancy
+### B. Contraindications to a vaginal examination in pregnancy
 
-At the first visit:
+1.	*Antepartum haemorrhage*. However, there are two exceptions to this rule:
+	*	A cephalic presentation with the fetal head palpable 2/5 or less above the pelvic brim (i.e. engaged), thereby, excluding a placenta praevia.
+	*	Obvious signs and symptoms of abruptio placentae.
+2.	Preterm and prelabour rupture of the membranes without contractions (except with a sterile speculum to confirm or exclude rupture of the membranes).
 
-The diagnosis of pregnancy during the first trimester.
+## Method of vaginal examination
 
-Assessment of the gestational age.
+### C. Preparation for vaginal examination
 
-Detection of abnormalities in the genital tract.
+1.	The bladder must be empty.
+2.	The procedure must be carefully explained to the patient.
+3.	The patient is put in the dorsal or lithotomy position:
+	*	The *dorsal* position is more comfortable and less embarrassing than the lithotomy position and does not require any equipment. This is the position most often used.
+	*	The *lithotomy* position provides better access to the genital tract than the dorsal position. Lithotomy poles and stirrups are required.
 
-Investigation of a vaginal discharge.
+> A vaginal examination must always be preceded by an abdominal examination.
 
-Examination of the cervix.
-
-Taking a cervical (Papanicolaou) smear.
-
-At subsequent antenatal visits:
-
-Investigation of a threatened abortion.
-
-Confirmation of preterm rupture of the membranes with a sterile speculum.
-
-To confirm the diagnosis of preterm labour.
-
-Detection of cervical effacement and/or dilatation in a patient with a risk for preterm labour e.g. multiple pregnancy, a previous midtrimester abortion, preterm labour or polyhydramnios.
-
-Assessment of the ripeness of the cervix prior to induction of labour.
-
-Identification of the presenting part in the pelvis.
-
-Performance of a pelvic assessment.
-
-Immediately before labour:
-
-Performance of artificial rupture of the membranes to induce labour.
-
-B. Contraindications to a vaginal examination in pregnancy
-
-Antepartum haemorrhage. However, there are two exceptions to this rule:
-
-A cephalic presentation with the fetal head palpable 2/5 or less above the pelvic brim (i.e. engaged), thereby, excluding a placenta praevia.
-
-Obvious signs and symptoms of abruptio placentae.
-
-Preterm and prelabour rupture of the membranes without contractions (except with a sterile speculum to confirm or exclude rupture of the membranes).
-
-Method of vaginal examination
-
-C. Preparation for vaginal examination
-
-The bladder must be empty.
-
-The procedure must be carefully explained to the patient.
-
-The patient is put in the dorsal or lithotomy position:
-
-The dorsal position is more comfortable and less embarrassing than the lithotomy position and does not require any equipment. This is the position most often used.
-
-The lithotomy position provides better access to the genital tract than the dorsal position. Lithotomy poles and stirrups are required.
-
-A vaginal examination must always be preceded by an abdominal examination.
-
-D. Examination of the vulva
+### D. Examination of the vulva
 
 The vulva must be carefully inspected for any abnormalities, such as scars, warts, varicosities, congenital abnormalities, ulcers or discharge.
 
-E. Speculum examination
+### E. Speculum examination
 
-A speculum examination is always performed at the first antenatal visit. At subsequent antenatal visits this examination is only done when indicated, e.g. to investigate a vaginal discharge or in the case of preterm or prelabour rupture of the membranes.
+1.	A speculum examination is always performed at the first antenatal visit. At subsequent antenatal visits this examination is only done when indicated, e.g. to investigate a vaginal discharge or in the case of preterm or prelabour rupture of the membranes.
+2.	The Cusco or bivalve speculum is the one most commonly used.
 
-The Cusco or bivalve speculum is the one most commonly used.
+### F. Insertion of a bivalve speculum
 
-F. Insertion of a bivalve speculum
+1.	The procedure must be explained to the patient.
+2.	The labia are parted with the fingers of the gloved left hand.
+3.	The patient is asked to bear down.
+4.	The closed speculum is gently inserted posteriorly into the vagina. Great care must be taken to avoid undue contact with the anterior vaginal wall at the introitus as this causes great discomfort, or even pain, from pressure on the urethra.
+5.	As soon as the speculum has passed through the vaginal opening, the blades must be slightly opened. The speculum is now inserted deeper into the vagina. When the cervix is reached, the speculum is fully opened. This method allows for inspection of the vaginal walls during insertion and ensures that the cervix is found.
+6.	Any vaginal discharge must be identified. Where needed, a sample is taken with a wooden spatula.
+7.	The vagina is inspected for congenital abnormalities such as a vaginal septum, a vaginal stenosis or a double vagina and cervix.
+8.	The cervix is inspected for any laceration or tumour. A smooth red area sur­roun­ding the external os that retains the normal smooth surface is normal during the reproductive years and is called ectopy.
+9.	If there is a history of rupture of the membranes, the presence of liquor is noted and tested for.
+10.	A cervical (Papanicolaou) smear must be taken if a smear has not been taken recently.
+11.	At the end of the examination the speculum is gently withdrawn, keeping it slightly open, so that the vaginal walls can again be inspected all the way out.
 
-The procedure must be explained to the patient.
+### G. Taking a cervical smear
 
-The labia are parted with the fingers of the gloved left hand.
+1.	A cervical (Papanicolaou) smear is taken to detect abnormalities of the cervix, e.g. human papilloma virus infection, cervical intra-epithelial neoplasia or carcinoma of the cervix.
+2.	Ideally the first cervical smear should be taken when the patient becomes sexually active. In practice the first smear is usually taken when the patient first attends a family planning or antenatal clinic.
+3.	If the cervical smear is normal, it should be repeated at 30, 40 and 50 years of age.
+4.	The technique of taking a cervical smear is as follows:
+	*	The name, folder number and date must be written on the slide with a pencil beforehand. Also make sure that a spray can is close at hand to fix the slide.
+	*	A vaginal speculum is inserted.
+	*	The cervix must be clearly seen and is carefully inspected.
+	*	A suitable spatula is inserted into the cervix and rotated through 360 degrees, making sure that the whole circumference is gently scraped. It is important that the smear is taken from the inside of the cervical canal as well as from the surface of the cervix. An Ayres (Aylesbury) or tongue spatula must be used and not a brush with sharp or long points such as a Cervibrush or Cytobrush.
+	*	The material obtained is smeared onto a glass slide and *immediately* sprayed with Papanicolaou’s fixative.
+	*	When the slide is dry, it is sent to the laboratory for examination.
 
-The patient is asked to bear down.
+### H. Performing a bimanual examination
 
-The closed speculum is gently inserted posteriorly into the vagina. Great care must be taken to avoid undue contact with the anterior vaginal wall at the introitus as this causes great discomfort, or even pain, from pressure on the urethra.
+1.	 First 1 and then, where possible, 2 gloved and lubricated fingers are gently inserted into the vagina.
+2.	If a vaginal septum or stenosis is present, the patient should be referred to a doctor to decide whether delivery will be interfered with.
+3.	The cervix is palpated and the following are noted:
+	*	Any dilatation.
+	*	The length of the cervix in cm, i.e. whether the cervix is effaced or not.
+	*	The surface should be smooth and regular.
+	*	The consistency, which will become softer during pregnancy.
+4.	Special care must be taken, when performing a bimanual examination *late* in pregnancy and in the presence of a high presenting part, not to damage a low-lying placenta. If the latter is suspected, a finger must not be inserted into the cervical canal. Instead, the presenting part is gently palpated through all the fornices. If any bogginess is noted between the fingers of the examining hand and the presenting part, the examination must be immediately abandoned and the patient must be referred urgently for ultrasonography.
+5.	Where possible the presenting part is identified.
+6.	A most important part of the bimanual examination is the determination of the gestational age, by estimating the size of the uterus and comparing it with the period of amenorrhoea. This is only really accurate in the first trimester. Thereafter, the fundal height and the size of the fetus must be determined by abdominal examination.
+7.	The uterine wall is palpated for any irregularity, suggesting the presence of a congenital abnormality (e.g. bicornuate uterus) or myomata (fibroids).
+8.	Lastly, the fornices are palpated to exclude any masses, the commonest of which is an ovarian cyst or tumour.
 
-As soon as the speculum has passed through the vaginal opening, the blades must be slightly opened. The speculum is now inserted deeper into the vagina. When the cervix is reached, the speculum is fully opened. This method allows for inspection of the vaginal walls during insertion and ensures that the cervix is found.
-
-Any vaginal discharge must be identified. Where needed, a sample is taken with a wooden spatula.
-
-The vagina is inspected for congenital abnormalities such as a vaginal septum, a vaginal stenosis or a double vagina and cervix.
-
-The cervix is inspected for any laceration or tumour. A smooth red area sur­roun­ding the external os that retains the normal smooth surface is normal during the reproductive years and is called ectopy.
-
-If there is a history of rupture of the membranes, the presence of liquor is noted and tested for.
-
-A cervical (Papanicolaou) smear must be taken if a smear has not been taken recently.
-
-At the end of the examination the speculum is gently withdrawn, keeping it slightly open, so that the vaginal walls can again be inspected all the way out.
-
-G. Taking a cervical smear
-
-A cervical (Papanicolaou) smear is taken to detect abnormalities of the cervix, e.g. human papilloma virus infection, cervical intra-epithelial neoplasia or carcinoma of the cervix.
-
-Ideally the first cervical smear should be taken when the patient becomes sexually active. In practice the first smear is usually taken when the patient first attends a family planning or antenatal clinic.
-
-If the cervical smear is normal, it should be repeated at 30, 40 and 50 years of age.
-
-The technique of taking a cervical smear is as follows:
-
-The name, folder number and date must be written on the slide with a pencil beforehand. Also make sure that a spray can is close at hand to fix the slide.
-
-A vaginal speculum is inserted.
-
-The cervix must be clearly seen and is carefully inspected.
-
-A suitable spatula is inserted into the cervix and rotated through 360 degrees, making sure that the whole circumference is gently scraped. It is important that the smear is taken from the inside of the cervical canal as well as from the surface of the cervix. An Ayres (Aylesbury) or tongue spatula must be used and not a brush with sharp or long points such as a Cervibrush or Cytobrush.
-
-The material obtained is smeared onto a glass slide and immediately sprayed with Papanicolaou’s fixative.
-
-When the slide is dry, it is sent to the laboratory for examination.
-
-H. Performing a bimanual examination
-
-First 1 and then, where possible, 2 gloved and lubricated fingers are gently inserted into the vagina.
-
-If a vaginal septum or stenosis is present, the patient should be referred to a doctor to decide whether delivery will be interfered with.
-
-The cervix is palpated and the following are noted:
-
-Any dilatation.
-
-The length of the cervix in cm, i.e. whether the cervix is effaced or not.
-
-The surface should be smooth and regular.
-
-The consistency, which will become softer during pregnancy.
-
-Special care must be taken, when performing a bimanual examination late in pregnancy and in the presence of a high presenting part, not to damage a low-lying placenta. If the latter is suspected, a finger must not be inserted into the cervical canal. Instead, the presenting part is gently palpated through all the fornices. If any bogginess is noted between the fingers of the examining hand and the presenting part, the examination must be immediately abandoned and the patient must be referred urgently for ultrasonography.
-
-Where possible the presenting part is identified.
-
-A most important part of the bimanual examination is the determination of the gestational age, by estimating the size of the uterus and comparing it with the period of amenorrhoea. This is only really accurate in the first trimester. Thereafter, the fundal height and the size of the fetus must be determined by abdominal examination.
-
-The uterine wall is palpated for any irregularity, suggesting the presence of a congenital abnormality (e.g. bicornuate uterus) or myomata (fibroids).
-
-Lastly, the fornices are palpated to exclude any masses, the commonest of which is an ovarian cyst or tumour.
-
-I. Explanation to the patient
+### I. Explanation to the patient
 
 Do not forget to explain to the patient, after the examination is completed, what you have found. It is especially important to tell her how far pregnant she is, if that can be determined, and to reassure her, if everything appears to be normal.
 
+
+
 1D
+{:.chapter-number}
 
-Skills workshop: Screening tests for syphilis
+# Skills: Screening tests for syphilis
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Screen a patient for syphilis with the syphilis rapid test and the RPR card test.
+*	Screen a patient for syphilis with the syphilis rapid test and the RPR card test.
+*	Interpret the results of the screening tests.
 
-Interpret the results of the screening tests.
-
-Syphilis screening
+## Syphilis screening
 
 At the first antenatal visit each woman should be screened for syphilis. This could be done at the clinic with the syphilis rapid test (Determine Syphilis TP) or RPR card test. If syphilis is diagnosed, the patient must be informed and treatment must be started immediately at the antenatal clinic. Positive rapid screening tests must be confirmed with a laboratory RPR or VDRL test. The syphilis rapid test or RPR card test can be used in any antenatal clinic, as no sophisticated equipment is required.
 
-Syphilis rapid test
+## Syphilis rapid test
 
 The syphilis rapid test is a specific test for syphilis and will become positive when there are antibodies against Treponema pallidum (the organism that causes syphilis) in the blood. The test result corresponds to that of a TPHA or FTA test which are also specific tests for syphilis.
 
-A. Equipment needed to perform a syphilis rapid test
+### A. Equipment needed to perform a syphilis rapid test
 
-The Abbott Determine TB Whole Blood Essay. Each kit contains 10 cards with 10 tests. The Chase Buffer (2.5 ml bottle) is supplied with the kit.
-
-EDTA capillary tubes marked to indicate 50 μl, lancets, alcohol swabs and sterile gauze swabs. These are not supplied with the kit.
+1.	The Abbott Determine TB Whole Blood Essay. Each kit contains 10 cards with 10 tests. The Chase Buffer (2.5 ml bottle) is supplied with the kit.
+2.	EDTA capillary tubes marked to indicate 50 μl, lancets, alcohol swabs and sterile gauze swabs. These are not supplied with the kit.
 
 The kit needs to be stored at room temperature between 2 °C and 30 °C. Storage in a fridge is required during summer time. The kit must not be used after the expiry date.
 
-B. Performing the syphilis rapid test
+### B. Performing the syphilis rapid test
 
-Clean the patient’s fingertip with an alcohol swab and allow the finger to dry.
+1.	Clean the patient’s fingertip with an alcohol swab and allow the finger to dry.
+2.	Remove a test strip from the foil cover.
+3.	Prick the skin of the fingertip with a lancet. Wipe the first drop of blood away with a sterile gauze swab.
+4.	Collect the next drop of blood into the EDTA tube. Either side of the tube can be used to collect blood. Fill the tube from the tip to the first black circle (i.e. 50 μl blood). Avoid the collection of air bubbles.
+5.	Apply the 50 μl of blood from the EDTA tube onto the sample pad marked with an arrow on the test strip.
+6.	Wait until all the blood has been absorbed into the sample pad and then apply 1 drop of Chase Buffer. The bottle must be held vertically (upside down) above the test strip when a drop of the buffer is dropped onto the sample pad.
+7.	Wait a minimum of 15 minutes and then read the result. The maximum waiting time for reading the test is 24 hours. After 24 hours the test becomes invalid.
 
-Remove a test strip from the foil cover.
+### C. Reading the results of the syphilis rapid test
 
-Prick the skin of the fingertip with a lancet. Wipe the first drop of blood away with a sterile gauze swab.
+1.	*Positive*: A red bar will appear within both the Control window and the Patient window on the test strip. Any visible red bar in the Patient window must be regarded as positive.
+2.	*Negative*: A red bar will appear within the Control window but no red bar is seen in the Patient window.
+3.	*Invalid*: If no red bar appears in the Control window, even if a red bar is visible in the Patient window, the result is invalid and the test must be repeated.
 
-Collect the next drop of blood into the EDTA tube. Either side of the tube can be used to collect blood. Fill the tube from the tip to the first black circle (i.e. 50 μl blood). Avoid the collection of air bubbles.
+### D. The interpretation of the syphilis rapid test
 
-Apply the 50 μl of blood from the EDTA tube onto the sample pad marked with an arrow on the test strip.
+1.	A positive test indicates that a person has antibodies against syphilis. This means that the person either has active (untreated) syphilis or was infected in the past and no longer has the disease.
+2.	A negative test indicates that a person does not have antibodies and cannot have syphilis, either in the present or past, unless the person was infected very recently and has not yet formed antibodies.
 
-Wait until all the blood has been absorbed into the sample pad and then apply 1 drop of Chase Buffer. The bottle must be held vertically (upside down) above the test strip when a drop of the buffer is dropped onto the sample pad.
+### E. Management if the syphilis rapid test is positive
 
-Wait a minimum of 15 minutes and then read the result. The maximum waiting time for reading the test is 24 hours. After 24 hours the test becomes invalid.
+1.	Explain to the patient that the screening test for syphilis is positive but that this should be confirmed or rejected by a laboratory test (RPR or VDRL test).
+2.	It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated while waiting for the result of the laboratory test.
+3.	Ask the patient to return in 1 week for the result of the laboratory test.
 
-C. Reading the results of the syphilis rapid test
+### F. Interpretation of the RPR or VDRL test when the syphilis rapid test is positive
 
-Positive: A red bar will appear within both the Control window and the Patient window on the test strip. Any visible red bar in the Patient window must be regarded as positive.
+1.	If the RPR or VDRL is negative the patient does not have syphilis. Treatment can be stopped.
+2.	If the RPR or VDRL titre is 1:16 or higher the patient has syphilis and must be treated with a full course of 3 doses of benzathine penicillin (Bicillin LA of Penilente LA).
+3.	If the RPR of VDRL titre is 1:8 or lower and the patient and her partner have been fully treated in the past 3 months, treatment can be stopped. Otherwise, a full course of 3 doses of benzathine penicillin must be given.
 
-Negative: A red bar will appear within the Control window but no red bar is seen in the Patient window.
-
-Invalid: If no red bar appears in the Control window, even if a red bar is visible in the Patient window, the result is invalid and the test must be repeated.
-
-D. The interpretation of the syphilis rapid test
-
-A positive test indicates that a person has antibodies against syphilis. This means that the person either has active (untreated) syphilis or was infected in the past and no longer has the disease.
-
-A negative test indicates that a person does not have antibodies and cannot have syphilis, either in the present or past, unless the person was infected very recently and has not yet formed antibodies.
-
-E. Management if the syphilis rapid test is positive
-
-Explain to the patient that the screening test for syphilis is positive but that this should be confirmed or rejected by a laboratory test (RPR or VDRL test).
-
-It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated while waiting for the result of the laboratory test.
-
-Ask the patient to return in 1 week for the result of the laboratory test.
-
-F. Interpretation of the RPR or VDRL test when the syphilis rapid test is positive
-
-If the RPR or VDRL is negative the patient does not have syphilis. Treatment can be stopped.
-
-If the RPR or VDRL titre is 1:16 or higher the patient has syphilis and must be treated with a full course of 3 doses of benzathine penicillin (Bicillin LA of Penilente LA).
-
-If the RPR of VDRL titre is 1:8 or lower and the patient and her partner have been fully treated in the past 3 months, treatment can be stopped. Otherwise, a full course of 3 doses of benzathine penicillin must be given.
-
-The RPR card test
+## The RPR card test
 
 The RPR card test is a non-specific test that will become positive if the patient has syphilis. The result corresponds to that of a laboratory RPR and VDRL test which are also non-specific tests for syphilis.
 
-G. Collecting a blood sample
+### G. Collecting a blood sample
 
 A 3 ml sample of venous blood is needed for the test. Place the blood in a test tube for clotted blood (red-topped tube).
 
-H. Equipment needed to perform a RPR card test
+### H. Equipment needed to perform a RPR card test
 
-The carbon antigen suspension.
-
-The antigen dispenser attached to the special calibrated needle with a blunt tip.
-
-The special stirrers (Dispenstirs).
-
-The white RPR card.
-
-The test tube holder.
+1.	The carbon antigen suspension.
+2.	The antigen dispenser attached to the special calibrated needle with a blunt tip.
+3.	The special stirrers (Dispenstirs).
+4.	The white RPR card.
+5.	The test tube holder.
 
 Except for the test tube holder, all the necessary equipment comes with the RPR card kit.
 
@@ -1899,175 +1351,149 @@ If many tests are to be done each day and the container with the carbon antigen 
 Note
 :	A number of different commercial companies manufacture RPR card tests. (A RPR kit can be obtained from Davies Diagnostics at the toll free number 0800 110 509 in South Africa).
 
-I. The method of performing the RPR card test
+### I. The method of performing the RPR card test
 
-Keep the test tube containing 3 ml of clotted blood in an upright position. It is important to remove the stopper when the blood is placed in the tube.
+1.	Keep the test tube containing 3 ml of clotted blood in an upright position. It is important to remove the stopper when the blood is placed in the tube.
+2.	Place the test tube in the test tube stand for 30 minutes so that the serum can be expressed from the clotted blood.
+3.	Use the special stirrer to transfer *1* drop of serum from the test tube to the card. Squeeze the hollow stirrer between your thumb and forefinger while the tip of the stirrer is in the serum. Now relax your grip on the stirrer and a sample will be sucked up.
+4.	Place the tip of the stirrer above the test card and again squeeze the stirrer so that 1 drop falls onto the centre of the circle. If the serum of more than one patient is tested at the same time, the test tube of clotted blood must be numbered and the same number must be written on the card with a soft pen. Make sure that the number on the test tube always corresponds to the number on the card.
+5.	Using the flat end of the stirrer, spread the drop of serum over the whole area within the circle.
+6.	Shake the antigen dispenser containing the antigen suspension well. Use the dispenser with the attached calibrated needle to place *1* drop (50 µl) of antigen onto the serum in the circle.
+7.	The card must now be gently rocked by hand so that the serum and the antigen suspension are well mixed, while the fluid on the card remains within the circle. If available, an electrical rotator can be used to rock the card.
+8.	After 4 minutes of hand rocking or 8 minutes of electronic rocking the test can be read.
 
-Place the test tube in the test tube stand for 30 minutes so that the serum can be expressed from the clotted blood.
+### J. Reading the results of the RPR card test
 
-Use the special stirrer to transfer 1 drop of serum from the test tube to the card. Squeeze the hollow stirrer between your thumb and forefinger while the tip of the stirrer is in the serum. Now relax your grip on the stirrer and a sample will be sucked up.
+1.	*A positive test*: Obvious clumping takes place (flocculation). Definite black particles form which are clearly seen with the naked eye. While the particles cover the whole area of the spread-out droplet, they tend to gather around the edge of the droplet.
+2.	*A negative test*: *No* clumping takes place. The small black particles of the carbon antigen tend to collect at the centre of the spread-out droplet where they form a black dot. They do not collect around the rim of the droplet as is seen in a positive test.
 
-Place the tip of the stirrer above the test card and again squeeze the stirrer so that 1 drop falls onto the centre of the circle. If the serum of more than one patient is tested at the same time, the test tube of clotted blood must be numbered and the same number must be written on the card with a soft pen. Make sure that the number on the test tube always corresponds to the number on the card.
+### K. Interpretation of the results of the RPR card test
 
-Using the flat end of the stirrer, spread the drop of serum over the whole area within the circle.
+1.	*A positive test*: Explain to the patient that the screening test for syphilis is positive, but that this should be confirmed or rejected by a laboratory test. It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated. If possible, send a sample of clotted blood to the laboratory for a RPR or VDRL test and ask the patient to return in 1 week for the result.
 
-Shake the antigen dispenser containing the antigen suspension well. Use the dispenser with the attached calibrated needle to place 1 drop (50 µl) of antigen onto the serum in the circle.
+	Note
+	:	When the RPR card test is clearly positive the laboratory RPR or VDRL is almost always positive with a titre of 1:8 or more. If the laboratory RPR or VDRL is negative, the patient does not have syphilis and the treatment can be stopped.
 
-The card must now be gently rocked by hand so that the serum and the antigen suspension are well mixed, while the fluid on the card remains within the circle. If available, an electrical rotator can be used to rock the card.
+2.	*A negative test*: The patient can be reassured that she does not have syphilis. No treatment is needed.
 
-After 4 minutes of hand rocking or 8 minutes of electronic rocking the test can be read.
-
-J. Reading the results of the RPR card test
-
-A positive test: Obvious clumping takes place (flocculation). Definite black particles form which are clearly seen with the naked eye. While the particles cover the whole area of the spread-out droplet, they tend to gather around the edge of the droplet.
-
-A negative test: No clumping takes place. The small black particles of the carbon antigen tend to collect at the centre of the spread-out droplet where they form a black dot. They do not collect around the rim of the droplet as is seen in a positive test.
-
-K. Interpretation of the results of the RPR card test
-
-A positive test: Explain to the patient that the screening test for syphilis is positive, but that this should be confirmed or rejected by a laboratory test. It is advisable, however, that treatment with penicillin be started immediately so that the fetus can be treated. If possible, send a sample of clotted blood to the laboratory for a RPR or VDRL test and ask the patient to return in 1 week for the result.
-
-Note
-:	When the RPR card test is clearly positive the laboratory RPR or VDRL is almost always positive with a titre of 1:8 or more. If the laboratory RPR or VDRL is negative, the patient does not have syphilis and the treatment can be stopped.
-
-A negative test: The patient can be reassured that she does not have syphilis. No treatment is needed.
-
-Note
-:	It is advisable that 1 out of every 20 negative RPR tests be checked with a laboratory VDRL test in order that quality control can be observed.
+	Note
+	:	It is advisable that 1 out of every 20 negative RPR tests be checked with a laboratory VDRL test in order that quality control can be observed.
 
 If it cannot be decided whether clumping of particles is present or not, a sample of the patient’s blood must be sent to the laboratory for a VDRL test. The patient must be seen again as soon as the results are available and treatment given according to the laboratory results. If the patient cannot come back for the result or if it is not possible to get a laboratory VDRL, start treatment immediately.
 
 1E
+{:.chapter-number}
 
-Skills workshop: Screening tests for HIV
+# Skills: Screening tests for HIV
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Screen a patient for HIV.
+*	Screen a patient for HIV.
+*	Interpret the results of the screening test.
 
-Interpret the results of the screening test.
-
-HIV screening
+## HIV screening
 
 At the first antenatal visit each woman should be offered screening for HIV. An HIV rapid test can be used in any antenatal clinic as no sophisticated equipment is required. Prior to testing, provider-initiated counselling must be given and consent must be obtained.
 
-A. Equipment needed to perform an HIV rapid test
+### A. Equipment needed to perform an HIV rapid test
 
-The Abbott Determine HIV-1/2 Whole Blood Essay. Each kit contains 10 cards with 10 tests. The Chase Buffer (2.5 ml bottle) is supplied with the kit.
-
-EDTA capillary tubes marked to indicate 50 μl, lancets, alcohol swabs and sterile gauze swabs. These are not supplied with the kit.
+1.	The Abbott Determine HIV-1/2 Whole Blood Essay. Each kit contains 10 cards with 10 tests. The Chase Buffer (2.5 ml bottle) is supplied with the kit.
+2.	EDTA capillary tubes marked to indicate 50 μl, lancets, alcohol swabs and sterile gauze swabs. These are not supplied with the kit.
 
 The kit needs to be stored at room temperature between 2 °C and 30 °C. Storage in a fridge is required during summer time. The kit cannot be used after the expiry date.
 
-B. The method of performing the HIV rapid test
+### B. The method of performing the HIV rapid test
 
-Clean the patient’s fingertip with an alcohol swab and allow the finger to dry.
+1.	Clean the patient’s fingertip with an alcohol swab and allow the finger to dry.
+2.	Remove a test strip from the foil cover.
+3.	Prick the skin of the fingertip with a lancet. Wipe the first drop of blood away with a sterile gauze swab.
+4.	Collect the next drop of blood with the EDTA tube. Either side of the tube can be used to collect blood. Fill the tube from the tip to the first black circle (i.e. 50 μl of blood). Avoid the collection of air bubbles.
+5.	Apply the 50 μl of blood from the EDTA tube onto the sample pad marked with an arrow on the test strip.
+6.	Wait 1 minute until all the blood has been absorbed into the sample pad and then apply 1 drop of Chase Buffer. The bottle must be held vertically (upside down) above the test strip when a drop of the buffer is dropped on the sample pad.
+7.	Wait a minimum of 15 minutes and then read the results. The maximum waiting time for reading the test is 24 hours. After 24 hours the test becomes invalid.
 
-Remove a test strip from the foil cover.
+### C. Reading the results of the HIV rapid test
 
-Prick the skin of the fingertip with a lancet. Wipe the first drop of blood away with a sterile gauze swab.
+1.	*Positive*: A red bar will appear within both the Control window and the Patient window on the test strip. Any visible red bar in the Patient window must be regarded as positive. The result is positive even if the patient bar appears lighter or darker than the control bar.
+2.	*Negative*: A red bar will appear within the Control window and but no red bar is seen in the Patient window.
+3.	*Invalid*: If no red bar appears in the Control window, even if a red bar is visible in the Patient window, the result is invalid and the test must be repeated.
 
-Collect the next drop of blood with the EDTA tube. Either side of the tube can be used to collect blood. Fill the tube from the tip to the first black circle (i.e. 50 μl of blood). Avoid the collection of air bubbles.
-
-Apply the 50 μl of blood from the EDTA tube onto the sample pad marked with an arrow on the test strip.
-
-Wait 1 minute until all the blood has been absorbed into the sample pad and then apply 1 drop of Chase Buffer. The bottle must be held vertically (upside down) above the test strip when a drop of the buffer is dropped on the sample pad.
-
-Wait a minimum of 15 minutes and then read the results. The maximum waiting time for reading the test is 24 hours. After 24 hours the test becomes invalid.
-
-C. Reading the results of the HIV rapid test
-
-Positive: A red bar will appear within both the Control window and the Patient window on the test strip. Any visible red bar in the Patient window must be regarded as positive. The result is positive even if the patient bar appears lighter or darker than the control bar.
-
-Negative: A red bar will appear within the Control window and but no red bar is seen in the Patient window.
-
-Invalid: If no red bar appears in the Control window, even if a red bar is visible in the Patient window, the result is invalid and the test must be repeated.
-
-D. The interpretation of the HIV rapid test
+### D. The interpretation of the HIV rapid test
 
 The test is a specific test for HIV and will become positive when there are antibodies against HIV (the virus that causes AIDS) in the blood.
 
-A positive test indicates that a person has antibodies against HIV. Therefore the person is infected with HIV (and is HIV positive).
+1.	A positive test indicates that a person has antibodies against HIV. Therefore the person is infected with HIV (and is HIV positive).
+2.	A negative test indicates that a person does not have antibodies against HIV. Therefore the person is not infected with HIV, unless they were infected very recently and the HIV antibodies have not appeared yet.
 
-A negative test indicates that a person does not have antibodies against HIV. Therefore the person is not infected with HIV, unless they were infected very recently and the HIV antibodies have not appeared yet.
+### E. Management if the HIV rapid test is positive
 
-E. Management if the HIV rapid test is positive
+1.	Explain to the patient that the first screening test for HIV is positive but that this should be confirmed with a second test.
+2.	Proceed with a second test using a different kit.
+3.	If the second test is also positive, the patient is HIV positive.
+4.	Proceed with post-test counselling for a patient with a positive test.
 
-Explain to the patient that the first screening test for HIV is positive but that this should be confirmed with a second test.
+### F. Management if the first HIV rapid test is positive but the second is negative
 
-Proceed with a second test using a different kit.
+1.	A blood sample for a confirming HIV test must be sent to the laboratory.
+2.	The patient must be informed that the results of the HIV rapid tests are inconclusive and that a laboratory test is required to determine her HIV status.
+3.	If the laboratory test is positive, the patient is HIV positive.
+4.	If the laboratorty test is negative, the patient is HIV negative.
+5.	Proceed with appropriate counselling.
 
-If the second test is also positive, the patient is HIV positive.
 
-Proceed with post-test counselling for a patient with a positive test.
 
-F. Management if the first HIV rapid test is positive but the second is negative
-
-A blood sample for a confirming HIV test must be sent to the laboratory.
-
-The patient must be informed that the results of the HIV rapid tests are inconclusive and that a laboratory test is required to determine her HIV status.
-
-If the laboratory test is positive, the patient is HIV positive.
-
-If the laboratorty test is negative, the patient is HIV negative.
-
-Proceed with appropriate counselling.
 
 1F
+{:.chapter-number}
 
-Skills workshop: Examination of the breasts
+# Skills: Examination of the breasts
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Take an adequate history for breast conditions.
+*	Take an adequate history for breast conditions.
+*	Perform a good breast examination.
+*	Perform an examination of the supraclavicular and axillary lymph nodes.
 
-Perform a good breast examination.
-
-Perform an examination of the supraclavicular and axillary lymph nodes.
-
-History taking
+## History taking
 
 The purpose of taking a family, past and present history is to assess whether there are any warning symptoms of serious breast conditions, especially cancer.
 
-A. The importance of asking the woman’s age
+### A. The importance of asking the woman’s age
 
 Breast cancer becomes more common as a woman gets older.  While breast cancer is rare under 20 years of age it becomes more common over the age of 40 years.
 
-B. The importance of a positive family history of breast cancer
+### B. The importance of a positive family history of breast cancer
 
 Has any member of the mother or father’s family or a sibling had breast or ovarian cancer?  A positive family history, especially of her mother or sisters, increases the chance that the woman will develop breast cancer
 
-C. The importance of a past history of breast or ovarian cancer
+### C. The importance of a past history of breast or ovarian cancer
 
-A woman who has had breast cancer before has a much higher chance of having breast cancer again
+A woman who has had breast cancer before has a much higher chance of having breast cancer again.
 
-D. Any present history of breast changes or complaints. 
+### D. Any present history of breast changes or complaints
 
 Always ask about:
 
-One breast becoming larger than the other or changing shape
+*	One breast becoming larger than the other or changing shape
+*	Any new breast lumps or lumps that are getting bigger
+*	Any nipple changes, especially watery or bloody nipple discharge, a nipple which becomes inverted (pulled in) or a new rash on the nipple or areala
+*	Any rash or redness of a breast
 
-Any new breast lumps or lumps that are getting bigger
+## Examination of the breasts
 
-Any nipple changes, especially watery or bloody nipple discharge, a nipple which becomes inverted (pulled in) or a new rash on the nipple or areala
-
-Any rash or redness of a breast
-
-Examination of the breasts
-
-E. Preparation for a breast examination
+### E. Preparation for a breast examination
 
 The woman should undress down to her waist and put on a gown.  The examination must be done somewhere private and well lit.  Always explain what you are going to do.  It is very important to be able to have a good look at both breasts.
 
-F. Step-by-step examination of the breast
+### F. Step-by-step examination of the breast
 
 The examination consists of both looking (inspection) and feeling (palpating).  Wherever possible, the examination should be done in a standardized step-by-step manner.  Once you have done a few breast examinations, it will become quite quick and easy.
 
-G. Inspection of the breasts is usually done in three positions with the woman sitting up
+### G. Inspection of the breasts is usually done in three positions with the woman sitting up
 
 Ask  the woman to sit  down on the examining couch facing you with her arms relaxed at her sides. Look at her breasts asymmetry, nipple inversion, skin changes and redness. You may even be able to see a breast lump.
 
@@ -2075,69 +1501,51 @@ Next ask her to raise both her arms above her head. Look for any skin puckering 
 
 Finally ask the woman to put her hands on her hips and squeeze (push her hand towards each other).  This will tighten her chest muscles. Look and see if an area of skin is puckering due to being attached (tethered) to underlying muscle. This may indicate the site of a breast lump.
 
-
-
-
-
-.H. Palpation for enlarged supraclavicular lymph nodes
+### H. Palpation for enlarged supraclavicular lymph nodes
 
 While the woman is still sitting it is a good opportunity to palpate for enlarged lymph nodes. Start by palpating above her clavicles (collar bones) for an enlarged supraclavicular lymph node  Breast cancers towards the centre of the chest may spread to this site .
 
-
-
-I. Palpation for enlarged axillary lymph nodes
+### I. Palpation for enlarged axillary lymph nodes
 
 To examine the (axillae) armpits properly the woman must be relaxed. If she is very ticklish it helps to press more firmly. The best way to get a woman to relax her muscles is by asking her to extend her arms and rest them on your shoulders while you examine the armpits.
 
 Feel in the two armpits at the same time for any lumps.  This allows you to compare the two armpits which are shaped like pyramids.  You should feel along the inside wall and towards the front (anterior) for lymph nodes.  Remember to feel at the top of the armpit also.  If you think you feel a lump, examine that armpit very carefully.
 
-
-
-
-
-J. Palpation of the breasts
+### J. Palpation of the breasts
 
 Finally lie the woman down flat on her back and examine one breast at a time. Ask her to raise that arm above her head on the bed.  This will flatten the breast and make examination easier.  It helps to think of the breasts being divided into strips and then examine each strip of breast from the centre of the chest outwards.  The breast extends from the clavicle above to the 6th rib below and also towards the axilla.  The whole area of the breast must be carefully examined. Always use the tips of your fingers (the most sensitive part of your hand) with the rest of your hand gently resting against the breast.  Do not use cold hands.
 
-
-
-
-
-J. Palpate behind the nipples
+### J. Palpate behind the nipples
 
 Never forget to examine behind the nipples and surrounding areolae for any abnormalities such as skin changes, lumps or an inverted nipple. It is best to leave the nipple examination to the end once you have won the woman’s trust.
 
-
-
 Examining a woman’s breasts provides an excellent opportunity to teach her how to examine her own breasts each month after the end of her period when her breasts are softer. This is something all women should learn and practice regularly as it increases the chance of detecting an early breast cancer which can be cured.
 
-This skills workshop is adapted from Breast Care: A health professional’s guide to the diagnosis and management of common breast conditions by Jenny Edge and Dave Woods, a book which forms part of the Bettercare range.
+This skills chapter is adapted from the Bettercare book *Breast Care: A health professional’s guide to the diagnosis and management of common breast conditions* by Jenny Edge and Dave Woods.
+
+
+
 
 2
+{:.chapter-number}
 
-Assessment of fetal growth and condition during pregnancy
+# Assessment of fetal growth and condition during pregnancy
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Assess normal fetal growth.
+*	Assess normal fetal growth.
+*	List the causes of intra-uterine growth restriction.
+*	Understand the importance of measuring the symphysis-fundus height.
+*	Understand the clinical significance of fetal movements.
+*	Use a fetal-movement chart.
+*	Manage a patient with decreased fetal movements.
+*	Understand the value of antenatal fetal heart rate monitoring.
 
-List the causes of intra-uterine growth restriction.
-
-Understand the importance of measuring the symphysis-fundus height.
-
-Understand the clinical significance of fetal movements.
-
-Use a fetal-movement chart.
-
-Manage a patient with decreased fetal movements.
-
-Understand the value of antenatal fetal heart rate monitoring.
-
-Introduction
+## Introduction
 
 During the antenatal period, both maternal and fetal growth must be continually monitored.
 
@@ -2145,92 +1553,74 @@ Individualised care will improve the accuracy of antenatal observations.
 
 At every antenatal visit from 28 weeks gestation onwards, the wellbeing of the fetus must be assessed.
 
-2-1 How can you assess the condition of the fetus during pregnancy?
+### 2-1 How can you assess the condition of the fetus during pregnancy?
 
 The condition of the fetus before delivery is assessed by:
 
-Documenting fetal growth.
+1.	Documenting fetal growth.
+2.	Recording fetal movements.
 
-Recording fetal movements.
+> When managing a pregnant woman, remember that you are caring for two individuals.
 
-When managing a pregnant woman, remember that you are caring for two individuals.
+## Fetal growth
 
-Fetal growth
-
-2-2 What is normal fetal growth?
+### 2-2 What is normal fetal growth?
 
 If the assessed fetal weight is within the expected range for the duration of pregnancy, then the fetal growth is regarded as normal.
 
-To determine fetal growth you must have an assessment of both the duration of pregnancy and the weight of the fetus.
+> To determine fetal growth you must have an assessment of both the duration of pregnancy and the weight of the fetus.
 
-2-3 When may fetal growth appear to be abnormal?
+### 2-3 When may fetal growth appear to be abnormal?
 
 Fetal growth will appear to be abnormal when the assessed fetal weight is greater or less than that expected for the duration of pregnancy. Remember that incorrect menstrual dates are the commonest cause of an incorrect assessment of fetal growth.
 
-2-4 When is intra-uterine growth restriction suspected?
+### 2-4 When is intra-uterine growth restriction suspected?
 
 Intra-uterine growth restriction is suspected when the weight of the fetus is assessed as being less than the normal range for the duration of pregnancy.
 
-2-5 What maternal and fetal factors are associated with intra-uterine growth restriction?
+### 2-5 What maternal and fetal factors are associated with intra-uterine growth restriction?
 
 Intra-uterine growth restriction may be associated with either maternal, fetal or placental factors:
 
-Maternal factors
+1.	*Maternal* factors
+	*	Low maternal weight, especially a low body-mass index resulting from undernutrition.
+	*	Tobacco smoking.
+	*	Alcohol intake.
+	*	Strenuous physical work.
+	*	Poor socio-economic conditions.
+	*	Pre-eclampsia and chronic hypertension.
 
-Low maternal weight, especially a low body-mass index resulting from undernutrition.
+	Poor maternal weight gain is of very little value in diagnosing intra-uterine growth restriction.
 
-Tobacco smoking.
-
-Alcohol intake.
-
-Strenuous physical work.
-
-Poor socio-economic conditions.
-
-Pre-eclampsia and chronic hypertension.
-
-Poor maternal weight gain is of very little value in diagnosing intra-uterine growth restriction.
-
-Fetal factors
-
-Multiple pregnancy.
-
-Chromosomal abnormalities, e.g. trisomy 21.
-
-Severe congenital malformations.
-
-Chronic intra-uterine infection, e.g. congenital syphilis.
-
-Placental factors
-
-Poor placental function (placental insufficiency) is usually due to a maternal problem such as pre-eclampsia.
-
-Smoking. Poor placental function is uncommon in a healthy woman who does not smoke.
+2.	*Fetal* factors
+	*	Multiple pregnancy.
+	*	Chromosomal abnormalities, e.g. trisomy 21.
+	*	Severe congenital malformations.
+	*	Chronic intra-uterine infection, e.g. congenital syphilis.
+3.	*Placental* factors
+	*	Poor placental function (placental insufficiency) is usually due to a maternal problem such as pre-eclampsia.
+	*	Smoking. Poor placental function is uncommon in a healthy woman who does not smoke.
 
 If severe intra-uterine growth restriction is present, it is essential to look for a maternal or fetal cause. Usually a cause can be found.
 
 Note
 :	True primary placental inadequacy is an uncommon cause of intra-uterine growth restriction as placental causes are almost always secondary to an abnormality of the spiral arteries.
 
-2-6 How can you estimate fetal weight?
+### 2-6 How can you estimate fetal weight?
 
 The following methods can be used:
 
-Measure the size of the uterus on abdominal examination.
+1.	Measure the size of the uterus on abdominal examination.
+2.	Palpate the fetal head and body on abdominal examination.
+3.	Measure the size of the fetus using antenatal ultrasonography (ultrasound).
 
-Palpate the fetal head and body on abdominal examination.
+### 2-7 How should you measure the size of the uterus?
 
-Measure the size of the fetus using antenatal ultrasonography (ultrasound).
+1.	This is done by determining the symphysis-fundus height (s-f height), which is measured in centimetres from the upper edge of the symphysis pubis to the top of the fundus of the uterus.
+2.	The s-f height in centimetres should be plotted against the gestational age on the s-f growth curve.
+3.	From 36 weeks onwards, the presenting part may descend into the pelvis and measurement of the s-f height will not accurately reflect the size of the fetus. A reduction in the s-f height may even be observed.
 
-2-7 How should you measure the size of the uterus?
-
-This is done by determining the symphysis-fundus height (s-f height), which is measured in centimetres from the upper edge of the symphysis pubis to the top of the fundus of the uterus.
-
-The s-f height in centimetres should be plotted against the gestational age on the s-f growth curve.
-
-From 36 weeks onwards, the presenting part may descend into the pelvis and measurement of the s-f height will not accurately reflect the size of the fetus. A reduction in the s-f height may even be observed.
-
-2-8 What is the symphysis-fundus growth curve?
+### 2-8 What is the symphysis-fundus growth curve?
 
 The symphysis-fundus growth curve compares the s-f height to the duration of pregnancy. The growth curve should preferably form part of the antenatal card. The solid line of the growth curve represents the 50th centile, and the upper and lower dotted lines, the 90th and 10th centiles, respectively. If intra-uterine growth is normal, the s-f height will fall between the 10th and 90th centiles. The ability to detect abnormalities from the growth curve is much increased if the same person sees the patient at every antenatal visit.
 
@@ -2238,170 +1628,144 @@ Between 18 and 36 weeks of pregnancy, the s-f height normally increases by about
 
 
 
-2-9 When will the symphysis-fundus height suggest intra-uterine growth restriction?
+### 2-9 When will the symphysis-fundus height suggest intra-uterine growth restriction?
 
 If any of the following are found:
 
-Slow increase in uterine size until one measurement falls under the 10th centile.
-
-Three successive measurements ‘plateau’ (i.e. remain the same) without necessarily crossing below the 10th centile.
-
-A measurement which is less than that recorded two visits previously without necessarily crossing below the 10th centile.
+1.	Slow increase in uterine size until one measurement falls under the 10th centile.
+2.	Three successive measurements ‘plateau’ (i.e. remain the same) without necessarily crossing below the 10th centile.
+3.	A measurement which is less than that recorded two visits previously without necessarily crossing below the 10th centile.
 
 Note that a measurement that was originally normal, but on subsequent examinations has fallen to below the 10th centile, indicates intra-uterine growth restriction and not incorrect dates.
 
-2-10 How can you identify severe intra-uterine growth restriction?
+### 2-10 How can you identify severe intra-uterine growth restriction?
 
-With severe intra-uterine growth restriction, the difference between the actual duration of pregnancy and that suggested by plotting s-f height is 4 weeks or more.
+With *severe* intra-uterine growth restriction, the difference between the actual duration of pregnancy and that suggested by plotting s-f height is 4 weeks or more.
 
-2-11 Does descent of the presenting part of the fetus affect your interpretation of the growth curve?
+### 2-11 Does descent of the presenting part of the fetus affect your interpretation of the growth curve?
 
 Yes. Descent of the presenting part may occur in the last 4 weeks of pregnancy. Therefore, after 36 weeks the above criteria are no longer valid, if at subsequent antenatal visits progressively less of the fetal head is palpable above the pelvic inlet.
 
-2-12 What action would you take if the symphysis-fundus height measurement suggests intra-uterine growth restriction?
+### 2-12 What action would you take if the symphysis-fundus height measurement suggests intra-uterine growth restriction?
 
-The patient should stop smoking and rest more, while attention must be given to her diet. It may be necessary to arrange sick leave and social support for the patient.
+1.	The patient should stop smoking and rest more, while attention must be given to her diet. It may be necessary to arrange sick leave and social support for the patient.
+2.	A poor diet which is low in energy (kilojoules) may cause intra-uterine growth restriction, especially in a patient with a low body-mass index. Therefore, ensure that patients with suspected intra-uterine growth restriction receive a high-energy diet. If possible, patients must be given food supplements (food parcels).
+3.	Exclude pre-eclampsia as a cause.
+4.	If the gestational age is 28 weeks or more, careful attention must be paid to counting the fetal movements.
+5.	The patient should be followed up weekly at a level 1 hospital.
 
-A poor diet which is low in energy (kilojoules) may cause intra-uterine growth restriction, especially in a patient with a low body-mass index. Therefore, ensure that patients with suspected intra-uterine growth restriction receive a high-energy diet. If possible, patients must be given food supplements (food parcels).
-
-Exclude pre-eclampsia as a cause.
-
-If the gestational age is 28 weeks or more, careful attention must be paid to counting the fetal movements.
-
-The patient should be followed up weekly at a level 1 hospital.
-
-2-13 Which special investigation is of great value in the further management of this patient?
+### 2-13 Which special investigation is of great value in the further management of this patient?
 
 The patient must be referred to a fetal evaluation clinic or a level 2 hospital for a Doppler measurement of blood flow in the umbilical arteries:
 
-Good flow (low resistance) indicates good placental function. As a result the woman can receive further routine management as a low-risk patient. Spontaneous onset of labour can be allowed. Induction of labour at 38 weeks is not needed.
-
-Poor flow (high resistance) indicates poor placental function. Antenatal electronic fetal heart rate monitoring must be done. The further management will depend on the result of the monitoring.
+1.	Good flow (low resistance) indicates good placental function. As a result the woman can receive further routine management as a low-risk patient. Spontaneous onset of labour can be allowed. Induction of labour at 38 weeks is not needed.
+2.	Poor flow (high resistance) indicates poor placental function. Antenatal electronic fetal heart rate monitoring must be done. The further management will depend on the result of the monitoring.
 
 If a Doppler measurement is not available, the patient must be managed as given in 2-14.
 
-2-14 What possibilities must be considered if, after taking the above steps, there is still no improvement in the symphysis-fundus growth?
+### 2-14 What possibilities must be considered if, after taking the above steps, there is still no improvement in the symphysis-fundus growth?
 
-Intra-uterine death must be excluded by the presence of a fetal heartbeat on auscultation.
+1.	Intra-uterine death must be excluded by the presence of a fetal heartbeat on auscultation.
+2.	With moderate intra-uterine growth restriction and good fetal movements, the patient must be followed up weekly and delivery at 38 weeks should be considered.
+3.	If the above patient also has poor social circumstances, an admission to hospital will need to be considered. This should ensure that the patient gets adequate rest, a good diet, and stops smoking.
+4.	If there are decreased or few fetal move­ments, the patient should be managed as described in sections 2-25 and 2-26.
+5.	When there is severe intra-uterine growth restriction, the patient must be referred to a level 2 or 3 hospital for further management.
 
-With moderate intra-uterine growth restriction and good fetal movements, the patient must be followed up weekly and delivery at 38 weeks should be considered.
+### 2-15 What is the management of severe intra-uterine growth restriction?
 
-If the above patient also has poor social circumstances, an admission to hospital will need to be considered. This should ensure that the patient gets adequate rest, a good diet, and stops smoking.
+1.	All patients with severe intra-uterine growth restriction must be managed in a level 2 or 3 hospital.
+2.	An ultrasound examination should be done, if available, to exclude serious congenital abnormalities.
+3.	If the fetus has reached viability (28 weeks or more, or 1000 g or above), antenatal fetal heart rate monitoring should be done regularly. If this suggests fetal distress, the fetus must be delivered by Caesarean section.
+4.	In severe intra-uterine growth restriction, the immediate danger is of intra-uterine death, so the delivery of the fetus should be considered at 36 weeks.
 
-If there are decreased or few fetal move­ments, the patient should be managed as described in sections 2-25 and 2-26.
+## Fetal movements
 
-When there is severe intra-uterine growth restriction, the patient must be referred to a level 2 or 3 hospital for further management.
+### 2-16 When are fetal movements first felt?
 
-2-15 What is the management of severe intra-uterine growth restriction?
+1.	At about 20 weeks in a primigravida.
+2.	At about 16 weeks in a multigravida.
 
-All patients with severe intra-uterine growth restriction must be managed in a level 2 or 3 hospital.
-
-An ultrasound examination should be done, if available, to exclude serious congenital abnormalities.
-
-If the fetus has reached viability (28 weeks or more, or 1000 g or above), antenatal fetal heart rate monitoring should be done regularly. If this suggests fetal distress, the fetus must be delivered by Caesarean section.
-
-In severe intra-uterine growth restriction, the immediate danger is of intra-uterine death, so the delivery of the fetus should be considered at 36 weeks.
-
-Fetal movements
-
-2-16 When are fetal movements first felt?
-
-At about 20 weeks in a primigravida.
-
-At about 16 weeks in a multigravida.
-
-2-17 Can fetal movements be used to determine the duration of pregnancy accurately?
+### 2-17 Can fetal movements be used to determine the duration of pregnancy accurately?
 
 No, because the gestational age when fetal movements are first felt differs a lot from patient to patient. Therefore, it is only useful as an approximate guide to the duration of pregnancy.
 
-2-18 What is the value of assessing fetal movements?
+### 2-18 What is the value of assessing fetal movements?
 
 Fetal movements indicate that the fetus is well. By counting the movements, a patient can monitor the condition of her fetus.
 
-2-19 From what stage of pregnancy will you advise a patient to become aware of fetal movements in order to monitor the fetal condition?
+### 2-19 From what stage of pregnancy will you advise a patient to become aware of fetal movements in order to monitor the fetal condition?
 
 From 28 weeks, because the fetus can now be regarded as potentially viable (i.e. there is a good chance that the infant will survive if delivered). All patients should be encouraged to become aware of the importance of an adequate number of fetal movements.
 
-Asking the patient if the fetus is moving normally on the day of the visit is an important way of monitoring the fetal wellbeing.
+> Asking the patient if the fetus is moving normally on the day of the visit is an important way of monitoring the fetal wellbeing.
 
-2-20 What is a fetal-movement chart?
+### 2-20 What is a fetal-movement chart?
 
 A fetal-movement chart records the frequency of fetal movements and thereby assesses the condition of the fetus. The name ‘kick chart’ is not correct, as all movements must be counted, i.e. rolling and turning movements, as well as kicking.
 
-2-21 Which patients should use a fetal-movement chart?
+### 2-21 Which patients should use a fetal-movement chart?
 
 A fetal-movement chart need not be used routinely by all antenatal patients, but only when:
 
-There is concern about the fetal condition.
+1.	There is concern about the fetal condition.
+2.	A patient reports decreased fetal movements.
 
-A patient reports decreased fetal movements.
-
-2-22 How should you advise a patient to use the fetal-movement chart?
+### 2-22 How should you advise a patient to use the fetal-movement chart?
 
 Fetal movements should be counted and recorded on the chart over a period of an hour per day after breakfast. The patient should preferably rest on her side for this period.
 
-2-23 How accurate is a fetal movement count?
+### 2-23 How accurate is a fetal movement count?
 
 A good fetal movement count always indicates a fetus in good condition. A distressed fetus will never have a good fetal movement count. However, a low count or a decrease in fetal movements may also be the result of periods of rest or sleep in a healthy fetus. The rest and sleep periods can last several hours.
 
 Tests with electronic equipment have shown that mothers can detect fetal movements accurately. With sufficient motivation, the fetal-movement chart can be an accurate record of fetal movements. It is, therefore, not necessary to listen to the fetal heart at antenatal clinics if the patient reports an adequate number of fetal movements, or an adequate number of fetal movements has been recorded for the day.
 
-A uterus which increases in size normally, and an actively moving fetus, indicate that the fetus is well.
+> A uterus which increases in size normally, and an actively moving fetus, indicate that the fetus is well.
 
-2-24 What is the least number of movements per hour which indicates a good fetal condition?
+### 2-24 What is the least number of movements per hour which indicates a good fetal condition?
 
-The number of movements during an observation period is less important than a decrease in movements when compared to previous observation periods. If the number of movements is reduced by half, it suggests that the fetus may be at an increased risk of fetal distress.
+1.	The number of movements during an observation period is less important than a decrease in movements when compared to previous observation periods. If the number of movements is reduced by half, it suggests that the fetus may be at an increased risk of fetal distress.
+2.	If a fetus normally does not move much, and the count falls to 3 or fewer per hour, the fetus may be in danger.
 
-If a fetus normally does not move much, and the count falls to 3 or fewer per hour, the fetus may be in danger.
+### 2-25 What would you advise if the fetal movements suggest that the fetal condition is not good?
 
-2-25 What would you advise if the fetal movements suggest that the fetal condition is not good?
-
-The mother should lie down on her side for another hour and repeat the count.
-
-If the number of fetal movements improves, there is no cause for concern.
-
-If the number of fetal movements does not improve, she should report this to her clinic or hospital as soon as possible.
+1.	The mother should lie down on her side for another hour and repeat the count.
+2.	If the number of fetal movements improves, there is no cause for concern.
+3.	If the number of fetal movements does not improve, she should report this to her clinic or hospital as soon as possible.
 
 Note
 :	A patient who lives far away from her nearest hospital or clinic should continue with bed rest, but if the movements are 3 or fewer over a 6-hour period, then arrangements must be made for her to be moved to the nearest hospital.
 
-2-26 What should you do if a patient with reduced fetal movements arrives at the clinic or hospital without a cardiotocograph (CTG machine)?
+### 2-26 What should you do if a patient with reduced fetal movements arrives at the clinic or hospital without a cardiotocograph (CTG machine)?
 
-Listen to the fetal heart with a fetal stethoscope or a doptone to exclude intra-uterine death.
-
-The patient should be allowed to rest and count fetal movements over a 6-hour period. With 4 or more movements during the next 6 hours, repeat the fetal movement count the next day, after breakfast. If there are 3 or fewer movements over the next 6 hours, the patient should see the responsible doctor.
+1.	Listen to the fetal heart with a fetal stethoscope or a doptone to exclude intra-uterine death.
+2.	The patient should be allowed to rest and count fetal movements over a 6-hour period. With 4 or more movements during the next 6 hours, repeat the fetal movement count the next day, after breakfast. If there are 3 or fewer movements over the next 6 hours, the patient should see the responsible doctor.
 
 The patient should be given a drink containing sugar (e.g. tea) to exclude hypoglycaemia as the cause of the decreased fetal movements.
 
 The management of a patient with confirmed decreased fetal movements in a hospital is demonstrated in Flow diagram 2-2.
 
-2-27 What should the doctor do, in a hospital without fetal heart rate monitoring equipment, if there are decreased fetal movements?
+### 2-27 What should the doctor do, in a hospital without fetal heart rate monitoring equipment, if there are decreased fetal movements?
 
 First make sure that the fetus is potentially viable (at least 28 weeks or 1000 g). Further management will then depend on whether or not there are signs of intra-uterine growth restriction:
 
-If there are clinical signs of intra-uterine growth restriction:
+1.	If there *are* clinical signs of intra-uterine growth restriction:
+	*	If the cervix is favourable, the membranes must be ruptured. The fetal heart rate must be very carefully monitored with a stethoscope during labour.
+	*	If the cervix is unfavourable, a Caesarean section must be done.
+	*	If the estimated weight of the fetus is 1500 g or more, the delivery may be managed in a level 1 or 2 hospital. However, if the estimated weight of the fetus is less than 1500 g, then the delivery must take place in a level 2 hospital with a neonatal intensive care unit, or a level 3 hospital.
 
-If the cervix is favourable, the membranes must be ruptured. The fetal heart rate must be very carefully monitored with a stethoscope during labour.
+	> Intra-uterine growth restriction plus decreased fetal movements is an indication for delivery.
 
-If the cervix is unfavourable, a Caesarean section must be done.
+2.	If there are *no* clinical signs of intra-uterine growth restriction:
+	*	If the cervix is favourable and the pregnancy is of more than 36 weeks duration, the membranes should be ruptured. The fetal heart rate must be carefully monitored with a stethoscope during labour.
+	*	If the cervix is unfavourable, and the patient is more than 42 weeks pregnant, a Caesarean section must be done.
+	*	If the patient does not fall into either of the above-mentioned categories, she must be observed for a further 6 hours in hospital. If there is no improvement in the number of fetal movements, the patient must be referred to a hospital which has facilities for electronic fetal heart rate monitoring.
 
-If the estimated weight of the fetus is 1500 g or more, the delivery may be managed in a level 1 or 2 hospital. However, if the estimated weight of the fetus is less than 1500 g, then the delivery must take place in a level 2 hospital with a neonatal intensive care unit, or a level 3 hospital.
+*Sections 2-28 to 2-38 need only be studied by nurses and doctors who work in a level 2 or 3 hospital where electronic fetal heart rate monitoring is available. All students must study sections 2-39 and 2-40.*
 
-Intra-uterine growth restriction plus decreased fetal movements is an indication for delivery.
+## Antenatal fetal heart rate monitoring
 
-If there are no clinical signs of intra-uterine growth restriction:
-
-If the cervix is favourable and the pregnancy is of more than 36 weeks duration, the membranes should be ruptured. The fetal heart rate must be carefully monitored with a stethoscope during labour.
-
-If the cervix is unfavourable, and the patient is more than 42 weeks pregnant, a Caesarean section must be done.
-
-If the patient does not fall into either of the above-mentioned categories, she must be observed for a further 6 hours in hospital. If there is no improvement in the number of fetal movements, the patient must be referred to a hospital which has facilities for electronic fetal heart rate monitoring.
-
-Sections 2-28 to 2-38 need only be studied by nurses and doctors who work in a level 2 or 3 hospital where electronic fetal heart rate monitoring is available. All students must study sections 2-39 and 2-40.
-
-Antenatal fetal heart rate monitoring
-
-2-28 What is antenatal fetal heart rate monitoring?
+### 2-28 What is antenatal fetal heart rate monitoring?
 
 Antenatal (electronic) fetal heart rate monitoring assesses the condition of the fetus by documenting the pattern of heart rate changes. It is done with a cardiotocograph (the machine) which produces a cardiotocogram (the paper strip showing the uterine contractions and the fetal heart rate pattern).
 
@@ -2409,105 +1773,79 @@ Antenatal fetal heart rate monitoring is currently regarded as one of the best w
 
 Hospitals which deal with mainly low-risk patients can manage perfectly well without a cardiotocograph. There is also no evidence that antenatal fetal heart monitoring of low-risk patients does anything to improve the outcome of the pregnancy. The interpretation of fetal heart rate patterns needs considerable experience, and should only be done where the necessary expertise is available.
 
-2-29 When is antenatal fetal heart rate monitoring indicated?
+### 2-29 When is antenatal fetal heart rate monitoring indicated?
 
-If a patient with a viable fetus reports a decrease in fetal movements or a poor fetal movement count which does not improve when the count is repeated.
+1.	If a patient with a viable fetus reports a decrease in fetal movements or a poor fetal movement count which does not improve when the count is repeated.
+2.	If a high-risk patient has a condition for which the value of fetal movement counts has not yet been proven, e.g. insulin-dependent diabetes, preterm rupture of the membranes or severe pre-eclampsia which is being managed conservatively.
 
-If a high-risk patient has a condition for which the value of fetal movement counts has not yet been proven, e.g. insulin-dependent diabetes, preterm rupture of the membranes or severe pre-eclampsia which is being managed conservatively.
+### 2-30 How do you interpret an antenatal fetal heart rate pattern?
 
-2-30 How do you interpret an antenatal fetal heart rate pattern?
+1.	The fetal condition is good when:
+	*	There is a reactive (normal) fetal heart rate pattern.
+	*	There is a normal stress test.
+2.	No comment can be made about the fetal condition when there is a non-reactive fetal heart rate pattern. In this case there are no contractions and, therefore, one cannot determine whether there is a normal or abnormal stress test. The variability of the heart rate will indicate whether there is fetal wellbeing or possible fetal distress.
+3.	Fetal distress is present when:
+	*	There is an abnormal stress test.
+	*	There are repeated U-shaped decelerations at regular intervals, even though no contractions are observed.
+	*	There is fetal bradycardia, with a fetal heart rate constantly below 100 beats per minute.
+	*	There is a non-reactive fetal heart rate pattern with poor variability (i.e. less than 5 beats).
 
-The fetal condition is good when:
+### 2-31 What are reactive and non-reactive heart rate patterns?
 
-There is a reactive (normal) fetal heart rate pattern.
+1.	The fetal heart rate pattern is said to be reactive when it has at least 2 accelerations per 10 minutes, each with an amplitude (increase in the number of beats) of 15 or more beats per minute and a duration of at least 15 seconds (Figure 2-5).
+2.	In a non-reactive fetal heart rate pattern there are no accelerations.
 
-There is a normal stress test.
+### 2-32 How is the variability in the fetal heart rate used to determine whether a fetal heart rate pattern is non-reactive?
 
-No comment can be made about the fetal condition when there is a non-reactive fetal heart rate pattern. In this case there are no contractions and, therefore, one cannot determine whether there is a normal or abnormal stress test. The variability of the heart rate will indicate whether there is fetal wellbeing or possible fetal distress.
+1.	With good variability:
+	*	The variability in the heart rate will be 5 beats or more, in other words, will involve 1 or more blocks in the cardiogram. Each block indicates 5 beats (Figure 2-6).
+	*	Good variability indicates fetal wellbeing.
+2.	With poor variability:
+	*	The variability in the heart rate will be less than 5 beats, in other words, will remain within 1 block (Figure 2-6).
+	*	The fetal heart monitoring must be repeated after 45 minutes.
+	*	If the poor variability persists, there is fetal distress.
 
-Fetal distress is present when:
+### 2-33 Why must you repeat the cardiotocogram after 45 minutes in a patient with a non-reactive fetal heart rate pattern and poor variability?
 
-There is an abnormal stress test.
+1.	Because a sleeping fetus may have a non-reactive fetal heart rate pattern with poor variability.
+2.	A fetus does not sleep for longer than 45 minutes. In a sleeping fetus the fetal heart rate pattern should, therefore, after 45 minutes have returned to a reactive pattern or a non-reactive pattern with good variability.
+3.	A persistent non-reactive fetal heart rate pattern with poor variability is abnormal and indicates fetal distress.
 
-There are repeated U-shaped decelerations at regular intervals, even though no contractions are observed.
-
-There is fetal bradycardia, with a fetal heart rate constantly below 100 beats per minute.
-
-There is a non-reactive fetal heart rate pattern with poor variability (i.e. less than 5 beats).
-
-2-31 What are reactive and non-reactive heart rate patterns?
-
-The fetal heart rate pattern is said to be reactive when it has at least 2 accelerations per 10 minutes, each with an amplitude (increase in the number of beats) of 15 or more beats per minute and a duration of at least 15 seconds (Figure 2-5).
-
-In a non-reactive fetal heart rate pattern there are no accelerations.
-
-2-32 How is the variability in the fetal heart rate used to determine whether a fetal heart rate pattern is non-reactive?
-
-With good variability:
-
-The variability in the heart rate will be 5 beats or more, in other words, will involve 1 or more blocks in the cardiogram. Each block indicates 5 beats (Figure 2-6).
-
-Good variability indicates fetal wellbeing.
-
-With poor variability:
-
-The variability in the heart rate will be less than 5 beats, in other words, will remain within 1 block (Figure 2-6).
-
-The fetal heart monitoring must be repeated after 45 minutes.
-
-If the poor variability persists, there is fetal distress.
-
-2-33 Why must you repeat the cardiotocogram after 45 minutes in a patient with a non-reactive fetal heart rate pattern and poor variability?
-
-Because a sleeping fetus may have a non-reactive fetal heart rate pattern with poor variability.
-
-A fetus does not sleep for longer than 45 minutes. In a sleeping fetus the fetal heart rate pattern should, therefore, after 45 minutes have returned to a reactive pattern or a non-reactive pattern with good variability.
-
-A persistent non-reactive fetal heart rate pattern with poor variability is abnormal and indicates fetal distress.
-
-2-34 What is a stress test?
+### 2-34 What is a stress test?
 
 If contractions are present during fetal heart rate monitoring in the antenatal period, then the monitoring is called a stress test. The fetal heart rate pattern can now be assessed during the stress of a uterine contraction.
 
-2-35 How is a stress test interpreted?
+### 2-35 How is a stress test interpreted?
 
-A normal stress test has no fetal heart rate decelerations during or following at least 2 contractions which last at least 30 seconds (Figure 2-7).
+1.	A normal stress test has no fetal heart rate decelerations during or following at least 2 contractions which last at least 30 seconds (Figure 2-7).
+2.	An abnormal stress test has late decelerations associated with uterine contractions (Figure 2-7). This indicates that the fetus is distressed.
 
-An abnormal stress test has late decelerations associated with uterine contractions (Figure 2-7). This indicates that the fetus is distressed.
-
-2-36 What are the characteristics of a late deceleration?
+### 2-36 What are the characteristics of a late deceleration?
 
 On the cardiotocogram the trough of the deceleration occurs 30 seconds or later after the peak of the contraction (Figure 2-8).
 
-2-37 What should you do in the case of an abnormal stress test, fetal bradycardia, repeated decelerations, or a non-reactive fetal heart rate pattern with persistent poor variability?
+### 2-37 What should you do in the case of an abnormal stress test, fetal bradycardia, repeated decelerations, or a non-reactive fetal heart rate pattern with persistent poor variability?
 
-The patient is managed as an acute emergency as these fetal heart rate patterns indicate fetal distress.
-
-However, false-positive abnormal stress tests can be caused by postural hypotension or spontaneous overstimulation of the uterus. Therefore, a stress test must always be performed with the patient on her side in the 15 degrees lateral position.
-
-Whenever a fetal heart rate pattern indicates fetal distress, the cardiogram must be repeated immediately. If it is again abnormal, action should be taken as shown in Flow diagram 2-4.
-
-A persistent fetal bradycardia is usually a preterminal event and, therefore, an indication for an immediate Caesarean section if the fetus is viable.
+1.	The patient is managed as an acute emergency as these fetal heart rate patterns indicate fetal distress.
+2.	However, false-positive abnormal stress tests can be caused by postural hypotension or spontaneous overstimulation of the uterus. Therefore, a stress test must always be performed with the patient on her side in the 15 degrees lateral position.
+3.	Whenever a fetal heart rate pattern indicates fetal distress, the cardiogram must be repeated immediately. If it is again abnormal, action should be taken as shown in Flow diagram 2-4.
+4.	A persistent fetal bradycardia is usually a preterminal event and, therefore, an indication for an immediate Caesarean section if the fetus is viable.
 
 The use of antenatal fetal heart rate monitoring is demonstrated in Flow diagram 2-3.
 
-2-38 Why should you not immediately do a Caesarean section if the fetal heart rate pattern indicates fetal distress and the fetus is viable?
+### 2-38 Why should you not immediately do a Caesarean section if the fetal heart rate pattern indicates fetal distress and the fetus is viable?
 
 Studies have shown that a false-positive abnormal stress test can occur in up to 80% of cases (i.e. an abnormal stress test in a healthy fetus). Therefore, whenever a fetal heart pattern indicates fetal distress, the cardiogram must always be repeated immediately.
 
-2-39 What is the emergency management of proven fetal distress with a viable fetus?
+### 2-39 What is the emergency management of proven fetal distress with a viable fetus?
 
 Immediately proceed with fetal resuscitation, as follows: 
 
-Turn the patient onto her side.
-
-Give 40% oxygen through a face mask.
-
-Start an intravenous infusion of Ringer’s lactate and give 250 µg (0.5 ml) salbutamol slowly intravenously if there are no contraindications. The 0.5 ml salbutamol must first be diluted in 9.5 ml sterile water. Monitor the maternal heart rate for tachycardia.
-
-Deliver the infant by the quickest possible route. If the patient’s cervix is 9 cm or more dilated and the head is on the pelvic floor, proceed with an assisted delivery. Otherwise, perform a Caesarean section.
-
-If the patient cannot be delivered immediately (e.g. she must be transferred to hospital) then a side-infusion of 200 ml saline with 1000 μg salbutamol given at a rate of 30 ml per hour (150 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute
+1.	Turn the patient onto her side.
+2.	Give 40% oxygen through a face mask.
+3.	Start an intravenous infusion of Ringer’s lactate and give 250 µg (0.5 ml) salbutamol slowly intravenously if there are no contraindications. The 0.5 ml salbutamol must first be diluted in 9.5 ml sterile water. Monitor the maternal heart rate for tachycardia.
+4.	Deliver the infant by the quickest possible route. If the patient’s cervix is 9 cm or more dilated and the head is on the pelvic floor, proceed with an assisted delivery. Otherwise, perform a Caesarean section.
+5.	If the patient cannot be delivered immediately (e.g. she must be transferred to hospital) then a side-infusion of 200 ml saline with 1000 μg salbutamol given at a rate of 30 ml per hour (150 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute
 
 It is important that you know how to give fetal resuscitation, as it is a life-saving procedure when fetal distress is present, both during the antepartum period and in labour.
 
@@ -2516,199 +1854,178 @@ Note
 
 2-40 What are the aims of fetal resuscitation?
 
-Suppressing uterine contractions and reducing uterine tone, which increases maternal blood flow to the placenta and, thereby, the oxygen supply to the fetus.
-
-Giving the mother extra oxygen which will also help the fetus.
+1.	Suppressing uterine contractions and reducing uterine tone, which increases maternal blood flow to the placenta and, thereby, the oxygen supply to the fetus.
+2.	Giving the mother extra oxygen which will also help the fetus.
 
 It is, therefore, possible to improve the fetal condition temporarily while preparations are being made for the patient to be delivered, or to be transferred to the hospital.
 
-Case study 1
+## Case study 1
 
 A patient is seen at the antenatal clinic at 37 weeks gestation. She is clinically well and reports normal fetal movements. The s-f height was 35 cm the previous week and is now 34 cm. The previous week the fetal head was ballotable above the brim of the pelvis and it is now 3/5 above the brim. The fetal heart rate is 144 beats per minute. The patient is reassured that she and her fetus are healthy, and she is asked to attend the antenatal clinic again in a week’s time.
 
-1. Are you worried about the decrease in the s-f height since the last antenatal visit?
+### 1. Are you worried about the decrease in the s-f height since the last antenatal visit?
 
 No, as the fetal head is descending into the pelvis. The head was 5/5 above the brim of the pelvis and is now 3/5 above the brim.
 
-2. What is your assessment of the fetal condition?
+### 2. What is your assessment of the fetal condition?
 
 The fetus is healthy as the s-f height is normal for 37 weeks and the fetus is moving normally.
 
-3. What is the value of a normal fetal heart rate during the antenatal period?
+### 3. What is the value of a normal fetal heart rate during the antenatal period?
 
 The fetal heart rate is not a useful measure of the fetal condition before the onset of labour. If the fetus moves well during the antenatal period, there is no need to listen to the fetal heart.
 
-4. What is the value of fetal movements during the antenatal period?
+### 4. What is the value of fetal movements during the antenatal period?
 
 Active fetal movements, noted that day, indicate that the fetus is healthy. The patient can therefore monitor the condition of her fetus by taking note of fetal movements.
 
-Case study 2
+## Case study 2
 
 You examine a 28-year-old gravida 4 para 3 patient who is 34 weeks pregnant. She has no particular problems and mentions that her fetus has moved a lot, as usual, that day. The s-f height has not increased over the past three antenatal visits but only the last s-f height measurement has fallen to the 10th centile. The patient is a farm labourer and she smokes.
 
-1. What do the s-f height measurements indicate?
+### 1. What do the s-f height measurements indicate?
 
 They indicate that the fetus may have intra-uterine growth restriction, as the last three measurements have remained the same even though the s-f height measurement has not fallen below the 10th centile.
 
-2. What are the probable causes of the poor fundal growth?
+### 2. What are the probable causes of the poor fundal growth?
 
 Hard physical labour and smoking. Both these factors can cause intra-uterine growth restriction.
 
-3. What is the possibility of fetal distress or death in the next few days?
+### 3. What is the possibility of fetal distress or death in the next few days?
 
 Both these possibilities are most unlikely as the patient has reported normal fetal movements.
 
-4. What can be done to improve fetal growth?
+### 4. What can be done to improve fetal growth?
 
 Arrangements should be made, if possible, for the patient to stop working. She must also stop smoking, get enough rest and have a good diet.
 
-5. How should this patient be managed?
+### 5. How should this patient be managed?
 
 She must be given a fetal-movement chart and you must explain clearly to her how to use the chart. She must be placed in the high-risk category and therefore seen at the clinic every week. If the fundal growth does not improve, the patient must be hospitalised and labour should be induced at 38 weeks.
 
 If a Doppler blood flow measurement of the umbilical arteries indicates normal placental function, routine management of a low-risk patient can be given. Induction at 38 weeks is therefore not needed.
 
-Case study 3
+## Case study 3
 
 A patient, who is 36 weeks pregnant with suspected intra-uterine growth restriction, is asked to record her fetal movements on a fetal-movement chart. She reports to the clinic that her fetus, which usually moves 20 times per hour, only moved five times during an hour that morning.
 
-1. What should the patient have done?
+### 1. What should the patient have done?
 
 Rather than come to the clinic, she should have counted the number of fetal movements for a further hour.
 
-2. What is the correct management of this patient?
+### 2. What is the correct management of this patient?
 
 She must not go home unless you are sure that her fetus is healthy. She should lie on her side and count the number of fetal movements during 1 hour. If she has not had breakfast, give her a cold drink or a cup of sweetened tea to make sure that she is not hypoglycaemic.
 
-3. What should you do if the fetus moves more than 10 times during the hour?
+### 3. What should you do if the fetus moves more than 10 times during the hour?
 
 If the number of fetal movements returns to more than half the previous count (i.e. more than 10 times per hour), she can go home and return to the clinic in a week. In addition, she must count the fetal movements daily.
 
-4. What should you do if the fetus moves fewer than 10 times during the hour?
+### 4. What should you do if the fetus moves fewer than 10 times during the hour?
 
 If the fetal movement count remains less than half the previous count, the patient should be transferred to a hospital where antenatal electronic fetal heart monitoring can be done. Further management will depend on the result of the monitoring.
 
-5. What is the correct management if electronic fetal heart monitoring is not available?
+### 5. What is the correct management if electronic fetal heart monitoring is not available?
 
 Fetal movements should be counted for a full 6 hours. If the fetus moves fewer than four times, there is a high chance that the fetus is distressed. A doctor must now examine the patient and decide whether the fetus should be delivered and what would be the safest method of delivery.
 
-Case study 4 need only be attempted by those who have studied the section on antenatal fetal heart rate monitoring.
+*Case study 4 need only be attempted by those who have studied the section on antenatal fetal heart rate monitoring.*
 
-Case study 4
+## Case study 4
 
 Antenatal fetal heart rate monitoring is done on a patient who is 36 weeks pregnant and who reports a decrease in the number of fetal movements. She lies flat on her back during the test. A non-reactive fetal heart rate pattern is found.
 
-1. What is wrong with the method used to monitor the fetal heart rate?
+### 1. What is wrong with the method used to monitor the fetal heart rate?
 
 The patient should not have been on her back during the test as this can cause postural hypotension resulting in a falsely abnormal fetal heart rate pattern. The patient should lie on her side with a 15 degree lateral tilt while the fetal heart rate is monitored.
 
-2. Does the fetal heart rate pattern indicate fetal distress?
+### 2. Does the fetal heart rate pattern indicate fetal distress?
 
 The condition of the fetus cannot be determined if there is a non-reactive antenatal fetal heart rate pattern. The variability must now be examined. If there is good variability (five beats or more), this indicates fetal wellbeing.
 
-3. What must you do if there is poor variability (fewer than 5 beats)?
+### 3. What must you do if there is poor variability (fewer than 5 beats)?
 
 The test should be repeated after 45 minutes.
 
-4. Why must you repeat the test after 45 minutes if there is a non-reactive pattern with poor variability?
+### 4. Why must you repeat the test after 45 minutes if there is a non-reactive pattern with poor variability?
 
 A sleeping fetus may have a fetal heart rate pattern with poor variability. However, a fetus does not sleep for longer than 45 minutes. The fetal heart rate pattern in that case will therefore have reverted to normal when the test is repeated 45 minutes later.
 
-5. What must you do if the test, performed 45 minutes later, continues to show poor variability?
+### 5. What must you do if the test, performed 45 minutes later, continues to show poor variability?
 
 The test now indicates fetal distress. If the fetus is viable, arrangements must be made to deliver it (see Flow diagram 2-4).
 
+
+
+
 2A
+{:.chapter-number}
 
-Skills workshop: Routine use of the antenatal card
+# Skills: Routine use of the antenatal card
 
-Objectives
+## Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
-Plot the symphysis-fundus height.
+*	Plot the symphysis-fundus height.
+*	Use the symphysis-fundus height graph to assess whether the fetus is growing adequately.
+*	Plot the patient’s weight and assess whether the weight gain is normal.
 
-Use the symphysis-fundus height graph to assess whether the fetus is growing adequately.
-
-Plot the patient’s weight and assess whether the weight gain is normal.
-
-A. Recording information on the antenatal card
+### A. Recording information on the antenatal card
 
 The front of the antenatal card is used to record details of the patient’s history, examination, special investigations, duration of pregnancy, planned management, and future family planning at the first and second antenatal visits. The back of the antenatal card is used to record the observations made at each antenatal visit throughout pregnancy.
 
 The following items should be recorded on the back of the antenatal card every time the patient attends the antenatal clinic:
 
-Date.
-
-Blood pressure.
-
-Proteinuria or glycosuria.
-
-Oedema.
-
-Fetal movements from 28 weeks onwards.
-
-Presenting part from 34 weeks onwards.
-
-Haemoglobin concentration at 28 and 34 weeks.
-
-The symphysis-fundus height from 18 weeks.
-
-Any additional notes.
-
-Signature of the responsible midwife or doctor.
+1.	Date.
+2.	Blood pressure.
+3.	Proteinuria or glycosuria.
+4.	Oedema.
+5.	Fetal movements from 28 weeks onwards.
+6.	Presenting part from 34 weeks onwards.
+7.	Haemoglobin concentration at 28 and 34 weeks.
+8.	The symphysis-fundus height from 18 weeks.
+9.	Any additional notes.
+10.	Signature of the responsible midwife or doctor.
 
 The symphysis-fundus (s-f) height is recorded on the antenatal graph while the other information is recorded in the spaces provided (see Figure 2A-1).
 
-B. Recording the results of the rapid HIV test on the antenatal card.
+### B. Recording the results of the rapid HIV test on the antenatal card.
 
-If the first rapid test is negative, it is accepted that the patient is HIV negative. In the space for special investigations on the front of the antenatal card, ‘Yes’ must be circled as the test was done (i.e. accepted) and then ‘No’ must be circled as the result was negative for RVD (i.e. precautions are not needed). RVD is the abbreviation for Retro Viral Disease (see Figure 2A-2).
+1.	If the first rapid test is negative, it is accepted that the patient is HIV negative. In the space for special investigations on the front of the antenatal card, ‘Yes’ must be circled as the test was done (i.e. accepted) and then ‘No’ must be circled as the result was negative for RVD (i.e. precautions are not needed). RVD is the abbreviation for Retro Viral Disease (see Figure 2A-2).
+2.	If both the first rapid test and the confirmatory (second) test are positive, it is accepted that the patient is HIV positive. Circle ‘Yes’ for the test being done and again ‘Yes’ for the test being positive for RVD. The test was therefore accepted and precautions are needed (see Figure 2A-3). The patient must receive appropriate antiretrovirals to prevent mother-to-child transmission of HIV.
+3.	If, after counselling, the patient decides not to have an HIV test, ‘No’ must be circled as the test was not done. As the test was not done, a decision about precautions is not required (see Figure 2A-4).
 
-If both the first rapid test and the confirmatory (second) test are positive, it is accepted that the patient is HIV positive. Circle ‘Yes’ for the test being done and again ‘Yes’ for the test being positive for RVD. The test was therefore accepted and precautions are needed (see Figure 2A-3). The patient must receive appropriate antiretrovirals to prevent mother-to-child transmission of HIV.
-
-If, after counselling, the patient decides not to have an HIV test, ‘No’ must be circled as the test was not done. As the test was not done, a decision about precautions is not required (see Figure 2A-4).
-
-C. The significance of the lines on the graph
+### C. The significance of the lines on the graph
 
 There are three oblique lines on the antenatal graph.
 
 The three lines represent the normal increase in the symphysis-fundus or s-f height (i.e. a centile growth chart of fundal height). The solid line in the centre is the 50th centile or average growth line. The dotted lines above and below this represent the 90th and 10th centiles respectively (i.e. the upper and lower limits of normal fundal growth).
 
-D. Plotting the symphysis-fundus height for the first time when the patient is sure of the date of her last menstrual period
+### D. Plotting the symphysis-fundus height for the first time when the patient is sure of the date of her last menstrual period
 
-Calculate the period of gestation in weeks. The gestational age is given along the top and bottom of the graph (the horizontal axis). The patient’s gestational age is 24 weeks.
+1.	Calculate the period of gestation in weeks. The gestational age is given along the top and bottom of the graph (the horizontal axis). The patient’s gestational age is 24 weeks.
+2.	Measure the s-f height. The s-f height in centimetres is given on both sides of the graph (the vertical axis). The patient’s s-f height measures 21 cm.
+3.	Knowing the gestational age and the s-f height, the s-f height for the gestational age can be plotted on the graph and should be recorded by making a dot. A small circle is drawn around the dot to make sure that it is clearly seen (Figure 2A-5).
+4.	The date of the antenatal visit should be written at the top of the card in the square opposite the gestational age of the patient. The person recording the observations on the antenatal card must also write her or his name next to the date.
+5.	The method whereby the gestational age was determined must now be ticked in the appropriate block at the top left-hand corner of the chart. In this case ‘Dates’ should be ticked.
+6.	Between 18 and 36 weeks the s-f height in centimetres should be plotted on the s-f curve to determine the gestational age in weeks. If the fundal height is at the level of the umbilicus or higher, and the s-f height differs from the gestational age by 4 weeks or more, the s-f height should be plotted.
 
-Measure the s-f height. The s-f height in centimetres is given on both sides of the graph (the vertical axis). The patient’s s-f height measures 21 cm.
+### E. Plotting the s-f height for the first time when the patient does not know the date of her last menstrual period
 
-Knowing the gestational age and the s-f height, the s-f height for the gestational age can be plotted on the graph and should be recorded by making a dot. A small circle is drawn around the dot to make sure that it is clearly seen (Figure 2A-5).
+1.	The patient’s s-f height measures 27 cm. Plot the measurement on the 50th centile opposite the 27 cm on the vertical axis (figure 2A-6).
+2.	By plotting the s-f height measurement on the 50th centile you are *assuming* that the fetus is growing normally and that the measurement on the horizontal axis represents the approximate gestational age. In this case the approximate gestational age is 28 weeks.
+3.	The method whereby the gestational age was determined must now be ticked in the appropriate block at the top left-hand corner of the chart. In this case ‘s-f-measurement’ should be ticked.
+4.	The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, the diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the s-f height between the 90th and 10th centiles confirms a normal growing singleton pregnancy.
 
-The date of the antenatal visit should be written at the top of the card in the square opposite the gestational age of the patient. The person recording the observations on the antenatal card must also write her or his name next to the date.
+### F. The first recording of the s-f height when the duration of pregnancy, as determined by her last normal menstrual period, differs from that determined by the s-f height by four or more weeks.
 
-The method whereby the gestational age was determined must now be ticked in the appropriate block at the top left-hand corner of the chart. In this case ‘Dates’ should be ticked.
+1.	According to the patient’s last menstrual period, she is 31 weeks pregnant. The s-f height measurement is 25 cm which indicates a gestational age of 26 weeks if plotted on the 50th centile of the s-f curve (Figure 2A-7).
+2.	In this case the fundal height is above the umbilicus, and the gestational age estimated from the mother’s last menstrual period and the s-f height differ by 5 weeks. The s-f height probably indicates the true gestational age. Make a mark on the 50th centile opposite 25 cm. This indicates an estimated gestational age of 26 weeks.
+3.	The method by which the gestational age is estimated must be recorded in the box at the top left-hand corner of the growth chart. In this case a tick should be made opposite ‘s-f measurement’.
+4.	The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, a diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the s-f height between the 90th and 10th centiles confirms a normal growing singleton pregnancy. This information also confirms that using the s-f height to determine gestational age was correct.
 
-Between 18 and 36 weeks the s-f height in centimetres should be plotted on the s-f curve to determine the gestational age in weeks. If the fundal height is at the level of the umbilicus or higher, and the s-f height differs from the gestational age by 4 weeks or more, the s-f height should be plotted.
-
-E. Plotting the s-f height for the first time when the patient does not know the date of her last menstrual period
-
-The patient’s s-f height measures 27 cm. Plot the measurement on the 50th centile opposite the 27 cm on the vertical axis (figure 2A-6).
-
-By plotting the s-f height measurement on the 50th centile you are assuming that the fetus is growing normally and that the measurement on the horizontal axis represents the approximate gestational age. In this case the approximate gestational age is 28 weeks.
-
-The method whereby the gestational age was determined must now be ticked in the appropriate block at the top left-hand corner of the chart. In this case ‘s-f-measurement’ should be ticked.
-
-The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, the diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the s-f height between the 90th and 10th centiles confirms a normal growing singleton pregnancy.
-
-F. The first recording of the s-f height when the duration of pregnancy, as determined by her last normal menstrual period, differs from that determined by the s-f height by four or more weeks.
-
-According to the patient’s last menstrual period, she is 31 weeks pregnant. The s-f height measurement is 25 cm which indicates a gestational age of 26 weeks if plotted on the 50th centile of the s-f curve (Figure 2A-7).
-
-In this case the fundal height is above the umbilicus, and the gestational age estimated from the mother’s last menstrual period and the s-f height differ by 5 weeks. The s-f height probably indicates the true gestational age. Make a mark on the 50th centile opposite 25 cm. This indicates an estimated gestational age of 26 weeks.
-
-The method by which the gestational age is estimated must be recorded in the box at the top left-hand corner of the growth chart. In this case a tick should be made opposite ‘s-f measurement’.
-
-The fundal growth must be carefully recorded at the following visits. If little or no growth occurs in the next 4 weeks, a diagnosis of intra-uterine growth restriction must be made. If excessive growth occurs, multiple pregnancy must be excluded. Normal growth with the s-f height between the 90th and 10th centiles confirms a normal growing singleton pregnancy. This information also confirms that using the s-f height to determine gestational age was correct.
-
-G. Plotting the symphysis-fundus height at subsequent antenatal visits
+### G. Plotting the symphysis-fundus height at subsequent antenatal visits
 
 The symphysis-fundus height must be plotted on the graph at every subsequent antenatal clinic visit. As before, the symphysis-fundus height measurement and the gestational age are used to determine where the dot should be made on the graph. For example, if the patient’s present visit is 4 weeks after she last attended the antenatal clinic, the s-f height measurement must be plotted 4 weeks later on the graph (Figure 2A-8).
 
@@ -2720,301 +2037,256 @@ I. Writing notes on the antenatal record card
 
 A space for brief notes is provided on the antenatal card. A block is also provided for a problem list. Few notes are needed and usually there are no notes for patients that are assessed as being low risk with normal pregnancies (Figure 2A-9).
 
-3
 
-Hypertensive disorders of pregnancy
+
+3
+{:.chapter-number}
+
+# Hypertensive disorders of pregnancy
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Define hypertension in pregnancy.
+*	Define hypertension in pregnancy.
+*	Give a simple classification of the hypertensive disorders of pregnancy.
+*	Diagnose pre-eclampsia and chronic hypertension.
+*	Explain why the hypertensive disorders of pregnancy must always be regarded as serious.
+*	List which patients are at risk of developing pre-eclampsia.
+*	List the complications of pre-eclampsia.
+*	Differentiate pre-eclampsia from severe pre-eclampsia.
+*	Give a practical guide to the management of pre-eclampsia.
+*	Provide emergency management for eclampsia.
+*	Manage gestational hypertension and chronic hypertension during pregnancy.
 
-Give a simple classification of the hypertensive disorders of pregnancy.
+## The hypertensive disorders of pregnancy
 
-Diagnose pre-eclampsia and chronic hypertension.
-
-Explain why the hypertensive disorders of pregnancy must always be regarded as serious.
-
-List which patients are at risk of developing pre-eclampsia.
-
-List the complications of pre-eclampsia.
-
-Differentiate pre-eclampsia from severe pre-eclampsia.
-
-Give a practical guide to the management of pre-eclampsia.
-
-Provide emergency management for eclampsia.
-
-Manage gestational hypertension and chronic hypertension during pregnancy.
-
-The hypertensive disorders of pregnancy
-
-3-1 What is the normal blood pressure during pregnancy?
+### 3-1 What is the normal blood pressure during pregnancy?
 
 The normal systolic blood pressure is less than 140 mm Hg and the diastolic blood pressure is less than 90 mm Hg. During the second trimester both the systolic and diastolic blood pressures usually fall and then rise again toward the end of pregnancy. A mild rise in blood pressure early in the third trimester can therefore be normal.
 
-3-2 What is hypertension during pregnancy?
+### 3-2 What is hypertension during pregnancy?
 
 Hypertension during pregnancy is defined as a diastolic blood pressure of 90 mm Hg or more and/or a systolic blood pressure of 140 mm Hg or more.
 
-A diastolic blood pressure of 90 mm Hg or more or a systolic blood pressure of 140 mm hg or more during pregnancy is abnormal.
+> A diastolic blood pressure of 90 mm Hg or more or a systolic blood pressure of 140 mm hg or more during pregnancy is abnormal.
 
 An abnormally high blood pressure during pregnancy is often accompanied by proteinuria.
 
-3-3 What is proteinuria?
+### 3-3 What is proteinuria?
 
 Proteinuria is defined as an excessive amount of protein in the urine. Normally the urine contains no protein or only a trace of protein. Therefore, just a trace of protein in the urine is not regarded as abnormal.
 
 Proteinuria during pregnancy is diagnosed when either of the following is present:
 
-0.3 g or more of protein in a 24-hour urine specimen.
-
-1+ or more protein as measured with a reagent strip (e.g. Albustix, Labstix, Uristix, Multistix, Lenstrip, etc.).
+1.	0.3 g or more of protein in a 24-hour urine specimen.
+2.	1+ or more protein as measured with a reagent strip (e.g. Albustix, Labstix, Uristix, Multistix, Lenstrip, etc.).
 
 Proteinuria during pregnancy may also be caused by:
 
-A urinary tract infection or renal disease.
-
-Contamination of the urine by a vaginal discharge or leucorrhoea.
+1.	A urinary tract infection or renal disease.
+2.	Contamination of the urine by a vaginal discharge or leucorrhoea.
 
 Patients with proteinuria must be asked to collect a second sample, as a midstream specimen of urine (MSU). The correct method of collecting an MSU must be carefully explained to the patient. The amount of proteinuria present in the MSU will be the correct one and must, therefore, be recorded in the notes. The further management will be dictated by the amount of proteinuria in the MSU.
 
-1+ or more protein in the urine is abnormal. 
+> 1+ or more protein in the urine is abnormal. 
 
-The classification of hypertension during pregnancy
+## The classification of hypertension during pregnancy
 
-3-4 How is hypertension during pregnancy classified?
+### 3-4 How is hypertension during pregnancy classified?
 
 The classification of hypertension during pregnancy depends on:
 
-Whether the hypertension started before or after the 20th week of pregnancy.
+1.	Whether the hypertension started before or after the 20th week of pregnancy.
+2.	Whether or not proteinuria is also present.
 
-Whether or not proteinuria is also present.
-
-The classification of hypertension during pregnancy depends on the time of onset of the hypertension and the presence or absence of proteinuria.
+> The classification of hypertension during pregnancy depends on the time of onset of the hypertension and the presence or absence of proteinuria.
 
 Classifying hypertension is important, as the cause of the hypertension and the risk to the mother and fetus vary between the different groups.
 
 The common forms of hypertension during pregnancy that will be discussed in this unit are:
 
-Pre-eclampsia (gestational proteinuric hypertension).
-
-Gestational hypertension.
-
-Chronic hypertension.
-
-Chronic hypertension with superimposed pre-eclampsia.
-
-Eclampsia.
+1.	Pre-eclampsia (gestational proteinuric hypertension).
+2.	Gestational hypertension.
+3.	Chronic hypertension.
+4.	Chronic hypertension with superimposed pre-eclampsia.
+5.	Eclampsia.
 
 Note
 :	Based on the above criteria, hypertension during pregnancy is at present divided into the following conditions:
 
-Gestational proteinuric hypertension (or pre-eclampsia).
+	*	Gestational proteinuric hypertension (or pre-eclampsia).
+	*	Gestational hypertension.
+	*	Chronic hypertension and chronic renal disease with hypertension.
+	*	Chronic hypertension with superimposed gestational proteinuric hypertension (or pre-eclampsia).
+	*	Unclassified hypertension and unclassified proteinuric hypertension (if the patient is seen for the first time in the second half of pregnancy, with hypertension and/or proteinuria).
+	*	Eclampsia.
 
-Gestational hypertension.
-
-Chronic hypertension and chronic renal disease with hypertension.
-
-Chronic hypertension with superimposed gestational proteinuric hypertension (or pre-eclampsia).
-
-Unclassified hypertension and unclassified proteinuric hypertension (if the patient is seen for the first time in the second half of pregnancy, with hypertension and/or proteinuria).
-
-Eclampsia.
-
-3-5 What is pre-eclampsia?
+### 3-5 What is pre-eclampsia?
 
 Pre-eclampsia presents with hypertension and proteinuria which develop in the second half of pregnancy. Pre-eclampsia may present during pregnancy, labour, or the puerperium.
 
 Pre-eclampsia is also called gestational (pregnancy-induced) proteinuric hypertension.
 
-3-6 What is gestational hypertension?
+### 3-6 What is gestational hypertension?
 
 In contrast to pre-eclampsia, gestational hypertension is not accompanied by proteinuria but also presents in the second half of pregnancy. Should proteinuria develop in a patient with gestational hypertension, the diagnosis must be changed to pre-eclampsia.
 
-Pre-eclampsia presents with hypertension and proteinuria in the second half of pregnancy. 
+> Pre-eclampsia presents with hypertension and proteinuria in the second half of pregnancy. 
 
 Note
 :	The term pre-eclampsia (rather than gestational proteinuric hypertension) will be used, as it is still widely known as such. 
 
-3-7 What is chronic hypertension?
+### 3-7 What is chronic hypertension?
 
 Chronic hypertension is hypertension, with or without proteinuria, that presents during the first half of pregnancy. There is usually a history of hypertension before the start of the pregnancy.
 
 Note
 :	Chronic hypertension without proteinuria is usually due to essential hypertension. If the chronic hypertension is accompanied by proteinuria during the first half of pregnancy, then the hypertension is usually due to chronic renal disease.
 
-3-8 What is chronic hypertension with superimposed pre-eclampsia?
+### 3-8 What is chronic hypertension with superimposed pre-eclampsia?
 
 This is hypertension presenting during the first half of pregnancy that is complicated by the appearance of proteinuria during the second half of pregnancy. In other words it is chronic hypertension that is complicated by the development of pre-eclampsia.
 
 Note
 :	Patients who book in the second half of pregnancy cannot be classified into any of the above types of hypertension, as it is not known whether the hypertension started in the first or second half of pregnancy. If a patient has hypertension without proteinuria when she books during the second half of pregnancy, she is said to have unclassified hypertension. However, if she has both hypertension and proteinuria when she books during the second half of pregnancy, she is said to have unclassified proteinuric hypertension. Most patients with unclassified hypertension probably have chronic hypertension, while most patients with unclassified proteinuric hypertension probably have pre-eclampsia.
 
-3-9 What is eclampsia?
+### 3-9 What is eclampsia?
 
 Eclampsia is a serious complication of pre-eclampsia that presents with convulsions during pregnancy, labour, or the first 7 days of the puerperium. Convulsions could also be the result of other causes such as epilepsy, but the possibility of eclampsia must be carefully ruled out whenever convulsions occur.
 
-Pre-eclampsia
+## Pre-eclampsia
 
 Pre-eclampsia is the hypertensive disorder of pregnancy which occurs most commonly and also causes the most problems for the mother and fetus.
 
 Gestational proteinuric hypertension and chronic hypertension with superimposed pre-eclampsia will subsequently be discussed under the heading ‘pre-eclampsia’ because the management is similar.
 
-3-10 How frequently does pre-eclampsia occur?
+### 3-10 How frequently does pre-eclampsia occur?
 
 In the Western Cape 5–6% of all pregnant women develop pre-eclampsia.
 
-3-11 Is pre-eclampsia a danger to the mother?
+### 3-11 Is pre-eclampsia a danger to the mother?
 
 Yes, it is one of the most important causes of maternal death in most parts of southern Africa.
 
-3-12 What are the maternal complications of pre-eclampsia?
+### 3-12 What are the maternal complications of pre-eclampsia?
 
 The two most important complications of pre-eclampsia are also important causes of maternal death during pregnancy:
 
-Intracerebral haemorrhage.
-
-Eclampsia.
+1.	Intracerebral haemorrhage.
+2.	Eclampsia.
 
 Note
 :	Other, less common, complications of pre-eclampsia are pulmonary oedema and the HELLP (Haemolysis, Elevated Liver enzymes, and a Low Platelet count) syndrome. Rupture of the liver, renal failure, the adult respiratory distress syndrome, and a generalised disorder of blood coagulation may also occur, but fortunately, those are rare complications.
 
-3-13 Which patients are at an increased risk of intracerebral haemorrhage?
+### 3-13 Which patients are at an increased risk of intracerebral haemorrhage?
 
 The risk of intracerebral haemorrhage is especially high if the diastolic blood pressure is 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more.
 
-3-14 Does eclampsia only occur at a very high diastolic blood pressure?
+### 3-14 Does eclampsia only occur at a very high diastolic blood pressure?
 
 No, eclampsia can occur at a much lower blood pressure, especially in young patients.
 
-3-15 Why is pre-eclampsia a danger to the fetus and newborn infant?
+### 3-15 Why is pre-eclampsia a danger to the fetus and newborn infant?
 
 Pre-eclampsia is an important cause of perinatal death because:
 
-Preterm delivery is often necessary because of a deterioration in the maternal condition or the development of fetal distress.
+1.	Preterm delivery is often necessary because of a deterioration in the maternal condition or the development of fetal distress.
+2.	Abruptio placentae is more common in patients with pre-eclampsia and often results in an intra-uterine death.
+3.	Pre-eclampsia is associated with decreased placental blood flow. As a result of decreased placental blood flow the fetus may suffer from:
+	*	Intra-uterine growth restriction or wasting.
+	*	Fetal distress.
 
-Abruptio placentae is more common in patients with pre-eclampsia and often results in an intra-uterine death.
+> Pre-eclampsia may result in intra-uterine growth restriction, fetal distress, preterm delivery and intra-uterine death.
 
-Pre-eclampsia is associated with decreased placental blood flow. As a result of decreased placental blood flow the fetus may suffer from:
-
-Intra-uterine growth restriction or wasting.
-
-Fetal distress.
-
-Pre-eclampsia may result in intra-uterine growth restriction, fetal distress, preterm delivery and intra-uterine death.
-
-3-16 How can the severity of pre-eclampsia be graded?
+### 3-16 How can the severity of pre-eclampsia be graded?
 
 The severity of pre-eclampsia can be graded by:
 
-The diastolic and/or systolic blood pressure.
-
-The amount of proteinuria.
-
-Signs and symptoms of imminent eclampsia.
-
-The presence of convulsions.
+1.	The diastolic and/or systolic blood pressure.
+2.	The amount of proteinuria.
+3.	Signs and symptoms of imminent eclampsia.
+4.	The presence of convulsions.
 
 Patients with pre-eclampsia can be divided into four grades of severity:
 
-Pre-eclampsia: A diastolic blood pressure of 90–109 mm Hg and/or a systolic blood pressure of 140–159 mm Hg and proteinuria.
+1.	*Pre-eclampsia*: A diastolic blood pressure of 90–109 mm Hg and/or a systolic blood pressure of 140–159 mm Hg and proteinuria.
+2.	*Severe pre-eclampsia*: Any of the following:
+	*	A diastolic blood pressure of 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more on two occasions, 4 hours apart.
+	*	A diastolic blood pressure of 120 mm Hg or more, and/or a systolic blood pressure of 170 mm Hg or more, on one occasion, and proteinuria.
+3.	*Imminent eclampsia*: These patients have symptoms and/or signs that indicate that they are at extremely high risk of developing eclampsia at any moment. The diagnosis does *not* depend on the degree of hypertension or the amount of proteinuria present.
+4.	*Eclampsia*: Eclampsia is diagnosed when a patient with any of the grades of pre-eclampsia has a convulsion.
 
-Severe pre-eclampsia: Any of the following:
-
-A diastolic blood pressure of 110 mm Hg or more and/or a systolic blood pressure of 160 mm Hg or more on two occasions, 4 hours apart.
-
-A diastolic blood pressure of 120 mm Hg or more, and/or a systolic blood pressure of 170 mm Hg or more, on one occasion, and proteinuria.
-
-Imminent eclampsia: These patients have symptoms and/or signs that indicate that they are at extremely high risk of developing eclampsia at any moment. The diagnosis does not depend on the degree of hypertension or the amount of proteinuria present.
-
-Eclampsia: Eclampsia is diagnosed when a patient with any of the grades of pre-eclampsia has a convulsion.
-
-If there is any doubt about the grade of pre-eclampsia, the patient should always be placed in the more severe grade.
+> If there is any doubt about the grade of pre-eclampsia, the patient should always be placed in the more severe grade.
 
 Patients who improve on bed rest should be kept in the grade of pre-eclampsia which they were given at the initial evaluation on admission. Further management should be in accordance with this grade.
 
-3-17 What are the symptoms and signs of imminent eclampsia?
+### 3-17 What are the symptoms and signs of imminent eclampsia?
 
-The symptoms are:
+The *symptoms* are:
 
-Headache.
+1.	Headache.
+2.	Visual disturbances or flashes of light seen in front of the eyes.
+3.	Upper abdominal pain, in the epigastrium and/or over the liver.
 
-Visual disturbances or flashes of light seen in front of the eyes.
+The *signs* are:
 
-Upper abdominal pain, in the epigastrium and/or over the liver.
+1.	Tenderness over the liver.
+2.	Increased tendon reflexes, e.g. knee reflexes.
 
-The signs are:
+> The diagnosis of imminent eclampsia is made even if only one of the symptoms or signs is present, irrespective of the blood pressure or the amount of proteinuria. 
 
-Tenderness over the liver.
-
-Increased tendon reflexes, e.g. knee reflexes.
-
-The diagnosis of imminent eclampsia is made even if only one of the symptoms or signs is present, irrespective of the blood pressure or the amount of proteinuria. 
-
-3-18 How common is eclampsia?
+### 3-18 How common is eclampsia?
 
 In the Western Cape, the incidence of eclampsia is 1 per 1000 pregnancies.
 
-Patients at increased risk of pre-eclampsia
+## Patients at increased risk of pre-eclampsia
 
-3-19 Which patients are at an increased risk of pre-eclampsia?
+### 3-19 Which patients are at an increased risk of pre-eclampsia?
 
-Primigravidas.
+1.	Primigravidas.
+2.	Patients with chronic hypertension.
+3.	Patients over 34 years of age.
+4.	Patients with a multiple pregnancy.
+5.	Diabetics.
+6.	Patients with a past history of a pregnancy complicated by pre-eclampsia, especially if the pre-eclampsia developed during the late 2nd or early 3rd trimester.
+7.	Patients who develop generalised oedema, especially facial oedema.
 
-Patients with chronic hypertension.
-
-Patients over 34 years of age.
-
-Patients with a multiple pregnancy.
-
-Diabetics.
-
-Patients with a past history of a pregnancy complicated by pre-eclampsia, especially if the pre-eclampsia developed during the late 2nd or early 3rd trimester.
-
-Patients who develop generalised oedema, especially facial oedema.
-
-3-20 What advice should be given to patients at an increased risk of pre-eclampsia?
+### 3-20 What advice should be given to patients at an increased risk of pre-eclampsia?
 
 They must be told about the symptoms of imminent eclampsia, and advised to contact the clinic or hospital immediately, if these symptoms appear.
 
-3-21 What special care should be given to patients at an increased risk of pre-eclampsia?
+### 3-21 What special care should be given to patients at an increased risk of pre-eclampsia?
 
 In the second half of pregnancy, the following must be carefully watched for:
 
-A rise in diastolic blood pressure.
-
-Proteinuria.
-
-Symptoms and signs of imminent eclampsia.
+1.	A rise in diastolic blood pressure.
+2.	Proteinuria.
+3.	Symptoms and signs of imminent eclampsia.
 
 Patients with an obstetric history of pre-eclampsia that developed late in the second trimester or early in the third trimester, must receive 75 mg aspirin (a quarter Disprin) daily from a gestational age of 14 weeks. This will reduce the risk that pre-eclampsia may develop.
 
-3-22 What should you do if a patient develops generalised oedema, but remains normotensive and does not have proteinuria?
+### 3-22 What should you do if a patient develops generalised oedema, but remains normotensive and does not have proteinuria?
 
-She should rest as much as possible.
+1.	She should rest as much as possible.
+2.	She should be followed up weekly at the antenatal clinic and carefully checked for the development of hypertension and proteinuria.
+3.	She should carefully monitor the fetal movements.
 
-She should be followed up weekly at the antenatal clinic and carefully checked for the development of hypertension and proteinuria.
+## The management of pre-eclampsia
 
-She should carefully monitor the fetal movements.
+### 3-23 What should you do if a patient develops pre-eclampsia?
 
-The management of pre-eclampsia
-
-3-23 What should you do if a patient develops pre-eclampsia?
-
-A patient with pre-eclampsia must be admitted to hospital. Such a patient may be safely cared for in a level 1 hospital.
-
-Methyldopa (Aldomet) must be prescribed to control the blood pressure.
+1.	A patient with pre-eclampsia must be admitted to hospital. Such a patient may be safely cared for in a level 1 hospital.
+2.	Methyldopa (Aldomet) must be prescribed to control the blood pressure.
 
 Note
 :	High doses of methyldopa (Aldomet), e.g. 500 mg 8-hourly, must be given.
 
-All patients with pre-eclampsia must be admitted to hospital, irrespective of the level of their blood pressure. 
+> All patients with pre-eclampsia must be admitted to hospital, irrespective of the level of their blood pressure. 
 
-3-24 How should you monitor the fetus to ensure fetal wellbeing?
+### 3-24 How should you monitor the fetus to ensure fetal wellbeing?
 
 Patients with pre-eclampsia often have placental insufficiency, associated with intra-uterine growth restriction. Fetal distress, therefore, occurs commonly. If this is not diagnosed, and the fetus is not delivered soon, intra-uterine death will result. These patients are also at high risk of abruptio placentae, followed by fetal distress and frequently also intra-uterine death. The fetal condition must, therefore, be carefully monitored in all patients with pre-eclampsia.
 
@@ -3023,9 +2295,9 @@ Fetal movements must be counted and recorded by the patient twice a day.
 Note
 :	In level 2 and 3 hospitals antenatal fetal heart rate monitoring (CTG) for fetal distress must be done at least daily.
 
-Patients with pre-eclampsia are at high risk of developing fetal distress. They must, therefore, be carefully monitored for fetal distress.
+> Patients with pre-eclampsia are at high risk of developing fetal distress. They must, therefore, be carefully monitored for fetal distress.
 
-3-25 When should you deliver a patient with pre-eclampsia?
+### 3-25 When should you deliver a patient with pre-eclampsia?
 
 Patients who have a gestational age of 36 weeks or more should have their labour induced on the day that the diagnosis is made. If the patient has a favourable (‘ripe’)cervix, a surgical induction can be done.
 
@@ -3033,186 +2305,156 @@ A patient with an unfavourable (‘unripe’) cervix must be referred to a level
 
 Patients with a gestation of less than 36 weeks must be managed as described in sections 3-23 and 3-24.
 
-3-26 What should you do if a patient with pre-eclampsia develops severe pre-eclampsia?
+### 3-26 What should you do if a patient with pre-eclampsia develops severe pre-eclampsia?
 
-If the patient is 34 weeks pregnant or more, labour must be induced.
+1.	If the patient is 34 weeks pregnant or more, labour must be induced.
+2.	If she is less than 34 weeks pregnant, she must be managed as indicated in section 3-37.
 
-If she is less than 34 weeks pregnant, she must be managed as indicated in section 3-37.
+> The management of pre-eclampsia is bed rest and careful monitoring, to detect a worsening of the pre-eclampsia or the development of fetal distress.
 
-The management of pre-eclampsia is bed rest and careful monitoring, to detect a worsening of the pre-eclampsia or the development of fetal distress.
+### 3-27 What special investigations are indicated in pre-eclampsia?
 
-3-27 What special investigations are indicated in pre-eclampsia?
+1.	An MSU must be examined microscopically for a urinary tract infection, or sent to the laboratory for culture, as a urinary tract infection may be responsible for the proteinuria.
+2.	A platelet count must be done, if a laboratory is available. A platelet count of less than 100 000 is an indication for referral of the patient to a level 2 hospital.
 
-An MSU must be examined microscopically for a urinary tract infection, or sent to the laboratory for culture, as a urinary tract infection may be responsible for the proteinuria.
+> A urinary tract infection must be excluded in all patients with proteinuria in pregnancy. 
 
-A platelet count must be done, if a laboratory is available. A platelet count of less than 100 000 is an indication for referral of the patient to a level 2 hospital.
-
-A urinary tract infection must be excluded in all patients with proteinuria in pregnancy. 
-
-The emergency management of severe pre-eclampsia and imminent eclampsia
+## The emergency management of severe pre-eclampsia and imminent eclampsia
 
 The management of patients with severe pre-eclampsia and imminent eclampsia is the same and consists of stabilising the patient, followed by referral to a level 2 or 3 hospital.
 
-3-28 What are the greatest dangers to a patient with severe pre-eclampsia?
+### 3-28 What are the greatest dangers to a patient with severe pre-eclampsia?
 
 The two greatest dangers which are a threat to the patient’s life are eclampsia and an intracerebral haemorrhage.
 
-3-29 How should you manage a patient with severe pre-eclampsia or imminent eclampsia?
+### 3-29 How should you manage a patient with severe pre-eclampsia or imminent eclampsia?
 
 The main aims of management are to:
 
-Prevent eclampsia by giving magnesium sulphate.
+1.	Prevent eclampsia by giving magnesium sulphate.
+2.	Prevent intracerebral haemorrhage by decreasing the blood pressure with parenteral dihydralazine (Nepresol) or oral nifedipine capsules (Adalat).
 
-Prevent intracerebral haemorrhage by decreasing the blood pressure with parenteral dihydralazine (Nepresol) or oral nifedipine capsules (Adalat).
-
-The initial management of severe pre-eclampsia and imminent eclampsia is aimed at the prevention of eclampsia and intracerebral haemorrhage.
+> The initial management of severe pre-eclampsia and imminent eclampsia is aimed at the prevention of eclampsia and intracerebral haemorrhage.
 
 The steps in the management of severe pre-eclampsia are:
 
-Step 1: An intravenous infusion is started (Plasmalyte B or Ringer’s lactate) and magnesium sulphate is administered as follows:
+*Step 1*: An intravenous infusion is started (Plasmalyte B or Ringer’s lactate) and magnesium sulphate is administered as follows:
 
-Give 4 g slowly intravenously over 10 minutes. Prepare the 4 g by adding 8 ml 50% magnesium sulphate (i.e. 2 ampoules) to 12 ml sterile water.
-
-Then give 5 g (i.e. 10 ml 50% magnesium sulphate) by deep intramuscular injection into each buttock.
+1.	Give 4 g slowly intravenously over 10 minutes. Prepare the 4 g by adding 8 ml 50% magnesium sulphate (i.e. 2 ampoules) to 12 ml sterile water.
+2.	Then give 5 g (i.e. 10 ml 50% magnesium sulphate) by deep intramuscular injection into each buttock.
 
 A total of 14 g of magnesium sulphate is given.
 
 Note
 :	300 ml of the intravenous infusion is given rapidly over half an hour. Thereafter, the infusion is given slowly, at a rate of 80 ml per hour.
 
-Step 2: After the magnesium sulphate has been administered, a Foley catheter is inserted into the patient’s bladder to monitor the urinary output.
+*Step 2*: After the magnesium sulphate has been administered, a Foley catheter is inserted into the patient’s bladder to monitor the urinary output.
 
-Step 3: After giving the magnesium sulphate, the blood pressure must be measured again. If the diastolic blood pressure is still 110 mg Hg or more and/or the systolic blood pressure 160 mm Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
+*Step 3*: After giving the magnesium sulphate, the blood pressure must be measured again. If the diastolic blood pressure is still 110 mg Hg or more and/or the systolic blood pressure 160 mm Hg or more, oral nifedipine (Adalat) or dihydralazine (Nepresol) is given as follows:
 
-Give 10 mg (1 capsule) nifedipine orally or 6.25 mg dihydralazine by intramuscular injection.
-
-The patient’s blood pressure is taken every 5 minutes for the next 30 minutes.
-
-If the blood pressure drops too much, intravenous Balsol or Ringer’s lactate is administered rapidly, until the blood pressure returns to normal.
-
-If the diastolic blood pressure remains 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more after 30 minutes, patients who received 10 mg nifedipine orally can be given a second dose of 10 mg nifedipine orally. If necessary, 10 mg of nifedipine can be repeated half-hourly up to a maximum dose of 50 mg.
+*	Give 10 mg (1 capsule) nifedipine orally or 6.25 mg dihydralazine by intramuscular injection.
+*	The patient’s blood pressure is taken every 5 minutes for the next 30 minutes.
+*	If the blood pressure drops too much, intravenous Balsol or Ringer’s lactate is administered rapidly, until the blood pressure returns to normal.
+*	If the diastolic blood pressure remains 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more after 30 minutes, patients who received 10 mg nifedipine orally can be given a second dose of 10 mg nifedipine orally. If necessary, 10 mg of nifedipine can be repeated half-hourly up to a maximum dose of 50 mg.
 
 Or
 
-If dihydralazine was used, an ampoule of dihydralazine (25 mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5 mg) are given slowly intravenously, at 20-minute intervals, until the diastolic blood pressure drops to below 110 mm Hg and/or the systolic blood pressure below 160 mm Hg.
+*	If dihydralazine was used, an ampoule of dihydralazine (25 mg) should be mixed with 20 ml of sterile water. Bolus doses of 2 ml (2.5 mg) are given slowly intravenously, at 20-minute intervals, until the diastolic blood pressure drops to below 110 mm Hg and/or the systolic blood pressure below 160 mm Hg.
 
 Nifedipine 10 mg capsules must always be given orally and not given sublingually (under the tongue). The 10 mg capsules must not be confused with Adalat XL tablets which are slowly dissolved and not suitable for rapidly lowering blood pressure.
 
-Step 4: When the blood pressure is controlled, the patient is transferred to a level 2 or 3 hospital.
+*Step 4*: When the blood pressure is controlled, the patient is transferred to a level 2 or 3 hospital.
 
-Patients with severe pre-eclampsia or imminent eclampsia must always be stabilised before they are transferred, or until further management is decided upon.
+> Patients with severe pre-eclampsia or imminent eclampsia must always be stabilised before they are transferred, or until further management is decided upon.
 
-3-30 What can be done to ensure maximal safety for the patient during her transfer to hospital?
+### 3-30 What can be done to ensure maximal safety for the patient during her transfer to hospital?
 
-A doctor or registered nurse or midwife should accompany the patient.
+1.	A doctor or registered nurse or midwife should accompany the patient.
+2.	Resuscitation equipment, together with magnesium sulphate, calcium gluconate and dihydralazine or nifedipine, must be available in the ambulance. Respiration may be depressed if a large dose of magnesium sulphate is given too rapidly. Calcium gluconate is the antidote to be given in the event of an overdose of magnesium sulphate.
+3.	Convulsions must be watched for and the patient’s blood pressure must also be carefully observed.
+4.	If the patient begins to convulse in the ambulance, she must be given a further 2 g of magnesium sulphate intravenously. The dose may, if required, be repeated once. (Make up the solution beforehand and keep it ready in a 20 ml syringe). Further maintenance doses of magnesium sulphate must be given if more than 4 hours pass after the loading dose.
+5.	If the blood pressure again rises to 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more while the patient is being transported, you should give a second dose of 10 mg nifedipine orally or 6.25 mg dihydralazine intramuscularly. Remember that with every administration of dihydralazine there is a danger that the patient may become hypotensive. Another side effect is tachycardia, and if the pulse rate rises to 120 beats per minute or above, further administration of dihydralazine must be stopped.
 
-Resuscitation equipment, together with magnesium sulphate, calcium gluconate and dihydralazine or nifedipine, must be available in the ambulance. Respiration may be depressed if a large dose of magnesium sulphate is given too rapidly. Calcium gluconate is the antidote to be given in the event of an overdose of magnesium sulphate.
-
-Convulsions must be watched for and the patient’s blood pressure must also be carefully observed.
-
-If the patient begins to convulse in the ambulance, she must be given a further 2 g of magnesium sulphate intravenously. The dose may, if required, be repeated once. (Make up the solution beforehand and keep it ready in a 20 ml syringe). Further maintenance doses of magnesium sulphate must be given if more than 4 hours pass after the loading dose.
-
-If the blood pressure again rises to 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more while the patient is being transported, you should give a second dose of 10 mg nifedipine orally or 6.25 mg dihydralazine intramuscularly. Remember that with every administration of dihydralazine there is a danger that the patient may become hypotensive. Another side effect is tachycardia, and if the pulse rate rises to 120 beats per minute or above, further administration of dihydralazine must be stopped.
-
-3-31 How and when should you give maintenance doses of magnesium sulphate?
+### 3-31 How and when should you give maintenance doses of magnesium sulphate?
 
 After the initial loading dose of magnesium sulphate, the patient will need regular maintenance doses until 24 hours after delivery. Magnesium sulphate 5 g is given every 4 hours by deep intramuscular injection into alternate buttocks. The injections are less painful if the magnesium sulphate is injected together with 1 ml 1% lignocaine.
 
-3-32 What are the adverse effects of an overdose of magnesium sulphate and how can they be prevented?
+### 3-32 What are the adverse effects of an overdose of magnesium sulphate and how can they be prevented?
 
 An overdose of magnesium sulphate causes respiratory and cardiac depression. Here, the patellar reflex acts as a convenient warning. If the reflex is present, the drug may safely be given, as there is no danger of overdosage. If the reflex is absent or very reduced, there is a danger of overdosage and the next dose must not be given.
 
 Magnesium sulphate is excreted by the kidneys. If the urinary output is less than 30 ml per hour, follow-up doses must only be given if there is a definite patellar reflex present.
 
-3-33 What should you do if the patient develops the effects of an overdose of magnesium sulphate?
+### 3-33 What should you do if the patient develops the effects of an overdose of magnesium sulphate?
 
 This is a life-threatening emergency and the following steps must be taken immediately:
 
-The patient must be intubated and ventilated or else temporarily ventilated with a bag and face mask. External cardiac massage may also be needed.
+1.	The patient must be intubated and ventilated or else temporarily ventilated with a bag and face mask. External cardiac massage may also be needed.
+2.	Give 10 ml of 10% calcium gluconate slowly intravenously. This is an antidote for magnesium sulphate poisoning.
 
-Give 10 ml of 10% calcium gluconate slowly intravenously. This is an antidote for magnesium sulphate poisoning.
+## The management of eclampsia
 
-The management of eclampsia
-
-3-34 What is your immediate management if a patient convulses?
+### 3-34 What is your immediate management if a patient convulses?
 
 The management of eclampsia is as follows:
 
-Step 1: Prevent aspiration of the stomach contents by:
+*Step 1*: Prevent aspiration of the stomach contents by:
 
-Turning the patient immediately onto her side.
+*	Turning the patient immediately onto her side.
+*	Keeping the airway open by suctioning (if necessary) and inserting an airway.
+*	Administering oxygen.
 
-Keeping the airway open by suctioning (if necessary) and inserting an airway.
+*Step 2*: Stop the convulsion and prevent further convulsions by putting up an intravenous infusion of Balsol or Ringer’s lactate and giving magnesium sulphate as described in 3-30.
 
-Administering oxygen.
+*Step 3*: After the magnesium sulphate has been given, insert a Foley catheter to monitor the urinary output.
 
-Step 2: Stop the convulsion and prevent further convulsions by putting up an intravenous infusion of Balsol or Ringer’s lactate and giving magnesium sulphate as described in 3-30.
+*Step 4*: If the diastolic blood pressure is 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion, as described in 3-29.
 
-Step 3: After the magnesium sulphate has been given, insert a Foley catheter to monitor the urinary output.
+*Step 5*: The patient must now be urgently transferred to a level 2 or 3 hospital.
 
-Step 4: If the diastolic blood pressure is 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more, it must be reduced with dihydralazine (Nepresol). Oral nifedipine can be used if the patient is fully conscious after the convulsion, as described in 3-29.
+> Eclampsia is a life-threatening condition for both the mother and the fetus. Immediate management is therefore needed.
 
-Step 5: The patient must now be urgently transferred to a level 2 or 3 hospital.
-
-Eclampsia is a life-threatening condition for both the mother and the fetus. Immediate management is therefore needed.
-
-3-35 What should you do if the patient convulses again?
+### 3-35 What should you do if the patient convulses again?
 
 If the patient convulses again, after the initial loading dose of 14 g of magnesium sulphate has controlled the first convulsion, a further 2 g of magnesium sulphate should be administered intravenously. This dose can be repeated once more in the unlikely event of the patient having yet another convulsion.
 
-The following management is not essential knowledge, but should be read by medical and nursing staff working in level 2 or 3 hospitals.
+*The following management is not essential knowledge, but should be read by medical and nursing staff working in level 2 or 3 hospitals.*
 
-The further management of severe pre-eclampsia and imminent eclampsia at the referral hospital
+## The further management of severe pre-eclampsia and imminent eclampsia at the referral hospital
 
-3-36 How should you manage the patient further in a level 2 or 3 hospital?
+### 3-36 How should you manage the patient further in a level 2 or 3 hospital?
 
 Further management consists of either delivery or conservative treatment, depending on:
 
-The degree to which the patient’s condition stabilises, i.e. the diastolic blood pressure remains below 110 mm Hg and/or the systolic blood pressure below 160 mm Hg, and there are no symptoms or signs of imminent eclampsia. (Oral anti-hypertensive drugs must be given to control the blood pressure, if it is decided to continue conservative management).
-
-The duration of the pregnancy.
-
-The condition of the fetus.
+1.	The degree to which the patient’s condition stabilises, i.e. the diastolic blood pressure remains below 110 mm Hg and/or the systolic blood pressure below 160 mm Hg, and there are no symptoms or signs of imminent eclampsia. (Oral anti-hypertensive drugs must be given to control the blood pressure, if it is decided to continue conservative management).
+2.	The duration of the pregnancy.
+3.	The condition of the fetus.
 
 The patient must be delivered if any of the following apply:
 
-The patient’s condition does not stabilise.
-
-The fetus is not nearing viability (it is less than 26 weeks).
-
-The duration of pregnancy is 34 or more weeks.
-
-There is fetal distress.
+1.	The patient’s condition does not stabilise.
+2.	The fetus is not nearing viability (it is less than 26 weeks).
+3.	The duration of pregnancy is 34 or more weeks.
+4.	There is fetal distress.
 
 If none of the above apply then the patient can be managed conservatively until 34 weeks gestation or until the maternal condition deteriorates or fetal distress develops.
 
-The maternal condition must always be stabilised first. Thereafter, the condition of the fetus and the duration of the pregnancy must be taken into consideration in planning the further management of the patient.
+> The maternal condition must always be stabilised first. Thereafter, the condition of the fetus and the duration of the pregnancy must be taken into consideration in planning the further management of the patient.
 
-3-37 What is the conservative management of severe pre-eclampsia?
+### 3-37 What is the conservative management of severe pre-eclampsia?
 
-Magnesium sulphate must be stopped.
-
-The patient must be hospitalised for bed rest in a level 2 or 3 hospital.
-
-The fetal movements must be monitored daily.
-
-Antenatal cardiotocography (CTG) is very useful and if possible must be done twice or more daily. This is because of the risk of fetal distress, as a result of placental insufficiency or abruptio placentae.
-
-Urinary tract infection must be excluded.
-
-A platelet count and renal function tests (urea and creatinine) must be done twice a week. If the platelet count is less than 100 000, liver function tests should be done. Poor renal function, raised liver enzymes or a platelet count that falls further are indications for delivery.
-
-An ultrasound examination is of value to assess fetal weight, and to assess fetal viability. Remember that a patient with a viable, growth-restricted fetus can present with a fundal height of 24, or even 22 weeks gestation. Fetal growth must also be monitored.
-
-Because of the danger of hyaline membrane disease in a newborn infant who, though viable, has a gestational age of less than 34 weeks, steroids (betamethasone 12 mg, Celestone-Soluspan) must be given intramuscularly to the patient, to enhance fetal lung maturity. A second dose must be repeated 24 hours later.
-
-If the duration of the pregnancy is unknown, and the clinical assessment or ultrasound size suggests a pregnancy of 34 weeks or more, the fetus must be delivered.
-
-If there is no fetal distress and the presentation is cephalic, a medical or surgical induction of labour must be done at 34 weeks gestation.
-
-If fetal distress is present, or the presentation is abnormal, a Caesarean section must be done.
-
-A patient whose condition becomes well stabilised, must be placed on an oral antihypertensive drug. Alpha methyldopa is the drug of choice. A high dosage (such as 500 mg 8-hourly that can be increased to 750 mg 8-hourly) must be used. If the diastolic blood pressure remains at 110 mm Hg and/or the systolic blood pressure 160 mm Hg or higher, a second or even a third antihypertensive drug is added.
+1.	Magnesium sulphate must be stopped.
+2.	The patient must be hospitalised for bed rest in a level 2 or 3 hospital.
+3.	The fetal movements must be monitored daily.
+4.	Antenatal cardiotocography (CTG) is very useful and if possible must be done twice or more daily. This is because of the risk of fetal distress, as a result of placental insufficiency or abruptio placentae.
+5.	Urinary tract infection must be excluded.
+6.	A platelet count and renal function tests (urea and creatinine) must be done twice a week. If the platelet count is less than 100 000, liver function tests should be done. Poor renal function, raised liver enzymes or a platelet count that falls further are indications for delivery.
+7.	An ultrasound examination is of value to assess fetal weight, and to assess fetal viability. Remember that a patient with a viable, growth-restricted fetus can present with a fundal height of 24, or even 22 weeks gestation. Fetal growth must also be monitored.
+8.	Because of the danger of hyaline membrane disease in a newborn infant who, though viable, has a gestational age of less than 34 weeks, steroids (betamethasone 12 mg, Celestone-Soluspan) must be given intramuscularly to the patient, to enhance fetal lung maturity. A second dose must be repeated 24 hours later.
+9.	If the duration of the pregnancy is unknown, and the clinical assessment or ultrasound size suggests a pregnancy of 34 weeks or more, the fetus must be delivered.
+10.	If there is no fetal distress and the presentation is cephalic, a medical or surgical induction of labour must be done at 34 weeks gestation.
+11.	If fetal distress is present, or the presentation is abnormal, a Caesarean section must be done.
+12.	A patient whose condition becomes well stabilised, must be placed on an oral antihypertensive drug. Alpha methyldopa is the drug of choice. A high dosage (such as 500 mg 8-hourly that can be increased to 750 mg 8-hourly) must be used. If the diastolic blood pressure remains at 110 mm Hg and/or the systolic blood pressure 160 mm Hg or higher, a second or even a third antihypertensive drug is added.
 
 Note
 :	Nifedipine (Adalat) is the drug of choice, if a second antihypertensive drug is required. Prazosin (Minipress) or labetalol (Trandate) may be added, if a third drug is required. This form of management must take place in a level 3 hospital.
@@ -3221,170 +2463,161 @@ If the decision is taken to manage the patient conservatively, the danger of pre
 
 Gestational hypertension
 
-3-38 What should you do if a patient develops gestational hypertension?
+### 3-38 What should you do if a patient develops gestational hypertension?
 
 A patient with a slightly elevated blood pressure (a diastolic blood pressure of 90 to 95 mm Hg), which develops in the second half of pregnancy, in the absence of proteinuria, may be managed in a level 1 hospital or clinic. If the home circumstances are poor, she must be admitted to hospital for bed rest. Where the home circumstances are good, the patient is allowed bed rest at home, under the following conditions:
 
-The patient must be told about the symptoms of imminent eclampsia. Should any of these occur, she must contact or attend the hospital or clinic immediately.
-
-The patient must be seen weekly at a high-risk antenatal clinic. In addition, she must be seen once between visits, to check her blood pressure and test her urine for protein.
-
-If the patient cannot be seen more frequently, she must be given urinary reagent strips to take home. She must then test her urine daily and go to the clinic, should there be 1+ proteinuria or more.
-
-No special investigations are indicated.
-
-Alpha methyldopa (Aldomet) must be prescribed to control her blood pressure. The initial dosage of alpha methyldopa (Aldomet) is 500 mg 8-hourly.
+1.	The patient must be told about the symptoms of imminent eclampsia. Should any of these occur, she must contact or attend the hospital or clinic immediately.
+2.	The patient must be seen weekly at a high-risk antenatal clinic. In addition, she must be seen once between visits, to check her blood pressure and test her urine for protein.
+3.	If the patient cannot be seen more frequently, she must be given urinary reagent strips to take home. She must then test her urine daily and go to the clinic, should there be 1+ proteinuria or more.
+4.	No special investigations are indicated.
+5.	Alpha methyldopa (Aldomet) must be prescribed to control her blood pressure. The initial dosage of alpha methyldopa (Aldomet) is 500 mg 8-hourly.
 
 Patients with a diastolic blood pressure of 100 mm Hg and/or a systolic blood pressure 150 mm Hg or higher must be admitted to hospital and alpha methyldopa (Aldomet) must be prescribed. Once the diastolic blood pressure has dropped below 100 mm Hg and the systolic blood pressure to below 150 mm Hg, they are managed as indicated above.
 
-3-39 How should you monitor the fetus in order to ensure fetal wellbeing?
+### 3-39 How should you monitor the fetus in order to ensure fetal wellbeing?
 
 Fetal movements must be counted and recorded twice daily.
 
-3-40 When should you deliver a patient with gestational hypertension?
+### 3-40 When should you deliver a patient with gestational hypertension?
 
 If the blood pressure remains well controlled, no proteinuria develops, and the fetal condition remains good, the pregnancy must be allowed to continue until 40 weeks when labour must be induced.
 
-Chronic hypertension
+## Chronic hypertension
 
 These patients have hypertension in the first half of pregnancy, or are known to have had hypertension before the start of pregnancy.
 
-3-41 Which patients with chronic hypertension should be referred to a level 2 or 3 hospital?
+### 3-41 Which patients with chronic hypertension should be referred to a level 2 or 3 hospital?
 
 A good prognosis can be expected if:
 
-Renal function is normal (there is a normal serum creatinine concentration).
-
-Pre-eclampsia is not superimposed on the chronic hypertension.
-
-The blood pressure is well controlled (a diastolic blood pressure of 90 mm Hg and/or the systolic blood pressure 140 mm Hg or less) from early in pregnancy.
+1.	Renal function is normal (there is a normal serum creatinine concentration).
+2.	Pre-eclampsia is not superimposed on the chronic hypertension.
+3.	The blood pressure is well controlled (a diastolic blood pressure of 90 mm Hg and/or the systolic blood pressure 140 mm Hg or less) from early in pregnancy.
 
 These women can be managed at a level 1 hospital. However, women with chronic hypertension should be referred to a level 2 or 3 hospital for further management if:
 
-Renal function is abnormal (serum creatinine more than 120 mmol/l).
+1.	Renal function is abnormal (serum creatinine more than 120 mmol/l).
+2.	Proteinuria develops.
+3.	The diastolic blood pressure is 110 mm Hg and/or the systolic blood pressure 160 mm Hg or higher.
+4.	There is intra-uterine growth restriction.
+5.	More than 1 drug is required to control the blood pressure.
 
-Proteinuria develops.
-
-The diastolic blood pressure is 110 mm Hg and/or the systolic blood pressure 160 mm Hg or higher.
-
-There is intra-uterine growth restriction.
-
-More than 1 drug is required to control the blood pressure.
-
-3-42 Will you adjust the medication of a patient with chronic hypertension when she becomes pregnant?
+### 3-42 Will you adjust the medication of a patient with chronic hypertension when she becomes pregnant?
 
 Yes, she must change to alpha methyldopa (Aldomet) 500 mg 8-hourly. Other antihypertensives (i.e. diuretics, beta blockers and ACE inhibitors) must be stopped.
 
 Note
 :	In pregnancy, beta-blockers are not completely safe for the fetus, while diuretics reduce the intravascular fluid compartment, with adverse effects on placental and renal perfusion. An ACE inhibitor, such as captopril (Capoten and enalapril (Renitec)), is completely contraindicated in pregnancy, as intra-uterine deaths have occurred in patients on this drug.
 
-3-43 What special care is needed for a patient with chronic hypertension during pregnancy?
+### 3-43 What special care is needed for a patient with chronic hypertension during pregnancy?
 
-Any rise in the blood pressure or the development of proteinuria must be carefully looked for, as they indicate an urgent need for referral.
+1.	Any rise in the blood pressure or the development of proteinuria must be carefully looked for, as they indicate an urgent need for referral.
+2.	A Doppler measurement of the blood flow in the umbilical artery should be done to determine placental function.
+3.	Postpartum sterilisation must be discussed with the patient, and is recommended when the patient is a multigravida.
 
-A Doppler measurement of the blood flow in the umbilical artery should be done to determine placental function.
-
-Postpartum sterilisation must be discussed with the patient, and is recommended when the patient is a multigravida.
-
-3-44 When should you deliver a patient with chronic hypertension?
+### 3-44 When should you deliver a patient with chronic hypertension?
 
 The management is the same as that for gestational hypertension.
 
-Case study 1
+## Case study 1
 
 A 21-year-old primigravida patient is attending the antenatal clinic. Her pregnancy progresses normally to 33 weeks. At the next visit at 35 weeks, the patient complains that her hands and feet have started to swell over the past week. On examining her, you notice that her face is also slightly swollen. Her blood pressure at present is 120/80, which is the same as at her previous visit, and she has no proteinuria. She reports that her fetus moves frequently.
 
-1. Why is this patient at high risk of developing pre-eclampsia?
+### 1. Why is this patient at high risk of developing pre-eclampsia?
 
 Because she is a primigravida and has developed generalised oedema over the past week.
 
-2. How should this patient be managed further?
+### 2. How should this patient be managed further?
 
 She should rest a lot. She should also be seen at the antenatal clinic again in a week when she must be carefully examined for a rise in blood pressure or the presence of proteinuria.
 
-3. What advice should this patient be given?
+### 3. What advice should this patient be given?
 
 She should be told about the symptoms of imminent eclampsia, i.e. headache, flashes of light before the eyes, and upper abdominal pain. She should also be asked to count and record fetal movements twice a day. If any of the above-mentioned symptoms are experienced, or if fetal movements decrease, she must immediately report to the clinic or hospital.
 
-4. When you see the patient a week later she has a diastolic blood pressure of 90 mm Hg, but there is still no proteinuria. How should she be managed further?
+### 4. When you see the patient a week later she has a diastolic blood pressure of 90 mm Hg, but there is still no proteinuria. How should she be managed further?
 
 The patient has pregnancy-induced hypertension. If the home conditions are satisfactory, she can be managed with bed rest at home. The hypertension must be controlled with alpha methyldopa (Aldomet). She must be seen twice a week and carefully monitored to detect a rise in her blood pressure and the possible development of proteinuria. If her blood pressure rises and/or proteinuria develops, she must be admitted to hospital. If the home conditions are poor, she should be admitted to hospital for bed rest.
 
-Case study 2
+## Case study 2
 
 At an antenatal clinic you see a patient who is 39 weeks pregnant. Up until now she has had a normal pregnancy. On examination, you find that her diastolic blood pressure is 95 mm Hg and that she has 2+ proteinuria.
 
-1. How should this patient be managed?
+### 1. How should this patient be managed?
 
 She should be admitted to hospital as all patients with 2+ proteinuria must be hospitalised. She should also be delivered, as she is more than 38 weeks pregnant.
 
-2. On examining this patient you observe that she has increased patellar reflexes i.e. brisk knee jerks. How should this observation alter her management?
+### 2. On examining this patient you observe that she has increased patellar reflexes i.e. brisk knee jerks. How should this observation alter her management?
 
 Increased tendon reflexes are a sign of imminent eclampsia. The diagnosis must be made, irrespective of the degree of hypertension or the amount of proteinuria. To prevent the development of eclampsia, the patient must be given magnesium sulphate.
 
-3. What is the danger to this patient’s health?
+### 3. What is the danger to this patient’s health?
 
 The patient has severe pre-eclampsia. Therefore, the immediate danger to her life is the development of eclampsia or an intracerebral haemorrhage.
 
-4. How should this patient be managed?
+### 4. How should this patient be managed?
 
 Her clinical condition must first be stabilised. An intravenous infusion should be started and a loading dose of 14 g magnesium sulphate must be given. This should prevent the development of eclampsia. A Foley catheter must be inserted in her bladder.
 
-5. Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
+### 5. Is a loading dose of magnesium sulphate also adequate to control the high blood pressure?
 
 No. Sometimes with severe pre-eclampsia, the blood pressure will drop to below 160/110 mm Hg after the loading dose of magnesium sulphate has been given. In that case, no further management is needed for the hypertension. However, if the patient’s blood pressure does not drop after administering the magnesium sulphate, 10 mg (1 capsule) oral nifedipine (Adalat) or intramuscular dihydralazine (Nepresol) 6.25 mg should be given.
 
-Case study 3
+## Case study 3
 
 While working at a level 1 hospital you admit a patient with a blood pressure of 170/120 mm Hg and 3+ proteinuria. She is 32 weeks pregnant. On further questioning and examination, she has no symptoms or signs of imminent eclampsia.
 
-1. What is the danger to this patient’s health?
+### 1. What is the danger to this patient’s health?
 
 The patient has severe pre-eclampsia. Therefore, the immediate danger to her life is the development of eclampsia or an intracerebral haemorrhage.
 
-2. How should this patient be managed?
+### 2. How should this patient be managed?
 
 Her clinical condition must first be stabilised. An intravenous infusion should be started and a loading dose of 14 g magnesium sulphate must be given. This should prevent the development of eclampsia. A Foley catheter must be inserted in her bladder.
 
-3. Following the administration of magnesium sulphate, the blood pressure is 160/110 mm Hg. What should the further management be?
+### 3. Following the administration of magnesium sulphate, the blood pressure is 160/110 mm Hg. What should the further management be?
 
 Her blood pressure needs to be lowered. 10 mg (1 capsule) oral nifedipine (Adalat) or intramuscular dihydralazine (Nepresol) 6.25 mg should be given. If the diastolic blood pressure remains 110 mm Hg and/or the systolic blood pressure 160 mm Hg or more after 30 minutes, patients who received 10 mg nifedipine orally can be given a second dose of 10 mg nifedipine orally. If dihydralazine was used, an ampoule of dihydralazine (25 mg) should be mixed with 20 ml of sterile water. A bolus doses of 2 ml (2.5 mg) should be given slowly intravenously.
 
-4. Should you continue to manage this patient at a level 1 hospital?
+### 4. Should you continue to manage this patient at a level 1 hospital?
 
 No. The patient should be transferred to a level 2 or 3 hospital for further management.
 
-Case study 4
+## Case study 4
 
 A 37-year-old gravida 4, para 3 patient books for antenatal care. She has chronic hypertension and is managed with a diuretic. By dates and examination she is 14 weeks pregnant.
 
-1. Should the management of the patient’s hypertension be changed during the pregnancy?
+### 1. Should the management of the patient’s hypertension be changed during the pregnancy?
 
 Yes. The diuretic should be stopped, as these drugs are not completely safe during pregnancy. Instead, the patient should be treated with alpha methyldopa (Aldomet).
 
-2. What factors indicate a good prognosis for a patient with chronic hypertension during pregnancy?
+### 2. What factors indicate a good prognosis for a patient with chronic hypertension during pregnancy?
 
 Normal renal function, no superimposed pre-eclampsia and good control of the blood pressure during pregnancy.
 
-3. How can superimposed pre-eclampsia be diagnosed during pregnancy?
+### 3. How can superimposed pre-eclampsia be diagnosed during pregnancy?
 
 The patient will develop proteinuria and/or a rise in blood pressure during the second half of pregnancy.
 
-4. Why is it important to detect superimposed pre-eclampsia in a patient with chronic hypertension?
+### 4. Why is it important to detect superimposed pre-eclampsia in a patient with chronic hypertension?
 
 Because the risk of complications increases and as a result, a preterm delivery may be necessary. The patient should, therefore, be transferred to a level 2 or 3 hospital if superimposed pre-eclampsia develops.
 
-5. What should be seriously recommended during the puerperium in this patient?
+### 5. What should be seriously recommended during the puerperium in this patient?
 
 A postpartum sterilisation. Postpartum sterilisation should be discussed with the patient during the pregnancy. Postpartum sterilisation is particularly important as the patient is a 37-year-old multipara.
 
+
+
+
 3A
 
-Skills workshop: Measuring blood pressure and proteinuria
+Skills: Measuring blood pressure and proteinuria
 
 Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
 Measure the blood pressure.
 
@@ -3500,14 +2733,14 @@ Diagnose the cause of a blood-stained vaginal discharge and administer appropria
 
 Antepartum haemorrhage
 
-4-1 What is an antepartum haemorrhage?
+### 4-1 What is an antepartum haemorrhage?
 
 An antepartum haemorrhage is any vaginal bleeding which occurs at or after 24 weeks (estimated fetal weight at 24 weeks = 500 g) and before the birth of the infant. A bleed before 24 weeks is regarded as a threatened miscarriage.
 
 Note
 :	A fetus is viable from 28 weeks, or an estimated weight of 1000 g, if the duration of pregnancy is uncertain. Antepartum haemorrhage before the fetus is viable has the same serious complications as that with a viable fetus. In both cases, the management is the same except for fetal monitoring, which is only done from 28 weeks (or 1000 g).
 
-4-2 Why is an antepartum haemorrhage such a serious condition?
+### 4-2 Why is an antepartum haemorrhage such a serious condition?
 
 The bleeding can be so severe that it can endanger the life of both the mother and fetus.
 
@@ -3517,11 +2750,11 @@ Therefore, all patients who present with an antepartum haemorrhage must be regar
 
 Any vaginal bleeding during pregnancy may be an important danger sign that must be reported immediately.
 
-4-3 What advice about vaginal bleeding should you give to all patients?
+### 4-3 What advice about vaginal bleeding should you give to all patients?
 
 Every patient must be advised that any vaginal bleeding is potentially serious and told that this complication must be reported immediately.
 
-4-4 What is the management of an antepartum haemorrhage?
+### 4-4 What is the management of an antepartum haemorrhage?
 
 The management consists of four important steps that should be carried out in the following order:
 
@@ -3547,7 +2780,7 @@ Diagnose the cause of the bleeding, taking the clinical findings into account an
 
 The initial management and diagnosis of a patient with vaginal bleeding is summarised in Flow diagram 4-1.
 
-4-5 What symptoms and signs indicate that the patient is shocked due to blood loss?
+### 4-5 What symptoms and signs indicate that the patient is shocked due to blood loss?
 
 Dizziness is the commonest symptom of shock.
 
@@ -3555,11 +2788,11 @@ On general examination the patient is sweating, her skin and mucous membranes ar
 
 The blood pressure is low and the pulse rate fast.
 
-4-6 How should you manage a shocked patient with an antepartum haemorrhage?
+### 4-6 How should you manage a shocked patient with an antepartum haemorrhage?
 
 When there are symptoms and signs to indicate that the patient is shocked, you must:
 
-Put up 2 intravenous infusions (‘drips’) with Balsol or Ringer’s lactate, to run in quickly in order to actively resuscitate the patient.
+Put up *2* intravenous infusions (‘drips’) with Balsol or Ringer’s lactate, to run in quickly in order to actively resuscitate the patient.
 
 Insert a Foley catheter into the patient’s bladder to measure the urinary volume and to monitor further urine output.
 
@@ -3571,17 +2804,17 @@ If fetal distress is present and the fetus is assessed to be viable (28 weeks or
 
 If fetal distress is excluded, if the fetus is too preterm to be viable, or if there is an intra-uterine death, then more attention can be given to the history and examination of the patient in order to make a diagnosis of the cause of the bleeding.
 
-4-7 What must you do if a patient presents with a life-threatening haemorrhage?
+### 4-7 What must you do if a patient presents with a life-threatening haemorrhage?
 
 The maternal condition takes preference over that of the fetus. The patient, therefore, is actively resuscitated while arrangements are made to terminate the pregnancy by Caesarean section.
 
 Diagnosing the cause of the bleeding
 
-4-8 Should you treat all patients with antepartum haemorrhage in the same way, irrespective of the amount and character of the bleed?
+### 4-8 Should you treat all patients with antepartum haemorrhage in the same way, irrespective of the amount and character of the bleed?
 
 No. The management differs depending on whether the vaginal bleeding is diagnosed as a ‘haemorrhage’ on the one hand, or a blood-stained vaginal discharge or a ‘show’ on the other hand. A careful assessment of the amount and type of bleeding is, therefore, very important.
 
-Any vaginal bleeding at or after 24 weeks must be diagnosed as an antepartum haemorrhage if any of the following are present:
+Any vaginal bleeding at or after 24 weeks must be diagnosed as an *antepartum haemorrhage* if any of the following are present:
 
 A sanitary pad is at least partially soaked with blood.
 
@@ -3591,15 +2824,15 @@ A clot of blood has been passed.
 
 A diagnosis of a haemorrhage always suggests a serious complication.
 
-A blood-stained vaginal discharge will consist of a discharge mixed with a small amount of blood.
+*A blood-stained vaginal discharge* will consist of a discharge mixed with a small amount of blood.
 
 A ‘show’ will consist of a small amount of blood mixed with mucus. The blood-stained vaginal discharge or ‘show’ will be present on the surface of the sanitary pad but will not soak it.
 
-If the maternal and fetal conditions are satisfactory, then a careful speculum examination should be done to exclude a local cause of the bleeding. Do not perform a digital vaginal examination, as this may cause a massive haemorrhage if the patient has a placenta praevia.
+If the maternal and fetal conditions are satisfactory, then a careful speculum examination should be done to exclude a local cause of the bleeding. Do *not* perform a digital vaginal examination, as this may cause a massive haemorrhage if the patient has a placenta praevia.
 
 Do not do a digital vaginal examination until placenta praevia has been excluded.
 
-4-9 How does a speculum examination help you determine the cause of the bleeding?
+### 4-9 How does a speculum examination help you determine the cause of the bleeding?
 
 Bleeding through a closed cervical os confirms the diagnosis of a haemorrhage.
 
@@ -3611,7 +2844,7 @@ Bleeding from the surface of the cervix caused by contact with the speculum (i.e
 
 Bleeding from a cervical tumour or an ulcer may indicate an infiltrating carcinoma.
 
-4-10 Can you rely on clinical findings to determine the cause of a haemorrhage?
+### 4-10 Can you rely on clinical findings to determine the cause of a haemorrhage?
 
 In many cases the history and examination of the abdomen will enable the patient to be put into one of two groups:
 
@@ -3621,23 +2854,23 @@ Placenta praevia.
 
 There are some patients in whom no reason for the haemorrhage can be found. Such a haemorr­hage is classified as an antepartum haemorrhage of unknown cause.
 
-4-11 What is the most likely cause of an antepartum haemorrhage with fetal distress?
+### 4-11 What is the most likely cause of an antepartum haemorrhage with fetal distress?
 
 Abruptio placentae is the commonest cause of antepartum haemorrhage leading to fetal distress. However, sometimes there may be very little or no bleeding even with a severe abruptio placentae.
 
 An antepartum haemorrhage with fetal distress or fetal death is almost always due to abruptio placentae.
 
-4-12 What is the most likely cause of a life-threatening antepartum haemorrhage?
+### 4-12 What is the most likely cause of a life-threatening antepartum haemorrhage?
 
 A placenta praevia is the most likely cause of a massive antepartum haemorrhage that threatens the patient’s life.
 
 Antepartum bleeding caused by abruptio placentae
 
-4-13 What is abruptio placentae?
+### 4-13 What is abruptio placentae?
 
 Abruptio placentae (placental abruption) means that part or all of the normally implanted placenta has separated from the uterus before delivery of the fetus. The cause of abruptio placentae remains unknown.
 
-4-14 Which patients are at increased risk of abruptio placentae?
+### 4-14 Which patients are at increased risk of abruptio placentae?
 
 Patients with:
 
@@ -3653,7 +2886,7 @@ Poor socio-economic conditions.
 
 A history of abdominal trauma, e.g. a fall or kick on the abdomen.
 
-4-15 What symptoms point to a diagnosis of abruptio placentae?
+### 4-15 What symptoms point to a diagnosis of abruptio placentae?
 
 An antepartum haemorrhage which is associated with continuous severe abdominal pain.
 
@@ -3661,7 +2894,7 @@ A history that the blood is dark red with clots.
 
 Absence of fetal movements following the bleeding.
 
-4-16 What do you expect to find on examination of the patient?
+### 4-16 What do you expect to find on examination of the patient?
 
 The general examination and observations show that the patient is shocked, often out of proportion to the amount of visible blood loss.
 
@@ -3685,11 +2918,11 @@ The management of abruptio placentae is summarised in flow diagram 4-2.
 
 The diagnosis of severe abruptio placentae can usually be made from the history and physical examination.
 
-4-17 What would you do if the fetal heartbeat was still present?
+### 4-17 What would you do if the fetal heartbeat was still present?
 
 If the fetal heartbeat is still present with an abruptio placentae, there will usually be signs of fetal distress. The infant will die in utero if not delivered immediately.
 
-4-18 How should you decide on the method of delivery if the fetal heartbeat is still present?
+### 4-18 How should you decide on the method of delivery if the fetal heartbeat is still present?
 
 If the symptoms and signs are typical of an abruptio placentae, a vaginal examination should be done.
 
@@ -3697,11 +2930,11 @@ If the cervix is at least 9 cm dilated, and the presenting part is well down in 
 
 If the fetus is not viable, it should be delivered vaginally if the diagnosis is abruptio placentae.
 
-While preparations for delivery are being made, the mother must be resuscitated and intra-uterine resuscitation of the fetus started. However, salbutamol or nifedipine must not be given to a patient who shows any evidence of shock.
+While preparations for delivery are being made, the mother must be resuscitated and intra-uterine resuscitation of the fetus started. However, salbutamol or nifedipine must *not* be given to a patient who shows any evidence of shock.
 
-When there is doubt about the diagnosis, specifically when placenta praevia cannot be excluded on history and examination, then a digital vaginal examination should not be done. If fetal distress is present and the fetus is viable, a Caesarean section must be done. If there is neither fetal distress nor severe vaginal bleeding, the possibility of a placenta praevia must be investigated. An ultrasound examination or vaginal examination in theatre must then be done.
+When there is doubt about the diagnosis, specifically when placenta praevia cannot be excluded on history and examination, then a digital vaginal examination should *not* be done. If fetal distress is present and the fetus is viable, a Caesarean section must be done. If there is neither fetal distress nor severe vaginal bleeding, the possibility of a placenta praevia must be investigated. An ultrasound examination or vaginal examination in theatre must then be done.
 
-4-19 What should you do if the fetal heartbeat is absent?
+### 4-19 What should you do if the fetal heartbeat is absent?
 
 Active resuscitation of the mother is a priority and should have been started as part of the initial emergency management:
 
@@ -3717,7 +2950,7 @@ The membranes are then ruptured, following which cervical dilatation and deliver
 
 Pain relief in the form of pethidine or morphine and promethazine (Phenegan) or hydroxyzine (Aterax) should be given once the patient is adequately resuscitated.
 
-4-20 Why is it important to remember that many patients with abruptio placentae have underlying pre-eclampsia?
+### 4-20 Why is it important to remember that many patients with abruptio placentae have underlying pre-eclampsia?
 
 Signs of shock may be present even with a normal blood pressure. These patients, nevertheless, need active resuscitation.
 
@@ -3730,15 +2963,15 @@ Note
 
 Abruptio placentae with pre-eclampsia is a serious condition with a high risk of maternal death.
 
-4-21 At your initial assessment of the patient, how would you know whether or not there is underlying pre-eclampsia present?
+### 4-21 At your initial assessment of the patient, how would you know whether or not there is underlying pre-eclampsia present?
 
 By finding protein in the patient’s urine.
 
-4-22 What complication should you watch for after delivery?
+### 4-22 What complication should you watch for after delivery?
 
 Postpartum haemorrhage, as this is common after abruptio placentae.
 
-4-23 What action should you take to prevent postpartum haemorrhage?
+### 4-23 What action should you take to prevent postpartum haemorrhage?
 
 Syntometrine 1 ampoule should be given intramuscularly, if the patient is not hypertensive. Only oxytocin is used in a hypertensive patient.
 
@@ -3750,11 +2983,11 @@ The patient is carefully observed for bleeding.
 
 Antepartum bleeding caused by placenta praevia
 
-4-24 What is placenta praevia?
+### 4-24 What is placenta praevia?
 
 Placenta praevia means that the placenta is implanted either wholly or partially in the lower segment of the uterus. It may extend down to, or cover the internal os of the cervix. When the lower segment starts to form or the cervix begins to dilate, the placenta becomes partially separated and this causes maternal bleeding.
 
-4-25 Which patients have the highest risk of placenta praevia?
+### 4-25 Which patients have the highest risk of placenta praevia?
 
 With regard to their previous obstetric history, patients who:
 
@@ -3770,13 +3003,13 @@ Have had a threatened abortion, especially in the second trimester.
 
 Have an abnormal presentation.
 
-4-26 What in the history of the bleeding suggests the diagnosis of placenta praevia?
+### 4-26 What in the history of the bleeding suggests the diagnosis of placenta praevia?
 
 The bleeding is painless and bright red in colour.
 
 Fetal movements are still present after the bleed.
 
-4-27 What are the typical findings on physical examination in a patient with placenta praevia?
+### 4-27 What are the typical findings on physical examination in a patient with placenta praevia?
 
 General examination may show signs that the patient is shocked, and the amount of bleeding corresponds to the degree of shock. The patient’s haemoglobin concentration is normal or low depending on the amount of blood loss and the time interval between the haemorrhage and the haemoglobin measurement. However, the first bleed is usually not severe.
 
@@ -3794,31 +3027,31 @@ In cephalic presentations, the head is not engaged and is easily ballotable abov
 
 The diagnosis of placenta praevia can usually be made from the history and physical examination.
 
-4-28 Do you think that engagement of the head can occur if there is a placenta praevia present?
+### 4-28 Do you think that engagement of the head can occur if there is a placenta praevia present?
 
 No. If there is 2/5 or less of the fetal head palpable above the pelvic brim on abdominal examination, then placenta praevia can be excluded and a digital vaginal examination can be done safely. The first vaginal examination must always be done carefully.
 
 2/5 or less of the fetal head palpable above the pelvic brim excludes the possibility of placenta praevia. 
 
-4-29 What do you understand by a ‘warning bleed’?
+### 4-29 What do you understand by a ‘warning bleed’?
 
 This is the first bleeding that occurs from a placenta praevia, when the lower segment begins to form at about 34 weeks, or even earlier.
 
-4-30 Are there any investigations that can confirm the diagnosis of placenta praevia?
+### 4-30 Are there any investigations that can confirm the diagnosis of placenta praevia?
 
-If the patient is less than 38 weeks pregnant and not bleeding actively, an ultrasound examination must be done in order to localise the placenta.
+If the patient is less than 38 weeks pregnant and *not bleeding actively*, an ultrasound examination must be done in order to localise the placenta.
 
-If the patient is 38 or more weeks pregnant, and not bleeding actively:
+If the patient is 38 or more weeks pregnant, and *not bleeding actively*:
 
 If ultrasonology is available, an ultrasound examination can be done in order to localise the placenta.
 
 If ultrasonology is not available, a digital vaginal examination can be done in theatre with everything ready for a Caesarean section.
 
-4-31 What action should you take if a routine ultrasound examination early in pregnancy shows a placenta praevia?
+### 4-31 What action should you take if a routine ultrasound examination early in pregnancy shows a placenta praevia?
 
 In most cases, the position of the placenta moves away from the internal os of the cervix as pregnancy continues. A follow-up ultrasound examination must be arranged at a gestational age of 32 weeks.
 
-4-32 What is the further management after making the diagnosis of placenta praevia?
+### 4-32 What is the further management after making the diagnosis of placenta praevia?
 
 If the patient is not bleeding actively, further management depends on the gestational age:
 
@@ -3834,13 +3067,13 @@ A patient who is actively bleeding must be delivered irrespective of the gestati
 
 The management of a patient with a placenta praevia is summarised in flow diagrams 4-3 and 4-4.
 
-4-33 When a patient with placenta praevia is less than 38 weeks pregnant and is being managed conservatively, what amount of bleeding would indicate that you should deliver the fetus?
+### 4-33 When a patient with placenta praevia is less than 38 weeks pregnant and is being managed conservatively, what amount of bleeding would indicate that you should deliver the fetus?
 
 Any sudden, severe haemorrhage.
 
 Any continuous, moderate bleeding, such that the drop in the patient’s haemoglobin concentration requires a blood transfusion.
 
-4-34 How will you further manage a patient who has been treated conservatively?
+### 4-34 How will you further manage a patient who has been treated conservatively?
 
 With a grade 3 or 4 placenta praevia, a Caesarean section should be done at 36 weeks.
 
@@ -3850,7 +3083,7 @@ With a grade 1 placenta praevia which bleeds now, and a presenting part that rem
 
 With a grade 1 placenta praevia, which does not bleed and where the fetal head is engaged (2/5 or less palpable above the brim), you can wait for the spontaneous onset of labour. The first vaginal examination must be done very carefully.
 
-4-35 How do you go about doing a vaginal examination in theatre?
+### 4-35 How do you go about doing a vaginal examination in theatre?
 
 The theatre sister must be scrubbed up with her trolley ready.
 
@@ -3864,19 +3097,19 @@ If the fetal skull is easily felt in all four fornices, then a careful examinati
 
 If placental tissue is felt, then a Caesarean section should be done. If not, the membranes can be ruptured with the aim of allowing a vaginal delivery.
 
-4-36 If the fetus is alive, why is urgent delivery of less importance in placenta praevia than in abruptio placentae?
+### 4-36 If the fetus is alive, why is urgent delivery of less importance in placenta praevia than in abruptio placentae?
 
 Compared with abruptio placentae, intra-uterine death is uncommon in placenta praevia. However, a serious vaginal bleed due to placenta praevia may still necessitate an immediate delivery to save the mother’s life.
 
-4-37 Why do patients with a placenta praevia have an increased risk of postpartum haemorrhage?
+### 4-37 Why do patients with a placenta praevia have an increased risk of postpartum haemorrhage?
 
 The placenta was implanted in the lower segment which does not have the same ability as the upper segment to contract and retract after delivery. Therefore, the same measures taken with abruptio placentae must be taken to prevent postpartum haemorrhage.
 
 Antepartum haemorrhage of unknown cause
 
-4-38 When would you suspect an antepartum haemorrhage of unknown cause?
+### 4-38 When would you suspect an antepartum haemorrhage of unknown cause?
 
-In patients who fulfill all the following requirements:
+In patients who fulfill *all* the following requirements:
 
 Less severe antepartum bleeding, without signs of shock, and when the fetal condition is good.
 
@@ -3886,7 +3119,7 @@ When local causes have been excluded on speculum examination.
 
 When placenta praevia has been excluded by an ultrasound examination.
 
-4-39 What should you do to exclude other causes of bleeding if you do not have ultrasound facilities ?
+### 4-39 What should you do to exclude other causes of bleeding if you do not have ultrasound facilities ?
 
 Abruptio placentae can usually be excluded on history and examination.
 
@@ -3899,11 +3132,11 @@ If the gestational age is less than 38 weeks, the patient must be admitted to ho
 Note
 :	If available, antenatal fetal heart rate monitoring should be done on admission to hospital and every 6 hours during the first 24 hours.
 
-4-40 What is the most likely cause of an antepartum haemorrhage of unknown cause?
+### 4-40 What is the most likely cause of an antepartum haemorrhage of unknown cause?
 
 A small abruptio placentae that does not cause any other signs or symptoms. If the placental separation is going to extend, it will usually happen within the first 24 hours following the bleed. Therefore, the patient must be hospitalised and closely observed during this period for signs of fetal distress.
 
-4-41 How should you manage a patient with an antepartum haemorrhage of unknown cause?
+### 4-41 How should you manage a patient with an antepartum haemorrhage of unknown cause?
 
 The patient must be hospitalised.
 
@@ -3920,7 +3153,7 @@ The patient must be allowed to go into spontaneous labour at term.
 
 A patient with an antepartum haemorrhage of unknown cause must be closely observed for fetal distress during the first 24 hours after the bleed.
 
-4-42 Why is an antepartum haemorrhage of unknown cause always regarded in a serious light?
+### 4-42 Why is an antepartum haemorrhage of unknown cause always regarded in a serious light?
 
 There is the possibility that abruptio placentae may be present. If the abruptio placentae is going to extend, intra-uterine death may result. The risk of such an event is greatest during the 24 hours following the bleed.
 
@@ -3929,7 +3162,7 @@ Note
 
 Referral of a patient with an antepartum haemorrhage
 
-4-43 How should you decide whether a patient can be managed locally or whether she should be transferred?
+### 4-43 How should you decide whether a patient can be managed locally or whether she should be transferred?
 
 Clinics and level 1 hospitals which do not have blood available must refer all patients with an antepartum haemorrhage.
 
@@ -3947,7 +3180,7 @@ A patient with abruptio placentae and pre-eclampsia must be referred to a level�
 
 A patient with a grade 3 or 4 placenta praevia and a viable fetus of less than 34 weeks, who is going to be managed conservatively, should be managed in at least a level 2 hospital with a neonatal intensive care unit, or a level 3 hospital.
 
-4-44 When you refer a patient, what precautions should you take to ensure the safety of the patient in transit?
+### 4-44 When you refer a patient, what precautions should you take to ensure the safety of the patient in transit?
 
 A shocked patient should have 2 intravenous infusion lines with Plasmalyte B or Ringer’s lactate running in fast. A doctor should accompany the patient if possible. If not possible, a registered nurse should accompany her.
 
@@ -3955,15 +3188,15 @@ A patient who is no longer bleeding should also have an intravenous infusion and
 
 A blood-stained vaginal discharge
 
-4-45 How would a patient generally describe a blood-stained vaginal discharge?
+### 4-45 How would a patient generally describe a blood-stained vaginal discharge?
 
 A patient would probably describe a blood-stained vaginal discharge as a vaginal discharge mixed with a small amount of blood.
 
-4-46 How would a patient generally describe a ‘show’?
+### 4-46 How would a patient generally describe a ‘show’?
 
 A patient would probably describe a ‘show’ as a slight vaginal bleed consisting of blood mixed with mucus.
 
-4-47 How should you manage a patient with a history of a blood-stained vaginal discharge or a ‘show’?
+### 4-47 How should you manage a patient with a history of a blood-stained vaginal discharge or a ‘show’?
 
 After getting a good history and ensuring that the condition of the fetus is satisfactory, a careful speculum examination should be done.
 
@@ -3975,7 +3208,7 @@ A ‘show’ is the most likely cause of the discharge if the cervix is a few ce
 
 A vaginitis is the most likely cause, if a blood-stained discharge is seen in the vagina.
 
-4-48 How should you treat a blood-stained discharge due to vaginitis in pregnancy?
+### 4-48 How should you treat a blood-stained discharge due to vaginitis in pregnancy?
 
 If a microscope is available, make a wet smear of the discharge. The specific organism causing the vaginitis can then be identified and treated.
 
@@ -3986,21 +3219,21 @@ If a microscope is not available:
 
 Organisms identified on the cervical cytology smear are the most likely cause of the vaginitis.
 
-If no organisms are identified on the cytology smear, or a smear was not done, then Trichomonas vaginalis is most probably present.
+If no organisms are identified on the cytology smear, or a smear was not done, then *Trichomonas vaginalis* is most probably present.
 
 To treat a Trichomonal vaginitis, both the patient and her partner should receive a single dose of 2 g metronidazole (Flagyl) orally.
 
-4-49 Should metronidazole be used during pregnancy?
+### 4-49 Should metronidazole be used during pregnancy?
 
 Metronidazole should not be used in the first trimester of pregnancy, unless absolutely necessary, as it may cause congenital abnormalities in the fetus. The patient and her partner must be warned that metronidazole causes severe nausea and vomiting if it is taken with alcohol. The risk of congenital abnormalities caused by alcohol may also be increased by metronidazole.
 
-4-50 How do you manage a patient with contact bleeding?
+### 4-50 How do you manage a patient with contact bleeding?
 
 When there is normal cervical cytology (Papanicolaou smear), the contact bleeding is probably due to a cervicitis. If it is troublesome, the patient should be given a course of oral erythromycin 500 mg 6‑hourly for seven days.
 
 With abnormal cervical cytology, the patient should be managed correctly. Cervical intra-epithelial neoplasia causes contact bleeding.
 
-4-51 What action should you take when the bleeding is from a cervical ulcer or tumour?
+### 4-51 What action should you take when the bleeding is from a cervical ulcer or tumour?
 
 The patient most probably has an infiltrating cervical carcinoma and should be correctly managed.
 
@@ -4129,7 +3362,7 @@ Manage these conditions.
 
 Preterm labour and preterm rupture of the membranes
 
-5-1 What is preterm labour?
+### 5-1 What is preterm labour?
 
 Preterm labour is diagnosed when there are regular uterine contractions before 37 weeks of pregnancy, together with either of the following:
 
@@ -4137,22 +3370,22 @@ Cervical effacement and/or dilatation.
 
 Rupture of the membranes.
 
-5-2 What is preterm rupture of the membranes?
+### 5-2 What is preterm rupture of the membranes?
 
 Preterm rupture of the membranes is diagnosed when the membranes rupture before 37 weeks, in the absence of uterine contractions.
 
 Note
 :	Preterm rupture of the membranes (as defined above) is sometimes called preterm, prelabour rupture of the membranes in literature.
 
-5-3 What is prelabour rupture of the membranes?
+### 5-3 What is prelabour rupture of the membranes?
 
 Prelabour rupture of the membranes is defined as rupture of the membranes for at least 1 hour before the onset of labour in a term pregnancy.
 
-5-4 How should you diagnose preterm labour if the gestational age is unknown?
+### 5-4 How should you diagnose preterm labour if the gestational age is unknown?
 
 Preterm labour is diagnosed if the estimated fetal weight is below 2500 g. The symphysis-fundus height will be less than 35 cm.
 
-5-5 Why are preterm labour and preterm rupture of the membranes important?
+### 5-5 Why are preterm labour and preterm rupture of the membranes important?
 
 Preterm labour and preterm rupture of the membranes are major causes of perinatal death because:
 
@@ -4160,15 +3393,15 @@ Preterm delivery, especially before 34 weeks, commonly results in the birth of a
 
 Preterm labour and preterm rupture of the membranes are often accompanied by bacterial infection of the membranes and placenta that may cause complications for both the mother and the fetus. The mother and fetus may develop severe infection, which is life threatening
 
-5-6 What is the commonest known cause of preterm labour and preterm rupture of the membranes?
+### 5-6 What is the commonest known cause of preterm labour and preterm rupture of the membranes?
 
 In many cases the cause is unknown, but increasing evidence points to infection of the membranes and placenta as the commonest known cause of both preterm labour and preterm rupture of the membranes.
 
 Infection of the membranes and placenta is the commonest recognised cause of preterm labour and preterm rupture of the membranes.
 
-5-7 What is infection of the membranes and placenta?
+### 5-7 What is infection of the membranes and placenta?
 
-Infection of the membranes and placenta causes an acute inflammation of the placenta, membranes and decidua. This condition is called chorioamnionitis. It may occur with intact or ruptured membranes.
+Infection of the membranes and placenta causes an acute inflammation of the placenta, membranes and decidua. This condition is called *chorioamnionitis*. It may occur with intact or ruptured membranes.
 
 Bacteria from the cervix and vagina spread through the endocervical canal to infect the membranes and placenta. Later these bacteria may colonise the liquor, from where they may infect the fetus.
 
@@ -4187,7 +3420,7 @@ Finding acute inflammation in the membranes and placenta on histology after deli
 
 Infection of the membranes and placenta (chorioamnionitis) may occur with either intact or ruptured membranes. 
 
-5-8 What is the clinical presentation of chorioamnionitis?
+### 5-8 What is the clinical presentation of chorioamnionitis?
 
 Usually chorioamnionitis is asymptomatic (subclinical chorioamnionitis) and, therefore, the clinical diagnosis is often not made. However, the following signs may be present:
 
@@ -4204,7 +3437,7 @@ If any of the above signs are present, a diagnosis of clinical chorioamnionitis 
 Note
 :	There is no proof that daily white cell counts or determination of C‑reactive protein (CRP) are of any greater diagnostic value in making an early diagnosis of chorioamnionitis.
 
-5-9 What factors may predispose a woman to chorioamnionitis?
+### 5-9 What factors may predispose a woman to chorioamnionitis?
 
 Rupture of the membranes.
 
@@ -4214,13 +3447,13 @@ Coitus during the second half of pregnancy.
 
 However, in many cases, the factors that result in chorioamnionitis are not known.
 
-5-10 Can chorioamnionitis cause complications during the puerperium?
+### 5-10 Can chorioamnionitis cause complications during the puerperium?
 
 Yes. Chorioamnionitis may cause infection of the genital tract (puerperal sepsis) which, if not treated correctly, may result in septicaemia, the need for hysterectomy, and possibly in maternal death. These complications can usually be prevented by starting a course of broad spectrum antibiotics (e.g. ampicillin plus metronidazole), as soon as the diagnosis of clinical chorioamnionitis is made.
 
 Bacteria that have colonised the amniotic fluid may infect the fetus, and the infant may present with signs of infection at, or soon after, birth.
 
-5-11 What factors other than chorio­amnionitis can lead to preterm labour and preterm rupture of the membranes?
+### 5-11 What factors other than chorio­amnionitis can lead to preterm labour and preterm rupture of the membranes?
 
 The following maternal, fetal and placental factors may be associated with preterm labour and/or preterm rupture of the membranes:
 
@@ -4251,7 +3484,7 @@ Abruptio placentae.
 Note
 :	Polyhydramnios, multiple pregnancy and cervical incompetence cause preterm dilatation of the cervix with exposure of the membranes to the vaginal bacteria. This may predispose to chorioamnionitis. Polyhydramnios has several causes, but it is important to remember that oesophageal atresia is one of the causes which need to be excluded after delivery.
 
-5-12 Which patients are at an increased risk of preterm labour or preterm rupture of the membranes?
+### 5-12 Which patients are at an increased risk of preterm labour or preterm rupture of the membranes?
 
 Both preterm labour and preterm rupture of membranes are more common in patients who:
 
@@ -4271,7 +3504,7 @@ Have any of the maternal, fetal or placental factors listed in 5-11.
 
 The most important risk factor for preterm labour is a previous history of preterm delivery. 
 
-5-13 What can be done to decrease the incidence of these complications?
+### 5-13 What can be done to decrease the incidence of these complications?
 
 Take measures to ensure that all pregnant women receive antenatal care.
 
@@ -4289,7 +3522,7 @@ Improve the socio-economic and nutritional status of poor communities.
 
 Arrange that the workload of women, who have to do heavy manual labour, is decreased when they are pregnant and that an opportunity to rest during working hours is allowed.
 
-5-14 How should you manage a patient at increased risk of preterm labour or preterm rupture of the membranes?
+### 5-14 How should you manage a patient at increased risk of preterm labour or preterm rupture of the membranes?
 
 Patients at increased risk must have two weekly vaginal examinations from 24 weeks, in order to make an early diagnosis of preterm cervical effacement and/or dilatation.
 
@@ -4307,7 +3540,7 @@ Women with preterm labour or preterm rupture of the membranes must be seen as so
 
 All patients should be told to immediately report preterm labour or preterm rupture of the membranes. 
 
-5-15 What should you do if a patient threatens to deliver a preterm infant?
+### 5-15 What should you do if a patient threatens to deliver a preterm infant?
 
 Infants born between 34 and 36 weeks can usually be cared for in a level 1 hospital.
 
@@ -4319,7 +3552,7 @@ The better the condition of the infant on arrival at the neonatal intensive care
 
 Diagnosis of preterm labour and preterm rupture of the membranes
 
-5-16 How should you distinguish between Braxton Hicks contractions and the contractions of preterm labour?
+### 5-16 How should you distinguish between Braxton Hicks contractions and the contractions of preterm labour?
 
 Braxton Hicks contractions:
 
@@ -4343,7 +3576,7 @@ Increase in frequency and duration.
 
 Cause effacement and dilatation of the cervix.
 
-5-17 How should you confirm the diagnosis of preterm labour?
+### 5-17 How should you confirm the diagnosis of preterm labour?
 
 Both of the following will be present in a patient of less than 37 weeks gestation:
 
@@ -4351,17 +3584,17 @@ Regular uterine contractions, palpable on abdominal examination, of at least 1 p
 
 A history of rupture of the membranes, or cervical effacement and/or dilatation, on vaginal examination.
 
-5-18 How can you diagnose preterm rupture of the membranes?
+### 5-18 How can you diagnose preterm rupture of the membranes?
 
 A patient of less than 37 weeks gestation will give a history of sudden drainage of liquor followed by a continual leak of smaller amounts, without associated uterine contractions.
 
 A sterile speculum examination will confirm the diagnosis of ruptured membranes.
 
-A digital vaginal examination must not be done as it is of little value in diagnosing rupture of the membranes and may increase the risk of infection.
+*A digital vaginal examination must not be done* as it is of little value in diagnosing rupture of the membranes and may increase the risk of infection.
 
 A digital vaginal examination must not be done if there is preterm rupture of the membranes. 
 
-5-19 What is the value of a sterile speculum examination when preterm rupture of the membranes is suspected?
+### 5-19 What is the value of a sterile speculum examination when preterm rupture of the membranes is suspected?
 
 The danger of ascending infection is not increased by this procedure.
 
@@ -4380,13 +3613,13 @@ A patient with a profuse vaginal discharge or stress incontinence (leaking urine
 Note
 :	If the facilities are available, and preterm rupture of the membranes has been confirmed, an endocervical swab could be taken to culture for Group B Streptococcus and Gonococcus.
 
-5-20 How should you test the vaginal pH?
+### 5-20 How should you test the vaginal pH?
 
 The pH of the vagina is acidic but the pH of liquor is alkaline.
 
 Red litmus paper is pressed against the moist spatula. If the red litmus changes to blue, then liquor is present in the vagina, indicating that the membranes have ruptured. If blue litmus is used, it will remain blue with rupture of membranes or change to red if the membranes are intact.
 
-5-21 How will you test for ferning?
+### 5-21 How will you test for ferning?
 
 The vaginal fluid on the wooden spatula is spread on a microscope slide and allowed to dry.
 
@@ -4394,9 +3627,9 @@ The slide is then examined under the low power lens of a microscope. An unmistak
 
 Management of preterm labour
 
-5-22 How will you manage a patient in preterm labour?
+### 5-22 How will you manage a patient in preterm labour?
 
-Step 1: Listen to the fetal heart to rule out fetal distress and determine the duration of pregnancy as accurately as possible:
+*Step 1*: Listen to the fetal heart to rule out fetal distress and determine the duration of pregnancy as accurately as possible:
 
 If fetal distress is present and the fetus is assessed to be viable (28 weeks or more), then the infant must be delivered as soon as possible.
 
@@ -4406,11 +3639,11 @@ If the infant is assessed to be 24 weeks or more but less than 34 weeks, other c
 
 The administration of steroids to enhance fetal lung maturity prior to transfer should be discussed with the referral hospital.
 
-Step 2: Look for treatable causes of preterm labour, such as urinary tract infection or malaria.
+*Step 2*: Look for treatable causes of preterm labour, such as urinary tract infection or malaria.
 
 The management of a patient with preterm labour is summarised in flow diagram 5-1.
 
-5-23 What are the contraindications to the suppression of preterm labour?
+### 5-23 What are the contraindications to the suppression of preterm labour?
 
 Fetal distress.
 
@@ -4433,13 +3666,13 @@ Severe intra-uterine growth restriction.
 Note
 :	Antepartum haemorrhage of unknown cause may be due to a small abruptio placentae. It is, therefore, advisable not to suppress labour should it occur. 
 
-5-24 How will you decide that a patient is less than 36 weeks pregnant if the duration of the pregnancy is unknown?
+### 5-24 How will you decide that a patient is less than 36 weeks pregnant if the duration of the pregnancy is unknown?
 
 This is done by measuring the symphysis-fundus height and by doing a complete abdominal examination.
 
 Labour must be suppressed if the estimated fetal weight is less than 2000 g or the estimated gestational age less than 34 weeks. The symphysis-fundus height measurement will be less than 33 cm.
 
-5-25 How should you give nifedipine for the suppression of preterm labour?
+### 5-25 How should you give nifedipine for the suppression of preterm labour?
 
 Three nifedipine (Adalat) 10 mg capsules (total 30 mg) should be taken by mouth. If there are no further contractions and no continuing cervical dilatation and effacement, 20 mg should be given 8-hourly.
 
@@ -4447,7 +3680,7 @@ If there are still contractions with cervical dilatation and effacement 3 hours 
 
 Nifedipine (Adalat) has fewer side effects than salbutamol for the mother. Following the latest research, nifedipine (Adalat) has been recommended as the drug of choice in suppressing uterine contractions.
 
-5-26 What are the contraindications to the use of nifedipine in suppressing labour?
+### 5-26 What are the contraindications to the use of nifedipine in suppressing labour?
 
 Nifedipine (Adalat) cannot be used for the suppression of preterm labour if patients have hypertension, or are suffering from any of the hypertensive disorders of pregnancy.
 
@@ -4455,7 +3688,7 @@ Hypovolaemia or surgical shock due to any reason.
 
 Any condition that impairs the function of the myocardium.
 
-5-27 How should you use salbutamol for the suppression of preterm labour?
+### 5-27 How should you use salbutamol for the suppression of preterm labour?
 
 Start an intravenous infusion of Ringer’s lactate and give 250 μg (0.5 ml) salbutamol slowly intravenously, after ensuring that there is no contraindication to its use. The 0.5 ml salbutamol is diluted with 9.5 ml sterile water and given slowly intravenously over 5 minutes while the maternal heart rate is carefully monitored for tachycardia.
 
@@ -4467,7 +3700,7 @@ Patients should be monitored with an ECG monitor while receiving intravenous sal
 
 If the contractions are still occurring, and there is progressive effacement and dilatation of the cervix in spite of an adequate rate of administration, alternative measures must be taken to suppress labour. Otherwise, administration of the drug should be stopped and preparation made for the delivery of a preterm infant.
 
-5-28 What are the contraindications to the use of beta2 stimulants in suppressing labour?
+### 5-28 What are the contraindications to the use of beta2 stimulants in suppressing labour?
 
 Heart valve disease. The use of beta2 stimulants, such as salbutamol, can endanger the patient’s life, especially if she has a narrowed heart valve, e.g. mitral stenosis.
 
@@ -4475,7 +3708,7 @@ A shocked patient.
 
 A patient with tachycardia, e.g. as the result of an acute infection.
 
-5-29 What additional action must you take to suppress labour?
+### 5-29 What additional action must you take to suppress labour?
 
 Prostaglandin antagonists, e.g. indomethacin (Indocid), are prescribed. 1 indomethacin 100 mg rectal suppository is administered 12-hourly. 2 doses are usually sufficient. The total dose should not exceed 4 doses (i.e. it shouldn’t be taken for more than 48 hours).
 
@@ -4495,13 +3728,13 @@ Indomethacin is also a useful drug to use if there is a contraindication to givi
 
 Successful suppression of preterm labour with nifedipine (Adalat) or salbutamol together with indomethacin is more likely if antibiotics (ampicillin and metronidazole) are given in addition. Possible asymptomatic chorioamnionitis will then be treated as well.
 
-5-30 How should you manage the patient further, after labour has been successfully suppressed?
+### 5-30 How should you manage the patient further, after labour has been successfully suppressed?
 
 If there is a treatable cause, e.g. a urinary tract infection, then no further suppression of labour is necessary after the cause has been treated.
 
 If nothing can be done about the cause of the preterm labour, e.g. in the case of a multiple pregnancy or polyhydramnios, nifedipine (Adalat) 20 mg may be given orally every 6 hours.
 
-5-31 What other action can be taken to improve the fetal outcome?
+### 5-31 What other action can be taken to improve the fetal outcome?
 
 Steroids administered parenterally to the mother cross the placenta and hasten the onset of fetal lung maturity. Betamethasone (Celestone-Soluspan) 12 mg (2 ml) intramuscularly is the drug of choice.
 
@@ -4511,7 +3744,7 @@ If the infant is not delivered and there is still a risk of preterm delivery, a 
 
 note: Fetuses that are exposed to repeated doses of steroids in pregnancy are born with a smaller head circumference and length. As the long-term neurological outcome is uncertain, the maximum dose described here should not be exceeded.
 
-5-32 What are the dangers of using steroids to promote fetal lung maturity?
+### 5-32 What are the dangers of using steroids to promote fetal lung maturity?
 
 Steroids must not be given if a clinically detectable infection is the cause of the preterm labour, because they may make the infection worse.
 
@@ -4519,7 +3752,7 @@ Steroids cause fluid retention. Consequently, the amount of intravenous fluid wh
 
 The patient must continually be observed for signs of fluid overload, the first sign of which is the presence of crepitations in the lungs as a result of pulmonary oedema.
 
-5-33 If the delivery of a preterm infant cannot be prevented, what action should you take in order to make the delivery as safe as possible?
+### 5-33 If the delivery of a preterm infant cannot be prevented, what action should you take in order to make the delivery as safe as possible?
 
 The mother must be transferred before delivery to a hospital where preterm infants can be managed.
 
@@ -4533,7 +3766,7 @@ Before the delivery, you must make sure that the equipment you need for the resu
 
 Management of preterm rupture of the membranes
 
-5-34 How should you manage preterm rupture of the membranes?
+### 5-34 How should you manage preterm rupture of the membranes?
 
 There are two possible ways of managing preterm rupture of the membranes:
 
@@ -4543,23 +3776,23 @@ The pregnancy can be allowed to continue.
 
 The management of a patient with preterm rupture of the membranes is summarised in flow diagram 5-2.
 
-5-35 How should you decide which method of management to use?
+### 5-35 How should you decide which method of management to use?
 
 The danger of prematurity if the fetus is delivered must be weighed against the risk of infection in both the mother and the fetus if the pregnancy is allowed to continue.
 
-5-36 What is the reason for allowing the pregnancy to continue with preterm rupture of the membranes?
+### 5-36 What is the reason for allowing the pregnancy to continue with preterm rupture of the membranes?
 
 To provide time for the fetal lungs to mature and, thereby, to reduce the danger of hyaline membrane disease after delivery.
 
 Prematurity remains the commonest cause of neonatal death resulting from preterm rupture of the membranes.
 
-5-37 Which patients with preterm rupture of the membranes are at an increased risk of chorioamnionitis?
+### 5-37 Which patients with preterm rupture of the membranes are at an increased risk of chorioamnionitis?
 
 Patients with preterm rupture of the membranes plus one or more of the following factors are at a particularly high risk of chorioamnionitis:
 
 HIV-positive patients with immune suppression, either:
 
-A CD4 count of less than 350 cells/mm3.
+A CD4 count of less than 350 cells/mm³.
 
 An AIDS-defining infection that indicates clinical immune suppression.
 
@@ -4569,7 +3802,7 @@ A digital vaginal examination following rupture of the membranes.
 
 No antenatal care.
 
-5-38 What should you do once preterm rupture of the membranes has occurred?
+### 5-38 What should you do once preterm rupture of the membranes has occurred?
 
 Check whether the fetus is still alive, and exclude fetal distress by assessing fetal movements. Antenatal fetal heart rate monitoring is of great value.
 
@@ -4579,7 +3812,7 @@ Look for signs of clinical chorioamnionitis.
 
 If the history and clinical examination indicate a pregnancy of less than 34 weeks duration, an ultrasound examination is of value in determining fetal size and possible gross congenital abnormalities.
 
-5-39 What are the indications for induction of labour when preterm rupture of the membranes has occurred?
+### 5-39 What are the indications for induction of labour when preterm rupture of the membranes has occurred?
 
 An HIV-positive patient.
 
@@ -4597,15 +3830,15 @@ Severe intra-uterine growth restriction.
 
 Antepartum haemorrhage of unknown cause.
 
-5-40 What method of induction should you use?
+### 5-40 What method of induction should you use?
 
 The method of choice is to stimulate uterine contractions with oxytocin. If there are contraindications to stimulating labour or to a vaginal delivery, then a Caesarean section is done.
 
-5-41 What should the daily care of a patient include if pregnancy is allowed to continue?
+### 5-41 What should the daily care of a patient include if pregnancy is allowed to continue?
 
 The patient must be kept on bed rest, being allowed up to the toilet. She must not sit in a bath, but should use a shower.
 
-Digital vaginal examinations must not be done.
+Digital vaginal examinations must *not* be done.
 
 The condition of the fetus must be monitored daily, preferably with a cardiotocograph. If this is not available, fetal movements must be counted and recorded.
 
@@ -4619,7 +3852,7 @@ At the same time it is noted whether or not the liquor is offensive.
 
 The first digital vaginal examination in a patient with preterm rupture of the membranes is done only when she is in established labour.
 
-5-42 How long should you allow the pregnancy to continue?
+### 5-42 How long should you allow the pregnancy to continue?
 
 If complications, such as chorioamnionitis and fetal distress, do not develop, the pregnancy is allowed to continue until the patient goes into labour. However, if the pregnancy reaches 34 weeks duration and the patient is still draining liquor, an oxytocin induction is done.
 
@@ -4628,13 +3861,13 @@ A patient who has stopped draining liquor completely and where liquor is present
 Note
 :	The administration of steroids will promote fetal lung maturity if patients with preterm rupture of the membranes are managed conservatively. Betamethasone (Celestone Soluspan) 12 mg (2 ml) is given intramuscularly. The dose is repeated after 24 hours. Because steroids may increase the risk of infection, ampicillin and metronidazole (Flagyl) must also be prescribed, as in the case where preterm labour is being suppressed. If a patient who is being managed in this way should develop contractions before 24 hours have passed after giving steroids, and there are no clinical signs of chorioamnionitis or any other contraindications to the suppression of preterm labour, the labour must be suppressed with nifedipine (Adalat) or salbutamol (Ventolin). An attempt is thus made to expose the fetal lungs to steroids for at least 24 hours.
 
-5-43 Which physical signs will be present if a patient develops severe infection (septic shock) and what will the initial management be?
+### 5-43 Which physical signs will be present if a patient develops severe infection (septic shock) and what will the initial management be?
 
 The signs of clinical chorioamnionitis already mentioned will be present. In addition, there will be a drop in the blood pressure and cold clammy extremities, if severe infection (septic shock) develops.
 
 The patient must be actively resuscitated and treated with ampicillin, metronidazole (Flagyl) and gentamicin. The patient must then be referred to a level 2 or 3 hospital.
 
-5-44 What advice should you give to a woman who has delivered a preterm infant?
+### 5-44 What advice should you give to a woman who has delivered a preterm infant?
 
 She should be seen before her next pregnancy to be assessed for possible causes, e.g. cervical incompetence.
 
@@ -4642,7 +3875,7 @@ She must book early in any future pregnancy.
 
 Prelabour rupture of the membranes
 
-5-45 How should you manage a patient with prelabour rupture of the membranes?
+### 5-45 How should you manage a patient with prelabour rupture of the membranes?
 
 If a patient has prelabour ruptured membranes and there are signs of chorioamnionitis, then labour should be induced without delay.
 
@@ -4761,11 +3994,11 @@ Manage any abnormalities which are detected.
 
 Monitoring labour
 
-6-1 What is labour?
+### 6-1 What is labour?
 
 Labour is the process whereby the fetus and the placenta are delivered. The uterine contractions cause the cervix to dilate and eventually push the fetus and placenta through and out of the vagina.
 
-6-2 What are the stages of labour?
+### 6-2 What are the stages of labour?
 
 Labour is divided into three stages:
 
@@ -4779,11 +4012,11 @@ Each stage of labour is important as it must be correctly diagnosed and managed.
 
 Labour is divided into three stages.
 
-6-3 What is the first stage of labour?
+### 6-3 What is the first stage of labour?
 
 The first stage of labour starts with the onset of regular uterine contractions and ends when the cervix is fully dilated.
 
-6-4 What must be monitored in the first stage of labour?
+### 6-4 What must be monitored in the first stage of labour?
 
 The condition of the mother.
 
@@ -4791,7 +4024,7 @@ The condition of the fetus.
 
 The progress of labour.
 
-6-5 What four questions should be asked about each of these observations?
+### 6-5 What four questions should be asked about each of these observations?
 
 How often must the observations be done?
 
@@ -4801,27 +4034,27 @@ What is the clinical significance of the findings?
 
 What should be done if an observation is abnormal?
 
-6-6 What is the partogram?
+### 6-6 What is the partogram?
 
 The partogram is a chart which shows the progress of labour over time. It also displays observations reflecting the maternal and fetal condition. The observations of every patient in the first stage of labour must be charted on a partogram.
 
 All the observations of every patient in the first stage of labour must be recorded on a partogram.
 
- 6-7 What maternal observations are recorded on the partogram?
+### 6-7 What maternal observations are recorded on the partogram?
 
 Notes on the general condition of the patient, as well as observations of the temperature, pulse rate, blood pressure, urine volume and chemistry are recorded on the partogram.
 
-6-8 How should each observation be assessed?
+### 6-8 How should each observation be assessed?
 
 At the completion of any set of observations, you must ask yourself the following questions:
 
-Is everything normal? If the answer is no, then you must ask:
+*Is everything normal?* If the answer is *no*, then you must ask:
 
-What is not normal and why is it not normal?
+*What* is not normal and *why* is it not normal?
 
-Finally you must ask the question: What must I do about the problem?
+Finally you must ask the question: *What must I do about the problem?*
 
-6-9 How is the condition of the patient monitored?
+### 6-9 How is the condition of the patient monitored?
 
 By regular observations of the following:
 
@@ -4837,19 +4070,19 @@ Urine output and urinalysis for protein and ketones.
 
 Assessing the general condition of the patient
 
-6-10 Why is it important to observe the general condition of the patient during the first stage of labour?
+### 6-10 Why is it important to observe the general condition of the patient during the first stage of labour?
 
 If the general condition of the patient is not normal, there will usually be further abnormal findings when the other observations are made.
 
-6-11 When can the general condition of the patient be regarded as normal?
+### 6-11 When can the general condition of the patient be regarded as normal?
 
 A patient in the first stage of labour will normally appear calm and relaxed between contractions and does not look pale. During contractions, her respiratory rate will increase and she will experience pain. However, she should not have pain between contractions. When a patient’s cervix is fully dilated, or almost fully dilated, she becomes restless, may vomit, and has an uncontrollable urge to bear down with contractions.
 
-6-12 How often should the general condition of the patient be observed?
+### 6-12 How often should the general condition of the patient be observed?
 
 The general condition of the patient should be observed continuously, but noted specially when other observations are made.
 
-6-13 When is the general condition of the patient abnormal?
+### 6-13 When is the general condition of the patient abnormal?
 
 When any of the following are present:
 
@@ -4863,7 +4096,7 @@ Dehydration.
 
 Marked pallor of the face and mucous membranes.
 
-6-14 What causes severe anxiety?
+### 6-14 What causes severe anxiety?
 
 Anxiety is usually seen in primigravidas who:
 
@@ -4873,13 +4106,13 @@ Are not accompanied by a friend or family member in the labour ward.
 
 Cannot communicate due to language differences.
 
-6-15 What should you do if the patient is very anxious and is experiencing very painful contractions?
+### 6-15 What should you do if the patient is very anxious and is experiencing very painful contractions?
 
 The patient must be comforted and reassured. If possible, someone she knows should stay with her.
 
 The patient must be offered appropriate pain relief.
 
-6-16 What causes severe, continuous pain in the first stage of labour?
+### 6-16 What causes severe, continuous pain in the first stage of labour?
 
 Severe, continuous pain always indicates that a complication is present, such as:
 
@@ -4889,11 +4122,11 @@ Rupture of the uterus.
 
 An infection, such as acute pyelonephritis and chorioamnionitis.
 
-6-17 When may severe exhaustion or dehydration occur?
+### 6-17 When may severe exhaustion or dehydration occur?
 
 With a prolonged labour, e.g. with cephalopelvic disproportion.
 
-6-18 What may cause a pale face and mucous membranes?
+### 6-18 What may cause a pale face and mucous membranes?
 
 This is usually due to either of the following:
 
@@ -4901,25 +4134,25 @@ Chronic anaemia, e.g. iron deficiency, malaria, etc.
 
 Blood loss, e.g. placenta praevia, abruptio placentae or rupture of the uterus.
 
-6-19 Where must abnormalities in the patient’s general condition be recorded?
+### 6-19 Where must abnormalities in the patient’s general condition be recorded?
 
 If the general condition of the patient becomes abnormal, this must be noted in the appropriate space at the bottom of the partogram as shown in figure 6-1.
 
 Assessing the temperature
 
-6-20 What is a normal temperature?
+### 6-20 What is a normal temperature?
 
 The normal range of oral temperature is 36.0 to 37.0 °C. Therefore, a temperature higher than 37.0 °C is abnormal and is regarded as pyrexia.
 
-6-21 How often should you monitor the temperature?
+### 6-21 How often should you monitor the temperature?
 
 4-hourly, unless there is a particular reason to do so more frequently.
 
-6-22 How is the temperature recorded?
+### 6-22 How is the temperature recorded?
 
 The temperature is recorded in the appropriate space on the partogram as shown in figure 6-1.
 
-6-23 What are the causes of pyrexia during labour?
+### 6-23 What are the causes of pyrexia during labour?
 
 There are two main causes of a high maternal temperature:
 
@@ -4927,13 +4160,13 @@ Infection: This will most probably be in the urogenital tract, e.g. acute pyelon
 
 Maternal exhaustion: Dehydration causes pyrexia.
 
-6-24 How should you manage a patient with pyrexia?
+### 6-24 How should you manage a patient with pyrexia?
 
 The cause of the high temperature must be found and treated. It is particularly important to look for acute pyelonephritis, chorioamnionitis, and evidence of maternal exhaustion. A high temperature may also be due to an infection unrelated to the pregnancy, e.g. pneumonia, viral infections, malaria, etc.
 
 The temperature may be brought down with paracetamol (e.g. Panado).
 
-6-25 What are the dangers of pyrexia?
+### 6-25 What are the dangers of pyrexia?
 
 To the mother: The temperature on its own does not constitute a risk. However, if the pyrexia is caused by an infection, the infection may be dangerous to the mother. Fever may cause a patient to go into labour.
 
@@ -4941,19 +4174,19 @@ To the fetus: A high temperature can cause fetal tachycardia. Preterm delivery w
 
 Assessing the pulse rate
 
-6-26 What is the normal maternal pulse rate?
+### 6-26 What is the normal maternal pulse rate?
 
 The normal range of the maternal pulse rate is 80 to 100 beats per minute.
 
-6-27 How often should you monitor the pulse rate?
+### 6-27 How often should you monitor the pulse rate?
 
 The pulse rate is monitored 2-hourly during the latent phase of labour, and hourly during the active phase of the first stage of labour.
 
-6-28 How is the pulse rate recorded?
+### 6-28 How is the pulse rate recorded?
 
 The pulse rate is recorded in the appropriate space on the partogram as shown in figure 6-1.
 
-6-29 What are the causes of a rapid pulse rate?
+### 6-29 What are the causes of a rapid pulse rate?
 
 The commonest causes of a rapid pulse rate (tachycardia) are:
 
@@ -4967,25 +4200,25 @@ Exhaustion.
 
 Shock.
 
-6-30 What action should be taken if the patient has tachycardia?
+### 6-30 What action should be taken if the patient has tachycardia?
 
 The cause of the tachycardia should be determined and treated.
 
 Assessing the blood pressure
 
-6-31 What is a normal blood pressure?
+### 6-31 What is a normal blood pressure?
 
 The normal range of blood pressure during the first stage of labour is 100/60 mm Hg or above, but less than 140/90 mm Hg.
 
-6-32 How often should you monitor the blood pressure?
+### 6-32 How often should you monitor the blood pressure?
 
 Blood pressure should be monitored 2-hourly during the latent phase of labour, and hourly during the active phase of labour.
 
-6-33 How is the blood pressure recorded?
+### 6-33 How is the blood pressure recorded?
 
 The blood pressure is recorded in the appropriate space on the partogram as shown in figure 6-1.
 
-6-34 What are the causes of hypertension (high blood pressure)?
+### 6-34 What are the causes of hypertension (high blood pressure)?
 
 Anxiety.
 
@@ -4993,7 +4226,7 @@ Pain.
 
 Any one of the hypertensive disorders of pregnancy.
 
-6-35 What are the causes of hypotension (low blood pressure)?
+### 6-35 What are the causes of hypotension (low blood pressure)?
 
 Some patients may normally have a low blood pressure. Therefore, the blood pressure during labour must be compared with that recorded during the antenatal visits.
 
@@ -5001,13 +4234,13 @@ Pressure of the uterus on the inferior vena cava when the patient lies on her ba
 
 Shock. This is usually due to blood loss.
 
-6-36 What are the risks of hypotension?
+### 6-36 What are the risks of hypotension?
 
 To the mother: If hypotension is due to shock, the mother may suffer kidney damage. Severe and uncorrected hypotension may result in maternal death.
 
 To the fetus: A fall in blood pressure results in decreased blood flow to the placenta, reducing the supply of oxygen to the fetus. This may cause fetal distress.
 
-6-37 What should you do for a patient with hypotension?
+### 6-37 What should you do for a patient with hypotension?
 
 Establish the cause of the hypotension.
 
@@ -5015,7 +4248,7 @@ If the hypotension is due to the patient lying on her back, she should be turned
 
 If the hypotension is due to haemorrhage, the patient must be resuscitated urgently and be managed according to the cause of the bleeding.
 
-6-38 How do you recognise shock?
+### 6-38 How do you recognise shock?
 
 Shock presents with one or more of the following features:
 
@@ -5025,7 +4258,7 @@ Hypotension.
 
 Cold, sweaty skin.
 
-6-39 What are the common causes of shock in the first stage of labour?
+### 6-39 What are the common causes of shock in the first stage of labour?
 
 Shock during the first stage of labour is almost always due to haemorrhage, for example:
 
@@ -5039,7 +4272,7 @@ Infection as a cause of shock must always be considered.
 
 Assessing the urine
 
-6-40 What urine tests should be done during labour?
+### 6-40 What urine tests should be done during labour?
 
 Volume.
 
@@ -5049,7 +4282,7 @@ Ketones.
 
 The presence and degree of proteinuria and ketonuria is measured and graded with a reagent strip, such as Dipstix.
 
-6-41 How often should you test the urine?
+### 6-41 How often should you test the urine?
 
 Every 4 hours during the latent phase of labour.
 
@@ -5057,7 +4290,7 @@ Every 2 hours during the active phase of labour.
 
 Each time the patient passes urine, if more frequently than above.
 
-6-42 How are the urinary observations recorded?
+### 6-42 How are the urinary observations recorded?
 
 The observations are recorded on the partogram:
 
@@ -5067,11 +4300,11 @@ Protein and ketones are recorded as 0 if absent and 1+ to 4+ if present.
 
 The urinary observations should be recorded on the partogram as shown in figure 6-1.
 
-6-43 What volume of urine passed indicates oliguria (decreased urine output)?
+### 6-43 What volume of urine passed indicates oliguria (decreased urine output)?
 
 An amount of less than 20 ml per hour.
 
-6-44 What are the causes of oliguria?
+### 6-44 What are the causes of oliguria?
 
 Dehydration.
 
@@ -5086,7 +4319,7 @@ Note
 
 The cause of the oliguria must be diagnosed and treated.
 
-6-45 How can normal hydration during labour be ensured?
+### 6-45 How can normal hydration during labour be ensured?
 
 If a vaginal delivery is expected, the patient should be encouraged to eat and drink during the latent phase of the first stage of labour.
 
@@ -5096,7 +4329,7 @@ Low-risk patients must continue taking fluids, while patients with risk factors 
 
 Always ensure that a patient in labour has an adequate fluid intake. Fluids should be given intravenously if necessary.
 
-6-46 What is the significance of proteinuria?
+### 6-46 What is the significance of proteinuria?
 
 Proteinuria of more than a trace is never normal. It is an important sign of:
 
@@ -5108,11 +4341,11 @@ Renal disease.
 
 When there is proteinuria, the urine must always be examined for evidence of infection. However, infection alone will not cause more than 1+ proteinuria. Proteinuria of 2+ or more should always be regarded as indicating pre-eclampsia or chronic renal disease.
 
-6-47 What is the management of a patient with proteinuria?
+### 6-47 What is the management of a patient with proteinuria?
 
 The cause of the proteinuria must be deter­mined, and the appropriate management given.
 
-6-48 What is the clinical significance of ketonuria?
+### 6-48 What is the clinical significance of ketonuria?
 
 Ketonuria is common in labour and may be normal. However, if a woman has ketonuria, it is important to look for signs of maternal exhaustion.
 
@@ -5120,7 +4353,7 @@ Maternal exhaustion
 
 Maternal exhaustion is a term used to describe a clinical condition consisting of dehydration and exhaustion during prolonged labour. It should not be confused with pain, anxiety or shock.
 
-6-49 How do you recognise maternal exhaustion?
+### 6-49 How do you recognise maternal exhaustion?
 
 The following physical signs may be present:
 
@@ -5134,17 +4367,17 @@ Oliguria.
 
 Ketonuria.
 
-6-50 What causes maternal exhaustion?
+### 6-50 What causes maternal exhaustion?
 
 A long labour with an insufficient supply of fluid and energy to the patient.
 
-6-51 What are the effects of maternal exhaustion?
+### 6-51 What are the effects of maternal exhaustion?
 
 On the mother: Inadequate progress of labour due to poor uterine action in the first stage, and poor maternal effort in bearing down during the second stage of labour.
 
 On the fetus: Fetal distress due to hypoxia. This often results from incorrectly managed cephalopelvic disproportion.
 
-6-52 How can you prevent maternal exhaustion?
+### 6-52 How can you prevent maternal exhaustion?
 
 Make sure that the patient gets an adequate intake of fluid and energy during labour. It may be necessary to give fluid intravenously. Ringer’s lactate with 5% dextrose will also ensure an adequate energy supply to the patient.
 
@@ -5152,7 +4385,7 @@ Ensure that the patient gets adequate analgesia during labour.
 
 Ensure that labour does not become prolonged.
 
-6-53 How do you treat a patient with maternal exhaustion?
+### 6-53 How do you treat a patient with maternal exhaustion?
 
 If a patient has signs of maternal exhaustion then she should receive:
 
@@ -5162,7 +4395,7 @@ Adequate analgesia.
 
 Maternal exhaustion may result in poor progress of labour, while poor progress of labour may result in maternal exhaustion.
 
-6-54 Is it necessary for every patient to receive intravenous fluid during labour?
+### 6-54 Is it necessary for every patient to receive intravenous fluid during labour?
 
 No. Low-risk patients who are progressing well in labour do not need intravenous fluid, even if 1+ or 2+ ketonuria is present. If there are no contraindications, patients should be encouraged to take oral fluids during labour.
 
@@ -5242,21 +4475,21 @@ Manage any abnormalities which are detected.
 
 Monitoring the fetus
 
-7-1 Why should you monitor the fetus during labour?
+### 7-1 Why should you monitor the fetus during labour?
 
 It is essential to monitor the fetus during labour in order to assess how it responds to the stresses of labour. The stress of a normal labour usually has no effect on a healthy fetus.
 
-7-2 What may stress the fetus during labour?
+### 7-2 What may stress the fetus during labour?
 
 Compression of the fetal head during contractions.
 
 A decrease in the supply of oxygen to the fetus.
 
-7-3 How does head compression stress the fetus?
+### 7-3 How does head compression stress the fetus?
 
 During uterine contractions compression of the fetal skull causes vagal stimulation which slows the fetal heart rate. Head compression usually does not harm the fetus. However, with a long labour due to cephalopelvic disproportion, the fetal head may be severely compressed. This may result in fetal distress.
 
-7-4 What may reduce the supply of oxygen to the fetus?
+### 7-4 What may reduce the supply of oxygen to the fetus?
 
 Uterine contractions: Uterine contractions are the commonest cause of a decrease in the oxygen supply to the fetus during labour.
 
@@ -5268,7 +4501,7 @@ Cord prolapse or compression: This stops the transport of oxygen from the placen
 
 Uterine contractions are the commonest cause of a decreased oxygen supply to the fetus during labour.
 
-7-5 How do contractions reduce the supply of oxygen to the fetus?
+### 7-5 How do contractions reduce the supply of oxygen to the fetus?
 
 Uterine contractions may:
 
@@ -5276,7 +4509,7 @@ Reduce the maternal blood flow to the placenta due to the increase in intra-uter
 
 Compress the umbilical cord.
 
-7-6 When do uterine contractions reduce the supply of oxygen to the fetus?
+### 7-6 When do uterine contractions reduce the supply of oxygen to the fetus?
 
 Usually uterine contractions do not reduce the supply of oxygen to the fetus, as there is an adequate store of oxygen in the placental blood to meet the fetal needs during the contraction. Normal contractions in labour do not affect the healthy fetus with a normally functioning placenta, and, therefore, are not dangerous.
 
@@ -5288,18 +4521,18 @@ The contractions are prolonged or very frequent.
 
 There is compression of the umbilical cord.
 
-7-7 How does the fetus respond to a lack of oxygen?
+### 7-7 How does the fetus respond to a lack of oxygen?
 
 A reduction in the normal supply of oxygen to the fetus causes fetal hypoxia. This is a lack of oxygen in the cells of the fetus. If the hypoxia is mild the fetus will be able to compensate and, therefore, show no response. However, severe fetal hypoxia will result in fetal distress. Severe, prolonged hypoxia will eventually result in fetal death.
 
-7-8 How is fetal distress recognised during labour?
+### 7-8 How is fetal distress recognised during labour?
 
 Fetal distress caused by a lack of oxygen results in a decrease in the fetal heart rate.
 
 Note
 :	The fetus responds to hypoxia with a bradycardia to conserve oxygen. In addition, blood is shunted away from less important organs, such as the gut and kidney, to essential organs, such as the brain and the heart. This may cause ischaemic damage to the gut and kidneys, and intraventricular haemorrhage in the brain. Severe hypoxia will eventually cause a decreased cardiac output leading to myocardial and cerebral ischaemia. Hypoxia also results in anaerobic metabolism which causes fetal acidosis (a low blood pH).
 
-7-9 How do you assess the condition of the fetus during labour?
+### 7-9 How do you assess the condition of the fetus during labour?
 
 Two observations are used:
 
@@ -5309,7 +4542,7 @@ The presence or absence of meconium in the liquor.
 
 Fetal heart rate patterns
 
-7-10 What devices can be used to monitor the fetal heart rate?
+### 7-10 What devices can be used to monitor the fetal heart rate?
 
 Any one of the following three pieces of equipment:
 
@@ -5323,13 +4556,13 @@ In most low-risk labours the fetal heart rate can be determined adequately using
 
 A doptone is the preferred method in primary-care clinics and hospitals.
 
-7-11 How should you monitor the fetal heart rate?
+### 7-11 How should you monitor the fetal heart rate?
 
-Because uterine contractions may decrease the maternal blood flow to the placenta, and thereby cause a reduced supply of oxygen to the fetus, it is essential that the fetal heart rate should be monitored during a contraction. In practice, this means that the fetal heart pattern must be checked before, during and after the contraction. A comment on the fetal heart rate, without knowing what happens during and after a contraction, is almost valueless.
+Because uterine contractions may decrease the maternal blood flow to the placenta, and thereby cause a reduced supply of oxygen to the fetus, it is essential that the fetal heart rate should be monitored during a contraction. In practice, this means that the fetal heart pattern must be checked before, during and after the contraction. A comment on the fetal heart rate, without knowing what happens *during* and *after* a contraction, is almost valueless.
 
 The fetal heart rate must be assessed before, during, and after a contraction.
 
-7-12 How often should you monitor the fetal heart rate?
+### 7-12 How often should you monitor the fetal heart rate?
 
 For low-risk patients who have had normal observations on admission:
 
@@ -5347,24 +4580,24 @@ Half-hourly during the active phase of labour.
 
 At least every 15 minutes if fetal distress is suspected.
 
-7-13 What features of the fetal heart rate pattern should you always assess during labour?
+### 7-13 What features of the fetal heart rate pattern should you always assess during labour?
 
 There are two features that should always be assessed:
 
-The baseline fetal heart rate: This is the heart rate between contractions.
+*The baseline fetal heart rate*: This is the heart rate between contractions.
 
-The presence or absence of decelerations: If present, the relation of the deceleration to the contraction must be determined:
+*The presence or absence of decelerations*: If present, the relation of the deceleration to the contraction must be determined:
 
-Decelerations that occur only during a contraction (i.e. early decelerations).
+Decelerations that occur only *during* a contraction (i.e. early decelerations).
 
-Decelerations that occur during and after a contraction (i.e. late decelerations).
+Decelerations that occur *during and after* a contraction (i.e. late decelerations).
 
-Decelerations that have no fixed relation to contractions (i.e. variable decelerations).
+Decelerations that have *no fixed relation* to contractions (i.e. variable decelerations).
 
 Note
 :	In addition, the variability of the fetal heart rate can also be evaluated if a cardiotocograph is available. Good variability gives a spiky trace while poor variability gives a flat trace.
 
-7-14 What fetal heart rate patterns can be recognised with a fetal stethoscope?
+### 7-14 What fetal heart rate patterns can be recognised with a fetal stethoscope?
 
 Normal.
 
@@ -5385,24 +4618,24 @@ It is common to get a combination of patterns, e.g. a baseline bradycardia with 
 Note
 :	Variability is assessed with a CTG. The variation in the fetal heart normally exceeds 5 beats or more per minute, giving the baseline a spiky appearance on a CTG trace. A loss or reduction in variability to below 5 beats per minute gives a flat baseline (a flat trace), which suggest fetal distress. However, a flat baseline may also occur if the fetus is asleep or as a result of the administration of analgesics (pethidine, morphine) or sedatives (phenobarbitone).
 
-7-15 What is a normal fetal heart rate pattern?
+### 7-15 What is a normal fetal heart rate pattern?
 
 No decelerations during or after contractions.
 
 A baseline rate of 100–160 beats per minute.
 
-7-16 What are early decelerations?
+### 7-16 What are early decelerations?
 
 Early decelerations are characterised by a slowing of the fetal heart rate starting at the beginning of the contraction, and returning to normal by the end of the contraction. Early decelerations are usually due to compression of the fetal head with a resultant increase in vagal stimulation, which causes the heart rate to slow during the contraction.
 
-7-17 What is the significance of early decelerations?
+### 7-17 What is the significance of early decelerations?
 
 Early decelerations do not indicate the presence of fetal distress. However, these fetuses must be carefully monitored as they are at an increased risk of fetal distress.
 
 Note
 :	When early decelerations occur, normal variability of the fetal heart rate is reassuring that the fetus is not hypoxic.
 
-7-18 What are late decelerations?
+### 7-18 What are late decelerations?
 
 A late deceleration is a slowing of the fetal heart rate during a contraction, with the rate only returning to the baseline 30 seconds or more after the contraction has ended.
 
@@ -5411,13 +4644,13 @@ With a late deceleration the fetal heart rate only returns to the baseline 30 se
 Note
 :	When using a cardiotocograph, a late deceleration is diagnosed when the lowest point of the deceleration occurs 30 seconds or more after the peak of the contraction.
 
-7-19 What is the significance of late decelerations?
+### 7-19 What is the significance of late decelerations?
 
 Late decelerations are a sign of fetal distress and are caused by fetal hypoxia. The degree to which the heart rate slows is not important. It is the timing of the deceleration that is important.
 
 Late decelerations indicate fetal distress.
 
-7-20 What are variable decelerations?
+### 7-20 What are variable decelerations?
 
 Variable decelerations have no fixed relationship to uterine contractions. Therefore, the pattern of decelerations changes from 1 contraction to another. Variable decelerations are usually caused by compression of the umbilical cord and do not indicate the presence of fetal distress. However, these fetuses must be carefully monitored as they are at an increased risk of fetal distress.
 
@@ -5426,11 +4659,11 @@ Variable decelerations are not easy to recognise with a fetal stethoscope or dop
 Note
 :	Variable decelerations accompanied by loss of variability may indicate fetal distress. Variable decelerations with good variability is reassuring.
 
-7-21 What is a baseline tachycardia?
+### 7-21 What is a baseline tachycardia?
 
 A baseline fetal heart rate of more than 160 beats per minute.
 
-7-22 What are the causes of a baseline tachycardia?
+### 7-22 What are the causes of a baseline tachycardia?
 
 Maternal pyrexia.
 
@@ -5442,27 +4675,27 @@ Chorioamnionitis (infection of the placenta and membranes).
 
 Fetal haemorrhage or anaemia.
 
-7-23 What is a baseline bradycardia?
+### 7-23 What is a baseline bradycardia?
 
 A baseline fetal heart rate of less than 100 beats per minute.
 
-7-24 What is the cause of a baseline bradycardia?
+### 7-24 What is the cause of a baseline bradycardia?
 
 A baseline bradycardia of less than 100 beats per minute usually indicates fetal distress which is caused by severe fetal hypoxia. If decelerations are also present, a baseline bradycardia indicates that the fetus is at great risk of dying.
 
-7-25 How should you assess the condition of the fetus on the basis of the fetal heart rate pattern?
+### 7-25 How should you assess the condition of the fetus on the basis of the fetal heart rate pattern?
 
-The fetal condition is normal if a normal fetal heart rate pattern is present.
+The fetal condition is *normal* if a normal fetal heart rate pattern is present.
 
-The fetal condition is uncertain if the fetal heart rate pattern indicates that there is an increased risk of fetal distress.
+The fetal condition is *uncertain* if the fetal heart rate pattern indicates that there is an increased risk of fetal distress.
 
-The fetal condition is abnormal if the fetal heart rate pattern indicates fetal distress.
+The fetal condition is *abnormal* if the fetal heart rate pattern indicates fetal distress.
 
-7-26 What is a normal fetal heart rate pattern during labour?
+### 7-26 What is a normal fetal heart rate pattern during labour?
 
 A normal baseline fetal heart rate without any decelerations.
 
-7-27 Which fetal heart rate patterns indicate an increased risk of fetal distress during labour?
+### 7-27 Which fetal heart rate patterns indicate an increased risk of fetal distress during labour?
 
 Early decelerations.
 
@@ -5475,7 +4708,7 @@ These fetal heart rate patterns do not indicate fetal distress but warn that the
 Note
 :	If electronic monitoring is available, the fetal heart rate pattern must be monitored electronically.
 
-7-28 What fetal heart rate patterns indicate fetal distress during labour?
+### 7-28 What fetal heart rate patterns indicate fetal distress during labour?
 
 Late decelerations.
 
@@ -5484,7 +4717,7 @@ A baseline bradycardia.
 Note
 :	On cardiotocography, loss of variability of beat-to-beat variation lasting more than 60 minutes also suggests fetal distress.
 
-7-29 How should the fetal heart rate pattern be observed during labour?
+### 7-29 How should the fetal heart rate pattern be observed during labour?
 
 The fetal heart rate must be observed before, during and after a contraction. The following questions must be answered and recorded on the partogram:
 
@@ -5496,13 +4729,13 @@ If decelerations are observed, what is their relation to the uterine contraction
 
 If the fetal heart rate pattern is abnormal, how must the patient be managed?
 
-7-30 Which fetal heart rate pattern indicates that the fetal condition is good?
+### 7-30 Which fetal heart rate pattern indicates that the fetal condition is good?
 
 The baseline fetal heart rate is normal.
 
-There are no decelerations.
+There are *no* decelerations.
 
-7-31 What must be done if decelerations are observed?
+### 7-31 What must be done if decelerations are observed?
 
 First the relation of the decelerations to the uterine contractions must be observed to determine the type of deceleration. Then manage the patient as follows:
 
@@ -5512,7 +4745,7 @@ If late decelerations are present, the management will be the same as that for f
 
 The observations of the fetal heart rate must be recorded on the partogram as shown in figure 7-4. A note of the management decided upon must also be made under the heading ‘Management’ at the bottom of the partogram.
 
-7-32 What must be done if a fetal bradycardia is observed?
+### 7-32 What must be done if a fetal bradycardia is observed?
 
 Fetal distress due to severe hypoxia is present. Therefore, you should immediately do the following:
 
@@ -5520,7 +4753,7 @@ Exclude other possible causes of bradycardia by turning the patient onto her sid
 
 If the fetal bradycardia persists, intra-uterine resuscitation of the fetus must be continued and the fetus delivered as quickly as possible.
 
-7-33 How is intra-uterine resuscitation of the fetus given?
+### 7-33 How is intra-uterine resuscitation of the fetus given?
 
 Turn the patient onto her side.
 
@@ -5541,15 +4774,15 @@ Note
 
 The liquor
 
-7-34 Is the liquor commonly meconium stained?
+### 7-34 Is the liquor commonly meconium stained?
 
 Yes, in 10–20% of patients, the liquor is yellow or green due to meconium staining. The incidence of meconium-stained liquor is increased in the group of patients that go into labour after 42 weeks gestation.
 
-7-35 Is it important to distinguish between thick and thin, or yellow and green meconium?
+### 7-35 Is it important to distinguish between thick and thin, or yellow and green meconium?
 
 Although fetal and neonatal complications are more common with thick meconium, all cases of meconium-stained liquor should be managed the same during the first stage of labour. The presence of meconium is important and the management does not depend on the consistency of the meconium.
 
-7-36 What is the importance of meconium in the liquor?
+### 7-36 What is the importance of meconium in the liquor?
 
 Meconium-stained liquor usually indicates the presence of fetal hypoxia or an episode of fetal hypoxia in the past. Therefore, fetal distress may be present. If not, the fetus is at high risk of distress.
 
@@ -5557,7 +4790,7 @@ There is a danger of meconium aspiration at delivery.
 
 Meconium-stained liquor warns that either fetal distress is present or that there is a high risk of fetal distress.
 
-7-37 How should you monitor the fetus during the first stage of labour if the liquor is meconium stained?
+### 7-37 How should you monitor the fetus during the first stage of labour if the liquor is meconium stained?
 
 Listen carefully for late decelerations. If present, then fetal distress must be diagnosed.
 
@@ -5565,13 +4798,13 @@ If late decelerations are absent, then observe the fetus carefully during labour
 
 If electronic monitoring is available, the fetal heart rate pattern must be monitored.
 
-7-38 How must the delivery be managed if there is meconium in the liquor?
+### 7-38 How must the delivery be managed if there is meconium in the liquor?
 
 The infant’s mouth and pharynx must be thoroughly suctioned after delivery of the head, but before the shoulders and chest are delivered, i.e. before the infant breathes. This must be done irrespective of whether a vaginal delivery or Caesarean section is done.
 
 Anticipate that the infant may need to be resuscitated at delivery. If the infant has asphyxia and needs intubation, suction the airways via the endotracheal tube before starting ventilation.
 
-7-39 How and when are the liquor findings recorded?
+### 7-39 How and when are the liquor findings recorded?
 
 Three symbols are used to record the liquor findings on the partogram:
 
@@ -5679,13 +4912,13 @@ Manage a patient with cord prolapse.
 
 The diagnosis of labour
 
-8-1 When is a patient in labour?
+### 8-1 When is a patient in labour?
 
-A patient is in labour when she has both of the following:
+A patient is in labour when she has *both* of the following:
 
 Regular uterine contractions with at least 1 contraction every 10 minutes.
 
-Cervical changes (i.e. cervical effacement and/or dilatation) or rupture of the membranes.
+Cervical changes (i.e. cervical effacement and/or dilatation) *or* rupture of the membranes.
 
 The two phases of the first stage of labour
 
@@ -5697,7 +4930,7 @@ The active phase.
 
 The first stage of labour is divided into two phases: the latent phase and the active phase.
 
-8-2 What do you understand by the latent phase of the first stage of labour?
+### 8-2 What do you understand by the latent phase of the first stage of labour?
 
 The latent phase starts with the onset of labour and ends when the patient’s cervix is 3 cm dilated. With primigravidas the cervix should also be fully effaced to indicate that the latent phase has ended. However, in a multigravida the cervix need not be fully effaced.
 
@@ -5705,7 +4938,7 @@ During the latent phase, the cervix dilates slowly. Although no time limit need 
 
 During the latent phase there is a progressive increase in the duration and the frequency of uterine contractions.
 
-8-3 What do you understand by the active phase of the first stage of labour?
+### 8-3 What do you understand by the active phase of the first stage of labour?
 
 This phase starts when the cervix is 3 cm dilated and ends when the cervix is fully dilated.
 
@@ -5720,7 +4953,7 @@ The cervix should dilate at a rate of at least 1 cm per hour in the active phase
 
 Monitoring of the first stage of labour
 
-8-4 What do you understand by a complete physical examination during labour?
+### 8-4 What do you understand by a complete physical examination during labour?
 
 The routine observations (usually done hourly or half-hourly) of the condition of the mother, the condition of the fetus, and the contractions.
 
@@ -5730,7 +4963,7 @@ A careful vaginal examination.
 
 This examination is only complete when the findings have been charted on the partogram. If the findings are abnormal, a plan must be made regarding the further management of the patient.
 
-8-5 When should you do a complete physical examination on a patient in labour?
+### 8-5 When should you do a complete physical examination on a patient in labour?
 
 On admission.
 
@@ -5740,29 +4973,29 @@ During the active phase: 4-hourly, provided all observations indicate that progr
 
 After the complete examination has been done and an assessment made about the progress of labour, a decision is taken on when the next complete examination should be done. The time of the next examination is marked on the partogram with an arrow. The next complete examination may, if the circumstances demand it, be done sooner (but not later) than the time indicated.
 
-8-6 How should progress during the first stage of labour be monitored?
+### 8-6 How should progress during the first stage of labour be monitored?
 
-A partogram is used to monitor and record the progress of labour.
+A *partogram* is used to monitor and record the progress of labour.
 
-8-7 What is a partogram?
+### 8-7 What is a partogram?
 
 A partogram is a chart on which the progress of labour over time can be presented. You will notice that provision has been made on the chart to record all the important observations regarding the condition of the mother, the condition of the fetus, and the progress of labour.
 
 An example of a partogram is shown in figure 8-1.
 
-8-8 What is the first oblique line on the partogram called?
+### 8-8 What is the first oblique line on the partogram called?
 
-The alert line. It represents a rate of cervical dilatation of 1 cm per hour.
+The *alert line*. It represents a rate of cervical dilatation of 1 cm per hour.
 
-8-9 What is the importance of the alert line?
+### 8-9 What is the importance of the alert line?
 
 The alert line represents the minimum progress in cervical dilatation which is acceptable during the active phase of the first stage of labour.
 
-8-10 What is the second oblique line on the partogram called?
+### 8-10 What is the second oblique line on the partogram called?
 
-This line is called the action line.
+This line is called the *action line*.
 
-8-11 What is the importance of the action line?
+### 8-11 What is the importance of the action line?
 
 Any patient whose graph of the cervical dilatation falls on or crosses the action line must have a complete examination by the doctor. Her further management must be under the doctor’s supervision and direction. If a patient is not already in hospital, she will need to be transferred into a hospital where there are facilities for instrumental delivery and Caesarean section.
 
@@ -5774,11 +5007,11 @@ Management of a patient in the latent phase of the first stage of labour
 
 The latent phase of labour should not last longer than 8 hours.
 
-8-12 What is the initial management of a patient in the latent phase of labour?
+### 8-12 What is the initial management of a patient in the latent phase of labour?
 
 When a patient is admitted in early labour, and on examination everything is found to be normal, only routine observations are done. The next complete examination is done 4 hours later, or sooner if the patient starts to experience more regular and painful contractions. The patient should eat and drink normally, and should be encouraged to walk around. She need not be admitted to the labour ward.
 
-8-13 What should you do at the second complete examination?
+### 8-13 What should you do at the second complete examination?
 
 At this time, the following must be assessed.
 
@@ -5790,7 +5023,7 @@ If the effacement and dilatation of the cervix have remained unchanged, the pati
 
 If there has been progress in effacement and/or dilatation of the cervix, the patient is in labour and, provided that all other observations are normal, the next complete examination is planned for 4 hours later. If the cervix is 3 cm or more dilated, the patient has now progressed to the active phase of the first stage of labour.
 
-8-14 What should you do if a patient has not progressed to the active phase of labour within 8 hours after admission?
+### 8-14 What should you do if a patient has not progressed to the active phase of labour within 8 hours after admission?
 
 The contractions may have stopped, in which case the patient is not in labour. If the membranes have not ruptured and if there is no indication to induce labour, the patient should be discharged.
 
@@ -5804,11 +5037,11 @@ Management of a patient in the active phase of the first stage of labour
 
 When a patient is admitted in the active phase of labour, she will probably be in normal labour. However, the possibility of cephalopelvic disproportion must be considered, especially if the patient is unbooked.
 
-8-15 How do you manage a patient who is in normal labour?
+### 8-15 How do you manage a patient who is in normal labour?
 
 When the condition of the mother and the condition of the fetus are normal, and there are no signs of cephalopelvic disproportion, the next complete examination must be done 4 hours later. The cervical dilatation, in centimetres, is recorded on the alert line of the partogram.
 
-8-16 What represents normal progress during the active phase of the first stage of labour on the partogram?
+### 8-16 What represents normal progress during the active phase of the first stage of labour on the partogram?
 
 The recording of cervical dilatation at the various vaginal examinations lie on or to the left of the alert line. In other words cervical dilatation is at least 1 cm per hour.
 
@@ -5816,17 +5049,17 @@ There is also progressive descent of the fetal head into the pelvis. This is det
 
 With normal progress during the active phase of the first stage of labour, the recording of the dilatation of the cervix will lie on or to the left of the alert line on the partogram. In addition, there will be progressively less of the fetal head palpable above the pelvic brim.
 
-8-17 Why is it necessary to evaluate both cervical dilatation and the descent of the head in order to determine whether there has been progress in the active phase of the first stage of labour?
+### 8-17 Why is it necessary to evaluate both cervical dilatation and the descent of the head in order to determine whether there has been progress in the active phase of the first stage of labour?
 
 Cervical dilatation without associated descent of the head does not necessarily indicate progress in labour.
 
 Cervical dilatation may occur when there are good contractions, in association with increasing caput succedaneum formation and moulding of the fetal skull, while the amount of fetal head palpable above the brim of the pelvis remains the same. In these circumstances no real progress has occurred, because the head is not descending into the pelvis.
 
-The station of the presenting part of the head in relation to the spine, as felt on vaginal examination, can also improve without further descent of the head and without real progress having occurred. This is because of increasing caput succedaneum and moulding.
+The station of the presenting part of the head in relation to the spine, as felt on vaginal examination, can also improve *without further descent of the head and without real progress* having occurred. This is because of increasing caput succedaneum and moulding.
 
 Descent of the head is assessed on abdominal and not on vaginal examination.
 
-8-18 What circumstances will make it necessary to do vaginal examinations more frequently than 4-hourly in the active phase of the first stage of labour?
+### 8-18 What circumstances will make it necessary to do vaginal examinations more frequently than 4-hourly in the active phase of the first stage of labour?
 
 If cephalopelvic disproportion is suspected, the next vaginal examination must be done 2 hours later.
 
@@ -5834,7 +5067,7 @@ If a complete examination has revealed poor progress of labour, without the pres
 
 If a patient’s cervix is more than 6 cm dilated, the next complete examination would normally be done when the cervix is expected to be fully dilated. However, the examination may need to be done earlier if there are signs that the cervix is already fully dilated.
 
-8-19 When should you rupture the patient’s membranes?
+### 8-19 When should you rupture the patient’s membranes?
 
 It is possible to reduce the risk of transferring HIV from a mother to her infant by keeping the duration of ruptured membranes as short as possible. Do not rupture the membranes of patients whose HIV status is positive or unknown if they are still intact at the start of the active phase of labour. The following vaginal examination will not increase the risk of infection if the membranes are intact. The next complete examination should be done after 2 hours when the management should be as follows:
 
@@ -5852,13 +5085,13 @@ After rupturing the membranes, carefully feel around the fetal head to rule out 
 
 If the fetal head is 4/5 or more above the pelvic brim, and the cervix is 6 cm or more dilated, it is safer to carefully rupture the membranes than to allow them to rupture spontaneously. This will reduce the risk of cord prolapse.
 
-8-20 What should you do if a patient ruptures her membranes spontaneously during labour?
+### 8-20 What should you do if a patient ruptures her membranes spontaneously during labour?
 
 If the fetal head is 4/5 or more palpable above the pelvic inlet, or if there is a breech presentation, the patient is at high risk for a cord prolapse. A sterile vaginal examination must, therefore, be done to rule out this possibility.
 
 If the fetal head is 3/5 or less palpable above the pelvic inlet, it is highly unlikely that a cord prolapse might happen. However, the fetal heart must be monitored to rule out the possibility of fetal distress due to cord compression.
 
-8-21 What are the advantages of rupturing a patient’s membranes?
+### 8-21 What are the advantages of rupturing a patient’s membranes?
 
 Rupture of the membranes acts as a stimulus to labour, so that there is often better progress.
 
@@ -5870,17 +5103,17 @@ It is important to make sure that the patient is in the active phase of the firs
 
 Poor progress in the active phase of the first stage of labour
 
-8-22 How would you recognise poor progress in the active phase of labour?
+### 8-22 How would you recognise poor progress in the active phase of labour?
 
 Poor progress is present when the graph showing cervical dilatation crosses the alert line. In other words, cervical dilatation in the active phase of the first stage of labour is less than 1 cm per hour.
 
-8-23 What should you do if the graph showing cervical dilatation crosses the alert line?
+### 8-23 What should you do if the graph showing cervical dilatation crosses the alert line?
 
 A systematic assessment of the patient must be made in order to determine the cause of the poor progress in labour.
 
-8-24 How should you systematically examine a patient with poor progress in the active phase of the first stage of labour?
+### 8-24 How should you systematically examine a patient with poor progress in the active phase of the first stage of labour?
 
-Step 1: Two questions must be asked:
+*Step 1*: Two questions must be asked:
 
 Is the patient in the active phase of the first stage of labour?
 
@@ -5888,7 +5121,7 @@ Are the membranes ruptured?
 
 If the answer to both questions is ‘yes’, proceed to step 2.
 
-Step 2: The cause of the poor progress of labour must be determined by examining the patient using the ‘Rule of the 4 Ps’. The 4 Ps are:
+*Step 2*: The cause of the poor progress of labour must be determined by examining the patient using the ‘Rule of the 4 Ps’. The 4 Ps are:
 
 The patient.
 
@@ -5900,49 +5133,49 @@ The passage.
 
 The cause of poor progress of the active phase of the first stage of labour is determined by assessing the 4 Ps.
 
-8-25 How may problems with the patient cause poor progress of labour and how should these problems be managed?
+### 8-25 How may problems with the patient cause poor progress of labour and how should these problems be managed?
 
 Any of the following factors may interfere with the normal progress of labour.
 
-The patient needs pain relief. Patients who experience very painful contractions, especially if associated with excessive anxiety, may have poor progress of labour as a result. Pain relief, emotional support and reassurance can be of great value in speeding up the progress of labour.
+*The patient needs pain relief*. Patients who experience very painful contractions, especially if associated with excessive anxiety, may have poor progress of labour as a result. Pain relief, emotional support and reassurance can be of great value in speeding up the progress of labour.
 
-The patient has a full bladder. A full bladder not only causes mechanical obstruction, but also depresses uterine muscle activity. A patient must be encouraged to pass urine frequently but may need catheterisation, and sometimes an indwelling catheter, until after delivery.
+*The patient has a full bladder*. A full bladder not only causes mechanical obstruction, but also depresses uterine muscle activity. A patient must be encouraged to pass urine frequently but may need catheterisation, and sometimes an indwelling catheter, until after delivery.
 
-The patient is dehydrated. Dehydration is recognised by the fact that the patient is thirsty, has a dry mouth, passes small amounts of concentrated urine and may have ketonuria. Dehydration must be corrected as it may be the cause of the poor progress. With good care during labour the patient will not become dehydrated, because she can eat and drink during the latent phase of labour and take oral fluids during the active phase of labour. If there is poor progress during the active phase of labour, an intravenous infusion must be started.
+*The patient is dehydrated*. Dehydration is recognised by the fact that the patient is thirsty, has a dry mouth, passes small amounts of concentrated urine and may have ketonuria. Dehydration must be corrected as it may be the cause of the poor progress. With good care during labour the patient will not become dehydrated, because she can eat and drink during the latent phase of labour and take oral fluids during the active phase of labour. If there is poor progress during the active phase of labour, an intravenous infusion must be started.
 
-8-26 How may problems with the powers cause poor progress of labour?
+### 8-26 How may problems with the powers cause poor progress of labour?
 
 The powers (i.e. the uterine contractions) may either be inadequate or ineffective. Any patient in whom labour progresses normally has both adequate and effective contractions, irrespective of the duration and frequency of contractions.
 
-Inadequate uterine contractions. Inadequate uterine contractions can be the cause of poor progress of labour. Such contractions:
+*Inadequate uterine contractions*. Inadequate uterine contractions can be the cause of poor progress of labour. Such contractions:
 
 Last less than 40 seconds, and/or
 
 There are fewer than 2 contractions per 10 minutes.
 
-Ineffective uterine contractions. The uterine contractions may be adequate but not effective, as poor progress can occur even in the presence of apparently good, painful contractions (i.e. 2 or more in 10 minutes with each contraction lasting 40 seconds or longer), without disproportion being present (i.e. no moulding of the fetal skull). The problem of ineffective contractions occurs only in primigravidas. Any patient whose labour progresses normally must have effective uterine contractions.
+*Ineffective uterine contractions*. The uterine contractions may be adequate but not effective, as poor progress can occur even in the presence of apparently good, painful contractions (i.e. 2 or more in 10 minutes with each contraction lasting 40 seconds or longer), without disproportion being present (i.e. no moulding of the fetal skull). The problem of ineffective contractions occurs only in primigravidas. Any patient whose labour progresses normally must have effective uterine contractions.
 
 Note
 :	Dysfunctional uterine contractions are diagnosed when the uterine contractions appear to be ineffective.
 
-8-27 How may problems with the passenger cause poor progress of labour and how should these problems be managed?
+### 8-27 How may problems with the passenger cause poor progress of labour and how should these problems be managed?
 
 The cause of poor progress of labour may be due to a problem with the passenger (i.e. the fetus). These problems can be identified by performing an abdominal examination followed by a vaginal examination.
 
 On abdominal examination the following problems causing poor progress may be identified.
 
-The lie of the fetus is abnormal. If the lie of the fetus is transverse the patient will need a Caesarean section.
+*The lie of the fetus is abnormal*. If the lie of the fetus is transverse the patient will need a Caesarean section.
 
-The presenting part of the fetus is abnormal. With a breech presentation, the patient must be assessed by a doctor to decide whether a vaginal delivery will be possible or whether a Caesarean section is required. If the presentation is cephalic, the part of the head which is presenting must be determined on vaginal examination.
+*The presenting part of the fetus is abnormal*. With a breech presentation, the patient must be assessed by a doctor to decide whether a vaginal delivery will be possible or whether a Caesarean section is required. If the presentation is cephalic, the part of the head which is presenting must be determined on vaginal examination.
 
 Note
 :	Fetuses who present by the breech and who comply with the criteria for vaginal delivery, are only delivered vaginally if there is normal progress during the first stage of labour.
 
-The fetus is large. A large fetus (i.e. estimated as 4 kg or more), with signs of cephalopelvic disproportion (i.e. 2+ or 3+ moulding) must be delivered by Caesarean section.
+*The fetus is large*. A large fetus (i.e. estimated as 4 kg or more), with signs of cephalopelvic disproportion (i.e. 2+ or 3+ moulding) must be delivered by Caesarean section.
 
-There are 2 or more fetuses. Poor progress may also occur in a patient with a multiple pregnancy, usually due to inadequate uterine contractions.
+*There are 2 or more fetuses*. Poor progress may also occur in a patient with a multiple pregnancy, usually due to inadequate uterine contractions.
 
-The fetal head has not engaged. The number of fifths of the head palpable above the pelvis must always be assessed:
+*The fetal head has not engaged*. The number of fifths of the head palpable above the pelvis must always be assessed:
 
 Engagement has occurred only when 2/5 or less of the head is palpable above the brim of the pelvis. In this case the problem of cephalopelvic disproportion at the pelvic inlet is excluded.
 
@@ -5952,11 +5185,11 @@ An abdominal examination, to assess the lie and the presenting part of the fetus
 
 On vaginal examination the following problems causing poor progress may be identified.
 
-The presenting part is abnormal. Vertex (i.e. occipital) presentation of the fetal head is the most favourable presentation for the normal progress of labour. With any other presentation of the fetal head in early labour (e.g. brow), there is no urgency to interfere, as the presentation may become more favourable when the patient is in established labour. However, in established labour, if moulding is present in any presentation other than a vertex, a Caesarean section will have to be done.
+*The presenting part is abnormal*. Vertex (i.e. occipital) presentation of the fetal head is the most favourable presentation for the normal progress of labour. With any other presentation of the fetal head in early labour (e.g. brow), there is no urgency to interfere, as the presentation may become more favourable when the patient is in established labour. However, in established labour, if moulding is present in any presentation other than a vertex, a Caesarean section will have to be done.
 
-The position of the fetal head in relation to the pelvis is abnormal. An occipito-anterior (right or left) is the most favourable position for normal progress of labour. Positions other than this (i.e. left or right occipito-posterior) will progress more slowly. Labour can be allowed to continue provided there is progress, and no progressive evidence of disproportion. The patient will also need adequate pain relief and an intravenous infusion to prevent dehydration.
+*The position of the fetal head in relation to the pelvis is abnormal*. An occipito-anterior (right or left) is the most favourable position for normal progress of labour. Positions other than this (i.e. left or right occipito-posterior) will progress more slowly. Labour can be allowed to continue provided there is progress, and no progressive evidence of disproportion. The patient will also need adequate pain relief and an intravenous infusion to prevent dehydration.
 
-Cephalopelvic disproportion is present.
+*Cephalopelvic disproportion is present*.
 
 The head is examined for the amount of caput succedaneum present. Caput is not an accurate indicator of disproportion as it can also be present in the absence of disproportion, for example, in a patient who bears down before the cervix is fully dilated.
 
@@ -5966,21 +5199,21 @@ Improvement in the station of the presenting part (i.e. the level of the present
 
 Improvement in the station of the presenting part of the fetal head, in relation to the ischial spines, is not a reliable method of assessing progress in the first stage of labour.
 
-8-28 How may problems with the passage cause poor progress in labour and how should these problems be managed?
+### 8-28 How may problems with the passage cause poor progress in labour and how should these problems be managed?
 
 The following problems with the passage may cause poor progress in labour:
 
-The membranes are still intact. Should the membranes still be intact, they must be ruptured and the patient reassessed after 4 hours before poor progress can be diagnosed.
+*The membranes are still intact*. Should the membranes still be intact, they must be ruptured and the patient reassessed after 4 hours before poor progress can be diagnosed.
 
-The pelvis is small. A pelvic assessment which shows a small pelvis, together with 2+ or 3+ moulding of the fetal skull means that there is cephalopelvic disproportion, and is an indication for Caesarean section.
+*The pelvis is small*. A pelvic assessment which shows a small pelvis, together with 2+ or 3+ moulding of the fetal skull means that there is cephalopelvic disproportion, and is an indication for Caesarean section.
 
-8-29 What are the two important causes of poor progress of labour?
+### 8-29 What are the two important causes of poor progress of labour?
 
-Cephalopelvic disproportion. This is a dangerous condition if it is not recognised early and not correctly managed.
+*Cephalopelvic disproportion*. This is a dangerous condition if it is not recognised early and not correctly managed.
 
-Inadequate uterine action. This is a common cause of poor progress in primigravidas. It can be easily corrected with an oxytocin infusion.
+*Inadequate uterine action*. This is a common cause of poor progress in primigravidas. It can be easily corrected with an oxytocin infusion.
 
-8-30 What must be done after the patient has been systematically evaluated to determine the cause of the poor progress of labour?
+### 8-30 What must be done after the patient has been systematically evaluated to determine the cause of the poor progress of labour?
 
 The nurse attending to the patient must inform the doctor about the clinical findings. Together they must decide on the cause of the slow progress and what action must be taken to correct this problem.
 
@@ -6010,7 +5243,7 @@ Ineffective uterine contractions	Analgesia followed by an oxytocin infusion
 
 Cephalopelvic disproportion
 
-8-31 How will you know when poor progress is due to cephalopelvic disproportion?
+### 8-31 How will you know when poor progress is due to cephalopelvic disproportion?
 
 This can be recognised by the following findings:
 
@@ -6022,11 +5255,11 @@ Cephalopelvic disproportion may already be present when the patient is admitted.
 
 A high fetal head (3/5 or more above the brim) on abdominal examination, with 3+ moulding on vaginal examination, indicates cephalopelvic disproportion.
 
-8-32 Does a patient’s cervix always dilate at a rate slower than 1 cm per hour if cephalopelvic disproportion is present?
+### 8-32 Does a patient’s cervix always dilate at a rate slower than 1 cm per hour if cephalopelvic disproportion is present?
 
 When there is cephalopelvic disproportion, the cervix usually dilates at a rate slower than 1 cm per hour, but the cervix may dilate normally, even though the fetal head remains high due to cephalopelvic disproportion. This is a dangerous situation as it may be incorrectly concluded that labour is progressing normally.
 
-8-33 What features would make you diagnose cephalopelvic disproportion when the fetal head is not descending into the pelvis?
+### 8-33 What features would make you diagnose cephalopelvic disproportion when the fetal head is not descending into the pelvis?
 
 Often, especially in multiparous patients, the head does not descend into the pelvis until late in the active phase of the first stage of labour. However, when the head does not descend into the pelvis, you should look for possible causes:
 
@@ -6046,7 +5279,7 @@ The maternal and fetal conditions are good.
 
 The next complete physical examination must be repeated within 2 hours.
 
-8-34 What should you do if you decide that the poor progress is due to cephalopelvic disproportion?
+### 8-34 What should you do if you decide that the poor progress is due to cephalopelvic disproportion?
 
 Once the diagnosis of cephalopelvic disproportion has been made, the infant must be delivered as soon as possible. This means that a Caesarean section will have to be done.
 
@@ -6054,7 +5287,7 @@ While the preparations for Caesarean section are being made, it is of value to b
 
 Inadequate uterine action
 
-8-35 What should you do if you decide that the poor progress is due to inadequate or ineffective uterine contractions?
+### 8-35 What should you do if you decide that the poor progress is due to inadequate or ineffective uterine contractions?
 
 Provided there are no contraindications, the patient must be given an oxytocin infusion in order to strengthen the contractions.
 
@@ -6068,9 +5301,9 @@ If at this stage the patient is still in a peripheral clinic, there should be en
 
 Patients who complain of painful contractions need analgesia before oxytocin is started.
 
-8-36 What are the contraindications to the use of oxytocin in order to strengthen contractions in the first stage of labour?
+### 8-36 What are the contraindications to the use of oxytocin in order to strengthen contractions in the first stage of labour?
 
-Evidence of cephalopelvic disproportion. Oxytocin must, therefore, not be given if there is already moulding (i.e. 2+ or 3+) present.
+Evidence of cephalopelvic disproportion. Oxytocin must, therefore, *not* be given if there is already moulding (i.e. 2+ or 3+) present.
 
 Any patient with a scar of the uterus, e.g. from a previous Caesarean section.
 
@@ -6087,7 +5320,7 @@ Patients with poor kidney function or heart valve disease.
 Note
 :	Oxytocin has an antidiuretic effect, so there is a danger of the patient developing pulmonary oedema. Hyperstimulation must be avoided if an oxytocin infusion is used. 5 or more contractions in 10 minutes, or contractions lasting longer than 60 seconds, indicate hyperstimulation.
 
-8-37 How must oxytocin be administered when it is used during the first stage of labour?
+### 8-37 How must oxytocin be administered when it is used during the first stage of labour?
 
 The following is a good method:
 
@@ -6102,7 +5335,7 @@ If there are still inadequate contractions with 1 unit of oxytocin per litre at 
 Note
 :	The starting dose of oxytocin is 1 milliunit (mUnit) per minute and the maximum dose 12 mU per minute which is line with international dose recommendations.
 
-3-38 What are the effects of a long labour?
+### 8-38 What are the effects of a long labour?
 
 Both the mother and fetus may be affected.
 
@@ -6120,7 +5353,7 @@ The referral of patients with poor progress during the active phase of the first
 
 The guidelines for referral will vary from region to region, depending on the distances between clinics and hospitals, and the availability of transport. In general, arrangements must be made so that the patient will be under the care of the responsible doctor by the time the graph depicting cervical dilatation crosses the action line.
 
-8-39 What arrangements should you make to ensure the patient’s safety during transfer to hospital, if there is poor progress of labour?
+### 8-39 What arrangements should you make to ensure the patient’s safety during transfer to hospital, if there is poor progress of labour?
 
 An intravenous infusion must be started.
 
@@ -6132,21 +5365,21 @@ If cephalopelvic disproportion is the cause of the poor progress of labour, the 
 
 Prolapse of the umbilical cord
 
-8-40 Why is prolapse of the umbilical cord a serious complication?
+### 8-40 Why is prolapse of the umbilical cord a serious complication?
 
 Because the flow of blood between the fetus and placenta is severely reduced and may stop completely, causing fetal distress and possibly fetal death.
 
-8-41 What is the difference between a cord presentation and a cord prolapse?
+### 8-41 What is the difference between a cord presentation and a cord prolapse?
 
-With a cord presentation, the umbilical cord lies in front of the presenting part with the membranes still intact.
+With a cord presentation, the umbilical cord lies in front of the presenting part with the *membranes still intact*.
 
-With a cord prolapse, the cord lies in front of the presenting part and the membranes have ruptured. The loose cord may lie between the presenting part of the fetus and the cervix, in the vagina or outside the vagina.
+With a cord prolapse, the cord lies in front of the presenting part and the *membranes have ruptured*. The loose cord may lie between the presenting part of the fetus and the cervix, in the vagina or outside the vagina.
 
-8-42 How should a cord presentation be managed?
+### 8-42 How should a cord presentation be managed?
 
 If the cord is felt between the membranes and the presenting part of the fetus, if the fetus is alive and is viable and if the patient is in labour, a Caesarean section must be done. This will prevent a cord prolapse when the membranes rupture.
 
-8-43 Which patients are at risk of a prolapsed cord?
+### 8-43 Which patients are at risk of a prolapsed cord?
 
 Patients in labour with an abnormal lie (e.g. transverse lie) or an abnormal presentation (e.g. breech presentation).
 
@@ -6158,11 +5391,11 @@ Patients in preterm labour where the presenting part is small relative to the pe
 
 Patients with a multiple pregnancy, where preterm labour, abnormal lie and polyhydramnios are common.
 
-8-44 What should be done when a patient, who is at high risk of prolapse of the cord, ruptures her membranes?
+### 8-44 What should be done when a patient, who is at high risk of prolapse of the cord, ruptures her membranes?
 
 A sterile vaginal examination must immediately be done to determine whether the cord has prolapsed.
 
-8-45 What is the management of a prolapsed cord?
+### 8-45 What is the management of a prolapsed cord?
 
 A vaginal examination must be done immediately.
 
@@ -6178,17 +5411,17 @@ Put a Foley catheter into the patient’s bladder and fill the bladder with 500 
 
 If the full bladder does not lift the presenting part off the prolapsed cord, the presenting part must be pushed up by an assistant’s hand in the vagina, and by turning the patient into the knee-chest position.
 
-8-46 Why should the cord carefully be replaced in the vagina?
+### 8-46 Why should the cord carefully be replaced in the vagina?
 
 The cord must not be allowed to become cold or dry as this will produce vasospasm and, thereby, further reduce the blood flow through the cord.
 
-8-47 Why are oxygen and salbutamol given to a patient with a prolapsed cord?
+### 8-47 Why are oxygen and salbutamol given to a patient with a prolapsed cord?
 
 Giving oxygen to the patient may improve the oxygen supply to the fetus.
 
 Stopping uterine contractions will reduce the pressure of the presenting part on the prolapsed cord.
 
-8-48 Should a Caesarean section be done on all women with a prolapsed cord if the infant cannot be rapidly delivered vaginally?
+### 8-48 Should a Caesarean section be done on all women with a prolapsed cord if the infant cannot be rapidly delivered vaginally?
 
 No. A Caesarean section is only done if the infant is potentially viable (28 weeks or more) and the cord is still pulsating. Otherwise the infant should be delivered vaginally as the chances of survival are then extremely small.
 
@@ -6196,7 +5429,7 @@ HIV positive women
 
 On admission to the labour ward the HIV status of all pregnant women must be established, documented and the correct anti-retroviral (ARV) medication prescribed.
 
-8-49 How should antiretroviral medication be administered to HIV positive women during labour?
+### 8-49 How should antiretroviral medication be administered to HIV positive women during labour?
 
 Women who have been on ARV prophylaxis or treatment during pregnancy should continue taking their daily dose of FDC throughout labour. They do not need any additional ARV drugs in labour.
 
@@ -6294,11 +5527,11 @@ If there is steady progress of labour, the maternal and fetal conditions are goo
 
 8A
 
-Skills workshop: Examination of the abdomen in labour
+Skills: Examination of the abdomen in labour
 
 Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
 Assess the size of the fetus.
 
@@ -6316,7 +5549,7 @@ The abdominal examination forms an important part of every complete physical exa
 
 On admission.
 
-Before every vaginal examination.
+Before *every* vaginal examination.
 
 At any other time when it is considered necessary.
 
@@ -6380,9 +5613,9 @@ If the presentation is cephalic, it is sometimes possible when palpating the abd
 
 H. Descent and engagement of the head
 
-This assessment is an essential part of every examination of a patient in labour. The descent and engagement of the head is an important part of assessing the progress of labour and must be assessed before each vaginal examination.
+This assessment is an essential part of *every* examination of a patient in labour. The descent and engagement of the head is an important part of assessing the progress of labour and must be assessed before each vaginal examination.
 
-The amount of descent and engagement of the head is assessed by feeling how many fifths of the head are palpable above the brim of the pelvis:
+The amount of descent and engagement of the head is assessed by feeling how many fifths of the head are palpable *above* the brim of the pelvis:
 
 5/5 of the head palpable means that the whole head is above the inlet of the pelvis.
 
@@ -6424,7 +5657,7 @@ An abruptio placentae.
 
 A ruptured uterus.
 
-Therefore, there is likely to be a serious problem if the uterus is harder than normal and there is also tenderness without periods of relaxation. Hardness or tenderness of the uterus must be recorded on the partogram and reported immediately to the responsible doctor.
+Therefore, there is likely to be a serious problem if the uterus is harder than normal *and* there is also tenderness without periods of relaxation. Hardness or tenderness of the uterus must be recorded on the partogram and reported immediately to the responsible doctor.
 
 Assessing contractions
 
@@ -6452,11 +5685,11 @@ The fetal heart rate must be detected and the fetal heart rate pattern assessed 
 
 8B
 
-Skills workshop: Vaginal examination in labour
+Skills: Vaginal examination in labour
 
 Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
 Perform a complete vaginal examination during labour.
 
@@ -6500,7 +5733,7 @@ The person to do the vaginal examination must have either scrubbed or thoroughly
 
 Sterile gloves must be worn.
 
-The examiner must think about the findings, and their significance for the patient and the management of her labour.
+The examiner must *think* about the findings, and their significance for the patient and the management of her labour.
 
 Procedure of examination
 
@@ -6540,7 +5773,7 @@ A vaginal stricture or septum.
 
 Presentation or prolapse of the umbilical cord.
 
-A speculum examination, not a digital examination, must be done if it is thought that the patient has preterm or prelabour rupture of the membranes.
+A speculum examination, *not* a digital examination, must be done if it is thought that the patient has preterm or prelabour rupture of the membranes.
 
 The cervix
 
@@ -6600,9 +5833,9 @@ H. Assessing the presenting part
 
 The presenting part is usually the head but may be the breech, the arm, or the shoulder.
 
-Features of an occiput presentation. The posterior fontanelle is normally felt. It is a small triangular space. In contrast, the anterior fontanelle is diamond shaped. If the head is well flexed, the anterior fontanelle will not be felt. If the anterior fontanelle can be easily felt, the head is deflexed and the presenting part the vault.
+*Features of an occiput presentation*. The posterior fontanelle is normally felt. It is a small triangular space. In contrast, the anterior fontanelle is diamond shaped. If the head is well flexed, the anterior fontanelle will not be felt. If the anterior fontanelle can be easily felt, the head is deflexed and the presenting part the vault.
 
-Features of a face presentation. On abdominal examination the presenting part is the head. However, on vaginal examination:
+*Features of a face presentation*. On abdominal examination the presenting part is the head. However, on vaginal examination:
 
 Instead of a firm skull, something soft is felt.
 
@@ -6616,9 +5849,9 @@ The ears may be felt.
 
 
 
-Features of a brow presentation. The presenting part is high. The anterior fontanelle is felt on one side of the pelvis, the root of the nose on the other side, and the orbital ridges may be felt laterally.
+*Features of a brow presentation*. The presenting part is high. The anterior fontanelle is felt on one side of the pelvis, the root of the nose on the other side, and the orbital ridges may be felt laterally.
 
-Features of a breech presentation. On abdominal examination the presenting part is the breech (soft and triangular). On vaginal examination:
+*Features of a breech presentation*. On abdominal examination the presenting part is the breech (soft and triangular). On vaginal examination:
 
 Instead of a firm skull, something soft is felt.
 
@@ -6626,7 +5859,7 @@ The anus does not have gum margins.
 
 The anus and the ischial tuberosities form a straight line.
 
-Features of a shoulder presentation. On abdominal examination the lie will be transverse or oblique. Features of a shoulder presentation on vaginal examination will be quite easy if the arm has prolapsed. The shoulder is not always that easy to identify, unless the arm can be felt. The presenting part is usually high.
+*Features of a shoulder presentation*. On abdominal examination the lie will be transverse or oblique. Features of a shoulder presentation on vaginal examination will be quite easy if the arm has prolapsed. The shoulder is not always that easy to identify, unless the arm can be felt. The presenting part is usually high.
 
 I. Determining the position of the presenting part
 
@@ -6678,7 +5911,7 @@ To assess the size of the pelvic outlet, the subpubic angle, intertuberous diame
 
 It is important to use a step-by-step method to assess the pelvis.
 
-Step 1. The sacrum
+*Step 1. The sacrum*
 
 Start with the sacral promontory and follow the curve of the sacrum down the midline.
 
@@ -6686,7 +5919,7 @@ An adequate pelvis: The promontory cannot be easily palpated, the sacrum is well
 
 A small pelvis: The promontory is easily palpated and prominent, the sacrum is straight, and the coccyx is prominent and/or fixed.
 
-Step 2. The ischial spines and sacrospinous ligaments
+*Step 2. The ischial spines and sacrospinous ligaments*
 
 Lateral to the midsacrum, the sacrospinous ligaments can be felt. If these ligaments are followed laterally, the ischial spines can be palpated.
 
@@ -6694,7 +5927,7 @@ An adequate pelvis: 2 fingers can be placed on the sacrospinous ligaments (i.e. 
 
 A small pelvis: The ligaments allow less than 2 fingers and the spines are prominent and sharp.
 
-Step 3. Retropubic area
+*Step 3. Retropubic area*
 
 Put 2 examining fingers, with the palm of the hand facing upwards, behind the symphysis pubis and then move them laterally to both sides:
 
@@ -6702,7 +5935,7 @@ An adequate pelvis: The retropubic area is flat.
 
 A small pelvis: The retropubic area is angulated.
 
-Step 4. The subpubic angle and intertuberous diameter
+*Step 4. The subpubic angle and intertuberous diameter*
 
 To measure the subpubic angle, the examining fingers are turned so that the palm of the hand faces upward, a third finger is held at the entrance of the vagina (introitus) and the angle under the pubis felt. The intertuberous diameter is measured with the knuckles of a closed fist placed between the ischial tuberosities.
 
@@ -6712,11 +5945,11 @@ A small pelvis: The subpubic angle allows only 2 fingers (i.e. an angle of about
 
 8C
 
-Skills workshop: Recording observations on the partogram
+Skills: Recording observations on the partogram
 
 Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
 Record and assess the condition of the mother.
 
@@ -6756,11 +5989,11 @@ D. Recording the liquor findings
 
 Three symbols are used:
 
-I = Intact membranes.
+I = *Intact* membranes.
 
-C = Clear liquor draining.
+C = *Clear* liquor draining.
 
-M = Meconium-stained liquor draining (see figure 8C-3).
+M = *Meconium-stained* liquor draining (see figure 8C-3).
 
 E. How often should you record the liquor findings?
 
@@ -6948,11 +6181,11 @@ Diagnose and manage impacted shoulders.
 
 The normal second stage of labour
 
-9-1 What clinical signs indicate the start and end of the second stage of labour?
+### 9-1 What clinical signs indicate the start and end of the second stage of labour?
 
 The second stage of labour starts when the patient’s cervix is fully dilated and ends when the infant is completely delivered.
 
-9-2 What symptoms and signs indicate that the second stage of labour has begun?
+### 9-2 What symptoms and signs indicate that the second stage of labour has begun?
 
 One or more of the following may occur:
 
@@ -6968,27 +6201,27 @@ The perineum bulges during a contraction as it is stretched by the fetal head.
 
 If the symptoms and signs suggest that the second stage of labour has begun, an abdominal examination to assess the amount of head palpable above the pelvic brim, followed by a vaginal examination, must be done.
 
-9-3 Is there a difference between primigravidas and multigravidas at the start of the second stage of labour?
+### 9-3 Is there a difference between primigravidas and multigravidas at the start of the second stage of labour?
 
 Yes. In primigravidas the head is usually engaged when the cervix reaches full dilatation. In contrast, multigravidas often reach full cervical dilatation when the fetal head is still 3/5 or more palpable above the pelvic brim (i.e. the head is still not engaged).
 
 A patient should only start bearing down when the fetal head distends the perineum and she has a strong urge to bear down.
 
-9-4 What is the definition of engagement of the fetal head?
+### 9-4 What is the definition of engagement of the fetal head?
 
 The fetal head is engaged when the largest transverse diameter of the head (the biparietal diameter) has passed through the pelvic inlet. When the fetal head is engaged, 2/5 or less of the head is palpable above the pelvic brim.
 
 The fetal head is engaged when only 2/5 or less of the head is palpable above the brim of the pelvis.
 
-Engagement usually starts before the onset of labour. Initially 5/5 of the head is palpable above the pelvic brim, but when engagement has been completed, the head is no longer palpable on abdominal examination. Engagement of the head cannot be determined on vaginal examination.
+Engagement usually starts before the onset of labour. Initially 5/5 of the head is palpable above the pelvic brim, but when engagement has been completed, the head is no longer palpable on abdominal examination. Engagement of the head *cannot* be determined on vaginal examination.
 
 Managing the second stage of labour
 
-9-5 Should the patient start bearing down as soon as the cervix is fully dilated?
+### 9-5 Should the patient start bearing down as soon as the cervix is fully dilated?
 
 No. The patient should wait until the fetal head starts to distend the perineum, when she will experience a strong urge to bear down. The fetal head will be engaged with 1/5 of the fetal head palpable above the brim of the pelvis.
 
-9-6 In a patient with a fully dilated cervix, but an unengaged fetal head, when is it safe to wait for engagement before allowing the patient to bear down?
+### 9-6 In a patient with a fully dilated cervix, but an unengaged fetal head, when is it safe to wait for engagement before allowing the patient to bear down?
 
 If there are no signs of fetal distress.
 
@@ -6996,7 +6229,7 @@ If there are no signs of cephalopelvic disproportion.
 
 Waiting for engagement of the head in a patient with a fully dilated cervix should only be allowed if there are no signs of fetal distress or cephalopelvic disproportion.
 
-9-7 How long should you wait before asking the patient to bear down if the cervix is fully dilated but the head is not yet engaged?
+### 9-7 How long should you wait before asking the patient to bear down if the cervix is fully dilated but the head is not yet engaged?
 
 The patient should be assessed after an hour if there are no signs of fetal distress and the maternal observations are normal.
 
@@ -7006,7 +6239,7 @@ If the head has still not engaged after an hour, you can wait a further hour pro
 
 If the head has not engaged after waiting 2 hours, a doctor must carefully examine the patient for cephalopelvic disproportion which may be present as a result of a big fetus or an abnormal presentation of the fetal head. A Caesarean section is most likely indicated.
 
-9-8 In what position should the patient be delivered?
+### 9-8 In what position should the patient be delivered?
 
 The patient is usually delivered on her back (i.e. the dorsal position) because it is easier for the person managing the delivery. However, this position has the disadvantage that it may cause postural hypotension which may result in fetal distress. This problem can be avoided if a firm pillow is placed under one of the patient’s hips so that she is turned 15° onto her side and does not lie flat on her back.
 
@@ -7024,13 +6257,13 @@ The semi-Fowler’s position, where the patient’s back is lifted to 45° from 
 
 The position used during the second stage of labour depends on the patient’s choice and the circumstances under which the delivery is conducted. The position chosen should allow for the best maternal effort at bearing down.
 
-9-9 How would you get the best maternal co-operation during the second stage of labour?
+### 9-9 How would you get the best maternal co-operation during the second stage of labour?
 
 Good communication between the patient and the midwife or doctor is very important. A relationship of trust developed during the first stage of labour will encourage good communication and co-operation during the second stage.
 
 The patient must know what is expected of her during the second stage. The person conducting the delivery should encourage and support the patient and inform her about the progress. Good co-operation and attempts at bearing down should be praised.
 
-9-10 How should you ensure that a patient bears down as effectively as possible?
+### 9-10 How should you ensure that a patient bears down as effectively as possible?
 
 While the patient is passive in the first stage, she must actively use her strength during the second stage of labour to assist the uterine contractions. The more effectively she uses her strength, the shorter the second stage will be.
 
@@ -7048,13 +6281,13 @@ With multigravidas, it is sometimes necessary for the patient to breathe rather 
 
 Good communication between the patient and the person conducting the delivery is very important during labour.
 
-9-11 What observations must be made during the second stage of labour?
+### 9-11 What observations must be made during the second stage of labour?
 
-9-12 How is progress monitored in the second stage of labour?
+### 9-12 How is progress monitored in the second stage of labour?
 
 With every uterine contraction and attempt at bearing down there should be some progress in the descent of the fetal head onto the perineum.
 
-9-13 What should be done if there is no progress in the descent of the head onto the perineum?
+### 9-13 What should be done if there is no progress in the descent of the head onto the perineum?
 
 If the patient has at least 2 contractions in 10 minutes, each lasting 40 seconds or more and there is no progress in the descent of the head after four attempts at bearing down, a doctor must assess the patient for a possible assisted delivery.
 
@@ -7064,33 +6297,33 @@ If there is no progress in the descent of the head, and signs of cephalopelvic d
 
 With strong contractions and good bearing down there should be progress in the descent of the presenting part onto the perineum.
 
-9-14 How should you manage fetal distress in the second stage of labour?
+### 9-14 How should you manage fetal distress in the second stage of labour?
 
 An episiotomy should be done, if the fetal head distends the perineum when the patient bears down, so that the fetus can be delivered with the next contraction.
 
 If the perineum does not bulge with contractions and it appears as if the fetus will not be delivered after the next two efforts at bearing down, then the doctor must be called to assess the patient and possibly perform an assisted delivery. If the prerequisites for an assisted delivery cannot be met an emergency Caesarean section must be done. While preparing the patient, intra-uterine resuscitation must be done.
 
-9-15 How should a normal vaginal delivery be managed?
+### 9-15 How should a normal vaginal delivery be managed?
 
 The midwife or doctor managing the second stage of labour must always be prepared for possible complications. Equipment which may be required must be at hand and in good working order. Drugs which may be needed must be easily available.
 
-Emptying the bladder: Any factor, such as a full bladder, that prevents descent of the fetal head or decreases the strength of uterine contractions should be corrected. Therefore, it is very important for the patient to empty her bladder before starting to bear down.
+*Emptying the bladder*: Any factor, such as a full bladder, that prevents descent of the fetal head or decreases the strength of uterine contractions should be corrected. Therefore, it is very important for the patient to empty her bladder before starting to bear down.
 
-Supporting the perineum: A swab should be placed over the patient’s anus to prevent the vulva, and later the fetal head, being soiled with stool (i.e. faeces). It is important to support the perineum in order to:
+*Supporting the perineum*: A swab should be placed over the patient’s anus to prevent the vulva, and later the fetal head, being soiled with stool (i.e. faeces). It is important to support the perineum in order to:
 
 Increase flexion of the fetal head so that the smallest possible diameter passes through the vagina. This can be done by pressing immediately above the anus.
 
 Relieve the pressure on the perineum. Remember that the perineum must be in view all the time.
 
-Crowning of the head: When the head is crowning, the vaginal outlet is stretched and an episiotomy may be indicated. The midwife or doctor should place one hand on the vertex to prevent sudden delivery of the head. The other hand, supporting the perineum, is now moved upwards to help extend the head. It is important that the fetal head is only controlled and not held back.
+*Crowning of the head*: When the head is crowning, the vaginal outlet is stretched and an episiotomy may be indicated. The midwife or doctor should place one hand on the vertex to prevent sudden delivery of the head. The other hand, supporting the perineum, is now moved upwards to help extend the head. It is important that the fetal head is only controlled and not held back.
 
-Feeling for a cord: Check that the umbilical cord is not wrapped tightly around the infant’s neck. A loose cord can be slipped over the head, but a tight cord should be clamped and cut.
+*Feeling for a cord*: Check that the umbilical cord is not wrapped tightly around the infant’s neck. A loose cord can be slipped over the head, but a tight cord should be clamped and cut.
 
-Delivering of the shoulders and body: With gentle continuous posterior traction on the head and lateral flexion, the anterior shoulder is delivered from under the symphysis pubis. The posterior shoulder is then lifted over the perineum. The rest of the infant’s body is now delivered, following the curve of the birth canal and not by simply pulling it straight out of the vagina.
+*Delivering of the shoulders and body*: With gentle continuous posterior traction on the head and lateral flexion, the anterior shoulder is delivered from under the symphysis pubis. The posterior shoulder is then lifted over the perineum. The rest of the infant’s body is now delivered, following the curve of the birth canal and not by simply pulling it straight out of the vagina.
 
 Episiotomy
 
-9-16 What is the place of an episiotomy in modern midwifery?
+### 9-16 What is the place of an episiotomy in modern midwifery?
 
 An episiotomy is not done routinely but only if there is a good indication, such as:
 
@@ -7116,25 +6349,25 @@ A repaired rectocoele.
 
 When a breech or forceps delivery is done.
 
-9-17 Does a second-degree tear heal faster and with fewer complications than an episiotomy?
+### 9-17 Does a second-degree tear heal faster and with fewer complications than an episiotomy?
 
 Yes. A second-degree tear is easier to repair and heals quicker with less pain and discomfort than an episiotomy. Therefore, a second-degree tear is preferable to an episiotomy. A episiotomy should not be done routinely in primigravidas.
 
 An episiotomy should only be done if there is a definite indication.
 
-9-18 Which type of episiotomy should be done?
+### 9-18 Which type of episiotomy should be done?
 
 Usually a mediolateral episiotomy is done. However, if the midwife or doctor has experience with the technique, a median episiotomy can be done.
 
 Prolonged second stage of labour
 
-9-19 What is the definition of a prolonged second stage of labour?
+### 9-19 What is the definition of a prolonged second stage of labour?
 
 When diagnosing a prolonged second stage the time is usually measured from the start of bearing down. If a primigravida bears down for more than 45 minutes, or a multigravida for more than 30 minutes, without the infant being delivered, a prolonged second stage of labour is diagnosed.
 
 The second stage of labour is prolonged if it lasts longer than 45 minutes in a primigravida or 30 minutes in a multigravida.
 
-9-20 What factors during the antenatal period, or first stage of labour, would indicate that the patient is at an increased risk of a prolonged second stage of labour?
+### 9-20 What factors during the antenatal period, or first stage of labour, would indicate that the patient is at an increased risk of a prolonged second stage of labour?
 
 Factors during the antenatal period which suggest that the patient will deliver a large infant:
 
@@ -7156,7 +6389,7 @@ A patient who progressed normally during the active phase of the first stage of 
 
 Slow progress in the first stage of labour may be followed by a prolonged second stage of labour.
 
-9-21 How should you manage a patient with a prolonged second stage of labour?
+### 9-21 How should you manage a patient with a prolonged second stage of labour?
 
 If a doctor is available, the doctor should assess the patient. Usually an assisted delivery is done once cephalopelvic disproportion has been excluded and 1/5 or no fetal head remains above the pelvic brim. A Caesarean section should be done if cephalopelvic disproportion is present.
 
@@ -7164,7 +6397,7 @@ If a doctor is not available, the patient should be referred to a level 1 or 2 h
 
 A prolonged second stage of labour is a dangerous complication which requires immediate and appropriate management.
 
-9-22 How should a patient with a prolonged second stage of labour be managed during transfer to a hospital for Caesarean section?
+### 9-22 How should a patient with a prolonged second stage of labour be managed during transfer to a hospital for Caesarean section?
 
 The patient should lie on her side and not bear down with contractions. Instead, she should concentrate on her breathing.
 
@@ -7174,11 +6407,11 @@ If there are any signs of fetal distress the patient should be given oxygen by f
 
 Management of impacted shoulders
 
-9-23 Which patients are at high risk of developing impacted shoulders?
+### 9-23 Which patients are at high risk of developing impacted shoulders?
 
 The same patients who are at high risk of a prolonged second stage of labour are also at risk of developing impacted shoulders (shoulder dystocia), i.e. women who probably have a large infant.
 
-9-24 What signs during the second stage of labour indicate that the shoulders are impacted?
+### 9-24 What signs during the second stage of labour indicate that the shoulders are impacted?
 
 Normally the infant’s head is delivered by extension. However, with impacted shoulders the head is held back, does not fall forward on the perineum and does not undergo the normal rotation.
 
@@ -7188,7 +6421,7 @@ Attempts at external rotation, lateral flexion and traction fail to deliver the 
 
 The earlier these signs of impacted shoulders are recognised, the better is the chance that this complication will be successfully managed.
 
-9-25 How should a patient with impacted shoulders be managed?
+### 9-25 How should a patient with impacted shoulders be managed?
 
 The following management should be carefully followed in a step-by-step manner:
 
@@ -7217,13 +6450,13 @@ Impaction of the shoulders is a serious complication and requires fast and effec
 
 Managing the newborn infant
 
-9-26 When should you first suction the infant’s airways at delivery?
+### 9-26 When should you first suction the infant’s airways at delivery?
 
 An infant with meconium-stained liquor: Once the infant’s head has been delivered, do not carry on with the delivery until the infant’s mouth and throat have been well suctioned. If necessary hold the shoulders back until the airways have been cleared. Always suction the mouth first before clearing the nose.
 
 An infant with clear liquor: Suctioning the infant’s airways is not necessary before delivering the shoulders. After delivery suctioning is only needed if the infant does not breathe well.
 
-9-27 What is the immediate management of the infant after a vaginal delivery?
+### 9-27 What is the immediate management of the infant after a vaginal delivery?
 
 Dry the infant very well and assess whether the infant cries or breathes well. If the infant breathes well, leave the infant on the mother’s abdomen and only clamp and cut the umbilical cord after 2 to 3 minutes. If the infant does not breathe well, clamp and cut the cord immediately and move the infant to a convenient place for resuscitation.
 
@@ -7321,11 +6554,11 @@ An immediate attempt must be made to deliver the infant’s posterior arm. The p
 
 9A
 
-Skills workshop: Performing and repairing an episiotomy
+Skills: Performing and repairing an episiotomy
 
 Objectives
 
-When you have completed this skills workshop you should be able to:
+When you have completed this skills chapter you should be able to:
 
 Perform a mediolateral episiotomy.
 
@@ -7355,7 +6588,7 @@ Mediolateral or oblique.
 
 Midline.
 
-The midline episiotomy has the danger that it can extend into the rectum to become a third-degree tear while the mediolateral episiotomy often results in more bleeding. This skills workshop will only deal with the mediolateral episiotomy because it is used most frequently, is safe, and requires the least experience.
+The midline episiotomy has the danger that it can extend into the rectum to become a third-degree tear while the mediolateral episiotomy often results in more bleeding. This skills chapter will only deal with the mediolateral episiotomy because it is used most frequently, is safe, and requires the least experience.
 
 D. Performing a mediolateral episiotomy
 
@@ -7363,11 +6596,11 @@ The incision should only be started during a contraction when the presenting par
 
 E. Problems with episiotomies
 
-The episiotomy is done too soon: This can result in excessive bleeding as the presenting part is not pressing on the perineum. An episiotomy will not help the descent of a high head.
+The episiotomy is done *too soon*: This can result in excessive bleeding as the presenting part is not pressing on the perineum. An episiotomy will not help the descent of a high head.
 
-Extension of the episiotomy by tearing: This is not only a problem in a midline episiotomy. Mediolateral episiotomies may also tear through the anal sphincter into the rectum. However, extension of mediolateral episiotomies are less likely to occur than a midline episiotomy.
+Extension of the episiotomy by *tearing*: This is not only a problem in a midline episiotomy. Mediolateral episiotomies may also tear through the anal sphincter into the rectum. However, extension of mediolateral episiotomies are less likely to occur than a midline episiotomy.
 
-Excessive bleeding may occur:
+Excessive *bleeding* may occur:
 
 When the episiotomy is done too early.
 
@@ -7419,9 +6652,9 @@ The perineal skin.
 
 There are four important steps in the repair of an episiotomy wound.
 
-Step 1: Place a suture (stitch) at the apex of the incision in the vaginal epithelium. Then insert one or two more continuous sutures in the vaginal epithelium. Do not complete suturing the vaginal epithelium when the episiotomy is large or deeply cut but leave this suture and do not cut it. When placing the suture at the apex, be very careful not to prick your finger with the needle.
+*Step 1*: Place a suture (stitch) at the apex of the incision in the vaginal epithelium. Then insert one or two more continuous sutures in the vaginal epithelium. Do not complete suturing the vaginal epithelium when the episiotomy is large or deeply cut but leave this suture and do not cut it. When placing the suture at the apex, be very careful not to prick your finger with the needle.
 
-Step 2: Insert interrupted sutures in the muscles. Start at the apex of the wound. The aim is to bring the muscles together firmly and to eliminate any ‘dead space’, i.e. any spaces between the muscles where blood can collect. Remember that the sutures must be inserted at 90 degrees to the line of the wound.
+*Step 2*: Insert interrupted sutures in the muscles. Start at the apex of the wound. The aim is to bring the muscles together firmly and to eliminate any ‘dead space’, i.e. any spaces between the muscles where blood can collect. Remember that the sutures must be inserted at 90 degrees to the line of the wound.
 
 When suturing the muscles, be careful not to put the suture through the rectum. If you make sure that the point of the needle is seen when crossing from the one side to the other of the deepest part of the wound, the stitch will not be too deep. ‘Figure 8’ stitches (double stitches) are used to suture the muscle layer. When the muscles have been correctly sutured the cut edges of the vaginal epithelium and the skin should be lying close together. The markers for correct alignment are:
 
@@ -7429,9 +6662,9 @@ The remains of the hymen.
 
 The junction of the skin and the vaginal epithelium. The skin is recognised by the darker pigmentation.
 
-Step 3: Return to the vaginal epithelium and complete the continuous catgut suture, ending at the junction with the skin. Do not pull the sutures tight as they only need to bring the edges of the vaginal epithelium together.
+*Step 3*: Return to the vaginal epithelium and complete the continuous catgut suture, ending at the junction with the skin. Do not pull the sutures tight as they only need to bring the edges of the vaginal epithelium together.
 
-Step 4: Use interrupted sutures with an absorbable suture material to repair the perineal skin. Mattress sutures may be used. Do not pull the sutures tight as they only need to bring the edges of the skin together. Sutures that are too tight become uncomfortable for the patient.
+*Step 4*: Use interrupted sutures with an absorbable suture material to repair the perineal skin. Mattress sutures may be used. Do not pull the sutures tight as they only need to bring the edges of the skin together. Sutures that are too tight become uncomfortable for the patient.
 
 When the suturing is complete:
 
@@ -7467,15 +6700,15 @@ Prepare a patient for general anaesthesia.
 
 Pain relief in labour
 
-10-1 What is analgesia?
+### 10-1 What is analgesia?
 
 Analgesia means the relief of pain. Drugs used to relieve pain are called analgesics. Analgesics must not be confused with sedatives which do not relieve pain but only make the patient drowsy.
 
-10-2 What is anaesthesia?
+### 10-2 What is anaesthesia?
 
 Anaesthesia means the loss of all sensation, including pain. Local anaesthesia causes the loss of all sensation in that region of the body. With general anaesthesia the patient loses consciousness.
 
-10-3 What causes pain during labour?
+### 10-3 What causes pain during labour?
 
 Pain in labour is caused by:
 
@@ -7487,11 +6720,11 @@ Vaginal examinations and procedures: Any vaginal examination is uncomfortable an
 
 The amount of pain experienced by patients in labour is very variable. Some patients have little pain, while others have severe pain, even during early labour.
 
-10-4 What will make the pain worse?
+### 10-4 What will make the pain worse?
 
 Anxiety, fear and uncertainty lower the pain threshold. This is particularly noticeable in primigravida patients, especially if they are very young. Pain increases the patient’s anxiety, which in turn reduces her ability to tolerate pain.
 
-10-5 What general measures help to reduce pain during labour?
+### 10-5 What general measures help to reduce pain during labour?
 
 Knowledge of what to expect during labour. This important information should be provided during antenatal visits to patients who will be experiencing labour for the first time.
 
@@ -7501,7 +6734,7 @@ The help and support of a family member, partner, friend, or doula is of great v
 
 Allowing patients to walk around during labour.
 
-10-6 Why is environmental and emotional support important to a patient in labour?
+### 10-6 Why is environmental and emotional support important to a patient in labour?
 
 A patient should be prepared for her labour during the antenatal period. Primigravidas must be told in simple terms what is going to happen during labour. Relaxation exercises and breathing methods can help patients prepare for labour, and should be taught as part of antenatal care.
 
@@ -7513,19 +6746,19 @@ Most patients find it helpful to have someone with them during labour. A lay per
 
 Antenatal preparation and emotional support are important in reducing anxiety and pain during labour.
 
-10-7 Why is it important that labour should be a positive experience?
+### 10-7 Why is it important that labour should be a positive experience?
 
 The chances of breastfeeding successfully are increased.
 
 Patients will manage their infants with greater confidence and master the art of motherhood quicker.
 
-10-8 Why does a patient get pain relief in labour if her lower back is rubbed?
+### 10-8 Why does a patient get pain relief in labour if her lower back is rubbed?
 
 The nerve impulses that come from the lower back travel to the same spinal segments as the nerves from the uterus and cervix. The nerve impulses from the lower back, therefore partially block those from the uterus and cervix. As a result, the pain of contractions is experienced as less painful by the patient if her lower back is rubbed.
 
 Use of analgesics in labour
 
-10-9 Why do you need to give a patient analgesia during labour?
+### 10-9 Why do you need to give a patient analgesia during labour?
 
 As health workers, one of our primary responsibilities is to relieve pain and suffering. All too often pain during labour is regarded as part of a normal process. Therefore, during labour patients should frequently be asked whether they need pain relief. If required, the most appropriate and effective form of analgesia available must be given.
 
@@ -7533,11 +6766,11 @@ The relief of pain often allows labour to progress more rapidly by reducing the 
 
 The relief of pain is very important and must receive careful attention when a patient is cared for during labour.
 
-10-10 Should all patients receive analgesia?
+### 10-10 Should all patients receive analgesia?
 
 No. Some patients have little pain in labour and, therefore, may not need an analgesic. Other patients feel that they are able to tolerate the pain of uterine contractions, e.g. by concentrating on their breathing, and choose not to have analgesia. It is important to consider the patient’s wishes when deciding whether or not to give analgesia. However, most patients do need analgesia during labour.
 
-10-11 When do you give analgesia to a patient in labour?
+### 10-11 When do you give analgesia to a patient in labour?
 
 In the first stage of labour:
 
@@ -7559,7 +6792,7 @@ In the third stage of labour:
 
 When an episiotomy or perineal tear is repaired.
 
-10-12 What methods of providing analgesia can you use?
+### 10-12 What methods of providing analgesia can you use?
 
 General measures, as mentioned in sections 10-5 and 10-6.
 
@@ -7575,11 +6808,11 @@ Epidural anaesthesia.
 
 General anaesthesia.
 
-10-13 Which analgesic drug is commonly used in the first stage of labour?
+### 10-13 Which analgesic drug is commonly used in the first stage of labour?
 
 Pethidine. This drug is a powerful analgesic but commonly causes nausea and vomiting as a side effect. Pethidine also produces some sedation.
 
-10-14 What drug is often given together with pethidine?
+### 10-14 What drug is often given together with pethidine?
 
 Promethazine (Phenegan) or hydroxyzine (Aterax). They combine well with pethidine for three reasons:
 
@@ -7591,7 +6824,7 @@ They increase the analgesic effect of pethidine.
 
 The dose of promethazine is 25 mg and hydroxyzine is 100 mg, irrespective of the amount of pethidine given.
 
-10-15 What are the actions of pethidine?
+### 10-15 What are the actions of pethidine?
 
 It is a powerful analgesic which causes depression of the central nervous system. Large doses can therefore cause respiratory depression. A drop in blood pressure may also occur. Pethidine crosses the placenta and can cause respiratory depression in the newborn infant who may, therefore, need resuscitation at birth.
 
@@ -7602,7 +6835,7 @@ Note
 
 An overdose of pethidine may cause respiratory depression in both the mother and her infant.
 
-10-16 How is pethidine usually given and how long is its duration of action?
+### 10-16 How is pethidine usually given and how long is its duration of action?
 
 The intramuscular route:
 
@@ -7616,25 +6849,25 @@ This method may be used if the patient requires analgesia urgently and the cervi
 
 Pain relief is experienced within 5 minutes and the duration of action will be about 2 hours.
 
-10-17 What dose of pethidine should be given?
+### 10-17 What dose of pethidine should be given?
 
 The intramuscular route: 2 mg/kg body weight. Therefore, 100 to 150 mg is usually given. Patients weighing less than 50 kg must receive 75 mg.
 
 The intravenous route: 1 mg/kg body weight. Therefore, 50 to 75 mg is usually given. Obese patients weighing more than 75 kg must not receive more than 75 mg. An intravenous infusion must first be started before the drug is given.
 
-10-18 How close to full dilatation may pethidine be given?
+### 10-18 How close to full dilatation may pethidine be given?
 
 There is no limit to how late in labour pethidine can be given. If the patient needs analgesia she should be given the appropriate dose. However, if she receives pethidine within 6 hours of delivery, the infant may have respiratory depression at birth.
 
 Pethidine may be given late in labour if needed.
 
-10-19 How often may pethidine be given in labour?
+### 10-19 How often may pethidine be given in labour?
 
 If an adequate dose of intramuscular pethidine is given, it is usually not necessary to repeat the drug within 4 hours. (In South Africa registered nurses are allowed by law to give 100 mg pethidine by intramuscular injection during labour, without a doctor’s prescription, and to repeat the injection after an interval of 4 hours or more.)
 
 Naloxone
 
-10-20 How should you treat respiratory depression due to pethidine in a newborn infant?
+### 10-20 How should you treat respiratory depression due to pethidine in a newborn infant?
 
 Naloxone (Narcan) is a specific antidote to pethidine (and morphine) and will reverse the effects of the drug.
 
@@ -7644,17 +6877,17 @@ Research has shown that the previously recommended dose (0.01 mg/kg) of neonatal
 
 Infants who do not breathe well after delivery should only receive naloxone if their mothers were given pethidine or morphine during labour.
 
-10-21 How should naloxone be given?
+### 10-21 How should naloxone be given?
 
 Usually naloxone is given to a newborn infant by intramuscular injection into the anterolateral aspect of the thigh. The drug will reverse the effects of pethidine. Meanwhile, it is important to continue ventilating the infant. Naloxone can also be given intravenously. The drug acts more rapidly when given intravenously, e.g. into the umbilical vein.
 
-10-22 Is a single dose of naloxone adequate?
+### 10-22 Is a single dose of naloxone adequate?
 
 Yes. A single dose of naloxone is almost always adequate to reverse the respiratory depression caused by pethidine. The action lasts about 30 minutes. Some infants may become lethargic after 30 minutes and may then require a second dose of naloxone.
 
 Sedation during labour
 
-10-23 Are sedatives useful in labour?
+### 10-23 Are sedatives useful in labour?
 
 In practice there are very few indications for the use of sedatives in labour. If a patient is restless or distressed, it is almost always because of pain and she therefore needs analgesia. The tranquillising effect of promethazine (Phenegan) or hydroxyzine (Aterax) together with pethidine will provide sufficient sedation for a restless patient. The dose is 25 mg promethazine (Phenegan) and 100 mg hydroxyzine (Aterax).
 
@@ -7662,7 +6895,7 @@ There is no role for sedation with diazepam (Valium) and barbiturates. Sedatives
 
 Inhalational analgesia
 
-10-24 What inhalational analgesia is available?
+### 10-24 What inhalational analgesia is available?
 
 The most commonly used inhalational analgesic is Entonox. This is a mixture of 50% nitrous oxide and 50% oxygen. It is usually supplied in cylinders and is breathed in by the patient through a mask when she needs pain relief.
 
@@ -7684,11 +6917,11 @@ It is not always effective because the patient needs to start inhaling the gas a
 
 Patients often hyperventilate and get ‘pins and needles’ in their face and hands.
 
-10-25 Which patients should preferably use Entonox?
+### 10-25 Which patients should preferably use Entonox?
 
 A patient requiring analgesia for the first time in advanced labour, where the delivery is expected within an hour.
 
-10-26 Does Entonox have any serious side effects?
+### 10-26 Does Entonox have any serious side effects?
 
 No. Entonox is completely safe and cannot be used in excessive doses.
 
@@ -7696,13 +6929,13 @@ Entonox is a completely safe analgesic.
 
 Local anaesthesia
 
-10-27 What is a local anaesthetic?
+### 10-27 What is a local anaesthetic?
 
 Local anaesthetics are drugs which are injected into the tissues and which result in a loss of all sensation in the injected area. Local anaesthetics often give a burning sensation which lasts 1 to 2 minutes while they are being injected. The patient should be warned about this before starting the injection.
 
-Lignocaine (Xylocaine) is the local anaesthetic used most commonly. Although available in different concentrations it is best to only use the 1% solution. The possibility of giving an overdose will then be reduced.
+Lignocaine (Xylocaine) is the local anaesthetic used most commonly. Although available in different concentrations it is best to *only* use the 1% solution. The possibility of giving an overdose will then be reduced.
 
-10-28 When should you use a local anaesthetic?
+### 10-28 When should you use a local anaesthetic?
 
 There are two main indications for local anaesthesia in labour:
 
@@ -7710,7 +6943,7 @@ When performing an episiotomy, or when repairing an episiotomy or perineal tear.
 
 When performing a pudendal block. The local anaesthetic acts on the pudendal nerves, and is usually given before an instrumental delivery.
 
-10-29 What are the risks of local anaesthesia?
+### 10-29 What are the risks of local anaesthesia?
 
 Too much local anaesthetic is dangerous and may cause convulsions. The maximum dose of a 1% solution of lignocaine (Xylocaine) for a patient of average size is 20 ml.
 
@@ -7720,13 +6953,13 @@ The maximum safe dose of lignocaine is 3 mg/kg body weight. 1 ml of a 1% lignoca
 
 An overdose, or intravenous injection, of a local anaesthetic may cause convulsions.
 
-10-30 What is the duration of action of lignocaine?
+### 10-30 What is the duration of action of lignocaine?
 
 Lignocaine results in loss of sensation in the infiltrated area for 45 minutes. If the maximum dose has already been given but more local anaesthetic is required, a further 10 ml of 1% lignocaine may be given after 30 minutes.
 
 Epidural anaesthesia
 
-10-31 What are the indications for epidural anaesthesia?
+### 10-31 What are the indications for epidural anaesthesia?
 
 When there is poor progress during the active phase of the first stage of labour, e.g. due to an occipito-posterior position.
 
@@ -7738,7 +6971,7 @@ Caesarean sections may also be done under epidural anaesthesia.
 
 This is the ideal form of local anaesthesia as it offers the patient complete pain relief. Unfortunately special training and equipment are necessary for giving epidural anaesthesia and, therefore, it is only available in most level 2 and 3 hospitals.
 
-10-32 What special nursing care is required following an epidural anaesthetic?
+### 10-32 What special nursing care is required following an epidural anaesthetic?
 
 There is a danger of hypotension following the administration of the first and each further dose of the local anaesthetic. The patient’s blood pressure must be taken every 5 minutes for 30 minutes following each dose of the local anaesthetic.
 
@@ -7746,7 +6979,7 @@ Depending on the amount of anaesthesia achieved, patients often cannot pass urin
 
 General anaesthesia
 
-10-33 What are the dangers for a pregnant or postpartum patient when receiving a general anaesthetic?
+### 10-33 What are the dangers for a pregnant or postpartum patient when receiving a general anaesthetic?
 
 Any pregnant or postpartum patient who receives a general anaesthetic has a very high risk of vomiting and aspirating her stomach contents because:
 
@@ -7758,7 +6991,7 @@ The intra-abdominal pressure is increased.
 
 Patients who have been starved must be managed in the same way as patients who have recently eaten. During a general anaesthesic, the risk of the patient vomiting is particularly high during intubation and extubation.
 
-10-34 What precautions must be taken preoperatively that will reduce the dangers of vomiting?
+### 10-34 What precautions must be taken preoperatively that will reduce the dangers of vomiting?
 
 A patient who may require a general anaesthetic should be kept nil per mouth (i.e. she should be starved).
 
@@ -7899,15 +7132,15 @@ Prevent infection of the staff with HIV at delivery.
 
 The normal third stage of labour
 
-11-1 What is the third stage of labour?
+### 11-1 What is the third stage of labour?
 
 The third stage of labour starts immediately after the delivery of the infant and ends with the delivery of the placenta and membranes.
 
-11-2 How long does the normal third stage of labour last?
+### 11-2 How long does the normal third stage of labour last?
 
 The normal duration of the third stage of labour depends on the method used to deliver the placenta. It usually lasts less than 30 minutes, and mostly only 2 to 5 minutes.
 
-11-3 What happens during the third stage of labour?
+### 11-3 What happens during the third stage of labour?
 
 Uterine contractions continue, although less frequently than in the second stage.
 
@@ -7917,7 +7150,7 @@ The placenta is squeezed out of the upper uterine segment into the lower uterine
 
 The contraction of the uterine muscle compresses the uterine blood vessels and this prevents bleeding. Thereafter, clotting (coagulation) takes place in the uterine blood vessels due to the normal clotting mechanism.
 
-11-4 Why is the third stage of labour important?
+### 11-4 Why is the third stage of labour important?
 
 Excessive bleeding is a common complication during the third stage of labour. Therefore, the third stage, if not correctly managed, can be an extremely dangerous time for the patient. Postpartum haemorrhage is the commonest cause of maternal death in some developing countries.
 
@@ -7925,7 +7158,7 @@ The third stage of labour can be a very dangerous time and, therefore, must be c
 
 Managing the third stage of labour
 
-11-5 How should the third stage of labour be managed?
+### 11-5 How should the third stage of labour be managed?
 
 There are two ways of managing the third stage of labour:
 
@@ -7935,11 +7168,11 @@ The passive method.
 
 Whenever possible, the active method should be used. However, a midwife working on her own may need to use the passive method. 
 
-Midwives who choose to use the passive method of managing the third stage of labour must also be able to confidently use the active method, as this method may have to be used in some patients.
+Midwives who choose to use the passive method of managing the third stage of labour *must* also be able to confidently use the active method, as this method may have to be used in some patients.
 
 Everybody conducting a delivery must be able to use the active method of managing the third stage of labour.
 
-11-6 What is the active management of the third stage of labour?
+### 11-6 What is the active management of the third stage of labour?
 
 Immediately after the delivery of the infant, an abdominal examination is done to exclude a second twin.
 
@@ -7960,7 +7193,7 @@ Once this occurs, continuous light traction on the umbilical cord will now deliv
 
 If placental separation does not take place during the first uterine contraction after giving the oxytocic drug, wait until the next contraction occurs and then repeat the manoeuvre.
 
-11-7 Which oxytocic drug is usually given during the third stage of labour?
+### 11-7 Which oxytocic drug is usually given during the third stage of labour?
 
 One of the following two drugs is generally given:
 
@@ -7973,13 +7206,13 @@ Oxytocin (Syntocinon) is the drug of choice. However, as Syntometrine is still g
 Note
 :	The latest information in the Cochrane Library indicates that the best drug and dosage to use is oxytocin 10 units.
 
-11-8 What are the actions of the two components of Syntometrine?
+### 11-8 What are the actions of the two components of Syntometrine?
 
 Oxytocin causes physiological uterine contractions which start 2 to 3 minutes after an intramuscular injection and continue for approximately 1 to 3 hours.
 
 Ergometrine causes a tonic contraction of the uterus which starts 5 to 6 minutes after an intramuscular injection and continues for about 3 hours.
 
-11-9 What are the contraindications to the use of Syntometrine?
+### 11-9 What are the contraindications to the use of Syntometrine?
 
 Syntometrine contains ergometrine and, therefore, should not be used if:
 
@@ -7989,11 +7222,11 @@ The patient has heart valve disease. Tonic contraction of the uterus pushes a la
 
 Make sure that there are no contraindications before using Syntometrine.
 
-11-10 What oxytocic drug should be used if there is a contraindication to the use of Syntometrine?
+### 11-10 What oxytocic drug should be used if there is a contraindication to the use of Syntometrine?
 
 Oxytocin (Syntocinon) should be used. An intravenous infusion of 10 units oxytocin in 200 ml normal saline is given at a rate of 30 drops per minute (20 drops per ml dropper) or 10 units oxytocin are given by intramuscular injection.
 
-11-11 What is the passive method of managing the third stage of labour?
+### 11-11 What is the passive method of managing the third stage of labour?
 
 After delivery of the infant the signs of placental separation are waited for.
 
@@ -8001,7 +7234,7 @@ When the signs of placental separation appear, the patient is asked to bear down
 
 Only after the placenta has been delivered is an oxytocic drug given.
 
-11-12 What are the signs of placental separation?
+### 11-12 What are the signs of placental separation?
 
 Uterine contraction.
 
@@ -8013,7 +7246,7 @@ An amount of blood suddenly escapes from the vagina.
 
 Separation of the placenta can now be confirmed by applying suprapubic pressure. The placenta has definitely separated if the umbilical cord does not shorten when the uterus is pushed up (no cord retraction).
 
-11-13 What are the advantages and disadvantages of the active method of managing the third stage of labour?
+### 11-13 What are the advantages and disadvantages of the active method of managing the third stage of labour?
 
 Advantages:
 
@@ -8029,7 +7262,7 @@ The risk of a retained placenta is increased if the active method is not carried
 
 Excessive traction on the umbilical cord can result in inversion of the uterus, especially if the fundus of the uterus is not supported by placing a hand above the bladder on the abdomen.
 
-11-14 What are the advantages and disadvantages of the passive method of managing the third stage of labour?
+### 11-14 What are the advantages and disadvantages of the passive method of managing the third stage of labour?
 
 Advantages:
 
@@ -8047,33 +7280,33 @@ there is excessive bleeding before delivery of the placenta.
 
 the placenta does not separate spontaneously.
 
-11-15 When should the active method be used and when should the passive method be used in the management of the third stage of labour?
+### 11-15 When should the active method be used and when should the passive method be used in the management of the third stage of labour?
 
-The active method:
+The *active* method:
 
 Midwives and doctors working in level 2 and 3 hospitals usually use the active method, as an assistant is generally available at delivery.
 
 This method should be used when dealing with intermediate- and high-risk patients.
 
-The passive method:
+The *passive* method:
 
 Midwives working in a peripheral clinic or level 1 hospital may find this method useful, when they do not have an assistant while conducting a delivery.
 
 This method is safe in most low-risk patients managed in clinics and hospitals.
 
-11-16 How long can you safely wait for signs of placental separation, if the passive method of managing the third stage is used?
+### 11-16 How long can you safely wait for signs of placental separation, if the passive method of managing the third stage is used?
 
 If the signs of placental separation have still not appeared 30 minutes after the start of the third stage of labour, then an oxytocic drug must be given and the active management of the third stage must be used.
 
-11-17 Should the umbilical cord be allowed to bleed before the placenta is delivered or should the forceps be left in place on the umbilical cord?
+### 11-17 Should the umbilical cord be allowed to bleed before the placenta is delivered or should the forceps be left in place on the umbilical cord?
 
-The umbilical cord must not be allowed to bleed after the delivery of the first infant in a multiple pregnancy. In identical twins with a single placenta (monochorionic placenta), the undelivered second twin may bleed to death if the umbilical cord of the firstborn infant is allowed to bleed.
+The umbilical cord must *not* be allowed to bleed after the delivery of the first infant in a multiple pregnancy. In identical twins with a single placenta (monochorionic placenta), the undelivered second twin may bleed to death if the umbilical cord of the firstborn infant is allowed to bleed.
 
 The umbilical cord should be allowed to bleed if the patient’s blood group is Rhesus negative (Rh negative) with a single fetus. This will reduce the risk of fetal blood crossing the placenta to the mother’s circulation and, thereby, sensitising the patient. Nevertheless, anti-D immunoglobulin must always be given to these patients.
 
 Allowing the umbilical cord to bleed during the third stage of labour reduces the placental volume and, thereby, speeds up the separation of the placenta. As a general rule, the umbilical cord should be allowed to bleed once a multiple pregnancy has been excluded.
 
-11-18 What recordings must always be made during and after the third stage of labour?
+### 11-18 What recordings must always be made during and after the third stage of labour?
 
 Recordings made about the third stage of labour:
 
@@ -8107,13 +7340,13 @@ If the third stage of labour was not normal, the observations must be repeated e
 
 During the first hour after the delivery it is essential to ensure that the uterus is well contracted and that there is no excessive bleeding.
 
-11-19 When should the infant be given to the mother to hold and put to the breast?
+### 11-19 When should the infant be given to the mother to hold and put to the breast?
 
 If the labour and delivery were normal and the infant appears to be healthy and normal, the infant should be put to the breast immediately after delivery. The nipple stimulation causes uterine contractions which may help placental separation.
 
 Examination of the placenta after birth
 
-11-20 How should you examine the placenta after delivery?
+### 11-20 How should you examine the placenta after delivery?
 
 Every placenta must be examined for:
 
@@ -8156,11 +7389,11 @@ All placentas must be carefully examined for completeness and abnormalities afte
 
 The abnormal third stage of labour
 
-11-21 What is a prolonged third stage of labour?
+### 11-21 What is a prolonged third stage of labour?
 
 If the placenta has still not been delivered after 30 minutes, the third stage is said to be prolonged.
 
-11-22 How should a prolonged third stage of labour be managed?
+### 11-22 How should a prolonged third stage of labour be managed?
 
 If the active or passive method has been applied and failed:
 
@@ -8168,7 +7401,7 @@ An infusion with 20 units of oxytocin in 1000 ml Balsol or normal saline must be
 
 Once the uterus is well contracted, try again to deliver the placenta by controlled cord traction.
 
-11-23 What should be done if the placenta is still not delivered, after the routine management of a prolonged third stage of labour?
+### 11-23 What should be done if the placenta is still not delivered, after the routine management of a prolonged third stage of labour?
 
 A vaginal examination must be done:
 
@@ -8176,7 +7409,7 @@ If the placenta or part of the placenta is palpable in the vagina or lower segme
 
 If the placenta or part of the placenta is not palpable in the vagina or lower segment of the uterus and only the umbilical cord is felt, then the placenta is still in the upper segment of the uterus and a diagnosis of retained placenta must be made.
 
-11-24 What is the management of a retained placenta?
+### 11-24 What is the management of a retained placenta?
 
 Continue with the intravenous infusion of oxytocin and make sure that the uterus is well contracted. This will reduce the risk of postpartum haemorrhage.
 
@@ -8188,7 +7421,7 @@ Keep the patient nil per mouth.
 
 Managing postpartum haemorrhage
 
-11-25 What is a postpartum haemorrhage?
+### 11-25 What is a postpartum haemorrhage?
 
 Blood loss of more than 500 ml within the first 24 hours after delivery of the infant.
 
@@ -8196,11 +7429,11 @@ Any bleeding after delivery, which appears excessive.
 
 Any excessive bleeding after delivery should be considered to be a postpartum haemorrhage and managed as such.
 
-11-26 What should be done if a patient has a postpartum haemorrhage?
+### 11-26 What should be done if a patient has a postpartum haemorrhage?
 
 The management will depend on whether the placenta has been delivered or not.
 
-11-27 What is the management of a postpartum haemorrhage if the placenta has not been delivered?
+### 11-27 What is the management of a postpartum haemorrhage if the placenta has not been delivered?
 
 If the active method has been used to manage the third stage of labour, a rapid intravenous infusion of 20 units oxytocin in 1000 ml Balsol or normal saline must be started, to ensure that the uterus is well contracted. A further attempt should now be made to deliver the placenta. Immediately after the delivery of the placenta, make sure that the uterus is well contracted, by rubbing up the fundus.
 
@@ -8210,23 +7443,23 @@ If the attempt to deliver the placenta fails, the patient has a retained placent
 
 The management of a patient with a postpartum haemorrhage before the delivery of the placenta is summarised in flow diagram 11-1.
 
-11-28 What is the management of a patient with a postpartum haemorrhage, if the placenta has already been delivered?
+### 11-28 What is the management of a patient with a postpartum haemorrhage, if the placenta has already been delivered?
 
 This is a dangerous complication which must be rapidly and correctly managed according to a clear plan:
 
-Step 1: Call for help. One cannot manage a postpartum haemorrhage alone. Someone needs to get the oxytocin, cannulas, infusion sets and intravenous fluids while the other person is controlling the bleeding.
+*Step 1*: Call for help. One cannot manage a postpartum haemorrhage alone. Someone needs to get the oxytocin, cannulas, infusion sets and intravenous fluids while the other person is controlling the bleeding.
 
-Step 2: The uterus must immediately be rubbed up, (massaged). This will cause the uterus to contract and stop bleeding.
+*Step 2*: The uterus must immediately be rubbed up, (massaged). This will cause the uterus to contract and stop bleeding.
 
-Step 3: A rapid intravenous infusion of 20 units oxytocin in 1000 ml Balsol or normal saline must be started. Once again, make sure that the uterus is well contracted by massaging it.
+*Step 3*: A rapid intravenous infusion of 20 units oxytocin in 1000 ml Balsol or normal saline must be started. Once again, make sure that the uterus is well contracted by massaging it.
 
-Step 4: The patient’s bladder must be emptied. A full bladder causes the uterus to contract poorly, with resultant haemorrhage.
+*Step 4*: The patient’s bladder must be emptied. A full bladder causes the uterus to contract poorly, with resultant haemorrhage.
 
 These four steps must always be carried out, irrespective of the cause of the postpartum haemorrhage. The cause of the haemorrhage must now be diagnosed.
 
 A postpartum haemorrhage is a dangerous complication and must be managed according to a definite plan.
 
-11-29 What are the main causes of postpartum haemorrhage?
+### 11-29 What are the main causes of postpartum haemorrhage?
 
 The cause of the haemorrhage must now be diagnosed. The two main causes of postpartum haemorrhage must be differentiated from one another:
 
@@ -8240,7 +7473,7 @@ The two main causes of postpartum haemorrhage are an atonic uterus and trauma.
 
 The management of a patient with a post­partum haemorrhage after the delivery of the placenta is summarised in flow diagram 11-2.
 
-11-30 What clinical signs indicate that the bleeding is caused by an atonic uterus?
+### 11-30 What clinical signs indicate that the bleeding is caused by an atonic uterus?
 
 The uterus is atonic (feels soft and spongy), or tends to become atonic after it is rubbed up or after an oxytocin infusion is given.
 
@@ -8250,7 +7483,7 @@ If the uterus is rubbed up and becomes well contracted, a large amount of dark r
 
 Bleeding from an atonic uterus occurs in episodes and consists of dark red blood clots.
 
-11-31 What are the possible causes of an atonic uterus?
+### 11-31 What are the possible causes of an atonic uterus?
 
 A uterus full of blood clots is the commonest cause.
 
@@ -8278,7 +7511,7 @@ Abruptio placentae.
 
 The commonest causes of an atonic uterus are a uterus full of blood clots and a full bladder.
 
-11-32 What is the correct management of postpartum haemorrhage if the clinical signs indicate bleeding from an atonic uterus?
+### 11-32 What is the correct management of postpartum haemorrhage if the clinical signs indicate bleeding from an atonic uterus?
 
 Rub up the uterus, empty the patient’s bladder and start a fast intravenous infusion of 20 units oxytocin in 1000 ml Basol or normal saline.
 
@@ -8299,7 +7532,7 @@ Place 3 misoprostol (Cytotec) tablets (1 tablet = 200 µg) in the patient’s re
 Note
 :	Further management includes an intravenous infusion of prostaglandin F2 alpha to stimulate uterine contractions. The need for a total abdominal hysterectomy may have to be considered.
 
-11-33 What should be done if the membranes or placenta are not complete after delivery and the patient is not bleeding?
+### 11-33 What should be done if the membranes or placenta are not complete after delivery and the patient is not bleeding?
 
 Incomplete membranes usually do not cause any complications.
 
@@ -8313,7 +7546,7 @@ Keep the patient nil per mouth, as a general anaesthetic will be necessary.
 
 An evacuation of the uterus under general anaesthesia is required if placental cotyledons are retained in the uterus.
 
-11-34 What can be done to reduce the risk of postpartum haemorrhage?
+### 11-34 What can be done to reduce the risk of postpartum haemorrhage?
 
 In patients who are at high risk of postpartum haemorrhage (e.g. multiple pregnancy, polyhydramnios or grande multiparity) the following should be done:
 
@@ -8323,7 +7556,7 @@ An intravenous infusion should be started during the active phase of the first s
 
 Make sure that the uterus is well contracted during the first hour after the delivery of the placenta and make sure that the patient empties her bladder frequently.
 
-11-35 What clinical signs indicate that the bleeding is from a tear?
+### 11-35 What clinical signs indicate that the bleeding is from a tear?
 
 The uterus is well contracted.
 
@@ -8331,7 +7564,7 @@ A continuous trickle of bright red blood comes from the uterus in spite of a wel
 
 Bleeding from a tear causes a continuous trickle of bright red blood in spite of a well-contracted uterus.
 
-11-36 What is the correct management if the clinical signs indicate that the bleeding is from a tear?
+### 11-36 What is the correct management if the clinical signs indicate that the bleeding is from a tear?
 
 The patient should be placed in the lithotomy position and examined as follows:
 
@@ -8341,13 +7574,13 @@ Thereafter, the vagina must be examined for a tear using the index finger of eac
 
 If a perineal or vaginal tear cannot be found, a cervical tear or even a ruptured uterus may be present. Therefore, a doctor must be called to examine the patient or she should be transferred to a hospital so that these conditions can be excluded.
 
-11-37 What is the correct management for bleeding from an episiotomy?
+### 11-37 What is the correct management for bleeding from an episiotomy?
 
 If the episiotomy has not yet been stitched, it should be repaired. Make sure that all bleeding stops.
 
 If the episiotomy has already been repaired, the stitches must be removed and the bleeding vessels must be identified and tied off. Then the episiotomy must be resutured.
 
-11-38 Which patients are at high risk of a cervical tear?
+### 11-38 Which patients are at high risk of a cervical tear?
 
 Patients who bear down and deliver an infant before the cervix is fully dilated.
 
@@ -8355,7 +7588,7 @@ Patients with a rapid labour when the cervix dilates very quickly (a precipitous
 
 Patients who have an instrument delivery.
 
-11-39 How can you recognise an inverted uterus?
+### 11-39 How can you recognise an inverted uterus?
 
 The diagnosis must be considered if a patient suddenly becomes shocked during the third stage of labour without excessive vaginal bleeding.
 
@@ -8363,7 +7596,7 @@ No uterus is palpable on abdominal examination.
 
 The uterus lies in the vagina or may even hang out of the vagina.
 
-11-40 What is the management of a patient with an inverted uterus?
+### 11-40 What is the management of a patient with an inverted uterus?
 
 Two fast-running intravenous infusions must be started to treat the shock.
 
@@ -8374,7 +7607,7 @@ Note
 
 Protecting the staff from HIV infection
 
-11-41 What should be done during labour to prevent the staff from becoming infected with the human immunodeficiency virus (HIV)?
+### 11-41 What should be done during labour to prevent the staff from becoming infected with the human immunodeficiency virus (HIV)?
 
 All patients should be regarded as being potentially infected with HIV, the virus which causes AIDS (Acquired Immune Deficiency Syndrome). The virus is present in blood, liquor and placental tissue. Contamination of the eyes or cuts on the hands or arms, and pricks by contaminated needles carry a small risk of causing infection.
 
@@ -8386,7 +7619,7 @@ Any person who resuscitates the infant or cleans the labour ward after the deliv
 
 The umbilical cord must be squeezed to empty it of blood before applying the second clamp. This will prevent blood spurting out when the cord is cut.
 
-Injection needles must be placed in a sharps container immediately after being used. Needles must not be replaced into their sheaths.
+Injection needles must be placed in a sharps container *immediately* after being used. Needles must not be replaced into their sheaths.
 
 When an episiotomy is repaired, the needle must only be held with a needle holder and the tissues with a forceps.
 
@@ -8522,11 +7755,11 @@ Teach the patient the concept of ‘the mother as a monitor’.
 
 The normal puerperium
 
-12-1 What is the puerperium?
+### 12-1 What is the puerperium?
 
 The puerperium is the period from the end of the third stage of labour until most of the patient’s organs have returned to their pre-pregnant state.
 
-12-2 How long does the puerperium last?
+### 12-2 How long does the puerperium last?
 
 The puerperium starts when the placenta is delivered and lasts for 6 weeks (42 days). However, some organs may only return to their pre-pregnant state weeks or even months after the 6 weeks have elapsed (e.g. the ureters). Other organs never regain their pre-pregnant state (e.g. the perineum).
 
@@ -8534,7 +7767,7 @@ It is important for the midwife or doctor to assess whether the puerperal patien
 
 The puerperium starts when the placenta is delivered and lasts for 6 weeks.
 
-12-3 Why is the puerperium important?
+### 12-3 Why is the puerperium important?
 
 The patient recovers from her labour, which often leaves her tired, even exhausted. There is, nevertheless, a feeling of great relief and happiness.
 
@@ -8544,7 +7777,7 @@ Breastfeeding should be established.
 
 The patient should decide, with the guidance of a midwife or doctor, on an appropriate contraceptive method.
 
-12-4 What physical changes occur in the puerperium?
+### 12-4 What physical changes occur in the puerperium?
 
 Almost every organ undergoes change in the puerperium. These adjustments range from mild to marked. Only those changes which are important in the management of the normal puerperium will be described here:
 
@@ -8629,7 +7862,7 @@ The management of the rest of the puerperium.
 
 The six week postnatal visit.
 
-12-5 How should you manage the first hour after the delivery of the placenta?
+### 12-5 How should you manage the first hour after the delivery of the placenta?
 
 The two main objectives of managing the first hour of the puerperium are:
 
@@ -8647,7 +7880,7 @@ Get the patient’s co-operation in ensuring that her uterus remains well contra
 
 The correct management of the first hour of the puerperium is most important as the risk of postpartum haemorrhage is greatest at this time.
 
-12-6 Which routine observations should you perform in the first hour after delivery of the placenta?
+### 12-6 Which routine observations should you perform in the first hour after delivery of the placenta?
 
 Immediately after the delivery of the placenta you should:
 
@@ -8667,7 +7900,7 @@ If the patient’s condition changes, observations must be done more frequently 
 
 Observations during the first hour of the puerperium are extremely important.
 
-12-7 How should you care for the needs of the patient during the first hour of the puerperium?
+### 12-7 How should you care for the needs of the patient during the first hour of the puerperium?
 
 After the placenta has been delivered the patient needs to be:
 
@@ -8679,7 +7912,7 @@ Allowed to bond with her infant.
 
 Allowed to rest for as long as she needs to.
 
-12-8 How can the patient help to prevent postpartum haemorrhage during the first hour of the puerperium?
+### 12-8 How can the patient help to prevent postpartum haemorrhage during the first hour of the puerperium?
 
 The patient should be shown how to observe:
 
@@ -8701,7 +7934,7 @@ These two important steps may help prevent a postpartum haemorrhage.
 
 The patient can play a very important role in the prevention of postpartum haemorrhage.
 
-12-9 When should a postpartum patient be allowed to go home?
+### 12-9 When should a postpartum patient be allowed to go home?
 
 This will depend on:
 
@@ -8709,7 +7942,7 @@ Whether the patient had a normal pregnancy and delivery.
 
 The circumstances of the hospital or clinic where the patient was delivered.
 
-12-10 When should a patient be allowed to go home following a normal pregnancy and delivery?
+### 12-10 When should a patient be allowed to go home following a normal pregnancy and delivery?
 
 A patient who has had a normal pregnancy and delivery may be allowed to go home about 6 hours after the birth of her infant, provided:
 
@@ -8743,7 +7976,7 @@ The amount, colour, and odour of the lochia.
 
 A postnatal examination was completed for the mother and infant.
 
-12-11 When should a patient be discharged from hospital following a complicated pregnancy and delivery?
+### 12-11 When should a patient be discharged from hospital following a complicated pregnancy and delivery?
 
 This will depend on the nature of the complication and the method of delivery. For example:
 
@@ -8753,13 +7986,13 @@ A patient who has had a Caesarean section will usually stay in hospital for thre
 
 A patient who has had a postpartum haemorrhage must be kept in hospital for at least 24 hours to ensure that her uterus is well contracted and that there is no further bleeding.
 
-12-12 How will the circumstances at a clinic or hospital influence the time of discharge?
+### 12-12 How will the circumstances at a clinic or hospital influence the time of discharge?
 
 Some clinics have no space to accommodate patients for longer than 6 hours after delivery. Therefore, patients who cannot be discharged safely at 6 hours will have to be transferred to a hospital.
 
 Some hospitals manage patients who live in remote areas where follow-up is not possible. These patients will have to be kept in hospital longer before discharge.
 
-12-13 What postnatal care should be given during the puerperium after the patient has left the hospital or clinic?
+### 12-13 What postnatal care should be given during the puerperium after the patient has left the hospital or clinic?
 
 The following observations must be done on the mother:
 
@@ -8795,11 +8028,11 @@ Assess whether the infant is feeding well and is satisfied after a feed.
 
 The successful establishment of breastfeeding is one of the most important goals of patient care during the puerperium.
 
-12-14 How can you help to establish successful breastfeeding?
+### 12-14 How can you help to establish successful breastfeeding?
 
 By providing patient education and motivation. This should preferably start before pregnancy and continue throughout the antenatal period and after pregnancy. Encouragement and support are very important during the first weeks after delivery. The important role of breastfeeding in lowering infant mortality in poor communities must be remembered.
 
-12-15 Which topics should you include under patient education in the puerperium?
+### 12-15 Which topics should you include under patient education in the puerperium?
 
 Patient education regarding herself, her infant, and her family should not start during the puerperium, but should be part of any woman’s general education, starting at school. Topics which should be emphasised in patient education in the puerperium include:
 
@@ -8817,17 +8050,17 @@ When to start coitus again. Usually coitus can be started three to 4 weeks postp
 
 Patient education is an important and often neglected part of postnatal care.
 
-12-16 When should a patient be seen again after postnatal care has been completed?
+### 12-16 When should a patient be seen again after postnatal care has been completed?
 
 The postnatal visit is usually held 6 weeks after delivery. By this time almost all the organ changes which occurred during pregnancy should have disappeared.
 
 The six week postnatal visit
 
-12-17 Which patients need to attend a six week postnatal clinic?
+### 12-17 Which patients need to attend a six week postnatal clinic?
 
 Patients with specific problems that need to be followed up six weeks postpartum, e.g. patients who were discharged with hypertension need to come back to have their blood pressure measured. Patients who are healthy may be referred directly to the mother-and-child health clinics.
 
-12-18 What are the objectives of the six week postnatal visit?
+### 12-18 What are the objectives of the six week postnatal visit?
 
 It is important to determine whether:
 
@@ -8843,7 +8076,7 @@ The patient has been referred to a mother-and-child health clinic for further ca
 
 The patient has any questions about herself, her infant, or her family.
 
-12-19 How should the six week postnatal visit be conducted?
+### 12-19 How should the six week postnatal visit be conducted?
 
 The patient is asked how she and her infant have been since they were discharged from the hospital or clinic.
 
@@ -8859,17 +8092,17 @@ A patient and her infant should only be discharged if they are both well and hav
 
 Puerperal pyrexia
 
-12-20 When is puerperal pyrexia present?
+### 12-20 When is puerperal pyrexia present?
 
 A patient has puerperal pyrexia if her oral temperature rises to 38 °C or higher during the puerperium.
 
-12-21 Why is puerperal pyrexia important?
+### 12-21 Why is puerperal pyrexia important?
 
 Because it may be caused by serious complications of the puerperium. It may interfere with breastfeeding. The patient may become very ill or even die.
 
 Puerperal pyrexia may be caused by a serious complication of the puerperium.
 
-12-22 What are the causes of puerperal pyrexia?
+### 12-22 What are the causes of puerperal pyrexia?
 
 Genital tract infection.
 
@@ -8883,14 +8116,14 @@ Respiratory tract infection.
 
 Other infections.
 
-12-23 What is the cause of genital tract infection?
+### 12-23 What is the cause of genital tract infection?
 
 Genital tract infection (or puerperal sepsis) is caused by bacterial infection of the raw placental site or lacerations of the cervix, vagina or perineum.
 
 Note
 :	Genital tract infection is usually caused by the group A or group B Streptococcus, Staphylococcus aureus or anaerobic bacteria.
 
-12-24 How should you diagnose genital tract infection?
+### 12-24 How should you diagnose genital tract infection?
 
 History
 
@@ -8917,7 +8150,7 @@ The episiotomy wound or perineal or vaginal tears may be infected.
 Note
 :	If possible, an endocervical swab should be taken for microscopy, culture, and sensitivity tests.
 
-12-25 How should you manage genital tract infection?
+### 12-25 How should you manage genital tract infection?
 
 Prevention
 
@@ -8952,7 +8185,7 @@ If there is subinvolution of the uterus, an evacuation under general anaesthetic
 Note
 :	24 hours after starting this treatment the patient’s condition should have improved considerably and the temperature should by then be normal. If this is not the case, evacuation of the uterus is required and gentamicin must be added to the antibiotics. A laparotomy and possibly a hysterectomy is indicated, if peritonitis and subinvolution of the uterus are present, and there is no response to the measures detailed above. Transfer the patient to the appropriate level of care for this purpose.
 
-12-26 How must a patient with offensive lochia be managed?
+### 12-26 How must a patient with offensive lochia be managed?
 
 If the patient has pyrexia she must be admitted to hospital.
 
@@ -8962,7 +8195,7 @@ If the patient has a normal temperature and normal involution of her uterus, she
 
 Offensive lochia is an important sign of genital tract infection.
 
-12-27 How should you diagnose a urinary tract infection?
+### 12-27 How should you diagnose a urinary tract infection?
 
 History
 
@@ -8988,7 +8221,7 @@ Culture and sensitivity tests of the urine must be done if the facilities are av
 
 The presence of pyrexia and punch tenderness in the renal angles indicate an upper renal tract infection and a diagnosis of acute pyelonephritis must be made.
 
-12-28 How should you manage a patient with a urinary tract infection?
+### 12-28 How should you manage a patient with a urinary tract infection?
 
 Prevention
 
@@ -9013,11 +8246,11 @@ Antibiotics should not be given to a patient with puerperal pyrexia until she ha
 
 Thrombophlebitis
 
-12-29 What is superficial vein thrombophlebitis?
+### 12-29 What is superficial vein thrombophlebitis?
 
 This is a non-infective inflammation and thrombosis of the superficial veins of the leg or forearm where an infusion was given. Thrombophlebitis commonly occurs during the puerperium, especially in varicose veins.
 
-12-30 How should you diagnose superficial leg vein thrombophlebitis?
+### 12-30 How should you diagnose superficial leg vein thrombophlebitis?
 
 History
 
@@ -9033,7 +8266,7 @@ Tachycardia.
 
 Presence of a localised area of the forearm or leg which is swollen, red and tender.
 
-12-31 How should you manage a patient with superficial vein thrombophlebitis?
+### 12-31 How should you manage a patient with superficial vein thrombophlebitis?
 
 Give analgesia, e.g. Aspirin 300 mg (1 adult tablet) 6-hourly.
 
@@ -9043,7 +8276,7 @@ Encourage the patient to walk around.
 
 Respiratory tract infection
 
-12-32 How should you diagnose a lower respiratory tract infection?
+### 12-32 How should you diagnose a lower respiratory tract infection?
 
 A lower respiratory tract infection, such as acute bronchitis or pneumonia, is diagnosed as follows:
 
@@ -9072,7 +8305,7 @@ A chest X-ray is useful in diagnosing pneumonia.
 Note
 :	Examination of the chest may reveal basal dullness due to collapse, increased breath sounds or crepitations due to pneumonia, or bilateral rhonchi due to bronchitis.
 
-12-33 How should you manage a patient with a lower respiratory tract infection.
+### 12-33 How should you manage a patient with a lower respiratory tract infection.
 
 Prevention
 
@@ -9098,11 +8331,11 @@ Special investigations
 
 Send a sample of sputum for microscopy, culture, and sensitivity testing if possible.
 
-12-34 Which other infections may cause puerperal pyrexia?
+### 12-34 Which other infections may cause puerperal pyrexia?
 
 Tonsillitis, influenza and any other acute infection, e.g. acute appendicitis.
 
-12-35 What should you do if a patient presents with puerperal pyrexia?
+### 12-35 What should you do if a patient presents with puerperal pyrexia?
 
 Ask the patient what she thinks is wrong with her.
 
@@ -9150,7 +8383,7 @@ If a patient presents with puerperal pyrexia the cause of the pyrexia must be fo
 
 Puerperal psychiatric disorders
 
-12-36 Which are the puerperal psychiatric disorders?
+### 12-36 Which are the puerperal psychiatric disorders?
 
 The ‘puerperal blues’.
 
@@ -9158,7 +8391,7 @@ Temporary postnatal depression.
 
 Puerperal psychosis.
 
-12-37 Why is it important to recognise the various puerperal psychiatric disorders?
+### 12-37 Why is it important to recognise the various puerperal psychiatric disorders?
 
 The ‘puerperal blues’ are very common in the first week after delivery, especially on day 3. The patient feels miserable and cries easily. Although the patient may be very distressed, all that is required is an explanation, reassurance, and a caring, sympathetic attitude and emotional support. The condition improves within a few days.
 
@@ -9171,17 +8404,17 @@ Note
 
 Secondary postpartum haemorrhage
 
-12-38 What is secondary postpartum haemorrhage?
+### 12-38 What is secondary postpartum haemorrhage?
 
 This is any amount of vaginal bleeding, other than the normal amount of lochia, occurring after the first 24 hours postpartum until the end of the puerperium. It commonly occurs between the fifth and 15th days after delivery.
 
-12-39 Why is secondary postpartum haemorrhage important?
+### 12-39 Why is secondary postpartum haemorrhage important?
 
 A secondary postpartum haemorrhage may be so severe that it causes shock.
 
 Unless the cause of the secondary postpartum haemorrhage is treated, the vaginal bleeding will continue.
 
-12-40 What are the causes of secondary postpartum haemorrhage?
+### 12-40 What are the causes of secondary postpartum haemorrhage?
 
 Genital tract infection with or without retention of a piece of placenta or part of the membranes. This is the commonest cause.
 
@@ -9194,7 +8427,7 @@ However, the cause is unknown in up to half of these patients.
 Note
 :	Gestational trophoblastic disease (hydatidiform mole or choriocarcinoma) and a disorder of blood coagulation may also cause secondary postpartum haemorrhage.
 
-12-41 What clinical features should alert you to the possibility of the patient developing secondary postpartum haemorrhage?
+### 12-41 What clinical features should alert you to the possibility of the patient developing secondary postpartum haemorrhage?
 
 A history of incomplete delivery of the placenta and/or membranes.
 
@@ -9204,7 +8437,7 @@ Delayed involution of the uterus.
 
 Offensive and/or persistently red lochia.
 
-12-42 How should you manage a patient with secondary postpartum haemorrhage?
+### 12-42 How should you manage a patient with secondary postpartum haemorrhage?
 
 Prevention
 
@@ -9230,7 +8463,7 @@ Blood transfusion, if the haemoglobin concentration drops below 8 g/dl.
 
 Removal of retained placental products under general anaesthesia.
 
-12-43 What may you find on physical examination to suggest that retained pieces of placenta or membranes are the cause of a secondary postpartum haemorrhage?
+### 12-43 What may you find on physical examination to suggest that retained pieces of placenta or membranes are the cause of a secondary postpartum haemorrhage?
 
 The uterus will be involuting slower than usual.
 
@@ -9238,7 +8471,7 @@ Even though the patient may be more than seven days postpartum, the cervical os 
 
 Self-monitoring
 
-12-44 What is meant by the concept of ‘the mother as a monitor’?
+### 12-44 What is meant by the concept of ‘the mother as a monitor’?
 
 This is a concept where the patient is made aware of the many ways in which she can monitor her own, as well as her fetus’ or infant’s wellbeing, during pregnancy, in labour, and in the puerperium. This has two major advantages:
 
@@ -9246,7 +8479,7 @@ The patient becomes much more involved in her own perinatal care.
 
 Possible complications will be reported by the patient at the earliest opportunity.
 
-12-45 How can the patient act as a monitor in the puerperium?
+### 12-45 How can the patient act as a monitor in the puerperium?
 
 The patient must be encouraged to report the following complications as soon as she becomes aware of them:
 
@@ -9280,7 +8513,7 @@ Each patient must be taught to monitor her own wellbeing, as well as that of her
 
 HIV positive mothers
 
-12-46 How should HIV positive mothers and their newborn infants be managed during the puerperium?
+### 12-46 How should HIV positive mothers and their newborn infants be managed during the puerperium?
 
 Women on ARV prophylaxis should continue taking daily FDC until a week after they have stopped breastfeeding. Women who do not breastfeed can stop their ARV prophylaxis after delivery as there is no further risk of mother to child transmission of HIV.
 
@@ -9294,7 +8527,7 @@ The HIV status and HIV prophylaxis or treatment of the mother as well as the met
 
 The importance of attending a healthy baby clinic at 6 weeks must be emphasised. At this visit an HIV test (HIV DNA PCR test) will be done to determine whether the infant is HIV infected or not. This result will indicate what further treatment is needed.
 
-12-47 What is the nevirapine dose for infants?
+### 12-47 What is the nevirapine dose for infants?
 
 Most term infants will need 1.5 ml NVP from birth to six weeks. Thereafter the amount of NVP will increase as the infant gains weight. See table 12-1 for dosing guidlines.
 
@@ -9422,7 +8655,7 @@ Manage a patient with diabetes mellitus.
 
 Urinary tract infection during pregnancy
 
-13-1 Which urinary tract infections are important during pregnancy?
+### 13-1 Which urinary tract infections are important during pregnancy?
 
 Cystitis.
 
@@ -9430,7 +8663,7 @@ Asymptomatic bacteriuria.
 
 Acute pyelonephritis.
 
-13-2 Why are urinary tract infections common during pregnancy and the puerperium?
+### 13-2 Why are urinary tract infections common during pregnancy and the puerperium?
 
 Placental hormones cause dilatation of the ureters.
 
@@ -9438,7 +8671,7 @@ Pregnancy suppresses the function of the immune system.
 
 A urinary tract infection is the most common infection during pregnancy. 
 
-13-3 How should you diagnose cystitis?
+### 13-3 How should you diagnose cystitis?
 
 These severe urinary symptoms suddenly appear:
 
@@ -9454,7 +8687,7 @@ Examination of the urine under a microscope shows many pus cells and bacteria.
 
 A midstream urine sample for culture must be collected, if possible, to confirm the clinical diagnosis. Treatment must commence immediately without waiting for the results of the culture.
 
-13-4 How should you manage a patient with cystitis?
+### 13-4 How should you manage a patient with cystitis?
 
 Give 4 adult tablets of co-trimoxazole (e.g. Bactrim, Cotrim, Durobac, Mezenol or Purbac) as a single dose. This is also the drug of choice for patients who are allergic to penicillin.
 
@@ -9464,11 +8697,11 @@ A midstream sample should again be sent for microscopy, culture, and sensitivity
 
 Co-trimoxazole can be safely used during pregnancy, including the first trimester.
 
-13-5 What is asymptomatic bacteriuria?
+### 13-5 What is asymptomatic bacteriuria?
 
 It is significant colonisation of the urinary tract with bacteria, without any symptoms of a urinary tract infection.
 
-13-6 Why is asymptomatic bacteriuria during pregnancy important?
+### 13-6 Why is asymptomatic bacteriuria during pregnancy important?
 
 Between 6 and 10% of pregnant women have asymptomatic bacteriuria.
 
@@ -9478,7 +8711,7 @@ If patients with asymptomatic bacteriuria are diagnosed and correctly managed, t
 
 The diagnosis and treatment of asymptomatic bacteriuria will greatly reduce the incidence of acute pyelonephritis during pregnancy.
 
-13-7 How and when should patients be screened for asymptomatic bacteriuria?
+### 13-7 How and when should patients be screened for asymptomatic bacteriuria?
 
 If possible, bacterial culture of a midstream urine sample should be done at the first antenatal visit to screen patients for asymptomatic bacteriuria.
 
@@ -9487,17 +8720,17 @@ Note
 
 If possible, a screening test for asymptomatic bacteriuria should be done at the first antenatal visit. 
 
-13-8 Can reagent strips be reliably used to diagnose asymptomatic bacteriuria?
+### 13-8 Can reagent strips be reliably used to diagnose asymptomatic bacteriuria?
 
 No. Tests for nitrites (which detect the presence of bacteria) and leukocytes, separately or together, cannot be used to accurately screen for asymptomatic bacteriuria.
 
-13-9 What is the management of a patient with asymptomatic bacteriuria?
+### 13-9 What is the management of a patient with asymptomatic bacteriuria?
 
 The same as the management of a patient with cystitis, i.e. 4 adult tablets of co-trimoxazole (e.g. Bactrim, Cotrim, Durobac, Mezenol or Purbac) as a single dose or amoxycillin (Amoxil) 3 g as a single dose. Patients who are allergic to penicillin should be given co-trimoxazole.
 
 A midstream specimen of urine should again be sent for culture at the next antenatal visit to determine whether the management was successful.
 
-13-10 What symptoms suggest acute pyelonephritis?
+### 13-10 What symptoms suggest acute pyelonephritis?
 
 Most patients have severe general symptoms
 
@@ -9509,7 +8742,7 @@ Lower backache, especially pain over the kidneys (renal angles).
 
 Only 40% of patients have urinary complaints.
 
-13-11 What physical signs are usually found in a patient with acute pyelonephritis?
+### 13-11 What physical signs are usually found in a patient with acute pyelonephritis?
 
 The patient is acutely ill.
 
@@ -9517,7 +8750,7 @@ The patient usually has high pyrexia and a tachycardia. However, the temperature
 
 On abdominal examination, the patient is tender over one or both kidneys. The patient is also tender on light percussion over one or both renal angles (posteriorly over the kidneys).
 
-13-12 What is the management of a patient with acute pyelonephritis?
+### 13-12 What is the management of a patient with acute pyelonephritis?
 
 The patient must be admitted to hospital.
 
@@ -9536,7 +8769,7 @@ Note
 
 Patients with acute pyelonephritis during pregnancy must be admitted to hospital for treatment with a broad-spectrum antibiotic. 
 
-13-13 Why is acute pyelonephritis a serious infection in pregnancy?
+### 13-13 Why is acute pyelonephritis a serious infection in pregnancy?
 
 Because serious complications can result:
 
@@ -9550,7 +8783,7 @@ Anaemia.
 
 Septic shock usually presents with continuing hypotension in spite of adequate intravenous fluids. There is also failure of the clinical signs of acute pyelonephritis to improve rapidly within the first 72 hours of treatment. If septic shock is diagnosed, intravenous gentamicin 80 mg must be given immediately, followed by a further 80 mg every 8 hours. Gentamicin (Garamycin) must be added to any other antibiotic already given. The patient must also be transferred to a level 3 hospital.
 
-13-14 What should be done at the first antenatal visit after the patient has been treated for acute pyelonephritis?
+### 13-14 What should be done at the first antenatal visit after the patient has been treated for acute pyelonephritis?
 
 A midstream urine sample for culture and sensitivity must be collected to determine whether the treatment has been successful.
 
@@ -9558,17 +8791,17 @@ The haemoglobin concentration must be measured as there is a risk of anaemia dev
 
 Anaemia in pregnancy
 
-13-15 What is the definition of anaemia in pregnancy?
+### 13-15 What is the definition of anaemia in pregnancy?
 
 A haemoglobin concentration of less than 11 g/dl.
 
-13-16 What are the dangers of anaemia?
+### 13-16 What are the dangers of anaemia?
 
 Heart failure, which can result from severe anaemia.
 
 Shock, which may be caused by a relatively small vaginal blood loss (antepartum haemorrhage, delivery or postpartum haemorrhage) in an anaemic patient.
 
-13-17 What are the common causes of anaemia in pregnancy?
+### 13-17 What are the common causes of anaemia in pregnancy?
 
 Iron deficiency as the result of a diet poor in iron.
 
@@ -9590,7 +8823,7 @@ Normocytic, normochromic cells suggest bleeding or infection.
 
 Macrocytic, normochromic cells suggest folate deficiency.
 
-13-18 What is the management of patients with iron deficiency in pregnancy or the puerperium?
+### 13-18 What is the management of patients with iron deficiency in pregnancy or the puerperium?
 
 The management of iron-deficiency anaemia in pregnancy will depend on the haemoglobin concentration and the duration of pregnancy.
 
@@ -9602,13 +8835,13 @@ All patients with a haemoglobin concentration of less than 8 g/dl who are short 
 
 If the haemoglobin concentration is between 8 g/dl and 10 g/dl, the patient can be treated with 2 tablets of ferrous sulphate 3 times a day. If the haemoglobin concentration does not increase after 2 weeks or the patient is 36 weeks pregnant or more, and a full blood count has not yet been done, then a full blood count must be done to decide whether the cause of the anaemia is iron deficiency.
 
-If the haemoglobin concentration is 10 g/dl or more, but less than 11 g/dl, the patient can be treated with 1 tablet of ferrous sulphate 3 times a day.
+If the haemoglobin concentration is 10 g/dl or more, but less than 11 g/dl, the patient can be treated with *1* tablet of ferrous sulphate 3 times a day.
 
 In the case of the first three points above, a full blood count must be done. The size and colour of the red blood cells will help in determining the cause of the anaemia.
 
 The management of a patient with iron-deficiency anaemia during the puerperium will depend on whether the patient is bleeding or not.
 
-If the patient is not bleeding, if she has no signs of heart failure, and her haemoglobin concentration is 6 g/dl or more, she can be treated with oral iron tablets. 1 tablet of ferrous sulphate 3 times daily for a month is sufficient.
+If the patient is not bleeding, if she has no signs of heart failure, and her haemoglobin concentration is 6 g/dl or more, she can be treated with oral iron tablets. *1* tablet of ferrous sulphate 3 times daily for a month is sufficient.
 
 If the patient is not bleeding and she has signs of heart failure, or if her haemoglobin concentration is less than 6 g/dl, she must be admitted to hospital and given a blood transfusion to be followed by oral iron for a month.
 
@@ -9616,9 +8849,9 @@ If the patient is bleeding, she should be managed for a postpartum haemorrhage.
 
 The management of a patient with iron-deficiency anaemia during the puerperium is summarised in flow diagram 13-1.
 
-13-19 Should all patients receive iron supplements in pregnancy?
+### 13-19 Should all patients receive iron supplements in pregnancy?
 
-Well-nourished patients who have a healthy diet and a haemoglobin concentration of 11 g/dl or more, must take 1 tablet daily.
+Well-nourished patients who have a healthy diet and a haemoglobin concentration of 11 g/dl or more, must take *1* tablet daily.
 
 Patients who are poorly nourished, have a poor diet or have a haemoglobin concentration of less than 11 g/dl need iron supplements.
 
@@ -9626,19 +8859,19 @@ Patients from communities where iron deficiency is common, or where socio-econom
 
 Iron tablets are dangerous to small children as even 1 tablet can cause serious iron poisoning. Therefore, patients must always keep their iron tablets in a safe place where children cannot reach them.
 
-13-20 How are iron supplements given in pregnancy?
+### 13-20 How are iron supplements given in pregnancy?
 
 As 200 mg ferrous sulphate tablets.
 
-Patients with a haemoglobin concentration of 11 g/dl or higher must take 1 tablet daily.
+Patients with a haemoglobin concentration of 11 g/dl or higher must take *1* tablet daily.
 
 Patients who are anaemic must be correctly managed.
 
-13-21 What side effects can be caused by ferrous sulphate tablets?
+### 13-21 What side effects can be caused by ferrous sulphate tablets?
 
 Nausea and even vomiting due to irritation of the lining of the stomach.
 
-13-22 How should you manage a patient who complains of side effects due to ferrous sulphate tablets?
+### 13-22 How should you manage a patient who complains of side effects due to ferrous sulphate tablets?
 
 The tablets should be taken with meals. Although less iron will be absorbed, the side effects will be less.
 
@@ -9648,7 +8881,7 @@ Heart valve disease in pregnancy and the puerperium
 
 Heart valve disease consists of damage to, or abnormality of, one or more of the valves of the heart. Usually the mitral valve is damaged. The cause of heart valve disease in a developing country is almost always rheumatic fever during childhood.
 
-13-23 Why is it important during pregnancy to identify patients with heart valve disease in pregnancy?
+### 13-23 Why is it important during pregnancy to identify patients with heart valve disease in pregnancy?
 
 A correct diagnosis of the type of heart valve disease and good management of the problem reduces the risk to the patient during her pregnancy.
 
@@ -9658,7 +8891,7 @@ A clear family-planning plan must be made during the pregnancy. The patient may 
 
 Correct diagnosis and good management reduce the risk to the patient of heart valve disease in pregnancy.
 
-13-24 Which symptoms in a patient’s history suggest that she may have heart valve disease?
+### 13-24 Which symptoms in a patient’s history suggest that she may have heart valve disease?
 
 Shortness of breath on exercise or even with limited effort.
 
@@ -9672,7 +8905,7 @@ The cause of heart valve disease in a developing country is almost always previo
 
 During the examination of the cardiovascular system, a cardiac murmur will be heard if the patient has heart valve disease.
 
-13-25 How should a patient with heart valve disease in pregnancy be managed?
+### 13-25 How should a patient with heart valve disease in pregnancy be managed?
 
 The patient must be referred to the high-risk antenatal clinic.
 
@@ -9686,7 +8919,7 @@ The patient must be told to report immediately if she experiences any symptoms o
 
 The patient must be delivered at least in a secondary level hospital where specialist care is available.
 
-13-26 How should patients with heart valve disease be managed in the first stage of labour?
+### 13-26 How should patients with heart valve disease be managed in the first stage of labour?
 
 All patients must be delivered in hospital because of the risk of pulmonary oedema.
 
@@ -9698,7 +8931,7 @@ A slow intravenous infusion of 200 ml saline should be started, using a minidrop
 
 Ampicillin 1 g and gentamicin 80 mg are given intravenously as prophylaxis against infective endocarditis. These antibiotics should be repeated 8-hourly for another 2 doses. Patients who are allergic to penicillin should be given erythromycin 500 mg instead of ampicillin.
 
-13-27 How should patients with heart valve disease be managed in the second stage of labour?
+### 13-27 How should patients with heart valve disease be managed in the second stage of labour?
 
 The patient must be managed with her upper body raised with pillows to 45 degrees.
 
@@ -9708,11 +8941,11 @@ If indicated, an episiotomy should be done to ensure a short and easy second sta
 
 The patient’s legs must not be placed in the normal lithotomy position as this may cause pulmonary oedema. If the lithotomy position is needed, the patient should place her feet on two chairs which are at a lower level than the bed.
 
-13-28 How should patients with heart valve disease be managed in the third stage of labour?
+### 13-28 How should patients with heart valve disease be managed in the third stage of labour?
 
 This is a very dangerous time for a patient with heart valve disease as there is an increased risk of pulmonary oedema. Therefore, careful attention must be paid to the following:
 
-Syntometrine or ergometrine must not be given as they increase the risk of pulmonary oedema.
+Syntometrine or ergometrine must *not* be given as they increase the risk of pulmonary oedema.
 
 Oxytocin may be given. 10 units are given intramuscularly.
 
@@ -9720,7 +8953,7 @@ The third stage of labour should be actively managed.
 
 Any drug containing ergometrine is absolutely contraindicated in the third stage of labour and the first 24 hours of the puerperium if the patient has heart valve disease.
 
-13-29 What is important in the puerperium in patients with heart valve disease?
+### 13-29 What is important in the puerperium in patients with heart valve disease?
 
 The risk of pulmonary oedema during the first 24 hours of the puerperium is great. Therefore, attention must be paid to the following:
 
@@ -9730,19 +8963,19 @@ The course of prophylactic antibiotics must be completed.
 
 There is a high risk of pulmonary oedema in the third stage of labour and for the first 24 hours of the puerperium in patients with heart valve disease.
 
-13-30 What form of family planning should be offered to patients with heart valve disease who have completed their families?
+### 13-30 What form of family planning should be offered to patients with heart valve disease who have completed their families?
 
 A postpartum sterilisation should be done. Because of the risk of heart failure, the procedure must be postponed until the third day after delivery. Patients who are willing and are prepared to return for the procedure, can have a laparoscopic sterilisation done six weeks after delivery. Meanwhile, an injectable contraceptive must be given.
 
 Diabetes mellitus in pregnancy
 
-13-31 Why is it important to diagnose diabetes if it develops in pregnancy?
+### 13-31 Why is it important to diagnose diabetes if it develops in pregnancy?
 
 Diabetes mellitus is a disorder which is caused by the secretion of inadequate amounts of insulin from the pancreas to keep the blood glucose concentration normal. As a result, the blood glucose concentration becomes abnormally high. Diabetes may often present for the first time in pregnancy, and may then recover spontaneously after delivery. The early diagnosis and good management of diabetes in pregnancy will greatly reduce the incidence of complications.
 
 The early diagnosis and good management of diabetes in pregnancy will greatly reduce the incidence of complications.
 
-13-32 What complications may be caused by diabetes in pregnancy if it is not diagnosed early and is not well managed?
+### 13-32 What complications may be caused by diabetes in pregnancy if it is not diagnosed early and is not well managed?
 
 Throughout the pregnancy infections are common, especially:
 
@@ -9764,7 +8997,7 @@ During the third stage of labour there is an increased risk of postpartum haemor
 
 The newborn infant is at increased risk of many complications, especially hypoglycaemia and hyaline membrane disease.
 
-13-33 How can complications which commonly occur in diabetics during pregnancy and labour be avoided?
+### 13-33 How can complications which commonly occur in diabetics during pregnancy and labour be avoided?
 
 These complications can largely be avoided by:
 
@@ -9776,7 +9009,7 @@ Good control of the blood glucose concentration.
 
 Early diagnosis and good control of the blood glucose concentration will prevent most of the pregnancy and labour complications caused by diabetes.
 
-13-34 How can diabetes be diagnosed early if it should develop for the first time during pregnancy?
+### 13-34 How can diabetes be diagnosed early if it should develop for the first time during pregnancy?
 
 At every antenatal visit all patients should routinely have their urine tested for glucose.
 
@@ -9784,15 +9017,15 @@ A random blood glucose concentration must be measured if the patient has 1+ glyc
 
 Patients with repeated or marked glycosuria during pregnancy must always be investigated further for diabetes.
 
-13-35 Is a reagent strip accurate enough to measure a random blood glucose concentration?
+### 13-35 Is a reagent strip accurate enough to measure a random blood glucose concentration?
 
 Yes, if an electronic instrument (Glucometer or Reflolux) is used to measure the blood glucose concentration. However, a reagent strip alone may not be accurate enough. Therefore, a sample of blood must be sent to the nearest laboratory for a blood glucose measurement, if an instrument is not available.
 
-13-36 Is it possible that a patient with an initially normal blood glucose concentration may develop an abnormal concentration later in pregnancy?
+### 13-36 Is it possible that a patient with an initially normal blood glucose concentration may develop an abnormal concentration later in pregnancy?
 
 Yes. This may be possible due to an increase in the amount of placental hormones as pregnancy progresses. Placental hormones tend to increase the blood glucose concentration, explaining why some patients only become diabetic during their pregnancies.
 
-13-37 How should random blood glucose measurements be interpreted and how do the results determine further management?
+### 13-37 How should random blood glucose measurements be interpreted and how do the results determine further management?
 
 A random blood glucose measurement is done on a blood sample taken from the patient at the clinic without any previous preparation, i.e. the patient does not have to fast. However, patients who have had nothing to eat during the previous four hours should be encouraged to eat something before the test.
 
@@ -9802,7 +9035,7 @@ A random blood glucose concentration of 8 mmol/l or more, but less than 11 mmol/
 
 A random blood glucose concentration of 11 mmol/l or more is abnormal and indicates that the patient has diabetes. These patients must be admitted to hospital to have their blood glucose controlled. Thereafter, they must remain on treatment and be followed as high-risk patients.
 
-13-38 How should fasting blood glucose measurements be interpreted and how do the results determine further management?
+### 13-38 How should fasting blood glucose measurements be interpreted and how do the results determine further management?
 
 The patient must have nothing to eat or drink (except water) from midnight. At 08:00 the next day a sample of blood is taken and the fasting blood glucose concentration is measured:
 
@@ -9816,11 +9049,11 @@ A 7600 kJ diabetic diet consists of a normal diet with reduced refined carbohydr
 
 A patient with a normal blood glucose concentration early in pregnancy may develop diabetes later during that pregnancy.
 
-13-39 How is a glucose profile obtained?
+### 13-39 How is a glucose profile obtained?
 
 The patient must have nothing to eat or drink (except water) from midnight. At 08:00 the next day a sample of blood is taken and the fasting blood glucose concentration is measured. Immediately afterwards she has breakfast (which she can bring with her to the clinic). After 2 hours the blood glucose concentration is measured again.
 
-13-40 How should the glucose profile be interpreted and how do the results determine further management?
+### 13-40 How should the glucose profile be interpreted and how do the results determine further management?
 
 A fasting blood glucose result of less than 6 mmol/l and a 2-hour result of less than 8 mmol/l are normal. These patients can be followed up as intermediate-risk patients.
 
@@ -9952,7 +9185,7 @@ Advise a postpartum patient on the most appropriate method of contraception.
 
 Contraceptive counselling
 
-14-1 What is family planning?
+### 14-1 What is family planning?
 
 Family planning is far more than simply birth control, and aims at improving the quality of life for everybody. Family planning is an important part of primary healthcare and includes:
 
@@ -9968,21 +9201,21 @@ Educating the community with regard to the disastrous effects of unchecked popul
 
 It is essential to obtain prior community acceptance of, and promote community participation in, any family planning programme if the programme is to succeed in that community.
 
-14-2 Who requires family planning education?
+### 14-2 Who requires family planning education?
 
 Because family planning aims at improving the quality of life for everybody, every person, female or male, requires family planning education. Such education should ideally start during childhood and be given in the home by the parents. It is then continued at school and throughout the rest of the individual’s life.
 
-14-3 Who needs contraceptive counselling?
+### 14-3 Who needs contraceptive counselling?
 
 Every person who is sexually active, or who probably will soon become sexually active, needs contraceptive counselling (i.e. information and advice about birth control). While the best time to advise a woman on contraception is before the first coitus, the antenatal and post-delivery periods are an excellent opportunity to provide contraceptive counselling. Some patients will ask you for contraceptive advice. However, you will often have to first motivate a patient to accept contraception before you can advise her about an appropriate method of contraception.
 
-14-4 How should you motivate a patient to accept contraception after delivery?
+### 14-4 How should you motivate a patient to accept contraception after delivery?
 
 A good way to motivate a patient to accept contraception is to discuss with her, or preferably with both her and her partner, the health and socio-economic effects further children could have on her and the rest of the family. Explain the immediate benefits of a smaller, well-spaced family.
 
 It is generally hopeless to try and promote contraception by itself. To gain individual and community support, family planning must be seen as part of total primary healthcare. A high perinatal or infant mortality rate in a community is likely to result in a rejection of contraception.
 
-14-5 How should you give contraceptive advice after delivery?
+### 14-5 How should you give contraceptive advice after delivery?
 
 There are five important steps which should be followed.
 
@@ -10028,7 +9261,7 @@ Virtually every contraceptive method has its own side effects. It is a most impo
 
 After delivery the reproductive career of each patient must be discussed with her in order to decide on the most appropriate method of family planning to be used.
 
-14-6 What contraceptive methods can be offered after delivery?
+### 14-6 What contraceptive methods can be offered after delivery?
 
 Sterilisation. Either tubal ligation (tubal occlusion) or vasectomy.
 
@@ -10044,13 +9277,13 @@ Breastfeeding, spermicides alone, coitus interruptus and the ‘safe period’ a
 
 Breastfeeding cannot be relied upon to provide postpartum contraception.
 
-14-7 How effective are the various contraceptive methods?
+### 14-7 How effective are the various contraceptive methods?
 
 Contraceptive methods for use after delivery may be divided into very effective and less effective ones. Sterilisation, injectables, oral contraceptives and intra-uterine contraceptive devices are very effective. Condoms are less effective contraceptives.
 
 The effectiveness of a contraceptive method is given as an index which indicates the number of women who would be expected to fall pregnant if 100 women used that method for one year. The ideal efficacy index is 0. The higher the index, the less effective is the method of contraception. The efficacy of the various contraceptive methods for use after delivery is shown in table 14-1.
 
-14-8 How effective is postcoital contraception?
+### 14-8 How effective is postcoital contraception?
 
 Norlevo, E-Gen-C or Ovral are effective within five days of unprotected sexual intercourse, but are more reliable the earlier they are used.
 
@@ -10064,9 +9297,9 @@ If Ovral or E-Gen-C is used, 2 tablets are taken as soon as possible after inter
 
 The tablets for postcoital contraception often cause nausea and vomiting, which reduces their effectiveness. These side effects are less with levonorgestrel (Norlevo and Escapelle) which contains no oestrogen. Therefore levonorgestrel (Norlevo and Escapelle) is a more reliable method and should be used if available. Norlevo and Escapelle as a single dose method is available in South Africa.
 
-14-9 What are the contraindications to the various contraceptive methods?
+### 14-9 What are the contraindications to the various contraceptive methods?
 
-The following are the common or important conditions where the various contraceptive methods should not be used:
+The following are the common or important conditions where the various contraceptive methods should *not* be used:
 
 Sterilisation
 
@@ -10108,14 +9341,14 @@ Multiple sex partners when the risk of genital infection is high.
 
 Pelvic inflammatory disease.
 
-A menstrual abnormality is a contraindication to any of the hormonal contraceptive methods (injectables, combined pill or progestogen-only pill) until the cause of the menstrual irregularity has been diagnosed. Thereafter, hormonal contraception may often be used to correct the menstrual irregularity. However, during the puerperium a previous history of menstrual irregularity before the pregnancy is not a contraindication to hormonal contraception.
+A menstrual abnormality is a contraindication to any of the hormonal contraceptive methods (injectables, combined pill or progestogen-only pill) until the cause of the menstrual irregularity has been diagnosed. Thereafter, hormonal contraception may often be used to correct the menstrual irregularity. However, during the puerperium a previous history of menstrual irregularity before the pregnancy is *not* a contraindication to hormonal contraception.
 
 Note
-:	If a woman has a medical complication, then a more detailed list of contraindications may be obtained from the standard reference books such as J Guillebaud: Your questions answered. Fifth edition. London: Churchill Livingstone 2009.
+:	If a woman has a medical complication, then a more detailed list of contraindications may be obtained from the standard reference books such as J Guillebaud: *Your questions answered*. Fifth edition. London: Churchill Livingstone 2009.
 
-The World Health Organisation (WHO) medical eligibility criteria for contraceptive use is also available on a WHO website (www.who.int/reproductive -health/publications/mec/).
+	The World Health Organisation (WHO) medical eligibility criteria for contraceptive use is also available on a WHO website (www.who.int/reproductive -health/publications/mec/).
 
-14-10 What are the major side effects of the various contraceptive methods?
+### 14-10 What are the major side effects of the various contraceptive methods?
 
 Most contraceptive methods have side effects. Some side effects are unacceptable to a patient and will cause her to discontinue the particular method. However, in many instances side effects are mild or disappear with time. It is, therefore, very important to counsel a patient carefully about the side effects of the various contraceptive methods, and to determine whether she would find any of them unacceptable. At the same time the patient may be reassured that some side effects will most likely become less or disappear after a few months’ use of the method.
 
@@ -10123,7 +9356,7 @@ The major side effects of the various contraceptive methods used after delivery 
 
 Sterilisation
 
-Tubal ligation and vasectomy have no medical side-effects and, therefore, should be highly recommended during counselling of patients who have completed their families. Menstrual irregularities are not a problem. However, about 5% of women later regret sterilisation.
+Tubal ligation and vasectomy have no medical side-effects and, therefore, should be highly recommended during counselling of patients who have completed their families. Menstrual irregularities are *not* a problem. However, about 5% of women later regret sterilisation.
 
 Injectables
 
@@ -10189,7 +9422,7 @@ If a couple have completed their family the contraceptive method of choice is tu
 
 Additional contraceptive precautions must be taken when the effectiveness of an oral contraceptive may be impaired, e.g. diarrhoea or when taking antibiotics. There is no medical reason for stopping a hormonal method periodically to ‘give the body a rest’.
 
-14-11 What are the important health benefits of contraceptives?
+### 14-11 What are the important health benefits of contraceptives?
 
 The main objective of all contraceptive methods is to prevent pregnancy. In developing countries pregnancy is a major cause of mortality and morbidity in women. Therefore, the prevention of pregnancy is a very important general health benefit of all contraceptives.
 
@@ -10235,7 +9468,7 @@ Less cervical intra-epithelial neoplasia.
 
 The condom is the only contraceptive method that provides protection against HIV infection.
 
-14-12 What is the most appropriate method of contraception for a patient after delivery?
+### 14-12 What is the most appropriate method of contraception for a patient after delivery?
 
 The most suitable methods for the following groups of patients are:
 
@@ -10279,7 +9512,7 @@ An intra-uterine contraceptive device until 1 year after the periods have stoppe
 
 Patients of 35 years or over with risk factors for cardiovascular disease
 
-As above but no combination pill.
+As above but *no* combination pill.
 
 The puerperium is the most convenient time for the patient to have a bilateral tubal ligation performed.
 
@@ -10287,7 +9520,7 @@ Every effort should be made to provide facilities for tubal ligation during the 
 
 Remember that sperms may be present in the ejaculate for up to 3 months following vasectomy. Therefore, an additional contraceptive method must be used during this time.
 
-14-13 What are the risk factors for cardiovascular disease in women taking the combined pill?
+### 14-13 What are the risk factors for cardiovascular disease in women taking the combined pill?
 
 The risk of cardiovascular disease increases markedly in women of 35 or more years of age who have one or more of the following risk factors:
 
@@ -10303,7 +9536,7 @@ A personal history of cardiovascular disease.
 
 Smoking is a risk factor for cardiovascular disease.
 
-14-14 When should an intra-uterine contraceptive device be inserted after delivery?
+### 14-14 When should an intra-uterine contraceptive device be inserted after delivery?
 
 It should not be inserted before six weeks as the uterine cavity would not yet have returned to its normal size. At six weeks or more after delivery there is the lowest risk of:
 
@@ -10422,33 +9655,33 @@ Determine the maternal mortality rate.
 
 Regionalised perinatal care
 
-15-1 What is regionalised perinatal care?
+### 15-1 What is regionalised perinatal care?
 
 Regionalised perinatal care is the care of all pregnant women and their newborn infants in a single health system within a clearly defined region. The responsibility for perinatal care in that region must fall under a single health authority as this standardises care and prevents wasteful duplication of services. The borders of each healthcare region will have to be negotiated with the communities and local health authorities concerned. Similarly, other healthcare services should also be organised on a regional basis.
 
 All perinatal care provided in a region should be the responsibility of a single health authority.
 
-15-2 Do all women require the same care during their pregnancy, labour and puerperium?
+### 15-2 Do all women require the same care during their pregnancy, labour and puerperium?
 
 All patients should receive good care. However, all patients do not need the same care as they do not all run the same risk of developing perinatal problems. Patients can be classified into three separate groups:
 
-Most patients have only a small chance of developing problems during and after their pregnancy. These women are classified as low risk. About 50% of women fall into the low-risk category.
+Most patients have only a small chance of developing problems during and after their pregnancy. These women are classified as *low risk*. About 50% of women fall into the low-risk category.
 
-About 30% of patients have an increased chance of complications during certain periods of their pregnancy, labour and puerperium only. These patients are said to be at intermediate risk. For example, a patient who has had a previous Caesarean section for cephalopelvic disproportion is at low risk during her pregnancy and may, therefore, be cared for at a clinic. However, she is at increased risk during labour and, therefore, must be delivered in a hospital with facilities to perform a Caesarean section.
+About 30% of patients have an increased chance of complications during certain periods of their pregnancy, labour and puerperium only. These patients are said to be at *intermediate risk*. For example, a patient who has had a previous Caesarean section for cephalopelvic disproportion is at low risk during her pregnancy and may, therefore, be cared for at a clinic. However, she is at increased risk during labour and, therefore, must be delivered in a hospital with facilities to perform a Caesarean section.
 
-About 20% of women have an increased chance of medical or obstetric problems during their pregnancy and puerperium. They are classified as high-risk patients.
+About 20% of women have an increased chance of medical or obstetric problems during their pregnancy and puerperium. They are classified as *high-risk* patients.
 
-15-3 Should all pregnant women be delivered in a hospital?
+### 15-3 Should all pregnant women be delivered in a hospital?
 
 No. Low-risk patients need primary perinatal care only. This consists of good, basic perinatal care which can be provided at a district hospital or primary-care clinic. Low-risk patients should be delivered at a clinic or district hospital. Patients at high or intermediate risk need more than primary care. They require care at a district hospital with facilities to perform a Caesarean section, secondary level care or tertiary level care. Secondary perinatal care requires additional equipment as well as doctors and nurses with special training. Tertiary perinatal care usually consists of very expensive intensive care which requires highly specialised staff and sophisticated equipment.
 
 About half of all patients are at low risk of developing clinical problems during pregnancy, labour and the puerperium and, therefore, need primary perinatal care only.
 
-15-4 Should all patients be delivered by a doctor?
+### 15-4 Should all patients be delivered by a doctor?
 
 No. Patients at low risk who only need primary perinatal care can be safely delivered by a midwife. Patients needing care at a district hospital with facilities to perform a Caesarean section or secondary perinatal care may be delivered by a doctor or a midwife. Patients needing tertiary perinatal care are usually delivered by a doctor who has had specialist training, or a midwife with a doctor immediately available should complications develop. The important feature of tertiary care is the immediate availability of specialist staff and facilities should they be needed.
 
-15-5 What should be the relationship between the various hospitals in a healthcare region?
+### 15-5 What should be the relationship between the various hospitals in a healthcare region?
 
 Each healthcare region will have a regional hospital (level 2) which provides secondary care. Usually two or three regions are supported by a tertiary hospital (level 3). Some tertiary hospitals are attached to a medical school while most have a nursing college. Each region will also have a number of base or district hospitals (level 1) which will provide level 1 care. The regional hospital is responsible for the district hospitals in that region.
 
@@ -10458,11 +9691,11 @@ All medical and nursing staff in a health region should regard themselves as mem
 
 The fragmentation of health services, with various hospitals and clinics falling under different authorities, is a major cause of poor perinatal care in many communities.
 
-15-6 How should the district hospital assist the perinatal clinics in that district?
+### 15-6 How should the district hospital assist the perinatal clinics in that district?
 
 Each primary-care clinic should be linked to a district hospital (level 1) within the same region. The district hospital is responsible for the perinatal care given at the clinics in that district. The clinic staff should contact this hospital for help or advice, and problem patients should be referred to that hospital when needed. The staff of the district hospital should be able to rotate with the staff at the clinics. This ensures that the standard of care in the clinics is maintained at a high level, and also helps the hospital and clinics staff understand each other’s difficulties.
 
-15-7 How should clinic staff communicate with the referral hospital?
+### 15-7 How should clinic staff communicate with the referral hospital?
 
 A telephone or 2-way radio is essential so that the clinic staff and the hospital staff can speak directly to each other.
 
@@ -10476,7 +9709,7 @@ When speaking to the hospital staff, stress the important information and summar
 
 Always give your name and rank and ask who you are speaking to. If necessary, insist that you speak to a senior staff member if you are not satisfied with the advice you receive.
 
-15-8 How can a referral hospital improve communication with the clinic?
+### 15-8 How can a referral hospital improve communication with the clinic?
 
 A telephone line for incoming calls only (a ‘hotline’) should be available in the labour ward of the hospital so that the clinic staff can contact the hospital staff without delay.
 
@@ -10502,35 +9735,35 @@ Excellent communication and co-operation between the staff of hospitals and clin
 
 The maternal-care clinic
 
-15-9 What is a maternal-care clinic?
+### 15-9 What is a maternal-care clinic?
 
-A maternal-care clinic (perinatal-care clinic) is a special clinic where midwives provide primary antenatal and postnatal care. Some maternal-care clinics also have facilities to deliver low-risk patients. A maternal-care clinic with a delivery facility is often called a midwife obstetric unit (MOU). These clinics function day and night, and should be situated in or near to the community which it serves. Primary maternal and newborn care (primary perinatal care) is part of primary healthcare and, therefore, the facilities of a primary-healthcare centre are often used to provide perinatal care. In practice, the staff providing perinatal care usually provide other forms of primary healthcare as well. A maternal-care clinic may also be run in a level 1 hospital. In large urban or peri-urban communities, there may be maternal-care clinics separate from primary-healthcare centres. Some clinics only offer antenatal care with the mother having to deliver at another clinic further away from her home. These antenatal-care clinics must function as an extension of the maternal-care clinic with a delivery facility as very close co-operation is essential.
+A maternal-care clinic (perinatal-care clinic) is a special clinic where midwives provide primary antenatal and postnatal care. Some maternal-care clinics also have facilities to deliver low-risk patients. A maternal-care clinic with a delivery facility is often called a midwife obstetric unit (MOU). These clinics function day and night, and should be situated in or near to the community which it serves. Primary maternal and newborn care (primary perinatal care) is part of *primary healthcare* and, therefore, the facilities of a primary-healthcare centre are often used to provide perinatal care. In practice, the staff providing perinatal care usually provide other forms of primary healthcare as well. A maternal-care clinic may also be run in a level 1 hospital. In large urban or peri-urban communities, there may be maternal-care clinics separate from primary-healthcare centres. Some clinics only offer antenatal care with the mother having to deliver at another clinic further away from her home. These antenatal-care clinics must function as an extension of the maternal-care clinic with a delivery facility as very close co-operation is essential.
 
 At a maternal care clinic midwives provide primary perinatal care to low-risk patients.
 
-15-10 What are the functions of a midwife in a maternal-care clinic where deliveries are done?
+### 15-10 What are the functions of a midwife in a maternal-care clinic where deliveries are done?
 
 The midwife is responsible for all the antenatal care, the care during labour and delivery, and the postnatal care given at the clinic. The midwife should function as an independent nurse-practitioner and meet all the primary perinatal care needs of low-risk patients.
 
-15-11 What are the functions of a doctor in a maternal-care clinic?
+### 15-11 What are the functions of a doctor in a maternal-care clinic?
 
 The doctor does not fulfil the usual functions of a medical practitioner and should not see every patient who attends the clinic. The functions of the doctor are:
 
-To consult, i.e. to examine and advise on the management of patients referred by the midwives with various problems.
+To *consult*, i.e. to examine and advise on the management of patients referred by the midwives with various problems.
 
-To teach. It is essential that the doctor teaches the midwives the essential knowledge and clinical skills which they need to function competently in a maternal-care clinic.
+To *teach*. It is essential that the doctor teaches the midwives the essential knowledge and clinical skills which they need to function competently in a maternal-care clinic.
 
-To administer. Together with the senior midwife, the doctor should plan, implement and evaluate all care given at the maternal-care clinic.
+To *administer*. Together with the senior midwife, the doctor should plan, implement and evaluate all care given at the maternal-care clinic.
 
-To audit the number and reasons for referral.
+To *audit* the number and reasons for referral.
 
-15-12 What is the role of the community in a maternal-care clinic?
+### 15-12 What is the role of the community in a maternal-care clinic?
 
 The maternal-care clinic should be acceptable to the community as a facility which provides excellent primary perinatal care for patients from that community. Every effort should be made to involve the community in establishing and running the clinic. It is desirable to form a lay organisation (such as ‘Friends of the Maternal-Care Clinic’) to help meet this role. Representatives from the community, together with medical and nursing staff, should sit on the management board of the clinic. The community can help raise funds for the clinic and can also help provide some of the care, e.g. help run breastfeeding clinics and to be trained as doulas to assist women delivering in clinics or hospitals.
 
 The clinic staff should co-operate and communicate with community members, such as village health workers, traditional birth attendants (TBAs), traditional healers, breastfeeding advisors, social workers and schoolteachers, who can all assist in improving perinatal services in that community.
 
-15-13 What are the advantages of a maternal-care clinic with delivery facilities?
+### 15-13 What are the advantages of a maternal-care clinic with delivery facilities?
 
 The patient remains close to her home and community.
 
@@ -10542,7 +9775,7 @@ The staff often can work close to their homes which saves both time and money. S
 
 The many advantages of delivering low-risk patients in a clinic only apply if the clinic is supported by a level 1 or 2 hospital. The community will not accept care given at a maternal-care clinic if rapid and safe transfer is not available when patients develop complications.
 
-15-14 Why is delivery in a maternal-care clinic safer than a home delivery?
+### 15-14 Why is delivery in a maternal-care clinic safer than a home delivery?
 
 Many low-risk patients can be safely delivered at home. However, many homes do not have good lighting, a telephone, clean water and adequate space for a safe delivery. In addition, many homes are far from the hospital or clinic should problems occur with the mother or infant. In these circumstances it is far safer for the patient to deliver at a maternal-care clinic with a delivery facility where staff and equipment are available to deal with most of the perinatal complications. In densely populated areas midwives working in maternal-care clinics provide a better service to the community.
 
@@ -10551,18 +9784,18 @@ If patients are delivered at a clinic and then discharged home after an average 
 Note
 :	In an affluent community it may be possible to safely deliver carefully selected low-risk patients at home provided a telephone and immediate transport are available in case complications develop.
 
-15-15 Which patients should not be delivered at a maternal-care clinic but must be referred to a hospital?
+### 15-15 Which patients should not be delivered at a maternal-care clinic but must be referred to a hospital?
 
 Every perinatal region must draw up its own detailed and easily understood list of criteria for referring patients from a maternal-care clinic (or level 1 hospital) to either a level 2 or a level 3 hospital. The responsibility for drawing up the list of referral criteria rests with the senior members of the obstetric, neonatal and nursing staff at the regional (level 3) hospital, in consultation with the medical and nursing staff at the level 1 and 2 hospitals and maternal-care clinics. Referral criteria will differ between regions as the criteria will depend on the distance the patient has to be transferred, the facilities and staff available at the clinics, and the quality of the available transport. (A complete set of guidelines for the referral of antenatal patients is listed in Appendix 1.
 
 Note
 :	These referral criteria should be frequently reviewed in the light of the number and nature of the clinical problems requiring referral of patients to hospital.
 
-There must be referral criteria for the mother as well as for the newborn infant.
+There must be *referral criteria* for the mother as well as for the newborn infant.
 
 Each maternal-care clinic must have its own list of referral criteria.
 
-15-16 How can communication between the clinic staff and their patients be improved?
+### 15-16 How can communication between the clinic staff and their patients be improved?
 
 Make time to speak to the patients.
 
@@ -10588,19 +9821,19 @@ Be kind and helpful.
 
 At the completion of an antenatal visit the patient must be clearly informed if the findings were normal.
 
-15-17 What can be done to simplify note-keeping in a maternal-care clinic?
+### 15-17 What can be done to simplify note-keeping in a maternal-care clinic?
 
 The patient should carry a hand-held antenatal card or patient record which contains all her antenatal information. This is a simple, cheap and highly effective method of recording patient information when caring for low-risk patients. Most patients look after their cards and take them along to the clinic. It is uncommon for patients to lose their cards. This system avoids the frustrating situation where the patient presents at a clinic or hospital, but her folder is being kept elsewhere. Using an antenatal card instead of a folder also shortens the time the patient has to wait at the clinic and reduces the workload of the staff. If a hand-held antenatal card or patient record system is used, there is no need to issue patient folders before labour.
 
 Transferring patients safely to hospital
 
-15-18 How should the transfer of a patient from a clinic to a hospital be arranged?
+### 15-18 How should the transfer of a patient from a clinic to a hospital be arranged?
 
-It is essential that the base hospital be contacted before the patient is transferred. The clinical problem and the required management must be discussed between the maternal-care clinic staff and the hospital staff. Most patients who are transferred during the antenatal period do not need to get to hospital urgently and, therefore, do not need to be transported by ambulance. However, all patients transferred to hospital during labour will require ambulance transport. Usually the referring clinic or hospital will make the arrangements for transferring the patient. If the clinic arranges transport, the hospital must be notified of these arrangements.
+It is essential that the base hospital be contacted *before* the patient is transferred. The clinical problem and the required management must be discussed between the maternal-care clinic staff and the hospital staff. Most patients who are transferred during the antenatal period do not need to get to hospital urgently and, therefore, do not need to be transported by ambulance. However, all patients transferred to hospital during labour will require ambulance transport. Usually the referring clinic or hospital will make the arrangements for transferring the patient. If the clinic arranges transport, the hospital must be notified of these arrangements.
 
 Always contact the referral hospital before transferring a patient.
 
-15-19 What can be done to make the transfer of a patient as safe as possible?
+### 15-19 What can be done to make the transfer of a patient as safe as possible?
 
 Before an ill patient may be transferred from a primary maternal-care clinic to a hospital, both she and her fetus or newborn infant must first be stabilised. They will then be in the best possible condition to be moved and will have the best chance of arriving safely at the hospital. To achieve these objectives, the following must be done before the patient leaves the maternal-care clinic:
 
@@ -10614,15 +9847,15 @@ Oxygen and resuscitation equipment in good working order must be available. The 
 
 A person competent in adult and neonatal resuscitation must accompany the patient.
 
-15-20 Who should care for the patient while she is being transported to the hospital?
+### 15-20 Who should care for the patient while she is being transported to the hospital?
 
 There are a number of referral criteria where it is quite safe for the patient to travel to hospital with only a lay person accompanying her, e.g. a patient in early labour who has had a previous Caesarean section can use her own or public transport. These conditions must be detailed in the list of referral criteria. In all other circumstances, patients with complications must be accompanied by a qualified person competent in adult and neonatal resuscitation. This may be a midwife, doctor or trained ambulance personnel (ambumedics). To send an ill patient or newborn infant to hospital without being accompanied by such a qualified person is dangerous and is likely to result in serious complications or even the death of the patient and/or her infant.
 
-15-21 What documentation should be sent with the patient?
+### 15-21 What documentation should be sent with the patient?
 
 All the clinical notes of the patient (and her newborn infant) must be sent with her to the hospital. Good record-keeping is an essential part of perinatal care. Before transferring a patient you must, therefore, make sure that the patient record gives an accurate account of what has happened to the patient up to the time of transfer. It is very important to include details of the complications and the management. Clearly state why the patient requires transfer to hospital.
 
-15-22 What are the main dangers to the patient while she is being transported to the hospital?
+### 15-22 What are the main dangers to the patient while she is being transported to the hospital?
 
 Antepartum haemorrhage.
 
@@ -10638,7 +9871,7 @@ Delivery before arrival at the hospital.
 
 Maternal mortality
 
-15-23 What is the maternal mortality ratio?
+### 15-23 What is the maternal mortality ratio?
 
 The maternal mortality ratio is the number of women who die during pregnancy, labour, or the puerperium, and is expressed per 100 000 deliveries. Therefore, if 25 women die during pregnancy, labour, or the puerperium in a healthcare region where 50 000 deliveries are done a year, the maternal mortality ratio for that region in that year will be 50 per 100 000 (i.e. 25/50 000 x 100 000).
 
@@ -10648,9 +9881,9 @@ It is important to note that women who die as a result of complications in early
 
 The maternal mortality rate in developing countries is high.
 
-15-24 What is the value of knowing the maternal mortality ratio in your region?
+### 15-24 What is the value of knowing the maternal mortality ratio in your region?
 
-It is very important to determine the maternal mortality ratio in each region of the country as this ratio reflects the quality of the care provided to women during pregnancy, and during and after delivery. Even in a poor community, the maternal mortality ratio can be reduced by the provision of good perinatal care. Knowing the maternal mortality ratio of a region also allows comparisons to be made with other regions or comparisons between patients delivered in different years in a region. As the quality of perinatal care improves, the maternal mortality ratio should decrease.
+It is very important to determine the maternal mortality ratio in *each* region of the country as this ratio reflects the quality of the care provided to women during pregnancy, and during and after delivery. Even in a poor community, the maternal mortality ratio can be reduced by the provision of good perinatal care. Knowing the maternal mortality ratio of a region also allows comparisons to be made with other regions or comparisons between patients delivered in different years in a region. As the quality of perinatal care improves, the maternal mortality ratio should decrease.
 
 By determining the causes of maternal death, preventable causes, such as postpartum haemorrhage, may be identified. Measures to prevent these complications can then be introduced throughout the region.
 
@@ -10661,17 +9894,17 @@ Note
 
 A photostat copy of the patient’s entire folder must accompany the maternal death notification forms, as well as photocopies of the patient’s folders from any other hospitals or clinics where the patient had been managed before. All information in these folders will be kept strictly confidential.
 
-15-25 What is the difference between primary and final causes of maternal mortality?
+### 15-25 What is the difference between primary and final causes of maternal mortality?
 
-The primary cause of death is the initiating complication or condition that triggered a sequence of events ultimately resulting in a maternal death.
+The *primary* cause of death is the initiating complication or condition that triggered a sequence of events ultimately resulting in a maternal death.
 
-The final cause of death is the complication that ultimately resulted in a maternal death.
+The *final* cause of death is the complication that ultimately resulted in a maternal death.
 
 A woman develops severe pre-eclampsia during pregnancy, her blood pressure is not controlled, and a fatal intracranial haemorrhage occurs. The primary and final causes of the maternal death will be pre-eclampsia and an intracranial haemorrhage respectfully.
 
-15-26 What are the important primary causes of maternal mortality in a developing country?
+### 15-26 What are the important primary causes of maternal mortality in a developing country?
 
-The commonest primary causes of maternal mortality in South Africa are:
+The commonest *primary* causes of maternal mortality in South Africa are:
 
 The complications of HIV/AIDS.
 
@@ -10685,7 +9918,7 @@ In many developing countries, haemorrhage and infection are responsible for more
 
 In contrast, the commonest causes of maternal mortality in a developed country, such as the United Kingdom, are thromboembolism, the hypertensive disorders of pregnancy, and deaths resulting from complications of anaesthesia.
 
-15-27 Should each maternal death be discussed at a special meeting?
+### 15-27 Should each maternal death be discussed at a special meeting?
 
 Yes. It is very important that each maternal death is discussed to discover the cause. The aim is not to punish anyone who made an error, but rather to learn from the case report in order to prevent the same mistake being made again. Once the common causes of maternal death in a region are identified, steps must be taken to prevent the problems which lead to those deaths.
 
@@ -10957,7 +10190,7 @@ If abnormal –
 
 Drugs or medication	Danger of teratogenesis.
 
-Points towards a disease not mentioned in the history.	Get accurate details and consult a doctor.
+Points towards a disease *not* mentioned in the history.	Get accurate details and consult a doctor.
 
 	1
 
@@ -12771,9 +12004,9 @@ AZT plus FDC
 
 20. Antiretroviral treatment is indicated if the woman has:
 
-A CD4 count below 500 cells/mm3
+A CD4 count below 500 cells/mm³
 
-A CD4 count below 350 cells/mm3
+A CD4 count below 350 cells/mm³
 
 Oral candidiasis (thrush)
 
@@ -12923,9 +12156,9 @@ Antenatal fetal heart rate monitoring should be done on all patients with suspec
 
 Antenatal fetal heart rate monitoring should be done on high-risk patients where fetal movements have not been shown to be a reliable method of assessing the fetal condition, such as insulin-dependent diabetics, prelabour rupture of the membranes and pre-eclampsia which is being managed conservatively.
 
-Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.
 
-15. If there is a non-reactive fetal heart rate pattern:
+
+15. If there is a non-reactive fetal heart rate pattern: (*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*)
 
 No decelerations occur despite uterine contractions.
 

@@ -8,7 +8,7 @@ layout: chapter
 
 ## About the Bettercare series
 
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation and the Desmond Tutu TB Centre, with contributions from numerous experts.
+Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project and the Academic Unit for Infection Prevention and Control and Infection Control Africa Network with contributions from numerous experts.
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
@@ -18,7 +18,7 @@ The Bettercare series is built on the experience of the Perinatal Education Prog
 
 Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health workers’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
-To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in poor, rural communities.
+To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in under-resourced regions.
 
 ## Books in the Bettercare series
 
@@ -32,11 +32,11 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Intrapartum Care
 
-*Intrapartum Care* was developed for doctors and advanced midwives who care for women who deliver in district hospitals. It contains theory chapters and skills workshops adapted from the labour chapters of *Maternal Care*. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. *Intrapartum Care* was written to support and complement the national protocol of intrapartum care in South Africa.
+*Intrapartum Care* was developed for doctors and advanced midwives who care for women who deliver in level 2 hospitals. It contains theory chapters and skills workshops adapted from the labour chapters of *Maternal Care*. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. *Intrapartum Care* was written to support and complement the national protocol of intrapartum care and the essential steps to manage obstetric emergencies (ESMOE) in South Africa.
 
 ### Newborn Care
 
-*Newborn Care* was written for health workers providing special care for newborn infants in regional hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills workshops address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
+*Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills workshops address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
 
 ### Primary Newborn Care
 
@@ -64,7 +64,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Childhood TB
 
-*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed by Prof Dave Woods of the Perinatal Education Programme and Prof Robert Gie of the Desmond Tutu Tuberculosis Centre, in collaboration with other experts.
+*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu Tuberculosis Centre.
 
 ### Child Healthcare
 
@@ -80,11 +80,19 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Breast Care
 
-*Breast Care* was written for nurses and doctors who manage the health needs of women from childhood to old age. It covers the assessment and management of benign breast conditions, breast cancer and palliative care.
+*Breast Care* was written for nurses and doctors who manage the health needs of women from childhood to old age. It covers breast examination, the assessment and management of benign breast conditions, the diagnosis and management of breast cancer and palliative care.
 
 ### Infection Prevention and Control
 
 *Infection Prevention and Control* was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
+
+### Ebola Prevention and Control
+
+*Ebola Prevention and Control* is a guide to managing, preventing and controlling Ebola and other viral haemorrhagic fevers, especially in resource-limited settings. It covers virology and epidemiology, patient management, protection of healthcare workers, support services and documentation, and communication and community engagement. It was written for healthcare workers, managers and administrators tasked with preventing, controlling and managing outbreaks of viral haemorrhagic diseases.
+
+### Maternal Mental Health
+
+*Maternal Mental Health* was written for doctors, nurses and social workers caring for women before and after birth. It includes an introduction to maternal mental health and illness, making referrals for maternal mental illness, helping mothers with mental health problems and special issues in maternal mental health. It includes a resource section for assessing, referring and supporting mothers in the perinatal period.
 
 ## Format of the courses
 
@@ -113,11 +121,7 @@ Note
 
 ### Case studies
 
-Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned earlier in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital. The participant should attempt to answer each question in the case study before reading the correct answer. 
-
-### Practical training
-
-Certain chapters contain skills workshops, which need to be practised by the participants (preferably in groups). The skills workshops, which are often illustrated with line drawings, list essential equipment and present step-by-step instructions on how to perform each task. If participants aren’t familiar with a practical skill, they are encouraged to ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues.
+Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned earlier in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital. The participant should attempt to answer each question in the case study before reading the correct answer. Case studies without the correct answers are also used at the start of some chapters to identify common clinical problems that need to be addressed.
 
 ### Final examination
 
@@ -125,7 +129,7 @@ On completion of each course, participants can take a 75-question, self-managed 
 
 All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills workshops will not be included in the examination.
 
-Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. South African doctors can earn CPD points on the successful completion of an examination.
+Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. South African doctors can earn CPD points on the successful completion of the CPD test at the end of each chapter.
 
 ## Contributors
 
@@ -133,7 +137,7 @@ The developers of our learning materials are a multi-disciplinary team of nurses
 
 ### Perinatal Education Trust
 
-Books developed by the Perinatal Education Programme are provided as cheaply as possible. Writing and updating the programme is both funded and managed on a non-profit basis by the Perinatal Education Trust.
+Books developed for the Perinatal Education Programme are provided as cheaply as possible. Writing and updating the programme is both funded and managed on a non-profit basis by the Perinatal Education Trust.
 
 ### Eduhealthcare
 
@@ -146,6 +150,14 @@ The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is
 ### The Desmond Tutu Tuberculosis Centre
 
 The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
+
+### Perinatal Mental Health Project
+
+The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and anxiety. 
+
+### The Infection Control Africa Network
+
+The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health related associations.
 
 ### Updating the course material
 
