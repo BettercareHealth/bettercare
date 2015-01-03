@@ -2612,60 +2612,54 @@ A postpartum sterilisation. Postpartum sterilisation should be discussed with th
 
 
 3A
+{:.chapter-number}
 
-Skills: Measuring blood pressure and proteinuria
+# Skills: Measuring blood pressure and proteinuria
 
-Objectives
+## Objectives
 
 When you have completed this skills chapter you should be able to:
 
-Measure the blood pressure.
+*	Measure blood pressure.
+*	Measure the amount of protein in the urine.
 
-Measure the amount of protein in the urine.
+## Measuring blood pressure
 
-Measuring blood pressure
-
-A. The standardised method of measuring blood pressure
+### A. The standardised method of measuring blood pressure
 
 The following are important if you want to measure the blood pressure accurately:
 
-The right upper arm is used.
+1.	The right upper arm is used.
+2.	The arm must be taken out of the sleeve.
+3.	The patient should lie on her right side with a 30 degree lateral tilt or sit in a chair.
+4.	Take the blood pressure after a five-minute period of rest.
+5.	The cuff must be applied correctly. If the patient is sitting in a chair, the blood pressure apparatus must be at the same level as her upper arm.
+6.	The systolic blood pressure is taken at Korotkoff phase 1.
+7.	The diastolic blood pressure is taken at Korotkoff phase 5.
 
-The arm must be taken out of the sleeve.
+> The patient should lie on her right side or sit when her blood pressure is measured.
 
-The patient should lie on her right side with a 30 degree lateral tilt or sit in a chair.
-
-Take the blood pressure after a five-minute period of rest.
-
-The cuff must be applied correctly. If the patient is sitting in a chair, the blood pressure apparatus must be at the same level as her upper arm.
-
-The systolic blood pressure is taken at Korotkoff phase 1.
-
-The diastolic blood pressure is taken at Korotkoff phase 5.
-
-The patient should lie on her right side or sit when her blood pressure is measured.
-
-B. Use the right arm
+### B. Use the right arm
 
 The examination couches in most clinics stand with their left side against a wall as it is most convenient for a right-handed person to examine from the right side of the patient. The lower arm (i.e. the right arm if she is lying on her right side) should be used, as the upper arm will give false low readings as it is above the level of the heart. The arm must be fully undressed so that the cuff can be correctly applied.
 
-C. The patient must not lie on her back
+### C. The patient must not lie on her back
 
 The patient should lie down on her side or sit. She should always lie slightly turned onto her side. Lying on her back may cause the uterus to press on the inferior vena cava resulting in a decreased return of blood to the heart and a drop in blood pressure. A false low blood pressure may, therefore, be recorded.
 
-D. Allow the patient to rest for 5 minutes before measuring the blood pressure
+### D. Allow the patient to rest for 5 minutes before measuring the blood pressure
 
 Anxiety and the effort of climbing onto the couch often increases the blood pressure. This will usually return to a resting value if the patient can lie down and relax for 5 minutes.
 
-E. How to apply the cuff
+### E. How to apply the cuff
 
 A standard-size cuff (width of 14.5 cm) is usually used. If the mid-upper arm circumference is more than 33 cm, then use a wide cuff (17.5 cm ) to get a correct reading. The cuff must be applied firmly around the arm, not allowing more than 1 finger between the cuff and the patient’s arm.
 
-F. Listening to the pulse
+### F. Listening to the pulse
 
 The cuff should be pumped up with a finger feeling the brachial or radial pulse. Only when the pulse can no longer be felt, should the stethoscope be put over the brachial pulse and the pressure released slowly.
 
-G. Recognising the Korotkoff phases 1 and 5
+### G. Recognising the Korotkoff phases 1 and 5
 
 The Korotkoff phases are times when the sound of the pulse changes during the measurement of the blood pressure:
 
@@ -2673,13 +2667,13 @@ Phase 1 is the first sound which you hear after the cuff pressure is released. T
 
 Phase 5 is the time when the sound of the pulse disappears. Usually the sound gets softer before it disappears, but sometimes it disappears without first becoming softer. However, in all cases the diastolic blood pressure must be read when the sound of the pulse disappears.
 
-Measuring proteinuria
+## Measuring proteinuria
 
-H. Measuring the amount of proteinuria
+### H. Measuring the amount of proteinuria
 
 The amount of protein in a sample of urine is simply and easily measured with a plastic reagent strip.
 
-I. Grading the amount of proteinuria
+### I. Grading the amount of proteinuria
 
 Using a reagent strip the amount of proteinuria is graded as follows:
 
@@ -2693,45 +2687,39 @@ Using a reagent strip the amount of proteinuria is graded as follows:
 
 Remember that a trace (0.1g/l) of protein is not regarded as significant proteinuria and may occur normally.
 
-J. The use of a reagent strip to measure the amount of proteinuria
+### J. The use of a reagent strip to measure the amount of proteinuria
 
-Collect a fresh specimen of urine.
+1.	Collect a fresh specimen of urine.
+2.	Remove a reagent strip from the bottle and replace the cap.
+3.	Dip the strip into the urine so that all the test areas are completely covered, then immediately remove the strip.
+4.	Wait 60 seconds.
+5.	Hold the strip horizontally and compare with the colour blocks on the side of the bottle. Hold the strip close to the bottle to match the colours but do not rest it on the bottle as the urine will damage the colour chart. The darker the colour of the reagent strip, the greater is the amount of proteinuria.
 
-Remove a reagent strip from the bottle and replace the cap.
-
-Dip the strip into the urine so that all the test areas are completely covered, then immediately remove the strip.
-
-Wait 60 seconds.
-
-Hold the strip horizontally and compare with the colour blocks on the side of the bottle. Hold the strip close to the bottle to match the colours but do not rest it on the bottle as the urine will damage the colour chart. The darker the colour of the reagent strip, the greater is the amount of proteinuria.
-
-K. Reagent strips can give a false reading
+### K. Reagent strips can give a false reading
 
 Reagent strips may incorrectly assess the degree of proteinuria if the urine is very concentrated or very dilute. Do not use the first urine passed in the morning as it may be concentrated and, therefore, give a falsely high reading.
 
-4
 
-Antepartum haemorrhage
+
+4
+{:.chapter-number}
+
+# Antepartum haemorrhage
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Understand why an antepartum haemorrhage should always be regarded as serious.
+*	Understand why an antepartum haemorrhage should always be regarded as serious.
+*	Provide the initial management of a patient presenting with an antepartum haemorrhage.
+*	Understand that it is sometimes necessary to deliver the fetus as soon as possible, in order to save the life of the mother or infant.
+*	Diagnose the cause of the bleeding from the history and examination of the patient.
+*	Correctly manage each of the causes of antepartum haemorrhage.
+*	Diagnose the cause of a blood-stained vaginal discharge and administer appropriate treatment.
 
-Provide the initial management of a patient presenting with an antepartum haemorrhage.
-
-Understand that it is sometimes necessary to deliver the fetus as soon as possible, in order to save the life of the mother or infant.
-
-Diagnose the cause of the bleeding from the history and examination of the patient.
-
-Correctly manage each of the causes of antepartum haemorrhage.
-
-Diagnose the cause of a blood-stained vaginal discharge and administer appropriate treatment.
-
-Antepartum haemorrhage
+## Antepartum haemorrhage
 
 ### 4-1 What is an antepartum haemorrhage?
 
@@ -2742,13 +2730,12 @@ Note
 
 ### 4-2 Why is an antepartum haemorrhage such a serious condition?
 
-The bleeding can be so severe that it can endanger the life of both the mother and fetus.
-
-Abruptio placentae is a common cause of antepartum haemorrhage and an important cause of perinatal death in many communities.
+1.	The bleeding can be so severe that it can endanger the life of both the mother and fetus.
+2.	Abruptio placentae is a common cause of antepartum haemorrhage and an important cause of perinatal death in many communities.
 
 Therefore, all patients who present with an antepartum haemorrhage must be regarded as serious emergencies until a diagnosis has been made. Further management will depend on the cause of the haemorrhage.
 
-Any vaginal bleeding during pregnancy may be an important danger sign that must be reported immediately.
+> Any vaginal bleeding during pregnancy may be an important danger sign that must be reported immediately.
 
 ### 4-3 What advice about vaginal bleeding should you give to all patients?
 
@@ -2758,99 +2745,78 @@ Every patient must be advised that any vaginal bleeding is potentially serious a
 
 The management consists of four important steps that should be carried out in the following order:
 
-The maternal condition must be evaluated and stabilised, if necessary.
-
-The condition of the fetus must then be assessed.
-
-The cause of the haemorrhage must be diagnosed.
-
-Finally, the definitive management of an antepartum haemorrhage, depending on the cause, must be given.
+1.	The maternal condition must be evaluated and stabilised, if necessary.
+2.	The condition of the fetus must then be assessed.
+3.	The cause of the haemorrhage must be diagnosed.
+4.	Finally, the definitive management of an antepartum haemorrhage, depending on the cause, must be given.
 
 It must also be decided whether the patient should be transferred for further treatment.
 
-The initial emergency management of antepartum haemorrhage
+## The initial emergency management of antepartum haemorrhage
 
 The management must always be provided in the following order:
 
-Assess the condition of the patient. If the patient is shocked, she must be resuscitated immediately.
-
-Assess the condition of the fetus. If the fetus is viable but distressed, an emergency delivery is needed.
-
-Diagnose the cause of the bleeding, taking the clinical findings into account and, if necessary, the results of special investigations.
+1.	Assess the condition of the patient. If the patient is shocked, she must be resuscitated immediately.
+2.	Assess the condition of the fetus. If the fetus is viable but distressed, an emergency delivery is needed.
+3.	Diagnose the cause of the bleeding, taking the clinical findings into account and, if necessary, the results of special investigations.
 
 The initial management and diagnosis of a patient with vaginal bleeding is summarised in Flow diagram 4-1.
 
 ### 4-5 What symptoms and signs indicate that the patient is shocked due to blood loss?
 
-Dizziness is the commonest symptom of shock.
-
-On general examination the patient is sweating, her skin and mucous membranes are pale, and she feels cold and clammy to the touch.
-
-The blood pressure is low and the pulse rate fast.
+1.	Dizziness is the commonest symptom of shock.
+2.	On general examination the patient is sweating, her skin and mucous membranes are pale, and she feels cold and clammy to the touch.
+3.	The blood pressure is low and the pulse rate fast.
 
 ### 4-6 How should you manage a shocked patient with an antepartum haemorrhage?
 
 When there are symptoms and signs to indicate that the patient is shocked, you must:
 
-Put up *2* intravenous infusions (‘drips’) with Balsol or Ringer’s lactate, to run in quickly in order to actively resuscitate the patient.
-
-Insert a Foley catheter into the patient’s bladder to measure the urinary volume and to monitor further urine output.
-
-If blood is available, take blood for cross-matching at the time of putting up the intravenous infusion and order 2 or more units of blood urgently.
-
-Listen to the fetal heart:
-
-If fetal distress is present and the fetus is assessed to be viable (28 weeks or an estimated weight of 1000 g or more), then deliver by the quickest possible method, usually by Caesarean section.
-
-If fetal distress is excluded, if the fetus is too preterm to be viable, or if there is an intra-uterine death, then more attention can be given to the history and examination of the patient in order to make a diagnosis of the cause of the bleeding.
+1.	Put up *2* intravenous infusions (‘drips’) with Balsol or Ringer’s lactate, to run in quickly in order to actively resuscitate the patient.
+2.	Insert a Foley catheter into the patient’s bladder to measure the urinary volume and to monitor further urine output.
+3.	If blood is available, take blood for cross-matching at the time of putting up the intravenous infusion and order 2 or more units of blood urgently.
+4.	Listen to the fetal heart:
+	*	If fetal distress is present and the fetus is assessed to be viable (28 weeks or an estimated weight of 1000 g or more), then deliver by the quickest possible method, usually by Caesarean section.
+	*	If fetal distress is excluded, if the fetus is too preterm to be viable, or if there is an intra-uterine death, then more attention can be given to the history and examination of the patient in order to make a diagnosis of the cause of the bleeding.
 
 ### 4-7 What must you do if a patient presents with a life-threatening haemorrhage?
 
 The maternal condition takes preference over that of the fetus. The patient, therefore, is actively resuscitated while arrangements are made to terminate the pregnancy by Caesarean section.
 
-Diagnosing the cause of the bleeding
+## Diagnosing the cause of the bleeding
 
 ### 4-8 Should you treat all patients with antepartum haemorrhage in the same way, irrespective of the amount and character of the bleed?
 
 No. The management differs depending on whether the vaginal bleeding is diagnosed as a ‘haemorrhage’ on the one hand, or a blood-stained vaginal discharge or a ‘show’ on the other hand. A careful assessment of the amount and type of bleeding is, therefore, very important.
 
-Any vaginal bleeding at or after 24 weeks must be diagnosed as an *antepartum haemorrhage* if any of the following are present:
+1.	Any vaginal bleeding at or after 24 weeks must be diagnosed as an *antepartum haemorrhage* if any of the following are present:
+	*	A sanitary pad is at least partially soaked with blood.
+	*	Blood runs down the patient’s legs.
+	*	A clot of blood has been passed.
 
-A sanitary pad is at least partially soaked with blood.
+	A diagnosis of a haemorrhage always suggests a serious complication.
 
-Blood runs down the patient’s legs.
-
-A clot of blood has been passed.
-
-A diagnosis of a haemorrhage always suggests a serious complication.
-
-*A blood-stained vaginal discharge* will consist of a discharge mixed with a small amount of blood.
-
-A ‘show’ will consist of a small amount of blood mixed with mucus. The blood-stained vaginal discharge or ‘show’ will be present on the surface of the sanitary pad but will not soak it.
+2.	*A blood-stained vaginal discharge* will consist of a discharge mixed with a small amount of blood.
+3.	A ‘show’ will consist of a small amount of blood mixed with mucus. The blood-stained vaginal discharge or ‘show’ will be present on the surface of the sanitary pad but will not soak it.
 
 If the maternal and fetal conditions are satisfactory, then a careful speculum examination should be done to exclude a local cause of the bleeding. Do *not* perform a digital vaginal examination, as this may cause a massive haemorrhage if the patient has a placenta praevia.
 
-Do not do a digital vaginal examination until placenta praevia has been excluded.
+> Do not do a digital vaginal examination until placenta praevia has been excluded.
 
 ### 4-9 How does a speculum examination help you determine the cause of the bleeding?
 
-Bleeding through a closed cervical os confirms the diagnosis of a haemorrhage.
-
-If the cervix is a few centimetres dilated with bulging membranes, or the presenting part of the fetus is visible, this suggests that the bleed was a ‘show’.
-
-A blood-stained discharge in the vagina, with no bleeding through the cervical os, suggests a vaginitis.
-
-Bleeding from the surface of the cervix caused by contact with the speculum (i.e. contact bleeding) may indicate a cervicitis or cervical intra-epithelial neoplasia (CIN).
-
-Bleeding from a cervical tumour or an ulcer may indicate an infiltrating carcinoma.
+1.	Bleeding through a closed cervical os confirms the diagnosis of a haemorrhage.
+2.	If the cervix is a few centimetres dilated with bulging membranes, or the presenting part of the fetus is visible, this suggests that the bleed was a ‘show’.
+3.	A blood-stained discharge in the vagina, with no bleeding through the cervical os, suggests a vaginitis.
+4.	Bleeding from the surface of the cervix caused by contact with the speculum (i.e. contact bleeding) may indicate a cervicitis or cervical intra-epithelial neoplasia (CIN).
+5.	Bleeding from a cervical tumour or an ulcer may indicate an infiltrating carcinoma.
 
 ### 4-10 Can you rely on clinical findings to determine the cause of a haemorrhage?
 
 In many cases the history and examination of the abdomen will enable the patient to be put into one of two groups:
 
-Abruptio placentae.
-
-Placenta praevia.
+1.	Abruptio placentae.
+2.	Placenta praevia.
 
 There are some patients in whom no reason for the haemorrhage can be found. Such a haemorr­hage is classified as an antepartum haemorrhage of unknown cause.
 
@@ -2858,13 +2824,13 @@ There are some patients in whom no reason for the haemorrhage can be found. Such
 
 Abruptio placentae is the commonest cause of antepartum haemorrhage leading to fetal distress. However, sometimes there may be very little or no bleeding even with a severe abruptio placentae.
 
-An antepartum haemorrhage with fetal distress or fetal death is almost always due to abruptio placentae.
+> An antepartum haemorrhage with fetal distress or fetal death is almost always due to abruptio placentae.
 
 ### 4-12 What is the most likely cause of a life-threatening antepartum haemorrhage?
 
 A placenta praevia is the most likely cause of a massive antepartum haemorrhage that threatens the patient’s life.
 
-Antepartum bleeding caused by abruptio placentae
+## Antepartum bleeding caused by abruptio placentae
 
 ### 4-13 What is abruptio placentae?
 
@@ -2874,49 +2840,35 @@ Abruptio placentae (placental abruption) means that part or all of the normally 
 
 Patients with:
 
-A history of an abruptio placentae in a previous pregnancy. (There is a 10% chance of recurrence after an abruptio placentae in a previous pregnancy and a 25% chance after two previous pregnancies with an abruptio placentae.)
-
-Pre-eclampsia (gestational proteinuric hypertension) and, to a lesser extent, any of the other hypertensive disorders of pregnancy.
-
-Intra-uterine growth restriction.
-
-Cigarette smoking.
-
-Poor socio-economic conditions.
-
-A history of abdominal trauma, e.g. a fall or kick on the abdomen.
+1.	A history of an abruptio placentae in a previous pregnancy. (There is a 10% chance of recurrence after an abruptio placentae in a previous pregnancy and a 25% chance after two previous pregnancies with an abruptio placentae.)
+2.	Pre-eclampsia (gestational proteinuric hypertension) and, to a lesser extent, any of the other hypertensive disorders of pregnancy.
+3.	Intra-uterine growth restriction.
+4.	Cigarette smoking.
+5.	Poor socio-economic conditions.
+6.	A history of abdominal trauma, e.g. a fall or kick on the abdomen.
 
 ### 4-15 What symptoms point to a diagnosis of abruptio placentae?
 
-An antepartum haemorrhage which is associated with continuous severe abdominal pain.
-
-A history that the blood is dark red with clots.
-
-Absence of fetal movements following the bleeding.
+1.	An antepartum haemorrhage which is associated with continuous severe abdominal pain.
+2.	A history that the blood is dark red with clots.
+3.	Absence of fetal movements following the bleeding.
 
 ### 4-16 What do you expect to find on examination of the patient?
 
-The general examination and observations show that the patient is shocked, often out of proportion to the amount of visible blood loss.
-
-The patient usually has severe abdominal pain.
-
-The abdominal examination shows the following:
-
-The uterus is tonically contracted, hard and tender, so much so that the whole abdomen may be rigid.
-
-Fetal parts cannot be palpated.
-
-The uterus is bigger than the patient’s dates suggest.
-
-The haemoglobin concentration is low, indicating severe blood loss.
-
-The fetal heartbeat is almost always absent in a severe abruptio placentae.
+1.	The general examination and observations show that the patient is shocked, often out of proportion to the amount of visible blood loss.
+2.	The patient usually has severe abdominal pain.
+3.	The abdominal examination shows the following:
+	*	The uterus is tonically contracted, hard and tender, so much so that the whole abdomen may be rigid.
+	*	Fetal parts cannot be palpated.
+	*	The uterus is bigger than the patient’s dates suggest.
+	*	The haemoglobin concentration is low, indicating severe blood loss.
+4.	The fetal heartbeat is almost always absent in a severe abruptio placentae.
 
 These symptoms and signs are typical of a severe abruptio placentae. However, abruptio placentae may present with symptoms and signs which are less obvious, making the diagnosis difficult.
 
 The management of abruptio placentae is summarised in flow diagram 4-2.
 
-The diagnosis of severe abruptio placentae can usually be made from the history and physical examination.
+> The diagnosis of severe abruptio placentae can usually be made from the history and physical examination.
 
 ### 4-17 What would you do if the fetal heartbeat was still present?
 
@@ -2924,44 +2876,32 @@ If the fetal heartbeat is still present with an abruptio placentae, there will u
 
 ### 4-18 How should you decide on the method of delivery if the fetal heartbeat is still present?
 
-If the symptoms and signs are typical of an abruptio placentae, a vaginal examination should be done.
-
-If the cervix is at least 9 cm dilated, and the presenting part is well down in the pelvis, then the membranes should be ruptured and the infant delivered vaginally. If these conditions are not present, an emergency Caesarean section should be done.
-
-If the fetus is not viable, it should be delivered vaginally if the diagnosis is abruptio placentae.
-
-While preparations for delivery are being made, the mother must be resuscitated and intra-uterine resuscitation of the fetus started. However, salbutamol or nifedipine must *not* be given to a patient who shows any evidence of shock.
-
-When there is doubt about the diagnosis, specifically when placenta praevia cannot be excluded on history and examination, then a digital vaginal examination should *not* be done. If fetal distress is present and the fetus is viable, a Caesarean section must be done. If there is neither fetal distress nor severe vaginal bleeding, the possibility of a placenta praevia must be investigated. An ultrasound examination or vaginal examination in theatre must then be done.
+1.	If the symptoms and signs are typical of an abruptio placentae, a vaginal examination should be done.
+2.	If the cervix is at least 9 cm dilated, and the presenting part is well down in the pelvis, then the membranes should be ruptured and the infant delivered vaginally. If these conditions are not present, an emergency Caesarean section should be done.
+3.	If the fetus is not viable, it should be delivered vaginally if the diagnosis is abruptio placentae.
+4.	While preparations for delivery are being made, the mother must be resuscitated and intra-uterine resuscitation of the fetus started. However, salbutamol or nifedipine must *not* be given to a patient who shows any evidence of shock.
+5.	When there is doubt about the diagnosis, specifically when placenta praevia cannot be excluded on history and examination, then a digital vaginal examination should *not* be done. If fetal distress is present and the fetus is viable, a Caesarean section must be done. If there is neither fetal distress nor severe vaginal bleeding, the possibility of a placenta praevia must be investigated. An ultrasound examination or vaginal examination in theatre must then be done.
 
 ### 4-19 What should you do if the fetal heartbeat is absent?
 
-Active resuscitation of the mother is a priority and should have been started as part of the initial emergency management:
-
-2 intravenous infusion lines are usually needed, one of which can be a central venous pressure line inserted in the antecubital fossa.
-
-2 units of fresh frozen plasma, and at least 4 units of whole blood are usually needed for effective resuscitation.
-
-A Foley catheter is inserted into the bladder.
-
-The pulse rate and blood pressure must be checked every 15 minutes until the patient’s condition stabilises, and half-hourly thereafter. The urinary output must be recorded hourly.
-
-The membranes are then ruptured, following which cervical dilatation and delivery of the fetus usually occur quickly.
-
-Pain relief in the form of pethidine or morphine and promethazine (Phenegan) or hydroxyzine (Aterax) should be given once the patient is adequately resuscitated.
+1.	Active resuscitation of the mother is a priority and should have been started as part of the initial emergency management:
+	*	2 intravenous infusion lines are usually needed, one of which can be a central venous pressure line inserted in the antecubital fossa.
+	*	2 units of fresh frozen plasma, and at least 4 units of whole blood are usually needed for effective resuscitation.
+2.	A Foley catheter is inserted into the bladder.
+3.	The pulse rate and blood pressure must be checked every 15 minutes until the patient’s condition stabilises, and half-hourly thereafter. The urinary output must be recorded hourly.
+4.	The membranes are then ruptured, following which cervical dilatation and delivery of the fetus usually occur quickly.
+5.	Pain relief in the form of pethidine or morphine and promethazine (Phenegan) or hydroxyzine (Aterax) should be given once the patient is adequately resuscitated.
 
 ### 4-20 Why is it important to remember that many patients with abruptio placentae have underlying pre-eclampsia?
 
-Signs of shock may be present even with a normal blood pressure. These patients, nevertheless, need active resuscitation.
-
-After resuscitation a hypotensive patient may become hypertensive, so much so that dihydralazine (Nepresol) may have to be given parenterally or nifedipine (Adalat) orally.
-
-Magnesium sulphate must be given if the patient develops imminent eclampsia.
+1.	Signs of shock may be present even with a normal blood pressure. These patients, nevertheless, need active resuscitation.
+2.	After resuscitation a hypotensive patient may become hypertensive, so much so that dihydralazine (Nepresol) may have to be given parenterally or nifedipine (Adalat) orally.
+3.	Magnesium sulphate must be given if the patient develops imminent eclampsia.
 
 Note
 :	These patients are haemodynamically very unstable. Although initially they also require active resuscitation, they quickly become fluid overloaded, resulting in pulmonary oedema. Renal complications, such as acute tubular necrosis, commonly occur.
 
-Abruptio placentae with pre-eclampsia is a serious condition with a high risk of maternal death.
+> Abruptio placentae with pre-eclampsia is a serious condition with a high risk of maternal death.
 
 ### 4-21 At your initial assessment of the patient, how would you know whether or not there is underlying pre-eclampsia present?
 
@@ -2973,15 +2913,12 @@ Postpartum haemorrhage, as this is common after abruptio placentae.
 
 ### 4-23 What action should you take to prevent postpartum haemorrhage?
 
-Syntometrine 1 ampoule should be given intramuscularly, if the patient is not hypertensive. Only oxytocin is used in a hypertensive patient.
+1.	Syntometrine 1 ampoule should be given intramuscularly, if the patient is not hypertensive. Only oxytocin is used in a hypertensive patient.
+2.	In addition, 20 units of oxytocin are put in the intravenous infusion bottle.
+3.	The uterus is rubbed up well.
+4.	The patient is carefully observed for bleeding.
 
-In addition, 20 units of oxytocin are put in the intravenous infusion bottle.
-
-The uterus is rubbed up well.
-
-The patient is carefully observed for bleeding.
-
-Antepartum bleeding caused by placenta praevia
+## Antepartum bleeding caused by placenta praevia
 
 ### 4-24 What is placenta praevia?
 
@@ -2989,49 +2926,36 @@ Placenta praevia means that the placenta is implanted either wholly or partially
 
 ### 4-25 Which patients have the highest risk of placenta praevia?
 
-With regard to their previous obstetric history, patients who:
-
-Are grande multiparas, i.e. who are para 5 or higher.
-
-Have had a previous Caesarean section.
-
-With regard to their present obstetric history, patients who:
-
-Have a multiple pregnancy.
-
-Have had a threatened abortion, especially in the second trimester.
-
-Have an abnormal presentation.
+1.	With regard to their previous obstetric history, patients who:
+	*	Are grande multiparas, i.e. who are para 5 or higher.
+	*	Have had a previous Caesarean section.
+2.	With regard to their present obstetric history, patients who:
+	*	Have a multiple pregnancy.
+	*	Have had a threatened abortion, especially in the second trimester.
+	*	Have an abnormal presentation.
 
 ### 4-26 What in the history of the bleeding suggests the diagnosis of placenta praevia?
 
-The bleeding is painless and bright red in colour.
-
-Fetal movements are still present after the bleed.
+1.	The bleeding is painless and bright red in colour.
+2.	Fetal movements are still present after the bleed.
 
 ### 4-27 What are the typical findings on physical examination in a patient with placenta praevia?
 
-General examination may show signs that the patient is shocked, and the amount of bleeding corresponds to the degree of shock. The patient’s haemoglobin concentration is normal or low depending on the amount of blood loss and the time interval between the haemorrhage and the haemoglobin measurement. However, the first bleed is usually not severe.
+1.	General examination may show signs that the patient is shocked, and the amount of bleeding corresponds to the degree of shock. The patient’s haemoglobin concentration is normal or low depending on the amount of blood loss and the time interval between the haemorrhage and the haemoglobin measurement. However, the first bleed is usually not severe.
+2.	Examination of the abdomen shows that:
+	*	The uterus is soft and not tender to palpation.
+	*	The uterus is not bigger than it should be for the patient’s dates.
+	*	The fetal parts can be easily palpated, and the fetal heart is present.
+	*	There may be an abnormal presentation. Breech presentation or oblique or transverse lies are commonly present.
+	*	In cephalic presentations, the head is not engaged and is easily ballotable above the pelvis.
 
-Examination of the abdomen shows that:
-
-The uterus is soft and not tender to palpation.
-
-The uterus is not bigger than it should be for the patient’s dates.
-
-The fetal parts can be easily palpated, and the fetal heart is present.
-
-There may be an abnormal presentation. Breech presentation or oblique or transverse lies are commonly present.
-
-In cephalic presentations, the head is not engaged and is easily ballotable above the pelvis.
-
-The diagnosis of placenta praevia can usually be made from the history and physical examination.
+> The diagnosis of placenta praevia can usually be made from the history and physical examination.
 
 ### 4-28 Do you think that engagement of the head can occur if there is a placenta praevia present?
 
 No. If there is 2/5 or less of the fetal head palpable above the pelvic brim on abdominal examination, then placenta praevia can be excluded and a digital vaginal examination can be done safely. The first vaginal examination must always be done carefully.
 
-2/5 or less of the fetal head palpable above the pelvic brim excludes the possibility of placenta praevia. 
+> 2/5 or less of the fetal head palpable above the pelvic brim excludes the possibility of placenta praevia. 
 
 ### 4-29 What do you understand by a ‘warning bleed’?
 
@@ -3039,13 +2963,10 @@ This is the first bleeding that occurs from a placenta praevia, when the lower s
 
 ### 4-30 Are there any investigations that can confirm the diagnosis of placenta praevia?
 
-If the patient is less than 38 weeks pregnant and *not bleeding actively*, an ultrasound examination must be done in order to localise the placenta.
-
-If the patient is 38 or more weeks pregnant, and *not bleeding actively*:
-
-If ultrasonology is available, an ultrasound examination can be done in order to localise the placenta.
-
-If ultrasonology is not available, a digital vaginal examination can be done in theatre with everything ready for a Caesarean section.
+1.	If the patient is less than 38 weeks pregnant and *not bleeding actively*, an ultrasound examination must be done in order to localise the placenta.
+2.	If the patient is 38 or more weeks pregnant, and *not bleeding actively*:
+	*	If ultrasonology is available, an ultrasound examination can be done in order to localise the placenta.
+	*	If ultrasonology is not available, a digital vaginal examination can be done in theatre with everything ready for a Caesarean section.
 
 ### 4-31 What action should you take if a routine ultrasound examination early in pregnancy shows a placenta praevia?
 
@@ -3053,49 +2974,37 @@ In most cases, the position of the placenta moves away from the internal os of t
 
 ### 4-32 What is the further management after making the diagnosis of placenta praevia?
 
-If the patient is not bleeding actively, further management depends on the gestational age:
+1.	If the patient is not bleeding actively, further management depends on the gestational age:
+	*	With a gestational age of less than 38 weeks, the patient is hospitalised and managed conservatively until 38 weeks or until active bleeding starts.
+	*	If the fetus is viable (28 weeks or more) but the gestational age is less than 34 weeks, steroids must be given to stimulate fetal lung maturity as delivery may become necessary within a few days.
+	*	With a gestational age of 38 weeks or more, the fetus should be delivered.
 
-With a gestational age of less than 38 weeks, the patient is hospitalised and managed conservatively until 38 weeks or until active bleeding starts.
+	The further management of a patient when her pregnancy has reached 36 weeks depends on the grade of placenta praevia.
 
-If the fetus is viable (28 weeks or more) but the gestational age is less than 34 weeks, steroids must be given to stimulate fetal lung maturity as delivery may become necessary within a few days.
-
-With a gestational age of 38 weeks or more, the fetus should be delivered.
-
-The further management of a patient when her pregnancy has reached 36 weeks depends on the grade of placenta praevia.
-
-A patient who is actively bleeding must be delivered irrespective of the gestational age, because this is a life-threatening condition for the patient. An emergency Caesarean section or hysterotomy must be done.
+2.	A patient who is actively bleeding must be delivered irrespective of the gestational age, because this is a life-threatening condition for the patient. An emergency Caesarean section or hysterotomy must be done.
 
 The management of a patient with a placenta praevia is summarised in flow diagrams 4-3 and 4-4.
 
 ### 4-33 When a patient with placenta praevia is less than 38 weeks pregnant and is being managed conservatively, what amount of bleeding would indicate that you should deliver the fetus?
 
-Any sudden, severe haemorrhage.
-
-Any continuous, moderate bleeding, such that the drop in the patient’s haemoglobin concentration requires a blood transfusion.
+1.	Any sudden, severe haemorrhage.
+2.	Any continuous, moderate bleeding, such that the drop in the patient’s haemoglobin concentration requires a blood transfusion.
 
 ### 4-34 How will you further manage a patient who has been treated conservatively?
 
-With a grade 3 or 4 placenta praevia, a Caesarean section should be done at 36 weeks.
-
-With a grade 2 placenta praevia, a Caesarean section should be done at 38 weeks.
-
-With a grade 1 placenta praevia which bleeds now, and a presenting part that remains high above the pelvis, a Caesarean section should be done at 38 weeks.
-
-With a grade 1 placenta praevia, which does not bleed and where the fetal head is engaged (2/5 or less palpable above the brim), you can wait for the spontaneous onset of labour. The first vaginal examination must be done very carefully.
+1.	With a grade 3 or 4 placenta praevia, a Caesarean section should be done at 36 weeks.
+2.	With a grade 2 placenta praevia, a Caesarean section should be done at 38 weeks.
+3.	With a grade 1 placenta praevia which bleeds now, and a presenting part that remains high above the pelvis, a Caesarean section should be done at 38 weeks.
+4.	With a grade 1 placenta praevia, which does not bleed and where the fetal head is engaged (2/5 or less palpable above the brim), you can wait for the spontaneous onset of labour. The first vaginal examination must be done very carefully.
 
 ### 4-35 How do you go about doing a vaginal examination in theatre?
 
-The theatre sister must be scrubbed up with her trolley ready.
-
-The anaesthetist must be ready with his drugs drawn up so that, if necessary, he can proceed immediately with the induction of anaesthesia.
-
-A careful digital examination must be done. First feel in all four vaginal fornices:
-
-If there is soft tissue between the examining finger and the fetal skull, then placenta praevia is diagnosed.
-
-If the fetal skull is easily felt in all four fornices, then a careful examination is done through the cervix.
-
-If placental tissue is felt, then a Caesarean section should be done. If not, the membranes can be ruptured with the aim of allowing a vaginal delivery.
+1.	The theatre sister must be scrubbed up with her trolley ready.
+2.	The anaesthetist must be ready with his drugs drawn up so that, if necessary, he can proceed immediately with the induction of anaesthesia.
+3.	A careful digital examination must be done. First feel in all four vaginal fornices:
+	*	If there is soft tissue between the examining finger and the fetal skull, then placenta praevia is diagnosed.
+	*	If the fetal skull is easily felt in all four fornices, then a careful examination is done through the cervix.
+	*	If placental tissue is felt, then a Caesarean section should be done. If not, the membranes can be ruptured with the aim of allowing a vaginal delivery.
 
 ### 4-36 If the fetus is alive, why is urgent delivery of less importance in placenta praevia than in abruptio placentae?
 
@@ -3105,29 +3014,23 @@ Compared with abruptio placentae, intra-uterine death is uncommon in placenta pr
 
 The placenta was implanted in the lower segment which does not have the same ability as the upper segment to contract and retract after delivery. Therefore, the same measures taken with abruptio placentae must be taken to prevent postpartum haemorrhage.
 
-Antepartum haemorrhage of unknown cause
+## Antepartum haemorrhage of unknown cause
 
 ### 4-38 When would you suspect an antepartum haemorrhage of unknown cause?
 
 In patients who fulfill *all* the following requirements:
 
-Less severe antepartum bleeding, without signs of shock, and when the fetal condition is good.
-
-When the history and examination do not suggest a severe abruptio placentae.
-
-When local causes have been excluded on speculum examination.
-
-When placenta praevia has been excluded by an ultrasound examination.
+1.	Less severe antepartum bleeding, without signs of shock, and when the fetal condition is good.
+2.	When the history and examination do not suggest a severe abruptio placentae.
+3.	When local causes have been excluded on speculum examination.
+4.	When placenta praevia has been excluded by an ultrasound examination.
 
 ### 4-39 What should you do to exclude other causes of bleeding if you do not have ultrasound facilities ?
 
-Abruptio placentae can usually be excluded on history and examination.
-
-Local causes are excluded on speculum examination.
-
-With a gestational age of 38 weeks or more, a vaginal examination is done in theatre to confirm or exclude placenta praevia.
-
-If the gestational age is less than 38 weeks, the patient must be admitted to hospital and close attention paid to fetal movements, especially in the first 24 hours.
+1.	Abruptio placentae can usually be excluded on history and examination.
+2.	Local causes are excluded on speculum examination.
+3.	With a gestational age of 38 weeks or more, a vaginal examination is done in theatre to confirm or exclude placenta praevia.
+4.	If the gestational age is less than 38 weeks, the patient must be admitted to hospital and close attention paid to fetal movements, especially in the first 24 hours.
 
 Note
 :	If available, antenatal fetal heart rate monitoring should be done on admission to hospital and every 6 hours during the first 24 hours.
@@ -3138,20 +3041,17 @@ A small abruptio placentae that does not cause any other signs or symptoms. If t
 
 ### 4-41 How should you manage a patient with an antepartum haemorrhage of unknown cause?
 
-The patient must be hospitalised.
+1.	The patient must be hospitalised.
+2.	Careful attention must be given to fetal move­ments, especially during the first 24 hours.
 
-Careful attention must be given to fetal move­ments, especially during the first 24 hours.
+	Note
+	:	If available, a cardiotocogram must be recorded on admission and then every 6 hours during the first 24 hours.
 
-Note
-:	If available, a cardiotocogram must be recorded on admission and then every 6 hours during the first 24 hours.
+3.	If there is no further bleeding in the next 48 hours, the patient can be discharged. She must abstain from coitus for the rest of her pregnancy.
+4.	As a high-risk pregnancy, the patient must have weekly follow-ups and is advised to report immediately if there is any decrease in fetal movements, or further bleeding. No digital vaginal examination must be done.
+5.	The patient must be allowed to go into spontaneous labour at term.
 
-If there is no further bleeding in the next 48 hours, the patient can be discharged. She must abstain from coitus for the rest of her pregnancy.
-
-As a high-risk pregnancy, the patient must have weekly follow-ups and is advised to report immediately if there is any decrease in fetal movements, or further bleeding. No digital vaginal examination must be done.
-
-The patient must be allowed to go into spontaneous labour at term.
-
-A patient with an antepartum haemorrhage of unknown cause must be closely observed for fetal distress during the first 24 hours after the bleed.
+> A patient with an antepartum haemorrhage of unknown cause must be closely observed for fetal distress during the first 24 hours after the bleed.
 
 ### 4-42 Why is an antepartum haemorrhage of unknown cause always regarded in a serious light?
 
@@ -3160,33 +3060,25 @@ There is the possibility that abruptio placentae may be present. If the abruptio
 Note
 :	Antepartum haemorrhage could also be due to vasa praevia. This rare cause of antepartum haemorrhage occurs when the vessels of the umbilical cord cross the membranes near to the internal os. When the membranes rupture, a small amount of continuous bright red bleeding occurs. The blood is from the fetal circulation and, therefore, the fetus can bleed to death. If the cervix is almost fully dilated, the fetus can be delivered vaginally. If not, a Caesarean section must be done. The presence of fetal blood is confirmed by performing the sodium hydroxide (Apt) test: Add 1 drop of blood to 9 drops of 1% sodium hydroxide in a glass test tube. Read at 1 minute. If the blood is fetal, the mixture remains pink. However, if the blood is maternal, the mixture becomes brown.
 
-Referral of a patient with an antepartum haemorrhage
+## Referral of a patient with an antepartum haemorrhage
 
 ### 4-43 How should you decide whether a patient can be managed locally or whether she should be transferred?
 
-Clinics and level 1 hospitals which do not have blood available must refer all patients with an antepartum haemorrhage.
-
-Level 1 hospitals which have blood available, and level 2 hospitals, must manage patients with the following problems:
-
-A life-threatening bleed from placenta praevia.
-
-Fetal distress present with a viable fetus.
-
-Abruptio placentae with a live, viable fetus.
-
-Abruptio placentae with a dead fetus must be managed in at least a level 2 hospital, because of the risk of clotting defects.
-
-A patient with abruptio placentae and pre-eclampsia must be referred to a level 3 hospital as this patient is at high risk of pulmonary oedema and acute tubular necrosis.
-
-A patient with a grade 3 or 4 placenta praevia and a viable fetus of less than 34 weeks, who is going to be managed conservatively, should be managed in at least a level 2 hospital with a neonatal intensive care unit, or a level 3 hospital.
+1.	Clinics and level 1 hospitals which do not have blood available must refer all patients with an antepartum haemorrhage.
+2.	Level 1 hospitals which have blood available, and level 2 hospitals, must manage patients with the following problems:
+	*	A life-threatening bleed from placenta praevia.
+	*	Fetal distress present with a viable fetus.
+	*	Abruptio placentae with a live, viable fetus.
+3.	Abruptio placentae with a dead fetus must be managed in at least a level 2 hospital, because of the risk of clotting defects.
+4.	A patient with abruptio placentae and pre-eclampsia must be referred to a level 3 hospital as this patient is at high risk of pulmonary oedema and acute tubular necrosis.
+5.	A patient with a grade 3 or 4 placenta praevia and a viable fetus of less than 34 weeks, who is going to be managed conservatively, should be managed in at least a level 2 hospital with a neonatal intensive care unit, or a level 3 hospital.
 
 ### 4-44 When you refer a patient, what precautions should you take to ensure the safety of the patient in transit?
 
-A shocked patient should have 2 intravenous infusion lines with Plasmalyte B or Ringer’s lactate running in fast. A doctor should accompany the patient if possible. If not possible, a registered nurse should accompany her.
+1.	A shocked patient should have 2 intravenous infusion lines with Plasmalyte B or Ringer’s lactate running in fast. A doctor should accompany the patient if possible. If not possible, a registered nurse should accompany her.
+2.	A patient who is no longer bleeding should also have an intravenous infusion and be accompanied by a registered nurse whenever possible.
 
-A patient who is no longer bleeding should also have an intravenous infusion and be accompanied by a registered nurse whenever possible.
-
-A blood-stained vaginal discharge
+## A blood-stained vaginal discharge
 
 ### 4-45 How would a patient generally describe a blood-stained vaginal discharge?
 
@@ -3198,28 +3090,22 @@ A patient would probably describe a ‘show’ as a slight vaginal bleed consist
 
 ### 4-47 How should you manage a patient with a history of a blood-stained vaginal discharge or a ‘show’?
 
-After getting a good history and ensuring that the condition of the fetus is satisfactory, a careful speculum examination should be done.
-
-The speculum is only inserted for 5 cm, carefully opened, and then introduced further until the cervix can be seen.
-
-Any bleeding through a closed cervical os indicates an antepartum haemorrhage.
-
-A ‘show’ is the most likely cause of the discharge if the cervix is a few centimetres dilated with bulging membranes, or if the presenting part of the fetus is visible.
-
-A vaginitis is the most likely cause, if a blood-stained discharge is seen in the vagina.
+1.	After getting a good history and ensuring that the condition of the fetus is satisfactory, a careful speculum examination should be done.
+2.	The speculum is only inserted for 5 cm, carefully opened, and then introduced further until the cervix can be seen.
+3.	Any bleeding through a closed cervical os indicates an antepartum haemorrhage.
+4.	A ‘show’ is the most likely cause of the discharge if the cervix is a few centimetres dilated with bulging membranes, or if the presenting part of the fetus is visible.
+5.	A vaginitis is the most likely cause, if a blood-stained discharge is seen in the vagina.
 
 ### 4-48 How should you treat a blood-stained discharge due to vaginitis in pregnancy?
 
-If a microscope is available, make a wet smear of the discharge. The specific organism causing the vaginitis can then be identified and treated.
+1.	If a microscope is available, make a wet smear of the discharge. The specific organism causing the vaginitis can then be identified and treated.
 
-Note
-:	A wet smear of the discharge is made, in both saline and 2% potassium hydroxide and examined.
+	Note
+	:	A wet smear of the discharge is made, in both saline and 2% potassium hydroxide and examined.
 
-If a microscope is not available:
-
-Organisms identified on the cervical cytology smear are the most likely cause of the vaginitis.
-
-If no organisms are identified on the cytology smear, or a smear was not done, then *Trichomonas vaginalis* is most probably present.
+2.	If a microscope is not available:
+	*	Organisms identified on the cervical cytology smear are the most likely cause of the vaginitis.
+	*	If no organisms are identified on the cytology smear, or a smear was not done, then *Trichomonas vaginalis* is most probably present.
 
 To treat a Trichomonal vaginitis, both the patient and her partner should receive a single dose of 2 g metronidazole (Flagyl) orally.
 
@@ -3229,9 +3115,8 @@ Metronidazole should not be used in the first trimester of pregnancy, unless abs
 
 ### 4-50 How do you manage a patient with contact bleeding?
 
-When there is normal cervical cytology (Papanicolaou smear), the contact bleeding is probably due to a cervicitis. If it is troublesome, the patient should be given a course of oral erythromycin 500 mg 6‑hourly for seven days.
-
-With abnormal cervical cytology, the patient should be managed correctly. Cervical intra-epithelial neoplasia causes contact bleeding.
+1.	When there is normal cervical cytology (Papanicolaou smear), the contact bleeding is probably due to a cervicitis. If it is troublesome, the patient should be given a course of oral erythromycin 500 mg 6‑hourly for seven days.
+2.	With abnormal cervical cytology, the patient should be managed correctly. Cervical intra-epithelial neoplasia causes contact bleeding.
 
 ### 4-51 What action should you take when the bleeding is from a cervical ulcer or tumour?
 
@@ -3240,135 +3125,131 @@ The patient most probably has an infiltrating cervical carcinoma and should be c
 Note
 :	When there is doubt about the diagnosis, a cytology smear and biopsy of the lesion must be taken. The results should be obtained as soon as possible.
 
-Case study 1
+## Case study 1
 
 A patient who is 35 weeks pregnant presents with a history of vaginal bleeding.
 
-1. Why does this patient need to be assessed urgently?
+### 1. Why does this patient need to be assessed urgently?
 
 Because an antepartum haemorrhage should always be regarded as an emergency, until a cause for the bleeding is found. Thereafter, the correct management can be given.
 
-2. What is the first step in the management of a patient with an antepartum haemorrhage?
+### 2. What is the first step in the management of a patient with an antepartum haemorrhage?
 
 The clinical condition of the patient must be assessed. Special attention must be paid to signs of shock. If shock is present, resuscitation must be started urgently.
 
-3. What is the next step in the management of a patient with an antepartum haemorrhage?
+### 3. What is the next step in the management of a patient with an antepartum haemorrhage?
 
 The condition of the fetus must be assessed. The presence of fetal distress will influence the choice of management.
 
-4. What should be done once the condition of the patient and her fetus have been assessed, and the patient resuscitated, if necessary?
+### 4. What should be done once the condition of the patient and her fetus have been assessed, and the patient resuscitated, if necessary?
 
 The cause of the antepartum haemorrhage must be sought and managed.
 
-Case study 2
+## Case study 2
 
 A patient who is 32 weeks pregnant, according to her antenatal card, presents with a history of severe vaginal bleeding and abdominal pain. The blood contains dark clots. Since the haemorrhage, the patient has not felt her fetus move. The patient’s blood pressure is 80/60 mm Hg and the pulse rate 120 beats per minute.
 
-1. What is your clinical diagnosis?
+### 1. What is your clinical diagnosis?
 
 The history is typical of an abruptio placentae.
 
-2. If the clinical examination confirms the diagnosis, what should be the first step in the management of this patient?
+### 2. If the clinical examination confirms the diagnosis, what should be the first step in the management of this patient?
 
 The patient’s blood pressure and pulse rate indicate that she is shocked. Therefore, she must first be resuscitated.
 
-3. What is the next step that requires urgent attention in the management of the patient?
+### 3. What is the next step that requires urgent attention in the management of the patient?
 
 As the fetus is viable, it is of great importance to establish whether the fetus is still alive. Therefore, it must be urgently established whether the fetal heartbeat is present or not.
 
-4. How should you manage the patient if a fetal heartbeat is heard?
+### 4. How should you manage the patient if a fetal heartbeat is heard?
 
 A vaginal examination must be done. If the cervix is 9 cm or more dilated and the fetal head is on the pelvic floor, then the membranes should be ruptured and the fetus delivered vaginally as quickly as possible. Otherwise, an emergency Caesarean section must be done as soon as the patient has been resuscitated. Immediately before starting the Caesarean section, make sure that the fetal heartbeat is still present.
 
-5. Should the above patient be transferred to a level 2 or 3 hospital for delivery, if the fetus is still alive?
+### 5. Should the above patient be transferred to a level 2 or 3 hospital for delivery, if the fetus is still alive?
 
 The patient should be delivered in any hospital which has facilities for doing a Caesarean section. Moving the patient because the fetus is regarded as preterm may result in an intra-uterine death during transport. If necessary, the newborn infant can be transported to a level 2 hospital with a neonatal intensive care unit. The risk of a clotting defect is low if the fetus is still alive.
 
-6. How should you manage this patient if a fetal heartbeat is not heard?
+### 6. How should you manage this patient if a fetal heartbeat is not heard?
 
 The membranes should be ruptured and the fetus delivered vaginally, if possible.
 
-Case study 3
+## Case study 3
 
 A patient is seen at the antenatal clinic at 35 weeks gestation with a breech presentation. The patient is referred to see the doctor the following week, for an external cephalic version. That evening she has a painless, bright red vaginal bleed.
 
-1. What is your diagnosis?
+### 1. What is your diagnosis?
 
 The history and the presence of an abnormal lie suggest that the bleeding is the result of a placenta praevia.
 
-2. What should the initial management of the patient be?
+### 2. What should the initial management of the patient be?
 
 The condition of the mother should first be assessed and the patient resuscitated, if necessary. Then the fetal condition must be assessed. The patient’s abdomen should also be examined, to determine whether the clinical signs support the diagnosis of placenta praevia.
 
-3. How should the patient be managed if she should have a severe bleed?
+### 3. How should the patient be managed if she should have a severe bleed?
 
 An emergency Caesarean section must be done, as soon as the patient has been adequately resuscitated.
 
-4. What investigations should be done if the patient is not bleeding actively during your initial clinical examination?
+### 4. What investigations should be done if the patient is not bleeding actively during your initial clinical examination?
 
 A ultrasound examination must be done to confirm the clinical diagnosis. After placenta praevia has been excluded, a careful speculum examination should be done to exclude any local cause for the bleeding.
 
-5. How should the patient be managed if she has had no further severe bleeding after the initial bleed?
+### 5. How should the patient be managed if she has had no further severe bleeding after the initial bleed?
 
 She should be hospitalised and managed conservatively until 36 or 38 weeks gestation, or until she starts to bleed actively again. Depending on the degree of placenta praevia, a Caesarean section should be done at 36 or 38 weeks or spontaneous labour can be awaited.
 
-Case study 4
+## Case study 4
 
 A patient books for antenatal care at 30 weeks gestation. When you inform her of the danger signs during pregnancy, she says that she has had a vaginal discharge for the past 2 weeks. At times the discharge has been blood stained.
 
-1. Has this patient had a antepartum haemorrhage?
+### 1. Has this patient had a antepartum haemorrhage?
 
 The history suggests a blood-stained vaginal discharge rather than an antepartum haemorrhage.
 
-2. What is the most probable cause of the blood-stained vaginal discharge?
+### 2. What is the most probable cause of the blood-stained vaginal discharge?
 
 A vaginitis. This can usually be confirmed by a speculum examination.
 
-3. How can the cause of the vaginitis be determined?
+### 3. How can the cause of the vaginitis be determined?
 
 During the speculum examination, a sample of the discharge should be taken and a wet smear made. Organisms seen on the wet smear are probably the cause of the vaginitis.
 
-4. What is the most likely cause of a vaginitis with a blood-stained discharge?
+### 4. What is the most likely cause of a vaginitis with a blood-stained discharge?
 
 Trichomonas vaginalis. Therefore, if a microscope is not available, Trichomonas vaginalis is presumed to be the cause of the vaginitis.
 
-5. How should you treat a patient with Trichomonal vaginitis?
+### 5. How should you treat a patient with Trichomonal vaginitis?
 
 A single dose of 2 g metronidazole (Flagyl) is given orally to both the patient and her partner. Both must be warned against drinking alcohol for a few days after taking metronidazole.
 
-5
 
-Preterm labour and preterm rupture of the membranes
+
+5
+{:.chapter-number}
+
+# Preterm labour and preterm rupture of the membranes
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Define preterm labour and preterm rupture of the membranes.
+*	Define preterm labour and preterm rupture of the membranes.
+*	Understand why these conditions are very important.
+*	Understand the role of infection in causing preterm labour and preterm rupture of the membranes.
+*	List which patients are at increased risk of these conditions.
+*	Understand what preventive measures should be taken.
+*	Diagnose preterm labour and preterm rupture of the membranes.
+*	Manage these conditions.
 
-Understand why these conditions are very important.
-
-Understand the role of infection in causing preterm labour and preterm rupture of the membranes.
-
-List which patients are at increased risk of these conditions.
-
-Understand what preventive measures should be taken.
-
-Diagnose preterm labour and preterm rupture of the membranes.
-
-Manage these conditions.
-
-Preterm labour and preterm rupture of the membranes
+## Preterm labour and preterm rupture of the membranes
 
 ### 5-1 What is preterm labour?
 
 Preterm labour is diagnosed when there are regular uterine contractions before 37 weeks of pregnancy, together with either of the following:
 
-Cervical effacement and/or dilatation.
-
-Rupture of the membranes.
+1.	Cervical effacement and/or dilatation.
+2.	Rupture of the membranes.
 
 ### 5-2 What is preterm rupture of the membranes?
 
@@ -3389,15 +3270,14 @@ Preterm labour is diagnosed if the estimated fetal weight is below 2500 g. The s
 
 Preterm labour and preterm rupture of the membranes are major causes of perinatal death because:
 
-Preterm delivery, especially before 34 weeks, commonly results in the birth of an infant who develops hyaline membrane disease and other complications of prematurity.
-
-Preterm labour and preterm rupture of the membranes are often accompanied by bacterial infection of the membranes and placenta that may cause complications for both the mother and the fetus. The mother and fetus may develop severe infection, which is life threatening
+1.	Preterm delivery, especially before 34 weeks, commonly results in the birth of an infant who develops hyaline membrane disease and other complications of prematurity.
+2.	Preterm labour and preterm rupture of the membranes are often accompanied by bacterial infection of the membranes and placenta that may cause complications for both the mother and the fetus. The mother and fetus may develop severe infection, which is life threatening
 
 ### 5-6 What is the commonest known cause of preterm labour and preterm rupture of the membranes?
 
 In many cases the cause is unknown, but increasing evidence points to infection of the membranes and placenta as the commonest known cause of both preterm labour and preterm rupture of the membranes.
 
-Infection of the membranes and placenta is the commonest recognised cause of preterm labour and preterm rupture of the membranes.
+> Infection of the membranes and placenta is the commonest recognised cause of preterm labour and preterm rupture of the membranes.
 
 ### 5-7 What is infection of the membranes and placenta?
 
@@ -3410,27 +3290,24 @@ Chorioamnionitis may cause the release of prostaglandins which in turn stimulate
 Note
 :	After delivery, the diagnosis of chorioamnionitis can be confirmed by:
 
-Noting that the infant and placenta have an offensive smell.
+	*	Noting that the infant and placenta have an offensive smell.
 
-Noting that the membranes are cloudy.
+	*	Noting that the membranes are cloudy.
 
-Finding pus cells and bacteria on microscopic examination of the infant’s gastric aspirate immediately after birth.
+	*	Finding pus cells and bacteria on microscopic examination of the infant’s gastric aspirate immediately after birth.
 
-Finding acute inflammation in the membranes and placenta on histology after delivery.
+	*	Finding acute inflammation in the membranes and placenta on histology after delivery.
 
-Infection of the membranes and placenta (chorioamnionitis) may occur with either intact or ruptured membranes. 
+> Infection of the membranes and placenta (chorioamnionitis) may occur with either intact or ruptured membranes. 
 
 ### 5-8 What is the clinical presentation of chorioamnionitis?
 
 Usually chorioamnionitis is asymptomatic (subclinical chorioamnionitis) and, therefore, the clinical diagnosis is often not made. However, the following signs may be present:
 
-Fetal tachycardia.
-
-Maternal pyrexia and/or tachycardia.
-
-Tenderness of the uterus.
-
-Drainage of offensive liquor, if the membranes have ruptured.
+1.	Fetal tachycardia.
+2.	Maternal pyrexia and/or tachycardia.
+3.	Tenderness of the uterus.
+4.	Drainage of offensive liquor, if the membranes have ruptured.
 
 If any of the above signs are present, a diagnosis of clinical chorioamnionitis must be made.
 
@@ -3439,11 +3316,9 @@ Note
 
 ### 5-9 What factors may predispose a woman to chorioamnionitis?
 
-Rupture of the membranes.
-
-Exposure of the membranes due to dilatation of the cervix.
-
-Coitus during the second half of pregnancy.
+1.	Rupture of the membranes.
+2.	Exposure of the membranes due to dilatation of the cervix.
+3.	Coitus during the second half of pregnancy.
 
 However, in many cases, the factors that result in chorioamnionitis are not known.
 
@@ -3457,29 +3332,18 @@ Bacteria that have colonised the amniotic fluid may infect the fetus, and the in
 
 The following maternal, fetal and placental factors may be associated with preterm labour and/or preterm rupture of the membranes:
 
-Maternal factors:
-
-Pyrexia, as the result of an acute infection other than chorioamnionitis, e.g. acute pyelonephritis or malaria.
-
-Uterine abnormalities, such as congenital uterine malformations (e.g. septate or bicornuate uterus) and uterine myomas (fibroids).
-
-Incompetence of the internal cervical os (‘cervical incompetence’).
-
-Fetal factors:
-
-A multiple pregnancy.
-
-Polyhydramnios (both cause overdistension of the uterus.)
-
-Congenital malformations of the fetus.
-
-Syphilis.
-
-Placental factors:
-
-Placenta praevia.
-
-Abruptio placentae.
+1.	Maternal factors:
+	*	Pyrexia, as the result of an acute infection other than chorioamnionitis, e.g. acute pyelonephritis or malaria.
+	*	Uterine abnormalities, such as congenital uterine malformations (e.g. septate or bicornuate uterus) and uterine myomas (fibroids).
+	*	Incompetence of the internal cervical os (‘cervical incompetence’).
+2.	Fetal factors:
+	*	A multiple pregnancy.
+	*	Polyhydramnios (both cause overdistension of the uterus.)
+	*	Congenital malformations of the fetus.
+	*	Syphilis.
+3.	Placental factors:
+	*	Placenta praevia.
+	*	Abruptio placentae.
 
 Note
 :	Polyhydramnios, multiple pregnancy and cervical incompetence cause preterm dilatation of the cervix with exposure of the membranes to the vaginal bacteria. This may predispose to chorioamnionitis. Polyhydramnios has several causes, but it is important to remember that oesophageal atresia is one of the causes which need to be excluded after delivery.
@@ -3488,156 +3352,114 @@ Note
 
 Both preterm labour and preterm rupture of membranes are more common in patients who:
 
-Have a past history of preterm labour.
+1.	Have a past history of preterm labour.
+2.	Have no antenatal care.
+3.	Live in poor socio-economic circumstances.
+4.	Smoke, use alcohol or abuse habit-forming drugs.
+5.	Are underweight due to undernutrition.
+6.	Have coitus in the second half of pregnancy, when they are at an increased risk of preterm labour
+7.	Have any of the maternal, fetal or placental factors listed in 5-11.
 
-Have no antenatal care.
-
-Live in poor socio-economic circumstances.
-
-Smoke, use alcohol or abuse habit-forming drugs.
-
-Are underweight due to undernutrition.
-
-Have coitus in the second half of pregnancy, when they are at an increased risk of preterm labour
-
-Have any of the maternal, fetal or placental factors listed in 5-11.
-
-The most important risk factor for preterm labour is a previous history of preterm delivery. 
+> The most important risk factor for preterm labour is a previous history of preterm delivery. 
 
 ### 5-13 What can be done to decrease the incidence of these complications?
 
-Take measures to ensure that all pregnant women receive antenatal care.
-
-Identify patients with a past history of preterm labour.
-
-Give advice about the dangers of smoking, alcohol and the use of habit-forming drugs.
-
-Advise against coitus during the late second and in the third trimester in pregnancies at high risk for preterm labour or preterm rupture of the membranes. If coitus occurs during pregnancy in these patients, the use of condoms must be recommended as this may reduce the risk of chorioamnionitis.
-
-At 14–16 weeks, insert a McDonald suture in patients with a proven incompetent internal cervical os.
-
-Prevent teenage pregnancies.
-
-Improve the socio-economic and nutritional status of poor communities.
-
-Arrange that the workload of women, who have to do heavy manual labour, is decreased when they are pregnant and that an opportunity to rest during working hours is allowed.
+1.	Take measures to ensure that all pregnant women receive antenatal care.
+2.	Identify patients with a past history of preterm labour.
+3.	Give advice about the dangers of smoking, alcohol and the use of habit-forming drugs.
+4.	Advise against coitus during the late second and in the third trimester in pregnancies at high risk for preterm labour or preterm rupture of the membranes. If coitus occurs during pregnancy in these patients, the use of condoms must be recommended as this may reduce the risk of chorioamnionitis.
+5.	At 14–16 weeks, insert a McDonald suture in patients with a proven incompetent internal cervical os.
+6.	Prevent teenage pregnancies.
+7.	Improve the socio-economic and nutritional status of poor communities.
+8.	Arrange that the workload of women, who have to do heavy manual labour, is decreased when they are pregnant and that an opportunity to rest during working hours is allowed.
 
 ### 5-14 How should you manage a patient at increased risk of preterm labour or preterm rupture of the membranes?
 
-Patients at increased risk must have two weekly vaginal examinations from 24 weeks, in order to make an early diagnosis of preterm cervical effacement and/or dilatation.
+1.	Patients at increased risk must have two weekly vaginal examinations from 24 weeks, in order to make an early diagnosis of preterm cervical effacement and/or dilatation.
+2.	In all women with cervical effacement or dilatation before 34 weeks, the following preventive measures can then be taken:
+	*	Bed rest. This can be at home, except when the home circumstances are poor, in which case the patient should be admitted to hospital.
+	*	Sick leave must be arranged for working patients.
+	*	Coitus must be forbidden.
+	*	Patients must immediately report if contractions or rupture of the membranes occur.
+	*	Women with preterm labour or preterm rupture of the membranes must be seen as soon as possible, and the correct measures taken to prevent the delivery of a severely preterm infant.
 
-In all women with cervical effacement or dilatation before 34 weeks, the following preventive measures can then be taken:
-
-Bed rest. This can be at home, except when the home circumstances are poor, in which case the patient should be admitted to hospital.
-
-Sick leave must be arranged for working patients.
-
-Coitus must be forbidden.
-
-Patients must immediately report if contractions or rupture of the membranes occur.
-
-Women with preterm labour or preterm rupture of the membranes must be seen as soon as possible, and the correct measures taken to prevent the delivery of a severely preterm infant.
-
-All patients should be told to immediately report preterm labour or preterm rupture of the membranes. 
+> All patients should be told to immediately report preterm labour or preterm rupture of the membranes. 
 
 ### 5-15 What should you do if a patient threatens to deliver a preterm infant?
 
-Infants born between 34 and 36 weeks can usually be cared for in a level 1 hospital.
+1.	Infants born between 34 and 36 weeks can usually be cared for in a level 1 hospital.
+2.	However, women who deliver between 28 and 33 weeks, should be referred to a level 2 or 3 hospital with a neonatal intensive care unit.
+3.	If the birth of a preterm baby cannot be prevented, it must be remembered that the best incubator for transporting an infant is the mother’s uterus. Even if the delivery is inevitable, an attempt to suppress labour should be made, so that the patient can be transferred before the infant is born.
+4.	The better the condition of the infant on arrival at the neonatal intensive care unit, the better the prognosis.
 
-However, women who deliver between 28 and 33 weeks, should be referred to a level 2 or 3 hospital with a neonatal intensive care unit.
-
-If the birth of a preterm baby cannot be prevented, it must be remembered that the best incubator for transporting an infant is the mother’s uterus. Even if the delivery is inevitable, an attempt to suppress labour should be made, so that the patient can be transferred before the infant is born.
-
-The better the condition of the infant on arrival at the neonatal intensive care unit, the better the prognosis.
-
-Diagnosis of preterm labour and preterm rupture of the membranes
+## Diagnosis of preterm labour and preterm rupture of the membranes
 
 ### 5-16 How should you distinguish between Braxton Hicks contractions and the contractions of preterm labour?
 
 Braxton Hicks contractions:
 
-Are irregular.
-
-May cause discomfort but are not painful.
-
-Do not increase in duration or frequency.
-
-Do not cause cervical effacement or dilatation.
+1.	Are irregular.
+2.	May cause discomfort but are not painful.
+3.	Do not increase in duration or frequency.
+4.	Do not cause cervical effacement or dilatation.
 
 The duration of contractions cannot be used as a distinguishing factor, as Braxton Hicks contractions may last up to 60 seconds.
 
 In contrast, the contractions of preterm or early labour:
 
-Are regular, at least 1 per 10 minutes.
-
-Are painful.
-
-Increase in frequency and duration.
-
-Cause effacement and dilatation of the cervix.
+1.	Are regular, at least 1 per 10 minutes.
+2.	Are painful.
+3.	Increase in frequency and duration.
+4.	Cause effacement and dilatation of the cervix.
 
 ### 5-17 How should you confirm the diagnosis of preterm labour?
 
 Both of the following will be present in a patient of less than 37 weeks gestation:
 
-Regular uterine contractions, palpable on abdominal examination, of at least 1 per 10 minutes.
-
-A history of rupture of the membranes, or cervical effacement and/or dilatation, on vaginal examination.
+1.	Regular uterine contractions, palpable on abdominal examination, of at least 1 per 10 minutes.
+2.	A history of rupture of the membranes, or cervical effacement and/or dilatation, on vaginal examination.
 
 ### 5-18 How can you diagnose preterm rupture of the membranes?
 
-A patient of less than 37 weeks gestation will give a history of sudden drainage of liquor followed by a continual leak of smaller amounts, without associated uterine contractions.
+1.	A patient of less than 37 weeks gestation will give a history of sudden drainage of liquor followed by a continual leak of smaller amounts, without associated uterine contractions.
+2.	A sterile speculum examination will confirm the diagnosis of ruptured membranes.
+3.	*A digital vaginal examination must not be done* as it is of little value in diagnosing rupture of the membranes and may increase the risk of infection.
 
-A sterile speculum examination will confirm the diagnosis of ruptured membranes.
-
-*A digital vaginal examination must not be done* as it is of little value in diagnosing rupture of the membranes and may increase the risk of infection.
-
-A digital vaginal examination must not be done if there is preterm rupture of the membranes. 
+> A digital vaginal examination must not be done if there is preterm rupture of the membranes. 
 
 ### 5-19 What is the value of a sterile speculum examination when preterm rupture of the membranes is suspected?
 
-The danger of ascending infection is not increased by this procedure.
-
-Observing drainage of liquor from the cervical os confirms the diagnosis of ruptured membranes.
-
-If no drainage of liquor is observed, drainage can sometimes be seen if the patient is asked to cough.
-
-If no drainage of liquor is seen, a smear should be taken from the posterior vaginal fornix with a wooden spatula to determine the pH and to test for ferning.
-
-The possibility of cord prolapse can be excluded or confirmed.
-
-It is also important to see whether the cervix is long and closed, or whether there is already clear evidence of cervical effacement and/or dilatation.
-
-A patient with a profuse vaginal discharge or stress incontinence (leaking urine when coughing or laughing) may think that she is draining liquor. A speculum examination will help to confirm or rule out this possibility.
+1.	The danger of ascending infection is not increased by this procedure.
+2.	Observing drainage of liquor from the cervical os confirms the diagnosis of ruptured membranes.
+3.	If no drainage of liquor is observed, drainage can sometimes be seen if the patient is asked to cough.
+4.	If no drainage of liquor is seen, a smear should be taken from the posterior vaginal fornix with a wooden spatula to determine the pH and to test for ferning.
+5.	The possibility of cord prolapse can be excluded or confirmed.
+6.	It is also important to see whether the cervix is long and closed, or whether there is already clear evidence of cervical effacement and/or dilatation.
+7.	A patient with a profuse vaginal discharge or stress incontinence (leaking urine when coughing or laughing) may think that she is draining liquor. A speculum examination will help to confirm or rule out this possibility.
 
 Note
 :	If the facilities are available, and preterm rupture of the membranes has been confirmed, an endocervical swab could be taken to culture for Group B Streptococcus and Gonococcus.
 
 ### 5-20 How should you test the vaginal pH?
 
-The pH of the vagina is acidic but the pH of liquor is alkaline.
-
-Red litmus paper is pressed against the moist spatula. If the red litmus changes to blue, then liquor is present in the vagina, indicating that the membranes have ruptured. If blue litmus is used, it will remain blue with rupture of membranes or change to red if the membranes are intact.
+1.	The pH of the vagina is acidic but the pH of liquor is alkaline.
+2.	Red litmus paper is pressed against the moist spatula. If the red litmus changes to blue, then liquor is present in the vagina, indicating that the membranes have ruptured. If blue litmus is used, it will remain blue with rupture of membranes or change to red if the membranes are intact.
 
 ### 5-21 How will you test for ferning?
 
-The vaginal fluid on the wooden spatula is spread on a microscope slide and allowed to dry.
+1.	The vaginal fluid on the wooden spatula is spread on a microscope slide and allowed to dry.
+2.	The slide is then examined under the low power lens of a microscope. An unmistakable pattern of a fern leaf will be observed if the specimen is liquor.
 
-The slide is then examined under the low power lens of a microscope. An unmistakable pattern of a fern leaf will be observed if the specimen is liquor.
-
-Management of preterm labour
+## Management of preterm labour
 
 ### 5-22 How will you manage a patient in preterm labour?
 
 *Step 1*: Listen to the fetal heart to rule out fetal distress and determine the duration of pregnancy as accurately as possible:
 
-If fetal distress is present and the fetus is assessed to be viable (28 weeks or more), then the infant must be delivered as soon as possible.
-
-If the pregnancy is 34 weeks or more, labour should be allowed to continue.
-
-If the infant is assessed to be 24 weeks or more but less than 34 weeks, other contraindications for the suppression of preterm labour must be excluded. Subsequently the contractions should be suppressed with a calcium channel blocker, e.g. nifedipine (Adalat), or a beta2 stimulant, e.g. salbutamol (Ventolin). The further management of these patients must take place in a level 2 or 3 hospital.
-
-The administration of steroids to enhance fetal lung maturity prior to transfer should be discussed with the referral hospital.
+1.	If fetal distress is present and the fetus is assessed to be viable (28 weeks or more), then the infant must be delivered as soon as possible.
+2.	If the pregnancy is 34 weeks or more, labour should be allowed to continue.
+3.	If the infant is assessed to be 24 weeks or more but less than 34 weeks, other contraindications for the suppression of preterm labour must be excluded. Subsequently the contractions should be suppressed with a calcium channel blocker, e.g. nifedipine (Adalat), or a beta2 stimulant, e.g. salbutamol (Ventolin). The further management of these patients must take place in a level 2 or 3 hospital.
+4.	The administration of steroids to enhance fetal lung maturity prior to transfer should be discussed with the referral hospital.
 
 *Step 2*: Look for treatable causes of preterm labour, such as urinary tract infection or malaria.
 
@@ -3645,23 +3467,15 @@ The management of a patient with preterm labour is summarised in flow diagram 5-
 
 ### 5-23 What are the contraindications to the suppression of preterm labour?
 
-Fetal distress.
-
-A pregnancy where the duration is 34 weeks or more, or 24 weeks or less.
-
-Chorioamnionitis.
-
-Intra-uterine death.
-
-Congenital abnormalities incompatible with life.
-
-Pre-eclampsia.
-
-Antepartum haemorrhage of unknown cause.
-
-Cervical dilatation of more than 6 cm. (However, contractions should be temporarily suppressed while the patient is being transferred to a hospital where preterm infants can be managed.)
-
-Severe intra-uterine growth restriction.
+1.	Fetal distress.
+2.	A pregnancy where the duration is 34 weeks or more, or 24 weeks or less.
+3.	Chorioamnionitis.
+4.	Intra-uterine death.
+5.	Congenital abnormalities incompatible with life.
+6.	Pre-eclampsia.
+7.	Antepartum haemorrhage of unknown cause.
+8.	Cervical dilatation of more than 6 cm. (However, contractions should be temporarily suppressed while the patient is being transferred to a hospital where preterm infants can be managed.)
+9.	Severe intra-uterine growth restriction.
 
 Note
 :	Antepartum haemorrhage of unknown cause may be due to a small abruptio placentae. It is, therefore, advisable not to suppress labour should it occur. 
@@ -3674,39 +3488,31 @@ Labour must be suppressed if the estimated fetal weight is less than 2000 g or t
 
 ### 5-25 How should you give nifedipine for the suppression of preterm labour?
 
-Three nifedipine (Adalat) 10 mg capsules (total 30 mg) should be taken by mouth. If there are no further contractions and no continuing cervical dilatation and effacement, 20 mg should be given 8-hourly.
-
-If there are still contractions with cervical dilatation and effacement 3 hours after the initial dose, a second dose of 20 mg should be given, followed by 8-hourly doses.
+1.	Three nifedipine (Adalat) 10 mg capsules (total 30 mg) should be taken by mouth. If there are no further contractions and no continuing cervical dilatation and effacement, 20 mg should be given 8-hourly.
+2.	If there are still contractions with cervical dilatation and effacement 3 hours after the initial dose, a second dose of 20 mg should be given, followed by 8-hourly doses.
 
 Nifedipine (Adalat) has fewer side effects than salbutamol for the mother. Following the latest research, nifedipine (Adalat) has been recommended as the drug of choice in suppressing uterine contractions.
 
 ### 5-26 What are the contraindications to the use of nifedipine in suppressing labour?
 
-Nifedipine (Adalat) cannot be used for the suppression of preterm labour if patients have hypertension, or are suffering from any of the hypertensive disorders of pregnancy.
-
-Hypovolaemia or surgical shock due to any reason.
-
-Any condition that impairs the function of the myocardium.
+1.	Nifedipine (Adalat) cannot be used for the suppression of preterm labour if patients have hypertension, or are suffering from any of the hypertensive disorders of pregnancy.
+2.	Hypovolaemia or surgical shock due to any reason.
+3.	Any condition that impairs the function of the myocardium.
 
 ### 5-27 How should you use salbutamol for the suppression of preterm labour?
 
-Start an intravenous infusion of Ringer’s lactate and give 250 μg (0.5 ml) salbutamol slowly intravenously, after ensuring that there is no contraindication to its use. The 0.5 ml salbutamol is diluted with 9.5 ml sterile water and given slowly intravenously over 5 minutes while the maternal heart rate is carefully monitored for tachycardia.
-
-The initial dose is followed by a side-infusion of 200 ml saline with 1000 μg salbutamol given at a rate of 30 ml per hour (150 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute. If contractions persist, after 2 hours the dose is doubled to 60 ml per hour (300 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute. The administration of the salbutamol infusion is continued until there are no further contractions, effacement, and/or dilatation of the cervix for at least 6 hours.
-
-The patient must be warned that salbutamol causes tachycardia (palpitations).
-
-Patients should be monitored with an ECG monitor while receiving intravenous salbutamol. This should ideally occur within a high-care unit.
+1.	Start an intravenous infusion of Ringer’s lactate and give 250 μg (0.5 ml) salbutamol slowly intravenously, after ensuring that there is no contraindication to its use. The 0.5 ml salbutamol is diluted with 9.5 ml sterile water and given slowly intravenously over 5 minutes while the maternal heart rate is carefully monitored for tachycardia.
+2.	The initial dose is followed by a side-infusion of 200 ml saline with 1000 μg salbutamol given at a rate of 30 ml per hour (150 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute. If contractions persist, after 2 hours the dose is doubled to 60 ml per hour (300 μg per hour) until no further contractions occur, or when the maternal pulse rate reaches 120 beats per minute. The administration of the salbutamol infusion is continued until there are no further contractions, effacement, and/or dilatation of the cervix for at least 6 hours.
+3.	The patient must be warned that salbutamol causes tachycardia (palpitations).
+4.	Patients should be monitored with an ECG monitor while receiving intravenous salbutamol. This should ideally occur within a high-care unit.
 
 If the contractions are still occurring, and there is progressive effacement and dilatation of the cervix in spite of an adequate rate of administration, alternative measures must be taken to suppress labour. Otherwise, administration of the drug should be stopped and preparation made for the delivery of a preterm infant.
 
 ### 5-28 What are the contraindications to the use of beta2 stimulants in suppressing labour?
 
-Heart valve disease. The use of beta2 stimulants, such as salbutamol, can endanger the patient’s life, especially if she has a narrowed heart valve, e.g. mitral stenosis.
-
-A shocked patient.
-
-A patient with tachycardia, e.g. as the result of an acute infection.
+1.	Heart valve disease. The use of beta2 stimulants, such as salbutamol, can endanger the patient’s life, especially if she has a narrowed heart valve, e.g. mitral stenosis.
+2.	A shocked patient.
+3.	A patient with tachycardia, e.g. as the result of an acute infection.
 
 ### 5-29 What additional action must you take to suppress labour?
 
@@ -3714,15 +3520,11 @@ Prostaglandin antagonists, e.g. indomethacin (Indocid), are prescribed. 1 indome
 
 The following side effects make indomethacin potentially dangerous:
 
-Gastrointestinal irritation.
-
-Suppression of platelet function.
-
-Fluid retention.
-
-Premature closure of the ductus arteriosus in the fetus.
-
-Renal failure in a patient with poor renal function.
+1.	Gastrointestinal irritation.
+2.	Suppression of platelet function.
+3.	Fluid retention.
+4.	Premature closure of the ductus arteriosus in the fetus.
+5.	Renal failure in a patient with poor renal function.
 
 Indomethacin is also a useful drug to use if there is a contraindication to giving a beta2 stimulant, e.g. maternal tachycardia due to pyrexia. The risk of fetal death due to closure of the ductus arteriosus by indomethacin is much greater after 31 weeks. Therefore, indomethacin should not be used from 32 weeks gestation.
 
@@ -3730,49 +3532,40 @@ Successful suppression of preterm labour with nifedipine (Adalat) or salbutamol 
 
 ### 5-30 How should you manage the patient further, after labour has been successfully suppressed?
 
-If there is a treatable cause, e.g. a urinary tract infection, then no further suppression of labour is necessary after the cause has been treated.
-
-If nothing can be done about the cause of the preterm labour, e.g. in the case of a multiple pregnancy or polyhydramnios, nifedipine (Adalat) 20 mg may be given orally every 6 hours.
+1.	If there is a treatable cause, e.g. a urinary tract infection, then no further suppression of labour is necessary after the cause has been treated.
+2.	If nothing can be done about the cause of the preterm labour, e.g. in the case of a multiple pregnancy or polyhydramnios, nifedipine (Adalat) 20 mg may be given orally every 6 hours.
 
 ### 5-31 What other action can be taken to improve the fetal outcome?
 
-Steroids administered parenterally to the mother cross the placenta and hasten the onset of fetal lung maturity. Betamethasone (Celestone-Soluspan) 12 mg (2 ml) intramuscularly is the drug of choice.
+1.	Steroids administered parenterally to the mother cross the placenta and hasten the onset of fetal lung maturity. Betamethasone (Celestone-Soluspan) 12 mg (2 ml) intramuscularly is the drug of choice.
+2.	2 doses of 12 mg each are given 24 hours apart. Fetal lung maturity is usually, but not always, achieved 24 hours after the second dose. Suppression of labour for 48 hours in order to give betamethasone is, therefore, of value.
+3.	If the infant is not delivered and there is still a risk of preterm delivery, a single dose of 12 mg can be given after a week. The dose should not be repeated weekly until a gestational age of 33 weeks is reached.
 
-2 doses of 12 mg each are given 24 hours apart. Fetal lung maturity is usually, but not always, achieved 24 hours after the second dose. Suppression of labour for 48 hours in order to give betamethasone is, therefore, of value.
-
-If the infant is not delivered and there is still a risk of preterm delivery, a single dose of 12 mg can be given after a week. The dose should not be repeated weekly until a gestational age of 33 weeks is reached.
-
-note: Fetuses that are exposed to repeated doses of steroids in pregnancy are born with a smaller head circumference and length. As the long-term neurological outcome is uncertain, the maximum dose described here should not be exceeded.
+Note
+:	Fetuses that are exposed to repeated doses of steroids in pregnancy are born with a smaller head circumference and length. As the long-term neurological outcome is uncertain, the maximum dose described here should not be exceeded.
 
 ### 5-32 What are the dangers of using steroids to promote fetal lung maturity?
 
-Steroids must not be given if a clinically detectable infection is the cause of the preterm labour, because they may make the infection worse.
-
-Steroids cause fluid retention. Consequently, the amount of intravenous fluid which is used to administer the salbutamol must be restricted.
-
-The patient must continually be observed for signs of fluid overload, the first sign of which is the presence of crepitations in the lungs as a result of pulmonary oedema.
+1.	Steroids must not be given if a clinically detectable infection is the cause of the preterm labour, because they may make the infection worse.
+2.	Steroids cause fluid retention. Consequently, the amount of intravenous fluid which is used to administer the salbutamol must be restricted.
+3.	The patient must continually be observed for signs of fluid overload, the first sign of which is the presence of crepitations in the lungs as a result of pulmonary oedema.
 
 ### 5-33 If the delivery of a preterm infant cannot be prevented, what action should you take in order to make the delivery as safe as possible?
 
-The mother must be transferred before delivery to a hospital where preterm infants can be managed.
+1.	The mother must be transferred before delivery to a hospital where preterm infants can be managed.
+2.	Entonox (50% nitrous oxide and 50% oxygen) or an epidural anaesthetic are the preferred methods of providing analgesia.
+3.	The membranes should not be ruptured as they form a better cervical dilator than the small fetal head. If they rupture spontaneously, a sterile vaginal examination must be done to exclude an umbilical cord prolapse.
+4.	A spontaneous vertex delivery, with an episiotomy if necessary, is the best method of delivery. A well-controlled delivery of the fetal head reduces the risk of intracranial haemorrhage. There is no evidence that the routine use of forceps has any advantage for the preterm infant.
+5.	Before the delivery, you must make sure that the equipment you need for the resuscitation and management of the preterm infant is available and in working order.
 
-Entonox (50% nitrous oxide and 50% oxygen) or an epidural anaesthetic are the preferred methods of providing analgesia.
-
-The membranes should not be ruptured as they form a better cervical dilator than the small fetal head. If they rupture spontaneously, a sterile vaginal examination must be done to exclude an umbilical cord prolapse.
-
-A spontaneous vertex delivery, with an episiotomy if necessary, is the best method of delivery. A well-controlled delivery of the fetal head reduces the risk of intracranial haemorrhage. There is no evidence that the routine use of forceps has any advantage for the preterm infant.
-
-Before the delivery, you must make sure that the equipment you need for the resuscitation and management of the preterm infant is available and in working order.
-
-Management of preterm rupture of the membranes
+## Management of preterm rupture of the membranes
 
 ### 5-34 How should you manage preterm rupture of the membranes?
 
 There are two possible ways of managing preterm rupture of the membranes:
 
-Labour can be induced.
-
-The pregnancy can be allowed to continue.
+1.	Labour can be induced.
+2.	The pregnancy can be allowed to continue.
 
 The management of a patient with preterm rupture of the membranes is summarised in flow diagram 5-2.
 
@@ -3784,51 +3577,37 @@ The danger of prematurity if the fetus is delivered must be weighed against the 
 
 To provide time for the fetal lungs to mature and, thereby, to reduce the danger of hyaline membrane disease after delivery.
 
-Prematurity remains the commonest cause of neonatal death resulting from preterm rupture of the membranes.
+> Prematurity remains the commonest cause of neonatal death resulting from preterm rupture of the membranes.
 
 ### 5-37 Which patients with preterm rupture of the membranes are at an increased risk of chorioamnionitis?
 
 Patients with preterm rupture of the membranes plus one or more of the following factors are at a particularly high risk of chorioamnionitis:
 
-HIV-positive patients with immune suppression, either:
-
-A CD4 count of less than 350 cells/mm³.
-
-An AIDS-defining infection that indicates clinical immune suppression.
-
-Rupture of the membranes during or following coitus.
-
-A digital vaginal examination following rupture of the membranes.
-
-No antenatal care.
+1.	HIV-positive patients with immune suppression, either:
+	*	A CD4 count of less than 350 cells/mm³.
+	*	An AIDS-defining infection that indicates clinical immune suppression.
+2.	Rupture of the membranes during or following coitus.
+3.	A digital vaginal examination following rupture of the membranes.
+4.	No antenatal care.
 
 ### 5-38 What should you do once preterm rupture of the membranes has occurred?
 
-Check whether the fetus is still alive, and exclude fetal distress by assessing fetal movements. Antenatal fetal heart rate monitoring is of great value.
-
-Determine the duration of the pregnancy as accurately as possible. Remember, with preterm rupture of the membranes, both clinical and ultrasound examinations tend to underestimate the duration of pregnancy.
-
-Look for signs of clinical chorioamnionitis.
+1.	Check whether the fetus is still alive, and exclude fetal distress by assessing fetal movements. Antenatal fetal heart rate monitoring is of great value.
+2.	Determine the duration of the pregnancy as accurately as possible. Remember, with preterm rupture of the membranes, both clinical and ultrasound examinations tend to underestimate the duration of pregnancy.
+3.	Look for signs of clinical chorioamnionitis.
 
 If the history and clinical examination indicate a pregnancy of less than 34 weeks duration, an ultrasound examination is of value in determining fetal size and possible gross congenital abnormalities.
 
 ### 5-39 What are the indications for induction of labour when preterm rupture of the membranes has occurred?
 
-An HIV-positive patient.
-
-A duration of pregnancy of 34 weeks or more.
-
-A duration of pregnancy less than 26 weeks.
-
-Intra-uterine death or severe fetal congenital abnormalities.
-
-Signs of clinical chorioamnionitis.
-
-Maternal illness such as pre-eclampsia or diabetes mellitus.
-
-Severe intra-uterine growth restriction.
-
-Antepartum haemorrhage of unknown cause.
+1.	An HIV-positive patient.
+2.	A duration of pregnancy of 34 weeks or more.
+3.	A duration of pregnancy less than 26 weeks.
+4.	Intra-uterine death or severe fetal congenital abnormalities.
+5.	Signs of clinical chorioamnionitis.
+6.	Maternal illness such as pre-eclampsia or diabetes mellitus.
+7.	Severe intra-uterine growth restriction.
+8.	Antepartum haemorrhage of unknown cause.
 
 ### 5-40 What method of induction should you use?
 
@@ -3836,163 +3615,151 @@ The method of choice is to stimulate uterine contractions with oxytocin. If ther
 
 ### 5-41 What should the daily care of a patient include if pregnancy is allowed to continue?
 
-The patient must be kept on bed rest, being allowed up to the toilet. She must not sit in a bath, but should use a shower.
+1.	The patient must be kept on bed rest, being allowed up to the toilet. She must not sit in a bath, but should use a shower.
+2.	Digital vaginal examinations must *not* be done.
+3.	The condition of the fetus must be monitored daily, preferably with a cardiotocograph. If this is not available, fetal movements must be counted and recorded.
+4.	Observations for signs of clinical chorioamnionitis must be done:
+	*	The maternal pulse rate and temperature and the fetal heart rate must be checked 4-hourly.
+	*	An abdominal examination is done twice a day to check for uterine tenderness.
+	*	At the same time it is noted whether or not the liquor is offensive.
 
-Digital vaginal examinations must *not* be done.
-
-The condition of the fetus must be monitored daily, preferably with a cardiotocograph. If this is not available, fetal movements must be counted and recorded.
-
-Observations for signs of clinical chorioamnionitis must be done:
-
-The maternal pulse rate and temperature and the fetal heart rate must be checked 4-hourly.
-
-An abdominal examination is done twice a day to check for uterine tenderness.
-
-At the same time it is noted whether or not the liquor is offensive.
-
-The first digital vaginal examination in a patient with preterm rupture of the membranes is done only when she is in established labour.
+> The first digital vaginal examination in a patient with preterm rupture of the membranes is done only when she is in established labour.
 
 ### 5-42 How long should you allow the pregnancy to continue?
 
-If complications, such as chorioamnionitis and fetal distress, do not develop, the pregnancy is allowed to continue until the patient goes into labour. However, if the pregnancy reaches 34 weeks duration and the patient is still draining liquor, an oxytocin induction is done.
-
-A patient who has stopped draining liquor completely and where liquor is present on abdominal examination, with no signs of chorioamnionitis, may be allowed to continue her pregnancy until the spontaneous onset of labour. The patient may be allowed home if no liquor has drained for two days. However, she is not allowed to sit in a bath or to have coitus. The patient must be followed up weekly at a high-risk clinic.
+1.	If complications, such as chorioamnionitis and fetal distress, do not develop, the pregnancy is allowed to continue until the patient goes into labour. However, if the pregnancy reaches 34 weeks duration and the patient is still draining liquor, an oxytocin induction is done.
+2.	A patient who has stopped draining liquor completely and where liquor is present on abdominal examination, with no signs of chorioamnionitis, may be allowed to continue her pregnancy until the spontaneous onset of labour. The patient may be allowed home if no liquor has drained for two days. However, she is not allowed to sit in a bath or to have coitus. The patient must be followed up weekly at a high-risk clinic.
 
 Note
 :	The administration of steroids will promote fetal lung maturity if patients with preterm rupture of the membranes are managed conservatively. Betamethasone (Celestone Soluspan) 12 mg (2 ml) is given intramuscularly. The dose is repeated after 24 hours. Because steroids may increase the risk of infection, ampicillin and metronidazole (Flagyl) must also be prescribed, as in the case where preterm labour is being suppressed. If a patient who is being managed in this way should develop contractions before 24 hours have passed after giving steroids, and there are no clinical signs of chorioamnionitis or any other contraindications to the suppression of preterm labour, the labour must be suppressed with nifedipine (Adalat) or salbutamol (Ventolin). An attempt is thus made to expose the fetal lungs to steroids for at least 24 hours.
 
 ### 5-43 Which physical signs will be present if a patient develops severe infection (septic shock) and what will the initial management be?
 
-The signs of clinical chorioamnionitis already mentioned will be present. In addition, there will be a drop in the blood pressure and cold clammy extremities, if severe infection (septic shock) develops.
-
-The patient must be actively resuscitated and treated with ampicillin, metronidazole (Flagyl) and gentamicin. The patient must then be referred to a level 2 or 3 hospital.
+1.	The signs of clinical chorioamnionitis already mentioned will be present. In addition, there will be a drop in the blood pressure and cold clammy extremities, if severe infection (septic shock) develops.
+2.	The patient must be actively resuscitated and treated with ampicillin, metronidazole (Flagyl) and gentamicin. The patient must then be referred to a level 2 or 3 hospital.
 
 ### 5-44 What advice should you give to a woman who has delivered a preterm infant?
 
-She should be seen before her next pregnancy to be assessed for possible causes, e.g. cervical incompetence.
+1.	She should be seen before her next pregnancy to be assessed for possible causes, e.g. cervical incompetence.
+2.	She must book early in any future pregnancy.
 
-She must book early in any future pregnancy.
-
-Prelabour rupture of the membranes
+## Prelabour rupture of the membranes
 
 ### 5-45 How should you manage a patient with prelabour rupture of the membranes?
 
-If a patient has prelabour ruptured membranes and there are signs of chorioamnionitis, then labour should be induced without delay.
-
-HIV-positive patients should be started on a course of antibiotics and labour should be induced:
-
-The longer the interval between rupture of the membranes and delivery, the greater the risk of mother-to-child transmission of HIV.
-
-The patient has a higher risk of chorioamnionitis.
-
-However, if the patient is at low risk of chorioamnionitis and both fetal and maternal conditions are good, you can wait for 24 hours after the membranes have ruptured before inducing labour. About 80% of patients will go into labour spontaneously within this period. A digital vaginal examination should not be done until the patient is in labour.
+1.	If a patient has prelabour ruptured membranes and there are signs of chorioamnionitis, then labour should be induced without delay.
+2.	HIV-positive patients should be started on a course of antibiotics and labour should be induced:
+	*	The longer the interval between rupture of the membranes and delivery, the greater the risk of mother-to-child transmission of HIV.
+	*	The patient has a higher risk of chorioamnionitis.
+3.	However, if the patient is at low risk of chorioamnionitis and both fetal and maternal conditions are good, you can wait for 24 hours after the membranes have ruptured before inducing labour. About 80% of patients will go into labour spontaneously within this period. A digital vaginal examination should not be done until the patient is in labour.
 
 Note
 :	In busy hospitals with a high bed occupancy rate, patients with prelabour rupture of the membranes can have their labour induced with oxytocin after the diagnosis is confirmed. Induction of labour in these circumstances does not result in a higher Caesarean section rate but reduces hospital stay by 24 hours.
 
-Case study 1
+## Case study 1
 
 A patient, 32 weeks pregnant, presents with regular painful uterine contractions. She is apyrexial and appears clinically well. On vaginal examination, the cervix is 4 cm dilated. The fetal heart rate is 138 beats per minute with no decelerations.
 
-1. Is the patient in true or false labour? Give the reasons for your diagnosis.
+### 1. Is the patient in true or false labour? Give the reasons for your diagnosis.
 
 She is in true labour because she is getting regular painful contractions and her cervix is 4 cm dilated.
 
-2. What signs exclude a diagnosis of clinical chorioamnionitis?
+### 2. What signs exclude a diagnosis of clinical chorioamnionitis?
 
 The patient is apyrexial, clinically well and has a normal fetal heart rate.
 
-3. Why could chorioamnionitis still be the cause of her preterm labour?
+### 3. Why could chorioamnionitis still be the cause of her preterm labour?
 
 Because chorioamnionitis is often asymptomatic.
 
-4. Would you allow labour to continue or would you suppress labour?
+### 4. Would you allow labour to continue or would you suppress labour?
 
 Labour should be suppressed because the pregnancy is of less than 34 weeks duration, the fetus is viable, and there are no signs of clinical chorioamnionitis or fetal distress.
 
-5. How should labour be suppressed?
+### 5. How should labour be suppressed?
 
 Labour must be suppressed using nifedipine (Adalat) or salbutamol (Ventolin).
 
-6. Which other drugs would increase the chance of successful suppression of preterm labour?
+### 6. Which other drugs would increase the chance of successful suppression of preterm labour?
 
 Antibiotics, such as ampicillin and metronidazole (Flagyl), increase the likelihood of successful suppression of preterm labour if the labour is caused by asymptomatic chorioamnionitis.
 
-7. Must indomethacin (Indocid) also be given?
+### 7. Must indomethacin (Indocid) also be given?
 
 No, as the patient is already 32 weeks pregnant. The risk of closing the ductus arteriosus and causing intra-uterine deaths increases from 32 weeks.
 
-8. Which drugs can be used to hasten fetal lung maturity, and would you give one of these drugs to this patient?
+### 8. Which drugs can be used to hasten fetal lung maturity, and would you give one of these drugs to this patient?
 
 Steroids, such as betamethasone, can be given to the patient to hasten lung maturity in the fetus. As this patient’s pregnancy is less than 34 weeks and there are no signs of clinical chorioamnionitis, steroids must be given.
 
-Case study 2
+## Case study 2
 
 A patient, who is 36 weeks pregnant, reports that she has been draining liquor since earlier that day. The patient appears well, with normal observations, no uterine contractions and the fetal heart rate is normal.
 
-1. Would you diagnose rupture of the membranes on the history given by the patient?
+### 1. Would you diagnose rupture of the membranes on the history given by the patient?
 
 No, other causes of fluid draining from the vagina may cause confusion, e.g. a vaginitis or stress incontinence.
 
-2. How would you confirm rupture of the membranes?
+### 2. How would you confirm rupture of the membranes?
 
 A sterile speculum examination should be done. If there is no clear evidence of liquor draining, the vaginal pH using litmus paper and microscopy for ferning can be used to identify liquor.
 
-3. Why should you not perform a digital vaginal examination to assess whether the cervix is dilated or effaced?
+### 3. Why should you not perform a digital vaginal examination to assess whether the cervix is dilated or effaced?
 
 A digital vaginal examination is contraindicated in the presence of rupture of the membranes if the patient is not already in labour, because of the risk of introducing infection.
 
-4. Is this patient at high risk of having or developing chorioamnionitis?
+### 4. Is this patient at high risk of having or developing chorioamnionitis?
 
 Yes. The preterm prelabour rupture of the membranes may have been caused by chorioamnionitis. In addition, all patients with ruptured membranes are at an increased risk of developing chorioamnionitis.
 
-5. Should you induce labour? Give your reasons.
+### 5. Should you induce labour? Give your reasons.
 
 Yes. As she is more than 34 weeks pregnant, one should induce labour. As the patient does not fall into a high-risk group for infection, a waiting period of 24 hours from the time of rupture can be allowed before inducing labour. Most patients will go into labour spontaneously during this period.
 
-6. Should you prescribe antibiotics? Give your reasons.
+### 6. Should you prescribe antibiotics? Give your reasons.
 
 There is no indication for giving antibiotics as there are no signs of clinical chorioamnionitis. However, a careful watch must be kept for early signs of maternal infection or fetal tachycardia.
 
-Case study 3
+## Case study 3
 
 An unbooked patient presents with a five-day history of ruptured membranes. She is pyrexial with lower abdominal tenderness and is draining offensive liquor. She is uncertain of her dates but abdominal examination suggests that she is at term. Treatment has been started with oral amoxicillin.
 
-1. What signs of clinical chorioamnionitis does the patient have?
+### 1. What signs of clinical chorioamnionitis does the patient have?
 
 She is pyrexial, with lower abdominal tenderness and she has offensive liquor.
 
-2. Would you induce labour in this patient? Give your reasons.
+### 2. Would you induce labour in this patient? Give your reasons.
 
 Yes, because there is danger of spreading infection in both the mother and fetus if the infant is not delivered. The patient is in grave danger of developing septic shock. Labour should be induced with oxytocin, if there is no indication for an immediate delivery, e.g. fetal distress. With signs of septic shock, the patient must be actively resuscitated and treated with broad-spectrum antibiotics, followed by delivery of the fetus. The earliest sign of septic shock will be a fall in the blood pressure, followed by the patient developing cold, clammy extremities.
 
-3. Should you continue to treat the patient with oral amoxicillin? Give your reasons.
+### 3. Should you continue to treat the patient with oral amoxicillin? Give your reasons.
 
 She should be treated with appropriate broad-spectrum antibiotics, given in adequate dosages until her pyrexia has subsided. As it is not clear how long the infection has been present, gentamicin must be added to the ampicillin and metronidazole (Flagyl) until the patient has been apyrexial for 24 hours. The gentamicin and ampicillin must initially be given intravenously and the metronidazole as a rectal suppository.
 
-4. Why is the infant at increased risk for neonatal complications?
+### 4. Why is the infant at increased risk for neonatal complications?
 
 The chorioamnionitis has already spread to the liquor as this is offensive. Therefore, the fetus may also be infected and may present with congenital pneumonia or septicaemia at birth.
 
-6
 
-Monitoring the condition of the mother during the first stage of labour
+
+
+6
+{:.chapter-number}
+
+# Monitoring the condition of the mother during the first stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Monitor the condition of the mother during the first stage of labour.
+*	Monitor the condition of the mother during the first stage of labour.
+*	Record the clinical observations on the partogram.
+*	Explain the clinical significance of the observations.
+*	Manage any abnormalities which are detected.
 
-Record the clinical observations on the partogram.
-
-Explain the clinical significance of the observations.
-
-Manage any abnormalities which are detected.
-
-Monitoring labour
+## Monitoring labour
 
 ### 6-1 What is labour?
 
@@ -4002,15 +3769,13 @@ Labour is the process whereby the fetus and the placenta are delivered. The uter
 
 Labour is divided into three stages:
 
-The first stage of labour.
-
-The second stage of labour.
-
-The third stage of labour.
+1.	The first stage of labour.
+2.	The second stage of labour.
+3.	The third stage of labour.
 
 Each stage of labour is important as it must be correctly diagnosed and managed. There are dangers to the mother in each of the three stages of labour.
 
-Labour is divided into three stages.
+> Labour is divided into three stages.
 
 ### 6-3 What is the first stage of labour?
 
@@ -4018,27 +3783,22 @@ The first stage of labour starts with the onset of regular uterine contractions 
 
 ### 6-4 What must be monitored in the first stage of labour?
 
-The condition of the mother.
-
-The condition of the fetus.
-
-The progress of labour.
+1.	The condition of the mother.
+2.	The condition of the fetus.
+3.	The progress of labour.
 
 ### 6-5 What four questions should be asked about each of these observations?
 
-How often must the observations be done?
-
-How are the findings recorded?
-
-What is the clinical significance of the findings?
-
-What should be done if an observation is abnormal?
+1.	How often must the observations be done?
+2.	How are the findings recorded?
+3.	What is the clinical significance of the findings?
+4.	What should be done if an observation is abnormal?
 
 ### 6-6 What is the partogram?
 
 The partogram is a chart which shows the progress of labour over time. It also displays observations reflecting the maternal and fetal condition. The observations of every patient in the first stage of labour must be charted on a partogram.
 
-All the observations of every patient in the first stage of labour must be recorded on a partogram.
+> All the observations of every patient in the first stage of labour must be recorded on a partogram.
 
 ### 6-7 What maternal observations are recorded on the partogram?
 
@@ -4048,27 +3808,21 @@ Notes on the general condition of the patient, as well as observations of the te
 
 At the completion of any set of observations, you must ask yourself the following questions:
 
-*Is everything normal?* If the answer is *no*, then you must ask:
-
-*What* is not normal and *why* is it not normal?
-
-Finally you must ask the question: *What must I do about the problem?*
+1.	*Is everything normal?* If the answer is *no*, then you must ask:
+	*	*What* is not normal and *why* is it not normal?
+2.	Finally you must ask the question: *What must I do about the problem?*
 
 ### 6-9 How is the condition of the patient monitored?
 
 By regular observations of the following:
 
-The general condition of the patient.
+1.	The general condition of the patient.
+2.	Temperature.
+3.	Pulse rate.
+4.	Blood pressure.
+5.	Urine output and urinalysis for protein and ketones.
 
-Temperature.
-
-Pulse rate.
-
-Blood pressure.
-
-Urine output and urinalysis for protein and ketones.
-
-Assessing the general condition of the patient
+## Assessing the general condition of the patient
 
 ### 6-10 Why is it important to observe the general condition of the patient during the first stage of labour?
 
@@ -4086,41 +3840,32 @@ The general condition of the patient should be observed continuously, but noted 
 
 When any of the following are present:
 
-Excessive anxiety.
-
-Severe, continuous pain.
-
-Severe exhaustion.
-
-Dehydration.
-
-Marked pallor of the face and mucous membranes.
+1.	Excessive anxiety.
+2.	Severe, continuous pain.
+3.	Severe exhaustion.
+4.	Dehydration.
+5.	Marked pallor of the face and mucous membranes.
 
 ### 6-14 What causes severe anxiety?
 
 Anxiety is usually seen in primigravidas who:
 
-Are not prepared for the process of labour and the labour ward.
-
-Are not accompanied by a friend or family member in the labour ward.
-
-Cannot communicate due to language differences.
+1.	Are not prepared for the process of labour and the labour ward.
+2.	Are not accompanied by a friend or family member in the labour ward.
+3.	Cannot communicate due to language differences.
 
 ### 6-15 What should you do if the patient is very anxious and is experiencing very painful contractions?
 
-The patient must be comforted and reassured. If possible, someone she knows should stay with her.
-
-The patient must be offered appropriate pain relief.
+1.	The patient must be comforted and reassured. If possible, someone she knows should stay with her.
+2.	The patient must be offered appropriate pain relief.
 
 ### 6-16 What causes severe, continuous pain in the first stage of labour?
 
 Severe, continuous pain always indicates that a complication is present, such as:
 
-Abruptio placentae.
-
-Rupture of the uterus.
-
-An infection, such as acute pyelonephritis and chorioamnionitis.
+1.	Abruptio placentae.
+2.	Rupture of the uterus.
+3.	An infection, such as acute pyelonephritis and chorioamnionitis.
 
 ### 6-17 When may severe exhaustion or dehydration occur?
 
@@ -4130,15 +3875,14 @@ With a prolonged labour, e.g. with cephalopelvic disproportion.
 
 This is usually due to either of the following:
 
-Chronic anaemia, e.g. iron deficiency, malaria, etc.
-
-Blood loss, e.g. placenta praevia, abruptio placentae or rupture of the uterus.
+1.	Chronic anaemia, e.g. iron deficiency, malaria, etc.
+2.	Blood loss, e.g. placenta praevia, abruptio placentae or rupture of the uterus.
 
 ### 6-19 Where must abnormalities in the patient’s general condition be recorded?
 
 If the general condition of the patient becomes abnormal, this must be noted in the appropriate space at the bottom of the partogram as shown in figure 6-1.
 
-Assessing the temperature
+## Assessing the temperature
 
 ### 6-20 What is a normal temperature?
 
@@ -4156,23 +3900,20 @@ The temperature is recorded in the appropriate space on the partogram as shown i
 
 There are two main causes of a high maternal temperature:
 
-Infection: This will most probably be in the urogenital tract, e.g. acute pyelonephritis or chorioamnionitis. However, it must be remembered that any other infection may be present during labour.
-
-Maternal exhaustion: Dehydration causes pyrexia.
+1.	Infection: This will most probably be in the urogenital tract, e.g. acute pyelonephritis or chorioamnionitis. However, it must be remembered that any other infection may be present during labour.
+2.	Maternal exhaustion: Dehydration causes pyrexia.
 
 ### 6-24 How should you manage a patient with pyrexia?
 
-The cause of the high temperature must be found and treated. It is particularly important to look for acute pyelonephritis, chorioamnionitis, and evidence of maternal exhaustion. A high temperature may also be due to an infection unrelated to the pregnancy, e.g. pneumonia, viral infections, malaria, etc.
-
-The temperature may be brought down with paracetamol (e.g. Panado).
+1.	The cause of the high temperature must be found and treated. It is particularly important to look for acute pyelonephritis, chorioamnionitis, and evidence of maternal exhaustion. A high temperature may also be due to an infection unrelated to the pregnancy, e.g. pneumonia, viral infections, malaria, etc.
+2.	The temperature may be brought down with paracetamol (e.g. Panado).
 
 ### 6-25 What are the dangers of pyrexia?
 
-To the mother: The temperature on its own does not constitute a risk. However, if the pyrexia is caused by an infection, the infection may be dangerous to the mother. Fever may cause a patient to go into labour.
+1.	To the mother: The temperature on its own does not constitute a risk. However, if the pyrexia is caused by an infection, the infection may be dangerous to the mother. Fever may cause a patient to go into labour.
+2.	To the fetus: A high temperature can cause fetal tachycardia. Preterm delivery with complications of immaturity in the newborn infant may also result. If the pyrexia is due to chorioamnionitis, the fetus is at high risk of becoming infected and may present with pneumonia or septicaemia.
 
-To the fetus: A high temperature can cause fetal tachycardia. Preterm delivery with complications of immaturity in the newborn infant may also result. If the pyrexia is due to chorioamnionitis, the fetus is at high risk of becoming infected and may present with pneumonia or septicaemia.
-
-Assessing the pulse rate
+## Assessing the pulse rate
 
 ### 6-26 What is the normal maternal pulse rate?
 
@@ -4190,21 +3931,17 @@ The pulse rate is recorded in the appropriate space on the partogram as shown in
 
 The commonest causes of a rapid pulse rate (tachycardia) are:
 
-Anxiety.
-
-Pain.
-
-Pyrexia.
-
-Exhaustion.
-
-Shock.
+1.	Anxiety.
+2.	Pain.
+3.	Pyrexia.
+4.	Exhaustion.
+5.	Shock.
 
 ### 6-30 What action should be taken if the patient has tachycardia?
 
 The cause of the tachycardia should be determined and treated.
 
-Assessing the blood pressure
+## Assessing the blood pressure
 
 ### 6-31 What is a normal blood pressure?
 
@@ -4220,83 +3957,65 @@ The blood pressure is recorded in the appropriate space on the partogram as show
 
 ### 6-34 What are the causes of hypertension (high blood pressure)?
 
-Anxiety.
-
-Pain.
-
-Any one of the hypertensive disorders of pregnancy.
+1.	Anxiety.
+2.	Pain.
+3.	Any one of the hypertensive disorders of pregnancy.
 
 ### 6-35 What are the causes of hypotension (low blood pressure)?
 
-Some patients may normally have a low blood pressure. Therefore, the blood pressure during labour must be compared with that recorded during the antenatal visits.
-
-Pressure of the uterus on the inferior vena cava when the patient lies on her back may decrease the venous return to the heart and, thereby, cause the blood pressure to fall. This is called supine hypotension.
-
-Shock. This is usually due to blood loss.
+1.	Some patients may normally have a low blood pressure. Therefore, the blood pressure during labour must be compared with that recorded during the antenatal visits.
+2.	Pressure of the uterus on the inferior vena cava when the patient lies on her back may decrease the venous return to the heart and, thereby, cause the blood pressure to fall. This is called supine hypotension.
+3.	Shock. This is usually due to blood loss.
 
 ### 6-36 What are the risks of hypotension?
 
-To the mother: If hypotension is due to shock, the mother may suffer kidney damage. Severe and uncorrected hypotension may result in maternal death.
-
-To the fetus: A fall in blood pressure results in decreased blood flow to the placenta, reducing the supply of oxygen to the fetus. This may cause fetal distress.
+1.	To the mother: If hypotension is due to shock, the mother may suffer kidney damage. Severe and uncorrected hypotension may result in maternal death.
+2.	To the fetus: A fall in blood pressure results in decreased blood flow to the placenta, reducing the supply of oxygen to the fetus. This may cause fetal distress.
 
 ### 6-37 What should you do for a patient with hypotension?
 
-Establish the cause of the hypotension.
-
-If the hypotension is due to the patient lying on her back, she should be turned onto her side. The blood pressure usually returns to normal within 1 or 2 minutes. The fetal heart rate should then be checked again.
-
-If the hypotension is due to haemorrhage, the patient must be resuscitated urgently and be managed according to the cause of the bleeding.
+1.	Establish the cause of the hypotension.
+2.	If the hypotension is due to the patient lying on her back, she should be turned onto her side. The blood pressure usually returns to normal within 1 or 2 minutes. The fetal heart rate should then be checked again.
+3.	If the hypotension is due to haemorrhage, the patient must be resuscitated urgently and be managed according to the cause of the bleeding.
 
 ### 6-38 How do you recognise shock?
 
 Shock presents with one or more of the following features:
 
-Tachycardia.
-
-Hypotension.
-
-Cold, sweaty skin.
+1.	Tachycardia.
+2.	Hypotension.
+3.	Cold, sweaty skin.
 
 ### 6-39 What are the common causes of shock in the first stage of labour?
 
-Shock during the first stage of labour is almost always due to haemorrhage, for example:
+1.	Shock during the first stage of labour is almost always due to haemorrhage, for example:
+	*	Abruptio placentae.
+	*	Placenta praevia.
+	*	A ruptured uterus.
+2.	Infection as a cause of shock must always be considered.
 
-Abruptio placentae.
-
-Placenta praevia.
-
-A ruptured uterus.
-
-Infection as a cause of shock must always be considered.
-
-Assessing the urine
+## Assessing the urine
 
 ### 6-40 What urine tests should be done during labour?
 
-Volume.
-
-Protein.
-
-Ketones.
+1.	Volume.
+2.	Protein.
+3.	Ketones.
 
 The presence and degree of proteinuria and ketonuria is measured and graded with a reagent strip, such as Dipstix.
 
 ### 6-41 How often should you test the urine?
 
-Every 4 hours during the latent phase of labour.
-
-Every 2 hours during the active phase of labour.
-
-Each time the patient passes urine, if more frequently than above.
+1.	Every 4 hours during the latent phase of labour.
+2.	Every 2 hours during the active phase of labour.
+3.	Each time the patient passes urine, if more frequently than above.
 
 ### 6-42 How are the urinary observations recorded?
 
 The observations are recorded on the partogram:
 
-Volume in ml.
-
-Protein and ketones are recorded as 0 if absent and 1+ to 4+ if present.
+1.	Volume in ml.
+2.	Protein and ketones are recorded as 0 if absent and 1+ to 4+ if present.
 
 The urinary observations should be recorded on the partogram as shown in figure 6-1.
 
@@ -4306,11 +4025,9 @@ An amount of less than 20 ml per hour.
 
 ### 6-44 What are the causes of oliguria?
 
-Dehydration.
-
-Severe pre-eclampsia.
-
-Shock.
+1.	Dehydration.
+2.	Severe pre-eclampsia.
+3.	Shock.
 
 Patients suffering from any of these conditions must have their urinary output accurately monitored. An indwelling urinary catheter must, therefore, be passed.
 
@@ -4321,23 +4038,19 @@ The cause of the oliguria must be diagnosed and treated.
 
 ### 6-45 How can normal hydration during labour be ensured?
 
-If a vaginal delivery is expected, the patient should be encouraged to eat and drink during the latent phase of the first stage of labour.
+1.	If a vaginal delivery is expected, the patient should be encouraged to eat and drink during the latent phase of the first stage of labour.
+2.	If a Caesarean section is expected, the patient must be kept nil per mouth while in labour in preparation for surgery.
+3.	Low-risk patients must continue taking fluids, while patients with risk factors should be kept nil per mouth, during the active phase of the first stage of labour. Intravenous fluids must be given to patients with risk factors as well as to patients with long labours.
 
-If a Caesarean section is expected, the patient must be kept nil per mouth while in labour in preparation for surgery.
-
-Low-risk patients must continue taking fluids, while patients with risk factors should be kept nil per mouth, during the active phase of the first stage of labour. Intravenous fluids must be given to patients with risk factors as well as to patients with long labours.
-
-Always ensure that a patient in labour has an adequate fluid intake. Fluids should be given intravenously if necessary.
+> Always ensure that a patient in labour has an adequate fluid intake. Fluids should be given intravenously if necessary.
 
 ### 6-46 What is the significance of proteinuria?
 
 Proteinuria of more than a trace is never normal. It is an important sign of:
 
-Pre-eclampsia.
-
-Urinary tract infection.
-
-Renal disease.
+1.	Pre-eclampsia.
+2.	Urinary tract infection.
+3.	Renal disease.
 
 When there is proteinuria, the urine must always be examined for evidence of infection. However, infection alone will not cause more than 1+ proteinuria. Proteinuria of 2+ or more should always be regarded as indicating pre-eclampsia or chronic renal disease.
 
@@ -4349,7 +4062,7 @@ The cause of the proteinuria must be deter­mined, and the appropriate managemen
 
 Ketonuria is common in labour and may be normal. However, if a woman has ketonuria, it is important to look for signs of maternal exhaustion.
 
-Maternal exhaustion
+## Maternal exhaustion
 
 Maternal exhaustion is a term used to describe a clinical condition consisting of dehydration and exhaustion during prolonged labour. It should not be confused with pain, anxiety or shock.
 
@@ -4357,15 +4070,11 @@ Maternal exhaustion is a term used to describe a clinical condition consisting o
 
 The following physical signs may be present:
 
-Tachycardia.
-
-Pyrexia.
-
-A dry mouth.
-
-Oliguria.
-
-Ketonuria.
+1.	Tachycardia.
+2.	Pyrexia.
+3.	A dry mouth.
+4.	Oliguria.
+5.	Ketonuria.
 
 ### 6-50 What causes maternal exhaustion?
 
@@ -4373,107 +4082,101 @@ A long labour with an insufficient supply of fluid and energy to the patient.
 
 ### 6-51 What are the effects of maternal exhaustion?
 
-On the mother: Inadequate progress of labour due to poor uterine action in the first stage, and poor maternal effort in bearing down during the second stage of labour.
-
-On the fetus: Fetal distress due to hypoxia. This often results from incorrectly managed cephalopelvic disproportion.
+1.	On the mother: Inadequate progress of labour due to poor uterine action in the first stage, and poor maternal effort in bearing down during the second stage of labour.
+2.	On the fetus: Fetal distress due to hypoxia. This often results from incorrectly managed cephalopelvic disproportion.
 
 ### 6-52 How can you prevent maternal exhaustion?
 
-Make sure that the patient gets an adequate intake of fluid and energy during labour. It may be necessary to give fluid intravenously. Ringer’s lactate with 5% dextrose will also ensure an adequate energy supply to the patient.
-
-Ensure that the patient gets adequate analgesia during labour.
-
-Ensure that labour does not become prolonged.
+1.	Make sure that the patient gets an adequate intake of fluid and energy during labour. It may be necessary to give fluid intravenously. Ringer’s lactate with 5% dextrose will also ensure an adequate energy supply to the patient.
+2.	Ensure that the patient gets adequate analgesia during labour.
+3.	Ensure that labour does not become prolonged.
 
 ### 6-53 How do you treat a patient with maternal exhaustion?
 
 If a patient has signs of maternal exhaustion then she should receive:
 
-An intravenous infusion, giving 2 litres of Ringer’s lactate with 5% dextrose. The first litre must be given quickly and the second litre given over 2 hours. It is contra-indicated to give a patient in labour 50 ml of 50% dextrose intravenously as this may be harmful to the fetus.
+1.	An intravenous infusion, giving 2 litres of Ringer’s lactate with 5% dextrose. The first litre must be given quickly and the second litre given over 2 hours. It is contra-indicated to give a patient in labour 50 ml of 50% dextrose intravenously as this may be harmful to the fetus.
+2.	Adequate analgesia.
 
-Adequate analgesia.
-
-Maternal exhaustion may result in poor progress of labour, while poor progress of labour may result in maternal exhaustion.
+> Maternal exhaustion may result in poor progress of labour, while poor progress of labour may result in maternal exhaustion.
 
 ### 6-54 Is it necessary for every patient to receive intravenous fluid during labour?
 
 No. Low-risk patients who are progressing well in labour do not need intravenous fluid, even if 1+ or 2+ ketonuria is present. If there are no contraindications, patients should be encouraged to take oral fluids during labour.
 
-Case study 1
+## Case study 1
 
 A patient is admitted at 32 weeks gestation. She complains of lower abdominal pain and fever. On general examination her temperature is 38 °C.
 
-1. Does this patient have a normal temperature?
+### 1. Does this patient have a normal temperature?
 
 No. She is pyrexial as her temperature is higher than 37 °C.
 
-2. Where should her temperature be recorded?
+### 2. Where should her temperature be recorded?
 
 In the appropriate space on the partogram.
 
-3. What are the most likely causes of her pyrexia?
+### 3. What are the most likely causes of her pyrexia?
 
 An acute pyelonephritis or chorioamnionitis as she has pyrexia with lower abdominal pain.
 
-4. How should you manage this patient’s pyrexia?
+### 4. How should you manage this patient’s pyrexia?
 
 Diagnose and treat the cause of the high temperature. The temperature should be brought down with paracetamol.
 
-5. What are the dangers of maternal pyrexia to the fetus?
+### 5. What are the dangers of maternal pyrexia to the fetus?
 
 Pyrexia may cause preterm labour, resulting in the delivery of a preterm infant with all the complications of immaturity. If the pyrexia is due to chorioamnionitis a preterm infant will be born with a high risk of congenital pneumonia.
 
-Case study 2
+## Case study 2
 
 A patient is admitted to hospital with a history of labour for 24 hours. On admission she appears anxious, has a dry mouth and a pulse rate of 120 beats per minute. She is able to pass only 30 ml of urine which is dark in colour. She has not passed any urine for the previous few hours.
 
-1. What is the probable diagnosis?
+### 1. What is the probable diagnosis?
 
 Maternal exhaustion due to a long labour with an inadequate fluid and energy intake. The diagnosis is confirmed by the presence of maternal tachycardia and a dry mouth.
 
-2. What other findings would help confirm this diagnosis?
+### 2. What other findings would help confirm this diagnosis?
 
 Pyrexia and ketonuria.
 
-3. Does this patient have oliguria?
+### 3. Does this patient have oliguria?
 
 Yes, as she obviously has passed less than 20 ml per hour during the past number of hours.
 
-4. Is ketonuria always abnormal?
+### 4. Is ketonuria always abnormal?
 
 No, ketonuria on its own may be normal.
 
-5. How could maternal exhaustion be avoided?
+### 5. How could maternal exhaustion be avoided?
 
 By making sure that every patient receives an adequate intake of fluid and energy during labour. If a vaginal delivery is expected and no high-risk factors are present, a patient should continue to take fluids orally during the active phase of the first stage of labour. Any patient with prolonged labour should receive fluids intravenously.
 
-6. How should the patient’s exhaustion be treated?
+### 6. How should the patient’s exhaustion be treated?
 
 She should be given 2 litres of Ringer’s lactate with 5% dextrose intravenously. The first litre must be given quickly and the second litre over 2 hours. In addition, adequate analgesia should be given if needed.
 
-7
 
-Monitoring the condition of the fetus during the first stage of labour
+
+7
+{:.chapter-number}
+
+# Monitoring the condition of the fetus during the first stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Monitor the condition of the fetus during labour.
+*	Monitor the condition of the fetus during labour.
+*	Record the findings on the partogram.
+*	Understand the significance of the findings.
+*	Understand the causes and signs of fetal distress.
+*	Interpret the significance of different fetal heart rate patterns and meconium-stained liquor.
+*	Manage any abnormalities which are detected.
 
-Record the findings on the partogram.
-
-Understand the significance of the findings.
-
-Understand the causes and signs of fetal distress.
-
-Interpret the significance of different fetal heart rate patterns and meconium-stained liquor.
-
-Manage any abnormalities which are detected.
-
-Monitoring the fetus
+## Monitoring the fetus
 
 ### 7-1 Why should you monitor the fetus during labour?
 
