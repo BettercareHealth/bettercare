@@ -38,16 +38,16 @@ layout: test
 	1.	Soaking the equipment in alcohol
 7.	What is disinfection?
 	1.	Deciding that a patient is no longer infectious
-	1.	Using heat or a chemical to remove most micro-organisms
-	1.	Making sure that all micro-organisms are removed
+	1.	Using heat or a chemical to remove most microorganisms
+	1.	Making sure that all microorganisms are removed
 	1.	A test to determine whether equipment is clean enough to be used on patients
 8.	What disinfectant is commonly used on surfaces (the environment)?
 	1.	Liquid soap
 	1.	Chlorine bleach (chlorine solution)
 	1.	Tap water
 	1.	50% alcohol or methylated spirits
-9.	Sterilization is a method of:
-	1.	Killing all micro-organisms including spores
+9.	Sterilisation is a method of:
+	1.	Killing all microorganisms including spores
 	1.	Cleaning metal equipment with chlorine
 	1.	Making sure that all organic material is removed
 	1.	Destroying soiled linen, surgical swabs or bandages
@@ -64,13 +64,13 @@ layout: test
 12.	How should you clean soiled bedpans and urinals?
 	1.	Washing them well with soap and water is adequate
 	1.	They should first be washed and then disinfected
-	1.	They must be sterilized
+	1.	They must be sterilised
 	1.	They must be discarded and not used again
 13.	How should plates and saucers be cleaned in an Ebola outbreak?
 	1.	Wash well under running water
 	1.	Allow to soak for a few minutes in warm water and a detergent
 	1.	They must always be wiped well with a chlorine solution
-	1.	Discard or sterilize them
+	1.	Discard or sterilise them
 14.	What is terminal cleaning?
 	1.	Cleaning which is carried out after a patient has been discharged or has died
 	1.	Cleaning the room of a patient who is severely ill or dying of Ebola
@@ -94,15 +94,15 @@ layout: test
 18.	How should medical waste be handled?
 	1.	Always use a green plastic bag to identify as infected material
 	1.	Wipe the bag with a chlorine solution and keep it in the clinical area until collection
-	1.	Use a red plastic bag and label it as “infectious”
+	1.	Use a red plastic bag and label it as 'infectious'
 	1.	It is safest to flush down the toilet
 19.	What method should be used to dispose of medical waste?
 	1.	Once it has been stored for a week it can safely be put on a municipal rubbish site
 	1.	It is best burned or incinerated
-	1.	Soak all waste in a chlorine solution to kill any micro-organisms
+	1.	Soak all waste in a chlorine solution to kill any microorganisms
 	1.	Bury it in a land fill site
 20.	What should you do to safely dispose of sharps?
-	1.	Place them in a plastic bag labelled “sharps”
+	1.	Place them in a plastic bag labelled 'sharps'
 	1.	Place them in a strong plastic box then add to normal ward waste
 	1.	Collect them at the end of a procedure and place in a special sharps box
 	1.	Drop them into a special sharps box immediately after use

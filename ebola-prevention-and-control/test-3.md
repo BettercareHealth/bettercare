@@ -29,7 +29,7 @@ Please choose the one, most correct answer to each question or statement.
 	1.	Both droplet and airborne precautions are needed
 	1.	Only direct contact precautions are needed
 5.	Hand hygiene includes:
-	1.	Any activity that reduces the number of micro-organisms on the hands
+	1.	Any activity that reduces the number of microorganisms on the hands
 	1.	Handwashing only
 	1.	Alcohol handrub only
 	1.	Surgical scrub only
@@ -43,13 +43,13 @@ Please choose the one, most correct answer to each question or statement.
 	1.	The hands are not visibly soiled
 	1.	The hands are well washed with soap and water afterwards
 	1.	The hands are well washed with a detergent after the handrub
-8.	What are the “WHO Five moments for Hand Hygiene”?
+8.	What are the 'WHO Five moments for Hand Hygiene'?
 	1.	The 5 organisations which promote good hand hygiene
 	1.	The 5 times when hand hygiene is important
 	1.	The 5 methods that can be used to provide hand hygiene
 	1.	The 5 steps that should be followed when hands are washed correctly
 9.	Is a solution of 0.05% chlorine suitable for routine hand hygiene?
-	1.	Yes as it is more effective than hand washing
+	1.	Yes as it is more effective than handwashing
 	1.	Yes as it needs a short contact time with the skin
 	1.	No as it is very expensive
 	1.	No as it can irritate and damage the skin
@@ -88,7 +88,7 @@ Please choose the one, most correct answer to each question or statement.
 	1.	Cleaning the protective equipment after use
 	1.	Putting the protective equipment on
 	1.	Taking the protective equipment off
-17.	The main role of a “PPE buddy” is to:
+17.	The main role of a 'PPE buddy' is to:
 	1.	Collect the used personal protective clothing and safely dispose of it 
 	1.	Provide emotional support when caring for Ebola patients
 	1.	Helping with putting on and taking off personal protective clothing

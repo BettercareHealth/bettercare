@@ -4,10 +4,10 @@ title: Title page
 layout: frontmatter
 ---
 
-Ebola Prevention and Control
+Ebola Prevention and&nbsp;Control
 {:.titlepage-title}
 
-Written by Dr Angela Dramowski and Prof Shaheen Mehtar
+Written by Dr Angela Dramowski and&nbsp;Prof&nbsp;Shaheen Mehtar
 {:.titlepage-author}
 
 Edited by Prof Dave Woods

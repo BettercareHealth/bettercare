@@ -11,7 +11,7 @@ Please choose the ONE, most correct answer to each question or statement.
 1.	What is Ebola?
 	1.	A country in Central Africa
 	1.	A common name for Ebola virus disease
-	1.	A form of malaria recently discovered in west Africa
+	1.	A form of malaria recently discovered in West Africa
 	1.	A serious disease spread by lice
 2.	What do viruses need to survive and multiply?
 	1.	A host cell
@@ -73,7 +73,7 @@ Please choose the ONE, most correct answer to each question or statement.
 	1.	Because of overcrowding in urban areas
 	1.	Because of poor hygiene in rural areas
 	1.	Because of poor mosquito control measures
-14.	The risk of a health care worker becoming infected with Ebola virus:
+14.	The risk of a healthcare worker becoming infected with Ebola virus:
 	1.	Is the same as the general population
 	1.	Is low if they wash their hands well after touching a patient with Ebola
 	1.	Is high if they do not use standard precautions correctly
