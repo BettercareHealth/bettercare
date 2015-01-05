@@ -8,11 +8,11 @@ layout: chapter
 
 ## About the Bettercare series
 
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project and the Academic Unit for Infection Prevention and Control and Infection Control Africa Network with contributions from numerous experts.
+Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project, the Academic Unit for Infection Prevention and Control at Stellenbosch University, and the Infection Control Africa Network, with contributions from numerous experts.
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
 
@@ -153,7 +153,7 @@ The Perinatal Mental Health Project of the Department of Psychiatry and Mental H
 
 ### The Infection Control Africa Network
 
-The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health related associations.
+The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health-related associations.
 
 ### Updating the course material
 

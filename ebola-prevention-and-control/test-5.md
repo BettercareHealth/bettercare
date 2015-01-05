@@ -53,7 +53,7 @@ layout: test
 	1.	Carrying corpses to a central area for burial
 10.	Why should the community be involved in efforts to stop the outbreak?
 	1.	It saves paying officials to carry out the communication functions
-	1.	It enables the community to take “ownership” of both the problems and the solutions
+	1.	It enables the community to take 'ownership' of both the problems and the solutions
 	1.	Because they are the only people who know how to stop the disease spreading
 	1.	Because they are the people spreading the disease
 11.	What media can be used to communicate with the public?

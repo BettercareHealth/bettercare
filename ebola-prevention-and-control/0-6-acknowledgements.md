@@ -36,11 +36,11 @@ Dr Petrus Janse Van Vuren (National Institute for Communicable Diseases, Johanne
 
 Dr Rosie Burton (Infectious Diseases Specialist, Khayelitsha District Hospital, Cape Town, South Africa): chapter 2
 
-Jens Pedersen (Policy Advisor, Medecins sans Frontieres, South Africa): chapter 2
+Jens Pedersen (Policy Advisor, Médecins Sans Frontières, South Africa): chapter 2
 
 Professor Dale Fisher (Head of Infectious Diseases, Department of Medicine, National University Hospital and the National University of Singapore, Singapore): chapters 1 and 2
 
-Dr Sergey Eremin (Pandemic and Epidemic Diseases, World Health Organization, Geneva, Switzerland): chapter 3
+Dr Sergey Eremin (Pandemic and Epidemic Diseases, World Health Organisation, Geneva, Switzerland): chapter 3
 
 Dr Nizam Damani (International Federation for Infection Control and Medical Director of Infection Prevention and Control, Queens University, Belfast, United Kingdom): chapter 3
 
