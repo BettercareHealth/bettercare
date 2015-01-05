@@ -214,12 +214,12 @@ div.frontmatter, div.toc, div.chapter, div.test {
 	font-weight: 300;
 	font-family: "Source Sans Pro", sans-serif;
 	margin: 0 0 1em 0;
-	line-height: 100%;
+	line-height: 110%;
 }
 .titlepage-author {
 	font-size: 2em;
-	line-height: 100%;
-	margin: 0 0 2em 0;
+	line-height: 120%;
+	margin: 0 0 1em 0;
 }
 .titlepage-logo {
 	width: 200px;
