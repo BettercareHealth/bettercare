@@ -340,6 +340,7 @@ table {
 	font-size: 80%;
 }
 th, td {
+	vertical-align: top;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 	border-left: 1px dotted #f2f2f2;
@@ -354,7 +355,6 @@ thead, th {
 	font-style: italic;
 }
 td {
-	vertical-align: top;
 	page-break-inside: avoid;
 }
 thead, th, .table-subhead {
