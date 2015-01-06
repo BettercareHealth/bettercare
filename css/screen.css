@@ -494,6 +494,10 @@ img.thumbnail {
 	padding: 0 0.5em;
 	height: 150em;
 }
-.loading {
-	background:url(../images/loading.gif) center 2em no-repeat;
+.loading:before {
+	content: "Loading…";
+	text-align: center;
+	margin: 2em 1em 1em 1em;
+	position: absolute;
+	z-index: -1;
 }
