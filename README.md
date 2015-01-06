@@ -108,6 +108,8 @@ Sizes:
 *	Alternative width: 55mm (this is a half-page-width image)
 *	Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.
 
+**Note in image sizes**: Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, **if you're creating images in Illustrator**, ideally set your image sizes to 125% of what you intend to appear in the book (115mm × 125% = 143.75mm). We try to compensate for inconsistency in our CSS just in case (see 'image placement' below).
+
 Styles:
 
 *	Default style: Black and white line art, with average 1mm line thickness.
@@ -144,6 +146,7 @@ You may need to control how an image is placed on the page, depending on its siz
 
 *	`wrap-left` puts the image on the left with the text wrapping on its right
 *	`wrap-right` puts the image on the right with the text wrapping on its left (this looks better than wrap-left)
+*	`full-width` sets the image to be as wide as possible, filling the horizontal text area
 *	`full-page` sets the max image size to 15cm high, to fill a page
 *	`half-page` sets the max image size to 8cm, about half a page including caption
 *	`quarter-page` sets the max image size to 3cm, about a quarter of the page including caption.
