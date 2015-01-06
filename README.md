@@ -219,6 +219,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 *	Update the paths to CSS files in all `<head>` elements with the correct epub paths (`/css/` becomes `../Styles/`) using search-and-replace.
 *	Add the fonts listed in `screen.css` to the `Fonts` folder.
 *	Search-and-replace to remove the `nav-bar` div (the link to `/` won't validate in an epub because it's not reachable). To find the nav-bar div only, use this DotAll Regex search: `(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
+*	Do the same to remove the `footer` div. DotAll Regex `(?s).<div class="non-printing" id="footer">(.*)</div><!--#footer-->`.
 *	Add basic metadata and semantics to your epub using Sigil's tools for this.
 *	Generate the epub's table of contents using Sigil's TOC tools.
 
