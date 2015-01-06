@@ -248,7 +248,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 	
 	with 
 	
-	`<p><a class="button non-printing" href="http://ls.bettercare.co.za">Launch Learning Station</a></p>`
+	`<p><a class="button non-printing" href="http://ls.bettercare.co.za">Online tests</a></p>`
 
 ### Add metadata, semantics and TOC
 	
