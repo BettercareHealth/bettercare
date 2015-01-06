@@ -376,6 +376,9 @@ figure.wrap-right {
 	float: right;
 	padding-left: 1.5em;
 }
+figure.full-width img {
+	width: 100%;
+}
 figure.full-page img {
 	max-width: 100%;
 }
