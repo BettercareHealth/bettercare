@@ -42,6 +42,16 @@ All information relating to the pregnancy must be entered on a patient-held ante
 
 > The antenatal card is an important source of information during the antenatal period and labour.
 
+<figure>
+    <img src="../images/fig-1-1.svg" alt="Figure 1-1: The front of an antenatal record card" />   
+    <figcaption>Figure 1-1: The front of an antenatal record card</figcaption>
+</figure>
+
+<figure>
+    <img src="../images/fig-1-1.svg" alt="Figure 1-2: The back of an antenatal record card" />   
+    <figcaption>Figure 1-2: The back of an antenatal record card</figcaption>
+</figure>
+
 ## Diagnosing pregnancy
 
 ### 1-2 How can you confirm that a patient is pregnant?
@@ -342,6 +352,16 @@ She should be seen again when the results of the screening tests are available, 
 All risk factors must be entered on the problem list on the back of the antenatal card. The gestational age when management is needed should be entered opposite the gestational age at the top of the card, e.g. vaginal examination must be done at each visit from 26 to 32 weeks if there is a risk of preterm labour.
 
 The clinic checklist (Figure 1-3) for the first visit could now be completed. If all the open blocks for the first visit can be ticked off, the visit is completed and all important points have been addressed. The checklist should again be used during further visits to make sure that all problems have been considered (i.e. it should be used as a quality control tool).
+
+<figure>
+    <img src="../images/fig-1-3.svg" alt="Figure 1-3: The front of a clinic checklist" />
+    <figcaption>Figure 1-3: The front of a clinic checklist</figcaption>
+</figure>
+
+<figure>
+    <img src="../images/fig-1-4.svg" alt="Figure 1-4: The back of a clinic checklist" />
+    <figcaption>Figure 1-4: The back of a clinic checklist</figcaption>
+</figure>
 
 ## The second antenatal visit
 
@@ -877,6 +897,11 @@ It is important to know how many pregnancies the patient has lost. Patients ofte
 
 All these findings should be recorded briefly on the antenatal clinic record.
 
+<figure>
+    <img src="../images/fig-1A-1.svg" alt="Figure 1A-1: Recording past obstetric history" />
+    <figcaption>Figure 1A-1: Recording past obstetric history</figcaption>
+</figure>
+
 ### C. Medical history
 
 Patients must be asked about diabetes, epilepsy, hypertension, renal disease, heart valve disease and tuberculosis. Also ask about any other illnesses which she may have had. Asking about allergies and medication often brings to light a problem which the patient may have forgotten, or thought not to be of significance. Always ask whether she has ever had an operation or has been admitted to hospital and, if so, where and why.
@@ -1044,7 +1069,17 @@ The following should be specifically looked for and noted:
 	*	If the fundus reaches halfway between the symphysis and the umbilicus, the gestational age is probably 16 weeks.
 	*	If the fundus is at the same height as the umbilicus, the gestational age is probably 22 weeks (1 finger under the umbilicus = 20 weeks and 1 finger above the umbilicus = 24 weeks).
 
+<figure>
+    <img src="../images/fig-1B-2.svg" alt="Figure 1B-2: Determining the uterine size before 24 weeks" />
+    <figcaption>Figure 1B-2: Determining the uterine size before 24 weeks</figcaption>
+</figure>
+	
 ### F. Determining the height of the fundus from 18 weeks gestation
+
+<figure>
+    <img src="../images/fig-1B-1.svg" alt="Figure 1B-1: Determining the fundal height" />
+    <figcaption>Figure 1B-1: Determining the fundal height</figcaption>
+</figure>
 
 The symphysis-fundus height should be measured as follows:
 
