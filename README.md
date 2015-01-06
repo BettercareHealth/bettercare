@@ -207,3 +207,19 @@ Take the chapter test before and after you read this chapter.
 
 {% include jotform-start.html %}43496817304561{% include jotform-end.html %}
 ```
+
+## Epub output
+
+We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes.
+
+*	Open a blank epub in Sigil.
+*	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
+*	Sigil should automatically detect (from the links in the HTML) and add the book's images to the `Images` folder. If not, add them manually.
+*	Add `screen.css` and `normalize.css` to your `Styles` folder.
+*	Update the paths to CSS files in all `<head>` elements with the correct epub paths (`/css/` becomes `../Styles/`) using search-and-replace.
+*	Add the fonts listed in `screen.css` to the `Fonts` folder.
+*	Search-and-replace to remove the `nav-bar` div (the link to `/` won't validate in an epub because it's not reachable). To find the nav-bar div only, use this DotAll Regex search: `(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
+*	Add basic metadata and semantics to your epub using Sigil's tools for this.
+*	Generate the epub's table of contents using Sigil's TOC tools.
+
+For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/).
