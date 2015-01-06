@@ -31,9 +31,8 @@ Please choose the one, most correct answer to each question or statement.
 5.	Which clinical sign is common in patients with Ebola?
 	1.	Fever
 	1.	Jaundice
-c.	Enlarged lymph nodes
-d.	Oedema of the legs
-
+	1.	Enlarged lymph nodes
+	1.	Oedema of the legs
 6.	How soon can a person become ill after contact with a patient with Ebola?
 	1.	Within 24 hours
 	1.	As early as 4 days
@@ -59,7 +58,7 @@ d.	Oedema of the legs
 	1.	Bowel perforation and peritonitis
 	1.	Heart failure and pulmonary oedema
 	1.	Dehydration and shock
-11.	What organ often fails in patient very ill with Ebola?
+11.	What organ often fails in patients very ill with Ebola?
 	1.	The heart
 	1.	The kidneys
 	1.	The lungs

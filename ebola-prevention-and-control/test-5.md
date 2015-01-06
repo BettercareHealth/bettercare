@@ -35,7 +35,7 @@ layout: test
 	1.	Speak to common people in the community
 	1.	Speak to the local health authorities
 	1.	Speak to the local government representative
-	1.	Speak to a traditional leaders
+	1.	Speak to a traditional leader
 7.	Who from the outbreak team should communicate with other stakeholders?
 	1.	It is best if there is only one person
 	1.	Only the local health authorities
@@ -105,4 +105,4 @@ layout: test
 	1.	No as they have already suffered and need rest to recover
 	1.	No as they may still be infectious even after they have fully recovered
 	1.	No as they may be re-infected with Ebola
-	1.	Yes they can be used to help in patient tracing, orphan care and home-based care 
+	1.	Yes they can be used to help in patient tracing, orphan care and home-based care

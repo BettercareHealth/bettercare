@@ -100,9 +100,10 @@ layout: test
 	1.	Once it has been stored for a week it can safely be put on a municipal rubbish site
 	1.	It is best burned or incinerated
 	1.	Soak all waste in a chlorine solution to kill any microorganisms
-	1.	Bury it in a land fill site
+	1.	Bury it in a land-fill site
 20.	What should you do to safely dispose of sharps?
 	1.	Place them in a plastic bag labelled 'sharps'
 	1.	Place them in a strong plastic box then add to normal ward waste
 	1.	Collect them at the end of a procedure and place in a special sharps box
 	1.	Drop them into a special sharps box immediately after use
+	
