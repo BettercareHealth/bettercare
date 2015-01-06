@@ -212,16 +212,48 @@ Take the chapter test before and after you read this chapter.
 
 We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes.
 
+**Current issue: while we use the `<figure>` element, our epubs will not validate as EPUB2.**
+
+### Add the files
+
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
 *	Sigil should automatically detect (from the links in the HTML) and add the book's images to the `Images` folder. If not, add them manually.
 *	Add `screen.css` and `normalize.css` to your `Styles` folder.
-*	Update the paths to CSS files in all `<head>` elements with the correct epub paths (`/css/` becomes `../Styles/`) using search-and-replace.
-*	Search-and-replace to remove the Google Analytics script.
 *	Add the fonts listed in `screen.css` to the `Fonts` folder.
-*	Search-and-replace to remove the `nav-bar` div (the link to `/` won't validate in an epub because it's not reachable). To find the nav-bar div only, use this DotAll Regex search: `(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
-*	Do the same to remove the `footer` div. DotAll Regex `(?s).<div class="non-printing" id="footer">(.*)</div><!--#footer-->`.
-*	Add basic metadata and semantics to your epub using Sigil's tools for this.
-*	Generate the epub's table of contents using Sigil's TOC tools.
+
+### Update paths
+
+*	Update the paths to CSS files in all `<head>` elements with the correct epub paths (`/css/` becomes `../Styles/`) using search-and-replace.
+*	In `screen.css` update the paths to fonts from `src: url(fonts/` to src: url(../Fonts/`.
+
+### Search-and-replace
+
+*	Remove all scripts from the `<head>`. We don't need them.
+*	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
+
+	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
+	
+*	Remove the `footer` div. DotAll Regex:
+
+	`(?s).<div class="non-printing" id="footer">(.*)</div><!--#footer-->`
+	
+*	Remove the `live-test` divs. DotAll Regex: 
+
+	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live test .non-printing-->`.
+	
+*	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, replace 
+
+	`<p><a class="button non-printing" href="#live-test" id="live-test-show" onclick="showHide('live-test');">Open chapter test</a></p>`
+	
+	with 
+	
+	`<p><a class="button non-printing" href="http://ls.bettercare.co.za">Launch Learning Station</a></p>`
+
+### Add metadata, semantics and TOC
+	
+*	Add basic metadata to your epub using Sigil's Metadata Editor. Include at least title with subtitle, author, date, and publisher.
+*	Add semantics to key HTML files and the cover image (right click the file name in Sigil for the semantics context menu).
+*	Generate the epub's table of contents (Tools > Table Of Contents…).
 
 For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/).
