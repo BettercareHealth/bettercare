@@ -356,36 +356,35 @@ pre, code {
  * Figures and images
  */
 
-figure {
-	margin: 1em 0;
-	padding: 0;
-}
-figcaption {
-	font-style: italic;
-}
-figure img {
+img {
 	max-width: 100%;
+	margin: 1em 0;
 }
-figure.wrap-left {
+.figure-caption {
+	font-style: italic;
+	page-break-before: avoid;
+	margin: 0 0 1em 0;
+}
+.wrap-left {
 	width: 50%;
 	float: left;
 	padding-right: 1.5em;
 }
-figure.wrap-right {
+.wrap-right {
 	width: 50%;
 	float: right;
 	padding-left: 1.5em;
 }
-figure.full-width img {
+.full-width img {
 	width: 100%;
 }
-figure.full-page img {
+.full-page img {
 	max-width: 100%;
 }
-figure.half-page img {
+.half-page img {
 	max-width: 50%;
 }
-figure.quarter-page img {
+.quarter-page img {
 	max-width: 25%;
 }
 
