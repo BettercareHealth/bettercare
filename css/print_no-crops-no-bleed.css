@@ -129,7 +129,7 @@
 .chapter {
 	page: chapter;
 }
-.test {
+.test, .answers {
 	page: test;
 }
 
@@ -179,7 +179,7 @@
   }
 }
 /* We want mandatory page breaks before some layouts */
-div.frontmatter, div.toc, div.chapter, div.test { 
+div.frontmatter, div.toc, div.chapter, div.test, div.answers { 
 	page-break-before: always;
 }
 
@@ -231,7 +231,7 @@ div.frontmatter, div.toc, div.chapter, div.test {
  * Contents page
  */
 
- .toc a::after { 
+.toc a::after { 
 	content: leader(" ") target-counter(attr(href), page) 
 }
 .toc ul, .toc ol {
@@ -324,7 +324,7 @@ ul#markdown-toc, ol#markdown-toc {
 	font-size: 1.5em;
 	font-weight: 600;
  }
- .answers h2 {
+.answers h2 {
 	font-size: 1.2em;
 	font-weight: 400;
 }
