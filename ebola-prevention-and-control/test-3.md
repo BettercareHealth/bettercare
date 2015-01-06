@@ -104,7 +104,8 @@ Please choose the one, most correct answer to each question or statement.
 	1.	Every available precaution should still be used such as plastic bags in place of gloves
 	1.	Under no circumstance should they provide care for an Ebola patient
 20.	Healthcare workers who have been caring for Ebola patients can safely use public transport, attend mass gatherings and return to routine work after:
-	1.	A 21 day post exposure period
-	1.	A 15 day post exposure period
-	1.	A 7 day post exposure period
-	1.	A 48 hour post exposure period
+	1.	A 21 day post-exposure period
+	1.	A 15 day post-exposure period
+	1.	A 7 day post-exposure period
+	1.	A 48 hour post-exposure period
+	

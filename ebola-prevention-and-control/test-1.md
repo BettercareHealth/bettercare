@@ -100,7 +100,7 @@ Please choose the ONE, most correct answer to each question or statement.
 	1.	Blood culture for Marburg fever
 19.	How should a laboratory specimen be transported?
 	1.	The information form should be wrapped tightly around the test tube
-	1.	The test tube should be placed in a screw-top container and then another container such as a leak proof plastic box with a secure lid
+	1.	The test tube should be placed in a screw-top container and then another container such as a leak-proof plastic box with a secure lid
 	1.	The test tube should be placed in an open container of ice
 	1.	No special precautions are needed
 20.	How can a laboratory specimen be safely processed?
