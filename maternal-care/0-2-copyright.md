@@ -17,17 +17,13 @@ First published in 2010 by [Bettercare](http://bettercare.co.za), a division of 
 *	Updated: 25 March 2011
 *	Layout updated: 1 August 2011
 
-Text © Perinatal Education Programme 2010
-
-Getup © Electric Book Works 2010
-
+Text © Perinatal Education Programme
+Getup © Electric Book Works
 Illustrations by Anne Westoby
 
-ISBN (paperback): 978-1-920218-27-0
-
-ISBN (PDF ebook): 978-1-920218-45-4
-
-ISBN (reflowable edition): TBC
+ISBN (paperback): 978-1-920218-27-0  
+ISBN (PDF ebook): 978-1-920218-45-4  
+ISBN (reflowable ebook): 978-1-920218-89-8
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
