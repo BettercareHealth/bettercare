@@ -6,7 +6,7 @@ layout: frontmatter
 
 > Very important: We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-Newborn Care: Managing normal and high-risk infants in the newborn nursery
+*Newborn Care: Managing normal and high-risk infants in the newborn nursery*
 
 First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated:
 
@@ -15,16 +15,12 @@ First published in 2009 by [Bettercare](http://bettercare.co.za), a division of 
 *	7 March 2011
 *	10 August 2014
 
-Text © Perinatal Education Programme 2009
-
-Cover photograph © Harris Steinman
-
-Illustrations by Mary Hann and Anne Westoby
-
+Text © Perinatal Education Programme 2009  
+Cover photograph © Harris Steinman  
+Illustrations by Mary Hann and Anne Westoby  
 Getup © Electric Book Works 2009
 
-ISBN (paperback): 978-1-920218-28-7
-
+ISBN (paperback): 978-1-920218-28-7  
 ISBN (PDF ebook): 978-1-920218-57-7
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
