@@ -324,6 +324,9 @@ blockquote p {
  * Lists
  */
 
+ul ul, ol ol {
+	margin: 0;
+}
 li blockquote {
 	margin: 1em 0;
 }
@@ -342,6 +345,9 @@ dt {
 	text-transform: uppercase;
 	font-size: small;
 	letter-spacing: 0.05em;
+}
+dd .table-caption {
+	margin-top: 1em;
 }
 
 /* 

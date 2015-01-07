@@ -472,6 +472,9 @@ p.chapter-number {
 ul, ol {
 	margin: 0 0 0.5em 0;
 }
+ul ul, ol ol {
+	margin: 0 0 0 1.1em;
+}
 li:first-of-type {
 	page-break-after: avoid;
 }
@@ -508,6 +511,9 @@ dt {
 	font-weight: 300;
 	letter-spacing: 0.05em;
 	page-break-after: avoid;
+}
+dd .table-caption {
+	margin-top: 1em;
 }
 pre, code {
 	font-family: "Linux Libertine Mono", monospace;
