@@ -4,67 +4,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="419.531px" height="595.279px" viewBox="0 0 419.531 595.279" enable-background="new 0 0 419.531 595.279"
 	 xml:space="preserve">
-<font horiz-adv-x="1000">
-<!-- Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
-<font-face font-family="MyriadPro-Bold" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
-<missing-glyph horiz-adv-x="500" d="M0,0l500,0l0,700l-500,0M250,395l-170,255l340,0M280,350l170,255l0,-510M80,50l170,255l170,-255M50,605l170,-255l-170,-255z"/>
-<glyph unicode="I" horiz-adv-x="285" d="M67,674l0,-674l152,0l0,674z"/>
-<glyph unicode="a" horiz-adv-x="528" d="M468,289C468,405 417,501 254,501C165,501 98,476 64,457l28,-98C124,379 177,396 227,396C302,396 316,359 316,332l0,-6C143,326 29,266 29,139C29,61 88,-11 187,-11C245,-11 295,10 327,49l3,0l9,-49l137,0C470,27 468,72 468,118M321,178C321,169 320,160 318,152C308,121 276,96 239,96C205,96 179,115 179,154C179,212 241,231 321,231z"/>
-<glyph unicode="c" horiz-adv-x="451" d="M410,125C387,115 359,109 323,109C249,109 189,157 189,246C188,326 240,383 320,383C360,383 387,376 405,368l24,113C397,493 353,500 313,500C131,500 33,383 33,240C33,87 134,-10 292,-10C350,-10 401,0 428,13z"/>
-<glyph unicode="d" horiz-adv-x="596" d="M383,710l0,-264l-2,0C359,479 313,501 252,501C135,501 32,405 33,240C33,88 126,-11 242,-11C305,-11 365,17 395,71l3,0l6,-71l135,0C537,33 535,91 535,146l0,564M383,218C383,206 382,194 380,183C371,140 335,110 291,110C228,110 187,162 187,245C187,322 222,384 292,384C339,384 372,350 381,310C383,301 383,290 383,282z"/>
-<glyph unicode="e" horiz-adv-x="528" d="M493,196C495,207 498,230 498,256C498,377 438,500 280,500C110,500 33,363 33,239C33,86 128,-10 294,-10C360,-10 421,0 471,21l-20,103C410,110 368,103 316,103C245,103 182,133 178,196M177,300C181,340 207,399 271,399C341,399 357,337 357,300z"/>
-<glyph unicode="f" horiz-adv-x="341" d="M231,0l0,377l97,0l0,112l-98,0l0,25C230,562 251,601 301,601C321,601 337,598 350,594l6,117C335,716 309,721 276,721C231,721 179,708 140,672C97,632 79,567 79,508l0,-19l-65,0l0,-112l65,0l0,-377z"/>
-<glyph unicode="i" horiz-adv-x="274" d="M213,0l0,489l-152,0l0,-489M138,701C89,701 57,668 57,625C57,583 88,549 136,549C187,549 218,583 218,625C217,668 187,701 138,701z"/>
-<glyph unicode="n" horiz-adv-x="586" d="M61,0l152,0l0,282C213,296 214,310 218,320C229,348 254,377 296,377C351,377 373,334 373,271l0,-271l152,0l0,289C525,433 450,500 350,500C268,500 219,453 199,421l-3,0l-7,68l-132,0C59,445 61,394 61,333z"/>
-<glyph unicode="o" horiz-adv-x="577" d="M295,501C137,501 33,400 33,241C33,83 143,-11 286,-11C417,-11 544,71 544,250C544,398 444,501 295,501M290,392C359,392 387,318 387,246C387,157 350,98 290,98C225,98 190,161 190,245C190,317 218,392 290,392z"/>
-<glyph unicode="r" horiz-adv-x="380" d="M61,0l152,0l0,248C213,260 214,272 216,282C226,329 264,359 320,359C337,359 349,357 361,355l0,143C350,500 343,501 329,501C281,501 222,471 197,399l-4,0l-6,90l-130,0C60,447 61,400 61,328z"/>
-<glyph unicode="s" horiz-adv-x="434" d="M33,24C70,4 127,-11 191,-11C331,-11 402,56 402,148C401,219 363,267 270,299C210,320 191,332 191,356C191,380 212,395 249,395C290,395 333,379 355,367l26,105C351,487 301,501 244,501C123,501 45,432 45,340C44,282 83,227 185,193C241,174 256,162 256,136C256,111 237,96 191,96C146,96 88,115 60,132z"/>
-<glyph unicode=" " horiz-adv-x="202"/>
-<glyph unicode="t" horiz-adv-x="367" d="M82,580l0,-91l-65,0l0,-112l65,0l0,-200C82,108 96,61 124,32C149,7 190,-10 239,-10C281,-10 318,-4 337,3l-1,115C322,115 312,114 291,114C246,114 231,141 231,200l0,177l109,0l0,112l-109,0l0,132z"/>
-<glyph unicode="u" horiz-adv-x="583" d="M522,489l-152,0l0,-291C370,185 368,174 364,165C355,141 330,112 288,112C234,112 211,155 211,226l0,263l-152,0l0,-287C59,51 131,-11 231,-11C319,-11 365,39 384,69l3,0l7,-69l132,0C524,41 522,93 522,157z"/>
-</font>
-
-	<font horiz-adv-x="1000">
-<!-- Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries. -->
-<font-face font-family="MyriadPro-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
-<missing-glyph horiz-adv-x="500" d="M0,0l500,0l0,700l-500,0M250,395l-170,255l340,0M280,350l170,255l0,-510M80,50l170,255l170,-255M50,605l170,-255l-170,-255z"/>
-<glyph unicode="A" horiz-adv-x="612" d="M424,212l72,-212l93,0l-230,674l-104,0l-230,-674l90,0l70,212M203,280l66,195C283,516 293,558 303,597l2,0C315,558 325,518 340,474l67,-194z"/>
-<glyph unicode="B" horiz-adv-x="542" d="M76,2C105,-2 151,-6 211,-6C321,-6 397,14 443,57C478,89 501,134 501,192C501,292 426,345 362,360l0,3C432,388 476,445 476,511C476,564 454,604 419,630C378,664 322,679 235,679C175,679 114,673 76,664M163,606C177,609 200,612 240,612C328,612 387,580 387,502C387,437 333,388 242,388l-79,0M163,323l72,0C330,323 409,284 409,193C409,95 326,62 236,62C205,62 181,63 163,66z"/>
-<glyph unicode="C" horiz-adv-x="580" d="M529,91C494,74 440,63 386,63C223,63 128,168 128,334C128,511 233,612 391,612C447,612 494,600 526,584l22,71C525,667 471,685 388,685C179,685 36,543 36,331C36,109 178,-11 368,-11C450,-11 515,5 546,21z"/>
-<glyph unicode="H" horiz-adv-x="652" d="M75,674l0,-674l88,0l0,316l326,0l0,-316l88,0l0,674l-88,0l0,-282l-326,0l0,282z"/>
-<glyph unicode="K" horiz-adv-x="542" d="M76,0l87,0l0,257l65,74l221,-331l103,0l-263,388l244,286l-108,0l-206,-253C202,399 184,375 166,349l-3,0l0,325l-87,0z"/>
-<glyph unicode="P" horiz-adv-x="532" d="M76,0l87,0l0,270C183,265 207,264 233,264C318,264 392,289 439,338C473,373 491,421 491,482C491,542 468,591 432,623C392,659 329,679 243,679C173,679 118,673 76,666M163,603C178,607 207,610 245,610C340,610 404,567 404,477C404,386 340,334 235,334C206,334 182,336 163,341z"/>
-<glyph unicode="a" horiz-adv-x="482" d="M413,297C413,393 377,494 229,494C168,494 109,477 69,452l20,-59C123,416 170,429 216,429C315,430 326,357 326,318l0,-10C139,309 35,245 35,128C35,58 85,-11 183,-11C252,-11 304,23 331,61l3,0l7,-61l79,0C415,33 413,74 413,116M328,163C328,155 327,145 324,135C310,94 269,54 205,54C161,54 123,80 123,138C123,232 232,249 328,247z"/>
-<glyph unicode="b" horiz-adv-x="569" d="M73,125C73,82 71,33 69,0l75,0l5,79l2,0C188,16 244,-11 314,-11C422,-11 532,75 532,248C532,394 448,494 327,494C249,494 193,460 162,406l-2,0l0,304l-87,0M160,280C160,294 162,306 165,317C183,383 239,425 298,425C393,425 443,342 443,245C443,134 389,59 296,59C232,59 180,101 164,162C161,172 160,183 160,194z"/>
-<glyph unicode="d" horiz-adv-x="564" d="M403,710l0,-289l-2,0C379,459 330,494 255,494C138,494 37,396 38,235C38,88 129,-11 246,-11C325,-11 383,30 409,84l3,0l4,-84l78,0C492,33 490,82 490,125l0,585M403,203C403,189 402,177 399,165C383,100 329,60 270,60C176,60 127,141 127,239C127,345 181,425 272,425C338,425 386,379 399,324C402,313 403,298 403,287z"/>
-<glyph unicode="e" horiz-adv-x="501" d="M462,226C464,236 465,249 465,267C465,356 424,494 265,494C124,494 38,380 38,234C38,88 127,-11 276,-11C353,-11 407,6 438,20l-16,63C390,69 351,58 288,58C199,58 124,107 122,226M123,289C130,350 168,431 258,431C357,431 381,344 380,289z"/>
-<glyph unicode="f" horiz-adv-x="292" d="M169,0l0,417l117,0l0,67l-117,0l0,26C169,585 188,650 263,650C289,650 306,645 319,639l12,68C314,714 288,721 256,721C215,721 171,708 138,676C98,637 82,575 82,507l0,-23l-67,0l0,-67l67,0l0,-417z"/>
-<glyph unicode="g" horiz-adv-x="559" d="M487,352C487,410 488,450 491,484l-78,0l-3,-73l-2,0C386,451 341,494 257,494C145,494 38,402 38,238C38,104 124,2 244,2C319,2 372,38 398,83l2,0l0,-53C400,-93 334,-140 244,-140C184,-140 134,-122 102,-101l-22,-68C119,-195 183,-209 241,-209C302,-209 370,-194 418,-151C464,-108 487,-41 487,71M399,206C399,191 397,174 392,159C374,103 325,69 270,69C176,69 127,148 127,243C127,355 187,426 271,426C336,426 378,384 394,332C398,321 399,308 399,293z"/>
-<glyph unicode="h" horiz-adv-x="555" d="M73,0l88,0l0,292C161,308 162,321 167,334C184,381 228,421 285,421C368,421 397,356 397,278l0,-278l88,0l0,288C485,454 381,494 316,494C283,494 252,485 226,470C199,455 177,432 163,407l-2,0l0,303l-88,0z"/>
-<glyph unicode="i" horiz-adv-x="234" d="M161,0l0,484l-88,0l0,-484M117,675C84,675 62,650 62,620C62,590 83,566 115,566C150,566 171,590 171,620C171,651 149,675 117,675z"/>
-<glyph unicode="k" horiz-adv-x="469" d="M160,710l-87,0l0,-710l87,0l0,182l45,50l166,-232l108,0l-213,285l186,199l-105,0l-143,-167C190,300 174,279 162,262l-2,0z"/>
-<glyph unicode="l" horiz-adv-x="236" d="M73,0l88,0l0,710l-88,0z"/>
-<glyph unicode="m" horiz-adv-x="834" d="M73,0l86,0l0,291C159,306 161,322 166,334C180,378 221,422 275,422C342,422 376,367 376,290l0,-290l86,0l0,299C462,315 465,330 469,343C485,385 523,422 574,422C644,422 679,367 679,273l0,-273l86,0l0,284C765,452 670,494 605,494C559,494 528,482 499,460C479,445 459,425 444,397l-2,0C421,454 371,494 306,494C225,494 180,451 153,405l-3,0l-4,79l-77,0C71,444 73,404 73,353z"/>
-<glyph unicode="n" horiz-adv-x="555" d="M73,0l88,0l0,291C161,306 163,321 167,332C183,381 228,422 285,422C368,422 397,357 397,279l0,-279l88,0l0,288C485,454 381,494 314,494C234,494 178,449 154,404l-2,0l-5,80l-78,0C72,444 73,404 73,353z"/>
-<glyph unicode="o" horiz-adv-x="549" d="M278,494C145,494 38,399 38,238C38,85 140,-11 270,-11C386,-11 511,67 511,246C511,393 417,494 278,494M276,428C380,428 421,325 421,243C421,134 358,55 274,55C188,55 128,135 128,241C128,332 173,428 276,428z"/>
-<glyph unicode="1" horiz-adv-x="513" d="M236,0l85,0l0,650l-75,0l-142,-76l17,-67l113,61l2,0z"/>
-<glyph unicode="p" horiz-adv-x="569" d="M73,-198l87,0l0,263l2,0C191,17 247,-11 311,-11C425,-11 532,75 532,249C532,395 444,494 326,494C247,494 189,460 154,401l-2,0l-5,83l-78,0C71,438 73,388 73,326M160,281C160,292 163,305 166,316C182,382 239,424 299,424C392,424 443,341 443,245C443,134 389,58 296,58C233,58 180,100 164,161C161,172 160,184 160,197z"/>
-<glyph unicode="." horiz-adv-x="207" d="M110,-11C147,-11 171,16 171,52C171,89 147,115 112,115C77,115 52,88 52,52C52,16 76,-11 110,-11z"/>
-<glyph unicode="r" horiz-adv-x="327" d="M73,0l88,0l0,258C161,272 162,287 164,299C176,365 220,411 282,411C294,411 303,411 312,409l0,83C304,493 297,494 288,494C229,494 175,453 153,388l-3,0l-4,96l-77,0C72,439 73,390 73,333z"/>
-<glyph unicode="s" horiz-adv-x="396" d="M40,23C74,3 123,-11 176,-11C289,-11 356,49 356,135C356,207 312,249 229,280C166,305 138,323 138,363C138,399 166,429 218,429C263,429 298,412 317,400l21,64C312,481 269,494 220,494C117,494 53,430 53,352C53,294 94,247 182,215C246,191 271,169 271,127C271,86 241,55 178,55C134,55 88,73 61,89z"/>
-<glyph unicode="6" horiz-adv-x="513" d="M416,660C400,660 378,659 352,655C270,645 198,612 144,559C79,495 34,394 34,266C34,97 125,-11 263,-11C399,-11 480,99 480,219C480,345 399,429 284,429C212,429 157,395 126,353l-2,0C139,461 211,561 350,583C375,587 398,589 416,588M265,57C172,57 122,137 121,244C121,260 125,272 130,282C154,330 204,362 257,362C338,362 391,306 391,213C391,120 340,57 265,57z"/>
-<glyph unicode=" " horiz-adv-x="212"/>
-<glyph unicode="t" horiz-adv-x="331" d="M93,574l0,-90l-75,0l0,-67l75,0l0,-264C93,96 103,53 127,26C148,3 181,-11 222,-11C256,-11 283,-5 300,1l-4,67C283,64 269,62 245,62C196,62 179,96 179,156l0,261l126,0l0,67l-126,0l0,116z"/>
-<glyph unicode="3" horiz-adv-x="513" d="M42,33C74,12 138,-11 211,-11C366,-11 448,80 448,184C447,275 383,335 303,350l0,2C382,381 423,438 423,506C423,585 365,661 237,661C167,661 101,636 66,611l24,-64C118,567 168,590 220,590C301,590 334,544 334,492C334,415 253,382 189,382l-49,0l0,-66l49,0C274,316 356,277 357,186C358,131 322,60 210,60C148,60 91,85 66,100z"/>
-<glyph unicode="2" horiz-adv-x="513" d="M460,0l0,73l-291,0l0,2l51,48C357,255 444,352 444,472C444,565 385,661 245,661C171,661 106,632 62,595l28,-62C120,558 169,588 228,588C325,588 356,527 356,461C356,363 280,279 114,121l-69,-67l0,-54z"/>
-<glyph unicode="u" horiz-adv-x="551" d="M478,484l-88,0l0,-296C390,171 387,155 382,143C366,103 325,62 266,62C187,62 158,125 158,217l0,267l-88,0l0,-283C70,32 161,-11 237,-11C323,-11 375,40 397,79l2,0l5,-79l78,0C479,38 478,82 478,133z"/>
-<glyph unicode="v" horiz-adv-x="481" d="M13,484l184,-484l84,0l190,484l-92,0l-94,-271C269,168 255,128 244,88l-3,0C231,128 218,168 202,213l-95,271z"/>
-<glyph unicode="w" horiz-adv-x="736" d="M18,484l146,-484l80,0l78,230C339,282 354,332 366,390l2,0C380,333 394,285 411,231l74,-231l80,0l156,484l-87,0l-69,-243C549,184 536,133 528,84l-3,0C514,133 500,184 482,242l-75,242l-74,0l-79,-247C238,185 222,133 211,84l-3,0C199,134 186,184 173,238l-65,246z"/>
-<glyph unicode="y" horiz-adv-x="471" d="M9,484l178,-446C192,27 194,20 194,15C194,10 191,3 187,-6C166,-51 137,-85 113,-104C87,-126 58,-140 36,-147l22,-73C80,-216 122,-201 166,-164C226,-111 269,-27 332,139l132,345l-93,0l-96,-284C263,165 253,128 244,99l-2,0C234,128 222,166 210,198l-105,286z"/>
-<glyph unicode="0" horiz-adv-x="513" d="M263,661C131,661 36,542 36,323C38,108 125,-11 252,-11C395,-11 478,111 478,332C478,539 399,661 263,661M257,593C349,593 389,488 389,328C389,162 346,57 257,57C177,57 125,153 125,322C125,499 181,593 257,593z"/>
-</font>
-
-	<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
@@ -89,7 +29,7 @@
                   <xmpGImg:width>184</xmpGImg:width>
                   <xmpGImg:height>256</xmpGImg:height>
                   <xmpGImg:format>JPEG</xmpGImg:format>
-                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAAC4AwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9N2t1qU9tFN9XhHqor09&#xA;Z9uQr/vrFUXEZilZkVHr0Ri4p8yqfqxVfirsVdirsVdirsVSfzbD5ql0OVfKs9rb62skL273wY2z&#xA;KkqtLHJwV3o8YZfhFd9iDvirDrC2/wCciEMcd7d+WJIzcmSadBe+qIGk5+lGvBE+FfgUtU8epLfE&#xA;VKs//QwZVAo8pg+m4lNdS/vSX4Fdj8IHCoPv7YoXpF+fMOmafEs3lq5v47bhqM8/10CS4DShZE9J&#xA;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&#xA;GYq7FXYq7FXYq7FXYq//2Q==</xmpGImg:image>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAAC4AwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9N2t1qU9tFN9XhHqor09&#xA;Z9uQr/vrFUXEZilZkVHr0Ri4p8yqfqxVfirsVdirsVdirsVSfzbD5ql0OVfKs9rb62skL273wY2z&#xA;KkqtLHJwV3o8YZfhFd9iDvirDrC2/wCciEMcd7d+WJIzcmSadBe+qIGk5+lGvBE+FfgUtU8epLfE&#xA;VKs//QwZVAo8pg+m4lNdS/vSX4Fdj8IHCoPv7YoXpF+fMOmafEs3lq5v47bhqM8/10CS4DShZE9J&#xA;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&#xA;l2qMVRmKuxV2KuxV2KuxV2Kv/9k=</xmpGImg:image>
                </rdf:li>
             </rdf:Alt>
          </xmp:Thumbnails>
@@ -140,7 +80,7 @@
          <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
          <xmpTPg:NPages>1</xmpTPg:NPages>
          <xmpTPg:MaxPageSize rdf:parseType="Resource">
-            <stDim:w>148.001130</stDim:w>
+            <stDim:w>148.001302</stDim:w>
             <stDim:h>210.001308</stDim:h>
             <stDim:unit>Millimeters</stDim:unit>
          </xmpTPg:MaxPageSize>
@@ -212,148 +152,160 @@
                            
 <?xpacket end="w"?>
 	</metadata>
-<text transform="matrix(1 0 0 1 164.292 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">I</text>
-<text transform="matrix(1 0 0 1 166.5962 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">nfa</text>
-<text transform="matrix(1 0 0 1 178.2358 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">n</text>
-<text transform="matrix(1 0 0 1 182.876 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">t needs </text>
-<text transform="matrix(1 0 0 1 210.4194 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 213.4028 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">esuscit</text>
-<text transform="matrix(1 0 0 1 237.9712 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 242.1304 36.3342)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">tion</text>
-<text transform="matrix(1 0 0 1 159.6519 106.1018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">1. Keep </text>
-<text transform="matrix(1 0 0 1 185.707 106.1018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">w</text>
-<text transform="matrix(1 0 0 1 191.5708 106.1018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 195.4268 106.1018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 198.0669 106.1018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">m</text>
-<text transform="matrix(1 0 0 1 159.6519 115.7024)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">2. </text>
-<text transform="matrix(1 0 0 1 167.1079 115.7024)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">P</text>
-<text transform="matrix(1 0 0 1 171.1719 115.7024)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">osition head</text>
-<text transform="matrix(1 0 0 1 159.6519 125.302)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">3. Clear ai</text>
-<text transform="matrix(1 0 0 1 191.5391 125.302)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 194.3467 125.302)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">w</text>
-<text transform="matrix(1 0 0 1 200.2109 125.302)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 204.0107 125.302)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">y if needed</text>
+<text transform="matrix(1 0 0 1 164.2922 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">I</text>
+<text transform="matrix(1 0 0 1 166.5964 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">nfa</text>
+<text transform="matrix(1 0 0 1 178.2361 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">n</text>
+<text transform="matrix(1 0 0 1 182.8762 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">t needs </text>
+<text transform="matrix(1 0 0 1 210.4197 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 213.4031 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">esuscit</text>
+<text transform="matrix(1 0 0 1 237.9714 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 242.1306 36.334)" fill="#231F20" font-family="'MyriadPro-Bold'" font-size="8">tion</text>
+<text transform="matrix(1 0 0 1 159.6521 106.1016)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">1. Keep </text>
+<text transform="matrix(1 0 0 1 185.7073 106.1016)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">w</text>
+<text transform="matrix(1 0 0 1 191.571 106.1016)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 195.427 106.1016)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 198.0671 106.1016)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">m</text>
+<text transform="matrix(1 0 0 1 159.6521 115.7021)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">2. </text>
+<text transform="matrix(1 0 0 1 167.1082 115.7021)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">P</text>
+<text transform="matrix(1 0 0 1 171.1721 115.7021)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">osition head</text>
+<text transform="matrix(1 0 0 1 159.6521 125.3018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">3. Clear ai</text>
+<text transform="matrix(1 0 0 1 191.5393 125.3018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 194.3469 125.3018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">w</text>
+<text transform="matrix(1 0 0 1 200.2112 125.3018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 204.011 125.3018)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">y if needed</text>
 <rect x="142.392" y="87.193" fill="none" stroke="#231F20" stroke-width="0.5" width="136.063" height="51.024"/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<path clip-path="url(#SVGID_2_)" fill="#D0D2D3" d="M154.392,176.484c0,0-12,0-12,12v7.182c0,0,0,12,12,12h112.063c0,0,12,0,12-12
-			v-7.182c0,0,0-12-12-12H154.392z"/>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_2_)" fill="#D0D2D3" d="M154.392,176.484c0,0-12,0-12,12v7.182c0,0,0,12,12,12h112.063
+				c0,0,12,0,12-12v-7.182c0,0,0-12-12-12H154.392z"/>
+		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 182.2227 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
-<text transform="matrix(1 0 0 1 187.0708 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess b</text>
-<text transform="matrix(1 0 0 1 209.9976 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 212.5347 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
-<text transform="matrix(1 0 0 1 216.5415 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 220.3735 195.0745)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">thing</text>
-<text transform="matrix(1 0 0 1 311.5913 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">P</text>
-<text transform="matrix(1 0 0 1 315.647 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">oor b</text>
-<text transform="matrix(1 0 0 1 333.2944 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 335.8394 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
-<text transform="matrix(1 0 0 1 339.8472 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 343.6694 228.1223)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">thing</text>
-<text transform="matrix(1 0 0 1 168.5347 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Bag and mask </text>
-<text transform="matrix(1 0 0 1 216.5415 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">v</text>
-<text transform="matrix(1 0 0 1 220.3188 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
-<text transform="matrix(1 0 0 1 224.3267 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
-<text transform="matrix(1 0 0 1 228.7427 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">til</text>
-<text transform="matrix(1 0 0 1 235.1499 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 238.9819 258.9387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">tion</text>
-<text transform="matrix(1 0 0 1 206.9189 268.5393)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">or</text>
-<text transform="matrix(1 0 0 1 173.6548 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">i</text>
-<text transform="matrix(1 0 0 1 175.5269 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
-<text transform="matrix(1 0 0 1 179.9429 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">tub</text>
-<text transform="matrix(1 0 0 1 191.5508 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 195.3828 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 197.9829 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e and </text>
-<text transform="matrix(1 0 0 1 218.1899 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">v</text>
-<text transform="matrix(1 0 0 1 221.9663 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
-<text transform="matrix(1 0 0 1 225.9741 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
-<text transform="matrix(1 0 0 1 230.3901 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">til</text>
-<text transform="matrix(1 0 0 1 236.7983 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
-<text transform="matrix(1 0 0 1 240.6206 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 243.23 278.1389)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 182.2229 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
+<text transform="matrix(1 0 0 1 187.071 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess b</text>
+<text transform="matrix(1 0 0 1 209.9978 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 212.5349 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 216.5417 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 220.3738 195.0742)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">thing</text>
+<text transform="matrix(1 0 0 1 311.5916 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">P</text>
+<text transform="matrix(1 0 0 1 315.6472 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">oor b</text>
+<text transform="matrix(1 0 0 1 333.2947 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 335.8396 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 339.8474 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 343.6697 228.1221)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">thing</text>
+<text transform="matrix(1 0 0 1 168.5349 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Bag and mask </text>
+<text transform="matrix(1 0 0 1 216.5417 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">v</text>
+<text transform="matrix(1 0 0 1 220.3191 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 224.3269 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
+<text transform="matrix(1 0 0 1 228.7429 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">til</text>
+<text transform="matrix(1 0 0 1 235.1501 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 238.9822 258.9385)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">tion</text>
+<text transform="matrix(1 0 0 1 206.9192 268.5391)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">or</text>
+<text transform="matrix(1 0 0 1 173.655 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">i</text>
+<text transform="matrix(1 0 0 1 175.5271 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
+<text transform="matrix(1 0 0 1 179.9431 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">tub</text>
+<text transform="matrix(1 0 0 1 191.551 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 195.3831 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 197.9832 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e and </text>
+<text transform="matrix(1 0 0 1 218.1902 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">v</text>
+<text transform="matrix(1 0 0 1 221.9666 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 225.9744 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">n</text>
+<text transform="matrix(1 0 0 1 230.3904 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">til</text>
+<text transform="matrix(1 0 0 1 236.7986 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 240.6208 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 243.2302 278.1387)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
 <rect x="142.392" y="240.277" fill="none" stroke="#231F20" stroke-width="0.5" width="136.063" height="50.524"/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_3_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  overflow="visible"/>
-		</clipPath>
-		<path clip-path="url(#SVGID_4_)" fill="#D0D2D3" d="M154.392,328.826c0,0-12,0-12,12v7.181c0,0,0,12,12,12h112.063c0,0,12,0,12-12
-			v-7.181c0,0,0-12-12-12H154.392z"/>
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_4_)" fill="#D0D2D3" d="M154.392,328.826c0,0-12,0-12,12v7.181c0,0,0,12,12,12h112.063
+				c0,0,12,0,12-12v-7.181c0,0,0-12-12-12H154.392z"/>
+		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 209.2129 344.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8"> </text>
-<text transform="matrix(1 0 0 1 182.2212 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
-<text transform="matrix(1 0 0 1 187.0693 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess hea</text>
-<text transform="matrix(1 0 0 1 217.7476 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 220.5562 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
-<text transform="matrix(1 0 0 1 224.8999 349.9172)" enable-background="new    "><tspan x="0" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</tspan><tspan x="2.576" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</tspan></text>
-<text transform="matrix(1 0 0 1 231.3081 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 233.9155 349.9172)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
-<text transform="matrix(1 0 0 1 299.4937 384.9973)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Hea</text>
-<text transform="matrix(1 0 0 1 312.5737 384.9973)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 315.3726 384.9973)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
-<text transform="matrix(1 0 0 1 319.7173 384.9973)" enable-background="new    "><tspan x="0" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</tspan><tspan x="2.576" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</tspan></text>
-<text transform="matrix(1 0 0 1 326.1245 384.9973)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 328.7241 384.9973)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e less than 60</text>
-<text transform="matrix(1 0 0 1 185.5249 422.3157)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Chest massage</text>
+<text transform="matrix(1 0 0 1 209.2131 344.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 182.2214 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
+<text transform="matrix(1 0 0 1 187.0696 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess hea</text>
+<text transform="matrix(1 0 0 1 217.7478 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 220.5564 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
+<text transform="matrix(1 0 0 1 224.9001 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 227.4763 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 231.3083 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 233.9158 349.917)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 299.4939 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Hea</text>
+<text transform="matrix(1 0 0 1 312.574 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 315.3728 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
+<text transform="matrix(1 0 0 1 319.7175 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 322.2937 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 326.1248 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 328.7244 384.9971)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e less than 60</text>
+<text transform="matrix(1 0 0 1 185.5251 422.3154)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Chest massage</text>
 <rect x="142.392" y="394.057" fill="none" stroke="#231F20" stroke-width="0.5" width="136.063" height="50.523"/>
-<text transform="matrix(1 0 0 1 285.3667 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Hea</text>
-<text transform="matrix(1 0 0 1 298.4468 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 301.2456 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
-<text transform="matrix(1 0 0 1 305.5903 537.595)" enable-background="new    "><tspan x="0" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</tspan><tspan x="2.576" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</tspan></text>
-<text transform="matrix(1 0 0 1 311.9976 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 314.5972 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e </text>
-<text transform="matrix(1 0 0 1 320.3022 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 322.8452 537.595)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">emains less than 60</text>
-<text transform="matrix(1 0 0 1 192.2456 565.2415)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
-<text transform="matrix(1 0 0 1 197.0537 565.2415)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">d</text>
-<text transform="matrix(1 0 0 1 201.5654 565.2415)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 204.1094 565.2415)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">enaline</text>
+<text transform="matrix(1 0 0 1 285.3669 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">Hea</text>
+<text transform="matrix(1 0 0 1 298.447 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 301.2458 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
+<text transform="matrix(1 0 0 1 305.5906 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 308.1667 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 311.9978 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 314.5974 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e </text>
+<text transform="matrix(1 0 0 1 320.3025 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 322.8455 537.5947)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">emains less than 60</text>
+<text transform="matrix(1 0 0 1 192.2458 565.2412)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
+<text transform="matrix(1 0 0 1 197.054 565.2412)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">d</text>
+<text transform="matrix(1 0 0 1 201.5657 565.2412)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 204.1096 565.2412)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">enaline</text>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_5_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_6_">
-			<use xlink:href="#SVGID_5_"  overflow="visible"/>
-		</clipPath>
-		
-			<rect x="142.392" y="553.741" clip-path="url(#SVGID_6_)" fill="none" stroke="#231F20" stroke-width="0.5" width="136.063" height="17.008"/>
+		<g>
+			<defs>
+				<rect id="SVGID_5_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_6_">
+				<use xlink:href="#SVGID_5_"  overflow="visible"/>
+			</clipPath>
+			
+				<rect x="142.392" y="553.741" clip-path="url(#SVGID_6_)" fill="none" stroke="#231F20" stroke-width="0.5" width="136.063" height="17.008"/>
+		</g>
 	</g>
 </g>
 <line fill="none" stroke="#231F20" stroke-width="0.5" x1="210.423" y1="51.814" x2="210.423" y2="69.76"/>
 <polygon fill="#231F20" points="210.423,74.49 212.725,68.166 208.121,68.166 "/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_7_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_8_">
-			<use xlink:href="#SVGID_7_"  overflow="visible"/>
-		</clipPath>
-		<path clip-path="url(#SVGID_8_)" fill="#D0D2D3" d="M154.392,482.626c0,0-12,0-12,12v7.181c0,0,0,12,12,12h112.063c0,0,12,0,12-12
-			v-7.181c0,0,0-12-12-12H154.392z"/>
+		<g>
+			<defs>
+				<rect id="SVGID_7_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_8_">
+				<use xlink:href="#SVGID_7_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_8_)" fill="#D0D2D3" d="M154.392,482.626c0,0-12,0-12,12v7.181c0,0,0,12,12,12h112.063
+				c0,0,12,0,12-12v-7.181c0,0,0-12-12-12H154.392z"/>
+		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 209.2129 498.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8"> </text>
-<text transform="matrix(1 0 0 1 182.2212 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
-<text transform="matrix(1 0 0 1 187.0693 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess hea</text>
-<text transform="matrix(1 0 0 1 217.7476 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
-<text transform="matrix(1 0 0 1 220.5562 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
-<text transform="matrix(1 0 0 1 224.8999 503.7161)" enable-background="new    "><tspan x="0" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</tspan><tspan x="2.576" y="0" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</tspan></text>
-<text transform="matrix(1 0 0 1 231.3081 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
-<text transform="matrix(1 0 0 1 233.9155 503.7161)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
+<text transform="matrix(1 0 0 1 209.2131 498.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 182.2214 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">A</text>
+<text transform="matrix(1 0 0 1 187.0696 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">ssess hea</text>
+<text transform="matrix(1 0 0 1 217.7478 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 220.5564 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t </text>
+<text transform="matrix(1 0 0 1 224.9001 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">r</text>
+<text transform="matrix(1 0 0 1 227.4763 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">a</text>
+<text transform="matrix(1 0 0 1 231.3083 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">t</text>
+<text transform="matrix(1 0 0 1 233.9158 503.7158)" fill="#231F20" font-family="'MyriadPro-Regular'" font-size="8">e</text>
 <line fill="none" stroke="#231F20" stroke-width="0.5" x1="210.423" y1="146.721" x2="210.423" y2="164.667"/>
 <polygon fill="#231F20" points="210.423,169.397 212.725,163.073 208.121,163.073 "/>
 <line fill="none" stroke="#231F20" stroke-width="0.5" x1="210.423" y1="212.626" x2="210.423" y2="230.572"/>
@@ -368,54 +320,64 @@
 <polygon fill="#231F20" points="210.423,544.516 212.725,538.19 208.121,538.19 "/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_9_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_10_">
-			<use xlink:href="#SVGID_9_"  overflow="visible"/>
-		</clipPath>
-		
-			<line clip-path="url(#SVGID_10_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="33.335" x2="16.25" y2="498.217"/>
+		<g>
+			<defs>
+				<rect id="SVGID_9_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
+			</clipPath>
+			
+				<line clip-path="url(#SVGID_10_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="33.335" x2="16.25" y2="498.217"/>
+		</g>
 	</g>
 	<g>
-		<defs>
-			<rect id="SVGID_11_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_12_">
-			<use xlink:href="#SVGID_11_"  overflow="visible"/>
-		</clipPath>
-		
-			<line clip-path="url(#SVGID_12_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="33.585" x2="38.927" y2="33.585"/>
+		<g>
+			<defs>
+				<rect id="SVGID_11_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_12_">
+				<use xlink:href="#SVGID_11_"  overflow="visible"/>
+			</clipPath>
+			
+				<line clip-path="url(#SVGID_12_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="33.585" x2="38.927" y2="33.585"/>
+		</g>
 	</g>
 	<g>
-		<defs>
-			<rect id="SVGID_13_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_14_">
-			<use xlink:href="#SVGID_13_"  overflow="visible"/>
-		</clipPath>
-		
-			<line clip-path="url(#SVGID_14_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="191.361" x2="38.927" y2="191.361"/>
+		<g>
+			<defs>
+				<rect id="SVGID_13_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  overflow="visible"/>
+			</clipPath>
+			
+				<line clip-path="url(#SVGID_14_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="191.361" x2="38.927" y2="191.361"/>
+		</g>
 	</g>
 	<g>
-		<defs>
-			<rect id="SVGID_15_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_16_">
-			<use xlink:href="#SVGID_15_"  overflow="visible"/>
-		</clipPath>
-		
-			<line clip-path="url(#SVGID_16_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="342.996" x2="38.927" y2="342.996"/>
+		<g>
+			<defs>
+				<rect id="SVGID_15_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_16_">
+				<use xlink:href="#SVGID_15_"  overflow="visible"/>
+			</clipPath>
+			
+				<line clip-path="url(#SVGID_16_)" fill="none" stroke="#231F20" stroke-width="0.5" x1="16.25" y1="342.996" x2="38.927" y2="342.996"/>
+		</g>
 	</g>
 	<g>
-		<defs>
-			<rect id="SVGID_17_" x="16" y="24.831" width="388.595" height="546.168"/>
-		</defs>
-		<clipPath id="SVGID_18_">
-			<use xlink:href="#SVGID_17_"  overflow="visible"/>
-		</clipPath>
-		
-			<line clip-path="url(#SVGID_18_)" fill="none" stroke="#231F20" stroke-width="0.56" x1="16.25" y1="497.937" x2="38.927" y2="497.937"/>
+		<g>
+			<defs>
+				<rect id="SVGID_17_" x="16" y="24.831" width="388.596" height="546.168"/>
+			</defs>
+			<clipPath id="SVGID_18_">
+				<use xlink:href="#SVGID_17_"  overflow="visible"/>
+			</clipPath>
+			
+				<line clip-path="url(#SVGID_18_)" fill="none" stroke="#231F20" stroke-width="0.56" x1="16.25" y1="497.938" x2="38.927" y2="497.938"/>
+		</g>
 	</g>
 </g>
 </svg>
