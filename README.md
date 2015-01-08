@@ -83,18 +83,42 @@ Always remember how important your work is here: these books literally save live
 
 ### Images
 
-#### The `<figure>` element
+#### Images in markdown
 
-We do not use markdown to embed images, because kramdown doesn't support enclosing the image and caption in a `<figure>` element. We need the `<figure>` element for our PDF output, mainly so that images and their captions don't break over pages. Use this HTML code for each image:
+We use markdown to embed images. (We don't use the HTML `<figure>` element any more, because it doesn't validate in EPUB2.)
 
-```html
-<figure>
-	<img src="../images/fig-1-A.svg" alt="The Apgar scoring sheet" />	
-	<figcaption>Figure 1-A: The Apgar scoring sheet</figcaption>
-</figure>
+Use this markdown for each image:
+
+```
+![Figure 2-A: The Ballard scoring method](images/fig-2-A.svg)
+
+Figure 2-A: The Ballard scoring method
+{:.figure-caption}
 ```
 
-That's all, no markdown notation for the image, and no list of images at the end of the doc. We just put this code (with the file name, alt and caption changed of course) for each figure exactly where it's relevant in the text.
+The first line is the image reference. It consists of:
+
+*	an exclamation mark telling markdown that we're placing an image
+*	the `alt` attribute in square brackets
+*	the path to the image file.
+
+The second line is the figure caption, followed by the kramdown notation `{:.figure-caption}`, which lets our stylesheets format that paragraph as a figure caption, and prevent a page break between the image and the caption in print.
+
+#### Image placement
+
+You may need to control how an image is placed on the page, depending on its size and nearby images or other elements. You do this by applying a class to the figure, and you have these options:
+
+*	`full-width` sets the image to be as wide as possible, filling the horizontal text area
+*	`full-page` sets the max image size to 15cm high, to fill a page
+*	`half-page` sets the max image size to 8cm, about half a page including caption
+*	`quarter-page` sets the max image size to 3cm, about a quarter of the page including caption.
+
+You apply these by adding the class immediately after the image reference, like this, where we're adding the 'half-page' class to an image:
+
+```
+![Figure 2-B: Weight for gestational age chart](images/fig-2-B.svg)
+{:.half-page}
+```
 
 #### Creating images
 
@@ -140,37 +164,18 @@ If you're creating images from InDesign originals using Illustrator, a suggested
 
 Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
 
-#### Image placement
-
-You may need to control how an image is placed on the page, depending on its size and nearby images or other elements. You do this by applying a class to the figure, and you have these options:
-
-*	`wrap-left` puts the image on the left with the text wrapping on its right
-*	`wrap-right` puts the image on the right with the text wrapping on its left (this looks better than wrap-left)
-*	`full-width` sets the image to be as wide as possible, filling the horizontal text area
-*	`full-page` sets the max image size to 15cm high, to fill a page
-*	`half-page` sets the max image size to 8cm, about half a page including caption
-*	`quarter-page` sets the max image size to 3cm, about a quarter of the page including caption.
-
-You apply these by adding `class="wrap-right"` (or whichever class you want to apply) to the opening `<figure>` tag:
-
-```html
-<figure class="wrap-right">
-```
-
-Note that the `wrap-` classes make the text that *follows* the `<figure>` element wrap around the figure. So in your markdown, place the `<figure>` element *before* the paragraph that you want to wrap it with.
-
-### General tips
+## General tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * Do not use a colon `:` in the title you include in your YAML header (inside the `---`s at the tops of files). (Jekyll will bug out unsure if you're trying to map a second value to the YAML key.)
 * In lists, Kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
 * To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills workshops are then `1A.md`, `1B.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
 
-### Live online tests
+## Live online tests
 
 We use [Qurio](http://qurio.co) and [Jotform](http://www.jotform.com) for live online quizzes.
 
-#### Creating tests with Qurio
+### Creating tests with Qurio
 
 To turn our tests markup into [Qurio-importable quiz text](https://github.com/edgecampus/qurio-text-format), you just need to run a few search-and-replaces. Don't try to keep a copy of Qurio-importable text; that will create version-control issues. Just run these search-and-replaces quickly on the master markdown each time you revise a test on Qurio. You need to use regular expressions, so use a text editor that can do that (like Notepad++ or most code editors).
 
@@ -184,7 +189,7 @@ When you create a quiz on Qurio:
 *	For what we call 'pre tests' and 'post tests', use a Qurio 'quiz' (marks, results shown immediately). Distribution settings: anyone can answer, but they must be registered. Randomise answer order but not question order.
 *	For what we call an 'exam', use a Qurio 'test' (marks, send results manually). Distribution settings: anyone can answer, must be registered, randomise both questions and answers order, and set a time limit of one hour.
 
-#### Creating tests with Jotform
+### Creating tests with Jotform
 
 *	Sign in as Bettercare.
 *	In our Bettercare account on Jotform, clone the quiz's form template.
@@ -210,7 +215,7 @@ Take the chapter test before and after you read this chapter.
 
 ## Epub output
 
-We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes.
+We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes. (For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/) and/or the [Sigil manual online](http://web.sigil.googlecode.com/git/files/OEBPS/Text/introduction.html).)
 
 **Current issue: while we use the `<figure>` element, our epubs will not validate as EPUB2.**
 
@@ -256,4 +261,6 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 *	Add semantics to key HTML files and the cover image (right click the file name in Sigil for the semantics context menu).
 *	Generate the epub's table of contents (Tools > Table Of Contents…).
 
-For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/).
+### Validate
+
+Validate the epub in Sigil and fix any validation errors. Sigil won't catch everything though, so also validate with the [IDPF's online version of EpubCheck](http://validator.idpf.org/).

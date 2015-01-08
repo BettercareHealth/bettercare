@@ -48,6 +48,7 @@ body {
 	font-family: "Source Sans Pro", sans-serif;
 	font-size: 1.3em;
 	line-height: 140%;
+	margin: 0;
 }
 	@media (max-device-width: 1280px) and (orientation: landscape) { /* Targeting Bettercare's Galaxy Tab-based Learning Stations */
 		body {
@@ -362,36 +363,25 @@ pre, code {
  * Figures and images
  */
 
-figure {
-	margin: 1em 0;
-	padding: 0;
-}
-figcaption {
-	font-style: italic;
-}
-figure img {
+img {
 	max-width: 100%;
+	margin: 1em 0;
 }
-figure.wrap-left {
-	width: 50%;
-	float: left;
-	padding-right: 1.5em;
+.figure-caption {
+	font-style: italic;
+	page-break-before: avoid;
+	margin: 0 0 1em 0;
 }
-figure.wrap-right {
-	width: 50%;
-	float: right;
-	padding-left: 1.5em;
-}
-figure.full-width img {
+.full-width img {
 	width: 100%;
 }
-figure.full-page img {
+.full-page img {
 	max-width: 100%;
 }
-figure.half-page img {
+.half-page img {
 	max-width: 50%;
 }
-figure.quarter-page img {
+.quarter-page img {
 	max-width: 25%;
 }
 

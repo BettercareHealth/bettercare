@@ -374,38 +374,25 @@ td p {
  * Figures and images
  */
 
-figure {
-	margin: 1em 0;
-	padding: 0;
-	page-break-inside: avoid;
-}
-figcaption {
-	font-style: italic;
-	margin: 1em 0;
-}
-figure img {
+img {
 	max-width: 100%;
+	margin: 0.5em 0;
 }
-figure.wrap-left {
-	width: 50%;
-	float: left;
-	padding-right: 1.5em;
+.figure-caption {
+	font-style: italic;
+	page-break-before: avoid;
+	margin: 0 0 1em 0;
 }
-figure.wrap-right {
-	width: 50%;
-	float: right;
-	padding-left: 1.5em;
-}
-figure.full-width img {
+.full-width img {
 	width: 100%;
 }
-figure.full-page img {
+.full-page img {
 	max-height: 150mm;
 }
-figure.half-page img {
+.half-page img {
 	max-height: 55mm;
 }
-figure.quarter-page img {
+.quarter-page img {
 	max-height: 25mm;
 }
 
