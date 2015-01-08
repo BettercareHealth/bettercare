@@ -383,16 +383,6 @@ img {
 	page-break-before: avoid;
 	margin: 0 0 1em 0;
 }
-.wrap-left {
-	width: 50%;
-	float: left;
-	padding-right: 1.5em;
-}
-.wrap-right {
-	width: 50%;
-	float: right;
-	padding-left: 1.5em;
-}
 .full-width img {
 	width: 100%;
 }
