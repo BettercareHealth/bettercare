@@ -151,7 +151,7 @@ Settings:
 *	Raster elements embedded, not linked
 *	Transparent background
 
-Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (best) or png. Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. 
+Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (since Amazon Kindle only uses JPG or GIF, we shouldn't use PNG or other formats). Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. 
 
 If you're creating images from InDesign originals using Illustrator, a suggested workflow:
 
