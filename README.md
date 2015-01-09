@@ -122,7 +122,7 @@ You apply these by adding the class immediately after the image reference, like 
 
 #### Creating images
 
-Wherever possible, Bettercare images should be created with the same sizes, styles and settings. To create images, you must have a working knowledge of the difference between vector and raster (aka bitmap) images. We always favour vector, except where raster is absolutely necessary.
+Wherever possible, Bettercare images should be created with the same sizes, styles and settings. To create images, you must have a working knowledge of the difference between vector and raster images. We always favour vector, except where raster is absolutely necessary.
 
 These constraints make our designs consistent, make layout easier (for print, ebook and web on large and small screens), and keep file sizes down for mobile devices.
 
@@ -133,6 +133,11 @@ Sizes:
 *	Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.
 
 **Note in image sizes**: Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, **if you're creating images in Illustrator**, ideally set your image sizes to 125% of what you intend to appear in the book (115mm × 125% = 143.75mm). We try to compensate for inconsistency in our CSS just in case (see 'image placement' below).
+
+Resolution:
+
+*	For SVG images, the editor you use will determine underlying resolution. Illustrator uses 72dpi, and Inkscape 90dpi. We favour and assume 90dpi, but can rescale SVG images with  our stylesheets just in case.
+*	For JPGs, our default resolution should be 200dpi and image quality of 80 ('very high' in Adobe presets). This allows for reasonable print quality while keeping file sizes sensible for web delivery.
 
 Styles:
 
@@ -151,7 +156,9 @@ Settings:
 *	Raster elements embedded, not linked
 *	Transparent background
 
-Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (since Amazon Kindle only uses JPG or GIF, we shouldn't use PNG or other formats). Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. 
+Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (since Amazon Kindle only uses JPG or GIF, we shouldn't use PNG or other formats). 
+
+Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. Labels and other text must *not* be rasterised.
 
 If you're creating images from InDesign originals using Illustrator, a suggested workflow:
 
