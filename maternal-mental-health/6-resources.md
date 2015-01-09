@@ -87,7 +87,7 @@ As you are pregnant/have had a baby, we would like to know how you are feeling. 
 There is a choice of four answers for each question. Please mark the one that comes closest to how you have felt in the past seven days, not just how you feel today.
 
 |----+----------------------------------------------------------------------+---|
-|    |                       In the past seven days:                        |   |
+|    |                       In the past seven days:                        | &emsp;  |
 |----+----------------------------------------------------------------------+---|
 |  1 | I have been able to see the funny side of things:                    |   |
 |    | As much as I always could                                            |   |
@@ -155,7 +155,7 @@ wat die beste beskryf hoe jy gedurende die afgelope sewe dae gevoel het, nie net
 hoe jy nou vandag voel nie.
 
 |----+---------------------------------------------------------------------------------+---|
-|    |                        Gedurende die afgelope sewe dae:                         |   |
+|    |                        Gedurende die afgelope sewe dae:                         | &emsp;  |
 |----+---------------------------------------------------------------------------------+---|
 |  1 | Kon ek die snaakse kant van dinge sien:                                         |   |
 |    | So maklik soos ek altyd kon                                                     |   |
@@ -221,7 +221,7 @@ Njengokuba ukhulelewe okanye usandula ukufumana usana sifuna ukwazi ukuba uziva 
 Kunentlobo ezine zempendulo kumbuzo ngamnye, Nceda yenza isangqa kwenye ethe yasondela kwindlela ubuziva ngayo kwintsuku ezisixhenxe ezidlulileyo, hayi ngendlela oziva ngayo ngoku.
 
 |----+---------------------------------------------------------------------------------------+---|
-|    |                          Kwintsuku ezisixhenxe ezidlulileyo:                          |   |
+|    |                          Kwintsuku ezisixhenxe ezidlulileyo:                          | &emsp;  |
 |----+---------------------------------------------------------------------------------------+---|
 |  1 | Ndibenakho ukubona icala lezinto ezingalunganga:                                      |   |
 |    | Kangangoko bendisenza                                                                 |   |
@@ -287,7 +287,7 @@ Comme vous êtes enceinte/vous avez un bébé, nous aimerions savoir comment vou
 Il y a un choix de quatre réponses pour chaque question. Encerclez celle qui se rapproche le plus de la manière dont vous vous êtes sentie les sept derniers jours, et  pas seulement la manière dont vous vous sentez aujourd’hui. 
 
 |----+----------------------------------------------------------------------------------------+---|
-|    |                                Les sept derniers jours:                                |   |
+|    |                                Les sept derniers jours:                                | &emsp;  |
 |----+----------------------------------------------------------------------------------------+---|
 |  1 | J’ai été capable de voir le côté amusant des choses:                                   |   |
 |    | Autant que je l’ai toujours pu                                                         |   |
