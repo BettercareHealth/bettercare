@@ -59,11 +59,10 @@
 
 .anchorjs-icon:before {
   content: '\e600';
-  /* alternative icons -- uncomment to use */
-  /*
-  content: '#';
-  content: 'Â¶';
-  content: 'â¡';
-  content: 'Â§';
-  */
+}
+
+/* Don't show on contents page */
+
+.toc .anchorjs-link {
+	display: none;
 }
