@@ -229,7 +229,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
 *	Sigil should automatically detect (from the links in the HTML) and add the book's images to the `Images` folder. If not, add them manually.
-*	Add `screen.css` and `normalize.css` to your `Styles` folder.
+*	Add `screen.css` to your `Styles` folder.
 *	Add the fonts listed in `screen.css` to the `Fonts` folder.
 
 ### Update paths
@@ -239,7 +239,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 
 ### Search-and-replace
 
-*	Remove all scripts from the `<head>`. We don't need them.
+*	Remove all scripts from the `<head>` and from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
 	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
