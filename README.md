@@ -224,8 +224,6 @@ Take the chapter test before and after you read this chapter.
 
 We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes. (For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/) and/or the [Sigil manual online](http://web.sigil.googlecode.com/git/files/OEBPS/Text/introduction.html).)
 
-**Current issue: while we use the `<figure>` element, our epubs will not validate as EPUB2.**
-
 ### Add the files
 
 *	Open a blank epub in Sigil.
