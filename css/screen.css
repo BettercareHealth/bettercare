@@ -303,6 +303,10 @@ a.button {
 a.button:hover {
 	background-color: #4faad2;
 }
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
+	padding-top: 2.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. In concert with anchor.js. */
+}
+
 /* 
  * Blockquotes. Note in Bettercare these are used for key-concept boxes by default.
  */
