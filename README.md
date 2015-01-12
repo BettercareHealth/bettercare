@@ -228,17 +228,16 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
-*	Sigil should automatically detect (from the links in the HTML) and add the book's images to the `Images` folder. If not, add them manually.
-*	Add `screen.css` to your `Styles` folder.
-*	Add the fonts listed in `screen.css` to the `Fonts` folder.
+*	Add `epub.css` to your `Styles` folder.
+*	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations).
 
 ### Update paths
 
-*	Update the paths to CSS files in all `<head>` elements with the correct epub paths (`/css/` becomes `../Styles/`) using search-and-replace.
-*	In `screen.css` update the paths to fonts from `src: url(fonts/` to src: url(../Fonts/`.
+*	Replace the paths to `screen.css` to a path to `epub.css` in all `<head>` elements (`/css/screen.css` becomes `../Styles/epub.css`) using search-and-replace.
 
 ### Search-and-replace
 
+*	Remove paths to `screen.css` and `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
 *	Remove all scripts from the `<head>` and from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
@@ -250,9 +249,9 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 	
 *	Remove the `live-test` divs. DotAll Regex: 
 
-	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live test .non-printing-->`.
+	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live test .non-printing-->`
 	
-*	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, replace 
+*	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, using a *normal* search-and-replace, replace 
 
 	`<p><a class="button non-printing" href="#live-test" id="live-test-show" onclick="showHide('live-test');">Open chapter test</a></p>`
 	
