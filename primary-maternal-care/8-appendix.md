@@ -32,7 +32,7 @@ The level of care needed is shown as follows:
   </tr>
   </thead>
   <tr>
-    <td colspan="4" class="table-subhead"><p align="center"><strong>Risk factors identified from the patient's history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p><strong>Risk factors identified from the patient's history</strong></p></td>
   </tr>
   <tr>
     <td colspan="4" class="table-subhead"><p><em>Maternal age</em></p></td>
@@ -204,7 +204,7 @@ The level of care needed is shown as follows:
     <td><p>2</p></td>
   </tr>
   <tr>
-    <td colspan="4" class="table-subhead"><p align="center"><strong>Systematic history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p><strong>Systematic history</strong></p></td>
   </tr>
   <tr>
     <td colspan="4" class="table-subhead"><p><em>Respiratory System</em></p></td>
@@ -355,7 +355,7 @@ The level of care needed is shown as follows:
     <td><p>3</p></td>
   </tr>
   <tr>
-    <td colspan="4" class="table-subhead"><p align="center"><strong>Previous obstetric history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p><strong>Previous obstetric history</strong></p></td>
   </tr>
   <tr>
     <td rowspan="3"><p>Abruptio placentae</p></td>
@@ -469,7 +469,7 @@ The level of care needed is shown as follows:
     </p></td>
   </tr>
   <tr>
-    <td colspan="4" class="table-subhead"><p align="center"><strong>Present obstetric history</strong></p></td>
+    <td colspan="4" class="table-subhead"><p><strong>Present obstetric history</strong></p></td>
   </tr>
   <tr>
     <td rowspan="4"><p>Antepartum haemorrhage</p></td>
