@@ -56,11 +56,11 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Intrapartum Care
 
-*Intrapartum Care* was developed for doctors and advanced midwives who care for women who deliver in level 2 hospitals. It contains theory chapters and skills workshops adapted from the labour chapters of *Maternal Care*. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. *Intrapartum Care* was written to support and complement the national protocol of intrapartum care and the essential steps to manage obstetric emergencies (ESMOE) in South Africa.
+*Intrapartum Care* was developed for doctors and advanced midwives who care for women who deliver in level 2 hospitals. It contains theory and skills chapters adapted from the labour chapters of *Maternal Care*. Particular attention is given to the care of the mother, the management of labour and monitoring the wellbeing of the fetus. *Intrapartum Care* was written to support and complement the national protocol of intrapartum care and the essential steps to manage obstetric emergencies (ESMOE) in South Africa.
 
 ### Maternal Care
 
-*Maternal Care* addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills workshops teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy. *Maternal Care* is aimed at health workers in level 1 hospitals or clinics.
+*Maternal Care* addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills chapters teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy. *Maternal Care* is aimed at health workers in level 1 hospitals or clinics.
 
 ### Maternal Mental Health
 
@@ -72,7 +72,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Newborn Care
 
-*Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills workshops address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
+*Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills chapters address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
 
 ### Perinatal HIV
 
@@ -80,7 +80,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Primary Maternal Care
 
-*Primary Maternal Care* addresses the needs of health workers who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory chapters and skills workshops from *Maternal Care*. This book is ideal for midwives and doctors providing primary maternal care in level 1 district hospitals and clinics, and complements the national protocol of antenatal care in South Africa.
+*Primary Maternal Care* addresses the needs of health workers who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory and skills chapters from *Maternal Care*. This book is ideal for midwives and doctors providing primary maternal care in level 1 district hospitals and clinics, and complements the national protocol of antenatal care in South Africa.
 
 ### Primary Newborn Care
 
@@ -127,7 +127,7 @@ Each chapter closes with a few case studies which encourage the participant to c
 
 On completion of each course, participants can take a 75-question, self-managed multiple-choice examination.
 
-All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills workshops will not be included in the examination.
+All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills chapters will not be included in the examination.
 
 Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. South African doctors can earn CPD points on the successful completion of the CPD test at the end of each chapter.
 
