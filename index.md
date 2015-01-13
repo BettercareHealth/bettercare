@@ -1,6 +1,6 @@
 ---
 title: Select a book
-book: Home
+book: 
 layout: index
 ---
 
