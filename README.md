@@ -81,6 +81,53 @@ Always remember how important your work is here: these books literally save live
 	*	The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
 1.	Add markdown/code for the images, and make sure the image files are in the book's `images` folder. See the images section below for detail on this.
 
+### YAML headers
+
+[YAML](http://en.wikipedia.org/wiki/YAML) headers are the information at the top of a markdown file between the `---` s. Jekyll uses those to get important info about each file. You will need to change the YAML headers for each file.
+
+Here is YAML for the contents page of *Maternal Care*:
+
+~~~
+---
+book: Maternal Care
+title: Contents
+layout: toc
+---
+~~~
+
+And for a chapter in *Newborn Care*:
+
+~~~
+---
+book: Newborn Care
+title: 3. The routine care of normal infants
+layout: chapter
+---
+~~~
+
+And here is YAML for a test in *Ebola Prevention and Control*:
+
+~~~
+---
+book: Ebola Prevention and Control
+title: Test 5. Communication and Community engagement 
+layout: test
+---
+~~~
+
+Do not use a colon `:` in your YAML values. (See how in the example above we've used `Test 5.` not `Test 5:`.) Colons break Jekyll, because it can't tell if you're trying to map a second value to the YAML key.
+
+For the `layout` header, you have these options for Bettercare books:
+
+*	`frontmatter` (first few informational pages in a book, such as the title page; the printed version won't have page numbers on these pages)
+*	`toc` (only for the table of contents)
+*	`chapter` (the most common, used for all chapters and appendices)
+*	`test` (for the multiple-choice questions)
+*	`answers` (for the test answers)
+*	`cover` (only for the book's `cover.md` file)
+*	`index` (only for a book's `index.md` file)
+*	`default` (almost never used, it's just a fallback for Jekyll)
+
 ### Images
 
 #### Images in markdown
@@ -174,7 +221,6 @@ Add the front-cover image to the book's `images` folder named cover.jpg. It shou
 ## General tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
-* Do not use a colon `:` in the title you include in your YAML header (inside the `---`s at the tops of files). (Jekyll will bug out unsure if you're trying to map a second value to the YAML key.)
 * In lists, Kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
 * To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills workshops are then `1A.md`, `1B.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
 
