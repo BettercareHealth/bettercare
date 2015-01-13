@@ -1,6 +1,6 @@
 ---
 book: Ebola Prevention and Control
-title: Test
+title: Test 1. Virology and Epidemiology
 layout: test
 ---
 

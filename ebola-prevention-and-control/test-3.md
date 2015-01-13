@@ -1,6 +1,6 @@
 ---
 book: Ebola Prevention and Control
-title: Test
+title: Test 3. Protection of Healthcare Workers
 layout: test
 ---
 

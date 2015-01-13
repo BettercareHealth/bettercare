@@ -1,6 +1,6 @@
 ---
 book: Ebola Prevention and Control
-title: Test
+title: Answers
 layout: answers
 ---
 
