@@ -118,8 +118,9 @@
 	margin-outside: 13mm;
 	margin-inside: 17mm;
 	padding: 0;
-	marks: crop;
+	marks: none;
 	prince-bleed: 3mm;
+	prince-trim: 0;
 }
 
 /* Naming our divs for PrinceXML */
