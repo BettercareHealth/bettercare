@@ -30,14 +30,14 @@
 }
 @font-face {
     font-family: "Linux Libertine";
-    src: url(fonts/LinLibertine_RZ.otf);
+    src: url(fonts/LinLibertine_RZ_G.ttf);
 	font-weight: 600;
 }
 @font-face {
     font-family: "Linux Libertine";
-    src: url(fonts/LinLibertine_RZI.otf);
-	font-weight: 600;
+    src: url(fonts/LinLibertine_RZI_G.ttf);
 	font-style: italic;
+	font-weight: 600;
 }
 @font-face {
     font-family: "Linux Libertine Mono";
@@ -290,14 +290,14 @@ ul#markdown-toc, ol#markdown-toc {
 	font-size: 1.5em;
 	font-weight: 600;
  }
- .test h2 {
+.test h2 {
 	font-size: 1.2em;
 	font-weight: 400;
  }
 .test ol li {
 	margin: 0 0 1em 0;
-	font-weight: 600;
 	page-break-inside: avoid;
+	font-weight: 600;
  }
 .test ol li li {
 	list-style-type: lower-alpha;
