@@ -120,7 +120,7 @@
 	padding: 0;
 	marks: none;
 	prince-bleed: 3mm;
-	prince-trim: 0;
+	prince-trim: 3mm;
 }
 
 /* Naming our divs for PrinceXML */
