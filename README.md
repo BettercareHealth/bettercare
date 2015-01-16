@@ -59,6 +59,7 @@ Always remember how important your work is here: these books literally save live
 1.	Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
 	*	Find `\n\nnote\s`
 	*	Replace with `\n\nNote\n:\t`
+	*	**But** remember this won't catch Notes that have two or more paragraphs, ir include items like tables or lists. Do a quick search through the InDesign file to look for those and mark them down manually.
 1.	Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level. Using S&R, start with the h3 (article) heads, so that you can then navigate the doc easily by those numbers.
 	*	chapter title is h1 = `#`
 	*	subunit head is h2 = `##`
