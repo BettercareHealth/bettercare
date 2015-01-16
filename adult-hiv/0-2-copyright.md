@@ -4,23 +4,22 @@ title: Copyright
 layout: frontmatter
 ---
 
-**Adult HIV**
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug’s documentation before administering it.
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+**Adult HIV: What health professionals need to know**
 
-Text © 
+Editors: Dr C. Orrell, Dr R. Kaplan, Prof D. Woods  
+Editorial Board: Prof L-G. Bekker, Ms F. Cope, Ms K. Fosseus, Dr C. Orrell, Ms L. Mtwisha, Dr R. Kaplan, Prof D. Woods  
+Contributors: Dr M. Blockman, Dr K. Dong, Dr C. Horwood, Prof D. Martin, Dr D. Wilson, Dr F. Venter, Prof R. Wood, Dr B. Harley
 
-Cover photograph © 
+First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout)
 
-Illustrations 
-
+Text © Desmond Tutu HIV Foundation 2014  
 Getup © Electric Book Works
 
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
-ISBN (reflowable edition): 
+ISBN (print edition): 978-1-920218-17-1  
+ISBN (PDF edition): 978-1-920218-54-6  
+ISBN (reflowable edition): 978-1-920218-92-8
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
