@@ -4,23 +4,20 @@ title: Copyright
 layout: frontmatter
 ---
 
-**Birth Defects**
+**Birth Defects: Counselling and caring for children with birth defects**
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Text © 
+Updated: 27 May 2010, 20 May 2011 (layout), 19 Jan 2015 (layout)
 
-Cover photograph © 
+Text © Perinatal Education Programme 2009  
+Getup © Electric Book Works  
+Illustrations by Anne Westoby  
+Cover photograph by Damien Schumann
 
-Illustrations 
-
-Getup © Electric Book Works
-
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
-ISBN (reflowable edition): 
+ISBN (print edition): 978-1-920218-41-6  
+ISBN (PDF edition): 978-1-920218-42-3  
+ISBN (reflowable edition): 978-1-920218-93-5
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

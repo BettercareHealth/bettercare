@@ -10,12 +10,24 @@ layout: toc
 
 *	[Introduction](title-0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Introduction to birth defects](1.html)
+2.	[Care, prevention and counselling](2.html)
+3.	[Down syndrome](3.html)
+4.	[Single gene disorders](4.html)
+5.	[Fetal alcohol syndrome](5.html)
+6.	[Neural tube defects](6.html)
+
+*	[Addendum A: Clinical features, diagnosis, treatment, genetic counselling and prevention of common birth defects](7.html)
+*	[Addendum B: Social grants available in South Africa for people with disability](8.html)
+*	[Addendum C: Down syndrome association contact details in South Africa](9.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Introduction to birth defects](test-1.html)
+2.	[Care, prevention and counselling](test-2.html)
+3.	[Down syndrome](test-3.html)
+4.	[Single gene disorders](test-4.html)
+5.	[Fetal alcohol syndrome](test-5.html)
+6.	[Neural tube defects](test-6.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
