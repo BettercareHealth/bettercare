@@ -166,6 +166,9 @@ blockquote p {
  * Lists
  */
 
+ul, ol {
+	padding: 0 0 0 1.2em;
+}
 ul ul, ol ol {
 	margin: 0;
 }
