@@ -4,23 +4,27 @@ title: Copyright
 layout: frontmatter
 ---
 
+> We have taken every care to ensure that drug
+dosages and related medical advice in this book are
+accurate. However, drug dosages can change and are
+updated often, so always double-check dosages and
+procedures against a reliable, up-to-date formulary
+and the given drug’s documentation before
+administering it.
+
 **Breast Care**
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Text © 
+Updated: 29 March 2014, 13 August 2014, 16 October 2014, 12 January 2015
 
-Cover photograph © 
-
-Illustrations 
-
+Text © Jenny Edge and Dave Woods 2014  
+Illustrations by Fiona Gawronsky  
 Getup © Electric Book Works
 
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
-ISBN (reflowable edition): 
+ISBN (paperback): 978-1-920218-76-8  
+ISBN (PDF ebook): 978-1-920218-77-5  
+ISBN (reflowable edition): 978-1-920218-91-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
