@@ -449,6 +449,9 @@ img.thumbnail {
 #index-help a:hover {
 	background-color: #4faad2;
 }
+.index .about-wrapper {
+	margin-top: 1em;
+}
 .index #about {
 	display: none; /* Element hidden till show/hide script rewrites this line */
 	border: 1px solid #e9e9e9;
