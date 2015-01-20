@@ -6,21 +6,17 @@ layout: frontmatter
 
 **Well Women**
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2011 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Text © 
-
-Cover photograph © 
-
-Illustrations 
+Text © Eduhealthcare 2011
 
 Getup © Electric Book Works
 
-ISBN (print edition): 
+ISBN (print edition): 978-1-920218-65-2
 
-ISBN (PDF edition): 
+ISBN (PDF edition): 978-1-920218-66-9
 
-ISBN (reflowable edition): 
+ISBN (reflowable edition): 978-1-920218-90-4
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
