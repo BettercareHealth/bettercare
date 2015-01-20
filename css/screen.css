@@ -439,12 +439,14 @@ img.thumbnail {
 #index-help a {
 	position: fixed;
 	right: 0;
+	top: 0.4em;
 	padding: 0.3em 0.5em;
 	background-color: #89d24f;
 	z-index: 1;
 	color: white;
-	min-width: 15%;
+	min-width: 10%;
 	border-radius: 0.2em 0 0 0.2em;
+	font-size: 1.5em;
 }
 #index-help a:hover {
 	background-color: #4faad2;
