@@ -16,7 +16,6 @@ layout: toc
 3A.	[Skills: How to conduct a gynaecological history and examination](3A.html)
 4.	[Vaginal bleeding](4.html)
 5.	[Abuse of women](5.html)
-6.	Appendix: How to conduct a gynaecological history and examination](6.html)
 
 ## Tests
 
