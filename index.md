@@ -4,7 +4,21 @@ book:
 layout: index
 ---
 
-<div id="chooser" class="animated slideInUp">
+<div id="index-help">
+	<a href="#about" id="about-show" onclick="showHide('about');">Help</a>
+</div><!--#index-help-->
+
+<div id="chooser">
+
+	<div id="about" class="about non-printing">
+		<div class="about-content">
+			<p>On this Learning Station, you can read Bettercare books and test your knowledge. Choose a book by tapping on its cover.</p>
+			<h2>Continuing Professional Development</h2>
+			<p>If your institution subscribes to the Bettercare CPD system, you can earn points for completing chapter tests.</p>
+			<p>To sign up, contact Bettercare. Call +27 21 671 1278, email <a href="mailto:info@bettercare.co.za">info@bettercare.co.za</a>, or visit <a href="http://bettercare.co.za">bettercare.co.za</a>.</p>
+		</div><!--.about-content-->
+		<a id="reload" href="#" class="button non-printing" onclick="location.reload(true)">Close</a>
+	</div><!--#about .about .non-printing-->
 
 	<div class="index-available">
 

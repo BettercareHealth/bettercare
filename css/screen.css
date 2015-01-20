@@ -436,6 +436,26 @@ img.thumbnail {
 	margin: 1em 0;
 	max-width: 100%;
 }
+#index-help a {
+	position: fixed;
+	right: 0;
+	padding: 0.3em 0.5em;
+	background-color: #89d24f;
+	z-index: 1;
+	color: white;
+	min-width: 15%;
+	border-radius: 0.2em 0 0 0.2em;
+}
+#index-help a:hover {
+	background-color: #4faad2;
+}
+.index #about {
+	display: none; /* Element hidden till show/hide script rewrites this line */
+	border: 1px solid #e9e9e9;
+	padding: 1em;
+	border-radius: 0.2em;
+	background-color: #f9f9f9;
+}
 
 /*
  * Tests
