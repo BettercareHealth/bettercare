@@ -4,23 +4,21 @@ title: Copyright
 layout: frontmatter
 ---
 
-**Child Healthcare**
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+**Child Healthcare: a guide to common paediatric disorders**
 
-Text © 
+First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Cover photograph © 
+Updated 23 August 2007, 23 January 2015 (layout)
 
-Illustrations 
+Text © Eduhealthcare 2007  
+Getup © Electric Book Works 2007
 
-Getup © Electric Book Works
-
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
-ISBN (reflowable edition): 
+ISBN (paperback): 978-1-920218-01-0  
+ISBN (international paperback): 978-1-920218-15-7  
+ISBN (PDF ebook): 978-1-920218-55-3  
+ISBN (reflowable ebook): 978-1-920218-95-9
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
