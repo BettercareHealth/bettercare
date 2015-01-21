@@ -172,6 +172,9 @@ ul, ol {
 ul ul, ol ol {
 	margin: 0;
 }
+ol ol {
+	list-style-type: lower-alpha;
+}
 li blockquote {
 	margin: 1em 0;
 }

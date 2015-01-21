@@ -264,6 +264,9 @@ ul ul, ol ol {
 	margin: 0;
 	padding: 0 0 0 1em;
 }
+ol ol {
+	list-style-type: lower-alpha;
+}
 li:first-of-type {
 	page-break-after: avoid;
 }
