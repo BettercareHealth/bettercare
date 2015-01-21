@@ -204,7 +204,7 @@ Settings:
 *	Raster elements embedded, not linked
 *	Transparent background
 
-Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (since Amazon Kindle only uses JPG or GIF, we shouldn't use PNG or other formats). 
+Where images *must* be raster (e.g. x-rays, photos of patient conditions), they should follow the sizing constraints above and be saved as jpg (since Amazon Kindle only uses JPG or GIF, we shouldn't use PNG or other formats). Save as RGB.
 
 Where labels are added to a raster image, the image should be saved as SVG with an embedded raster image. Labels and other text must *not* be rasterised.
 
