@@ -13,7 +13,7 @@ layout: toc
 1.	[Reproductive health](1.html)
 2.	[Family planning and infertility](2.html)
 3.	[Common genital and urinary infections](3.html)
-3A.	[Skills: How to conduct a gynaecological history and examination](3A.html)
+	*	[Skills: How to conduct a gynaecological history and examination](3A.html)
 4.	[Vaginal bleeding](4.html)
 5.	[Abuse of women](5.html)
 

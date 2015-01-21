@@ -119,6 +119,6 @@ After each answer, the number indicates from where the questions were taken. For
 15.	a	(5-29)
 16.	c	(5-31)
 17.	c	(5-15)
-18.	d	(5-22)
+18.	d	(5-21)
 19.	a	(5-28)
 20.	b	(5-32)

@@ -4,6 +4,8 @@ title: Copyright
 layout: frontmatter
 ---
 
+> Very important: We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
+
 **Well Women**
 
 First published in 2011 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
