@@ -20,6 +20,7 @@ layout: toc
 *	[Addendum A: Clinical features, diagnosis, treatment, genetic counselling and prevention of common birth defects](7.html)
 *	[Addendum B: Social grants available in South Africa for people with disability](8.html)
 *	[Addendum C: Down syndrome association contact details in South Africa](9.html)
+*	[Photographs of birth defects](10.html)
 
 ## Tests
 
