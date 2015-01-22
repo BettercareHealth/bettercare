@@ -5,70 +5,51 @@ layout: chapter
 ---
 
 1
+{:.chapter-number}
 
-The history and examination
+# The history and examination
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
-Introduce yourself to a mother and child.
+*	Introduce yourself to a mother and child.
+*	Take a full history.
+*	Perform a physical examination.
+*	Make a clinical assessment.
+*	Draw up a problem list.
+*	Decide on a plan of action.
+*	Write good clinical notes.
 
-Take a full history.
-
-Perform a physical examination.
-
-Make a clinical assessment.
-
-Draw up a problem list.
-
-Decide on a plan of action.
-
-Write good clinical notes.
-
-Introduction
+## Introduction
 
 ### 1-1 What are the steps in the general examination of a child?
 
-The introduction to the child
-
-The review of any referral information
-
-Recording basic observations
-
-Taking a history
-
-The physical examination
-
-Special investigations
-
-Drawing up a problem list and making a diagnosis if possible
-
-Planning any intervention that is needed
+*	The introduction to the child
+*	The review of any referral information
+*	Recording basic observations
+*	Taking a history
+*	The physical examination
+*	Special investigations
+*	Drawing up a problem list and making a diagnosis if possible
+*	Planning any intervention that is needed
 
 The letters ‘SOAP’ remind us of the 4 main steps of a general examination:
 
- Story (the history or subjective information)
+1.	**S**tory (the history or subjective information)
+2.	**O**bservation (what you observe during the physical examination, the objective information)
+3.	**A**ssessment (the list of problems and diagnosis)
+4.	**P**lan of action (what needs to be done)
 
- Observation (what you observe during the physical examination, the objective information)
+> The four main steps in the examination are the story, the observation, the assessment of the problems, and the management plan.
 
- Assessment (the list of problems and diagnosis)
-
- Plan of action (what needs to be done)
-
-The four main steps in the examination are the story, the observation, the assessment of the problems, and the management plan.
-
-
-
-The first meeting
+## The first meeting
 
 ### 1-2 Why is the introduction important?
 
 The first step of the general examination is to introduce yourself to the child and his or her mother, father or caregiver (guardian). At the start, find out whether the child is a boy or girl. Always make sure that you know the gender of the child. If you get that wrong the parent may not trust you with your medical management. Never refer to a child as ‘it’. Always greet the child and parents with respect. This first meeting establishes the relationship between the caregiver (doctor or nurse) and the child and parents. The rest of the general examination and management of the child depend on a good, trusting relationship. A friendly, caring approach builds trust and confidence. Often in a busy clinic, the introduction is unfortunately bypassed. Always take time to ‘make friends’ with the child first before starting the examination. Avoid strong eye contact with toddlers until you have ‘made friends’.
 
-It is very important to take time to establish a good relationship with the child and mother at the start of the general examination.
-
-
+> It is very important to take time to establish a good relationship with the child and mother at the start of the general examination.
 
 ### 1-3 How should you address a child?
 
@@ -78,15 +59,13 @@ Always introduce yourself by name. Find out what the child’s name is and use i
 
 One of the most dangerous mistakes to make when examining a child is not listening to what the mother (or caregiver) has to say. She usually knows the child best and the opinions and insights of mothers are often right. Always allow the mother time to give her story and ask questions.
 
-Always pay careful attention to what the mother says about the child.
-
-
+> Always pay careful attention to what the mother says about the child.
 
 ### 1-5 Why is it important to keep the language simple?
 
 One of the main complaints by patients is that doctors and nurses do not use simple language. Avoid technical terms, complicated words and medical jargon. Make sure that you and the patient understand one another at all times. Sometimes a simple drawing may help to obtain an accurate history or give a clear explanation. Taking a clear history is often difficult when the patient comes from a different cultural or social background.
 
-The review of any referral information
+## The review of any referral information
 
 ### 1-6 What is the value of a referral letter?
 
@@ -96,21 +75,22 @@ The child may arrive with a referral letter from a colleague, crèche or school.
 
 It is always very important to ask for and review the child’s Road-to-Health Card as it provides much useful information about the child’s past medical history, immunisation record, growth pattern and wellbeing. If the Road-to-Health Card is lost or not available, ask why. A lost or forgotten Card may be due to a family or social problem. The crèche, school, clinic or hospital must not keep this patient-carried card.
 
-Always look carefully at the Road-to-Health Card before examining a child.
+> Always look carefully at the Road-to-Health Card before examining a child.
 
+![Figure 1-1: A WHO Road-to-Health Card Growth Monitoring Chart](images/1-1.svg)
 
+Figure 1-1: A WHO Road-to-Health Card Growth Monitoring Chart
+{:.figure-caption}
 
-Basic information
+## Basic information
 
 ### 1-8 What basic information is needed?
 
 Before the history and examination, some basic information is often taken and recorded by the staff that meet the mother and child when they arrive at the clinic or hospital. This basic information usually includes the following:
 
-The age and gender of the child
-
-The child’s size
-
-The child’s temperature
+1.	The age and gender of the child
+2.	The child’s size
+3.	The child’s temperature
 
 ### 1-9 Why are the age and gender important?
 
@@ -126,11 +106,9 @@ The head circumference is important, especially in the first year of life, as it
 
 If the child can stand, the standing height (stature) should be recorded, as it is the best measure of growth. In younger children, the lying length should be recorded. While weight is a good measure of growth in an infant, height is the best measure of growth in older children.
 
-Details of the measurement and plotting of an infant’s size are discussed in Unit 3.
+*Details of the measurement and plotting of an infant’s size are discussed in [chapter 3](3.html).*
 
-The child’s weight must be measured and plotted on the Road-to-Health Card at every visit.
-
-
+> The child’s weight must be measured and plotted on the Road-to-Health Card at every visit.
 
 ### 1-11 How should you measure the child’s temperature?
 
@@ -143,7 +121,7 @@ If no thermometer is available, feel the child with you hand and assess whether 
 Note
 :	Due to the small risk of mercury pollution or poisoning, a digital thermometer is preferred.
 
-The history
+## The history
 
 ### 1-12 How do you start taking a history?
 
@@ -153,9 +131,7 @@ It is best to begin by simply asking the mother (or child) what is worrying them
 
 The history (the story) is often the most important part of the general examination. Most problems can be identified and diagnoses can be made on a good history. Every effort must, therefore, be made to obtain a clear and detailed history.
 
-A carefully taken history will provide the information needed to make the correct diagnosis.
-
-
+> A carefully taken history will provide the information needed to make the correct diagnosis.
 
 ### 1-14 Who should give the history?
 
@@ -167,37 +143,25 @@ The history not only provides information about the present illness but can also
 
 The main parts are:
 
-The present history and presenting complaints
-
-The past history
-
-Immunisations
-
-The social history (home, family and school)
-
-Special questions
+1.	The present history and presenting complaints
+1.	The past history
+1.	Immunisations
+1.	The social history (home, family and school)
+1.	Special questions
 
 ### 1-16 What is important to ask about in the present history?
 
 It is best to start by asking why they have come to see the doctor or nurse. What is worrying them? First let the child or mother tell their story. Give them time to speak without interrupting. In getting an accurate present history make sure that you obtain the following information:
 
-When was the child last completely well?
-
-What are the presenting complaints (symptoms)?
-
-What are the problems which made you bring the child today?
-
-When and how did they start?
-
-Are they getting worse?
-
-Does anything make the complaints better or worse?
-
-Is any treatment being used?
-
-Are there any other symptoms (what the child feels) or signs (what you can see)?
-
-Has the child been in contact with other children with similar problems? Many childhood illnesses are infectious.
+1.	When was the child last completely well?
+1.	What are the presenting complaints (symptoms)?
+1.	What are the problems which made you bring the child today?
+1.	When and how did they start?
+1.	Are they getting worse?
+1.	Does anything make the complaints better or worse?
+1.	Is any treatment being used?
+1.	Are there any other symptoms (what the child feels) or signs (what you can see)?
+1.	Has the child been in contact with other children with similar problems? Many childhood illnesses are infectious.
 
 It is important to make an assessment about whether you think the information is reliable or trustworthy. Sometimes it can be very difficult to understand what the complaints are. 
 
@@ -208,25 +172,16 @@ Note
 
 It is important to note:
 
-Any problems during the pregnancy, labour and delivery
-
-Gestational age and birth weight (If not known, was the infant small? How long was the hospital stay?)
-
-Any problems during the first few days of life
-
-Diet and feeding
-
-Growth and development
-
-Any previous illness or problems before the start of the present complaints
-
-If the present complaints have ever occurred before
-
-Any previous or present medication
-
-Any operations or hospital admissions
-
-Any allergies
+1.	Any problems during the pregnancy, labour and delivery
+1.	Gestational age and birth weight (If not known, was the infant small? How long was the hospital stay?)
+1.	Any problems during the first few days of life
+1.	Diet and feeding
+1.	Growth and development
+1.	Any previous illness or problems before the start of the present complaints
+1.	If the present complaints have ever occurred before
+1.	Any previous or present medication
+1.	Any operations or hospital admissions
+1.	Any allergies
 
 It is most important to determine whether the present complaints can be related to anything in the past history.
 
@@ -240,23 +195,15 @@ Children are greatly influenced by their environment and by those around them. M
 
 Useful questions to ask are:
 
-Who looks after the child?
-
-Who are the other family members and are they healthy? Is there anyone with TB?
-
-Who looks after the child during the day?
-
-What is the family income?
-
-What is the mother’s (or caregiver’s) level of education?
-
-Are there problems in the home which may affect the child’s wellbeing (e.g. alcohol, violence, abuse)?
-
-What type of housing exists? Is there water, sanitation, electricity?
-
-Is the child receiving child support or a care dependency grant?
-
-Are there problems at school or crèche?
+1.	Who looks after the child?
+1.	Who are the other family members and are they healthy? Is there anyone with TB?
+1.	Who looks after the child during the day?
+1.	What is the family income?
+1.	What is the mother’s (or caregiver’s) level of education?
+1.	Are there problems in the home which may affect the child’s wellbeing (e.g. alcohol, violence, abuse)?
+1.	What type of housing exists? Is there water, sanitation, electricity?
+1.	Is the child receiving child support or a care dependency grant?
+1.	Are there problems at school or crèche?
 
 ### 1-20 What question in the social history should not be forgotten?
 
@@ -274,25 +221,21 @@ Many mothers and children do not speak the same home language as the doctor or n
 
 Often the history has to be taken in a busy clinic or ward with many other people around. Always be aware that the mother and child may be embarrassed or unwilling to discuss the details of their problem in front of others. This is particularly important if the mother is afraid that her child may have AIDS. If at all possible, try to arrange that histories can be taken in a quiet, comfortable, private area.
 
-Information provided by a patient must always be treated with respect and confidentiality.
-
-
+> Information provided by a patient must always be treated with respect and confidentiality.
 
 ### 1-24 What can be learned by observing the mother and child during history taking?
 
 Much can be learned by observing the child and mother. Watch their facial expressions, hand movements and body language. These give clues about anxiety, guilt, embarrassment or lack of interest. Observe what kind of clothes they wear.
 
-The physical examination
+## The physical examination
 
 ### 1-25 What are the steps in the physical examination?
 
 The steps are:
 
-General and regional inspection
-
-Systematic examination
-
-Special examination
+1.	General and regional inspection
+1.	Systematic examination
+1.	Special examination
 
 ### 1-26 In what order should the steps of the examination be done?
 
@@ -302,27 +245,20 @@ It is important to do the physical examination in a fixed order. Otherwise, part
 
 ### 1-27 What are the components of each step of the physical examination?
 
-Inspection (look and see)
-
-Palpation (feel)
-
-Percussion (feel and listen)
-
-Auscultation (listen with a stethoscope)
+1.	Inspection (look and see)
+1.	Palpation (feel)
+1.	Percussion (feel and listen)
+1.	Auscultation (listen with a stethoscope)
 
 In a brief examination, percussion is often left out unless particularly indicated. Always inspect (look) before palpating (touching). Palpate before auscultating (listening). In a small child who is likely to cry, it may be better to listen before palpating. Children are less threatened if you start by examining their limbs first, before examining their chest and abdomen. It is important to make the examination as non-threatening and comfortable as possible. With young children it often helps to turn the examination into a game.
 
-Always observe first.
-
-
+> Always observe first.
 
 ### 1-28 What is the most important component of the examination?
 
 All components are important. However, it is particularly important to look and see. Inspection is the best means of telling whether a child is well or sick. It also helps to decide whether a child is anxious, frightened or embarrassed. Many diagnoses can be made by careful inspection alone. As children often cannot tell you how they are feeling, you need to obtain this information by observing them.
 
-Many diagnoses can be made by careful inspection.
-
-
+> Many diagnoses can be made by careful inspection.
 
 ### 1-29 Where should the examination be done?
 
@@ -338,133 +274,75 @@ If a child is very distressed by being completely undressed, it may be better to
 
 The examination room should be warm, quiet and interesting to the child. Always keep the mother close by.
 
-Always have warm hands when examining a child.
-
-
+> Always have warm hands when examining a child.
 
 ### 1-31 What is the best approach to the general and regional inspection?
 
-First stand back (at the end of the bed) and have a good look at the whole child (general inspection):
-
-Does the child appear well or ill, distressed, toxic or shocked?
-
-Does the child look strange, with an appearance suggesting a syndrome (dysmorphic)?
-
-Is the child fully conscious and co-operative?
-
-Does the child look thin or fat? What is the nutritional status? Is the child wasted?
-
-Is the child afraid, tearful, angry or embarrassed?
-
-Is the child pale, jaundiced or cyanosed?
-
-Does the child have a rash?
-
-Does the child appear well cared for?
-
-Does the child appear dehydrated?
-
+1.	First stand back (at the end of the bed) and have a good look at the whole child (general inspection):
+	*	Does the child appear well or ill, distressed, toxic or shocked?
+	*	Does the child look strange, with an appearance suggesting a syndrome (dysmorphic)?
+	*	Is the child fully conscious and co-operative?
+	*	Does the child look thin or fat? What is the nutritional status? Is the child wasted?
+	*	Is the child afraid, tearful, angry or embarrassed?
+	*	Is the child pale, jaundiced or cyanosed?
+	*	Does the child have a rash?
+	*	Does the child appear well cared for?
+	*	Does the child appear dehydrated?
 2.	Secondly, inspect each part of the body (region) starting with the head and ending with legs (regional inspection):
-
-Head – size, appearance, hair, fontanelle
-
-Ears – appearance, exudate
-
-Eyes – appearance, conjunctivitis, jaundice, squint
-
-Nose – discharge, flaring
-
-Mouth – appearance, stomatitis, thrush, pallor or cyanosis, cleft palate
-
-Neck – enlarged thyroid or lymph nodes
-
-Arms – lymph nodes, rickets, palmar creases, clubbing, pallor or cyanosis
-
-Chest and abdomen – appearance, dehydration, rash, scars, hernias
-
-Spine – scoliosis
-
-Genitalia – appearance, undescended testes, hernias
-
-Legs – lymph nodes, rickets, oedema, clubbed feet
+	*	Head – size, appearance, hair, fontanelle
+	*	Ears – appearance, exudate
+	*	Eyes – appearance, conjunctivitis, jaundice, squint
+	*	Nose – discharge, flaring
+	*	Mouth – appearance, stomatitis, thrush, pallor or cyanosis, cleft palate
+	*	Neck – enlarged thyroid or lymph nodes
+	*	Arms – lymph nodes, rickets, palmar creases, clubbing, pallor or cyanosis
+	*	Chest and abdomen – appearance, dehydration, rash, scars, hernias
+	*	Spine – scoliosis
+	*	Genitalia – appearance, undescended testes, hernias
+	*	Legs – lymph nodes, rickets, oedema, clubbed feet
 
 Usually the general and regional inspection is followed by an examination of the main body systems. The general and regional inspection often indicates what system needs special attention during the systematic examination.
 
-Always look carefully first before touching the child.
-
-
+> Always look carefully first before touching the child.
 
 ### 1-32 How are the body systems examined?
 
 During the systematic examination, each system is examined separately by inspection (looking), palpation (feeling), percussion (tapping) and auscultation (listening with a stethoscope):
 
-Respiratory system:
-
-Count the respiratory rate.
-
-Listen for cough, wheezing or stridor.
-
-Look for signs of respiratory distress (recession, grunting).
-
-Percuss for dullness over both lungs, front and back.
-
-Auscultate both lungs, front and back.
-
+1.	Respiratory system:
+	*	Count the respiratory rate.
+	*	Listen for cough, wheezing or stridor.
+	*	Look for signs of respiratory distress (recession, grunting).
+	*	Percuss for dullness over both lungs, front and back.
+	*	Auscultate both lungs, front and back.
 2.	Cardiovascular system:
-
-Count the pulse and note the nature of the pulse (easy or difficult to feel?)
-
-Take the blood pressure (not always needed in infants).
-
-Look at the shape of chest.
-
-Palpate (feel) for the position of the apex beat.
-
-Auscultate the heart for heart sounds and murmurs.
-
+	*	Count the pulse and note the nature of the pulse (easy or difficult to feel?)
+	*	Take the blood pressure (not always needed in infants).
+	*	Look at the shape of chest.
+	*	Palpate (feel) for the position of the apex beat.
+	*	Auscultate the heart for heart sounds and murmurs.
 3.	Gastrointestinal system:
-
-Look for abdominal distension.
-
-Look and feel for hernias.
-
-Feel for abdominal tenderness.
-
-Feel for enlarged organs (liver, spleen, kidneys) or other masses.
-
-Listen for bowel sounds.
-
+	*	Look for abdominal distension.
+	*	Look and feel for hernias.
+	*	Feel for abdominal tenderness.
+	*	Feel for enlarged organs (liver, spleen, kidneys) or other masses.
+	*	Listen for bowel sounds.
 4.	Genitourinary system:
-
-Is the child obviously a boy or girl?
-
-If a boy, are the testes descended?
-
+	*	Is the child obviously a boy or girl?
+	*	If a boy, are the testes descended?
 5.	Central nervous system:
-
-Assess whether the child is alert and fully conscious. Any convulsions (fits)?
-
-Determine the developmental milestones.
-
-Can the child see and hear normally?
-
-Can the child smile and close eyes tightly?
-
-Assess for neck stiffness (meningism).
-
-Asses whether the child is able to move all limbs normally.
-
-Observe whether the child walks normally (if old enough).
-
+	*	Assess whether the child is alert and fully conscious. Any convulsions (fits)?
+	*	Determine the developmental milestones.
+	*	Can the child see and hear normally?
+	*	Can the child smile and close eyes tightly?
+	*	Assess for neck stiffness (meningism).
+	*	Asses whether the child is able to move all limbs normally.
+	*	Observe whether the child walks normally (if old enough).
 6.	Muscular skeletal system:
-
-Look whether the back is straight.
-
+	*	Look whether the back is straight.
 7.	Ears, nose and throat:
-
-Examine mouth and throat.
-
-Examine ears.
+	*	Examine mouth and throat.
+	*	Examine ears.
 
 The order of the examination is flexible. Usually the examination of the mouth, throat and ears is done last as it is unpleasant for a young child. Sometimes the heart is examined first so that the heart sounds can be heard before the child becomes upset and cries.
 
@@ -475,25 +353,20 @@ Note
 
 Danger signs warn that the child may have a serious illness. During the general inspection, it is important to look for danger signs such as:
 
-Physical or mental distress. Always look for respiratory distress.
-
-Dehydration or continuous vomiting
-
-Depressed level of consciousness
-
-Convulsion
+*	Physical or mental distress. Always look for respiratory distress.
+*	Dehydration or continuous vomiting
+*	Depressed level of consciousness
+*	Convulsion
 
 ### 1-34 What are the early signs of dehydration?
 
 A child is dehydrated when:
 
-There is decreased skin turgor (the skin is pinched and then released, but does not return to its previous shape immediately).
+*	There is decreased skin turgor (the skin is pinched and then released, but does not return to its previous shape immediately).
+*	The fontanelle is sunken.
+*	The eyes are sunken.
 
-The fontanelle is sunken.
-
-The eyes are sunken.
-
-The signs of dehydration are discussed in Unit 5.
+*The signs of dehydration are discussed in [chapter 5](5.html).*
 
 ### 1-35 What special examination may be needed?
 
@@ -503,35 +376,25 @@ Sometimes it may be necessary to perform a rectal or vaginal examination, or exa
 
 The 10 common errors are:
 
-Not taking time to introduce yourself to the mother and child
+1.	Not taking time to introduce yourself to the mother and child
+1.	Not listening to what the mother says
+1.	Not taking a full history
+1.	Not checking the immunisation status
+1.	Not weighing the child and plotting the weight correctly on the Road-to-Health Card
+1.	Not looking at the child carefully (inadequate general inspection)
+1.	Not assessing the developmental milestones
+1.	Not recording the blood pressure in older children
+1.	Not examining the child’s gait (walk)
+1.	Not writing SOAP notes with a problem list, assessment and plan
 
-Not listening to what the mother says
-
-Not taking a full history
-
-Not checking the immunisation status
-
-Not weighing the child and plotting the weight correctly on the Road-to-Health Card
-
-Not looking at the child carefully (inadequate general inspection)
-
-Not assessing the developmental milestones
-
-Not recording the blood pressure in older children
-
-Not examining the child’s gait (walk)
-
-Not writing SOAP notes with a problem list, assessment and plan
-
-Special investigations
+## Special investigations
 
 ### 1-37 What special investigations are usually needed?
 
 The most important special investigations are:
 
-Urinalysis with a urine dipstick to detect urinary tract disease or diabetes. It is particularly important to test the urine in a child with fever.
-
-Haemoglobin concentration.
+1.	Urinalysis with a urine dipstick to detect urinary tract disease or diabetes. It is particularly important to test the urine in a child with fever.
+1.	Haemoglobin concentration.
 
 These are often done routinely in ill children.
 
@@ -541,7 +404,7 @@ Other special investigations, which are often asked for in hospital, are a full 
 
 These will be determined by the findings of the history and the physical examination. Any investigations should only be done if they are indicated.
 
-The assessment
+## The assessment
 
 ### 1-39 What is the assessment?
 
@@ -553,15 +416,11 @@ This is a precise list of the patient’s current unsolved problems (i.e. proble
 
 The following is a typical problem list:
 
-Poverty, with poor housing
-
-Failing to thrive, with weight below the 3rd centile
-
-Incomplete immunisation
-
-Pneumonia
-
-Dental caries
+1.	Poverty, with poor housing
+1.	Failing to thrive, with weight below the 3rd centile
+1.	Incomplete immunisation
+1.	Pneumonia
+1.	Dental caries
 
 A problem list is a precise list of the patient’s current unsolved problems.
 
@@ -572,19 +431,15 @@ Note
 
 Many childhood diseases have similar signs and symptoms but only a few of these diseases are common. The steps in making a diagnosis are:
 
-Gather all the abnormal findings found in the history, examination and any special tests.
-
-Compare these finding to those found in common childhood diseases. It is usually quite easy to find one which best fits the findings.
-
-Carefully compare the clinical findings to the signs and symptoms typical of the chosen diagnosis and see if they truly fit.
-
-If they do not fit, reconsider your diagnosis and think of another possible diagnosis.
-
-Watch the child’s response to the treatment for that diagnosis.
+1.	Gather all the abnormal findings found in the history, examination and any special tests.
+1.	Compare these finding to those found in common childhood diseases. It is usually quite easy to find one which best fits the findings.
+1.	Carefully compare the clinical findings to the signs and symptoms typical of the chosen diagnosis and see if they truly fit.
+1.	If they do not fit, reconsider your diagnosis and think of another possible diagnosis.
+1.	Watch the child’s response to the treatment for that diagnosis.
 
 If you are unable to make a diagnosis or if you diagnose a serious disease, the child must be referred to hospital or a special clinic for further management.
 
-A plan of action
+## A plan of action
 
 ### 1-42 What is a plan of action?
 
@@ -596,37 +451,27 @@ The clinical findings, assessment and plan of action must be simply and clearly 
 
 The following is a typical plan of action:
 
-Poverty: Refer to social worker to consider a grant.
+1.	Poverty: Refer to social worker to consider a grant.
+1.	Underweight for age: Provide food supplements and monitor weight gain.
+1.	Incomplete immunisation: Arrange for missing immunisations to be given.
+1.	Pneumonia: Start oral amoxycillin, check oxygen saturation, provide oxygen if needed, refer to hospital.
+1.	Dental caries: Book dental appointment and discuss dental hygiene with mother.
 
-Underweight for age: Provide food supplements and monitor weight gain.
-
-Incomplete immunisation: Arrange for missing immunisations to be given.
-
-Pneumonia: Start oral amoxycillin, check oxygen saturation, provide oxygen if needed, refer to hospital.
-
-Dental caries: Book dental appointment and discuss dental hygiene with mother.
-
-Writing good clinical notes
+## Writing good clinical notes
 
 ### 1-43 What is the importance of good clinical notes?
 
 It is extremely important to always write good clinical notes.
 
-The patient’s notes are the best way of reminding yourself at the next visit what the problems were, what was found and decided upon, and what investigations and management were planned.
-
-Good notes are the best way of communicating this information to other members of the health team who may see this child at future visits.
-
-Writing good notes helps one to think and develop a clear idea of the child’s problems and the required management. By looking at other colleagues’ notes it is easy to determine whether they had a clear idea of the problems and course of action needed.
-
-The patient’s notes are the official record of the patient’s care. They are the medico-legal record of the interaction between the patient and the health service.
-
-Keeping good notes helps to develop and maintain a high level of care and pride in the service.
+*	The patient’s notes are the best way of reminding yourself at the next visit what the problems were, what was found and decided upon, and what investigations and management were planned.
+*	Good notes are the best way of communicating this information to other members of the health team who may see this child at future visits.
+*	Writing good notes helps one to think and develop a clear idea of the child’s problems and the required management. By looking at other colleagues’ notes it is easy to determine whether they had a clear idea of the problems and course of action needed.
+*	The patient’s notes are the official record of the patient’s care. They are the medico-legal record of the interaction between the patient and the health service.
+*	Keeping good notes helps to develop and maintain a high level of care and pride in the service.
 
 It is essential that clinical notes can be easily read and understood. It is a waste of time and dangerous practice to make notes which others are unable to read.
 
-It is extremely important always to write good clinical notes.
-
-
+> It is extremely important always to write good clinical notes.
 
 ### 1-44 How detailed should your notes be?
 
@@ -638,36 +483,21 @@ Usually, detailed notes are written at the first consultation. Thereafter, a bri
 
 Use the SOAP system to lay out your initial notes.
 
-Start with the history (story or what is said):
-
-The reason for referral should be noted together with the child’s age and gender. It is important to begin with the presenting complaints and the detailed history relating to each of them. This will form the present history.
-
-Any important points from the past history should be recorded.
-
-Any outstanding immunisations must be recorded.
-
-Important facts from the social history should be noted.
-
-Each section of the history (present, past, immunisation and social history) is given a separate heading to make it easier to read.
-
-2.	Important positive and negative aspects of the special questions are usually written under a separate Special Questions heading. This completes the history section of the notes.
-
-3.	The physical examination follows next. This usually is written under the following headings:
-
-Weight (and sometimes head circumference and length or height)
-
-Temperature
-
-The general appearance of the child (including nutritional state and hydration)
-
-Specific general signs (such as pallor, cyanosis, jaundice and oedema)
-
-Important positive or negative signs from each body part (e.g. head) or organ system (e.g. cardiovascular system)
-
+1.	Start with the *history* (story or what is said):
+	*	The reason for referral should be noted together with the child’s age and gender. It is important to begin with the presenting complaints and the detailed history relating to each of them. This will form the present history.
+	*	Any important points from the past history should be recorded.
+	*	Any outstanding immunisations must be recorded.
+	*	Important facts from the social history should be noted.
+	*	Each section of the history (present, past, immunisation and social history) is given a separate heading to make it easier to read.
+2.	Important positive and negative aspects of the *special questions* are usually written under a separate Special Questions heading. This completes the history section of the notes.
+3.	The *physical examination* follows next. This usually is written under the following headings:
+	*	Weight (and sometimes head circumference and length or height)
+	*	Temperature
+	*	The general appearance of the child (including nutritional state and hydration)
+	*	Specific general signs (such as pallor, cyanosis, jaundice and oedema)
+	*	Important positive or negative signs from each body part (e.g. head) or organ system (e.g. cardiovascular system)
 4.	 List special investigations asked for, note the date of the investigation and record any results available.
-
 5.	 Make an assessment by drawing up a problem list with diagnoses where possible.
-
 6.	 Write a plan of action for each problem.
 
 All notes must clearly state the date and your name.
@@ -676,9 +506,7 @@ All notes must clearly state the date and your name.
 
 Every time the patient is examined, a careful progress note must be made in the patient record or on the Road-to-Health Card. Continue using the SOAP system. Each item on the problem list must be considered in turn. The history, clinical findings, any special investigations, and plan of action must be recorded for each problem. Only record what is important. One of the greatest mistakes made in writing continuation (follow-up) notes is that they are too long and detailed. Notes must be kept short and simple. No one will read pages and pages of unnecessary writing.
 
-Progress notes should be short and simple and address each unresolved problem.
-
-
+> Progress notes should be short and simple and address each unresolved problem.
 
 Once a problem on the list is solved, that problem can be dropped and need no longer be included in the problem list. Any new problem should be added to the list.
 
@@ -686,9 +514,8 @@ In this way, each active problem (i.e. still on the list) should be considered a
 
 The following is a typical example of progress notes using a problem list and SOAP method:
 
+~~~
 PROBLEMS
-
-
 
 1. Scabies:
 
@@ -699,8 +526,6 @@ O: Rash improving. No secondary infection.
 A: Scabies has responded to treatment with Ascabiol.
 
 P: Give mother Ascabiol to treat whole family.
-
-
 
 2. Iron deficiency anaemia:
 
@@ -713,176 +538,156 @@ A: Good response.
 P: Check Hb.
 
 Continue oral iron for 3 months.
-
+~~~
 
 
 ### 1-47 Should notes always be made in the Road-to-Health Card?
 
 If the child presents at either a clinic or hospital, a note should always be written in the Card. A brief summary of the problems, assessment and plan of action should be made even if fuller notes are made in the patient’s hospital or clinic record. As the child may be seen at a number of different facilities over months or years, the patient-carried Road-to-Health Card is the one place where all the visits should be recorded.
 
-Always make a note in the Road-to-Health Card.
+> Always make a note in the Road-to-Health Card.
 
-
-
-Case study 1
+## Case study 1
 
 A doctor is asked to see an ill 9-year-old child in a hospital outpatient department. He ignores the child and asks her mother what the problem is. She gives him the referral letter, which he does not read. Before she can give her story he has already started to examine the child. The child is not weighed. He tells her that the child has rheumatic fever, and should stay in bed and take the prescribed tablets three times a day. He then rushes out without any further explanation.
 
-1. What is the first mistake the doctor makes?
+### 1. What is the first mistake the doctor makes?
 
 He ignores the patient. A 9-year-old child should be able to tell the doctor about the presenting complaints. He also does not introduce himself to both mother and child. This is not only bad medicine but it is also foolish and rude.
 
-2. Is this the correct method of taking a history?
+### 2. Is this the correct method of taking a history?
 
 No. He does not pay attention to the mother and starts examining the child before she has had a chance to tell her full story. Never ignore what a mother has to say, as she knows her child best.
 
-3. In a hospital, is it important to read referral letters?
+### 3. In a hospital, is it important to read referral letters?
 
 Yes. Always read the referral letter as it draws attention to the clinical problem and often provides important information. The doctor should have replied to the letter.
 
-4. Is measuring weight part of the general examination?
+### 4. Is measuring weight part of the general examination?
 
 All children (and adults) should be weighed as part of a general examination. The child’s weight should have been plotted on a weight-for-age chart.
 
-5. What do you think of the way he told the mother the diagnosis and prescribed treatment?
+### 5. What do you think of the way he told the mother the diagnosis and prescribed treatment?
 
 He failed to explain what the problem was and what the diagnosis means. She should have had the management explained to her. The mother needs to know when to return for the next appointment. Even if the diagnosis and treatment were correct, the history and examination were inadequate.
 
-Case study 2
+## Case study 2
 
 A general practitioner asks about the presenting complaints and takes a present but no other history from a mother and her 10-year-old daughter. The child has a fever and a rash. After a quick general inspection, he lifts the child’s shirt and looks at the rash. After writing a brief note in the hospital folder he tells the mother that the child has measles.
 
-1. What mistake has the doctor made in taking a history? 
+### 1. What mistake has the doctor made in taking a history? 
 
 Only a present history was taken. It is important always to take a past, social and immunisation history as well.
 
-2. Why is an immunisation history important?
+### 2. Why is an immunisation history important?
 
 It is important to know whether this child has been fully immunised, especially against measles and rubella.
 
-3. What was wrong with the physical examination?
+### 3. What was wrong with the physical examination?
 
 The doctor only did a general inspection. Each organ system was not examined. The doctor also did not palpate or auscultate. Important clinical signs, such as lymphadeopathy, splenomegaly and signs of measles in the child’s mouth (Koplik’s spots) may have been missed.
 
-4. What routine basic information would have been useful?
+### 4. What routine basic information would have been useful?
 
 The child’s temperature and weight. Always record and plot weight to screen for malnutrition.
 
-5. Is a ‘brief note’ in the hospital folder adequate?
+### 5. Is a ‘brief note’ in the hospital folder adequate?
 
 No. As this is the initial consultation he should have written full notes (basic information, history, special questions, physical examination and any investigations).
 
-Case study 3
+## Case study 3
 
 An infant is seen by a nurse at a follow-up appointment at a local clinic. She is unable to read the long and confused notes made at the previous visit and does not ask the mother for the Road-to-Health Card. The mother cannot help her, as she was not told what the problem was. She thinks the child has a heart problem. During the examination the infant cries because the nurse’s hands are cold. As a result she cannot hear the heart sounds and refers the child to hospital.
 
-1. Why is she unable to read and make sense of the patient’s notes?
+### 1. Why is she unable to read and make sense of the patient’s notes?
 
 Because they were not written clearly in a logical order. This is a very common finding. With good notes she should be able to quickly find out what the previous problems and management were.
 
-2. Why should she have asked for the Road-to Health Card?
+### 2. Why should she have asked for the Road-to Health Card?
 
 There may be a summary of the previous visit in the Card. The Card would also indicate how the child has been growing, whether the immunisation schedule is up to date and what previous health problems have occurred. It is a serious error not to review the Card at each visit.
 
-3. Why was the mother not told what the problems were?
+### 3. Why was the mother not told what the problems were?
 
 There was poor communication between the health professional and the patient. This is a common problem. This can be partially addressed by making a note in the Road-to-Health Card. The parents and the child should always be fully informed after a consultation.
 
-4. What mistake did the nurse make with the examination?
+### 4. What mistake did the nurse make with the examination?
 
 She did not warm her hands first. Cold hands and a cold stethoscope are a common mistake. As a result she could not listen to the heart.
 
-5. What are the 3 steps in the physical examination?
+### 5. What are the 3 steps in the physical examination?
 
-General and regional inspection
+1.	General and regional inspection
+1.	Systematic examination
+1.	Special examination
 
-Systematic examination
+### 6. In what order should each of the most important 3 steps be done?
 
-Special examination
+1.	Inspection
+1.	Palpation
+1.	Auscultation
 
-6. In what order should each of the most important 3 steps be done?
-
-Inspection
-
-Palpation
-
-Auscultation
-
-Case study 4
+## Case study 4
 
 A child from a very poor home presents with scabies at a clinic. His weight is below the 3rd centile. The mother also says that he has coughed for the past month. The nurse takes a full history and completes a physical examination. She writes SOAP notes in the patient folder and also writes a summary in the Road-to-Health Card.
 
-1. What are SOAP notes?
+### 1. What are SOAP notes?
 
 This is a system of writing clinical notes, which includes the story (history), observations (physical examination), assessment and plan of action. All initial or follow-up examinations should be recorded this way.
 
-2. Is it necessary to write notes in both the clinic folder and Road-to-Health Card?
+### 2. Is it necessary to write notes in both the clinic folder and Road-to-Health Card?
 
 Yes. The clinic folder should hold the detailed notes while a summary should be written in the Road-to-Health Card.
 
-3. What is a problem list?
+### 3. What is a problem list?
 
 This is a clear, simple list of the patient’s problems. The problem list is drawn up during the assessment at the end of the complete examination. The problem list is the most important part of summarizing the findings of the history, physical examination and investigations. A problem list must always be made even if the diagnosis is not known.
 
-4. What would be the problem list for this child?
+### 4. What would be the problem list for this child?
 
-Poor social circumstances
-
-Failure to thrive, with a weight below the 3rd centile
-
-Scabies
-
-Chronic cough
+1.	Poor social circumstances
+1.	Failure to thrive, with a weight below the 3rd centile
+1.	Scabies
+1.	Chronic cough
 
 An action plan is needed for each of the problems. Some problems, like scabies, needs treatment while others, like the chronic cough, need investigation. It is important that social problems are also recorded and addressed.
 
 
 
 2
+{:.chapter-number}
 
-Immunisation
+# Immunisation
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
-Define immunisation.
+*	Define immunisation.
+*	Write the immunisation schedule.
+*	Understand the advantages of immunisation.
+*	List the contraindications and complications of immunisation.
+*	Give immunisations safely.
+*	Store vaccines safely in a clinic or hospital.
 
-Write the immunisation schedule.
-
-Understand the advantages of immunisation.
-
-List the contraindications and complications of immunisation.
-
-Give immunisations safely.
-
-Store vaccines safely in a clinic or hospital.
-
-Introduction
+## Introduction
 
 ### 2-1 What is immunity?
 
 Children may become infected with many bacteria or viruses, which can cause illness. Some of these organisms may also produce toxins, which can result in serious damage. Following most infections the body develops protection (resistance) against further infections by the same organism or against the toxins which these organisms produce. The body is now said to be immune to (protected against) that specific organism or toxin. This protection is called immunity. The body produces immunoglobulins (antibodies) and white cells to provide immunity (protection). Immunity can follow a natural infection or be induced by immunisation.
 
-Immunity is the protection which the body develops against further damage by an organism or toxin.
-
-
+> Immunity is the protection which the body develops against further damage by an organism or toxin.
 
 ### 2-2 What is immunisation?
 
 Immunisation is a method of artificially stimulating the immune system to provide protection against specific serious infections. This is done by giving a vaccine. A vaccine may be any one of the following:
 
-A live, but specially weakened (attenuated), organism such as oral polio vaccine.
+*	A live, but specially weakened (attenuated), organism such as oral polio vaccine.
+*	A dead organism such as intramuscular polio vaccine.
+*	An inactivated substance (a toxoid) produced by an organism such as diphtheria vaccine.
+*	Part of an organism such as hepatitis B vaccine.
 
-A dead organism such as intramuscular polio vaccine.
-
-An inactivated substance (a toxoid) produced by an organism such as diphtheria vaccine.
-
-Part of an organism such as hepatitis B vaccine.
-
-Immunisation is a method of preventing some serious infectious diseases.
-
-
+> Immunisation is a method of preventing some serious infectious diseases.
 
 Note
 :	It is best not to use the word ‘vaccination’ as it means to immunise with vaccinia (cowpox) to protect against smallpox. However, the word vaccine is still used. Therefore, a vaccine is used to immunise an infant.
@@ -891,29 +696,20 @@ Note
 
 Immunisation is strongly recommended as it can prevent many serious infections. The introduction of immunisation for all children has been one of the most important advances in modern medicine and saves the lives of millions of children throughout the world each year. It is far better to prevent an infectious illness than to treat the illness and its complications. Immunisation is therefore very cost effective. Immunisation has greatly reduced the mortality rate of children in many countries.
 
-Immunisation of young children is strongly recommended.
-
-
+> Immunisation of young children is strongly recommended.
 
 ### 2-4 What immunisations should be given to young children?
 
 All children should be routinely immunised against the following eight important infections:
 
-Tuberculosis
-
-Polio (poliomyelitis)
-
-Diphtheria
-
-Whooping cough (pertussis)
-
-Tetanus
-
-Hepatitis B
-
-Measles
-
-Haemophilus influenzae
+1.	Tuberculosis
+1.	Polio (poliomyelitis)
+1.	Diphtheria
+1.	Whooping cough (pertussis)
+1.	Tetanus
+1.	Hepatitis B
+1.	Measles
+1.	*Haemophilus influenzae*
 
 In South Africa, children are immunised against these eight infections as part of the State immunisation programme. As a result, many of these infections (polio, diphtheria, tetanus, measles) have become uncommon. In future, additional immunisations are likely to be added.
 
@@ -932,19 +728,13 @@ They may be given as drops by mouth, as with polio immunisation, or by intramusc
 
 ### 2-7 Which vaccines are used in South Africa?
 
-BCG is used to immunise against tuberculosis, especially tuberculous meningitis and miliary tuberculosis in children, which are two of the most severe forms of tuberculosis.
-
-A live polio virus vaccine is used to protect children against poliomyelitis, which is a viral infection that can cause permanent paralysis.
-
-Diphtheria toxoid and tetanus toxoid are used to protect against the effects of diphtheria and tetanus infections. Diphtheria infection can cause airway obstruction and damage to the heart and nerves. Tetanus infection causes convulsions and muscle spasms.
-
-Pertussis vaccine protects against the infection which causes whooping cough. It is usually given together with diphtheria and tetanus toxoid (DPT).
-
-A live measles vaccine is used to protect children against measles.
-
-Hepatitis B vaccine is used to protect against hepatitis B.
-
-Haemophilus influenzae B vaccine (Hib), which is the latest vaccine to be added to the South African expanded programme on immunisation, protects against serious infections, such as meningitis, caused by Haemophilus influenzae type B.
+*	BCG is used to immunise against tuberculosis, especially tuberculous meningitis and miliary tuberculosis in children, which are two of the most severe forms of tuberculosis.
+*	A live polio virus vaccine is used to protect children against poliomyelitis, which is a viral infection that can cause permanent paralysis.
+*	Diphtheria toxoid and tetanus toxoid are used to protect against the effects of diphtheria and tetanus infections. Diphtheria infection can cause airway obstruction and damage to the heart and nerves. Tetanus infection causes convulsions and muscle spasms.
+*	Pertussis vaccine protects against the infection which causes whooping cough. It is usually given together with diphtheria and tetanus toxoid (DPT).
+*	A live measles vaccine is used to protect children against measles.
+*	Hepatitis B vaccine is used to protect against hepatitis B.
+*	*Haemophilus influenzae* B vaccine (Hib), which is the latest vaccine to be added to the South African expanded programme on immunisation, protects against serious infections, such as meningitis, caused by *Haemophilus influenzae* type B.
 
 Note
 :	Some vaccines are alive (BCG, oral polio, measles) while others are dead (diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenza B). A toxoid is an inactivated toxin.
@@ -959,29 +749,75 @@ The recommended schedule for immunisation lists the age at which specific immuni
 
 The schedule for the immunisation of children in South Africa (Table 2.1) is as follows:
 
-Polio 0 is the dose of polio vaccine at birth
-
-DPT 1 is the first dose of DPT
-
-Hepatitis B 2 is second dose of hepatitis B vaccine
-
-Hib 3 is the third dose of Hib vaccine, etc.
+*	Polio 0 is the dose of polio vaccine at birth
+*	DPT 1 is the first dose of DPT
+*	Hepatitis B 2 is second dose of hepatitis B vaccine
+*	Hib 3 is the third dose of Hib vaccine, etc.
 
 The primary immunisations are given between birth and 9 months. The immunisations given at 18 months and 5 years (polio, measles, diphtheria and tetanus) are often called ‘boosters’ as they help to improve the immune response produced by the initial course of immunisation.
 
+Table 2.1: The schedule for the immunisation of children in South Africa
+{:.table-caption}
+
+<table>
+<thead>
+  <tr>
+    <td><p>When</p></td>
+    <td><p>Vaccines</p></td>
+  </tr>
+</thead>
+  <tr>
+    <td><p>At birth</p></td>
+    <td><p>BCG</p>
+      <p>Oral polio 0 (OPV 0)</p></td>
+  </tr>
+  <tr>
+    <td><p>At 6 weeks</p></td>
+    <td><p>Oral polio 1 (OPV 1)</p>
+      <p>DPT 1 (diphtheria, pertussis, tetanus)</p>
+      <p>Hepatitis B 1</p>
+      <p>Hib 1</p></td>
+  </tr>
+  <tr>
+    <td><p>At 10 weeks</p></td>
+    <td><p>Oral polio 2 (OPV 2)</p>
+      <p>DPT 2</p>
+      <p>Hepatitis B 2</p>
+      <p>Hib 2</p></td>
+  </tr>
+  <tr>
+    <td><p>At 14 weeks</p></td>
+    <td><p>Oral polio 3 (OPV 3)</p>
+      <p>DPT 3</p>
+      <p>Hepatitis B 3</p>
+      <p>Hib 3</p></td>
+  </tr>
+  <tr>
+    <td><p>At 9 months</p></td>
+    <td><p>Measles 1</p></td>
+  </tr>
+  <tr>
+    <td><p>At 18 months</p></td>
+    <td><p>Oral polio 4 (OPV4)</p>
+      <p>DPT 4</p>
+      <p>Measles 2 or MMR (measles, mumps, rubella)</p></td>
+  </tr>
+  <tr>
+    <td><p>At 5 years</p></td>
+    <td><p>Oral polio 5 (OPV 5)</p>
+      <p>DT 5 (diphtheria, tetanus)</p></td>
+  </tr>
+</table>
+
 ### 2-9 Why is it important to give immunisations at the recommended time?
 
-If an immunisation is given too early (e.g. if measles immunisation is given at 3 months), the infant may not develop the expected resistance to the illness due to the immune system still being too immature to respond fully.
-
-If an immunisation is given too late (e.g. not giving measles immunisation at 9 months), the infant may develop that illness before the immunisation can be given.
-
-If immunisations are given too soon after the previous immunisation (e.g. if DPT immunisations are given a week apart), the infant may not develop the expected resistance to the illness.
+1.	If an immunisation is given too early (e.g. if measles immunisation is given at 3 months), the infant may not develop the expected resistance to the illness due to the immune system still being too immature to respond fully.
+1.	If an immunisation is given too late (e.g. not giving measles immunisation at 9 months), the infant may develop that illness before the immunisation can be given.
+1.	If immunisations are given too soon after the previous immunisation (e.g. if DPT immunisations are given a week apart), the infant may not develop the expected resistance to the illness.
 
 All the most important immunisations should be given by the time the child reaches 9 months of age.
 
-It is important to give immunisations at the recommended time according to the immunisation schedule.
-
-
+> It is important to give immunisations at the recommended time according to the immunisation schedule.
 
 ### 2-10 What should be done if immunisations are missed or never started?
 
@@ -991,11 +827,9 @@ If the immunisation schedule was not started when it should have been, immunisat
 
 However, some immunisations may not be given as they are no longer needed or they are not safe in an older child:
 
-Pertussis vaccine is not given after 18 months.
-
-Hib and BCG are not given over 1 year.
-
-Measles need not be repeated if it is given after 18 months.
+*	Pertussis vaccine is not given after 18 months.
+*	Hib and BCG are not given over 1 year.
+*	Measles need not be repeated if it is given after 18 months.
 
 If immunisations were started correctly, but later immunisations were missed, these can be given using the normal time intervals between immunisations. If the immunisation schedule is interrupted it need not be started again from the beginning.
 
@@ -1007,9 +841,7 @@ Whenever a child visits a doctor or clinic, the opportunity must be used to dete
 
 Opportunities for immunisation are also lost when health facilities do not offer immunisation services every day. Therefore, this essential service should be made available on a daily basis at all clinics and hospitals where children are managed.
 
-A child may develop a serious infection as the result of a missed immunisation.
-
-
+> A child may develop a serious infection as the result of a missed immunisation.
 
 ### 2-12 How should immunisations be recorded?
 
@@ -1032,9 +864,7 @@ In contrast, infants with clinical signs of HIV infection should not be given an
 Note
 :	 Infants with immunosuppression due to other causes, such as leukaemia or cytotoxic drugs or large doses of steroids should not be given live vaccines (e.g. polio and measles). They must be protected from exposure to these illnesses.
 
-Infants who are exposed to HIV but are otherwise well should receive routine immunisations.
-
-
+> Infants who are exposed to HIV but are otherwise well should receive routine immunisations.
 
 ### 2-16 Should malnourished infants be immunised?
 
@@ -1048,9 +878,7 @@ Low birth weight (less than 2500 g) or sick newborn infants should be given BCG 
 
 There are very few general contraindications to immunisation. Infants with a skin rash or minor illness such as a ‘cold,’ cough or mild fever below 38 °C should be immunised. If the infant has diarrhoea when OPV is due, give OPV but ask the mother to bring the child back for an extra dose of polio drops when the infant is again well. Mark on the card that an extra dose of OPV is needed due to diarrhoea. It is important to immunise sick and malnourished children to protect them against these illnesses. If a child is not immunised because of a minor illness, they may not be brought back later and the opportunity to immunise is lost.
 
-Minor illnesses and malnutrition are not a contraindications to immunisation.
-
-
+> Minor illnesses and malnutrition are not a contraindications to immunisation.
 
 ### 2-19 Can immunisations be safely given to an allergic child?
 
@@ -1060,27 +888,19 @@ Yes. Allergic reactions to immunisations are rare, even in children with signs o
 
 There are very few contraindications to immunisations and serious thought must be given before deciding not to give a scheduled immunisation. Mild illness is not a contraindication. Neither is a skin rash or eczema. Antibiotics or allergic illnesses are also not contraindications. If an ill or malnourished child is well enough to go home, he/she can be immunised before going home.
 
-An infant who is well enough to go home is well enough to be immunised.
-
-
+> An infant who is well enough to go home is well enough to be immunised.
 
 Contraindications are:
 
-A seriously ill child who needs hospitalisation can be given measles immunisation on admission. The other immunisations can be postponed and given when the child has recovered, but before discharge from hospital.
+1.	A seriously ill child who needs hospitalisation can be given measles immunisation on admission. The other immunisations can be postponed and given when the child has recovered, but before discharge from hospital.
+1.	Live viruses (polio, measles and BCG) should not be given in infants with clinical signs of HIV infection (or a low CD4 count). However, all scheduled immunisations can be given if the infant is HIV positive without signs of HIV infection (and a normal CD4 count).
+1.	Live viruses should not be given to children with immunosuppression such as children with leukaemia or receiving cytotoxic drugs. Kwashiorkor, marasmus and low dose or inhaled steroid treatment are not contraindications.
+1.	DPT vaccine should not be given to infants with:
+	*	A high temperature (38 °C or above).
+	*	Fits or collapse within 3 days of a previous DPT immunisation
+	*	A serious progressive neurological abnormality such as repeated fits.
 
-Live viruses (polio, measles and BCG) should not be given in infants with clinical signs of HIV infection (or a low CD4 count). However, all scheduled immunisations can be given if the infant is HIV positive without signs of HIV infection (and a normal CD4 count).
-
-Live viruses should not be given to children with immunosuppression such as children with leukaemia or receiving cytotoxic drugs. Kwashiorkor, marasmus and low dose or inhaled steroid treatment are not contraindications.
-
-DPT vaccine should not be given to infants with:
-
-A high temperature (38 °C or above).
-
-Fits or collapse within 3 days of a previous DPT immunisation
-
-A serious progressive neurological abnormality such as repeated fits.
-
-In these situations DT should be used instead of DPT.
+	In these situations DT should be used instead of DPT.
 
 ### 2-21 Is immunisation safe?
 
@@ -1089,7 +909,7 @@ Yes. Serious complications of immunisation are rare. However, mild fever and irr
 Note
 :	 There is no evidence that immunisation increases the risk of cot death.
 
-BCG immunisation
+## BCG immunisation
 
 ### 2-22 What is BCG?
 
@@ -1110,17 +930,12 @@ BCG should be given to well infants at birth and on the day of discharge from ho
 
 BCG is given by intradermal injection on the right upper arm as follows:
 
-Inject 1 ml of diluent into the vial (brown) containing BCG. Gently turn the vial upside down at least five times until fully mixed. Do not shake.
-
-The reconstituted BCG vaccine can be stored up to 6 hours in a refrigerator between 2 and 8 °C.
-
-Draw up 0.05 ml of BCG vaccine in a sterile syringe (a special syringe to measure 0.05 ml accurately ). 
-
-Clean an area of skin over the right deltoid muscle (upper arm) with soap and water.
-
-Stretch the skin over the right deltoid muscle with your thumb and forefinger. Slowly insert the needle intradermally (bevel facing up). Insert the needle for less than 2 mm into the skin. The needle can be seen through the skin.
-
-Inject the 0.05 ml of vaccine. A weal (raised lump) indicates that the intradermal injection has been given successfully. The most common error is to inject under the skin when no weal will be seen. With no weal, start again at a different site and inject into the skin.
+1.	Inject 1 ml of diluent into the vial (brown) containing BCG. Gently turn the vial upside down at least five times until fully mixed. Do not shake.
+1.	The reconstituted BCG vaccine can be stored up to 6 hours in a refrigerator between 2 and 8 °C.
+1.	Draw up 0.05 ml of BCG vaccine in a sterile syringe (a special syringe to measure 0.05 ml accurately ). 
+1.	Clean an area of skin over the right deltoid muscle (upper arm) with soap and water.
+1.	Stretch the skin over the right deltoid muscle with your thumb and forefinger. Slowly insert the needle intradermally (bevel facing up). Insert the needle for less than 2 mm into the skin. The needle can be seen through the skin.
+1.	Inject the 0.05 ml of vaccine. A weal (raised lump) indicates that the intradermal injection has been given successfully. The most common error is to inject under the skin when no weal will be seen. With no weal, start again at a different site and inject into the skin.
 
 ### 2-26 What are the side effects of BCG immunisation?
 
@@ -1130,9 +945,8 @@ The most common side effects are local pain and ulceration at the site of the im
 
 Serious side effects which require referral are very rare. They include:
 
-An abscess may form at the site of the immunisation.
-
-Axillary lymph nodes may enlarge rapidly to more than 3 cm.
+*	An abscess may form at the site of the immunisation.
+*	Axillary lymph nodes may enlarge rapidly to more than 3 cm.
 
 Note
 :	BCG lymphadenitis or local abscess must be reported to the local health authorities. Rarely suppurative adenitis may require needle drainage or a sinus may form. Antituberculous treatment is seldom needed (usually in immunocompromised children only).
@@ -1141,7 +955,7 @@ Note
 
 BCG can be given to HIV-exposed infants but not infants with HIV infection, especially if clinical signs of HIV infection are present. It is not used over one year of age.
 
-Polio immunisation
+## Polio immunisation
 
 ### 2-28 Which polio vaccine is used?
 
@@ -1170,9 +984,7 @@ Usually, a single dose of polio vaccine is given at the same time as BCG after d
 
 Breastfeeding is not a contraindication to immunisation. There is no need to avoid a breastfeed before or after giving oral polio immunisation.
 
-Breastfed infants can be given oral polio immunisations.
-
-
+> Breastfed infants can be given oral polio immunisations.
 
 ### 2-32 What are the contraindications to polio immunisation?
 
@@ -1183,7 +995,7 @@ Polio vaccine can be given to children with diarrhoea and vomiting but an extra 
 Note
 :	Very rarely (1 in 500 000), paralysis can follow use of oral Sabin polio vaccine. This does not occur with the killed Salk vaccine. All cases of acute flaccid paralysis must be notified to determine whether polio has been eradicated.
 
-Immunisation against diphtheria, pertussis and tetanus (DPT)
+## Immunisation against diphtheria, pertussis and tetanus (DPT)
 
 ### 2-33 What is DPT vaccine?
 
@@ -1195,31 +1007,23 @@ Toxoids are inactivated toxins. Toxins are produced by the diphtheria and tetanu
 
 In a refrigerator or cold box at 2 to 8 °C. Do not freeze DPT vaccine as this damages the vaccine. Avoid direct sunlight as this may also damage the vaccine. It is best to keep DPT on the middle shelf of a fridge.
 
-Do not freeze DPT as this damages the vaccine.
-
-
+> Do not freeze DPT as this damages the vaccine.
 
 ### 2-35 How is DPT vaccine given?
 
-The 10 ml vial of DPT vaccine is ready to use. Shake the vial well and draw 0.5 ml of the vaccine into a syringe. Use a new 23 gauge needle for each child. Never use the same needle for more than one child.
-
-Clean an area over the skin on the outer  side of the left thigh (upper leg) with an alcohol swab (NOT buttocks).
-
-Inject 0.5 ml of the vaccine intramuscularly.
+1.	The 10 ml vial of DPT vaccine is ready to use. Shake the vial well and draw 0.5 ml of the vaccine into a syringe. Use a new 23 gauge needle for each child. Never use the same needle for more than one child.
+1.	Clean an area over the skin on the outer  side of the left thigh (upper leg) with an alcohol swab (NOT buttocks).
+1.	Inject 0.5 ml of the vaccine intramuscularly.
 
 Three doses of DPT vaccine are given together with polio vaccine at 6, 10 and 14 weeks. A follow up (booster) dose is given with polio vaccine at 18 months.
 
 ### 2-36 What are the side effects of DPT immunisation?
 
-Mild redness, tenderness and swelling at the site of the injection for a few days.
+*	Mild redness, tenderness and swelling at the site of the injection for a few days.
+*	A mild fever and irritability for a few days is common.
+*	Rarely serious side effects may occur to the pertussis vaccine.
 
-A mild fever and irritability for a few days is common.
-
-Rarely serious side effects may occur to the pertussis vaccine.
-
-Minor side effects to DPT immunisation are common and are not a contraindication to further immunisations.
-
-
+> Minor side effects to DPT immunisation are common and are not a contraindication to further immunisations.
 
 If infants are not fully immunised with DPT because of minor side effects, they may later develop diphtheria, whooping cough or tetanus which remain very serious illnesses.
 
@@ -1238,17 +1042,13 @@ Note
 
 Pertussis immunisation should not be given to the following infants:
 
-A progressive central nervous system disease such as uncontrolled epilepsy. Children with mental retardation or cerebral palsy can be given routine immunisations including DPT as these are not progressive condition.
-
-Infants who have had a severe reaction or clinical signs of encephalopathy within 7 days of a previous DPT immunisation, e.g. persistent screaming, collapse, drowsiness, confusion, fits or a fever over 40.5 °C.
-
-Usually, pertussis vaccine is not given to children over the age of 18 months as the risk of severe reactions to pertussis vaccine increases with age. These infants should be given DT vaccine instead.
+*	A progressive central nervous system disease such as uncontrolled epilepsy. Children with mental retardation or cerebral palsy can be given routine immunisations including DPT as these are not progressive condition.
+*	Infants who have had a severe reaction or clinical signs of encephalopathy within 7 days of a previous DPT immunisation, e.g. persistent screaming, collapse, drowsiness, confusion, fits or a fever over 40.5 °C.
+*	Usually, pertussis vaccine is not given to children over the age of 18 months as the risk of severe reactions to pertussis vaccine increases with age. These infants should be given DT vaccine instead.
 
 Mild fever and redness with some pain is common with DPT immunisation and are not contraindications to future immunisations. A family history of convulsions is also not a contraindication. Neither are cerebral palsy and Down Syndrome.
 
-Pertussis vaccine should not be given if the child had a severe reaction to a previous DPT immunisation.
-
-
+> Pertussis vaccine should not be given if the child had a severe reaction to a previous DPT immunisation.
 
 ### 2-39 What is DT vaccine?
 
@@ -1261,7 +1061,7 @@ Note
 
 Because whooping cough is a far less serious illness in older children and the risk of side effects increases after 18 months.
 
-Measles immunisation
+## Measles immunisation
 
 ### 2-41 What measles vaccine is used?
 
@@ -1273,13 +1073,10 @@ As with BCG and polio vaccines, the storage of measles vaccine is very important
 
 ### 2-43 How is measles vaccine given?
 
-Add 5 ml of diluent to the 10 ml vial of the vaccine. Do not use alcohol or ether to clean the top of the vial as this may kill the virus. If kept cool and out of direct sunlight, the reconstituted vaccine will last up to 8 hours.
-
-Use a new syringe and new 23 gauge needle for each patient.
-
-Give 0.5 ml of the vaccine by intramuscular injection into outer side (lateral aspect) of the right thigh. Clean the skin with soap and water.
-
-Always discard any remaining vaccine at the end of the day. Do not keep vaccine overnight.
+1.	Add 5 ml of diluent to the 10 ml vial of the vaccine. Do not use alcohol or ether to clean the top of the vial as this may kill the virus. If kept cool and out of direct sunlight, the reconstituted vaccine will last up to 8 hours.
+1.	Use a new syringe and new 23 gauge needle for each patient.
+1.	Give 0.5 ml of the vaccine by intramuscular injection into outer side (lateral aspect) of the right thigh. Clean the skin with soap and water.
+1.	Always discard any remaining vaccine at the end of the day. Do not keep vaccine overnight.
 
 ### 2-44 When should measles immunisation be given?
 
@@ -1312,7 +1109,7 @@ Although not yet part of the EPI policy, children who received MMR at 18 months 
 Note
 :	 Children who are immunised twice with MMR will have lifelong immunity against rubella and, thereby, avoid the risk of congenital rubella in their infants. Likewise, MMR gives protection against mumps, which avoids the risk of orchitis and resultant sterility in boys in later life.
 
-Immunisation against Hepatitis B 
+## Immunisation against Hepatitis B 
 
 ### 2-48 What is hepatitis B ?
 
@@ -1333,11 +1130,11 @@ These include mild fever, pain and local swelling but are very uncommon.
 
 People with either acute or chronic hepatitis B virus infection have pieces of viral protein, called hepatitis B surface antigen (HbSAg), circulating in their blood stream. These people often excrete the virus and may spread the infection to others. Infants are at high risk of infection during a vaginal delivery if the mother is excreting the virus. Therefore, infants born to women who have hepatitis B during pregnancy or are HbSAg positive (i.e. have a chronic viral infection) need special management at delivery to protect them against infection. These infants should receive 0.5 ml of hyperimmune hepatitis B immunoglobulin by intramuscular injection with 72 hours of delivery. They should also receive a dose of hepatitis B vaccine. This should be followed by the standard schedule of hepatitis B immunisation at 6, 10 and 14 weeks.
 
-Immunisation against Haemophilus influenzae
+## Immunisation against *Haemophilus influenzae*
 
-### 2-52 What is Haemophilus influenzae?
+### 2-52 What is *Haemophilus influenzae*?
 
-Haemophilus influenzae B (Hib) is a bacterium which can cause serious and often fatal infections in childhood, especially meningitis, pneumonia and epiglottitis (a severe infection of the throat and epiglottis which often obstructs the upper airway). Children under 2 years are most at risk.
+*Haemophilus influenzae* B (Hib) is a bacterium which can cause serious and often fatal infections in childhood, especially meningitis, pneumonia and epiglottitis (a severe infection of the throat and epiglottis which often obstructs the upper airway). Children under 2 years are most at risk.
 
 ### 2-53 What is Hib vaccine?
 
@@ -1392,27 +1189,28 @@ Cases of measles, polio, neonatal tetanus and diphtheria are now rare in South A
 
 These are arranged separately to the routine immunisations programme, and are once-off events to increase the number of immunised children in a region and, thereby, help to eradicate the disease. They are used in regions or whole countries where the immunisation rates are low and also to control unexpected outbreaks of one of the important infectious diseases. Mass immunisation campaigns have been very effective against measles and polio.
 
-Handling vaccines
+## Handling vaccines
 
 ### 2-63 What is important about storing and handling vaccines?
 
 All live vaccines (BCG, polio, measles, MMR vaccines) must be kept correctly stored or they will be damaged. Sunlight, the incorrect temperature and antiseptics damage vaccines. In a clinic, all should be stored in a refrigerator between 2 and 8 °C (not in the freezer compartment) and kept in a cool bag during handling. Only polio vaccine can be safely kept frozen during storage for long periods. Freezing damages other vaccines. Live vaccines, which have been frozen in error, have a granular appearance with a deposit on standing, and must be discarded.
 
-Vaccines rapidly lose their effectiveness if they are not kept cold.
-
-
+> Vaccines rapidly lose their effectiveness if they are not kept cold.
 
 Avoid direct sunlight and do not use alcohol or ether to clean vials of live vaccines or the skin as this may kill the vaccine. If necessary, the skin can be cleaned with soap and water. Only draw up the vaccine into the syringe when you are ready to give it. The vaccines often come in brown vials to protect them from the light. All vaccines have an expiry date, and must not be used after the expiry date.
 
 Polio vaccine has a heat sensitive spot on each vial. Normally the dot is white but it darkens if the vaccine is not kept cool correctly. If the dot is the colour of the surrounding circle, or darker, it is damaged and must not be used.
 
+![Figure 2-1 Polio vaccine vial monitor](images/2-1.svg)
+
+Figure 2-1 Polio vaccine vial monitor
+{:.figure-caption}
+
 ### 2-64 What is ‘the cold chain’?
 
 Not only do vaccines need to be kept cold during storage but they must also be kept cold during handling. When live vaccines are moved from the central cold store to a clinic or hospital they should be moved in a cool box. They should also be kept in a cool box in the clinic after the vial has been opened. Vaccines must be kept cool continuously at 2–8 °C.  Measles and MMR are commonly inactivated by not being kept cool continuously. From the time the vaccine is produced to the time it is given it must be kept cold. The chain of travel from factory to store to health clinic to patient is called the cold chain. If possible, vaccines should be kept in a separate vaccine fridge at the health facilities. There must be a temperature chart on the vaccine fridge and the fridge temperature should be recorded twice a day. Where gas fridges are used a spare gas tank must be at hand. The expiratory date on vaccines is only valid if they have been kept cool during transport and storage.
 
-Vaccines must be kept cool at all times.
-
-
+> Vaccines must be kept cool at all times.
 
 ### 2-65 What is the correct use of a vaccine fridge?
 
@@ -1440,205 +1238,304 @@ Open vials of measles and BCG must not be kept for more than 6 hours.
 
 All opened vials must be discarded immediately if the asceptic procedures have not been followed or there is any suspicion that the vial is contaminated (a change in the normal appearance of the vaccine).
 
-See the summary of the scheduled vaccines at the end of this unit.
+*See the summary of the scheduled vaccines at the end of this chapter.*
 
-Case study 1
+## Case study 1
 
 During a woman’s pregnancy, she and her husband ask the doctor whether it will be necessary for their infant to be immunised. They also want to know which immunisations are given straight after delivery and whether they would still be given if the infant were born prematurely and is breastfed.  The mother mentions that she had hepatitis years ago and is known to be hepatitis B positive.
 
-1. Why should the infant receive routine immunisations?
+### 1. Why should the infant receive routine immunisations?
 
 It is very important that all infants be immunised unless there is a medical reason not to do so. Immunisation protects the infant against many dangerous infections. Immunising children also helps to decrease the spread of that infection in the community.
 
-2. What immunisations are given after delivery?
+### 2. What immunisations are given after delivery?
 
 It is routine to give BCG and polio drops in the first few days after delivery. These immunisations should be given before an infant is discharged from the hospital or clinic.
 
-3. Are immunisations given to preterm infants?
+### 3. Are immunisations given to preterm infants?
 
 It is very important to give all routine immunisations to preterm infants. Usually, the BCG and first polio immunisations are given when the infant is ready for discharge from hospital. After discharge the routine immunisation schedule is followed.
 
-4. Should breastfed infants be given oral polio drops?
+### 4. Should breastfed infants be given oral polio drops?
 
 Yes. Breast milk does not inactivate the live polio virus in the oral drops.
 
-5. Would loose stools be a contraindication to polio immunisation?
+### 5. Would loose stools be a contraindication to polio immunisation?
 
 No. However, the drops should be given again when the infant is well.
 
-6. What should be done, as the mother is hepatitis B-positive?
+### 6. What should be done, as the mother is hepatitis B-positive?
 
 As there is a high risk that the infant will be infected with the hepatitis B virus at or soon after delivery, the infant must be given 0.5 ml of hyperimmune hepatitis B immunoglobulin by intramuscular injection within 72 hours after birth. In addition, the infant should be given a dose of hepatitis B vaccine after birth to be followed by the routine hepatitis B immunisations starting at 6 weeks.
 
-Case study 2
+## Case study 2
 
 A mother who is known to be HIV-positive delivers a clinically well infant at term. The staff tells her that her infant should not be immunised as it may already be infected with HIV. This will make immunisation dangerous.
 
-1. Should routine immunisations be given to infants born to HIV-positive mothers?
+### 1. Should routine immunisations be given to infants born to HIV-positive mothers?
 
 Yes. It is particularly important that these infants are immunised as they are at high risk of infections if they later develop AIDS. The immune system of infants born to HIV-positive women is usually normal in the first few months after delivery, which gives an opportunity to safely give the routine immunisations. Most infants born to HIV-positive mothers are not HIV infected themselves.
 
-2. Should routine immunisations be given to healthy infants with HIV infection?
+### 2. Should routine immunisations be given to healthy infants with HIV infection?
 
 Yes. These infants without clinical signs of HIV infection still have an intact immune system and should be given routine immunisations except BCG.
 
-3. Should infants with clinical signs of HIV infection be given routine immunisations?
+### 3. Should infants with clinical signs of HIV infection be given routine immunisations?
 
 As these infants have a damaged immune system, they should not be given live vaccines such as BCG, oral polio and measles.
 
-4. What is the danger of giving BCG to an infant with symptomatic HIV infection?
+### 4. What is the danger of giving BCG to an infant with symptomatic HIV infection?
 
 As these infants have a damaged immune system, they may develop a generalised infection with BCG.
 
-Case study 3
+## Case study 3
 
 A healthy 6-week-old infant is given her first DPT immunisation. The day after the immunisation the infant has a mild fever and is slightly irritable. She also has some pain and swelling at the site of the injection. The mother gives a history of febrile convulsions when she was a child. She also heard on the radio that DPT immunisation could cause mental retardation. Because of this mild reaction and the mother’s anxiety, the staff advises that no further DPT immunisations should be given.
 
-1. What does DPT stand for?
+### 1. What does DPT stand for?
 
 Diphtheria, pertussis (whooping cough) and tetanus.
 
-2. At which site should the DPT injection be given?
+### 2. At which site should the DPT injection be given?
 
-DPT should be given by intramuscular injection into the left thigh. In older children it can be given into the left deltoid muscle. Never give a child an injection into the buttock, because young children have little muscle over the buttock, and important nerves and blood vessels lie close under the skin and may be damaged.
+DPT should be given by intramuscular injection into the left thigh. In older children it can be given into the left deltoid muscle. *Never* give a child an injection into the buttock, because young children have little muscle over the buttock, and important nerves and blood vessels lie close under the skin and may be damaged.
 
-3. Are side effects common after DPT immunisation?
+### 3. Are side effects common after DPT immunisation?
 
 Many infants have mild local tenderness and swelling at the site of the immunisation for a few days. Mild fever and some irritability are also common. If necessary the infant can be treated with paracetamol syrup 2.5 ml 6 hourly.
 
-4. Can DPT cause dangerous complications?
+### 4. Can DPT cause dangerous complications?
 
 Very rarely, DPT can cause a high fever (above 40 °C), severe irritability with screaming attacks, drowsiness, convulsions and mental retardation. The risk of severe complications is only 1 per million children.
 
-5. Should the second dose of DPT be given if the infant has mild side effects after the first dose?
+### 5. Should the second dose of DPT be given if the infant has mild side effects after the first dose?
 
 Yes. The second dose of DPT should be given at 10 weeks. If the infant has had a severe complication to the first dose of DPT, only DT should be given at 10 and 14 weeks and at 18 months.
 
-6. Should DPT be given if the mother had febrile convulsions as a child?
+### 6. Should DPT be given if the mother had febrile convulsions as a child?
 
 It is important that DPT immunisation is still given. A family history of fits is not a contraindication to DPT immunisation.
 
-7. Is it recommended that DPT be given routinely at 5 years?
+### 7. Is it recommended that DPT be given routinely at 5 years?
 
 No. At 5 years only DT should be given, as the chance of complications with pertussis vaccine is higher in older children (above 18 months).
 
-Case study 4
+## Case study 4
 
 A week after the second routine immunisation with measles at 18 months, an infant develops a mild fever and a fine pink rash, which lasts for 2 days. As the infant had a slight cough at the time of the immunisation, the mother is worried that the fever and rash may be dangerous.
 
-1. Is the mild fever and rash dangerous?
+### 1. Is the mild fever and rash dangerous?
 
 About 25% of infants develop a mild fever after measles immunisations. A rash is less common. Both are not dangerous and resolve in a few days.
 
-2. What combined immunisation instead of measles alone can be given at 18 months?
+### 2. What combined immunisation instead of measles alone can be given at 18 months?
 
 Measles, mumps and rubella (MMR vaccine). MMR vaccine should be repeated at 5 years.
 
-3. When should measles immunisation not be given?
+### 3. When should measles immunisation not be given?
 
 Measles immunisation should be delayed in children with untreated tuberculosis. Malnourished infants can safely be given measles immunisations. This is particularly important, as measles can be a fatal infection in malnourished children.
 
-4. Should the measles immunisation have been given to this infant with a mild cough?
+### 4. Should the measles immunisation have been given to this infant with a mild cough?
 
 A mild illness, such as loose stools, cold or cough, is not a contraindication to immunisation. Infants who are well enough to go home are well enough to be immunised.
 
-5. Why is it important to record measles immunisation on the Road-to-Health Card?
+### 5. Why is it important to record measles immunisation on the Road-to-Health Card?
 
 It is very important to note all immunisations on the Road-to-Health Card, as this is the official record of the child’s immunisation status. This is needed when the child is taken to another clinic or hospital and when the child is admitted to a crèche or play school.
 
-Case study 5
+## Case study 5
 
 A doctor notices that the fridge, which stores the vaccines in a clinic, is not working and that the vaccines are warm. He therefore cools the vaccines by placing them in the freezer compartment. He also notices that the expiratory date on some of the vaccines has been reached.
 
-1. Does it matter if vaccines are not kept cool?
+### 1. Does it matter if vaccines are not kept cool?
 
 It is very important that all vaccines are kept cool, between 2 and 8 °C. Otherwise they will be damaged and possibly killed. The commonest cause of failure of immunisation to protect an infant is the incorrect storage of vaccine.
 
-2. Is it dangerous to freeze vaccines?
+### 2. Is it dangerous to freeze vaccines?
 
 With the exception of polio vaccine, freezing damages or kills vaccines. Exposure to sunlight also damages vaccines.
 
-3. What should be done with the vaccines, which were allowed to warm and were then frozen?
+### 3. What should be done with the vaccines, which were allowed to warm and were then frozen?
 
 They must be discarded. Vaccines should also be discarded if the expiratory date has been passed.
 
-4. What is meant by the ‘cold chain’?
+### 4. What is meant by the ‘cold chain’?
 
 This is the method that keeps vaccines cold from the time of manufacture until they are given to the patient. The cold chain makes sure that the vaccines are not damaged by becoming warm. A vaccine, especially measles vaccine, may not be effective if the cold chain has been broken.
 
-5. What can be done to keep vaccines cool if the clinic cannot afford a fridge?
+### 5. What can be done to keep vaccines cool if the clinic cannot afford a fridge?
 
 A cool bag or cool box can be used to keep vaccines cool for a few hours. When used for an immunisation clinic, this is adequate.
 
-Immunisation references
+## Immunisation references
 
-See the following pages for:
+Table 2-2: Summary of immunisations routinely used
+{:.table-caption}
 
-A summary of immunisations routinely used
+<table>
+<thead>
+  <tr>
+    <td><p>Vaccine</p></td>
+    <td><p>Description</p></td>
+    <td><p>Storage</p></td>
+    <td><p>Administration</p></td>
+    <td><p>Comment</p></td>
+  </tr>
+</thead>
+  <tr>
+    <td><p>BCG</p>
+      <p>Bacillus Calmette Guerin </p></td>
+    <td><p>Live attenuated</p>
+      <p>Mycobacterium</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on middle shelf</p>
+      <p>Discard open vial after 6 hours</p></td>
+    <td><p>0.05 ml intradermal </p>
+      <p>Right upper arm</p></td>
+    <td><p>Should not be given in children over 1 year. Do not give if symptomatic HIV. Small ulcer after a few weeks common</p></td>
+  </tr>
+  <tr>
+    <td><p>DPT</p>
+      <p>Diphtheria Pertussis Tetanus</p></td>
+    <td><p>D – toxoid</p>
+      <p>P – killed bacteria</p>
+      <p>T – toxoid</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on middle shelf</p>
+      <p>Discard open vial after 30 days</p></td>
+    <td><p>0.5 ml intramuscular</p>
+      <p>Left thigh up until 1 year</p>
+      <p>Left upper arm if over 1 year</p>
+      <p><br />
+      </p></td>
+    <td><p>Mild fever, pain, local swelling common</p>
+      <p>Not used after 18 months</p></td>
+  </tr>
+  <tr>
+    <td><p>DT</p>
+      <p>Diphtheria Tetanus</p></td>
+    <td><p>D – toxoid</p>
+      <p>T – toxoid</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on middle shelf</p>
+      <p>Discard open vial after 30 days</p></td>
+    <td><p>0.5 ml intramuscular</p>
+      <p>Left thigh up till 1 year</p>
+      <p>Left upper arm if over 1 year</p>
+      <p><br />
+      </p></td>
+    <td><p>Mild fever, pain, local swelling common</p></td>
+  </tr>
+  <tr>
+    <td><p>HepB</p>
+      <p>Hepatitis B</p></td>
+    <td><p>Part of the virus</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on middle shelf</p>
+      <p>Discard open vial after 30 days</p></td>
+    <td><p>0.5 ml intramuscular</p>
+      <p>Right thigh up until 1 year</p>
+      <p>Right upper arm if over 1 year</p>
+      <p><br />
+      </p></td>
+    <td><p>Mild fever, pain and local swelling occasionally</p></td>
+  </tr>
+  <tr>
+    <td><p>Hib</p>
+      <p>Haemophilus influenza B</p>
+      <p><br />
+      </p></td>
+    <td><p>Part of the bacteria</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on middle shelf</p>
+      <p>Discard open vial after 7 days</p></td>
+    <td><p>0.5 ml intramuscular</p>
+      <p>Left thigh – usually as combined DPT Hib Vaccine</p>
+      <p><br />
+      </p></td>
+    <td><p>Usually, no side effects</p></td>
+  </tr>
+  <tr>
+    <td><p>Polio (OPV)</p>
+      <p>Oral Polio Vaccine</p></td>
+    <td><p>Live attenuated virus</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on top shelf</p>
+      <p>Can use if inner square lighter than outer circle</p>
+      <p>Discard open vial after 30 days</p></td>
+    <td><p>Two drops by mouth</p>
+      <p>If vomited or spat out can repeat immediately</p>
+      <p>If diarrhoea repeat dose when diarrhoea settled</p>
+      <p><br />
+      </p></td>
+    <td><p>Mild flu like illness or mild diarrhoea may occur</p></td>
+  </tr>
+  <tr>
+    <td><p>Measles</p>
+      <p>Measles vaccine</p></td>
+    <td><p>Live attenuated virus</p></td>
+    <td><p>2–8 °C</p>
+      <p>Store on top shelf</p>
+      <p>Discard open vial after 6 hours</p></td>
+    <td><p>0.5 ml intramuscular</p>
+      <p>Right thigh up until 1 year</p>
+      <p>Right upper arm if over 1 year</p></td>
+    <td><p>Mild fever or transient red rash are not uncommon 6–11 days post immunisation</p>
+      <p>High fever is uncommon</p>
+      <p>Encephalitis is extremely rare</p></td>
+  </tr>
+</table>
 
-An immunisation record
+![Figure 2-2: Road-to-Health Card immunisation record](images/2-2.svg)
 
-Figure 2.2: Summary of immunisations routinely used
-
-Figure 2.3: Road-to-Health Card immunisation record
+Figure 2-2: Road-to-Health Card immunisation record
+{:.figure-caption}
 
 
 
 3
+{:.chapter-number}
 
-Growth and development
+# Growth and development
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
-Measure the size of a child to assess growth.
+*	Measure the size of a child to assess growth.
+*	Know the value of growth monitoring.
+*	Use centile charts and growth curves.
+*	Understand different growth patterns.
+*	Identify obese children.
+*	Use the growth chart on the Road-to-Health Card.
+*	Assess neurodevelopment.
 
-Know the value of growth monitoring.
-
-Use centile charts and growth curves.
-
-Understand different growth patterns.
-
-Identify obese children.
-
-Use the growth chart on the Road-to-Health Card.
-
-Assess neurodevelopment.
-
-Introduction
+## Introduction
 
 ### 3-1 What is growth?
 
 Growth is the increase in body size over a period of time. In order to assess growth, some measure of body size has to be accurately measured on two or more occasions.
 
-Growth is the increase of body size over a period of time.
-
-
+> Growth is the increase of body size over a period of time.
 
 Growth is best assessed by determining the child’s:
 
-Size compared to other children of the same age
+*	Size compared to other children of the same age
+*	Growth curve
+*	Growth pattern
 
-Growth curve
-
-Growth pattern
-
-Measuring body size
+## Measuring body size
 
 ### 3-2 How is body size determined in children?
 
 The following 3 measurements of body size are commonly used in children:
 
-Weight: This is the most commonly used measure of body size as it is easy and accurate to weigh a child.
+1.	Weight: This is the most commonly used measure of body size as it is easy and accurate to weigh a child.
+1.	Height or length: This is a very useful measure of size, especially in older children. However, it is more difficult to measure accurately. Height is measured with the child standing. In infants the measurement is taken lying down and is then called length. A child’s length and height are the same.
+1.	Head circumference: This is also a useful measure of size but must be measured correctly.
 
-Height or length: This is a very useful measure of size, especially in older children. However, it is more difficult to measure accurately. Height is measured with the child standing. In infants the measurement is taken lying down and is then called length. A child’s length and height are the same.
-
-Head circumference: This is also a useful measure of size but must be measured correctly.
-
-Weight is the most common way of assessing body size in children.
-
-
+> Weight is the most common way of assessing body size in children.
 
 ### 3-3 How is weight measured?
 
@@ -1657,7 +1554,7 @@ Height must be measured with the child standing barefoot. Keep both heels on the
 
 Under 2 years: It is difficult to measure an infant’s standing height. Therefore, the lying length is measured. If possible, a measuring board should be used. The infant is laid down on his/her back with legs fully extended. One person holds the infant’s head against the top board while another person gently stretches the infant’s legs, keeping the knees flat and pressing the heels of the infant’s feet against the bottom board. Measuring the distance, to the nearest 1 mm, between the boards gives the length of the infant. It is inaccurate to simply measure length with a tape measure.
 
-For convenience, height is used in this unit. However, whatever is said about the height of older children, applies equally to the length of infants and young children.
+For convenience, height is used in this chapter. However, whatever is said about the height of older children, applies equally to the length of infants and young children.
 
 ### 3-5 How should head circumference be measured?
 
@@ -1667,11 +1564,9 @@ It can be difficult to the measure head circumference accurately. Use a measurin
 
 Weight should be measured and recorded every month for the first year of life, as young children grow fast.
 
-Children should be weighed every 6 months between 1 and 5 years.
-
-Height should be measured every year.
-
-Head circumference is not routinely measured unless there is a good reason.
+*	Children should be weighed every 6 months between 1 and 5 years.
+*	Height should be measured every year.
+*	Head circumference is not routinely measured unless there is a good reason.
 
 In addition, a child’s weight should also be measured and recorded every time the child is seen at a clinic, hospital or by a general practitioner.
 
@@ -1679,23 +1574,19 @@ In addition, a child’s weight should also be measured and recorded every time 
 
 The best method to assess growth is to measure the child’s size (e.g. weight) and then to repeat the measurements a few months later. The increase in size is due to growth. The greater the increase, the faster the child is growing. If there is no increase, the child is not growing. For this reason it is important to record a child’s size and plot the measurements on a growth chart at every clinic visit.
 
-The importance of growth monitoring
+## The importance of growth monitoring
 
 ### 3-8 What is growth monitoring?
 
 Growth monitoring is the regular measurement of a child’s size in order to document growth. The child’s size measurements must then be plotted on a growth chart. This is extremely important as it can detect early changes in a child’s growth. Both growing too slowly or too fast may indicate a nutritional or other health problem. Therefore, growth monitoring is an essential part of primary health care in children. Measuring a child’s size is of very little value unless it is used for growth monitoring.
 
-Growth monitoring is an essential part of primary health care in children.
-
-
+> Growth monitoring is an essential part of primary health care in children.
 
 ### 3-9 What is the value of weight in growth monitoring?
 
 Weight-for-age is usually used to monitor growth. It is particularly useful in small infants who normally gain weight fast. Normal weight gain suggests that the infant is healthy and growing normally. Failure to gain weight normally is often the earliest sign of illness or malnutrition (i.e. undernutrition). Therefore, a child’s weight should be measured at every clinic visit in order to monitor growth.
 
-Weight should be measured and plotted on a growth chart at every clinic visit.
-
-
+> Weight should be measured and plotted on a growth chart at every clinic visit.
 
 ### 3-10 What is the value of measuring height and head circumference?
 
@@ -1707,19 +1598,15 @@ Therefore, measuring head circumference is most useful in young children, and he
 
 If a child’s weight gain is normal, the height and head circumference is usually also normal. However, it is particularly important to measure height and head circumference in children who are not gaining weight normally.
 
-Height is an important measure of growth, especially in older children.
-
-
+> Height is an important measure of growth, especially in older children.
 
 ### 3-11 Can an infant’s growth be determined at a single clinic visit?
 
 No, as the definition of growth is a change in body size over a period of time. Therefore, some other form of assessment of growth is needed when you cannot wait a few weeks or months to decide whether the child is growing normally or not. An assessment of growth can be made if the size of a child is compared to the size of other children of the same age. In order to do this, the normal (i.e. average size) range of children of that age is needed. If the child’s size is the same as most other children of the same age, then the child is probably growing normally. The most commonly used growth charts are centile charts.
 
-An assessment of growth can be made by comparing a child’s size to that of other children of the same age.
+> An assessment of growth can be made by comparing a child’s size to that of other children of the same age.
 
-
-
-Centile charts
+## Centile charts
 
 ### 3-12 What is a centile chart?
 
@@ -1727,9 +1614,7 @@ A centile chart is a size for age chart that is used to decide whether the size 
 
 A centile chart is based on the size measurements of thousands of healthy children recorded at different ages. A centile chart is made up of lines called centiles.
 
-The growth of healthy children usually follows the centile lines.
-
-
+> The growth of healthy children usually follows the centile lines.
 
 Note
 :	With increasing age, the centiles move further and further apart, as some normal children grow faster and others slower than the average. As a result, the normal range becomes wider. Boys are slightly larger than girls. However, the same charts are often used for both boys and girls when routinely plotting size-for-age.
@@ -1745,9 +1630,7 @@ Note
 
 The size of most children (94%) falls between the 3rd and the 97th centiles. These children are regarded as having a normal (average or appropriate) size for their age and are growing well. Centile charts, therefore, indicate the range of normal growth.
 
-The range of size between the 97th and 3rd centiles is regarded as normal.
-
-
+> The range of size between the 97th and 3rd centiles is regarded as normal.
 
 Note
 :	The size range for older children is different to that in newborn infants when the 10th and 90th centiles are used to define appropriate size for gestational age.
@@ -1756,7 +1639,7 @@ Note
 
 Weight, height (or length), head circumference and weight-for-height can all be plotted on a centile chart. Weight is the measurement most commonly plotted on a centile chart.
 
-International centile charts are shown at the end of this unit.
+*International centile charts are shown at the end of this chapter.*
 
 ### 3-16 When is a child larger than normal?
 
@@ -1773,15 +1656,18 @@ Recently Z-scores (standard deviations from the mean) have also been used to ass
 
 ### 3-18 How should you plot a child’s weight on a centile chart?
 
-Make a mark along the bottom of the chart opposite the age of the child. Now draw an imaginary vertical line up from the mark.
-
-Similarly, make a mark opposite the child’s weight along the left or right hand side of the chart. Now draw an imaginary horizontal line from that mark.
-
-Make a dot at the point on the chart where the two imaginary lines meet. This is called plotting the weight. It will give the child’s weight for its age.
+1.	Make a mark along the bottom of the chart opposite the age of the child. Now draw an imaginary vertical line up from the mark.
+1.	Similarly, make a mark opposite the child’s weight along the left or right hand side of the chart. Now draw an imaginary horizontal line from that mark.
+1.	Make a dot at the point on the chart where the two imaginary lines meet. This is called plotting the weight. It will give the child’s weight for its age.
 
 The same method is used to plot the infant’s height (or length) and head circumference on centile charts.
 
 At the first visit it is helpful to fill in the calendar months along the bottom of the centile chart, starting with the month in which the child was born. This is done so that further growth is easily plotted.
+
+![Figure 3-1: Plotting a child’s weight on a centile chart](images/3-1.svg)
+
+Figure 3-1: Plotting a child’s weight on a centile chart
+{:.figure-caption}
 
 ### 3-19 Can length and height both be plotted on the same chart?
 
@@ -1791,23 +1677,24 @@ Yes. As a child gets older height can be plotted on the chart used before to plo
 
 The weight-for-height gives an idea of how fat or thin a child is. Thin children have a low weight for their height while fat children have a high weight-for-height. Often the body mass index (weight in kg divided by height in metres) is used to determine fatness or thinness.
 
-Growth curves
+## Growth curves
 
 ### 3-21 What is a growth curve?
 
 A growth curve (or growth line) illustrates the way a child is growing over a period of time. A growth curve can be determined when a child’s size measurements have been made on two or more visits and have been plotted as dots on a centile chart. If these dots are now joined together with a line, you will have a growth curve. Therefore, the best way to assess growth is to look at the growth curve over the past few months and compare the growth curve to the centiles.
 
-A growth curve is a line linking size measurements recorded over time.
+> A growth curve is a line linking size measurements recorded over time.
 
+![Figure 3-2: A normal growth curve plotted on a centile chart](images/3-2.svg)
 
+Figure 3-2: A normal growth curve plotted on a centile chart
+{:.figure-caption}
 
 ### 3-22 What is the value of a growth curve?
 
 A growth curve shows not only whether the child’s size is normal or not, but also whether the child is growing normally, faster or slower than expected. Therefore, a growth curve is a far better method of assessing growth than using size measurements taken on one occasion only as it reflects the child’s growth rate.
 
-A growth curve indicates the child’s growth rate.
-
-
+> A growth curve indicates the child’s growth rate.
 
 ### 3-23 What is the normal growth rate?
 
@@ -1815,9 +1702,7 @@ If the child’s growth rate is normal, the growth curve will closely follow alo
 
 A normal growth curve is plotted in Figure 3.2.
 
-A normal growth curve follows the centile lines.
-
-
+> A normal growth curve follows the centile lines.
 
 Note
 :	Special growth rate charts can be used to determine accurately whether a child’s growth rate is normal or not. These charts are useful during the growth spurt of puberty.
@@ -1833,9 +1718,7 @@ Note
 
 In younger children, weight is the most sensitive index of growth and poor weight gain is usually the first sign of malnutrition. In older children, height is the better index of growth.
 
-Height is the best index of growth in older children.
-
-
+> Height is the best index of growth in older children.
 
 ### 3-26 Is it important if a child is heavier than normal?
 
@@ -1849,7 +1732,7 @@ This is a very important observation. Some children who weigh less than normal a
 
 Determine the child’s growth pattern.
 
-Growth patterns
+## Growth patterns
 
 ### 3-29 What is a growth pattern?
 
@@ -1859,21 +1742,15 @@ Most normal healthy children have a weight, height and head circumference within
 
 ### 3-30 What other growth patterns are common? 
 
-Large-for-age
-
-Overweight-for-age
-
-Wasted
-
-Growth faltering
-
-Stunted
+*	Large-for-age
+*	Overweight-for-age
+*	Wasted
+*	Growth faltering
+*	Stunted
 
 These growth patterns indicate that the child may have a medical, nutritional or social problem. It is, therefore, very important that all children who do not have a normal growth pattern are identified as soon as possible in order that they can be carefully examined. Some of these children will be healthy even if their growth pattern differs from the average.
 
-It is important to identify children who have a growth pattern that differs from the average growth pattern.
-
-
+> It is important to identify children who have a growth pattern that differs from the average growth pattern.
 
 ### 3-31 How can you recognise a large-for-age child?
 
@@ -1899,26 +1776,25 @@ Note
 
 Infants with growth faltering (failure to thrive or slow growth) have not been gaining weight normally. Their weight may be static (remaining the same) or may even be dropping. Their height and head circumference may also not be increasing normally. This is a very important growth pattern to recognise as most of these children have a medical, nutritional or social problem, which needs to be urgently diagnosed and managed. Faltering weight gain must be detected as soon as possible so that the cause can be corrected. Growth faltering may be the first sign of HIV infection.
 
-Slow growth or growth faltering are important signs that the child may be ill or not getting enough food.
+> Slow growth or growth faltering are important signs that the child may be ill or not getting enough food.
 
+![Figure 3-3: A growth-faltering curve plotted on a centile chart](images/3-3.svg)
 
+Figure 3-3: A growth-faltering curve plotted on a centile chart
+{:.figure-caption}
 
 ### 3-35 How can you recognise stunting?
 
 Stunted children are shorter than normal for their age. As they are often symmetrically small and do not look thin, their stunting is often missed. Usually their growth curves have followed the centiles although their weight, height and head circumference all fall below the 3rd centile. Stunting usually occurs before 3 years of life.
 
-It is very important to identify all children with a height below the 3rd centile.
-
-
+> It is very important to identify all children with a height below the 3rd centile.
 
 Note
 :	Children who are symmetrically small (stunted) often have a normal growth rate. They are simply growing parallel to, but below, the 3rd centile.
 
 The most common cause of stunting is chronic malnutrition during the first years of life. However, some healthy short children are genetically small, and look like their parents. Being born very pre-term or growth-restricted can also result in stunting. Some important medical disorders, such as Foetal Alcohol Syndrome, can cause stunting.
 
-The most common cause of stunting is chronic malnutrition.
-
-
+> The most common cause of stunting is chronic malnutrition.
 
 ### 3-36 What is the long term effect of stunting?
 
@@ -1939,11 +1815,11 @@ Love and emotional security are needed for normal growth. Stressed and emotional
 Note
 :	Growth hormone is not secreted normally in emotionally deprived children. This has been well-documented in some children in orphanages.
 
-Overweight and obesity
+## Overweight and obesity
 
 ### 3-40 How do you decide whether a child is overweight?
 
-It is better not to use weight alone to decide whether a child is overweight as some children are heavy because they are simply big while others are heavy because they are fat. Usually the body mass index for age (i.e. weight in kg/height in m2) is used to decide whether a child is overweight due to excess fat. Special charts are used to define the normal body mass index for age. A body mass index for age between the 5th and 85th centiles is usually regarded as normal.
+It is better not to use weight alone to decide whether a child is overweight as some children are heavy because they are simply big while others are heavy because they are fat. Usually the body mass index for age (i.e. weight in kg/height in m²) is used to decide whether a child is overweight due to excess fat. Special charts are used to define the normal body mass index for age. A body mass index for age between the 5th and 85th centiles is usually regarded as normal.
 
 Note
 :	Even body mass index cannot always differentiate between obesity and a high lean mass.
@@ -1959,34 +1835,28 @@ Note
 
 There is still no internationally accepted method of defining obesity in childhood. However, the clinical diagnosis can usually be made on simple inspection of the child as these children appear very fat. A body mass index for age above the 97th centile is regarded as obesity in older children and adolescents.
 
-The diagnosis of obesity can usually be made by simple inspection.
-
-
+> The diagnosis of obesity can usually be made by simple inspection.
 
 Note
 :	A high skin-fold thickness can also be used to define obesity. Waist circumference may also be useful. Short, fat children need investigation for endocrine abnormalities.
 
 Obesity is a common childhood problem in affluent countries and over the past 20 years has reached epidemic proportions in some communities, especially with girls. Obese children have excessive fat stores due to a high energy intake and inadequate exercise. The cause is almost always due to the child’s lifestyle. Fast foods, soft (fizzy) drinks and hours of watching TV each day are associated with obesity, as is rapid weight gain in infancy. Genetic factors are not as important as diet. However, many obese children have obese parents. Obese children have difficulty with sports and often have emotional problems due to a poor body image and lack of self confidence. They are miserable and unhappy with their weight and shape. Obese children, and especially obese adolescents, are at increased risk of growing up to be obese adults with a high risk of chronic illnesses in adulthood (hypertension, type II diabetes and heart disease).
 
-Childhood obesity is a major problem in wealthy countries.
-
-
+> Childhood obesity is a major problem in wealthy countries.
 
 ### 3-43 How do you manage childhood obesity?
 
 This is very difficult and often not successful. Management consists of a low-calorie diet, increased exercise and family therapy. The whole family needs to be educated about healthy eating and lifestyle behaviour. The goal is to lose weight and then maintain a normal weight. A motivated child and parents are essential if the management is to be successful. The help of a dietician is valuable in drawing up a balanced diet that is practical, affordable and not too high in energy. Bad eating habits of the whole community should be addressed. Soft drinks and refined foods should be avoided and time watching TV limited Emotional support and psychological counseling are often needed. Good eating habits for the family should prevent obesity.
 
-The Road-to-Health Card
+## The Road-to-Health Card
 
 ### 3-44 What is the Road-to-Health Card?
 
 The patient-held Road-to-Health Card is the child’s formal medical record. It gives the child’s medical history, immunisation record, developmental milestones and growth record. Growth is plotted on a weight-for-age chart (growth chart) which is part of the Road-to-Health Card.
 
-A blank Road-to-Health Card growth chart is given at the end of this unit.
+*A blank Road-to-Health Card growth chart is given at the end of this chapter.*
 
-The Road-to-Health Card is an essential part of good primary care.
-
-
+> The Road-to-Health Card is an essential part of good primary care.
 
 ### 3-45 What is the importance of the growth chart?
 
@@ -1994,9 +1864,7 @@ The weight-for-age chart is an essential part of the Road-to-Health Card. The ar
 
 Monitoring weight gain or loss on the Road-to-Health Card is one of the most important methods of identifying children at risk of malnutrition. This is a major part of primary health care. It is important that each mother understands and takes an interest in her child’s Road-to-Health Card.
 
-The growth chart is an extremely important method of screening children for malnutrition.
-
-
+> The growth chart is an extremely important method of screening children for malnutrition.
 
 ### 3-46 When should the Road-to-Health Card be used?
 
@@ -2012,18 +1880,15 @@ If failure to gain weight adequately does not respond to management at a primary
 
 Usually these children are referred to a special nutritional clinic where the following steps should be followed:
 
-Exclude any chronic illness such as tuberculosis or HIV infection.
-
-A dietician or nutritional counselor should educate the mother or caregiver.
-
-A social worker should interview the mother or caregiver and assist where help is needed.
-
-If the child is still not improving, refer to a paediatrician.
+1.	Exclude any chronic illness such as tuberculosis or HIV infection.
+1.	A dietician or nutritional counselor should educate the mother or caregiver.
+1.	A social worker should interview the mother or caregiver and assist where help is needed.
+1.	If the child is still not improving, refer to a paediatrician.
 
 Note
 :	Important medical problems such as mal­absorption, hypothyroidism, diabetes, urinary tract infection and chronic heart disease must be excluded.
 
-Neurodevelopment
+## Neurodevelopment
 
 ### 3-48 What is neurodevelopment?
 
@@ -2033,9 +1898,7 @@ Neurodevelopment is the progressive, orderly change of behaviour and activities 
 
 Developmental milestones are used to monitor neurodevelopment in childhood. These are easily observable developmental achievements such as smiling, sitting and walking. Milestones are assessed by both history and examination. The neurodevelopmental monitoring of milestones must be part of the routine growth and developmental screening of all children.
 
-Milestones are used to assess neurodevelopment in childhood.
-
-
+> Milestones are used to assess neurodevelopment in childhood.
 
 Note
 :	The formal assessment of neurodevelopment is often divided into:
@@ -2051,30 +1914,22 @@ Neurodevelopmental milestones are largely predictable as children get older alth
 
 The following milestones should be achieved:
 
-Smile at mother: 8 weeks
-
-Good head control: 6 months
-
-Sit unsupported: 9 months
-
-Crawl well: 12 months
-
-Make babbling noises (‘baby sounds’): 12 months
-
-Stand without help: 15 months
-
-Walk without help: 18 months
-
-Understand simple commands: 24 months
-
-Use one or two words: 36 months
+1.	Smile at mother: 8 weeks
+1.	Good head control: 6 months
+1.	Sit unsupported: 9 months
+1.	Crawl well: 12 months
+1.	Make babbling noises (‘baby sounds’): 12 months
+1.	Stand without help: 15 months
+1.	Walk without help: 18 months
+1.	Understand simple commands: 24 months
+1.	Use one or two words: 36 months
 
 Normally developing children should reach these milestones before (often long before) these cut-off ages.
 
 Note
 :	A number of formal screening tools are used to monitor neurodevelopment. The Denver Developmental Screening Test is commonly used in children from birth to 6 years of age. Language and cognitive development is often screened at school, e.g. ‘IQ’ testing.
 
-Sexual development
+## Sexual development
 
 ### 3-51 What is puberty?
 
@@ -2089,141 +1944,202 @@ These can be formally graded into 5 stages (from pre-puberty to full sexual deve
 Note
 :	These are the stages described by Tanner.
 
-Case study 1
+## Case study 1
 
 A 12-week-old infant is seen at a routine visit for immunisation. The infant’s weight is measured and found to fall below the 3rd centile. The birth weight was normal (3000 g) at term. The child appears well. The mother has stopped breastfeeding.
 
-1. What does this child’s weight at 6 weeks suggest?
+### 1. What does this child’s weight at 6 weeks suggest?
 
 This child is not thriving, either due to inadequate feeds or illness. The problem is probably that the mother has stopped breastfeeding. She needs nutritional advice and the infant must be closely followed up.
 
-2. What is the value of using a weight-for-age chart to assess a child’s weight?
+### 2. What is the value of using a weight-for-age chart to assess a child’s weight?
 
 Plotting weight for age on a Road-to-Health Card is an excellent way of deciding whether an infant’s weight falls within the average range. It is only of limited value knowing the weight if it is not compared to the weight of other healthy children of the same age.
 
-3. What does the 3rd centile mean?
+### 3. What does the 3rd centile mean?
 
 It means that only 3% of healthy children of that age will weigh less. The 3rd centile is usually used as the bottom of the normal range.
 
-4. What is a growth curve?
+### 4. What is a growth curve?
 
 A growth curve is obtained by joining measurements plotted on a centile chart (growth chart) over a period of time. Knowing this child’s weight at birth and at 6 weeks allows you to draw a growth curve. His growth curve will be falling rather than following parallel to the centile lines. This indicates that the child is not thriving.
 
-5. What other measurement could be recorded?
+### 5. What other measurement could be recorded?
 
 It would be useful to measure and plot the circumference of the child’s head on a centile chart to see if the head size is still in the normal range.
 
-6. When does a child weigh more than normal?
+### 6. When does a child weigh more than normal?
 
 When the weight falls above the 97th centile.
 
-Case study 2
+## Case study 2
 
 A 4-year-old child gained weight normally until a few months ago when she had measles. Since then her weight has dropped from the 50th to the 10th centile. The mother is concerned that she has almost droped off the road to health (i.e. no longer following the centile line).
 
-1. Is the mother correct to be worried?
+### 1. Is the mother correct to be worried?
 
 Yes. This pattern of weight loss (growth faltering) suggests that there is a medical problem. The child may have a complication of measles such as diarrhoea or tuberculosis.
 
-2. What is the value of monitoring growth?
+### 2. What is the value of monitoring growth?
 
 This child is a very good example of how valuable routine growth monitoring is to identify problems. The cause of her weight loss can now be investigated and corrected before her weight drops below the normal range.
 
-3. How often should a child’s weight be routinely measured to monitor growth?
+### 3. How often should a child’s weight be routinely measured to monitor growth?
 
 Monthly, until the child is 1-year-old, and then every 6 months until they are 5. Weight should also be monitored at every visit to the clinic, hospital or general practitioner.
 
-4. How valuable is height for monitoring growth?
+### 4. How valuable is height for monitoring growth?
 
 Height is a good measure of growth over a long period of time. Therefore, height should be measured every year from 1 year. Length (usually measured while the child is under 1 year) and head circumference are not routinely measured unless there is a good indication. Weight is the best measure of growth over a short period such as the time between visits to the clinic.
 
-5. How can you detect wasting?
+### 5. How can you detect wasting?
 
 A wasted child is very thin. Weight usually falls well below the height on the centiles. The body mass index will also be low. Wasting is an important sign of malnutrition due to starvation or illness. These children usually have lost a lot of weight recently. This needs urgent investigation.
 
-Case study 3
+## Case study 3
 
 A 5-year-old child is examined at a preschool. Both her weight and height fall equally below the 3rd centile. She does not appear to be thin and looks generally well. She has attended the local clinic regularly and her size has been well documented as following the centiles on her Road-to-Health Card since birth. At birth she weighed 2000 g at term.
 
-1. What is the growth pattern of his child?
+### 1. What is the growth pattern of his child?
 
 This child is stunted. Plotting her weight and height for age shows that she is symmetrically small as both weight and height are equally low on the centiles.
 
-2. What is the common cause of this growth pattern?
+### 2. What is the common cause of this growth pattern?
 
 Usually chronic malnutrition (undernutrition) is the cause of slow growth in poor communities. However the size of this child has followed the centiles from birth. She was underweight for her gestational age at birth. This is the probable cause of her stunting. Always examine the child well as she may have a medical cause of slow growth, such as Foetal Alcohol Syndrome.
 
-3. How should she be managed?
+### 3. How should she be managed?
 
 Her mother should be given dietary advice and reassured. It would be important to follow this child’s growth. 
 
-4. What are the effects of emotion on growth?
+### 4. What are the effects of emotion on growth?
 
 Emotional stress and insecurity prevent normal growth. Therefore stunting can also be the result of emotional as well as nutritional deprivation.
 
-5. Can poor growth affect the timing of puberty?
+### 5. Can poor growth affect the timing of puberty?
 
 Yes. Puberty occurs earlier in well nourished children than children who are growing slowly because of malnutrition.
 
-Case study 4
+## Case study 4
 
 A mother is worried that her daughter is overweight. Her weight falls above the 97th centile while her height is on the 75th centile. The mother also looks overweight.
 
-1. Can you use weight for age to tell if a child is too fat?
+### 1. Can you use weight for age to tell if a child is too fat?
 
 Any child with a weight above the 97th centile weighs more than normal. However, if her height is similarly over the 97th centile, she is probably just a big child for her age. Therefore, a high weight for age alone does necessarily mean the child is too fat.
 
-2. Which children are overweight?
+### 2. Which children are overweight?
 
 The term ‘overweight’ is used to mean that the child is too fat. As this child is very heavy for her age with a normal height, she probably is overweight.
 
-3. How can you confirm that this child is overweight?
+### 3. How can you confirm that this child is overweight?
 
-Her weight and height should be used to calculate the body mass index for age (weight/height2).
+Her weight and height should be used to calculate the body mass index for age (weight/height²).
 
 The definition of overweight is a body mass index between the 85th and 95th centile, while obese children have a body mass index above the 97th centile.
 
-4. Is being overweight an inherited problem?
+### 4. Is being overweight an inherited problem?
 
 Overweight children often have overweight parents. While genetic factors are important, most overweight children eat too much and have too little exercise.
 
-5. What are the complications of being overweight or obese?
+### 5. What are the complications of being overweight or obese?
 
 Overweight and obese children often have difficulty with sports and may have emotional problems due to a poor body image. Obese children often grow up to be obese adults with an increased risk of hypertension, diabetes and heart disease.
 
-6. How should overweight children be managed?
+### 6. How should overweight children be managed?
 
 It is difficult to get an overweight child to lose weight. The whole family has to be educated and involved in a weight loss programme. A dietician may be helpful in drawing up a well-balanced diet that is practical, affordable and not too high in energy. Time spent watching TV must be limited and exercise encouraged.
 
+## International centile charts
+
+![Figure 3-4: The Growth Monitoring Chart on the the Road-to-Health Card](images/3-4.svg)
+
+Figure 3-4: The Growth Monitoring Chart on the the Road-to-Health Card
+{:.figure-caption}
+
+![Figure 3-5: Weight-for-age percentiles: Boys, birth to 36 months](images/3-5.svg)
+
+Figure 3-5: Weight-for-age percentiles: Boys, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-6: Weight-for-age percentiles: Girls, birth to 36 months](images/3-6.svg)
+
+Figure 3-6: Weight-for-age percentiles: Girls, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-7: Length-for-age percentiles: Boys, birth to 36 months](images/3-7.svg)
+
+Figure 3-7: Length-for-age percentiles: Boys, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-8: Length-for-age percentiles: Girls, birth to 36 months](images/3-8.svg)
+
+Figure 3-8: Length-for-age percentiles: Girls, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-9: Head circumference-for-age percentiles: Boys, birth to 36 months](images/3-9.svg)
+
+Figure 3-9: Head circumference-for-age percentiles: Boys, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-10: Head circumference-for-age percentiles: Girls, birth to 36 months](images/3-10.svg)
+
+Figure 3-10: Head circumference-for-age percentiles: Girls, birth to 36 months
+{:.figure-caption}
+
+![Figure 3-11: Weight-for-age percentiles: Boys, 2 to 20 years](images/3-11.svg)
+
+Figure 3-11: Weight-for-age percentiles: Boys, 2 to 20 years
+{:.figure-caption}
+
+![Figure 3-12: Weight-for-age percentiles: Girls, 2 to 20 years](images/3-12.svg)
+
+Figure 3-12: Weight-for-age percentiles: Girls, 2 to 20 years
+{:.figure-caption}
+
+![Figure 3-13: Stature-for-age percentiles: Boys, 2 to 20 years](images/3-13.svg)
+
+Figure 3-13: Stature-for-age percentiles: Boys, 2 to 20 years
+{:.figure-caption}
 
 
+![Figure 3-14: Stature-for-age percentiles: Girls, 2 to 20 years](images/3-14.svg)
 
+Figure 3-14: Stature-for-age percentiles: Girls, 2 to 20 years
+{:.figure-caption}
+
+
+![Figure 3-15: Body mass index-for-age percentiles: Boys, 2 to 20 years](images/3-15.svg)
+
+Figure 3-15: Body mass index-for-age percentiles: Boys, 2 to 20 years
+{:.figure-caption}
+
+
+![Figure 3-16: Body mass index-for-age percentiles: Girls, 2 to 20 years](images/3-16.svg)
+
+Figure 3-16: Body mass index-for-age percentiles: Girls, 2 to 20 years
+{:.figure-caption}
 
 
 
 4
+{:.chapter-number}
 
-Nutrition
+# Nutrition
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
-Define normal nutrition and mal­nutrition.
+*	Define normal nutrition and mal­nutrition.
+*	List the main food groups.
+*	List the important forms of mal­nutrition.
+*	Diagnose and manage protein-energy malnutrition.
+*	Diagnose and manage vitamin deficiencies.
+*	Diagnose and manage iron deficiency.
+*	List the common causes of anaemia.
 
-List the main food groups.
-
-List the important forms of mal­nutrition.
-
-Diagnose and manage protein-energy malnutrition.
-
-Diagnose and manage vitamin deficiencies.
-
-Diagnose and manage iron deficiency.
-
-List the common causes of anaemia.
-
-Introduction
+## Introduction
 
 ### 4-1 What is nutrition?
 
@@ -2235,9 +2151,7 @@ The nutritional state (or the state of nutrition) is the child’s physical appe
 
 The nutritional state is evaluated by clinical examination to determine whether the child is underweight or overweight, stunted, wasted or obese, or shows any signs of nutritional deficiency. Therefore, the nutritional state is an indirect measure of the child’s diet.
 
-Nutrition is what we eat, while our nutritional state is what we look like. Good nutrition in a healthy child results in a normal nutritional state and normal growth.
-
-
+> Nutrition is what we eat, while our nutritional state is what we look like. Good nutrition in a healthy child results in a normal nutritional state and normal growth.
 
 ### 4-3 What is normal nutrition?
 
@@ -2245,27 +2159,21 @@ Children with normal nutrition receive the correct amount of all the essential t
 
 Although the type of food varies with age, it is important that all children have an adequate diet which contains all the main nutrients in the correct proportion. If the amount of one or more of the nutrients is inadequate, the result is malnutrition. Excessive nutrients can also cause problems, especially obesity.
 
-Good nutrition is a diet which contains the correct amount of all the main nutrients.
-
-
+> Good nutrition is a diet which contains the correct amount of all the main nutrients.
 
 ### 4-4 What are the main nutrients in the diet?
 
 The major nutrients (food groups) are:
 
-Energy foods
-
-Protein foods
-
-Micronutrients
-
-Water
+*	Energy foods
+*	Protein foods
+*	Micronutrients
+*	Water
 
 ### 4-5 What are energy foods?
 
-Carbohydrates
-
-Fats and oils
+*	Carbohydrates
+*	Fats and oils
 
 Both carbohydrates and fats are important because they provide the body with energy. Too much energy food causes obesity while too little results in failure to thrive or even weight loss.
 
@@ -2293,13 +2201,10 @@ Meat, dairy products, beans, peas and lentils contain high quality protein rich 
 
 ### 4-9 What are micronutrients?
 
-Minerals and electrolytes such as sodium, potassium, calcium, chloride and bicarbonate
-
-Trace elements such as copper, zinc, iodine and selenium
-
-Vitamins such as fat soluble vitamins (A, D and E) and water soluble vitamins (B and C) 
-
-Iron
+*	Minerals and electrolytes such as sodium, potassium, calcium, chloride and bicarbonate
+*	Trace elements such as copper, zinc, iodine and selenium
+*	Vitamins such as fat soluble vitamins (A, D and E) and water soluble vitamins (B and C) 
+*	Iron
 
 ### 4-10 What is a well-balanced diet?
 
@@ -2307,7 +2212,7 @@ A well-balanced diet contains adequate amounts of all the major food groups. A d
 
 Many foods are made up of more than one food group, e.g. nuts contain carbohydrates, oils and proteins. Mixing foods can give a balanced meal, e.g. maize for energy with beans for protein or milk for protein and porridge for energy.
 
-A well-balanced diet contains adequate amounts of all the major food groups.
+> A well-balanced diet contains adequate amounts of all the major food groups.
 
 
 
@@ -2326,15 +2231,13 @@ Complementary foods are given to fill the gap between the total nutritional need
 Note
 :	The advantages and risks of breastfeeding must be carefully considered in infants born to HIV positive women.
 
-Malnutrition
+## Malnutrition
 
 ### 4-12 What is malnutrition?
 
 An abnormal nutritional state can be caused by too little or too much of one or more of the important food groups in the diet. Abnormal nutrition leads to a number of different nutritional problems. While obesity is also a form of abnormal nutrition, the term malnutrition is usually used to refer to children with undernutrition.
 
-Children with malnutrition are not receiving adequate amounts of one or more important nutrient.
-
-
+> Children with malnutrition are not receiving adequate amounts of one or more important nutrient.
 
 Note
 :	In wealthy countries, obesity is the commonest form of abnormal nutrition.
@@ -2347,27 +2250,21 @@ Most children with malnutrition are underweight, stunted or thin. Therefore, a c
 
 These are children who have a body weight for their age that is below the 3rd centile. Therefore, they weigh less than the normal range for their age. Many have been underweight for months or years while others have only recently lost weight. Malnutrition should be considered in all underweight children. There are, however, many causes of being underweight other than malnutrition (e.g. being born preterm).
 
-Malnutrition must be considered in all underweight children.
-
-
+> Malnutrition must be considered in all underweight children.
 
 ### 4-15 Which children are stunted?
 
 These children have a height less than the 3rd centile. They are, therefore, shorter than normal. Stunting suggests slow growth for a long time. Most stunted children are also underweight but often do not appear wasted. As a result their poor growth is often not recognised if they are not measured. Malnutrition or a chronic illness should be considered in all stunted children.
 
-Stunting always suggests a chronic health problem or malnutrition.
-
-
+> Stunting always suggests a chronic health problem or malnutrition.
 
 ### 4-16 Which children are wasted?
 
 A wasted child has lost weight with a weight for height below the 3rd centile Wasting can be diagnosed by clinically examining the child. These children have very little subcutaneous fat and muscle. Their arms and legs are particularly thin and they have loose skin and soft tissue around the upper arms and thighs. Wasting is an important sign and must always be taken seriously. It indicates a recent serious loss of weight. Wasting in children indicates either fairly recent onset of malnutrition or they have a serious illness such as malabsorption, malignancy or chronic infection (such as tuberculosis or HIV).
 
-Wasting is an important sign of malnutrition.
+> Wasting is an important sign of malnutrition.
 
-
-
-Assessing weight, height and weight for height by the correct use of centile charts is discussed in Unit 3.
+*Assessing weight, height and weight for height by the correct use of centile charts is discussed in [chapter 3](3.html).*
 
 Note
 :	Measuring the mid upper arm circumference is a good screening test for wasting. These children will also have a low body mass index.
@@ -2378,27 +2275,21 @@ Because malnutrition is common, especially in poor countries. It is directly or 
 
 Malnutrition is closely linked with both poverty and ignorance. Preventing malnutrition is one of the main goals of programmes that address poverty.
 
-Malnutrition is a common cause of childhood death, especially in poor countries.
-
-
+> Malnutrition is a common cause of childhood death, especially in poor countries.
 
 ### 4-18 How is a clinical diagnosis of malnutrition confirmed?
 
 By taking a careful dietary history. You must ask about the type of food, amount of food and frequency of feeds. If the diet appears to be good according to the mother’s history, consider a disease such as chronic diarrhoea or infection as the cause of the child’s poor nutritional state. Many illnesses can lead to malnutrition, e.g. measles. Sometimes, only a response to a good diet confirms the diagnosis of malnutrition due to a poor diet.
 
-The diagnosis of malnutrition is confirmed by taking a careful dietary history.
-
-
+> The diagnosis of malnutrition is confirmed by taking a careful dietary history.
 
 ### 4-19 What are the common forms of malnutrition?
 
-Protein-energy malnutrition
+*	Protein-energy malnutrition
+*	Vitamin deficiencies
+*	Trace element deficiency
 
-Vitamin deficiencies
-
-Trace element deficiency
-
-Protein energy malnutrition
+## Protein energy malnutrition
 
 ### 4-20 What is protein-energy malnutrition?
 
@@ -2406,19 +2297,14 @@ Protein-energy malnutrition (PEM) consists of a range of clinical conditions cau
 
 ### 4-21 What are the forms of protein-energy malnutrition?
 
-Underweight for age (UWFA)
-
-Marasmus
-
-Kwashiorkor
-
-Marasmic kwashiorkor
+*	Underweight for age (UWFA)
+*	Marasmus
+*	Kwashiorkor
+*	Marasmic kwashiorkor
 
 Children with marasmus, kwashiorkor or marasmic kwashiorkor have severe mal­nutrition. These different forms of severe malnutrition are often considered together as their causes are similar and they are managed in the same way.
 
-Children with severe malnutrition have signs of marasmus or kwashiorkor or both.
-
-
+> Children with severe malnutrition have signs of marasmus or kwashiorkor or both.
 
 These different forms of malnutrition are identified by the child’s weight for age, the degree of wasting, and by the presence or absence of oedema of the feet. In addition to examining and measuring these children, it is important to also obtain as detailed a dietary history as possible.
 
@@ -2426,9 +2312,7 @@ These different forms of malnutrition are identified by the child’s weight for
 
 Underweight-for-age (or ‘low weight’) is defined as a weight for age that falls below the 3rd centile. This means that they weigh less than the normal range. Many of these children are ‘failing to thrive’. They appear clinically well and do not look undernourished. They do not have oedema. Unless they are weighed, and their weight is plotted on a centile chart, the diagnosis is frequently missed. Underweight-for-age is the commonest form of malnutrition.
 
-Being underweight-for-age is the commonest form of malnutrition.
-
-
+> Being underweight-for-age is the commonest form of malnutrition.
 
 Note
 :	Using the Wellcome classification of PEM, children who are UWFA have a weight which is between 60 and 80% of the median (50th centile).
@@ -2441,7 +2325,7 @@ Marasmus and kwashiorkor are always preceded by ‘underweight-for-age’. There
 
 This is the commonest form of severe malnutrition. The child’s weight is far below the 3rd centile and lies below 60% of the 50th centile (the ‘marasmus line’). These children usually appear very thin (severely wasted) and are often ill. They do not have oedema. Marasmus is usually due to starvation or severe illness such as malabsorption or AIDS.
 
-Children with marasmus are severely underweight for their age.
+> Children with marasmus are severely underweight for their age.
 
 
 
@@ -2457,23 +2341,15 @@ Note
 
 This is another severe form of protein-energy malnutrition. These children present with a characteristic syndrome which always includes oedema, especially of both feet and legs. Kwashiorkor usually occurs in children between 6 months and 2 years of age. It is an acute problem which is often precipitated by an infection such as gastroenteritis in a child who is already underweight for age. These children have a typical appearance:
 
-They are miserable, with a poor appetite.
-
-They have oedema of their legs and their face looks swollen with fat cheeks. Pressing on the back of each foot for a few seconds will show the pitting of oedema. Due to the facial oedema they may appear ‘chubby’ and their wasting is often missed.
-
-Their hair is sparse, fine and may have a reddish colour.
-
-They have areas of increased or decreased skin pigmentation with scaling, especially in the nappy area (flaky-paint rash). There may also be areas of skin which are wet and look like burns. The skin is easily damaged and may be ulcerated. Secondary bacterial skin infection is common.
-
-They have a distended abdomen and an enlarged liver.
-
-Angular stomatitis is common with painful cracking at the angles of the mouth.
-
-Their nails are pale.
-
-Their weight usually falls below the 3rd centile but above 60% of the 50th centile. Some infants have a normal weight because of their oedema.
-
-They often have signs of anaemia and vitamin deficiency.
+*	They are miserable, with a poor appetite.
+*	They have oedema of their legs and their face looks swollen with fat cheeks. Pressing on the back of each foot for a few seconds will show the pitting of oedema. Due to the facial oedema they may appear ‘chubby’ and their wasting is often missed.
+*	Their hair is sparse, fine and may have a reddish colour.
+*	They have areas of increased or decreased skin pigmentation with scaling, especially in the nappy area (flaky-paint rash). There may also be areas of skin which are wet and look like burns. The skin is easily damaged and may be ulcerated. Secondary bacterial skin infection is common.
+*	They have a distended abdomen and an enlarged liver.
+*	Angular stomatitis is common with painful cracking at the angles of the mouth.
+*	Their nails are pale.
+*	Their weight usually falls below the 3rd centile but above 60% of the 50th centile. Some infants have a normal weight because of their oedema.
+*	They often have signs of anaemia and vitamin deficiency.
 
 Note
 :	While the underlying cause of PEM is an intake of protein and energy that is insufficient to maintain health, not all children with severe malnutrition develop kwashiorkor. The clinical disease is precipitated by an additional stress such as infection.
@@ -2490,23 +2366,18 @@ Note
 
 ### 4-27 How can you determine whether a child has malnutrition?
 
-Take a careful dietary and family history.
-
-Examine the child fully.
+1.	Take a careful dietary and family history.
+1.	Examine the child fully.
 
 ### 4-28 How can the history help in the diagnosis of malnutrition?
 
 The following needs to be known:
 
-Is the child still breastfed?
-
-What is the usual diet (type, amount and frequency of feeds or meals)?
-
-What is the child’s appetite like?
-
-Are there any signs of illness, e.g. diarrhoea, vomiting or cough?
-
-The family background (income, parents, carers, abuse)
+1.	Is the child still breastfed?
+1.	What is the usual diet (type, amount and frequency of feeds or meals)?
+1.	What is the child’s appetite like?
+1.	Are there any signs of illness, e.g. diarrhoea, vomiting or cough?
+1.	The family background (income, parents, carers, abuse)
 
 ### 4-29 How can a general examination help in the diagnosis of malnutrition?
 
@@ -2514,21 +2385,15 @@ The weight and length must be measured and plotted on a growth chart.
 
 A full general examination must be done, looking particularly for signs of:
 
-Severe malnutrition (e.g. oedema and wasting)
-
-Vitamin deficiencies
-
-Dehydration
-
-Pallor (due to anaemia)
-
-Illness, e.g. diarrhoea, tuberculosis or AIDS
+*	Severe malnutrition (e.g. oedema and wasting)
+*	Vitamin deficiencies
+*	Dehydration
+*	Pallor (due to anaemia)
+*	Illness, e.g. diarrhoea, tuberculosis or AIDS
 
 Most children with severe malnutrition will have other signs of kwashiorkor or marasmus. They may also have signs of vitamin or trace element deficiencies. Severe malnutrition is, therefore, a clinical diagnosis which can be made by examining the child and plotting the child’s weight and height.
 
-Malnutrition is a clinical diagnosis based on history and examination.
-
-
+> Malnutrition is a clinical diagnosis based on history and examination.
 
 ### 4-30 How common is protein-energy malnutrition?
 
@@ -2541,57 +2406,38 @@ Note
 
 Malnutrition is usually due to an inadequate diet. However, the cause is often complex and related to poverty. Common associated factors are:
 
-Poverty
-
-Ignorance
-
-Parental neglect and deprivation
-
-Poor health services
-
-Frequent infections, especially diarrhoea and measles
-
-AIDS
-
-Displaced families, drought, famine and war
+*	Poverty
+*	Ignorance
+*	Parental neglect and deprivation
+*	Poor health services
+*	Frequent infections, especially diarrhoea and measles
+*	AIDS
+*	Displaced families, drought, famine and war
 
 Poor education of women, unemployment, young mothers, poor social support in the community, war and violence, neglect and abuse, no breastfeeding, and low birth weight are all common in communities with a high prevalence of malnutrition. Failing to breastfeed in poor, rural communities will almost certainly lead to malnutrition.
 
 In some children, malnutrition is not caused by a poor diet but is due to an illness which prevents the body from using food that is eaten. Chronic diseases and malabsorption may result in malnutrition in spite of a normal diet.
 
-Poverty, infection and malnutrition commonly form a devastating cycle in poor communities.
-
-
+> Poverty, infection and malnutrition commonly form a devastating cycle in poor communities.
 
 ### 4-32 What are the complications of severe malnutrition?
 
 These are usually seen in kwashiorkor and marasmic kwashiorkor:
 
-Serious infections, especially septicaemia or pneumonia. Gastroenteritis, tuberculosis, measles and AIDS often precipitate kwashiorkor.
-
-Hypoglycaemia due to loss of energy stores
-
-Hyothermia
-
-Heart failure due to a small, weak heart
-
-Bleeding, usually purpura
-
-Anaemia due to protein and iron deficiency
-
-Electrolyte imbalances, especially potassium deficiency
-
-Malabsorption
-
-Tremors (‘kwashi shakes’)
-
-Sudden death
+*	Serious infections, especially septicaemia or pneumonia. Gastroenteritis, tuberculosis, measles and AIDS often precipitate kwashiorkor.
+*	Hypoglycaemia due to loss of energy stores
+*	Hyothermia
+*	Heart failure due to a small, weak heart
+*	Bleeding, usually purpura
+*	Anaemia due to protein and iron deficiency
+*	Electrolyte imbalances, especially potassium deficiency
+*	Malabsorption
+*	Tremors (‘kwashi shakes’)
+*	Sudden death
 
 About 25% of children with kwashiorkor die despite treatment. The long-term effect of severe malnutrition on growth and mental development remain uncertain as these children are also affected by a deprived environment.
 
-Hypoglycaemia, hypothermia, infection and heart failure are the main causes of death in severe malnutrition.
-
-
+> Hypoglycaemia, hypothermia, infection and heart failure are the main causes of death in severe malnutrition.
 
 Note
 :	Children with kwashiorkor have a low serum albumin, potassium, magnesium, sodium, copper and zinc. Also low glucose, transferrin and clotting factors.
@@ -2608,23 +2454,15 @@ Some stunted children are not malnourished but have a medical condition or had a
 
 ### 4-35 What is the management of an underweight-for-age child?
 
-A careful history, physical examination and review of the weight and height (and head circumference in infants) growth curves is essential to establish the pattern of growth and the underlying cause of the failure to thrive. Treat any medical problem.
+1.	A careful history, physical examination and review of the weight and height (and head circumference in infants) growth curves is essential to establish the pattern of growth and the underlying cause of the failure to thrive. Treat any medical problem.
+1.	The child should be given a normal, well-balanced diet (a trial of feeding) if malnutrition is diagnosed. Frequent small feeds increase the total food intake and should be given at least 5 times per day. Peanut butter, vegetable oil or sugar added to the staple diet can be used to increase energy intake. Cheap forms of protein (milk powder, peas, beans) must be encouraged. Food supplements are available at clinics and hospitals under the state’s nutrition programme for qualifying families.
+1.	The child must be closely followed for 2 weeks. If there is no weight gain, the child must be admitted to hospital for a controlled trial of feeding and possibly further investigation.
+1.	If there is weight gain, the child must be carefully followed with repeat weight checks to ensure that weight gain continues. Height will only be gained after a few months of satisfactory weight gain.
+1.	The underlying cause of the poor feeding must be addressed or the problem will simply recur. Nutritional education of the mother is essential. Financial aid may be needed.
+1.	It is best to deworm the child and give vitamin A according to the national vitamin A policy as many underweight for age children have worms and are likely to have mild vitamin A deficiency. Multivitamin syrup is needed during the phase of catch-up growth and also if the usual diet is deficient in fresh vegetables or fruit.
+1.	Measure the haemoglobin concentration and treat anaemia with oral iron.
 
-The child should be given a normal, well-balanced diet (a trial of feeding) if malnutrition is diagnosed. Frequent small feeds increase the total food intake and should be given at least 5 times per day. Peanut butter, vegetable oil or sugar added to the staple diet can be used to increase energy intake. Cheap forms of protein (milk powder, peas, beans) must be encouraged. Food supplements are available at clinics and hospitals under the state’s nutrition programme for qualifying families.
-
-The child must be closely followed for 2 weeks. If there is no weight gain, the child must be admitted to hospital for a controlled trial of feeding and possibly further investigation.
-
-If there is weight gain, the child must be carefully followed with repeat weight checks to ensure that weight gain continues. Height will only be gained after a few months of satisfactory weight gain.
-
-The underlying cause of the poor feeding must be addressed or the problem will simply recur. Nutritional education of the mother is essential. Financial aid may be needed.
-
-It is best to deworm the child and give vitamin A according to the national vitamin A policy as many underweight for age children have worms and are likely to have mild vitamin A deficiency. Multivitamin syrup is needed during the phase of catch-up growth and also if the usual diet is deficient in fresh vegetables or fruit.
-
-Measure the haemoglobin concentration and treat anaemia with oral iron.
-
-Good nutrition will correct growth in most children that are underweight.
-
-
+> Good nutrition will correct growth in most children that are underweight.
 
 ### 4-36 What is the management of severe malnutrition?
 
@@ -2632,60 +2470,44 @@ The management of children with marasmus, kwashiorkor and marasmic kwashiorkor (
 
 These children are seriously ill and all must be urgently admitted to hospital. The management consists of:
 
-Initial resuscitation
-
-Nutritional rehabilitation
-
-Follow up
+1.	Initial resuscitation
+1.	Nutritional rehabilitation
+1.	Follow up
 
 ### 4-37 What resuscitation is needed?
 
 Infants presenting with severe malnutrition (especially kwashiorkor) are very sick and a number will die within a week of starting treatment. They must all be hospitalised immediately. This phase of treatment  usually lasts about a week:
 
-Correct and avoid hypoglycaemia, hypothermia or dehydration. Check the blood glucose 6 hourly for the first few days and whenever the child’s temperature falls below 35.5 °C. A feed of 50 ml of 10% glucose orally should correct hypoglycaemia. Correct any dehydration slowly with oral fluids. Avoid intravenous fluids if possible. Do not use diuretics to reduce the oedema.
+1.	Correct and avoid hypoglycaemia, hypothermia or dehydration. Check the blood glucose 6 hourly for the first few days and whenever the child’s temperature falls below 35.5 °C. A feed of 50 ml of 10% glucose orally should correct hypoglycaemia. Correct any dehydration slowly with oral fluids. Avoid intravenous fluids if possible. Do not use diuretics to reduce the oedema.
+1.	Give broad spectrum antibiotics (ampicillin and gentamicin if clinically septic or co-trimoxazole if there is no obvious site of infection) to all children for a week. Assume that all children with severe malnutrition have a bacterial infection. 
+1.	Start with oral or nasogastric feeds every 3 hours, both day and night, as soon as possible. Usually a starter formula or, if diarrhoea is present, a lactose-free formula 100 ml/kg/24 hours is used for the first week. High volume feeds may cause heart failure. 
+1.	Give oral potassium chloride 0.5 g/kg/day (4 to 6 mmol/kg/day) as these children are severely potassium depleted, especially children with kwashiorkor. Also give extra magnesium, 0.4 to 0.6 mmol/kg/day, as well as zinc 2 mg/kg/day, folic acid 5 mg per day, multivitamin syrup 10 ml per day and vitamin A 50 000 to 100 000 units on day 1. 
+1.	Do not give oral iron yet. Iron can be very dangerous as these children do not have enough protein to carry iron safely in the blood stream.
 
-Give broad spectrum antibiotics (ampicillin and gentamicin if clinically septic or co-trimoxazole if there is no obvious site of infection) to all children for a week. Assume that all children with severe malnutrition have a bacterial infection. 
-
-Start with oral or nasogastric feeds every 3 hours, both day and night, as soon as possible. Usually a starter formula or, if diarrhoea is present, a lactose-free formula 100 ml/kg/24 hours is used for the first week. High volume feeds may cause heart failure. 
-
-Give oral potassium chloride 0.5 g/kg/day (4 to 6 mmol/kg/day) as these children are severely potassium depleted, especially children with kwashiorkor. Also give extra magnesium, 0.4 to 0.6 mmol/kg/day, as well as zinc 2 mg/kg/day, folic acid 5 mg per day, multivitamin syrup 10 ml per day and vitamin A 50 000 to 100 000 units on day 1. 
-
-Do not give oral iron yet. Iron can be very dangerous as these children do not have enough protein to carry iron safely in the blood stream.
-
-Give frequent, small lactose-free feeds for the first week.
-
-
+> Give frequent, small lactose-free feeds for the first week.
 
 ### 4-38 What nutritional rehabilitation is required?
 
 This phase of treatment starts when the appetite improves and the child is looking better:
 
-Once the appetite has returned and any oedema has improved, a weaning (follow-on) formula with a higher protein content can be started in infants. As the older child improves, porridge and mixed foods, especially maize, beans and dried peas, can be started. Vegetable oils can be added for energy. A high energy and protein diet is needed. Start introducing solid foods slowly. During this phase, children are often very hungry and take a lot of food. The first sign of recovery is when the child starts to smile.
-
-Continue folic acid 5 mg daily for 5 days.
-
-Continue multivitamin syrup 10 ml daily. 
-
-Treat for worms with mebendazole 100 mg twice daily for 3 days and metronidazole (Flagyl) 7.5 mg/kg 8 hourly for 7 days for Giardia.
-
-Oral iron 6 mg elemental iron/kg/day for 12 weeks, starting ONLY when the child is gaining weight and any oedema has disappeared.
-
-Monitor daily weight gain.
+1.	Once the appetite has returned and any oedema has improved, a weaning (follow-on) formula with a higher protein content can be started in infants. As the older child improves, porridge and mixed foods, especially maize, beans and dried peas, can be started. Vegetable oils can be added for energy. A high energy and protein diet is needed. Start introducing solid foods slowly. During this phase, children are often very hungry and take a lot of food. The first sign of recovery is when the child starts to smile.
+1.	Continue folic acid 5 mg daily for 5 days.
+1.	Continue multivitamin syrup 10 ml daily. 
+1.	Treat for worms with mebendazole 100 mg twice daily for 3 days and metronidazole (Flagyl) 7.5 mg/kg 8 hourly for 7 days for Giardia.
+1.	Oral iron 6 mg elemental iron/kg/day for 12 weeks, starting ONLY when the child is gaining weight and any oedema has disappeared.
+1.	Monitor daily weight gain.
 
 Note
 :	A blood transfusion is only used for severe anaemia with associated cardiac failure. Extra magnesium is often added to feeds.
 
 ### 4-39 How can you prevent malnutrition recurring?
 
-The mother or caregiver must be given the education and financial support to provide a good diet. 
-
-Regular follow up with weighing is essential.
+1.	The mother or caregiver must be given the education and financial support to provide a good diet. 
+1.	Regular follow up with weighing is essential.
 
 There is a real risk that malnutrition will recur in a previously malnourished child as it is very difficult to correct social and economic problems in a family and community.
 
-Start treating the malnutrition immediately and do not wait to treat the infection first.
-
-
+> Start treating the malnutrition immediately and do not wait to treat the infection first.
 
 ### 4-40 How should you address the underlying causes of malnutrition?
 
@@ -2695,17 +2517,12 @@ The sources of inexpensive protein, such as beans, must be stressed.
 
 ### 4-41 What can be done to prevent malnutrition in poor communities?
 
-Breastfeeding to 6 months of age or longer
-
-Complementary feeding from 6 to 24 months (breast milk plus solids)
-
-Prevent infections, especially diarrhoea
-
-Routine weighing, immunisation and use of the chart in the Road-to-Health Card
-
-Social support for mothers
-
-School feeding projects
+*	Breastfeeding to 6 months of age or longer
+*	Complementary feeding from 6 to 24 months (breast milk plus solids)
+*	Prevent infections, especially diarrhoea
+*	Routine weighing, immunisation and use of the chart in the Road-to-Health Card
+*	Social support for mothers
+*	School feeding projects
 
 ### 4-42 What is the effect of severe mal­nutrition on a child’s mental development?
 
@@ -2717,13 +2534,11 @@ Once they start recovering and smiling, they need to be stimulated and given a l
 
 In contrast to the major components of the diet (proteins, carbohydrates and fats), micronutrients are needed in much smaller amounts. Micronutrients can be divided into:
 
-Vitamins
+*	Vitamins
+*	Trace elements (minerals)
+*	Iron
 
-Trace elements (minerals)
-
-Iron
-
-Vitamin deficiencies
+## Vitamin deficiencies
 
 ### 4-44 What are vitamins?
 
@@ -2731,42 +2546,31 @@ Vitamins are essential items in the diet, which are needed for healthy growth an
 
 ### 4-45 What are the common vitamin deficiencies in children?
 
-Vitamin A deficiency
-
-Vitamin B group deficiencies (e.g. pellagra)
-
-Vitamin C deficiency (scurvy)
-
-Vitamin D deficiency (rickets)
-
-Vitamin K deficiency (haemorrhagic disease in newborn infants)
+*	Vitamin A deficiency
+*	Vitamin B group deficiencies (e.g. pellagra)
+*	Vitamin C deficiency (scurvy)
+*	Vitamin D deficiency (rickets)
+*	Vitamin K deficiency (haemorrhagic disease in newborn infants)
 
 Note
 :	In South Africa maize meal is now fortified with folic acid. Many bakeries also fortify their wheat flour used for bread with folic acid. It is planned to fortify both maize flour and bread with folate, vitamin A and vitamin B complex.
 
 ### 4-46 Which children are at greatest risk of vitamin A deficiency?
 
-Infants who are not breastfed
-
-Low birth weight infants
-
-Underweight infants on a poor diet
-
-Infants with diarrhoea, measles, tuberculosis or AIDS
+*	Infants who are not breastfed
+*	Low birth weight infants
+*	Underweight infants on a poor diet
+*	Infants with diarrhoea, measles, tuberculosis or AIDS
 
 Vitamin A deficiency is particularly important as it is common in most poor countries and contributes to the death of many children. It is estimated that as many as 25% of young children in South Africa are deficient in vitamin A, especially in rural areas.
 
-Vitamin A deficiency is common in South Africa, especially in poor rural communities.
-
-
+> Vitamin A deficiency is common in South Africa, especially in poor rural communities.
 
 ### 4-47 How does vitamin A deficiency present?
 
 Mild vitamin A deficiency usually does not present with any gross clinical signs. Yet it is very important because it is associated with loss of appetite, poor growth and severe infections (especially gastroenteritis and measles) and increased mortality.
 
-Vitamin A deficiency results in an increased risk of severe infections.
-
-
+> Vitamin A deficiency results in an increased risk of severe infections.
 
 Severe vitamin A deficiency causes eye problems and presents with photophobia (keep eyes closed in bright light), night blindness (unable to see in poor light) and xerophthalmia (dry eyes). It also causes corneal clouding, ulcers and softening (keratomalacia) which can lead to corneal scarring and blindness. Severe vitamin A deficiency is the commonest preventable cause of blindness in children in poor countries.
 
@@ -2781,9 +2585,7 @@ One method of supplementing vitamin A is to give a single 50 000 unit dose of or
 
 The body can make vitamin A from carotene which is present in yellow fruits and vegetables (e.g. mangoes, pawpaws, carrots, pumpkin, butternut, sweet potatoes) as well a green leafy vegetables (e.g. spinach). Vitamin A is present in breast milk, liver, butter and margarine. Vitamin A fortification of basic foods is another method of ensuring adequate amounts of vitamin A in the diet.
 
-Yellow fruit and vegetables are rich in vitamin A.
-
-
+> Yellow fruit and vegetables are rich in vitamin A.
 
 ### 4-49 How is vitamin A deficiency treated?
 
@@ -2802,9 +2604,7 @@ This is a condition caused by niacin deficiency. It is seen in communities who d
 
 Pellagra is treated with nicotinic acid 100 mg orally, every 4 hours for 3 days. Advise on a balanced diet with beans and peas added to maize. Pellagra patients are usually also generally malnourished.
 
-Pellagra presents with a pigmented, scaly rash on exposed areas.
-
-
+> Pellagra presents with a pigmented, scaly rash on exposed areas.
 
 ### 4-52 What is scurvy?
 
@@ -2821,62 +2621,47 @@ Rickets is a clinical syndrome of deformities of growing bones and delayed physi
 
 Rickets in infants presents with soft, deformed bones, resulting in:
 
-A ‘rickety rosary’ with swelling of the ribs where bone meets cartilage
-
-A chest deformity with a horizontal groove overlying the diaphragm attachment to the ribs (Harrison’s sulcus)
-
-Craniotabes with a softened ‘ping-pong’ skull above the ears
-
-Thickened wrists and ankles
-
-Decreased muscle tone, giving a distended abdomen
-
-Delayed physical milestones
-
-An increased risk of pneumonia
+*	A ‘rickety rosary’ with swelling of the ribs where bone meets cartilage
+*	A chest deformity with a horizontal groove overlying the diaphragm attachment to the ribs (Harrison’s sulcus)
+*	Craniotabes with a softened ‘ping-pong’ skull above the ears
+*	Thickened wrists and ankles
+*	Decreased muscle tone, giving a distended abdomen
+*	Delayed physical milestones
+*	An increased risk of pneumonia
 
 Treatment consists of 1000 units of oral vitamin D daily for a month by which time there should be  radiological confirmation of healing. Increase exposure to sunlight for 30 minutes a week. For prevention vitamin D 400 units daily (in 0.6 ml of multivitamin drops or 5 ml vitamin syrup) should be given to preterm infants for 6 months as they are at high risk of developing rickets.
 
 Note
 :	Rickets due to calcium deficiency can occur in older children on a diet which has adequate vitamin D but is low in calcium (e.g. maize without milk). There are also rare renal and metabolic causes of rickets in children who do not respond to the standard treatment. Vitamin D deficiency in adolescents (osteomalacia) presents with bone pain, muscle weakness and hypotonia. Hypovitaminosis D can be confirmed by finding a low concentration of serum 25 hydroxycholecalciferol.
 
-Trace element and mineral deficiencies
+## Trace element and mineral deficiencies
 
 ### 4-54 What are trace element and mineral deficiencies?
 
 The important trace elements are iodine, fluoride and zinc, while the common minerals are sodium, potassium, calcium, magnesium phosphate and iron.
 
-Iodine deficiency causes thyroid enlargement (goitre) and hypothyroidism (with retarded mental development). This is uncommon in South Africa due to iodine being added to table salt. However, it is still seen in mountainous regions where rock salt or non-iodated salt is used.
-
-Fluoride deficiency is common in some regions of South Africa and results in dental caries. It is prevented by fluoridation of drinking water.
-
-Zinc deficiency may result in growth failure and an increased risk of infections. Weekly zinc supplements decrease the incidence and severity of both pneumonia and diarrhoea. Zinc fortification of food is an important method of providing adequate amounts of zinc in the diet.	.
-
-Calcium and phosphate deficiency may cause rickets and increase the risk of osteoporosis in adult life. It is prevented by including milk in the diet.
+*	Iodine deficiency causes thyroid enlargement (goitre) and hypothyroidism (with retarded mental development). This is uncommon in South Africa due to iodine being added to table salt. However, it is still seen in mountainous regions where rock salt or non-iodated salt is used.
+*	Fluoride deficiency is common in some regions of South Africa and results in dental caries. It is prevented by fluoridation of drinking water.
+*	Zinc deficiency may result in growth failure and an increased risk of infections. Weekly zinc supplements decrease the incidence and severity of both pneumonia and diarrhoea. Zinc fortification of food is an important method of providing adequate amounts of zinc in the diet.	.
+*	Calcium and phosphate deficiency may cause rickets and increase the risk of osteoporosis in adult life. It is prevented by including milk in the diet.
 
 Trace element and mineral deficiency is best avoided by taking a well-balanced diet.
 
-Iron deficiency
+## Iron deficiency
 
 ### 4-55 How common is iron deficiency?
 
 Iron deficiency is common in South Africa and many poor countries. It is usually seen in young children, especially between the ages of 6 months and 2 years when breastfeeding has been stopped.
 
-Iron deficiency is common in South Africa.
-
-
+> Iron deficiency is common in South Africa.
 
 ### 4-56 What are the common causes of iron deficiency in children?
 
-Iron deficiency is usually due to inadequate amounts of iron in the diet. However it is often made worse by chronic bleeding from the gut due to intestinal parasites.
+1.	Iron deficiency is usually due to inadequate amounts of iron in the diet. However it is often made worse by chronic bleeding from the gut due to intestinal parasites.
+1.	Cow’s milk contains little iron. Fortunately, most formula feeds contain additional iron which has reduced the incidence of iron deficiency in most formula-fed infants.
+1.	Immediate clamping of the umbilical cord at birth deprives the newborn infant of much iron, while preterm infants have low iron stores. 
 
-Cow’s milk contains little iron. Fortunately, most formula feeds contain additional iron which has reduced the incidence of iron deficiency in most formula-fed infants.
-
-Immediate clamping of the umbilical cord at birth deprives the newborn infant of much iron, while preterm infants have low iron stores. 
-
-Iron deficiency in children is usually due to a poor diet and worms.
-
-
+> Iron deficiency in children is usually due to a poor diet and worms.
 
 ### 4-57 What are the clinical signs of iron deficiency?
 
@@ -2890,17 +2675,12 @@ With iron deficiency, the red cells usually appear small and pale on a blood sme
 
 ### 4-59 How can iron deficiency be prevented?
 
-By giving a good, balanced diet
+1.	By giving a good, balanced diet
+1.	By regularly deworming children
+1.	By waiting until the infant cries before clamping the umbilical cord after birth
+1.	Children at high risk of iron deficiency, such as preterm infants, should be given prophylactic oral iron. Once discharged home, preterm infants should receive ferrous lactate drops 0.6 ml (e.g. Ferrodrops) daily until 6 months of age.
 
-By regularly deworming children
-
-By waiting until the infant cries before clamping the umbilical cord after birth
-
-Children at high risk of iron deficiency, such as preterm infants, should be given prophylactic oral iron. Once discharged home, preterm infants should receive ferrous lactate drops 0.6 ml (e.g. Ferrodrops) daily until 6 months of age.
-
-Always store iron drops, syrup and tablets away safely where children cannot get them.
-
-
+> Always store iron drops, syrup and tablets away safely where children cannot get them.
 
 Note
 :	The prophylactic dose of iron is 1 mg of elemental iron/kg/day while the therapeutic dose is 1–2 mg of elemental iron/kg 3 times a day.
@@ -2911,60 +2691,42 @@ Anaemia is a haemoglobin concentration below the normal range for the age of the
 
 Anaemia is not a disease but the result of many nutritional and medical problems. Iron deficiency is not the only cause of anaemia.
 
-Children with a haemoglobin concentration below 9 g/dl are anaemic.
-
-
+> Children with a haemoglobin concentration below 9 g/dl are anaemic.
 
 ### 4-61 What are the presenting symptoms and signs of anaemia?
 
-Tiredness and general apathy
-
-Pallor of the nails and mucus membranes (i.e. pale)
-
-Heart failure, with shortness of breath on effort, in severe anaemia
+*	Tiredness and general apathy
+*	Pallor of the nails and mucus membranes (i.e. pale)
+*	Heart failure, with shortness of breath on effort, in severe anaemia
 
 Anaemia plus bruising or purpura, hepatosplenomegaly, bone tenderness or jaundice, suggest a serious illness and are indications for urgent referral to hospital.
 
 ### 4-62 What are the common causes of anaemia in children?
 
-Iron deficiency:
-
-Early clamping of the umbilical cord at birth (reduces the newborn infant’s iron stores)
-
-Preterm birth (preterm infants have low iron stores)
-
-A diet deficient in iron
-
-Intestinal parasites
-
-Repeated nose bleeds
-
-Haemolysis, due to:
-
-Malaria
-
-Inherited blood disorders (e.g. spherocytosis, thalassaemia or sickle cell disease)
-
-Chronic illness, such as tuberculosis and AIDS
-
-Severe malnutrition (due to lack of protein to produce haemoglobin)
+*	Iron deficiency:
+	*	Early clamping of the umbilical cord at birth (reduces the newborn infant’s iron stores)
+	*	Preterm birth (preterm infants have low iron stores)
+	*	A diet deficient in iron
+*	Intestinal parasites
+*	Repeated nose bleeds
+*	Haemolysis, due to:
+	*	Malaria
+	*	Inherited blood disorders (e.g. spherocytosis, thalassaemia or sickle cell disease)
+*	Chronic illness, such as tuberculosis and AIDS
+*	Severe malnutrition (due to lack of protein to produce haemoglobin)
 
 Note
 :	Less common causes include malignancies, bleeding disorders, folate deficiency, drug side effects and stomach ulcers.
 
 Iron deficiency is by far the commonest cause of anaemia of children in South Africa and most poor societies.
 
-Iron deficiency is the commonest cause of anaemia in children in South Africa.
-
-
+> Iron deficiency is the commonest cause of anaemia in children in South Africa.
 
 ### 4-63 What is the simplest method of confirming anaemia due to iron deficiency?
 
-Showing that the Hb is low (below 9 g/dl). This can be done with a haemoglobinometer but is more accurately measured with a full blood count.
-
-Examination of a peripheral blood smear to show small, pale red cells
-
-A trial of iron treatment
+1.	Showing that the Hb is low (below 9 g/dl). This can be done with a haemoglobinometer but is more accurately measured with a full blood count.
+1.	Examination of a peripheral blood smear to show small, pale red cells
+1.	A trial of iron treatment
 
 Note
 :	Finding a low mean red cell size and haemoglobin concentration on a full blood count will confirm the finding of microcytosis and hypochromia on a peripheral smear.
@@ -2979,113 +2741,112 @@ All anaemic children with signs of heart failure must be urgently referred to ho
 
 The commonest mistake in treating iron deficient anaemia is stopping the oral iron too soon.
 
-Case study 1
+## Case study 1
 
 A 5-year-old child attends a clinic where he is weighed. The weight is then plotted on the weight-for-age chart in his Road-to-Health Card. His weight falls just below the 3rd centile. He appears generally well but thin. The mother is out of work and has no financial support.
 
-1. Does this child have malnutrition?
+### 1. Does this child have malnutrition?
 
 Yes. He probably has mild protein-energy malnutrition. He is underweight-for-age as his weight falls just below the 3rd centile. There is no evidence on the history that there is a medical reason for being underweight-for-age. The family history suggests that there is not enough money for an adequate balanced diet.
 
-2. How would you confirm the diagnosis?
+### 2. How would you confirm the diagnosis?
 
 Firstly, by taking a dietary history and confirming that he receives a poor diet. Secondly, by demonstrating weight gain when his diet is improved.
 
-3. What is the danger of being underweight-for-age?
+### 3. What is the danger of being underweight-for-age?
 
 Children who are underweight-for-age are at high risk of developing a more severe form of protein-energy malnutrition if their diet becomes worse or they have an infection such as diarrhoea or measles. Children who are underweight-for-age have a weakened (suppressed) immune system and, therefore, are also at increased risk of a serious infection such as tuberculosis.
 
-4. What is the value of examining this child’s growth curve and growth pattern?
+### 4. What is the value of examining this child’s growth curve and growth pattern?
 
 The growth curve will show whether he has been underweight-for-age for a long time or has only recently lost weight. The growth pattern would also be helpful as a height below the normal range will indicate stunting while a normal height will suggest recent weight loss. Recent weight loss may suggest an infection such as AIDS.
 
-5. What are energy foods?
+### 5. What are energy foods?
 
-Carbohydrates such as bread, maize, potatoes, rice, porridge and sugar.
+*	Carbohydrates such as bread, maize, potatoes, rice, porridge and sugar.
+*	Fats, such as dairy products, or vegetable and fish oils.
 
-Fats, such as dairy products, or vegetable and fish oils.
-
-6. What dietary management does this child need?
+### 6. What dietary management does this child need?
 
 He needs enough of a balanced diet. His mother needs to be told what cheap foods are high in protein and energy (maize together with beans or milk mixed with porridge). She also needs social and financial assistance. It is important to watch this child’s weight over the next few months to make sure that he is gaining weight adequately. It would be wise to give him 200 000 units of oral vitamin A as he is probably deficient in vitamin A.
 
-Case study 2
+## Case study 2
 
 An 18 month old child is seen at a local hospital. The child is very thin and wasted. Her weight falls well below the 3rd centile (also below 60% of the 50th centile). There is no rash or oedema. She is pale and has thickening of her wrists and ankles. The mother was drunk when she brought the child to hospital.
 
-1. What is your diagnosis?
+### 1. What is your diagnosis?
 
 Marasmus. The weight falls far below the 3rd centile (below 60% of the 50th centile). The cause is almost certainly starvation and neglect.
 
-2. What should be the initial treatment?
+### 2. What should be the initial treatment?
 
 Admit the child immediately to hospital for resuscitation. Look for and treat any hypothermia, dehydration or hypoglycaemia. Small oral or nasogastric feeds should be started. If possible, do not start an intravenous infusion. Start antibiotics even if there is no obvious infection. Her social circumstances will have to be investigated and managed.
 
-3. Why is the child pale?
+### 3. Why is the child pale?
 
 She probably has iron deficiency anaemia due to a poor diet and possibly because of chronic infection. Only once she is taking feeds well and looking better should oral iron be started. 
 
-4. What additional diagnosis is suggested by the swelling of her wrists and ankles?
+### 4. What additional diagnosis is suggested by the swelling of her wrists and ankles?
 
 Rickets, due to a deficiency of vitamin D in her poor diet. She has probably also had very little exposure to sunlight. The treatment would be 1000 units vitamin D daily for a month. She almost certainly needs a multivitamin syrup as she is probably deficient in other vitamins as well.
 
-5. How could the marasmus be prevented?
+### 5. How could the marasmus be prevented?
 
 If she had been taken to the local clinic for routine weighing every month her failure to thrive would have been detected before she reached the stage of severe malnutrition. Steps could then have been taken to manage the nutritional and social problems.
 
-Case study 3
+## Case study 3
 
 A very miserable child is seen at an urban clinic after he had been brought from a poor rural district by his grandmother. He appears swollen, with oedema of the face and legs. There is a pigmented, scaly rash on the trunk and legs. His weight is plotted on the 3rd centile but this falls to below the 3rd centile during his first week in hospital. His hair is very thin and he has a bad cough.
 
-1. What is wrong with this child?
+### 1. What is wrong with this child?
 
 He has all the clinical signs of kwashiorkor: misery, oedema, thin hair and a rash. Often children with kwashiorkor are not very underweight when they present as they are oedematous. Their weight often falls markedly when they lose their oedema.
 
-2. Why is this child severely malnourished?
+### 2. Why is this child severely malnourished?
 
 Probably as the result of poverty. There may be a drought in the rural area. Sometimes only maize meal is available (which is low in protein).
 
-3. What diagnosis could the cough suggest?
+### 3. What diagnosis could the cough suggest?
 
 He may have tuberculosis. This will need to be investigated.
 
-4. Is kwashiorkor a fatal illness?
+### 4. Is kwashiorkor a fatal illness?
 
 Up to 25% of children with kwashiorkor will die despite treatment.
 
-5. What feeds should be given to this child?
+### 5. What feeds should be given to this child?
 
 Children with severe malnutrition are usually started on lactose-free feeds. Small feeds are given at first as a high volume intake can cause heart failure. Potassium is added to their feeds as they are severely potassium depleted. Once he is improving he can be given follow-on formula.
 
-6. What cheap food gives high quality protein?
+### 6. What cheap food gives high quality protein?
 
 Breast milk, provided the mother can be traced and convinced to restart breastfeeding. Otherwise, milk powder or beans can be added to the diet to increase the amount of protein.
 
-7. What other form of malnutrition can cause a pigmented, scaly rash?
+### 7. What other form of malnutrition can cause a pigmented, scaly rash?
 
 Pellagra, due to niacin deficiency. The rash usually occurs on the face, neck and chest in a necklace distribution, arms and legs (i.e. exposed areas).
 
-Case study 4
+## Case study 4
 
 An 18 month old girl presents with a history of poor feeding and eating sand. On examination she has a normal weight for age and appears generally well. However her nails and tongue are pale. The mother says that she drinks a lot of cow’s milk and does not want to eat solid foods.
 
-1. Why is this child pale?
+### 1. Why is this child pale?
 
 She is probably anaemic.
 
-2. How would you confirm this diagnosis?
+### 2. How would you confirm this diagnosis?
 
 By measuring her haemoglobin concentration which should be about 11 g/dl. A concen­tration below 9 g/dl at her age would indicate anaemia.
 
-3. What do you think is the most likely cause of her anaemia?
+### 3. What do you think is the most likely cause of her anaemia?
 
 Iron deficiency. Eating sand (pica) and a poor appetite are common in children with iron deficiency. Cow’s milk is a poor source of iron. She may also have intestinal parasites.
 
-4. What is a simple method of confirming iron deficiency anaemia?
+### 4. What is a simple method of confirming iron deficiency anaemia?
 
 By measuring the haemoglobin concentration and then examining a peripheral blood smear. Small pale red cells strongly suggest iron deficiency. The presence of iron deficiency can be proved by a low serum ferritin concentration. Therefore, a Hb below 9 g/dl plus a typical smear or low serum ferritin would confirm the diagnosis of iron deficiency. The diagnosis would be supported if the Hb increased with a month of iron treatment.
 
-5. What is the management of iron deficiency anaemia?
+### 5. What is the management of iron deficiency anaemia?
 
 Ferrous gluconate (or sulphate) syrup 0.25 ml/kg 3 times a day for 3 months. She should also be ‘dewormed.’
 
@@ -3097,9 +2858,9 @@ Ferrous gluconate (or sulphate) syrup 0.25 ml/kg 3 times a day for 3 months. She
 
 Diarrhoea
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Define and diagnose diarrhoea.
 
@@ -3150,7 +2911,7 @@ Infections of the bowel:
 
 Viruses, such as Rota virus and measles. Rota virus is the commonest cause of diarrhoea in children.
 
-Bacteria, such as E. coli (Eschericia coli), Shigella, Salmonella, Campylobacter and Cholera.
+Bacteria, such as *E. coli* (*Eschericia coli*), Shigella, Salmonella, Campylobacter and Cholera.
 
 Protozoa (small one-celled organisms), such as Giardia, Amoeba and Cryptosporidium.
 
@@ -3179,14 +2940,14 @@ Note
 
 Gastroenteritis (or acute diarrhoeal disease) is an acute infection of the bowel resulting in watery diarrhoea without visible blood or mucus in the stool. It is caused by a wide range of organisms which interfere with the normal functioning of the cells that line the bowel wall, resulting in loss of water and electrolytes into the stool. It is the commonest form of diarrhoea in childhood. Vomiting and abdominal cramps in older children are common with gastroenteritis but pyrexia is absent or only mild. 
 
-Gastroenteritis is usually caused by Rota virus or E. coli. Rota virus is highly infectious and seen in both poor and wealthy communities especially in children less than 1 year old. The infection is usually spread from the stool of the infected person by unwashed hands or contaminated water or food (the faecal–oral route). Poor hygiene or sanitation may result in outbreaks of gastroenteritis. Gastroenteritis usually presents as acute diarrhoea. However, if the bowel mucosa is damaged by the infection, gastroenteritis may also result in persistent diarrhoea.
+Gastroenteritis is usually caused by Rota virus or *E. coli*. Rota virus is highly infectious and seen in both poor and wealthy communities especially in children less than 1 year old. The infection is usually spread from the stool of the infected person by unwashed hands or contaminated water or food (the faecal–oral route). Poor hygiene or sanitation may result in outbreaks of gastroenteritis. Gastroenteritis usually presents as acute diarrhoea. However, if the bowel mucosa is damaged by the infection, gastroenteritis may also result in persistent diarrhoea.
 
 Gastroenteritis is an acute infection of the bowel, causing diarrhoea.
 
 
 
 Note
-:	Rota virus causes direct bowel mucosal damage while most types of E. coli produce toxins which interfere with the normal function of the bowel wall leading to excess water and electrolyte loss.
+:	Rota virus causes direct bowel mucosal damage while most types of *E. coli* produce toxins which interfere with the normal function of the bowel wall leading to excess water and electrolyte loss.
 
 ### 5-8 What is acute diarrhoea?
 
@@ -3233,11 +2994,11 @@ Children with AIDS
 
 ### 5-13 What is cholera?
 
-Cholera is a severe, highly infectious form of watery diarrhoea which is common in undeveloped countries. Cholera occurs in epidemics as has happened in some areas of South Africa in recent years. It is caused by a bowel infection with Vibrio cholerae. The stools in cholera as typically watery with small pieces (flecks) of mucus (‘rice water stools’). Cholera can rapidly lead to dehydration and death, even in adults. Always think of cholera if there is a local epidemic, especially with severe dehydration in an older child.
+Cholera is a severe, highly infectious form of watery diarrhoea which is common in undeveloped countries. Cholera occurs in epidemics as has happened in some areas of South Africa in recent years. It is caused by a bowel infection with *Vibrio cholerae*. The stools in cholera as typically watery with small pieces (flecks) of mucus (‘rice water stools’). Cholera can rapidly lead to dehydration and death, even in adults. Always think of cholera if there is a local epidemic, especially with severe dehydration in an older child.
 
 ### 5-14 What is dysentery?
 
-Dysentery is a form of diarrhoea where the stool is not simply watery, but also contains visible blood and mucus. Dysentery is usually caused by organisms which invade and damage the bowel wall. These children usually look ill (toxic) and have a high temperature. Dysentery is usually caused by Shigella, Salmonella, Campylobacter, Amoeba and some types of E. coli. The commonest cause of dysentery is Shigella. Dysentery is severe if there are signs of dehydration.
+Dysentery is a form of diarrhoea where the stool is not simply watery, but also contains visible blood and mucus. Dysentery is usually caused by organisms which invade and damage the bowel wall. These children usually look ill (toxic) and have a high temperature. Dysentery is usually caused by Shigella, Salmonella, Campylobacter, Amoeba and some types of *E. coli*. The commonest cause of dysentery is Shigella. Dysentery is severe if there are signs of dehydration.
 
 Dysentery is diarrhoea containing blood and mucus.
 
@@ -3250,7 +3011,7 @@ Note
 
 Some bacteria which cause diarrhoea, can invade the bowel wall and spread into the blood stream resulting in septicaemia. Septicaemia usually complicates diarrhoea with infections caused by Salmonella, Shigella and Campylobacter. Septicaemia is commoner in dysentery than in watery diarrhoea.
 
-Typhoid is a septicaemia caused by a bowel infection with Salmonella typhi. These children are very ill and may die if not treated early with antibiotics.
+Typhoid is a septicaemia caused by a bowel infection with *Salmonella typhi*. These children are very ill and may die if not treated early with antibiotics.
 
 Note
 :	Children with typhoid may appear severely ill and toxic with only mild diarrhoea or no diarrhoea at all.
@@ -3394,7 +3155,7 @@ With poor peripheral perfusion due to shock, many cells in the body no longer re
 Children with a metabolic acidosis develop rapid sighing (deep) breathing. The clinical diagnosis of acidosis can be confirmed by blood gas analysis.
 
 Note
-:	The blood gas analysis in an infant with a metabolic acidosis shows a low pH and low stan­dard bicarbonate together with an increased base deficit. In an attempt to correct the acidosis, the child often hyperventilates which lowers the pCO2.
+:	The blood gas analysis in an infant with a metabolic acidosis shows a low pH and low stan­dard bicarbonate together with an increased base deficit. In an attempt to correct the acidosis, the child often hyperventilates which lowers the pCO₂.
 
 ### 5-24 Why do children with diarrhoea lose electrolytes?
 
@@ -3971,9 +3732,9 @@ Zinc. One dissolved tablet should be taken daily for 10 days.
 
 Upper respiratory tract conditions
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 List both the common and dangerous upper respiratory tract conditions.
 
@@ -4384,7 +4145,7 @@ The epiglottis is positioned at the opening of the larynx to prevent the inhalat
 
 ### 6-35 What is epiglottitis?
 
-An acute infection of the epiglottis, is usually caused by Haemophilus influenzae. The epiglottis becomes very swollen and may obstruct the airway. This is a rare but very serious condition which may rapidly cause death unless correctly diagnosed and rapidly treated. Children with acute epiglottitis also have a Haemophilus influenzae septicaemia. Acute epiglottitis due to Haemophilus influenzae can be prevented by Hib immu­nisation of all children. Do not confuse Haemophilus influenzae (a bacteria) with the influenza virus.
+An acute infection of the epiglottis, is usually caused by *Haemophilus influenzae*. The epiglottis becomes very swollen and may obstruct the airway. This is a rare but very serious condition which may rapidly cause death unless correctly diagnosed and rapidly treated. Children with acute epiglottitis also have a *Haemophilus influenzae* septicaemia. Acute epiglottitis due to *Haemophilus influenzae* can be prevented by Hib immu­nisation of all children. Do not confuse *Haemophilus influenzae* (a bacteria) with the influenza virus.
 
 Acute epiglottitis is an exremely serious condition which can be prevented with Hib immunisation.
 
@@ -4468,7 +4229,7 @@ A number of important steps can be taken to both prevent and reduce the severity
 
 Reduce environmental smoke. The source may be active or passive cigarette smoking or the smoke of indoor fires in poorly ventilated homes.
 
-Immunise against measles, diphtheria, whooping cough and Haemophilus influenzae in all children. Also immunise selected children with influenza and pneumococcal vaccines.
+Immunise against measles, diphtheria, whooping cough and *Haemophilus influenzae* in all children. Also immunise selected children with influenza and pneumococcal vaccines.
 
 Decrease overcrowding in homes and schools. This will lessen the exposure to many acute respiratory tract infections.
 
@@ -4610,9 +4371,9 @@ Febrile convulsions (pyrexial fits).
 
 Lower respiratory tract conditions
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Give the signs of breathing difficulty and respiratory distress.
 
@@ -4901,7 +4662,7 @@ Pneumonia is an inflammation of the small air sacs of the lungs (alveoli), usual
 
 ### 7-21 What are the causes of pneumonia?
 
-Pneumonia in newborn infants is usually due to a bacterial infection such as Group B Streptococcus and Gram negative bacilli (e.g. Klebsiella).
+Pneumonia in newborn infants is usually due to a bacterial infection such as Group B Streptococcus and Gram negative bacilli (e.g. *Klebsiella*).
 
 Viruses especially the respiratory syncytial virus, cause most pneumonias in infancy.
 
@@ -4913,7 +4674,7 @@ Tuberculosis is an important cause of pneumonia in poor communities.
 
 Pneumocystis is an important cause of pneumonia in HIV infected infants between 2 and 6 months of age. This is a very unusual cause of pneumonia in children who do not have AIDS.
 
-Gram negative organisms such as Klebsiella and E. coli are also an important cause of severe pneumonia in children with HIV infection.
+Gram negative organisms such as *Klebsiella* and *E. coli* are also an important cause of severe pneumonia in children with HIV infection.
 
 Note
 :	Chlamydia can cause pneumonia in infants.
@@ -4988,7 +4749,7 @@ Depressed level of consciousness
 
 Refusal to eat or drink due to shortness of breath
 
-These are danger signs which mean that the child needs urgent treatment and then referral to hospital.
+These are *danger signs* which mean that the child needs urgent treatment and then referral to hospital.
 
 ### 7-26 What is the correct management of pneumonia?
 
@@ -5505,9 +5266,9 @@ Yes. Every attempt should be made to prevent acute attacks by identifying and re
 
 Tuberculosis
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Give reasons why tuberculosis is an important and dangerous disease.
 
@@ -5531,10 +5292,10 @@ Tuberculosis is a chronic infectious disease. Tuberculosis is often referred to 
 
 ### 8-2 What causes tuberculosis?
 
-Tuberculosis is caused by a bacillus called Mycobacterium tuberculosis. The TB bacillus (tuberculous bacillus) is a long, thin bacteria.
+Tuberculosis is caused by a bacillus called *Mycobacterium tuberculosis*. The TB bacillus (tuberculous bacillus) is a long, thin bacteria.
 
 Note
-:	Mycobacterium tuberculosis was first described by Robert Koch in 1882.
+:	*Mycobacterium tuberculosis* was first described by Robert Koch in 1882.
 
 ### 8-3 How is tuberculosis spread from person to person?
 
@@ -5549,9 +5310,9 @@ Tuberculosis in children is usually spead from an adult with untreated pulmonary
 
 Tuberculosis
 
-### 8-4 Do all children infected with Mycobacterium tuberculosis develop tuberculosis?
+### 8-4 Do all children infected with *Mycobacterium tuberculosis* develop tuberculosis?
 
-No. Most children infected with TB bacilli (i.e. Mycobacterium tuberculosis) do not develop tuberculosis (TB disease) because their immune system is able to control the infection and kill most of the TB bacilli. Therefore, the natural immune response protects most children with TB infection from developing tuberculosis.
+No. Most children infected with TB bacilli (i.e. *Mycobacterium tuberculosis*) do not develop tuberculosis (TB disease) because their immune system is able to control the infection and kill most of the TB bacilli. Therefore, the natural immune response protects most children with TB infection from developing tuberculosis.
 
 Note
 :	Young children infected before 3 years of age and immunocompromised children have a much greater chance (20–50%) of developing tuberculosis after infection with TB bacilli.
@@ -5717,7 +5478,7 @@ The tuberculin skin test is usually positive (but often negative in children wit
 
 The chest X-ray is usually abnormal.
 
-TB bacilli (Mycobacterium tuberculosis) may be found in the sputum, gastric aspirate or other body fluids 
+TB bacilli (*Mycobacterium tuberculosis*) may be found in the sputum, gastric aspirate or other body fluids 
 
 A high index of suspicion is very important in the early diagnosis of tuberculosis, as tuberculosis may present in many different ways.
 
@@ -5797,11 +5558,11 @@ This is a skin test done with tuberculin which contains protein from TB bacilli.
 The Tine test is also used but is not as accurate as a Mantoux test.
 
 Note
-:	The induration at the site of the skin test is due to delayed sensitivity to the PPD, which develops at the time of the primary infection or the BCG immunisation. This indicates a good cellular immune response. The effect of BCG on the tuberculin skin test, however, does not last more than 2 years. Other signs of more marked sensitivity to Mycobacterium tuberculosis include phlyctenular conjunctivitis and erythema nodosum.
+:	The induration at the site of the skin test is due to delayed sensitivity to the PPD, which develops at the time of the primary infection or the BCG immunisation. This indicates a good cellular immune response. The effect of BCG on the tuberculin skin test, however, does not last more than 2 years. Other signs of more marked sensitivity to *Mycobacterium tuberculosis* include phlyctenular conjunctivitis and erythema nodosum.
 
 ### 8-22 How is the Mantoux skin test done?
 
-A 1 ml syringe and size 26 needle are used to inject 0.1 ml of tuberculin (PPD) into the skin (intradermally) over the inner side of the left forearm. It is very important that the tuberculin is injected into the skin and not under the skin (subcutaneously). If the tuberculin is correctly injected into the skin a raised, pale weal of 5 to 10 mm is formed. If no weal is raised, the tuberculin has been injected too deep in error.
+A 1 ml syringe and size 26 needle are used to inject 0.1 ml of tuberculin (PPD) into the skin (*intradermally*) over the inner side of the left forearm. It is very important that the tuberculin is injected *into* the skin and *not under* the skin (subcutaneously). If the tuberculin is correctly injected into the skin a raised, pale weal of 5 to 10 mm is formed. If no weal is raised, the tuberculin has been injected too deep in error.
 
 Incorrect injection under the skin may make the result difficult to interpret.
 
@@ -6038,7 +5799,62 @@ Note
 
 Tuberculosis is usually treated with rifampicin, INH and pyrazinamide for 2 months followed by rifampicin and INH only for another 4 months.
 
+Table 8-1: The usual 6-month treatment regimen for tuberculosis. R = Rifampicin; H = INH; Z = Pyrazinamide
+{:.table-caption}
 
+<table>
+<thead>
+  <tr>
+    <td><p>Pretreatment body weight</p></td>
+    <td><p>2 months</p>
+      <p>5 times per week</p>
+      <p>Initial phase: RHZ 60/30/150 mg</p></td>
+    <td><p>4 months</p>
+      <p>5 times per week</p>
+      <p>Continuation phase: RH 60/30 mg</p></td>
+  </tr>
+</thead>
+  <tr>
+    <td><p>3–4 kg</p></td>
+    <td><p>½ tablet</p></td>
+    <td><p>½ tablet</p></td>
+  </tr>
+  <tr>
+    <td><p>5–7 kg</p></td>
+    <td><p>1 tablet</p></td>
+    <td><p>1 tablet</p></td>
+  </tr>
+  <tr>
+    <td><p>8–9 kg</p></td>
+    <td><p>1 ½ tablets</p></td>
+    <td><p>1 ½ tablets</p></td>
+  </tr>
+  <tr>
+    <td><p>10–14 kg</p></td>
+    <td><p>2 tablets</p></td>
+    <td><p>2 tablets</p></td>
+  </tr>
+  <tr>
+    <td><p>15–19 kg</p></td>
+    <td><p>3 tablets</p></td>
+    <td><p>3 tablets</p></td>
+  </tr>
+  <tr>
+    <td><p>20–24 kg</p></td>
+    <td><p>4 tablets</p></td>
+    <td><p>4 tablets</p></td>
+  </tr>
+  <tr>
+    <td><p>25–29 kg</p></td>
+    <td><p>5 tablets</p></td>
+    <td><p>5 tablets</p></td>
+  </tr>
+  <tr>
+    <td><p>30–35 kg</p></td>
+    <td><p>6 tablets</p></td>
+    <td><p>6 tablets</p></td>
+  </tr>
+</table>
 
 ### 8-41 How is the response to treatment monitored?
 
@@ -6287,9 +6103,9 @@ Yes, provided the infant is given prophylactic treatment. The mother must take h
 
 HIV infection
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Define HIV infection and AIDS.
 
@@ -6614,7 +6430,7 @@ Malignancy
 
 The main feature of stage 4 HIV infection is severe opportunistic infection such as Pneumocystis pneumonia. Unlike adults, children with HIV infection rarely present with malignancies.
 
-A detailed description of the 4 stages of HIV infection are given at the end of this unit.
+*A detailed description of the 4 stages of HIV infection are given at the end of this chapter.*
 
 ### 9-23 How is damage to the immune system documented in children?
 
@@ -6710,19 +6526,16 @@ Adequate nutrition is an important part of managing children with HIV infection.
 
 All infants born to HIV-positive women should be given prophylactic co-trimoxazole from 6 weeks until one year or until HIV infection in the child has been excluded by PCR testing. Prophylaxis should be continued beyond one year in any child with clinical signs of HIV infection. Prophylactic co-trimoxazole syrup is usually given daily for 5 days a week (Monday to Friday). The dose depends on the child’s weight:
 
-Weight	Daily dose
+Table 9-1: Daily dose of prophylactic co-trimoxazole by child's weight
+{:.table-caption}
 
-< 5 kg	2.5 ml paediatric suspension
-
-5–9 kg	5 ml paediatric suspension
-
-10–14 kg	7.5 ml paediatric suspension
-
-15–22 kg	10 ml (or 1 regular strength tablet)
-
-> 22 kg	15 ml (or 1.5 regular strength tablets)
-
-
+| Weight   | Daily dose                              |
+|----------+-----------------------------------------|
+| < 5 kg   | 2.5 ml paediatric suspension            |
+| 5–9 kg   | 5 ml paediatric suspension              |
+| 10–14 kg | 7.5 ml paediatric suspension            |
+| 15–22 kg | 10 ml (or 1 regular strength tablet)    |
+| > 22 kg  | 15 ml (or 1.5 regular strength tablets) |
 
 Note
 :	Co-trimoxazole can also be given 3 times a week (e.g. Monday, Wednesday and Friday)
@@ -6796,7 +6609,7 @@ Note
 
 ### 9-34 What are important respiratory problems in children with HIV infection?
 
-Severe, recurrent or chronic pneumonia caused by bacteria that also cause pneumonia in children who do not have HIV infection, e.g. Streptococcal pneumonia (Pneumococcus) and Haemophilus influenzae B
+Severe, recurrent or chronic pneumonia caused by bacteria that also cause pneumonia in children who do not have HIV infection, e.g. Streptococcal pneumonia (Pneumococcus) and *Haemophilus influenzae* B
 
 Pneumocystis pneumonia
 
@@ -6814,7 +6627,7 @@ Pneumocystis pneumonia and lymphoid interstitial pneumonitis are seen very rarel
 
 ### 9-35 What is pneumocystis pneumonia?
 
-Pneumocystis pneumonia is a severe opportunistic infection caused a fungus called Pneumocystis jiroveci. This fungus does not cause pneumonia in healthy children. Therefore, a diagnosis of Pneumocystis pneumonia usually indicates that the child has AIDS. Pneumocystis pneumonia commonly presents in the first year of life with high fever, a cough and marked respiratory distress.
+Pneumocystis pneumonia is a severe opportunistic infection caused a fungus called *Pneumocystis jiroveci*. This fungus does not cause pneumonia in healthy children. Therefore, a diagnosis of Pneumocystis pneumonia usually indicates that the child has AIDS. Pneumocystis pneumonia commonly presents in the first year of life with high fever, a cough and marked respiratory distress.
 
 The risk of Pneumocystis pneumonia can be greatly reduced with co-trimoxazole prophylaxis from 6 weeks in all HIV-exposed infants (i.e. infants born to HIV-positive women).
 
@@ -6836,7 +6649,7 @@ Note
 
 ### 9-37 What forms of tuberculosis are common in children with HIV infection?
 
-Pulmonary TB due to Mycobacterium tuberculosis is the commonest form of TB in both HIV-infected and non-infected children. However, tuberculosis of other organs (extra-pulmonary TB) is far more common in children who are infected with HIV.
+Pulmonary TB due to *Mycobacterium tuberculosis* is the commonest form of TB in both HIV-infected and non-infected children. However, tuberculosis of other organs (extra-pulmonary TB) is far more common in children who are infected with HIV.
 
 A combination of HIV and TB infection leads to rapid immunosuppression with progression of both diseases. As a result, TB is more severe in children with HIV infection.
 
@@ -6845,7 +6658,7 @@ TB in HIV-infected children usually responds well to treatment. However, multipl
 Note
 :	Infection with Mycobacterium avium complex (MAC) is rare in children with AIDS.
 
-See unit 8 for details on tuberculosis.
+*See [chapter 8](8.html) for details on tuberculosis.*
 
 ### 9-38 What gastrointestinal problems are common in children with HIV infection?
 
@@ -6875,7 +6688,7 @@ Severe candidiasis nappy rash, which may ulcerate
 
 Widespread warts
 
-Severe chicken pox or shingles due to Varicella zoster virus
+Severe chicken pox or shingles due to *Varicella zoster* virus
 
 Severe scabies, which may involve the whole body
 
@@ -6887,7 +6700,7 @@ Severe seborrhoeic dermatitis
 
 Any of these severe skin conditions, especially shingles, suggests that the child is infected with HIV. Molluscum contagiosum and warts are often extensive and do not recover spontaneously. Severe tinea capitis and impetigo often need systemic therapy and do not respond to local treatment.
 
-Skin conditions and their management are discussed in unit 12.
+*Skin conditions and their management are discussed in [chapter 12](12.html).*
 
 ### 9-40 What is the effect of HIV infection on neurodevelopment?
 
@@ -7213,9 +7026,9 @@ Severe HIV associated infections (i.e. CMV, Toxoplasmosis, Cryptococcosis, Crypt
 
 Childhood infections
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Diagnose and manage children with measles, chickenpox and mumps.
 
@@ -7340,7 +7153,7 @@ Chickenpox
 
 ### 10-8 What is the cause of chickenpox?
 
-Chickenpox is caused by the Varicella zoster virus. Like measles, it is very infectious and transmitted from person to person by droplet spread. Chickenpox is most infectious at the time that the rash starts. Following chickenpox, the same virus may remain silent (dormant) in the body for many years before being reactivated to result in shingles (acute pain and vesicular rash affecting only part of the body). Children can therefore also be infected and get chickenpox from an adult with shingles.
+Chickenpox is caused by the *Varicella zoster* virus. Like measles, it is very infectious and transmitted from person to person by droplet spread. Chickenpox is most infectious at the time that the rash starts. Following chickenpox, the same virus may remain silent (dormant) in the body for many years before being reactivated to result in shingles (acute pain and vesicular rash affecting only part of the body). Children can therefore also be infected and get chickenpox from an adult with shingles.
 
 ### 10-9 What are the signs and symptoms of chickenpox?
 
@@ -7647,9 +7460,9 @@ Hepatitis B can be prevented by routinely immunising all children with hepatitis
 
 Parasites
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Diagnose and manage children with intestinal worms.
 
@@ -7913,7 +7726,7 @@ Treatment is with mebendazole or albendazole daily for 6 weeks.
 Note
 :	The dog tapeworm is Echinococcus granulosus.
 
-The prevention, diagnosis and treatment of sandworm infection is discussed in Unit 12.
+*The prevention, diagnosis and treatment of sandworm infection is discussed in [chapter 12](12.html).*
 
 Giardiasis
 
@@ -8330,9 +8143,9 @@ The choice is atovaquone and proguanil (Malanil) for children of 10kg or more, o
 
 Skin conditions
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Recognise the common types of rashes.
 
@@ -8370,7 +8183,7 @@ Vesicle: This is a small fluid filled blister that can be both seen and felt. Th
 
 Pustule: This is a small pus-filled blister. A pustular rash can be both seen and felt. If a pustule bursts it also forms a small ulcer, which may crust. Bacterial skin infection is one of the many causes of a pustular rash.
 
-See the full-colour illustrations of skin conditions at the back of the book.
+*[See the full-colour illustrations of skin conditions at the end of this book.](16.html)*
 
 One type of rash often changes into another. For example, in chicken pox the rash starts as red macules, which develop into papules and eventually change into vesicles that heal leaving pale or dark macules or sometimes scars. Although identifying the type of rash does not necessarily give the diagnosis, it is an important step in limiting the range of possible diagnoses. Therefore a detailed description of the rash is needed.
 
@@ -8577,7 +8390,7 @@ Chicken pox and shingles
 
 AIDS
 
-These infections are discussed in Unit 10 on common childhood illnesses and Unit 9 on AIDS.
+*These infections are discussed in [chapter 10 on common childhood illnesses](10.html) and [chapter 9 on AIDS](9.html).*
 
 Note
 :	Some serious systemic bacterial infections, such as meningococcal septicaemia, also present with a rash. Many drugs used to treat systemic infections and other conditions may also cause rashes. Petechiae (purpura) associated with fever is a dangerous sign and these children must be referred immediately for investigation and treatment. A purple rash suggests necrotic skin or bleeding into the skin, and should always be taken seriously.
@@ -9017,9 +8830,9 @@ Many warts disappear spontaneously after a few months without treatment. Warts a
 
 Serious illnesses
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Diagnose and manage acute rheumatic fever.
 
@@ -9051,7 +8864,7 @@ Meningitis
 
 Pyelonephritis
 
-Some serious illnesses, such as pneumonia and typhoid, are discussed in other units.
+*Some serious illnesses, such as pneumonia and typhoid, are discussed in other units.*
 
 Acute rheumatic fever
 
@@ -9266,7 +9079,7 @@ Septicaemia
 
 Septicaemia is an acute serious illness caused by bacterial infection of the blood. This is often a complication of local infection, such as pneumonia or pyelonephritis. Septicaemia may in turn result in the spread of infection to other sites, such as meningitis and osteitis.
 
-Septicaemia may be caused by either Gram positive bacteria (such as Staphylococcus or Streptococcus) or Gram negative bacteria (such as E. coli or Klebsiella).
+Septicaemia may be caused by either Gram positive bacteria (such as Staphylococcus or Streptococcus) or Gram negative bacteria (such as *E. coli* or *Klebsiella*).
 
 Note
 :	Gram described the method of staining bacteria blue and then dividing them into those bacteria that retained the stain (Gram positive) and those that lost the stain (Gram negative) when exposed to other chemicals. Gram positive bacteria usually live on the skin and in the upper respiratory tract while Gram negative bacteria normally live in the bowel. Rarely fungi can also cause septicaemia.
@@ -9323,7 +9136,7 @@ Look for an underlying cause and monitor for complications such as organ failure
 
 The fist choice of antibiotics is either:
 
-Benzyl penicillin 50 000 units/kg every 6 hours intravenously (or ampicillin 50 mg/kg every 6 hours intravenously) plus gentamicin 7.5 mg/kg daily (or amikacin 20 mg/kg daily), given slowly intravenously over 5 minutes.
+Benzyl penicillin 50 000 units/kg every 6 hours intravenously (or ampicillin 50 mg/kg every 6 hours intravenously) *plus* gentamicin 7.5 mg/kg daily (or amikacin 20 mg/kg daily), given slowly intravenously over 5 minutes.
 
 Ceftriaxone 80 mg/kg daily intra­muscularly or by slow intravenous injection. This is very useful in a primary care facility before the child is transferred to hospital.
 
@@ -9337,7 +9150,7 @@ Shock must be treated before the patient is moved to hospital.
 
 ### 13-25 What is meningococcal septicaemia?
 
-This is a serious illness caused by septicaemia due to Meningococcus (i.e. Neisseria meningitidis). Meningococcus is transmitted from person to person by droplet spread (coughing and sneezing). It often causes asymptomatic colonisation of the upper respiratory tract only. However, some people get a septicaemia, meningitis or both. Meningococcal infection is more common in overcrowded conditions where epidemics may occur.
+This is a serious illness caused by septicaemia due to Meningococcus (i.e. *Neisseria meningitidis*). Meningococcus is transmitted from person to person by droplet spread (coughing and sneezing). It often causes asymptomatic colonisation of the upper respiratory tract only. However, some people get a septicaemia, meningitis or both. Meningococcal infection is more common in overcrowded conditions where epidemics may occur.
 
 ### 13-26 What is the typical presentation of meningococcal septicaemia?
 
@@ -9353,7 +9166,7 @@ Many children with meningococcal septicaemia will also have meningococcal mening
 
 Similarly to other types of septicaemia. The choice of antibiotic is benzyl penicillin or ceftriaxone intravenously. Start antibiotics immediately as the clinical condition deteriorates rapidly without treatment.
 
-Do not do a lumber puncture as this is very dangerous due to brain swelling and will not alter the choice of initial treatment. Treat shock and move the patient to hospital urgently.
+Do *not* do a lumber puncture as this is very dangerous due to brain swelling and will not alter the choice of initial treatment. Treat shock and move the patient to hospital urgently.
 
 Meningococcal infection is a notifiable disease in South Africa.
 
@@ -9367,7 +9180,7 @@ Meningitis
 
 ### 13-29 What is meningitis?
 
-It is a serious infection of the meninges (the membranes covering the brain). Meningitis may be due to a viral or bacterial infection. Bacterial meningitis is usually far more dangerous. Causes of bacterial meningitis include both Gram positive and Gram negative bacteria. The most common causes are Pneumococcus (Streptococcus pneumoniae), Haemophilus (Haemophilus influenzae) and Meningococcus (Neisseria meningitidis).
+It is a serious infection of the meninges (the membranes covering the brain). Meningitis may be due to a viral or bacterial infection. Bacterial meningitis is usually far more dangerous. Causes of bacterial meningitis include both Gram positive and Gram negative bacteria. The most common causes are Pneumococcus (*Streptococcus pneumoniae*), Haemophilus (*Haemophilus influenzae*) and Meningococcus (*Neisseria meningitidis*).
 
 Bacteria usually reach the meninges via the blood stream. Rarely, infection is by direct spread, e.g. from mastoiditis. Tuberculosis also causes bacterial meningitis. Fungal meningitis may be seen in children with AIDS.
 
@@ -9431,7 +9244,7 @@ Antibiotics must be started as soon as possible if a clinical diagnosis of bacte
 
 ### 13-34 Can meningitis be prevented?
 
-The introduction of immunisation against Haemophilus influenzae into the routine schedule at 6, 10 and 14 weeks after birth has prevented most cases of haemophilus meningitis. The promise of new vaccines against Pneumococcus and Meningococcus will hopefully also prevent these causes of meningitis.
+The introduction of immunisation against *Haemophilus influenzae* into the routine schedule at 6, 10 and 14 weeks after birth has prevented most cases of haemophilus meningitis. The promise of new vaccines against Pneumococcus and Meningococcus will hopefully also prevent these causes of meningitis.
 
 All those in contact with a patient with meningococcal meningitis or septicaemia should be given rifampicin or ceftriaxone prophylaxis.
 
@@ -9455,7 +9268,7 @@ Pyelonephritis
 
 Pyelonephritis is a bacterial infection of the kidney and the most serious form of urinary tract infection. If not diagnosed and treated early, repeated attacks of pyelonephritis can lead to permanent kidney damage resulting in hypertension and renal failure.
 
-E. coli (Escherichia coli) is usually the bacteria causing a urinary tract infection. Most commonly the infection is mild and only affects the bladder (cystitis). Less commonly, the infection spreads up the ureters to affect the kidney (pyelonephritis). Pyelonephritis may be secondary to a renal tract abnormality that causes an obstruction to the normal flow of urine. This increases the chance that infection will spread to one or both kidneys.
+*E. coli* (Escherichia coli) is usually the bacteria causing a urinary tract infection. Most commonly the infection is mild and only affects the bladder (cystitis). Less commonly, the infection spreads up the ureters to affect the kidney (pyelonephritis). Pyelonephritis may be secondary to a renal tract abnormality that causes an obstruction to the normal flow of urine. This increases the chance that infection will spread to one or both kidneys.
 
 Note
 :	Vesico-ureteric reflux, hydronephrosis and posterior urethra valves increase the chances that a urinary tract infection will result in pyelonephritis.
@@ -9721,9 +9534,9 @@ Take a blood culture and start a fast intravenous infusion with normal saline or
 
 Home and society
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 List the rights of children.
 
@@ -10438,9 +10251,9 @@ He needs physiotherapy. The parents also need to be counselled about the cause, 
 
 Childhood mortality
 
-Objectives
+## Objectives
 
-When you have completed this unit you should be able to:
+When you have completed this chapter you should be able to:
 
 Calculate the under-5 mortality rate.
 
@@ -10717,7 +10530,7 @@ Results of a full examination together with an assessment of the growth and nutr
 
 Any special investigations (e.g. blood and urine tests, X-rays).
 
-All the information must be summarised before the meeting so that a brief summary can be presented. This is often handed out on an information sheet or presented with an overhead projector. It is boring and wastes time if information has to be looked for in the patient’s records during the meeting.
+All the information must be summarised *before* the meeting so that a brief summary can be presented. This is often handed out on an information sheet or presented with an overhead projector. It is boring and wastes time if information has to be looked for in the patient’s records during the meeting.
 
 A register of all admissions and deaths must be kept in each service area (e.g. ward) so that no deaths are missed and the number of admissions are known. Basic information in the ward or clinic register must include each patient’s name, folder number, age, sex and weight. All wards should keep a monthly death register which records all deaths in that month. Often each death is given a unique code (number).
 
@@ -10900,7 +10713,7 @@ The Child Health Care Problem Identification Programme (ChildPIP) is an importan
 
 The aim of ChildPIP is to determine the mortality rates, causes of death and modifiable factors which may prevent childhood deaths. This should improve the quality of care that children receive in the health service.
 
-Figure 15.1 shows the data collection sheet for childhood deaths from ChildPIP.
+*Figure 15-1 shows the data collection sheet for childhood deaths from ChildPIP.*
 
 Ways of avoiding the common causes of under 5 deaths
 
@@ -11243,7 +11056,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Meningitis.
 17.	Hib vaccine protects the child against:
 	*	Hepatitis B.
-	*	Haemophilus influenzae.
+	*	*Haemophilus influenzae*.
 	*	Herpes B.
 	*	Viral influenza.
 18.	What is herd immunity?
@@ -11505,7 +11318,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Rota virus.
 	*	Shigella.
 	*	Salmonella.
-	*	E. coli.
+	*	*E. coli*.
 7.	What is a common sign of dehydration?
 	*	A slow heart rate (bradycardia).
 	*	Slow, regular breathing.
@@ -11589,7 +11402,7 @@ Please choose the one, most correct, answer to each question or statement.
 2.	The cause of a common cold is usually an infection with:
 	*	Influenza virus.
 	*	Rhinovirus.
-	*	Haemophilus influenzae.
+	*	*Haemophilus influenzae*.
 	*	Streptococcus.
 3.	Children with a common cold usually have:
 	*	A high fever.
@@ -11793,7 +11606,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	By droplet spread caused by coughing, sneezing and talking.
 	*	By direct hand to hand contact.
 	*	From mother to infant at birth.
-2.	Most children infected with Mycobacterium tuberculosis:
+2.	Most children infected with *Mycobacterium tuberculosis*:
 	*	Do not develop tuberculosis.
 	*	Get pulmonary tuberculosis.
 	*	Develop abdominal tuberculosis.
@@ -12335,8 +12148,8 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Unfortunately it cannot be prevented.
 5.	Acute glomerulonephritis is usually caused by:
 	*	Streptococcal skin infection.
-	*	Klebsiella pneumonia.
-	*	E. coli urinary tract infection.
+	*	*Klebsiella* pneumonia.
+	*	*E. coli* urinary tract infection.
 	*	Miliary tuberculosis.
 6.	What is an important sign of acute glomerulonephritis?
 	*	Dehydration.
