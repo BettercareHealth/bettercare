@@ -6,16 +6,22 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Introduction to perinatal HIV](1.html)
+2.	[HIV in pregnancy](title-2.html)
+3.	[HIV during labour and delivery](3.html)
+4.	[HIV in the newborn infant](4.html)
+5.	[HIV and counselling](5.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Introduction to perinatal HIV](test-1.html)
+2.	[HIV in pregnancy](test-2.html)
+3.	[HIV during labour and delivery](test-3.html)
+4.	[HIV in the newborn infant](test-4.html)
+5.	[HIV and counselling](test-5.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
