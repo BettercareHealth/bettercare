@@ -2855,28 +2855,23 @@ Ferrous gluconate (or sulphate) syrup 0.25 ml/kg 3 times a day for 3 months. She
 
 
 5
+{:.chapter-number}
 
-Diarrhoea
+# Diarrhoea
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Define and diagnose diarrhoea.
+*	Define and diagnose diarrhoea.
+*	Understand the importance and danger of diarrhoea.
+*	List the causes and complications of diarrhoea.
+*	Diagnose and grade the severity of dehydration.
+*	Manage diarrhoea.
+*	Treat dehydration.
+*	Prevent diarrhoea.
 
-Understand the importance and danger of diarrhoea.
-
-List the causes and complications of diarrhoea.
-
-Diagnose and grade the severity of dehydration.
-
-Manage diarrhoea.
-
-Treat dehydration.
-
-Prevent diarrhoea.
-
-Diagnosis and causes of diarrhoea
+## Diagnosis and causes of diarrhoea
 
 ### 5-1 What is diarrhoea?
 
@@ -2890,46 +2885,34 @@ Yes, it is one of the commonest problems in childhood throughout the world.
 
 Yes. Diarrhoea can be life threatening if it is severe. Diarrhoea causes a loss of fluid and electrolytes in the stool, which can result in dehydration and electrolyte imbalance. The correct management of diarrhoea is important as diarrhoea is one of the leading causes of death in children, especially in poor countries. Each year about 4 million children worldwide die of diarrhoea.
 
-Diarrhoea is a leading cause of infant death worldwide.
-
-
+> Diarrhoea is a leading cause of infant death worldwide.
 
 ### 5-4 What are the common causes of diarrhoea?
 
 The 2 commonest causes of diarrhoea are:
 
-Gastroentestinal infections
-
-Food allergy or intolerance
+*	Gastroentestinal infections
+*	Food allergy or intolerance
 
 Note
 :	Less common causes of diarrhoea include food poisoning (bacterial toxins), a side effect of antibiotics (bacterial overgrowth), some drugs which increase gut motility, coeliac disease and cystic fibrosis (malabsorption).
 
 ### 5-5 What infections cause diarrhoea?
 
-Infections of the bowel:
-
-Viruses, such as Rota virus and measles. Rota virus is the commonest cause of diarrhoea in children.
-
-Bacteria, such as *E. coli* (*Eschericia coli*), Shigella, Salmonella, Campylobacter and Cholera.
-
-Protozoa (small one-celled organisms), such as Giardia, Amoeba and Cryptosporidium.
-
+1.	Infections of the bowel:
+	*	Viruses, such as Rota virus and measles. Rota virus is the commonest cause of diarrhoea in children.
+	*	Bacteria, such as *E. coli* (*Eschericia coli*), Shigella, Salmonella, Campylobacter and Cholera.
+	*	Protozoa (small one-celled organisms), such as Giardia, Amoeba and Cryptosporidium.
 2.	Infections outside the bowel:
+	*	Children with bacterial infections, such as otitis media, septicaemia and urinary tract infection may also have diarrhoea.
+	*	In some children who present with diarrhoea, the infection is not in the bowel but elsewhere (parenteral diarrhoea).
 
-Children with bacterial infections, such as otitis media, septicaemia and urinary tract infection may also have diarrhoea.
-
-In some children who present with diarrhoea, the infection is not in the bowel but elsewhere (parenteral diarrhoea).
-
-Rota virus infection of the bowel is the commonest cause of diarrhoea in children.
-
-
+> Rota virus infection of the bowel is the commonest cause of diarrhoea in children.
 
 ### 5-6 What food intolerances cause diarrhoea?
 
-Carbohydrate intolerance especially lactose intolerance.
-
-Protein intolerance especially cow’s milk protein intolerance.
+1.	Carbohydrate intolerance especially lactose intolerance.
+2.	Protein intolerance especially cow’s milk protein intolerance.
 
 Both lactose intolerance and cow’s milk protein intolerance usually cause persistent diarrhoea following earlier damage to the bowel caused by gastroenteritis.
 
@@ -2942,9 +2925,7 @@ Gastroenteritis (or acute diarrhoeal disease) is an acute infection of the bowel
 
 Gastroenteritis is usually caused by Rota virus or *E. coli*. Rota virus is highly infectious and seen in both poor and wealthy communities especially in children less than 1 year old. The infection is usually spread from the stool of the infected person by unwashed hands or contaminated water or food (the faecal–oral route). Poor hygiene or sanitation may result in outbreaks of gastroenteritis. Gastroenteritis usually presents as acute diarrhoea. However, if the bowel mucosa is damaged by the infection, gastroenteritis may also result in persistent diarrhoea.
 
-Gastroenteritis is an acute infection of the bowel, causing diarrhoea.
-
-
+> Gastroenteritis is an acute infection of the bowel, causing diarrhoea.
 
 Note
 :	Rota virus causes direct bowel mucosal damage while most types of *E. coli* produce toxins which interfere with the normal function of the bowel wall leading to excess water and electrolyte loss.
@@ -2960,23 +2941,17 @@ Note
 
 Diarrhoea usually recovers within 7 days. However, if diarrhoea does not recover by 2 weeks (14 days), it is called persistent (prolonged or chronic) diarrhoea. Persistent diarrhoea is common in malnourished children and children with HIV infection.
 
-Diarrhoea for more than 14 days is persistent diarrhoea.
-
-
+> Diarrhoea for more than 14 days is persistent diarrhoea.
 
 ### 5-10 What is the relationship between diarrhoea and malnutrition?
 
 Diarrhoea is commoner and more severe in children with malnutrition (i.e. undernutrition). Therefore malnourished children often have persistent or repeated diarrhoea. In addition, malnourished children are more likely to develop severe diarrhoea and die from it. There is therefore a close relationship between diarrhoea and malnutrition.
 
-Diarrhoea is both common and more severe in children with malnutrition.
-
-
+> Diarrhoea is both common and more severe in children with malnutrition.
 
 Persistent or repeated diarrhoea may result in weight loss and malnutrition in children who were previously well nourished. Diarrhoea, especially persistent diarrhoea, often precipitates marasmus or kwashiorkor in children who already are mildly malnourished. Therefore, both malnutrition and diarrhoea often occur in the same children. The one con­dition often makes the other condition worse.
 
-Diarrhoea may precipitate or aggravate malnutrition.
-
-
+> Diarrhoea may precipitate or aggravate malnutrition.
 
 ### 5-11 Is diarrhoea common in children with HIV infection?
 
@@ -2986,11 +2961,9 @@ In children with HIV infection, diarrhoea is not only more frequent but also mor
 
 ### 5-12 Which infants are at greatest risk of dying from diarrhoea?
 
-Infants under 6 months of age
-
-Malnourished infants
-
-Children with AIDS
+*	Infants under 6 months of age
+*	Malnourished infants
+*	Children with AIDS
 
 ### 5-13 What is cholera?
 
@@ -3000,9 +2973,7 @@ Cholera is a severe, highly infectious form of watery diarrhoea which is common 
 
 Dysentery is a form of diarrhoea where the stool is not simply watery, but also contains visible blood and mucus. Dysentery is usually caused by organisms which invade and damage the bowel wall. These children usually look ill (toxic) and have a high temperature. Dysentery is usually caused by Shigella, Salmonella, Campylobacter, Amoeba and some types of *E. coli*. The commonest cause of dysentery is Shigella. Dysentery is severe if there are signs of dehydration.
 
-Dysentery is diarrhoea containing blood and mucus.
-
-
+> Dysentery is diarrhoea containing blood and mucus.
 
 Note
 :	With dysentery, the organisms invade and damage the bowel wall, causing bleeding and the secretion of mucus.
@@ -3016,31 +2987,22 @@ Typhoid is a septicaemia caused by a bowel infection with *Salmonella typhi*. Th
 Note
 :	Children with typhoid may appear severely ill and toxic with only mild diarrhoea or no diarrhoea at all.
 
-The complications of acute diarrhoea
+## The complications of acute diarrhoea
 
 ### 5-16 What are the complications of acute diarrhoea?
 
-Dehydration
-
-Shock
-
-Acidosis
-
-Electrolyte loss
-
-Ileus
-
-Hypoglycaemia
-
-Septicaemia
-
-Malnutrition
+*	Dehydration
+*	Shock
+*	Acidosis
+*	Electrolyte loss
+*	Ileus
+*	Hypoglycaemia
+*	Septicaemia
+*	Malnutrition
 
 Severe dehydration is the commonest cause of death in infants with diarrhoea and by far the most important complication.
 
-Dehydration is the most important complication and the commonest cause of death in infants with diarrhoea.
-
-
+> Dehydration is the most important complication and the commonest cause of death in infants with diarrhoea.
 
 ### 5-17 How can you recognise dehydration?
 
@@ -3048,17 +3010,12 @@ Dehydration develops when excessive amounts of fluid are lost from the body. Dia
 
 In all children with diarrhoea the following signs must be looked for:
 
-Offer the child a drink. Is the child able to drink? Is there increased thirst or a refusal to drink? Does the child vomit after drinking?
-
-Is the child restless and irritable or lethargic or unconscious?
-
-Are the eyes sunken?
-
-Is the skin turgor (elasticity) decreased?
-
-Is the infant’s fontanelle sunken?
-
-Has there been a sudden weight loss?
+*	Offer the child a drink. Is the child able to drink? Is there increased thirst or a refusal to drink? Does the child vomit after drinking?
+*	Is the child restless and irritable or lethargic or unconscious?
+*	Are the eyes sunken?
+*	Is the skin turgor (elasticity) decreased?
+*	Is the infant’s fontanelle sunken?
+*	Has there been a sudden weight loss?
 
 Note
 :	In an attempt to keep the intravascular volume as normal as possible, interstitial and intracellular fluid is moved into the intravascular compartment (serum). This dehydrates the tissues resulting in loss of skin turgor, sunken eyes and a sunken fontanelle.
@@ -3074,39 +3031,25 @@ Note
 
 ### 5-19 How can the degree of dehydration be assessed?
 
-All children with diarrhoea must be examined for signs of dehydration. The degree of dehydration can be roughly assessed clinically into ‘no visible’ dehydration, ‘some’ dehydration or ‘severe’ dehydration. This is important as it is essential to identify children with severe dehydration.
-
-‘No visible’ dehydration: The child has no signs of dehydration or not enough signs to be classified as ‘some dehydration’. However, many children with ‘no visible dehydration’ have still lost more fluid than normal. They often are thirsty and pass little urine.
-
-‘Some’ dehydration: They have 2 or more of the following signs:
-
-Very thirsty and drinks eagerly
-
-Restless and irritable
-
-Sunken eyes
-
-Moderate degree of decreased skin turgor. When pinched, the skin takes longer than usual, but less than 2 seconds, to return to normal.
-
+1.	All children with diarrhoea must be examined for signs of dehydration. The degree of dehydration can be roughly assessed clinically into ‘no visible’ dehydration, ‘some’ dehydration or ‘severe’ dehydration. This is important as it is essential to identify children with severe dehydration.
+2.	‘No visible’ dehydration: The child has no signs of dehydration or not enough signs to be classified as ‘some dehydration’. However, many children with ‘no visible dehydration’ have still lost more fluid than normal. They often are thirsty and pass little urine.
+	*	‘Some’ dehydration: They have 2 or more of the following signs:
+	*	Very thirsty and drinks eagerly
+	*	Restless and irritable
+	*	Sunken eyes
+	*	Moderate degree of decreased skin turgor. When pinched, the skin takes longer than usual, but less than 2 seconds, to return to normal.
 3.	‘Severe’ dehydration: They have 2 or more of the following signs:
-
-Not able to drink or drinks very poorly
-
-Lethargic or unconscious
-
-Eyes very sunken.
-
-Severe decrease in skin turgor. When pinched, the skin takes 2 seconds or more to return to normal.
-
-Shock with delayed capillary filling time
+	*	Not able to drink or drinks very poorly
+	*	Lethargic or unconscious
+	*	Eyes very sunken.
+	*	Severe decrease in skin turgor. When pinched, the skin takes 2 seconds or more to return to normal.
+	*	Shock with delayed capillary filling time
 
 Severe dehydration leads to shock, acidosis, electrolyte loss, an ileus and hypoglycaemia.
 
 Always start by first looking for signs of severe dehydration. If the child has 2 or more signs of severe dehydration, then the child is classified as severe dehydration. If the child does not have 2 or more signs of severe dehydration, then look for signs of some dehydration. If there are 2 or more signs of some dehydration, the child is classified as some dehydration. If there are no signs or only 1 sign of some dehydration present the child is classified as no visible dehydration.
 
-The degree of dehydration must always be assessed in children with diarrhoea.
-
-
+> The degree of dehydration must always be assessed in children with diarrhoea.
 
 Note
 :	Children with ‘some’ dehydration often also have a dry mouth, poor urine output and do not look well. Children with ‘severe’ dehydration appear severely ill and are hypotensive, with a rapid, weak pulse, cold peripheries, and have acidotic breathing.
@@ -3122,31 +3065,22 @@ Note
 
 Shock (hypovolaemic shock in dehydration) is the failure of the heart to maintain adequate circulation due to the loss of fluid. With excessive fluid loss in the stools, the volume of fluid in the circulation falls and there is not enough fluid to allow normal blood flow to the small capillaries of the body. As a result, blood flow slows down or stops in the capillaries and the body cells do not receive enough oxygen and food. Shock presents with:
 
-A delayed capillary filling time
-
-Tachycardia (a fast heart rate)
-
-A weak radial pulse which is difficult to feel
-
-Hypothermia (low body temperature) especially cold hands and feet (cold peripheries)
-
-A depressed level of consciousness (lethargy and drowsiness)
-
-Hypotension (low blood pressure) with weak or impalpable peripheral pulses
+*	A delayed capillary filling time
+*	Tachycardia (a fast heart rate)
+*	A weak radial pulse which is difficult to feel
+*	Hypothermia (low body temperature) especially cold hands and feet (cold peripheries)
+*	A depressed level of consciousness (lethargy and drowsiness)
+*	Hypotension (low blood pressure) with weak or impalpable peripheral pulses
 
 The blood pressure may still be normal in the early stages of shock. Shock is a very serious sign and indicates that the child will probably die unless immediate treatment is started.
 
-Shock is the failure of the peripheral circulation due to the loss of fluid.
-
-
+> Shock is the failure of the peripheral circulation due to the loss of fluid.
 
 ### 5-22 How is a delayed capillary filling time measured?
 
 The most important sign of shock is a delayed capillary filling time of more than 3 seconds. The capillary filling time is measured by pressing on the sole of the child’s foot or palm of the hand, then releasing the pressure and counting how many seconds it takes for the pale area to regain its pink colour. Pressing on the nail of the middle finger can also be used to measure the capillary filling time. In order to count in seconds, and not too fast or too slow, it is useful to count ‘one crocodile, two crocodiles, three crocodiles, etc’. The return of colour to the pale area is due to the capillaries filling once more with blood. Therefore, this is a good way of assessing the state of the peripheral circulation (the blood flow through the capillaries). Slow filling of the capillaries shows that the blood is not circulating properly.
 
-A delay in the capillary filling time is the best way of diagnosing shock.
-
-
+> A delay in the capillary filling time is the best way of diagnosing shock.
 
 ### 5-23 What causes acidosis in children with diarrhoea?
 
@@ -3161,9 +3095,7 @@ Note
 
 Children with diarrhoea lose both fluid and electrolytes in the stool. Important electrolytes which are lost include sodium, potassium, calcium, magnesium, chloride, phosphate,and bicarbonate. Electrolytes are also lost with excessive vomiting.
 
-Children with diarrhoea lose excessive amounts of fluid and electrolytes in the stool.
-
-
+> Children with diarrhoea lose excessive amounts of fluid and electrolytes in the stool.
 
 An electrolyte imbalance (too much or too little of one or more of the electrolytes) may be caused by dehydration or using an incorrect re­hydration fluid. Electrolyte imbalance presents as floppiness (hypotonia), drowsiness or fits.
 
@@ -3186,43 +3118,32 @@ Some infants with diarrhoea appear very ill and have bacteria circulating in the
 
 ### 5-28 What signs suggest that the diarrhoea may have a surgical cause?
 
-Repeated, severe vomiting
-
-A markedly distended abdomen
-
-Bile stained vomiting
-
-Passing a lot of blood and mucus with little stool
-
-Severe, continuing abdominal pain (not just intermittent cramping pains)
+*	Repeated, severe vomiting
+*	A markedly distended abdomen
+*	Bile stained vomiting
+*	Passing a lot of blood and mucus with little stool
+*	Severe, continuing abdominal pain (not just intermittent cramping pains)
 
 These children must be referred to hospital urgently for further investigation.
 
-Treatment of diarrhoea
+## Treatment of diarrhoea
 
 ### 5-29 What is the management of a child with acute diarrhoea?
 
-The most important aspect of management is to start oral rehydration therapy as early as possible to prevent dehydration from occurring. Oral rehydration solution should be used. With frequent, small drinks most children with mild diarrhoea can be adequately managed without developing dehydration.
-
-Breastfeeding, formula or solid feeds should be continued unless the child has severe vomiting.
-
-The clinical condition of the child must be continually assessed for signs of complications, especially dehydration.
-
-Treat the complications if they occur.
+1.	The most important aspect of management is to start oral rehydration therapy as early as possible to prevent dehydration from occurring. Oral rehydration solution should be used. With frequent, small drinks most children with mild diarrhoea can be adequately managed without developing dehydration.
+1.	Breastfeeding, formula or solid feeds should be continued unless the child has severe vomiting.
+1.	The clinical condition of the child must be continually assessed for signs of complications, especially dehydration.
+1.	Treat the complications if they occur.
 
 Treatment must be started early and every effort must be made to prevent dehydration by replacing the fluid losses. It is important to teach mothers that acute diarrhoea is treated with oral rehydration solution and not with medicines. Thirst is often a good guide to the need for oral rehydration solution. The management of most children with acute diarrhoea is both simple and cheap. Intravenous fluid (‘a drip’) is usually not necessary. There is no need for routine stool cultures in acute diarrhoea.
 
-The early use of oral rehydration solution can usually prevent dehydration.
-
-
+> The early use of oral rehydration solution can usually prevent dehydration.
 
 ### 5-30 Will milk feeds make acute diarrhoea worse?
 
 Although continuing milk feeds in infants may appear to make the diarrhoea worse, it is important to continue feeds as it helps to provide energy and replace fluid and electrolyte losses. Infants recover from diarrhoea faster if milk feeds are continued. Breastfeeding or full-strength formula should be used. There is no need to dilute feeds. The aim of feeding during diarrhoea is to maintain nutrition. Rehydration solution should be given in addition and not be used to replace feeds.
 
-Milk feeds must not be stopped in infants with acute diarrhoea.
-
-
+> Milk feeds must not be stopped in infants with acute diarrhoea.
 
 ### 5-31 Can children with acute diarrhoea continue to be fed solid food?
 
@@ -3236,21 +3157,15 @@ Medicine is usually not necessary and may even be dangerous in small children. A
 
 Most cases of acute diarrhoea are caused by a virus and do not respond to antibiotics. Indication for antibiotics are:
 
-Suspected septicaemia (very ill with a high fever)
-
-Small infants (under 1 month)
-
-Severely malnourished children
-
-Dysentery (blood in the stools)
-
-Suspected cholera
+*	Suspected septicaemia (very ill with a high fever)
+*	Small infants (under 1 month)
+*	Severely malnourished children
+*	Dysentery (blood in the stools)
+*	Suspected cholera
 
 Infants who are sick enough to receive antibiotics should be referred to hospital for management.
 
-Routine antibiotics should not be used to treat acute diarrhoea.
-
-
+> Routine antibiotics should not be used to treat acute diarrhoea.
 
 Note
 :	Ill infants with suspected septicaemia must receive systemic antibiotics. Dysentery (often due to Shigella) is usually treated with oral nalidixic acid (12.5 mg/kg/dose 6 hourly for 5 days) while persistent diarrhoea (often due to Amoebae or Giardia) is treated with metronidazole (Flagyl).
@@ -3265,33 +3180,26 @@ There is no role for antiemetics (drugs which stop vomiting) in the management o
 
 Children with mild diarrhoea and no visible signs of dehydration can be treated at home with continuing feeds and oral rehydration solution. If the diarrhoea becomes worse or does not recover in 2 days the child must be seen at a clinic. Children who refuse to drink or who vomit repeatedly must be taken to a clinic immediately as they are at great risk of dehydration. Counsel the mother to seek help if the infant’s eyes or fontanelle appear sunken. Most children with diarrhoea can be managed at home. The mother must know how to give rehydration solution correctly and when to bring the child back to clinic.
 
-Children with mild diarrhoea can be treated at home with feeds and oral rehydration solution.
-
-
+> Children with mild diarrhoea can be treated at home with feeds and oral rehydration solution.
 
 The guidelines for managing acute diarrhoea at home are:
 
-Give extra fluids.
-
-Continue feeding.
-
-Know when to take the child to the clinic or hospital.
+1.	Give extra fluids.
+1.	Continue feeding.
+1.	Know when to take the child to the clinic or hospital.
 
 ### 5-36 What is oral rehydration therapy?
 
 Oral rehydration therapy (ORT) is the most important part of managing acute diarrhoea and saves the lives of millions of children worldwide each year. ORT consists of giving oral rehydration solution by mouth early in acute diarrhoea to prevent or treat dehydration. Give frequent small sips from a cup.
 
-Oral rehydration therapy saves million of lives every year.
-
-
+> Oral rehydration therapy saves million of lives every year.
 
 ### 5-37 What is oral rehydration solution?
 
 Oral rehydration solution (ORS) is a mixture of water, electrolytes (salts) and glucose which is given by mouth to provide energy and replace the fluid and electrolytes which have been lost. Oral rehydration solution can be:
 
-Bought commercially.
-
-Made up in the home as a sugar and salt solution.
+*	Bought commercially.
+*	Made up in the home as a sugar and salt solution.
 
 ### 5-38 What is commercial oral rehydration solution?
 
@@ -3304,17 +3212,13 @@ Note
 
 Home made sugar and salt solution (SSS) is not quite as good as commercial oral rehydration solution as it does not contain potassium. However, it is immediately available and often lifesaving.. The commonest recipe for a sugar and salt solution is:
 
-1 litre of clean water.
-
-8 level teaspoons of sugar.
-
-½ of a level teaspoon of table salt.
+1.	1 litre of clean water.
+1.	8 level teaspoons of sugar.
+1.	½ of a level teaspoon of table salt.
 
 One litre of water can be measured with a measuring jug or a one litre cool drink bottle. The sugar and salt must be added to the litre of clean water and mixed well. It is very important not to add too much salt. If possible, the sugar and salt solution should be given by cup or by spoon as this avoids using dirty bottles. It is dangerous to add a sachet of rehydration powder to the sugar and salt solution as this will make the solution too concentrated.
 
-A sugar and salt solution for oral rehydration can be easily made up at home.
-
-
+> A sugar and salt solution for oral rehydration can be easily made up at home.
 
 ### 5-40 Who should know how to make up sugar and salt solution for oral rehydration?
 
@@ -3324,9 +3228,7 @@ Every mother or caretaker should know how to make up a sugar and salt solution a
 
 As soon as the diarrhoea is noticed. It is very important to start oral rehydration therapy as early as possible to prevent dehydration. The earlier it is started the quicker the child will get better. It is important to start oral rehydration therapy before taking the child to a doctor or nurse.
 
-Oral rehydration therapy at home should be started as soon as possible, to prevent dehydration.
-
-
+> Oral rehydration therapy at home should be started as soon as possible, to prevent dehydration.
 
 ### 5-42 How much oral rehydration solution should be given?
 
@@ -3336,15 +3238,11 @@ It is best to give the oral rehydration solution frequently and in small volumes
 
 Most children with acute diarrhoea can be managed at home or at a primary care clinic. However, the following children should be referred to hospital for further management:
 
-Children with signs of severe dehydration or shock
-
-Children who have lost more than 10% of their body weight
-
-Children who continue to vomit despite being given oral rehydration solution
-
-Children with a fever or other signs of infection
-
-Children who have had a convulsion (fit) or are very irritable
+*	Children with signs of severe dehydration or shock
+*	Children who have lost more than 10% of their body weight
+*	Children who continue to vomit despite being given oral rehydration solution
+*	Children with a fever or other signs of infection
+*	Children who have had a convulsion (fit) or are very irritable
 
 ### 5-44 What is the management of persistent diarrhoea?
 
@@ -3360,27 +3258,21 @@ These children should be referred to hospital for investigation and treatment. C
 Note
 :	Dysentry is usually due to Shigella, which has become resistant over the years to many antibiotics. Ciprofloxacin may be required.
 
-Management of dehydration
+## Management of dehydration
 
 ### 5-46 What is the management of a child with diarrhoea but no visible dehydration?
 
 These children are losing excessive amounts of fluid and electrolytes in their stools and therefore must still be given extra fluid and electrolytes to prevent signs of dehydration from appearing.
 
-These children should be managed at home or at a clinic using commercial oral rehydration solution or sugar and salt solution to replace fluid losses. Give as much fluid as the child will take. Continue with extra fluids until the diarrhoea stops.
-
-Normal feeds should be continued. breastfeeding mothers should continue to give breastfeeds.
-
-The child should be closely observed for continuing loose stools or vomiting. Signs of dehydration must also be looked for.
-
-The mother should bring the child to the clinic immediately if the child becomes more sick, develops signs of dehydration, refuses feeds or vomits a lot.
-
-Children with diarrhoea but no visible dehydration, who are managed at home, should return to the clinic in 5 days if the diarrhoea has not stopped.
+1.	These children should be managed at home or at a clinic using commercial oral rehydration solution or sugar and salt solution to replace fluid losses. Give as much fluid as the child will take. Continue with extra fluids until the diarrhoea stops.
+1.	Normal feeds should be continued. breastfeeding mothers should continue to give breastfeeds.
+1.	The child should be closely observed for continuing loose stools or vomiting. Signs of dehydration must also be looked for.
+1.	The mother should bring the child to the clinic immediately if the child becomes more sick, develops signs of dehydration, refuses feeds or vomits a lot.
+1.	Children with diarrhoea but no visible dehydration, who are managed at home, should return to the clinic in 5 days if the diarrhoea has not stopped.
 
 The aim of early home care is to prevent dehydration and continue feeding. The mother must know what fluids to use and how much to give. She must also know when to return to the clinic.
 
-Home care with oral rehydration solution can usually prevent dehydration.
-
-
+> Home care with oral rehydration solution can usually prevent dehydration.
 
 Note
 :	Children with ‘no visible’ dehydration who do not meet the criteria needed to be classified as ‘some’ dehydration may still have lost about 5% of their body fluid (about 5% loss in body weight and therefore need extra fluids).
@@ -3389,25 +3281,18 @@ Note
 
 These children with 2 or more clinical signs of ‘some’ dehydration should initially be managed in a clinic or hospital if possible as they can progress to ‘severe’ dehydration:
 
-They can be treated with oral rehydration solution with a close watch for repeated vomiting or a refusal to drink. It is best if the oral rehydation solution is given by cup and/or spoon.
-
-80 ml/kg of oral rehydration solution should be given over 4 hours, i.e. about 20 ml/kg each hour. More can be given if the child wants to drink more. It is best if the child has frequent, small sips. If the child vomits, wait for 10 minutes and then try again more slowly.
-
-The degree of dehydration must be assessed after 4 hours.
-
-If the child takes the oral rehydration solution well, is not vomiting and there are no longer signs of dehydration (and the child has gained weight) after 4 hours, the child can be sent home and return to be assessed the next day. At home the child should be managed with oral rehydration solution (as for diarrhoea with ‘no visible’ dehydration). The decision to send the child home will depend on the home circumstances. The mother must bring the child back immediately if the diarrhoea gets worse, the child vomits everything or signs of dehydration appear. 
-
-It is important that the child continues to receive regular feeds (especially breastfeeds) plus oral rehydration solution until the diarrhoea stops. Oral rehydration solution does not cause the fluid loss in the stools to increase.
-
-The mother must know how to make up the rehydration solution correctly and how much to give.
+1.	They can be treated with oral rehydration solution with a close watch for repeated vomiting or a refusal to drink. It is best if the oral rehydation solution is given by cup and/or spoon.
+1.	80 ml/kg of oral rehydration solution should be given over 4 hours, i.e. about 20 ml/kg each hour. More can be given if the child wants to drink more. It is best if the child has frequent, small sips. If the child vomits, wait for 10 minutes and then try again more slowly.
+1.	The degree of dehydration must be assessed after 4 hours.
+1.	If the child takes the oral rehydration solution well, is not vomiting and there are no longer signs of dehydration (and the child has gained weight) after 4 hours, the child can be sent home and return to be assessed the next day. At home the child should be managed with oral rehydration solution (as for diarrhoea with ‘no visible’ dehydration). The decision to send the child home will depend on the home circumstances. The mother must bring the child back immediately if the diarrhoea gets worse, the child vomits everything or signs of dehydration appear. 
+1.	It is important that the child continues to receive regular feeds (especially breastfeeds) plus oral rehydration solution until the diarrhoea stops. Oral rehydration solution does not cause the fluid loss in the stools to increase.
+1.	The mother must know how to make up the rehydration solution correctly and how much to give.
 
 If the infant refuses to drink fluids or vomits repeatedly after drinking, a continuous naso­gastric drip should be started. If there are still signs of ‘some’ dehydration after 4 hours, continue with the oral or nasogastric rehydration solution and assess again after a further 4 hours. If signs of severe dehydration develop, manage the child for ‘severe’ dehydration.
 
 The lives of most children with diarrhoea can be saved by the simple, cheap use of oral rehydration therapy at home or in a local primary care clinic.
 
-Children with some dehydration are treated at a clinic or hospital with extra fluids in addition to continuing normal feeds.
-
-
+> Children with some dehydration are treated at a clinic or hospital with extra fluids in addition to continuing normal feeds.
 
 Note
 :	The WHO recommends 75 ml/kg of oral rehydration solution over 4 hours.
@@ -3416,23 +3301,16 @@ Note
 
 The management of children with severe diarrhoea leading to severe dehydration is a medical emergency. Look carefully for shock in all children with severe dehydration and treat immediately.
 
-Immediately start an intravenous infusion with Ringer’s lactate (or half normal saline or half strength Darrows/dextrose solution).
-
-Give 30 ml/kg over the first half hour (30 minutes). Then give 70 ml/kg over 2 ½ hours (i.e. about 30 ml/kg per hour). Most infants are therefore rehydrated with 100 ml/kg over 3 hours.
-
-The child must be closely observed and reassessed every half hour. If the clinical signs of dehydration have not improved after an hour, fluid should be given faster. Careful assessment after 3 hours is needed to decide whether further management should be for ‘no visible’, ‘some’ or ‘severe’ dehydration.
-
-If an intravenous infusion cannot be started, pass a nasogastric tube and give 20 ml/kg/hour over 6 hours (i.e. 120 ml/kg). Nasogastric rehydration is slower than intravenous rehydration as it takes time for the fluid to be absorbed. If there is repeated vomiting or abdominal distension, give the nasogastric fluid slower or try again to start an intravenous infusion. 
-
-Only once intravenous or nasogastric rehydration has been started, should the child be moved urgently to hospital. Always start replacing fluid before moving the child. One of the commonest mistakes made is to rush the child to hospital before starting intravenous or nasogastric fluid. If no equipment is available to give fluid fast, try to get the child to drink while being urgently transported to hospital.
-
-Oral rehydration solution should be started when the child is able to drink.
+1.	Immediately start an intravenous infusion with Ringer’s lactate (or half normal saline or half strength Darrows/dextrose solution).
+1.	Give 30 ml/kg over the first half hour (30 minutes). Then give 70 ml/kg over 2 ½ hours (i.e. about 30 ml/kg per hour). Most infants are therefore rehydrated with 100 ml/kg over 3 hours.
+1.	The child must be closely observed and reassessed every half hour. If the clinical signs of dehydration have not improved after an hour, fluid should be given faster. Careful assessment after 3 hours is needed to decide whether further management should be for ‘no visible’, ‘some’ or ‘severe’ dehydration.
+1.	If an intravenous infusion cannot be started, pass a nasogastric tube and give 20 ml/kg/hour over 6 hours (i.e. 120 ml/kg). Nasogastric rehydration is slower than intravenous rehydration as it takes time for the fluid to be absorbed. If there is repeated vomiting or abdominal distension, give the nasogastric fluid slower or try again to start an intravenous infusion. 
+1.	Only once intravenous or nasogastric rehydration has been started, should the child be moved urgently to hospital. Always start replacing fluid before moving the child. One of the commonest mistakes made is to rush the child to hospital before starting intravenous or nasogastric fluid. If no equipment is available to give fluid fast, try to get the child to drink while being urgently transported to hospital.
+1.	Oral rehydration solution should be started when the child is able to drink.
 
 Never rehydrate an infant or child with 5% or 10% dextrose only as they need electrolytes as well as fluid and glucose. Rehydration fluids must always contain some glucose (dextrose).
 
-Children with severe dehydration should be rehydrated with 100 ml/kg of fluid intravenously over 3 hours.
-
-
+> Children with severe dehydration should be rehydrated with 100 ml/kg of fluid intravenously over 3 hours.
 
 Note
 :	In infants under one year it is best to give 30 ml/kg for the first hour while the remaining 70 ml/kg is given slower over a further five hours. Therefore, small infants are rehydrated slower with 100 ml/kg over 6 hours.
@@ -3443,9 +3321,7 @@ The amount and rate of fluid needed to correct severe dehydration has been contr
 
 Give intravenous Ringer’s lactate or normal saline 20 ml/kg as fast as possible. Continue to give fluid at this fast rate until the signs of shock have disappeared. An easily felt radial pulse and normal capillary filling time are very reassuring signs of a good response to management. Once shock has been corrected, Ringer’s lactate, half normal saline or half Darrows/dextrose solution is then given at the standard rate for severe dehydration (i.e. 30 ml/kg per hour).
 
-20 ml/kg of intravenous fluid is given as fast as possible if shock is present.
-
-
+> 20 ml/kg of intravenous fluid is given as fast as possible if shock is present.
 
 If it is not possible to start an intravenous line, the intraosseous route can be used in young children if the health worker is trained in this technique. A nasogastric drip can be used if neither intravenous or intraosseous routes are available. Haemacel, fresh frozen plasma or stabilized human serum (SHS) can also be used to treat shock. Using the intraosseous route in children under six years of age can be a life-saving procedure.
 
@@ -3459,35 +3335,26 @@ Once dehydration has been corrected, the total amount of fluid needed is normal 
 
 Zinc is an important trace element which can speed up the recovery from diarrhoea and help to prevent further diarrhoea. Once the child is taking feeds well, one tablet of zinc (20 mg) should be given daily for 10 days. Children under 6 months should have half a tablet daily. 
 
-Prevention of diarrhoea
+## Prevention of diarrhoea
 
 ### 5-52 Is acute diarrhoea preventable?
 
 Yes. The viruses and bacteria that usually cause acute diarrhoea spead easily from person to person. Acute diarrhoea is an infectious disease. With simple interventions, most cases of acute diarrhoea can be prevented.
 
-Acute diarrhoea is usually very infectious but can be prevented.
-
-
+> Acute diarrhoea is usually very infectious but can be prevented.
 
 ### 5-53 Why do children commonly get diarrhoea?
 
 Because they are exposed to the viruses and bacteria which cause diarrhoea. Their food and water may also be contaminated by these organisms. Infections which cause diarrhoea are particularly common:
 
-In infants who are bottle-fed rather than breastfed
+*	In infants who are bottle-fed rather than breastfed
+*	Where there is not a supply of clean water to mix formula
+*	When feeding bottles and teats cannot be properly cleaned
+*	In communities without adequate toilet facilities
+*	When flies are common
+*	When personal hygiene is poor, especially no handwashing before eating
 
-Where there is not a supply of clean water to mix formula
-
-When feeding bottles and teats cannot be properly cleaned
-
-In communities without adequate toilet facilities
-
-When flies are common
-
-When personal hygiene is poor, especially no handwashing before eating
-
-Diarrhoea is usually due to contaminated food or water.
-
-
+> Diarrhoea is usually due to contaminated food or water.
 
 Note
 :	Faeces left on the open ground or washed into the water supply by rain, pit toilets that overflow, and vegetables ‘freshened’ with contaminated water are all common sources of infection. Infected food (e.g. eggs and shellfish) can also result in diarrhoea.
@@ -3496,34 +3363,25 @@ Note
 
 Diarrhoea is far less common with:
 
-Breastfeeding to 6 months and longer if possible
-
-A supply of clean water
-
-Adequate sanitation (the safe disposal of faeces)
-
-Cup-feeding rather than bottle-feeding if formula is used
-
-Good personal hygiene, especially hand-washing before meals or handling food
-
-Protecting food from flies
+*	Breastfeeding to 6 months and longer if possible
+*	A supply of clean water
+*	Adequate sanitation (the safe disposal of faeces)
+*	Cup-feeding rather than bottle-feeding if formula is used
+*	Good personal hygiene, especially hand-washing before meals or handling food
+*	Protecting food from flies
 
 Breastfeeding, a clean safe water supply, appropriate hand-washing and good sanitation will prevent most cases of diarrhoea. Well nourished children are less likely to get severe diarrhoea than malnourished children. Breast milk contains many substances (antibodies and immune cells) which protect the gut from infection and it thereby protects the infant from diarrhoea caused by infection.
 
-Breastfeeding is an important way of preventing diarrhoea in young infants.
-
-
+> Breastfeeding is an important way of preventing diarrhoea in young infants.
 
 Note
 :	Recent research shows that probiotics, such as bifidobacteria, added to formula feeds can reduce the risk of gastroenteritis.
 
 ### 5-55 How can a safe water supply be obtained?
 
-Chlorinated tap water must be provided where ever possible.
-
-Water can be sterilized by boiling or adding chlorine tablets.
-
-If none of the above is available, water can be made safer by putting it into a clear, plastic bottle or bag and leaving it in the sun for a few hours. The ultraviolet light will kill most viruses or bacteria in the water.
+1.	Chlorinated tap water must be provided where ever possible.
+1.	Water can be sterilized by boiling or adding chlorine tablets.
+1.	If none of the above is available, water can be made safer by putting it into a clear, plastic bottle or bag and leaving it in the sun for a few hours. The ultraviolet light will kill most viruses or bacteria in the water.
 
 If the water is cloudy or dirty it should be filtered or be allowed to stand until the clear water at the top can be gently poured off. The clear water must then be sterilized.
 
@@ -3534,13 +3392,10 @@ Note
 
 There are a number of simple ways to improve sanitation and reduce the risk of children getting diarrhoea. All stools must be passed or deposited into a flush, chemical or pit toilet:
 
-A simple pit toilet: The pit must be dug less than a metre wide and at least 1 to 2 metres deep, 20 metres or more away from houses or water sources. The deeper the pit the better. The pit must be covered with a slab or platform, having a single round hole which must be covered with a lid to keep out flies and keep in the smell. Throwing in lime, ash or soil after each use will help control flies and smell.
+1.	A simple pit toilet: The pit must be dug less than a metre wide and at least 1 to 2 metres deep, 20 metres or more away from houses or water sources. The deeper the pit the better. The pit must be covered with a slab or platform, having a single round hole which must be covered with a lid to keep out flies and keep in the smell. Throwing in lime, ash or soil after each use will help control flies and smell.
+1.	A Ventilated Improved Toilet (VIP Toilet): The pit should be covered by a slab with two holes. An outhouse should be built over the larger, central hole while a ventilation pipe should be placed in the second smaller hole which is at one end of the slab. The top of the ventilation pipe must be covered with a fly screen. The door of the toilet should face into the wind. The outhouse should be dark inside with no cover over the seat. Air flow in the pit is down the large hole and up the small hole. Smell and flies escape up the pipe where the flies are trapped.
 
-A Ventilated Improved Toilet (VIP Toilet): The pit should be covered by a slab with two holes. An outhouse should be built over the larger, central hole while a ventilation pipe should be placed in the second smaller hole which is at one end of the slab. The top of the ventilation pipe must be covered with a fly screen. The door of the toilet should face into the wind. The outhouse should be dark inside with no cover over the seat. Air flow in the pit is down the large hole and up the small hole. Smell and flies escape up the pipe where the flies are trapped.
-
-Effective, cheap sanitation can be provided with a pit or VIP toilet.
-
-
+> Effective, cheap sanitation can be provided with a pit or VIP toilet.
 
 Where affordable, a chemical or flush toilet should be used. If no toilet is available, all stools must be buried immediately.
 
@@ -3548,215 +3403,183 @@ Where affordable, a chemical or flush toilet should be used. If no toilet is ava
 
 If a mother is unable to safely clean dirty bottles and teats, it is better to feed the infant by cup. Unlike a bottle, a cup can easily be cleaned with soap and water. The inside surfaces of a cup are smooth and easily reached by finger. Unlike a feeding bottle, there are no corners for milk and bacteria to lodge in.
 
-Cup-feeding is safer than bottle-feeding.
-
-
+> Cup-feeding is safer than bottle-feeding.
 
 ### 5-58 How can hygiene be improved?
 
-Wash hands after going to the toilet or handling a soiled nappy.
+*	Wash hands after going to the toilet or handling a soiled nappy.
+*	Wash hands before preparing food or eating.
+*	Wash fruit and vegetables with clean water.
+*	Cover food to keep flies away.
+*	Store food in a fridge (refrigerator) or cool place.
+*	Bury or burn all food waste.
 
-Wash hands before preparing food or eating.
-
-Wash fruit and vegetables with clean water.
-
-Cover food to keep flies away.
-
-Store food in a fridge (refrigerator) or cool place.
-
-Bury or burn all food waste.
-
-Case study 1
+## Case study 1
 
 A mother brings her 9 month old child to a local clinic. The child has had loose stools for 2 days. The mother has stopped bottle feeds of formula and given sugar and salt solution as advised by a general practitioner. Oral antibiotics and an anti-diarrhoea medication were started. On examination the child has no signs of dehydration. Other than the loose, watery stools, the child appears healthy. The older sibling had loose stools the week before.
 
-1. What is the diagnosis?
+### 1. What is the diagnosis?
 
 The child has acute diarrhoea with no visible dehydration. The diarrhoea is probably due to a bowel infection with Rota virus. The infection probably spread from the sibling.
 
-2. What could have been done to prevent the diarrhoea?
+### 2. What could have been done to prevent the diarrhoea?
 
 Good hygiene with hand-washing after going to the toilet and before meals. Breastfeeding rather than formula feeds also reduces the risk of diarrhoea. Formula feeds are best given by cup rather than bottle.
 
-3. Do you agree with the use of a sugar and salt solution?
+### 3. Do you agree with the use of a sugar and salt solution?
 
 Yes. Oral rehydration solution or a home made sugar and salt solution is the correct management of diarrhoea. 
 
-4. Should feeds be stopped when children have diarrhoea?
+### 4. Should feeds be stopped when children have diarrhoea?
 
 No. It is very important that feeds are continued. Stopping feeds does not improve the diarrhoea and may lead to malnutrition.
 
-5. Would you have prescribed an antibiotic?
+### 5. Would you have prescribed an antibiotic?
 
 There is no need for an antibiotic in acute diarrhoea unless the diarrhoea is caused by an infection outside the bowel, such as an acute otitis media (ear infection). Neither is there an indication for anti-diarrhoeal or antiemetic medications.
 
-6. Does this child need to be kept at the clinic or admitted to hospital?
+### 6. Does this child need to be kept at the clinic or admitted to hospital?
 
 No. A child with no visible dehydration can be managed at home. The child should be brought back to the clinic in 5 days, or sooner if the diarrhoea becomes worse or the child’s general condition deteriorates. The child should be observed for continuing loose stools or vomiting. The aim of early home care is to prevent dehydration and continue feeding. The mother must know what fluids to use and how much to give. She must also know when to return to the clinic.
 
-Case study 2
+## Case study 2
 
 An ill 9 month old child with diarrhoea and signs of severe dehydration is brought to a local hospital. He is shocked and breathing fast. The mother says he has had watery stools all day and vomits all feeds. The family live in a poor area with no formal toilets. Drinking water is collected from a stream. When compared to the weight recorded in the child’s Road-to-Health Card two weeks before, 15% body weight has been lost.
 
-1. What are the signs of severe dehydation?
+### 1. What are the signs of severe dehydation?
 
-The child is not able to drink or drinks very poorly.
-
-The child is lethargic or unconscious.
-
-The eyes are very sunken.
-
-There is decrease in skin turgor. When pinched, the skin takes two seconds or more to return to normal.
-
-The child is shocked.
+*	The child is not able to drink or drinks very poorly.
+*	The child is lethargic or unconscious.
+*	The eyes are very sunken.
+*	There is decrease in skin turgor. When pinched, the skin takes two seconds or more to return to normal.
+*	The child is shocked.
 
 If 2 or more of these signs are positive, a diagnosis of severe dehydration is made. The weight loss of more than 10% also suggests severe dehydration.
 
-2. What are the signs of shock?
+### 2. What are the signs of shock?
 
-A delayed capillary filling time
+*	A delayed capillary filling time
+*	Tachycardia (a fast heart rate)
+*	Hypothermia (low body temperature) especially cold hands and feet (cold peripheries)
+*	A depressed level of consciousness (lethargy and drowsiness)
+*	Hypotension (low blood pressure) with weak or absent peripheral pulses
 
-Tachycardia (a fast heart rate)
-
-Hypothermia (low body temperature) especially cold hands and feet (cold peripheries)
-
-A depressed level of consciousness (lethargy and drowsiness)
-
-Hypotension (low blood pressure) with weak or absent peripheral pulses
-
-3. Why is this child breathing fast?
+### 3. Why is this child breathing fast?
 
 He is probably acidotic. However, he may also have pneumonia.
 
-4. How should shock due to dehydration be treated?
+### 4. How should shock due to dehydration be treated?
 
 It is very important that the child is given intravenous fluid immediately and fast. Usually Ringer’s lactate or half Darrows/dextrose is used, starting with 20 ml/kg. The signs of shock must be carefully observed. If the child is still shocked after the first 20 ml/kg, repeat this amount fast. If it is not possible to start an intravenous infusion, the fluid should be given via an intraosseous route or a nasogastric tube if this is not possible. The child should be transferred immediately to hospital.
 
-5. How is severe dehydration corrected?
+### 5. How is severe dehydration corrected?
 
 Once the shock is corrected, the child should receive Ringer’s lactate or Darrows/ dextrose intravenously (or via a nasogastric tube) to treat the severe dehydration. Usually 30 ml/kg is given over 30 minutes followed by 70 ml/kg over 2 ½ hours. Start oral rehydration solution once the child is fully conscious and able to take fluids.
 
-6. Why does this child have diarrhoea?
+### 6. Why does this child have diarrhoea?
 
 Probably because there are no toilets or clean drinking water. If clean tap water is not available, water can be sterilized by boiling or adding chlorine tablets. If this cannot be done, water can be made safer by putting it into a clear, plastic bottle or bag and leaving it in the sun for a few hours. The ultraviolet light will kill most viruses or bacteria in the water.
 
-7. What can be done if no toilet is available?
+### 7. What can be done if no toilet is available?
 
 A simple pit toilet can be made. A Ventilated Improved Toilet (VIP Toilet) would be even better. Some plan must always be made to get rid of waste safely.
 
-Case study 3
+## Case study 3
 
 A child of 2 years has a one-month history of loose stools. The child has some dehydration. The weight falls below the third centile. It is noticed that the child has generalised lymphadenopathy. The grandmother says that the child’s mother died a few months before.
 
-1. What is your diagnosis?
+### 1. What is your diagnosis?
 
 This child has persistent diarrhoea as the loose stools have been present for more than 14 days.
 
-2. How is ‘some’ dehydration recognized?
+### 2. How is ‘some’ dehydration recognized?
 
 The child does not have severe dehydration but 2 or more of the following signs:
 
-Very thirsty and drinks eagerly
+*	Very thirsty and drinks eagerly
+*	Restless and irritable
+*	Sunken eyes
+*	Moderate degree of decreased skin turgor When pinched, the skin takes longer than usual, but less than two seconds, to return to normal.
 
-Restless and irritable
-
-Sunken eyes
-
-Moderate degree of decreased skin turgor When pinched, the skin takes longer than usual, but less than two seconds, to return to normal.
-
-3. What is the correct treatment of ‘some’ dehydration?
+### 3. What is the correct treatment of ‘some’ dehydration?
 
 These children should be treated at a clinic or in hospital. Usually oral rehydration solution is given with a close watch for repeated vomiting or a refusal to drink. It is best if the oral rehydration solution is given by cup. 80 ml/kg of oral rehydration solution should be given over 4 hours, i.e. about 20 ml/kg each hour. More can be given if the child wants to drink more. Usually the fluid is given by cup or spoon. It is best if the child has frequent, small sips. If the child vomits, wait for 10 minutes and then try again more slowly. The degree of dehydration must be assessed after 4 hours.
 
-4. When can this child be sent home?
+### 4. When can this child be sent home?
 
 Children with acute diarrhoea and ‘some’ dehydration can be sent home if they take the oral rehydration solution well, are not vomiting and there are no signs of dehydration after 4 hours. It is important that the child continues to receive regular feeds. The decision to send the child home will depend on the home circumstances. The child must continue to be offered rehydration solution frequently and return to be assessed the next day. The mother must bring the child back immediately if the diarrhoea gets worse, the child vomits everything or signs of dehydration appear. However, as this child has persistent diarrhoea, she must be admitted to hospital for investigation and further management.
 
-5. What is the relationship between diarrhoea and malnutrition?
+### 5. What is the relationship between diarrhoea and malnutrition?
 
 Diarrhoea, especially persistent diarrhoea, can lead to malnutrition while children with mal­nutrition are at high risk of getting severe diarrhoea. Therefore, the one often leads to the other.
 
-6. What illness must be suspected in this child?
+### 6. What illness must be suspected in this child?
 
 AIDS. HIV infection often presents clinically with persistent or recurrent diarrhoea. The generalized lymphadenopathy suggests HIV infection. This child’s mother may have died of AIDS.
 
-Case study 4
+## Case study 4
 
 An 8-year-old child presents with a week’s history of loose stools containing both blood and mucus. The child has a temperature and looks ill. There are no signs of dehydration.
 
-1. What is the importance of blood in this child’s stool?
+### 1. What is the importance of blood in this child’s stool?
 
 It indicates that he has dysentery.
 
-2. What may the cause be?
+### 2. What may the cause be?
 
 As the child is ill with a temperature, typhoid (Salmonella) or Shigella or amoebic dysentry must be suspected. The commonest cause of dysentery is Shigella.
 
-3. How should this child be managed?
+### 3. How should this child be managed?
 
 Children with dysentery should be referred to hospital for investigation and treatment. An antibiotic, usually nalidixic acid, is given 6 hourly (7.5 ml as the child is older than 5 years). Oral redydration solution should be given.
 
-4. What simple steps can reduce the risk of diarrhoea and dysentery?
+### 4. What simple steps can reduce the risk of diarrhoea and dysentery?
 
 Making sure that there is:
 
-Breastfeeding to 6 months and longer if possible
+*	Breastfeeding to 6 months and longer if possible
+*	A supply of clean water
+*	Adequate sanitation (the safe disposal of faeces)
+*	Cup-feeding rather than bottle-feeding if formula is used
+*	Good personal hygiene, especially hand-washing before meals or handling food
 
-A supply of clean water
+### 5. How can a safe water supply be obtained?
 
-Adequate sanitation (the safe disposal of faeces)
+*	Chlorinated tap water must be provided wherever possible.
+*	Water can be sterilized by boiling or adding chlorine tablets.
+*	If these are not available,water can be made safer by putting it into a clear, plastic bottle or bag and leaving it in the sun for a few hours.
 
-Cup-feeding rather than bottle-feeding if formula is used
-
-Good personal hygiene, especially hand-washing before meals or handling food
-
-5. How can a safe water supply be obtained?
-
-Chlorinated tap water must be provided wherever possible.
-
-Water can be sterilized by boiling or adding chlorine tablets.
-
-If these are not available,water can be made safer by putting it into a clear, plastic bottle or bag and leaving it in the sun for a few hours.
-
-6. What trace element may help the recovery from diarrhoea?
+### 6. What trace element may help the recovery from diarrhoea?
 
 Zinc. One dissolved tablet should be taken daily for 10 days.
 
 
 
 
-
-
-
 6
+{:.chapter-number}
 
-Upper respiratory tract conditions
+# Upper respiratory tract conditions
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-List both the common and dangerous upper respiratory tract conditions.
+*	List both the common and dangerous upper respiratory tract conditions.
+*	Recognise these clinical conditions.
+*	Understand the causes of these conditions.
+*	Provide primary care management for these conditions.
+*	Refer children with these conditions appropriately.
 
-Recognise these clinical conditions.
-
-Understand the causes of these conditions.
-
-Provide primary care management for these conditions.
-
-Refer children with these conditions appropriately.
-
-Introduction
+## Introduction
 
 ### 6-1 What is the upper respiratory tract?
 
 The upper respiratory tract (URT) consists of:
 
-The nose, sinuses and adenoids
-
-The throat, pharynx and tonsils
-
-The middle ear and eustachian tubes
+*	The nose, sinuses and adenoids
+*	The throat, pharynx and tonsils
+*	The middle ear and eustachian tubes
 
 Therefore, the respiratory tract above the larynx is called the upper respiratory tract.
 
@@ -3764,25 +3587,20 @@ Therefore, the respiratory tract above the larynx is called the upper respirator
 
 The lower respiratory tract consists of:
 
-The larynx
-
-The trachea and large bronchi
-
-The small bronchi (bronchioles)
-
-The alveoli.
+*	The larynx
+*	The trachea and large bronchi
+*	The small bronchi (bronchioles)
+*	The alveoli.
 
 Therefore, the respiratory tract from the larynx down is called the lower respiratory tract.
 
-Common cold
+## Common cold
 
 ### 6-3 What is a common cold?
 
 The common cold (coryza or acute viral rhinitis) is an acute viral infection of the nasal passages. It is the commonest infection in childhood. The throat, middle ear and sinuses may also be involved. Many children have five or more common colds a year.
 
-Many young children have five or more common colds a year.
-
-
+> Many young children have five or more common colds a year.
 
 ### 6-4 What is the cause of a common cold?
 
@@ -3793,15 +3611,11 @@ Note
 
 ### 6-5 What are the signs and symptoms of the common cold?
 
-A blocked or runny nose
-
-Sneezing
-
-Watery eyes
-
-Mild fever
-
-Mild cough
+*	A blocked or runny nose
+*	Sneezing
+*	Watery eyes
+*	Mild fever
+*	Mild cough
 
 Usually the common cold presents with a runny nose, nasal discharge and sneezing. The eyes become watery and a mild fever is common. Initially the nasal discharge is clear and watery but later becomes thicker and white or yellow. After a few days the nose becomes blocked and nasal breathing may be difficult, especially at night or while breastfeeding. Sleep is commonly interrupted. A mild cough is common and caused by mucous running down the back of the throat (post-nasal drip). The symptoms and signs of a common cold clear up in a week. Usually there are no complications of a common cold.
 
@@ -3813,13 +3627,10 @@ A blocked nose with a green (purulent) discharge on one side in a generally well
 
 The viral infection may spread to:
 
-The sinuses
-
-The middle ear
-
-The throat
-
-The lower respiratory tract, causing bronchitis, bronchiolitis or pneumonia
+*	The sinuses
+*	The middle ear
+*	The throat
+*	The lower respiratory tract, causing bronchitis, bronchiolitis or pneumonia
 
 The viral infection may become complicated by a bacterial infection. Then the clear nasal discharge will become purulent (green).
 
@@ -3837,11 +3648,9 @@ Usually no treatment is needed. Make sure the child drinks enough fluid. Frequen
 
 Decongestant nose drops for a few days or an oral decongestant (e.g. Actifed) are only practical to help a blocked nose in older children. Antibiotics are not indicated unless there is a secondary bacterial infection. Suspect a complication if the child develops a high fever, severe cough or breathes fast.
 
-Antibiotics are not indicated for a common cold.
+> Antibiotics are not indicated for a common cold.
 
-
-
-Acute sinusitis
+## Acute sinusitis
 
 ### 6-9 What is acute sinusitis?
 
@@ -3849,51 +3658,40 @@ This is an infection of the lining of one or more of the air sinuses that develo
 
 Acute sinusitis is uncommon in preschool children as their facial sinuses are not yet fully formed. Sinusitis is usually acute but can become chronic. Less commonly sinusitis may complicate allergy.
 
-Acute sinusitis only occurs in older children.
-
-
+> Acute sinusitis only occurs in older children.
 
 ### 6-10 What are the symptoms and signs of sinusitis?
 
-A green (purulent) nasal discharge
-
-A feeling of fullness or pain over one or more of the sinuses (to the side and above the nose)
-
-Headache and tenderness over the infected sinus
-
-Post-nasal drip with a cough. Secretions drain from the sinuses when the child lies down. This irritates the throat and bronchi causing a cough, especially when the child lies down to sleep.
+*	A green (purulent) nasal discharge
+*	A feeling of fullness or pain over one or more of the sinuses (to the side and above the nose)
+*	Headache and tenderness over the infected sinus
+*	Post-nasal drip with a cough. Secretions drain from the sinuses when the child lies down. This irritates the throat and bronchi causing a cough, especially when the child lies down to sleep.
 
 ### 6-11 What is the treatment of sinusitis?
 
-Oral antibiotics for 10 days. Amoxycillin is usually used
-
-Paracetamol for pain and discomfort
-
-Steam inhalation by breathing in warm, moist air in a warm shower or over a bowl of hot water. Do not use boiling water or steam as the child may be burned.
-
-Nasal decongestant drops or spray
+*	Oral antibiotics for 10 days. Amoxycillin is usually used
+*	Paracetamol for pain and discomfort
+*	Steam inhalation by breathing in warm, moist air in a warm shower or over a bowl of hot water. Do not use boiling water or steam as the child may be burned.
+*	Nasal decongestant drops or spray
 
 If the sinusitis does not disappear in 10 days or becomes recurrent, refer the patient to an ENT specialist/clinic. Repeated sinusitis suggests an allergy. Chronic sinusitis is not common in children.
 
-Allergic rhinitis
+## Allergic rhinitis
 
 ### 6-12 What is allergic rhinitis?
 
 Allergic rhinitis is an allergy of the lining (mucosa) of the nose and may present like a common cold. There are two forms of allergic rhinitis:
 
-Seasonal allergic rhinitis (hay fever). This is only present during part of the year, e.g. spring and early summer.
-
-Persistent allergic rhinitis. This is occurs all year round.
+1.	Seasonal allergic rhinitis (hay fever). This is only present during part of the year, e.g. spring and early summer.
+1.	Persistent allergic rhinitis. This is occurs all year round.
 
 ### 6-13 What are the symptoms and signs of allergic rhinitis?
 
 Both forms of allergic rhinitis present with:
 
-Repeated sneezing
-
-A blocked nose with a watery nasal discharge
-
-Red, swollen eyes (allergic conjunctivitis)
+1.	Repeated sneezing
+1.	A blocked nose with a watery nasal discharge
+1.	Red, swollen eyes (allergic conjunctivitis)
 
 Seasonal rhinitis also has itching of the nose, eyes, ears and soft palate. Itching is uncommon in persistent rhinitis.
 
@@ -3903,27 +3701,22 @@ Children with persistent allergic rhinitis usually have a pale face with blue co
 
 Usually pollens or fungal spores inhaled from the atmosphere in seasonal allergic rhinitis. Pets or house dust mite which are present all year usually cause persistent allergic rhinitis. Commonly there is a family history of allergies (rhinitis, asthma and eczema).
 
-There is usually a family history of allergy in allergic rhinitis.
-
-
+> There is usually a family history of allergy in allergic rhinitis.
 
 Note
 :	Skin prick testing and IgE blood tests (RAST test) are used to identify the allergen causing the rhinitus.
 
 ### 6-15 What is the management of allergic rhinitis?
 
-Try to identify and avoid any likely cause (allergens).
-
-Use newer non-sedating oral antihistamine drugs (e.g. Zyrtec).
-
-Avoid decongestant nose drops.
-
-Steroid nasal spray is very effective, especially in persistent allergic rhinitis.
+1.	Try to identify and avoid any likely cause (allergens).
+1.	Use newer non-sedating oral antihistamine drugs (e.g. Zyrtec).
+1.	Avoid decongestant nose drops.
+1.	Steroid nasal spray is very effective, especially in persistent allergic rhinitis.
 
 Note
 :	Desensitisation is very effective if the allergic rhinitis is due to a single cause, e.g. grass pollen or house dust mite.
 
-Pharyngitis and tonsillitis
+## Pharyngitis and tonsillitis
 
 ### 6-16 What is pharyngitis?
 
@@ -3933,9 +3726,7 @@ Infection and inflammation of the pharynx (throat). This is a common condition.
 
 Usually a virus (about 90% of cases). Pharyngitis may also be caused by a bacteria such as Group A Streptococcus. It is not possible to clinically differentiate between a viral and streptococcal pharyngitis.
 
-It is not possible clinically to distinguish viral from bacterial pharyngitis.
-
-
+> It is not possible clinically to distinguish viral from bacterial pharyngitis.
 
 Note
 :	Infectious mononucleosis due to infection with the Epstein-Barr virus may also cause a pharyngitis, often with a membrane. Diphtheria is a rare cause of membranous pharyngitis. Bacterial infection can be diagnosed if a throat swab is taken for culture.
@@ -3944,17 +3735,12 @@ Note
 
 Pharyngitis presents with:
 
-A sore throat. This is the main symptom.
-
-Pain on swallowing. Young children may refuse to eat.
-
-Fever
-
-Enlarged, tender cervical lymph nodes
-
-Abdominal pain is common in young children
-
-Mild cough
+*	A sore throat. This is the main symptom.
+*	Pain on swallowing. Young children may refuse to eat.
+*	Fever
+*	Enlarged, tender cervical lymph nodes
+*	Abdominal pain is common in young children
+*	Mild cough
 
 The symptoms usually disappear within 5 days.
 
@@ -3967,22 +3753,18 @@ Note
 
 ### 6-19 What are the complications of pharyngitis?
 
-Tonsillitis
-
-Spread of the infection to the middle ear or the lower respiratory tract (bronchitis, bronchiolitis or pneumonia)
-
-Streptococcal pharyngitis may cause acute glomerulonephritis and acute rheumatic fever.
+*	Tonsillitis
+*	Spread of the infection to the middle ear or the lower respiratory tract (bronchitis, bronchiolitis or pneumonia)
+*	Streptococcal pharyngitis may cause acute glomerulonephritis and acute rheumatic fever.
 
 Note
 :	A Group A beta haemolytic Streptococcal infection of the pharynx is an important cause of acute glomerulonephritis and rheumatic fever, especially in poor communities. The clinical diagnosis of a Streptococcal pharyngitis can be difficult without a bacterial culture.
 
 ### 6-20 What is the management of pharyngitis?
 
-Make sure that the child has an adequate fluid intake.
-
-Paracetamol syrup for pain and fever.
-
-Antibiotics are not indicated unless there is severe pharyngitis (very sore throat) without signs of a common cold. Oral penicillin, amoxycillin or erythromycin for 5 days is usually preferred.
+1.	Make sure that the child has an adequate fluid intake.
+1.	Paracetamol syrup for pain and fever.
+1.	Antibiotics are not indicated unless there is severe pharyngitis (very sore throat) without signs of a common cold. Oral penicillin, amoxycillin or erythromycin for 5 days is usually preferred.
 
 ### 6-21 What is tonsillitis?
 
@@ -3996,23 +3778,18 @@ The tonsils normally grow and enlarge in young infants as part of the developmen
 
 Usually tonsillitis recovers within a week. However, tonsillitis may become recurrent or chronic.
 
-Enlarged, swollen tonsils may obstruct the airway.
-
-
+> Enlarged, swollen tonsils may obstruct the airway.
 
 ### 6-23 What is the management of tonsillitis?
 
-Paracetamol syrup for pain and fever
-
-Penicillin, amoxycillin or erythromycin for 10 days
+1.	Paracetamol syrup for pain and fever
+1.	Penicillin, amoxycillin or erythromycin for 10 days
 
 The indications for tonsillectomy are:
 
-Repeated severe tonsillitis
-
-Tonsillar abscess
-
-Severe airway obstruction
+1.	Repeated severe tonsillitis
+1.	Tonsillar abscess
+1.	Severe airway obstruction
 
 Unless there is severe airway obstruction, enlarged tonsils alone is usually not an indication for tonsillectomy.
 
@@ -4025,11 +3802,9 @@ Adenoids are situated at the back of the nose and cannot be seen without special
 Note
 :	Large adenoids can be diagnosed on a lateral X-ray of the neck. Sleep apnoea due to enlarged adenoids is an important condition, as it causes nocturnal hypoxia, and must be urgently treated by adenoidectomy.
 
-Snoring and sleep apnoea are important reasons for adenoidectomy.
+> Snoring and sleep apnoea are important reasons for adenoidectomy.
 
-
-
-Otitis media
+## Otitis media
 
 ### 6-25 What is otitis media?
 
@@ -4041,37 +3816,25 @@ Acute otitis media is caused by viruses and bacteria that reach the middle ear f
 
 This is a common infection in children, especially children under 5 years of age. Acute otitis media presents with:
 
-Sudden onset of severe pain in the ear (earache). Infants become irritable, cry and may pull at the affected ear.
+*	Sudden onset of severe pain in the ear (earache). Infants become irritable, cry and may pull at the affected ear.
+*	Fever, often above 39 °C.
+*	On examination, the eardrum is red and bulges with loss of the normal light reflex. The pain is not made worse if the pinna (external ear) is pulled.
+*	The eardrum may perforate (rupture) resulting in pus pouring into in the external ear canal (otorrhoea). The pain is often relieved when the drum bursts.
+*	Otitis media often presents a few days after the onset of a common cold or pharyngitis.
 
-Fever, often above 39 °C.
-
-On examination, the eardrum is red and bulges with loss of the normal light reflex. The pain is not made worse if the pinna (external ear) is pulled.
-
-The eardrum may perforate (rupture) resulting in pus pouring into in the external ear canal (otorrhoea). The pain is often relieved when the drum bursts.
-
-Otitis media often presents a few days after the onset of a common cold or pharyngitis.
-
-Acute otitis media presents with sudden, severe earache and fever.
-
-
+> Acute otitis media presents with sudden, severe earache and fever.
 
 ### 6-27 What is the management of acute otitus media?
 
-Paracetamol for pain and fever.
-
-Oral antibiotics for 10 days. Usually amoxycillin is used.
-
-If there is no decrease in pain and no drop in fever after 24 hours of antibiotics, the child should be referred to an ENT (ear, nose and throat) clinic.
-
-Follow up to make sure that the otitis media has fully recovered.
-
-Ear drops and oral decongestants do not help.
+1.	Paracetamol for pain and fever.
+1.	Oral antibiotics for 10 days. Usually amoxycillin is used.
+1.	If there is no decrease in pain and no drop in fever after 24 hours of antibiotics, the child should be referred to an ENT (ear, nose and throat) clinic.
+1.	Follow up to make sure that the otitis media has fully recovered.
+1.	Ear drops and oral decongestants do not help.
 
 With correct treatment, perforation of the eardrum should heal within 2 weeks. Failure or incorrect treatment may lead to chronic suppurative or secretory otitis media.
 
-The most important treatment in otitis media is pain control and antibiotics in young children.
-
-
+> The most important treatment in otitis media is pain control and antibiotics in young children.
 
 Note
 :	In older children, acute otitis media will often recover without antibiotics. If severe otitis media does not respond to antibiotics, surgical drainage of the middle ear may be required. Children under 2 years should always be given antibiotics.
@@ -4086,33 +3849,25 @@ It is very important to prevent chronic suppurative otitis media by the correct 
 
 The aim is to treat the infection and keep the ear dry so that the perforation in the eardrum can heal:
 
-Oral antibiotics, usually amoxycillin or co-trimoxazole for 10 days.
-
-Clean the external canal at least twice a day with a cotton bud to keep it dry. Using a cotton wick to dry the external canal is very useful (wicking).
-
-Avoid swimming or showering.
-
-Ear drops are of little help.
+1.	Oral antibiotics, usually amoxycillin or co-trimoxazole for 10 days.
+1.	Clean the external canal at least twice a day with a cotton bud to keep it dry. Using a cotton wick to dry the external canal is very useful (wicking).
+1.	Avoid swimming or showering.
+1.	Ear drops are of little help.
 
 Refer to an ENT specialist/clinic if the ear continues to drain after 2 weeks of treatment, if the condition recurs or if you suspect a complication.
 
-Chronic suppurative otitis media may result in serious complications.
-
-
+> Chronic suppurative otitis media may result in serious complications.
 
 ### 6-30 What is chronic secretory otitis media?
 
 Chronic secretory otitis media or ‘glue ear’ is a common and important cause of deafness in young children. Chronic infection in the middle ear and enlarged adenoids can lead to obstruction of the eustachian tube with the collection of a thick, sticky effusion in the middle ear. This results in the eardrum being sucked inwards due to the absorption of the air in the middle ear. The thick fluid prevents the bones in the middle ear from vibrating normally. This interferes with normal hearing. Chronic secretory otitis media can delay speech development and result in learning difficulties at school. On examination, the eardrum is dull and retracted. Either one or both ears may be affected. Pain is uncommon. Chronic secretory otitis media is uncommon over the age of 10 years as the eustachian tube becomes wider with improved drainage of the middle ear with increasing age.
 
-Chronic secretory otitis media is a common cause of deafness in young children.
-
-
+> Chronic secretory otitis media is a common cause of deafness in young children.
 
 ### 6-31 What is the management of chronic secretory otitis media?
 
-A 10 day course of oral antibiotic to clear any remaining infection.
-
-If there is no improvement after 3 months, refer the child to an ENT specialist.
+1.	A 10 day course of oral antibiotic to clear any remaining infection.
+1.	If there is no improvement after 3 months, refer the child to an ENT specialist.
 
 Note
 :	An audiogram to assess for hearing loss is important, especially if the hearing is abnormal in both ears. An ENT specialist may insert a grommet (small plastic tube) into the eardrum to allow the fluid to drain. With correct treatment normal hearing returns.
@@ -4121,23 +3876,19 @@ Note
 
 Otitis externa is an infection of the external ear canal (not a true upper respiratory tract infection). It may be caused by a viral, bacterial or fungal infection, a complication of a skin condition (e.g. eczema) or a foreign body. Otitis externa may complicate chronic suppurative otitis externa as the draining pus irritates the skin of the external canal.
 
-With mild otitis externa the ear is itchy but the external canal appears normal.
-
-With moderate otitis externa the ear is painful with a purulent, smelly discharge. The pain is worse if the pinna (external ear) is pulled. On examination the external canal is red and contains debris. Partial obstruction of the external ear canal may cause mild deafness.
-
-With severe otitis externa the ear is very painful with deafness due to complete obstruction of the canal. On examination the external canal is red and swollen.
+*	With mild otitis externa the ear is itchy but the external canal appears normal.
+*	With moderate otitis externa the ear is painful with a purulent, smelly discharge. The pain is worse if the pinna (external ear) is pulled. On examination the external canal is red and contains debris. Partial obstruction of the external ear canal may cause mild deafness.
+*	With severe otitis externa the ear is very painful with deafness due to complete obstruction of the canal. On examination the external canal is red and swollen.
 
 A boil in the external canal or mumps may also present with earache.
 
 ### 6-33 What is the treatment of otitis externa?
 
-Mild and moderate otitis external can be treated locally with ear drops for 10 days. Combined steroid and antibiotic drops give the best results (e.g. Sofradex). Any debris should be removed with a cotton bud or syringing (water at body temperature) before instilling the ear drops. Locacorten-Vioform drops can also be used. The infection is usually cured by one week. Oral antibiotics are usually not needed. Swimming and showering should be avoided to keep the canal dry. Recurrence is common.
+1.	Mild and moderate otitis external can be treated locally with ear drops for 10 days. Combined steroid and antibiotic drops give the best results (e.g. Sofradex). Any debris should be removed with a cotton bud or syringing (water at body temperature) before instilling the ear drops. Locacorten-Vioform drops can also be used. The infection is usually cured by one week. Oral antibiotics are usually not needed. Swimming and showering should be avoided to keep the canal dry. Recurrence is common.
+1.	With severe otitis externa the canal should be packed with a cotton wick soaked in ichthammol and glycerine to reduce the swelling. Then the infection can be treated as above.
+1.	A boil in the external canal can be very painful and should be treated with oral flucloxacillin.
 
-With severe otitis externa the canal should be packed with a cotton wick soaked in ichthammol and glycerine to reduce the swelling. Then the infection can be treated as above.
-
-A boil in the external canal can be very painful and should be treated with oral flucloxacillin.
-
-Epiglottitis
+## Epiglottitis
 
 ### 6-34 What is the epiglottis?
 
@@ -4147,41 +3898,30 @@ The epiglottis is positioned at the opening of the larynx to prevent the inhalat
 
 An acute infection of the epiglottis, is usually caused by *Haemophilus influenzae*. The epiglottis becomes very swollen and may obstruct the airway. This is a rare but very serious condition which may rapidly cause death unless correctly diagnosed and rapidly treated. Children with acute epiglottitis also have a *Haemophilus influenzae* septicaemia. Acute epiglottitis due to *Haemophilus influenzae* can be prevented by Hib immu­nisation of all children. Do not confuse *Haemophilus influenzae* (a bacteria) with the influenza virus.
 
-Acute epiglottitis is an exremely serious condition which can be prevented with Hib immunisation.
-
-
+> Acute epiglottitis is an exremely serious condition which can be prevented with Hib immunisation.
 
 ### 6-36 How is acute epiglottitis recognised?
 
 It usually occurs in children between two and 5 years of age. The onset is sudden with:
 
-High fever. These children appear very sick and may be shocked due to the septicaemia.
+*	High fever. These children appear very sick and may be shocked due to the septicaemia.
+*	Drooling. They have a very sore throat and are unable to swallow or even open their mouth. This is a very important sign. They usually are unable to speak, cry, cough or drink.
+*	They have progressive airway obstruction. Characteristically, the children sit up, leaning forward with the neck extended to keep the airway open.
+*	Changing their body position or trying to examine the throat may cause total airway obstruction.
 
-Drooling. They have a very sore throat and are unable to swallow or even open their mouth. This is a very important sign. They usually are unable to speak, cry, cough or drink.
-
-They have progressive airway obstruction. Characteristically, the children sit up, leaning forward with the neck extended to keep the airway open.
-
-Changing their body position or trying to examine the throat may cause total airway obstruction.
-
-Acute epiglottitis is the one upper respiratory tract condition that can present with respiratory distress due to airways narrowing.
-
-
+> Acute epiglottitis is the one upper respiratory tract condition that can present with respiratory distress due to airways narrowing.
 
 ### 6-37 How must acute epiglottitis be managed?
 
-Allow the child to adopt a position that he prefers to keep the airway open.
-
-Move the child urgently to a facility where intubation or tracheotomy under general anaesthetic is possible. Thereafter, intensive care is needed to make sure the artificial airway remains open.
-
-Intravenous chloramphenicol or cefotaxime to treat the epiglottitis and septicaemia.
+1.	Allow the child to adopt a position that he prefers to keep the airway open.
+1.	Move the child urgently to a facility where intubation or tracheotomy under general anaesthetic is possible. Thereafter, intensive care is needed to make sure the artificial airway remains open.
+1.	Intravenous chloramphenicol or cefotaxime to treat the epiglottitis and septicaemia.
 
 With the correct antibiotics, the swelling of the epiglottis decreases and the child can usually be extubated after 48 hours.
 
-Acute epiglottitis is a medical emergency.
+> Acute epiglottitis is a medical emergency.
 
-
-
-Influenza
+## Influenza
 
 ### 6-38 What is influenza?
 
@@ -4194,17 +3934,12 @@ Note
 
 The onset is usually sudden, with:
 
-Fever
-
-A blocked nose and sore throat
-
-Tiredness, weakness and a general feeling of being unwell
-
-Headache
-
-Muscle ache
-
-Cough
+*	Fever
+*	A blocked nose and sore throat
+*	Tiredness, weakness and a general feeling of being unwell
+*	Headache
+*	Muscle ache
+*	Cough
 
 The symptoms are worse for the first 5 days and usually recover by 10 days. Complications of influenza include otitis media, bronchitis and pneumonia. Children may develop convulsions caused by the high fever (pyrexial fits).
 
@@ -4212,13 +3947,10 @@ The symptoms are worse for the first 5 days and usually recover by 10 days. Comp
 
 Influenza can be prevented by a recent influenza immunisation (especially if given just before the winter months).
 
-Bed rest.
-
-Make sure the child has an adequate amount to drink.
-
-Paracetamol for fever, headache and muscle pains.
-
-Antibiotics are only indicated if a secondary bacterial infection is suspected, e.g. pneumonia.
+1.	Bed rest.
+1.	Make sure the child has an adequate amount to drink.
+1.	Paracetamol for fever, headache and muscle pains.
+1.	Antibiotics are only indicated if a secondary bacterial infection is suspected, e.g. pneumonia.
 
 Note
 :	As the influenza virus continually changes, one can have repeated attacks of influenza. It is also important to have immunisation which covers the virus that is current that year. Immunisation is particularly important in children with chronic lung disease, e.g. asthma and cystic fibrosis.
@@ -4227,199 +3959,177 @@ Note
 
 A number of important steps can be taken to both prevent and reduce the severity of acute upper and lower respiratory tract infections:
 
-Reduce environmental smoke. The source may be active or passive cigarette smoking or the smoke of indoor fires in poorly ventilated homes.
+*	Reduce environmental smoke. The source may be active or passive cigarette smoking or the smoke of indoor fires in poorly ventilated homes.
+*	Immunise against measles, diphtheria, whooping cough and *Haemophilus influenzae* in all children. Also immunise selected children with influenza and pneumococcal vaccines.
+*	Decrease overcrowding in homes and schools. This will lessen the exposure to many acute respiratory tract infections.
+*	Promote breastfeeding as exclusive breastfeeding, prevents and reduces the severity of respiratory infections.
+*	Give vitamin A as a depot injection or as an oral supplement.
+*	Improve the nutritional status of all children.
+*	Educate the public, especially parents, to recognise the signs of severe respiratory tract conditions so that these children can be given early, correct management.
 
-Immunise against measles, diphtheria, whooping cough and *Haemophilus influenzae* in all children. Also immunise selected children with influenza and pneumococcal vaccines.
-
-Decrease overcrowding in homes and schools. This will lessen the exposure to many acute respiratory tract infections.
-
-Promote breastfeeding as exclusive breastfeeding, prevents and reduces the severity of respiratory infections.
-
-Give vitamin A as a depot injection or as an oral supplement.
-
-Improve the nutritional status of all children.
-
-Educate the public, especially parents, to recognise the signs of severe respiratory tract conditions so that these children can be given early, correct management.
-
-Case study 1
+## Case study 1
 
 A 4-year-old child is taken to a family doctor. The mother says he has had a blocked nose, is eating poorly and sleeping badly for the past 2 days. On examination he has a mild fever and is generally unwell. There are no signs of pneumonia or otitis media. He attends a crèche where a number of children have been sick.
 
-1. What is the most likely diagnosis?
+### 1. What is the most likely diagnosis?
 
 A common cold
 
-2. What is the probable cause?
+### 2. What is the probable cause?
 
 A rhinovirus
 
-3. What is the likely source of the infection?
+### 3. What is the likely source of the infection?
 
 Other children at the crèche. Many children have at least 5 common colds a year.
 
-4. Should this child be given an antibiotic?
+### 4. Should this child be given an antibiotic?
 
 No. There is no indication that the child has a bacterial infection.
 
-5. What management is needed?
+### 5. What management is needed?
 
 Paracetamol for fever. Make sure he has enough to drink. Keeping the room warm and raising to head of the bed may reduce nasal obstruction at night. Most colds get better in a few days. Nose drops, other than saline drops, and oral decongestants are usually not helpful in young children.
 
-6. What is the likely diagnosis if a child is partially deaf after a common cold?
+### 6. What is the likely diagnosis if a child is partially deaf after a common cold?
 
 Secretory otitis media, with a collection of fluid behind the ear drum.
 
-Case study 2
+## Case study 2
 
 A 5-year-old boy presents with fever and a very sore throat. On examination his tonsils are enlarged and swollen. The mother reports that this is the second sore throat he has had in 6 months and asks that his tonsils be removed.
 
-1. What is your diagnosis?
+### 1. What is your diagnosis?
 
 Acute tonsillitis.
 
-2. What is the cause?
+### 2. What is the cause?
 
 Probably a viral or bacterial infection. However, as there is no history of a common cold, the tonsillitis may be due to a bacterial (Streptococcal) infection.
 
-3. Should the child be given a course of antibiotics?
+### 3. Should the child be given a course of antibiotics?
 
 It is very difficult clinically to differentiate between a viral and bacterial infection of the pharynx and tonsils. Therefore, many doctors would give an antibiotic.
 
-4. What are the serious complications of a bacterial pharyngitis or tonsillitis?
+### 4. What are the serious complications of a bacterial pharyngitis or tonsillitis?
 
 Acute glomerulonephritis and acute rheumatic fever. Tonsillitis can also result in a tonsillar abscess.
 
-5. Should his tonsils be removed?
+### 5. Should his tonsils be removed?
 
 Probably not. The indications for tonsillectomy are severe airway obstruction, tonsillar abscess and repeated tonsillitis (more than 5 attacks a year).
 
-6. What should you think of if a child with a very sore throat has difficulty swallowing and appears severely ill?
+### 6. What should you think of if a child with a very sore throat has difficulty swallowing and appears severely ill?
 
 Acute epiglottitis. They have a high fever, often drool and keep their head in a fixed position. This is an acute emergency as they may totally obstruct their airway.
 
-7. What treatment is needed?
+### 7. What treatment is needed?
 
 Emergency referral for intubation or tracheotomy under general anaesthetic. Allow the child to hold his head in any position that he prefers. Start intravenous antibiotics.
 
-Case study 3
+## Case study 3
 
 Following a runny nose for 3 days, a young infant develops a high fever and severe pain in one ear. The next day the child seems better and pus is seen in the external canal of that ear.
 
-1. Why did the child have severe earache?
+### 1. Why did the child have severe earache?
 
 Due to acute otitis media.
 
-2. Why did the pain suddenly improve?
+### 2. Why did the pain suddenly improve?
 
 The ear drum ruptured.
 
-3. Why did this child develop acute otitis media?
+### 3. Why did this child develop acute otitis media?
 
 As a complication of a common cold. Bacteria can reach the middle ear via the eustachian tube. Blockage of the eustachian tube during a common cold causes an ideal environment for bacteria to grow in the middle ear.
 
-4. What treatment should the child have been given? 
+### 4. What treatment should the child have been given? 
 
 A course of antibiotics. This probably would have avoided the ruptured ear drum.
 
-5. What will happen to the hole in the child’s eardrum?
+### 5. What will happen to the hole in the child’s eardrum?
 
 With antibiotic treatment it should heal within 2 weeks. If not, the child must be referred. If the hole in the ear drum does not heal, the child will have chronic suppurative otitis media. This may lead to deafness with destruction of the bones in the middle ear.
 
-6. What dangerous complication may follow chronic suppurative otitis media?
+### 6. What dangerous complication may follow chronic suppurative otitis media?
 
 Mastoiditis. This presents with tenderness over the mastoid bone behind the ear. Mastoiditis is dangerous as it may result in a brain abscess or bacterial meningitis.
 
-Case study 4
+## Case study 4
 
 A 10-year-old child has been ill for 4 days with a high temperature, headache, blocked nose and muscle pains. His younger brother had a similar illness the week before.
 
-1. What do you think is the problem?
+### 1. What do you think is the problem?
 
 Influenza.
 
-2. What is the cause?
+### 2. What is the cause?
 
 The influenza virus.
 
-3. Why is this not a common cold?
+### 3. Why is this not a common cold?
 
 Because the child has a high fever, headache and muscle pains.
 
-4. How is the illness spread?
+### 4. How is the illness spread?
 
 By coughing and sneezing (droplet spread). It may also be spread by hand to hand contact. One person coughs into their hand, and later hold hands with someone else who then rubs their nose. In this way the virus is spread from the nose of one person to another. The influenza virus almost certainly was spread from the younger brother.
 
-5. What is the correct treatment of influenza?
+### 5. What is the correct treatment of influenza?
 
 Bed rest, plenty of fluids and paracetamol. Usually an antibiotic is not needed unless a complication develops such as pneumonia.
 
-6. Can influenza be prevented?
+### 6. Can influenza be prevented?
 
 Influenza immunisation in autumn greatly reduces the risk of infection.
 
-7. What complications may young children have with a high fever due to an upper respiratory tract infection?
+### 7. What complications may young children have with a high fever due to an upper respiratory tract infection?
 
 Febrile convulsions (pyrexial fits).
 
 
 
 
-
-
-
 7
+{:.chapter-number}
 
-Lower respiratory tract conditions
+# Lower respiratory tract conditions
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Give the signs of breathing difficulty and respiratory distress.
+*	Give the signs of breathing difficulty and respiratory distress.
+*	List the important lower respiratory tract conditions.
+*	Diagnose these conditions.
+*	Understand the causes and possible prevention of these conditions.
+*	Provide primary management of these conditions.
+*	Describe a syndromic approach to a child with a cough.
 
-List the important lower respiratory tract conditions.
-
-Diagnose these conditions.
-
-Understand the causes and possible prevention of these conditions.
-
-Provide primary management of these conditions.
-
-Describe a syndromic approach to a child with a cough.
-
-Introduction
+## Introduction
 
 ### 7-1 What is the lower respiratory tract?
 
 The lower respiratory tract consists of:
 
-Larynx and trachea
-
-Bronchi
-
-Bronchioles
-
-Alveoli (lungs)
+*	Larynx and trachea
+*	Bronchi
+*	Bronchioles
+*	Alveoli (lungs)
 
 Therefore, the respiratory tract from the larynx down is called the lower respiratory tract while the respiratory tract above the larynx is called the upper respiratory tract. Disorders of the lower respiratory tract usually present with one or more signs of breathing difficulty.
 
-Lower respiratory tract disorders usually present with one or more signs of breathing difficulty.
-
-
+> Lower respiratory tract disorders usually present with one or more signs of breathing difficulty.
 
 ### 7-2 What are the signs of breathing difficulty?
 
-The major signs are :
+The major signs are:
 
-stridor
-
-indrawing of the lower chest wall (recession)
-
-wheeze
-
-fast breathing (tachypnoea)
-
-shortness of breath with grunting, nasal flaring, head nodding and refusal to feed.
+*	Stridor
+*	Indrawing of the lower chest wall (recession)
+*	Wheeze
+*	Fast breathing (tachypnoea)
+*	Shortness of breath with grunting, nasal flaring, head nodding and refusal to feed
 
 These signs of breathing difficulty suggest that the child’s breathing difficulty is becoming progressively more severe and could lead to respiratory distress.
 
@@ -4427,13 +4137,10 @@ These signs of breathing difficulty suggest that the child’s breathing difficu
 
 Respiratory distress is the clinical condition where the respiratory difficulty has become so severe that the child is likely to die unless given respiratory support (e.g. oxygen or ventilation).
 
-Central cyanosis (or a low oxygen saturation)
-
-Drowsiness, lethargy or unconsciousness
-
-Restlessness
-
-Apnoea
+*	Central cyanosis (or a low oxygen saturation)
+*	Drowsiness, lethargy or unconsciousness
+*	Restlessness
+*	Apnoea
 
 ### 7-4 What is stridor?
 
@@ -4451,11 +4158,9 @@ This is a noise made during expiration due to narrowing of the lower airways.
 
 Rapid respiration (tachypnoea) is one of the most important signs of pneumonia. A child at rest is breathing too fast when the following rates are exceeded:
 
-60 breaths or more per minute in an infant of 2 months or less
-
-50 breaths or more per minute in children 2 months to 1 year
-
-40 breaths or more per minute in children older than 1 year
+*	60 breaths or more per minute in an infant of 2 months or less
+*	50 breaths or more per minute in children 2 months to 1 year
+*	40 breaths or more per minute in children older than 1 year
 
 The normal respiratory rate decreases with age. By the age of 12 years healthy children should not breathe faster than 20 breaths per minute.
 
@@ -4467,7 +4172,7 @@ Pulse oximetry is a very useful method of assessing the oxygen saturation (the a
 
 As central cyanosis is an important sign of respiratory failure, measuring the oxygen saturation is very useful.
 
-Viral croup
+## Viral croup
 
 ### 7-9 What is viral croup?
 
@@ -4482,15 +4187,11 @@ Note
 
 The characteristic signs of viral croup are:
 
-The infection often starts with a common cold or pharyngitis.
-
-A mild fever
-
-A typical ‘barking’ cough
-
-Inspiratory stridor is often, but not always, present. It is usually worse at night and then much better in the morning.
-
-Hoarseness of the voice is a less common sign in viral croup.
+*	The infection often starts with a common cold or pharyngitis.
+*	A mild fever
+*	A typical ‘barking’ cough
+*	Inspiratory stridor is often, but not always, present. It is usually worse at night and then much better in the morning.
+*	Hoarseness of the voice is a less common sign in viral croup.
 
 Viral croup typically presents at night with inspiratory stridor and a barking cough.
 
@@ -4499,51 +4200,36 @@ Note
 
 ### 7-11 How is the degree of stridor assessed?
 
-The degree of respiratory obstruction is diffi­cult to assess as it may vary from moment to moment. Stridor usually becomes worse if the child cries or becomes agitated. Therefore stridor in a quiet child should be regarded as severe.
+The degree of respiratory obstruction is difficult to assess as it may vary from moment to moment. Stridor usually becomes worse if the child cries or becomes agitated. Therefore stridor in a quiet child should be regarded as severe.
 
-Inspiratory stridor only, without lower chest wall indrawing (recession or retraction) suggests mild airway obstruction. These children usually only have stridor when they are upset or crying. There is no stridor when they are sleeping or at rest.
+1.	Inspiratory stridor only, without lower chest wall indrawing (recession or retraction) suggests mild airway obstruction. These children usually only have stridor when they are upset or crying. There is no stridor when they are sleeping or at rest.
+1.	The addition of lower chest wall indrawing or stridor during both inspiration and expiration are very important clinical signs as they indicate worsening airways obstruction. Therefore, expiratory stridor is a sign of severe airway obstruction. Stridor at rest in a quiet child also suggests severe stridor.
+1.	The obvious use of chest and abdominal muscles during expiration (active expiration, restlessness or fast breathing (tachypnea) are signs of dangerous airway obstruction obstruction.
 
-The addition of lower chest wall indrawing or stridor during both inspiration and expiration are very important clinical signs as they indicate worsening airways obstruction. Therefore, expiratory stridor is a sign of severe airway obstruction. Stridor at rest in a quiet child also suggests severe stridor.
-
-The obvious use of chest and abdominal muscles during expiration (active expiration, restlessness or fast breathing (tachypnea) are signs of dangerous airway obstruction obstruction.
-
-Expiratory stridor is a sign of worsening airway obstruction.
-
-
+> Expiratory stridor is a sign of worsening airway obstruction.
 
 Note
 :	Disappearance or weakening of the peripheral pulse on light palpation during inspiration (pulsus paradoxis), marked recession, apathy and cyanosis are signs of severe airway obstruction. Stridor becomes softer with severe obstruction.
 
 ### 7-12 What is the correct management of viral croup?
 
-The degree of airways obstruction must be continually observed.
-
-Keep the child comfortable and calm as crying worsens the airways obstruction.
-
-Keeping the room warm helps. Humidifying the air may also help. Do not accidently burn the child with steam from a kettle. Cold mist does not help.
-
-If the child has fever above 38 °C give paracetamol.
-
-Continue to give frequent, small amounts of oral fluid unless the airway obstruction is severe. Continue breastfeeding if the child is not distressed. 
-
-The child can be closely observed at home if the airways obstruction is mild and the home circumstances are adequate. Communication and transport to the nearest health facility are needed if the child is to be managed at home.
-
-Oral dexamethasone 0.5 mg/kg as a single dose (not if measles or herpes is the cause of the stridor). If no improvement, repeat after 24 hours. Steroids are the most important treatment in severe viral croup.
-
-There is no indication for antibiotics or bronchodilators in viral croup.
-
-Move to hospital if the airways obstruction becomes worse, especially if there is both inspiratory and expiratory stridor. It is best to move the child to hospital if there is stridor when the child is at rest. If possible, give oxygen during transport.
-
-Nebulised adrenaline (1:1000 solution) in hospital is the treatment of choice for worsening or severe airways obstruction. It will often provide temporary relief. If the child responds to the nebulised adrenaline admit the child to hospital for 24 hours to observe for rebound airway obstruction as the effect of adrenaline usually last only about 2 hours.
-
-Intubation or tracheotomy under general anaesthetic is only needed if respiratory failure develops (cyanosis, restlessness, severe chest wall indrawing or inadequate oxygen saturation in room air). Intubation must be seriously considered if the child has expiratory stridor and uses the chest and abdominal muscles during expiration.
-
-Oxygen should only be given in cases of severe airway obstruction as the method of delivering (e.g. nasal prongs) could make the child frightened and agitated and worsen the airway obstruction.
+1.	The degree of airways obstruction must be continually observed.
+1.	Keep the child comfortable and calm as crying worsens the airways obstruction.
+1.	Keeping the room warm helps. Humidifying the air may also help. Do not accidently burn the child with steam from a kettle. Cold mist does not help.
+1.	If the child has fever above 38 °C give paracetamol.
+1.	Continue to give frequent, small amounts of oral fluid unless the airway obstruction is severe. Continue breastfeeding if the child is not distressed. 
+1.	The child can be closely observed at home if the airways obstruction is mild and the home circumstances are adequate. Communication and transport to the nearest health facility are needed if the child is to be managed at home.
+1.	Oral dexamethasone 0.5 mg/kg as a single dose (not if measles or herpes is the cause of the stridor). If no improvement, repeat after 24 hours. Steroids are the most important treatment in severe viral croup.
+1.	There is no indication for antibiotics or bronchodilators in viral croup.
+1.	Move to hospital if the airways obstruction becomes worse, especially if there is both inspiratory and expiratory stridor. It is best to move the child to hospital if there is stridor when the child is at rest. If possible, give oxygen during transport.
+1.	Nebulised adrenaline (1:1000 solution) in hospital is the treatment of choice for worsening or severe airways obstruction. It will often provide temporary relief. If the child responds to the nebulised adrenaline admit the child to hospital for 24 hours to observe for rebound airway obstruction as the effect of adrenaline usually last only about 2 hours.
+1.	Intubation or tracheotomy under general anaesthetic is only needed if respiratory failure develops (cyanosis, restlessness, severe chest wall indrawing or inadequate oxygen saturation in room air). Intubation must be seriously considered if the child has expiratory stridor and uses the chest and abdominal muscles during expiration.
+1.	Oxygen should only be given in cases of severe airway obstruction as the method of delivering (e.g. nasal prongs) could make the child frightened and agitated and worsen the airway obstruction.
 
 Note
 :	Mix 1 ml of 1:1000 adrenaline with 1 ml saline. Nebulise the entire volume with oxygen. Repeat every 15 minutes until the expiratory obstruction has resolved. Observe the child very carefully for signs of deterioration. Laryngoscopy to look for other causes of stridor is important in children who require intubation.
 
-Bronchitis
+## Bronchitis
 
 ### 7-13 What is bronchitis?
 
@@ -4551,13 +4237,10 @@ Bronchitis is an inflammation of the lining on the large airways of the lung (th
 
 ### 7-14 What are the symptoms and signs of acute bronchitis?
 
-A persistent cough. At first the cough is dry, but it may later become loose and produce clear, sticky secretions. Yellow-green secretions indicates a secondary bacterial infection.
-
-There may be chest pain with excessive coughing.
-
-Mild fever
-
-Wheezing may occasionally occur in an older child. This should always suggest asthma.
+*	A persistent cough. At first the cough is dry, but it may later become loose and produce clear, sticky secretions. Yellow-green secretions indicates a secondary bacterial infection.
+*	There may be chest pain with excessive coughing.
+*	Mild fever
+*	Wheezing may occasionally occur in an older child. This should always suggest asthma.
 
 Acute bronchitis in children is very different from chronic bronchitis in adults.
 
@@ -4566,43 +4249,31 @@ Note
 
 ### 7-15 What is the management of acute bronchitis?
 
-Make sure the child drinks enough fluid. Often there is a loss of appetite.
-
-Inhaling warm, moist air may relieve the cough. Warm drinks may also help.
-
-Cough mixtures are of little help, but salbutamol syrup may relieve the cough.
-
-Give paracetamol for the fever.
-
-Oral antibiotics should only be given if the mucus becomes yellow-green.
+1.	Make sure the child drinks enough fluid. Often there is a loss of appetite.
+1.	Inhaling warm, moist air may relieve the cough. Warm drinks may also help.
+1.	Cough mixtures are of little help, but salbutamol syrup may relieve the cough.
+1.	Give paracetamol for the fever.
+1.	Oral antibiotics should only be given if the mucus becomes yellow-green.
 
 It is important to observe for signs of pneumonia, especially in small children. A wheeze suggests asthma or bronchiolitis. Bouts of severe coughing with an inspiratory whoop, apnoea or vomiting suggest whooping cough.
 
-Bronchiolitis
+## Bronchiolitis
 
 ### 7-16 What is bronchiolitis?
 
 Bronchiolitis is an acute viral infection of the small airways of the lungs (the bronchioles). It typically presents with airways obstruction. Bronchiolitis is usually caused by the respiratory syncytial virus (RSV) and occurs commonly in children under one year of age. When severe it can be life threatening. Bronchiolitis usually occurs in winter and follows a few days after the onset of a common cold. The small airways become inflamed and narrowed. Secondary bacterial infection may occur.
 
-Bronchiolitis causes serious narrowing of the small airways in young infants.
-
-
+> Bronchiolitis causes serious narrowing of the small airways in young infants.
 
 ### 7-17 What are the signs of bronchiolitis?
 
-Recession (indrawing of the lower chest) and a hyperinflated chest (over expanded due to air trapping).
-
-Wheezing is usually present and is not relieved by an inhaled bronchodilator. Occasionally wheeze may be absent.
-
-Rapid breathing and breathlessness (difficulty breathing)
-
-Prolonged expiration
-
-A dry coughing
-
-Reluctance or difficulty in feeding
-
-Mild fever
+*	Recession (indrawing of the lower chest) and a hyperinflated chest (over expanded due to air trapping).
+*	Wheezing is usually present and is not relieved by an inhaled bronchodilator. Occasionally wheeze may be absent.
+*	Rapid breathing and breathlessness (difficulty breathing)
+*	Prolonged expiration
+*	A dry coughing
+*	Reluctance or difficulty in feeding
+*	Mild fever
 
 Cyanosis, decreased level of consciousness, inability to feed or persistent vomiting and a marked tachycardia (fast heart rate) are all dangerous signs and indicates respiratory failure. Apnoea is common in infants less than 3 months. Bronchiolitis takes about a week to recover.
 
@@ -4613,31 +4284,19 @@ Note
 
 ### 7-18 What is the correct management of bronchiolitis?
 
-Children with mild bronchiolitis may be managed at home provided they are carefully observed, they take adequate fluids, the home circumstances are good and that communication and transport are available if needed.
+1.	Children with mild bronchiolitis may be managed at home provided they are carefully observed, they take adequate fluids, the home circumstances are good and that communication and transport are available if needed.
+1.	All other children with bronchiolitis must be admitted to hospital, especially if they are under 3 months, or if there is an inability to feed, tachycardia or low oxygen saturation.
+1.	Oxygen therapy with nasal prongs (flow 1 to 2 litres/minute) is indicated if there are signs of respiratory distress or the oxygen saturation is low (below 90%).
+1.	Bronchodilators usually do not help in bronchiolitis.
+1.	Steroids are of little help.
+1.	Ensure an adequate fluid intake. If the child will not drink give nasogastric fluid. Intravenous fluid should only be given with great caution as overhydration is dangerous.
+1.	Antibiotics are usually not given unless there are also signs of pneumonia or the child is less than 3 months. If pneumonia is suspected give amoxycillin.
+1.	If the child has a fever give paracetamol.
+1.	Physiotherapy is contraindicated and can be dangerous.
+1.	Careful observation is important for signs of respiratory failure or apnoea.
+1.	Intubation and ventilation for respiratory failure
 
-All other children with bronchiolitis must be admitted to hospital, especially if they are under 3 months, or if there is an inability to feed, tachycardia or low oxygen saturation.
-
-Oxygen therapy with nasal prongs (flow 1 to 2 litres/minute) is indicated if there are signs of respiratory distress or the oxygen saturation is low (below 90%).
-
-Bronchodilators usually do not help in bronchiolitis.
-
-Steroids are of little help.
-
-Ensure an adequate fluid intake. If the child will not drink give nasogastric fluid. Intravenous fluid should only be given with great caution as overhydration is dangerous.
-
-Antibiotics are usually not given unless there are also signs of pneumonia or the child is less than 3 months. If pneumonia is suspected give amoxycillin.
-
-If the child has a fever give paracetamol.
-
-Physiotherapy is contraindicated and can be dangerous.
-
-Careful observation is important for signs of respiratory failure or apnoea.
-
-Intubation and ventilation for respiratory failure
-
-Oxygen is the treatment for severe bronchiolitis.
-
-
+> Oxygen is the treatment for severe bronchiolitis.
 
 Note
 :	Bronchodilators by nebulisation, e.g. salbutamol, are sometimes used in severe bronchiolitis with variable results. Children with a history of 2 or more attacks of bronchiolitis and respond to inhaled bronchodilators probably have early asthma. Do not use aminophylline as it is dangerous.
@@ -4646,15 +4305,12 @@ Note
 
 Bronchiolitis is a serious condition which can suddenly deteriorate. Therefore, only the mildest cases should be managed at home or at a primary care clinic. The following children should be referred to hospital:
 
-Children with signs of respiratory failure (e.g. cyanosis or depressed level of consciousness)
+*	Children with signs of respiratory failure (e.g. cyanosis or depressed level of consciousness)
+*	If there is no improvement
+*	Signs of pneumonia
+*	Oxygen saturation below 90% with oximetry (saturation monitor)
 
-If there is no improvement
-
-Signs of pneumonia
-
-Oxygen saturation below 90% with oximetry (saturation monitor)
-
-Pneumonia
+## Pneumonia
 
 ### 7-20 What is pneumonia?
 
@@ -4662,19 +4318,13 @@ Pneumonia is an inflammation of the small air sacs of the lungs (alveoli), usual
 
 ### 7-21 What are the causes of pneumonia?
 
-Pneumonia in newborn infants is usually due to a bacterial infection such as Group B Streptococcus and Gram negative bacilli (e.g. *Klebsiella*).
-
-Viruses especially the respiratory syncytial virus, cause most pneumonias in infancy.
-
-In young children Mycoplasma is a common cause of pneumonia.
-
-Pneumonia in older children is usually due to bacteria such as Pneumococcus, Haemophilus and Staphylococcus. Pneumococcus is the most common cause of community-acquired pneumonia in children.
-
-Tuberculosis is an important cause of pneumonia in poor communities.
-
-Pneumocystis is an important cause of pneumonia in HIV infected infants between 2 and 6 months of age. This is a very unusual cause of pneumonia in children who do not have AIDS.
-
-Gram negative organisms such as *Klebsiella* and *E. coli* are also an important cause of severe pneumonia in children with HIV infection.
+*	Pneumonia in newborn infants is usually due to a bacterial infection such as Group B Streptococcus and Gram negative bacilli (e.g. *Klebsiella*).
+*	Viruses especially the respiratory syncytial virus, cause most pneumonias in infancy.
+*	In young children Mycoplasma is a common cause of pneumonia.
+*	Pneumonia in older children is usually due to bacteria such as Pneumococcus, Haemophilus and Staphylococcus. Pneumococcus is the most common cause of community-acquired pneumonia in children.
+*	Tuberculosis is an important cause of pneumonia in poor communities.
+*	Pneumocystis is an important cause of pneumonia in HIV infected infants between 2 and 6 months of age. This is a very unusual cause of pneumonia in children who do not have AIDS.
+*	Gram negative organisms such as *Klebsiella* and *E. coli* are also an important cause of severe pneumonia in children with HIV infection.
 
 Note
 :	Chlamydia can cause pneumonia in infants.
@@ -4683,31 +4333,20 @@ It is difficult to decide whether the pneumonia is due to a virus, bacteria or T
 
 ### 7-22 What are the symptoms and signs of pneumonia?
 
-The child is generally unwell.
+*	The child is generally unwell.
+*	Fever, often high fever
+*	Cough
+*	Breathlessness (difficulty breathing). The breathing is usually fast and shallow.
+*	Chest wall indrawing (recession or retraction)
+*	Refusal to eat or drink due to shortness of breath
+*	The infant may become cyanosed (with a low oxygen saturation).
+*	Chest pain may be present.
 
-Fever, often high fever
-
-Cough
-
-Breathlessness (difficulty breathing). The breathing is usually fast and shallow.
-
-Chest wall indrawing (recession or retraction)
-
-Refusal to eat or drink due to shortness of breath
-
-The infant may become cyanosed (with a low oxygen saturation).
-
-Chest pain may be present.
-
-Fast breathing is the most important sign of pneumonia.
-
-
+> Fast breathing is the most important sign of pneumonia.
 
 There are some causes of fast breathing, other than lung conditions, such as a high fever or a metabolic acidosis (seen in diarrhoea with severe dehydration). It is best to look for fast breathing when the child is calm and the fever has been lowered. 
 
-A normal breathing rate usually excludes pneumonia.
-
-
+> A normal breathing rate usually excludes pneumonia.
 
 Note
 :	Nothing abnormal may be heard on auscultation with a stethoscope as the classical chest signs of pneumonia (dullness, bronchial breathing, crepitations) are often not present in children with pneumonia.
@@ -4716,15 +4355,11 @@ Note
 
 A routine chest X-ray need not be taken in all children suspected of having pneumonia. However, if facilities are available, it should be done where:
 
-Complications are expected (e.g. pneumothorax).
+*	Complications are expected (e.g. pneumothorax).
+*	The diagnosis of tuberculosis is suspected.
+*	The pneumonia is severe or does not respond to treatment after 2 days.
 
-The diagnosis of tuberculosis is suspected.
-
-The pneumonia is severe or does not respond to treatment after 2 days.
-
-The diagnosis of pneumonia in a child is usually made on general examination rather than by listening to the chest.
-
-
+> The diagnosis of pneumonia in a child is usually made on general examination rather than by listening to the chest.
 
 Note
 :	Bronchopneumonia is common in small children while lobar pneumonia is often seen in older children. Always look for a pleural effusion or other signs of tuberculosis.	
@@ -4733,76 +4368,53 @@ Note
 
 Yes. Pneumonia is a common reason for hospital admission and a major cause of death in children, especially in developing countries, such as South Africa, and in children with AIDS. Pneumonia acquired in hospital is particularly dangerous.
 
-Pneumonia is a major cause of death in children.
-
-
+> Pneumonia is a major cause of death in children.
 
 ### 7-25 How can you recognise severe pneumonia?
 
 Any of the following clinical signs suggest that the child has severe pneumonia:
 
-Chest wall indrawing (recession)
-
-Cyanosis (needs oxygen to keep the oxygen saturation above 90%)
-
-Depressed level of consciousness
-
-Refusal to eat or drink due to shortness of breath
+*	Chest wall indrawing (recession)
+*	Cyanosis (needs oxygen to keep the oxygen saturation above 90%)
+*	Depressed level of consciousness
+*	Refusal to eat or drink due to shortness of breath
 
 These are *danger signs* which mean that the child needs urgent treatment and then referral to hospital.
 
 ### 7-26 What is the correct management of pneumonia?
 
-If possible, all children with pneumonia should be admitted to hospital. Only mild cases should be managed at home or in a primary care clinic.
+1.	If possible, all children with pneumonia should be admitted to hospital. Only mild cases should be managed at home or in a primary care clinic.
+1.	Observe the child carefully. Monitoring the oxygen saturation is very important. Look for signs of severe pneumonia.
+1.	Give oxygen by nasal prongs (or catheter) or face mask for severe pneumonia. Monitor with the use of a saturation monitor and give oxygen if saturations are below 90%.
+1.	Give an appropriate antibiotic. While oral antibiotics can be used with mild pneumonia, intramuscular or intravenous antibiotics must be used with more severe cases. All children with pneumonia must receive an antibiotic as it is difficult to tell whether the pneumonia is due to a virus or bacteria.
+1.	If a wheeze is present give an inhaled bronchodilator.
+1.	Give paracetamol to lower the fever.
+1.	Remove thick secretion from the nose by gentle suctioning.
+1.	Encourage breastfeeding. If the child does not take fluids by mouth, give nasogastric feeds or start an intravenous infusion.
+1.	Physiotherapy may be helpful.
+1.	All children with signs of severe pneumonia must be urgently referred to hospital. Give the first dose of antibiotic before referring the child.
+1.	In very severe cases of pneumonia, intubation and ventilation may be needed.
 
-Observe the child carefully. Monitoring the oxygen saturation is very important. Look for signs of severe pneumonia.
-
-Give oxygen by nasal prongs (or catheter) or face mask for severe pneumonia. Monitor with the use of a saturation monitor and give oxygen if saturations are below 90%.
-
-Give an appropriate antibiotic. While oral antibiotics can be used with mild pneumonia, intramuscular or intravenous antibiotics must be used with more severe cases. All children with pneumonia must receive an antibiotic as it is difficult to tell whether the pneumonia is due to a virus or bacteria.
-
-If a wheeze is present give an inhaled bronchodilator.
-
-Give paracetamol to lower the fever.
-
-Remove thick secretion from the nose by gentle suctioning.
-
-Encourage breastfeeding. If the child does not take fluids by mouth, give nasogastric feeds or start an intravenous infusion.
-
-Physiotherapy may be helpful.
-
-All children with signs of severe pneumonia must be urgently referred to hospital. Give the first dose of antibiotic before referring the child.
-
-In very severe cases of pneumonia, intubation and ventilation may be needed.
-
-Oxygen and antibiotics are the main form of treatment for pneumonia.
-
-
+> Oxygen and antibiotics are the main form of treatment for pneumonia.
 
 ### 7-27 What antibiotics are used in pneumonia?
 
-Amoxycillin 30 mg/kg orally 3 times a day for 5 days in children with mild community-acquired pneumonia that is treated at home.
-
-Intramuscular ampicillin 20 mg/kg before referring a child with severe pneumonia. In hospital, ampicillin and gentamicin, or cefotaxime (or ceftriaxone) are usually used. The choice of antibiotic may change when the sputum and blood cultures and sensitivities are received.
-
-Cloxacillin 50 mg/kg/dose orally 6 hourly is given if Staphylococcus is suspected.
-
-Hospital-acquired pneumonia may be due to organisms resistant to many antibiotics.
-
-Search for tuberculosis if there is no response to antibiotics.
+1.	Amoxycillin 30 mg/kg orally 3 times a day for 5 days in children with mild community-acquired pneumonia that is treated at home.
+1.	Intramuscular ampicillin 20 mg/kg before referring a child with severe pneumonia. In hospital, ampicillin and gentamicin, or cefotaxime (or ceftriaxone) are usually used. The choice of antibiotic may change when the sputum and blood cultures and sensitivities are received.
+1.	Cloxacillin 50 mg/kg/dose orally 6 hourly is given if Staphylococcus is suspected.
+1.	Hospital-acquired pneumonia may be due to organisms resistant to many antibiotics.
+1.	Search for tuberculosis if there is no response to antibiotics.
 
 Note
 :	Erythromycin or co-trimoxazole are the antibiotics of choice if Mycoplasma pneumonia is suspected in older children (5 years or older). Additional co-trimoxazole 6 hourly in high doses is used to treat suspected Pneumocystis pneumonia in HIV infected children.
 
-Asthma
+## Asthma
 
 ### 7-28 What is asthma?
 
 Asthma is a chronic inflammatory condition with repeated episodes (or attacks) of reversible narrowing of the small airways (bronchi) of the lung that respond to bronchodilators. Children with asthma have ‘hyperactive airways’, i.e. their small airways become narrow in response to a number of factors. Asthma usually presents as repeated acute attacks. Each attack lasts hours to days. While some children only have a few attacks a year others are rarely free from asthma. If acute asthma is not controlled, the asthma may become persistent.
 
-Asthma presents with repeated episodes of airway narrowing.
-
-
+> Asthma presents with repeated episodes of airway narrowing.
 
 Note
 :	Asthma is an inflammatory disease. The inflammation leads to airway narrowing. To control asthma the inflammation must be treated.
@@ -4815,37 +4427,26 @@ Asthma occurs in about 10% of children in South Africa, especially children livi
 
 Children with asthma complain of :
 
-Expiratory wheezing
-
-Cough
-
-Difficulty breathing (breathlessness or shortness of breath or a ‘tight chest’)
+1.	Expiratory wheezing
+1.	Cough
+1.	Difficulty breathing (breathlessness or shortness of breath or a ‘tight chest’)
 
 Most, but not all, children with asthma have wheezing. Some children present with coughing only, especially at night. Both the wheezing and coughing are worse at night and often wake the child. Asthma is usually seen in children of one year or older.
 
-Always think of asthma when a child presents with wheezing.
-
-
+> Always think of asthma when a child presents with wheezing.
 
 ### 7-31 What are the clinical signs of asthma?
 
 The clinical signs of asthma on examination are:
 
-A generalised, expiratory wheeze, especially on forced expiration.
-
-The chest may appear full (hyperexpanded due to air trapping) with prolonged expiration.
-
-There may be lower chest wall indrawing.
-
-The use of muscles in the abdomen or neck during expiration suggests severe airways obstruction.
-
-Cyanosis, drowsiness or panic are signs of respiratory failure.
-
-Usually there is no fever.
-
-Long standing, poorly controlled asthma may result in chest deformity and poor growth.
-
-Between acute attacks the chest examination is usually normal.
+*	A generalised, expiratory wheeze, especially on forced expiration.
+*	The chest may appear full (hyperexpanded due to air trapping) with prolonged expiration.
+*	There may be lower chest wall indrawing.
+*	The use of muscles in the abdomen or neck during expiration suggests severe airways obstruction.
+*	Cyanosis, drowsiness or panic are signs of respiratory failure.
+*	Usually there is no fever.
+*	Long standing, poorly controlled asthma may result in chest deformity and poor growth.
+*	Between acute attacks the chest examination is usually normal.
 
 The sudden onset of wheezing during play in a well child with no history of asthma suggests the inhalation of a foreign body.
 
@@ -4855,11 +4456,9 @@ Asthma results from a combination of inherited and trigger factors which cause i
 
 Inflammation of the bronchi results in:
 
-Mucosal oedema (swelling of the linings of the bronchi)
-
-Bronchospasm (contraction of the smooth muscle in the bronchi)
-
-Increased secretion of sticky mucus
+1.	Mucosal oedema (swelling of the linings of the bronchi)
+1.	Bronchospasm (contraction of the smooth muscle in the bronchi)
+1.	Increased secretion of sticky mucus
 
 These factors cause narrowing of the bronchi, especially in small children who normally have narrower bronchi than do older children.
 
@@ -4870,9 +4469,7 @@ Note
 
 There may be a history of asthma on either the mother’s or father’s side of the family. Often a parent or sibling has an allergic condition. The tendency to have asthma is, therefore, passed from one generation to the next and close family members with asthma are an important risk factor for children to develop the condition.
 
-Children with asthma usually have a family history of allergies.
-
-
+> Children with asthma usually have a family history of allergies.
 
 Note
 :	A high risk of allergic conditions is inherited as an autosomal dominant with variable inheritance.
@@ -4883,15 +4480,11 @@ Allergy (or atopy) is an abnormal or exaggerated reaction by the body to certain
 
 Common allergens are:
 
-House dust mite
-
-Foods, e.g. cows milk protein, eggs, wheat, peanuts, fish and soya
-
-Pollens, e.g. grass or tree pollen
-
-Dog and cat hair
-
-Fungus (mould) spores
+*	House dust mite
+*	Foods, e.g. cows milk protein, eggs, wheat, peanuts, fish and soya
+*	Pollens, e.g. grass or tree pollen
+*	Dog and cat hair
+*	Fungus (mould) spores
 
 Note
 :	In allergic people the body responds abnormally to foreign proteins by producing IgE rather than IgG (atopy).
@@ -4900,39 +4493,27 @@ Note
 
 A wide range of trigger factors may start an acute attack of asthma. They include:
 
-Upper respiratory tract infections
-
-Allergens in the environment
-
-Active or passive smoking
-
-Exercise, especially running
-
-A sudden drop in environmental temperature (cold air)
-
-Emotion (sadness, anger or excitement)
-
-Irritants in the environment, e.g. paint fumes
+*	Upper respiratory tract infections
+*	Allergens in the environment
+*	Active or passive smoking
+*	Exercise, especially running
+*	A sudden drop in environmental temperature (cold air)
+*	Emotion (sadness, anger or excitement)
+*	Irritants in the environment, e.g. paint fumes
 
 ### 7-36 How is asthma diagnosed?
 
 Asthma is mainly a clinical diagnosis based on a history of repeated acute attacks of wheezing, coughing and breathlessness, often with a positive family history of allergy.
 
-Asthma is mainly a clinical diagnosis based on the past and family history.
-
-
+> Asthma is mainly a clinical diagnosis based on the past and family history.
 
 The most useful special investigations are:
 
-Lung function tests: Children over the age of 5 years can use a peak flow meter to measure their peak expiratory flow rate. They take a deep breath and then blow as hard as they can into the peak flow meter, which measures how fast they can blow air out of their lungs (like blowing out a candle). Children with asthma have a lower peak flow rate than normal due to their narrow airways.
+1.	**Lung function tests**: Children over the age of 5 years can use a peak flow meter to measure their peak expiratory flow rate. They take a deep breath and then blow as hard as they can into the peak flow meter, which measures how fast they can blow air out of their lungs (like blowing out a candle). Children with asthma have a lower peak flow rate than normal due to their narrow airways.
+1.	**Skin tests**: Skin tests are done by placing a drop of a specific allergen on the child’s forearms. The underlying skin is then pricked with a special lancet through the drop of allergic testing solution. The test site is examined after 15 minutes. A swelling (wheal) at the test site indicates that the person is allergic to that allergen. Skin tests are simple to perform, cheap and accurate. A blood test (RAST) can also be used to identify a response to specific allergens. The child should not be on an antihistamine for 48 hours before performing a skin prick test. Skin tests are used as supportive evidence for asthma as they diagnose allergies only.
+1.	**Response to a short acting bronchodilator**: A good clinical and peak flow rate response to a dose of inhaled bronchodilator is the best way to confirm the clinical diagnosis acute asthma. In preschool children the diagnosis usually depends on a clinical response to treatment while in older children an improvement in the peak flow is important.
 
-Skin tests: Skin tests are done by placing a drop of a specific allergen on the child’s forearms. The underlying skin is then pricked with a special lancet through the drop of allergic testing solution. The test site is examined after 15 minutes. A swelling (wheal) at the test site indicates that the person is allergic to that allergen. Skin tests are simple to perform, cheap and accurate. A blood test (RAST) can also be used to identify a response to specific allergens. The child should not be on an antihistamine for 48 hours before performing a skin prick test. Skin tests are used as supportive evidence for asthma as they diagnose allergies only.
-
-3.	Response to a short acting bronchodilator: A good clinical and peak flow rate response to a dose of inhaled bronchodilator is the best way to confirm the clinical diagnosis acute asthma. In preschool children the diagnosis usually depends on a clinical response to treatment while in older children an improvement in the peak flow is important.
-
-Asthma presents with repeated episodes of wheezing, coughing or shortness of breath that respond to bronchodilators.
-
-
+> Asthma presents with repeated episodes of wheezing, coughing or shortness of breath that respond to bronchodilators.
 
 ### 7-37 How is the severity of asthma graded?
 
@@ -4940,40 +4521,30 @@ With intermittent asthma there are only occasional episodes of wheezing or cough
 
 With persistent asthma the episodes are more frequent (at least once a month). Persistent asthma may be:
 
-Mild: Episodes of coughing or wheezing occur once or twice a week
-
-Moderate: Episodes of coughing or wheezing at least 4 times a week
-
-Severe: They have daily symptoms which interfere with sleep and schooling
+*	Mild: Episodes of coughing or wheezing occur once or twice a week
+*	Moderate: Episodes of coughing or wheezing at least 4 times a week
+*	Severe: They have daily symptoms which interfere with sleep and schooling
 
 Note
 :	With intermittent or mild persistent asthma the peak expiratory flow is usually 80% or more of predicted. This falls to 60–80% with moderate and less than 60% with severe asthma.
 
 ### 7-38 What is the correct management of asthma?
 
-Assess the of severity of the asthma
-
-Control the acute attack
-
-Prevent recurrent attacks
-
-Avoid trigger factors
-
-Education and support
+1.	Assess the of severity of the asthma
+1.	Control the acute attack
+1.	Prevent recurrent attacks
+1.	Avoid trigger factors
+1.	Education and support
 
 ### 7-39 How is the severity of acute asthma assessed?
 
 The following are features of severe asthma:
 
-Previous history of severe acute asthma indicates that any further attack should be regarded as severe.
-
-Lack of response to bronchodilator therapy
-
-Inability to speak or cry or feed due to severe respiratory distress
-
-Cyanosis
-
-Oxygen saturation below 90%
+*	Previous history of severe acute asthma indicates that any further attack should be regarded as severe.
+*	Lack of response to bronchodilator therapy
+*	Inability to speak or cry or feed due to severe respiratory distress
+*	Cyanosis
+*	Oxygen saturation below 90%
 
 Note
 :	A silent chest when examined with a stethoscope or peak expiratory flow rate below 60% indicates severe asthma.
@@ -4982,13 +4553,10 @@ Note
 
 The aim of treating acute asthma (whether intermittent or persistent) is to relieve the airway narrowing (bronchospasm) as soon as possible and make sure that the patient is getting adequate oxygen.
 
-Nebulised or inhaled short acting bronchodilators (beta 2 agonists), e.g. salbutamol (Ventolin) or fenoterol (Berotec). Oral short acting bronchodilators are rarely used as the inhaled drugs are better and safer.
-
-Antibiotics are usually not needed.
-
-Sedatives and antihistamines must be avoided.
-
-Oral theophylline is only rarely used. Rectal and intravenous theophylline, and subcutaneous adrenaline, are dangerous and should not be used.
+1.	Nebulised or inhaled short acting bronchodilators (beta 2 agonists), e.g. salbutamol (Ventolin) or fenoterol (Berotec). Oral short acting bronchodilators are rarely used as the inhaled drugs are better and safer.
+1.	Antibiotics are usually not needed.
+1.	Sedatives and antihistamines must be avoided.
+1.	Oral theophylline is only rarely used. Rectal and intravenous theophylline, and subcutaneous adrenaline, are dangerous and should not be used.
 
 Acute intermittent asthma is usually mild and can be treated at home. ‘Reliever’ treatment can be given at home with inhaled short acting bronchodilators using a spacer (e.g. 1 or 2 puffs of salbutamol or fenoterol, i.e. 100–200 µg). This can be repeated after an hour if needed. The child must be carefully observed and moved to hospital if the wheeze gets worse. An inhaled short acting bronchodilator can also be taken before exercise to prevent wheezing or cough.
 
@@ -4998,11 +4566,9 @@ If there is no clinical response within 20 minutes of giving an inhaled bronchod
 
 The management of acute asthma in hospital consists of:
 
-Nebulised or inhaled bronchodilators every hour.
-
-A short course of oral steroids for 7 days (e.g. oral prednisone 2 mg/kg daily).
-
-Reassess hourly. If no response consider admission for intensive care.
+1.	Nebulised or inhaled bronchodilators every hour.
+1.	A short course of oral steroids for 7 days (e.g. oral prednisone 2 mg/kg daily).
+1.	Reassess hourly. If no response consider admission for intensive care.
 
 ### 7-42 How should inhaled and nebulised drugs be given?
 
@@ -5024,32 +4590,24 @@ If the child has persistent asthma (more than one episode a month) or severe att
 
 The treatment of persistent asthma:
 
-In mild persistent asthma (with repeated mild episodes of cough and wheezing which occur once or twice a week) a low daily dose of inhaled corticosteroid (‘prevention’ therapy e.g. beclomethasone 100–200 µg) should be given in addition to the short acting bronchodilator. Inhaled steroids are very effective and safer than oral steroids. Inhaled steroids should be used with a spacer. Rinse out the mouth after inhaling the steroid to avoid excessive absorption.
-
-Moderate persistent asthma requires higher doses of daily inhaled steroids (e.g. beclomethasone 200–400 µg).
-
-In severe persistent asthma, oral steroids may be needed. These patients should be management by an asthma clinic at a regional or tertiary health centre.
-
-Short acting inhaled bronchodilators are needed in all patients with asthma and should be used when necessary. Use a spacer whenever possible.
+1.	In mild persistent asthma (with repeated mild episodes of cough and wheezing which occur once or twice a week) a low daily dose of inhaled corticosteroid (‘prevention’ therapy e.g. beclomethasone 100–200 µg) should be given in addition to the short acting bronchodilator. Inhaled steroids are very effective and safer than oral steroids. Inhaled steroids should be used with a spacer. Rinse out the mouth after inhaling the steroid to avoid excessive absorption.
+1.	Moderate persistent asthma requires higher doses of daily inhaled steroids (e.g. beclomethasone 200–400 µg).
+1.	In severe persistent asthma, oral steroids may be needed. These patients should be management by an asthma clinic at a regional or tertiary health centre.
+1.	Short acting inhaled bronchodilators are needed in all patients with asthma and should be used when necessary. Use a spacer whenever possible.
 
 Exercise-induced asthma can be prevented by inhaling a short acting bronchodilator 10 minutes before starting the exercise.
 
-In severe or repeated attacks of asthma, daily treatment is needed to give the child as normal a quality of life as possible.
-
-
+> In severe or repeated attacks of asthma, daily treatment is needed to give the child as normal a quality of life as possible.
 
 Note
 :	A long acting bronchodilator (beta 2 agonist) such as salmeterol, or sustained release oral theophylline, or a leukotriene antagonist may be added as a steroid sparing agent.
 
 ### 7-44 How can trigger factors be avoided?
 
-No one should smoke in the house.
-
-Avoid contact with people who have upper respiratory tract infections, especially common colds.
-
-Avoids cats and dogs if allergic to them. Ban pets from the bedroom.
-
-Reduce house dust mites, especially in the child’s bedroom. Cover the pillow and mattress with plastic sheeting, vacuum the carpet daily, wash the sheets and covers frequently in hot water and dry them in the sun. Synthetic bedding is best.
+1.	No one should smoke in the house.
+1.	Avoid contact with people who have upper respiratory tract infections, especially common colds.
+1.	Avoids cats and dogs if allergic to them. Ban pets from the bedroom.
+1.	Reduce house dust mites, especially in the child’s bedroom. Cover the pillow and mattress with plastic sheeting, vacuum the carpet daily, wash the sheets and covers frequently in hot water and dry them in the sun. Synthetic bedding is best.
 
 ### 7-45 What education and support is useful in asthma?
 
@@ -5057,7 +4615,7 @@ Asthma is frightening to the child and parents. They should understand the cause
 
 Parents can be reassured that asthma tends to improve with age.
 
-An approach to lower respiratory tract conditions
+## An approach to lower respiratory tract conditions
 
 ### 7-46 What is the syndromic approach to acute respiratory tract disorders?
 
@@ -5065,37 +4623,27 @@ This is a simple way of using important clinical signs to classify and manage ac
 
 The two main signs of lower respiratory tract disorders are: 
 
-Cough
-
-Difficulty breathing
+*	Cough
+*	Difficulty breathing
 
 ### 7-47 What are the important causes of a cough?
 
 Most children become ill and cough a number of times a year:
 
-Usually a cough is due to a mild upper respiratory tract infection (cold, pharyngitis or sinusitis) due to a virus and does not last more than 3 weeks.
-
-A cough may be due to a lower respiratory tract infection (pneumonia, croup, bronchitis, bronchiolitis and asthma). It is, therefore, important to look for signs of these conditions.
-
-A cough lasting more than 3 weeks ( 21 days) may be a sign of tuberculosis (TB).
-
-Think of whooping cough if a bout of couching leads to vomiting.
-
-Think of asthma if the cough is worse at night or after exercise. In bronchiolitis the cough is also worse at night. Asthmatics usually have a recurrent wheezy cough.
-
-A cough that starts soon after lying down suggests a post-nasal drip in acute sinusitis.
-
-The sudden onset of coughing after a choking episode suggests an inhaled foreign body.
-
-A barking cough is suggestive of croup.
+1.	Usually a cough is due to a mild upper respiratory tract infection (cold, pharyngitis or sinusitis) due to a virus and does not last more than 3 weeks.
+1.	A cough may be due to a lower respiratory tract infection (pneumonia, croup, bronchitis, bronchiolitis and asthma). It is, therefore, important to look for signs of these conditions.
+1.	A cough lasting more than 3 weeks ( 21 days) may be a sign of tuberculosis (TB).
+1.	Think of whooping cough if a bout of couching leads to vomiting.
+1.	Think of asthma if the cough is worse at night or after exercise. In bronchiolitis the cough is also worse at night. Asthmatics usually have a recurrent wheezy cough.
+1.	A cough that starts soon after lying down suggests a post-nasal drip in acute sinusitis.
+1.	The sudden onset of coughing after a choking episode suggests an inhaled foreign body.
+1.	A barking cough is suggestive of croup.
 
 ### 7-48 What is the management of a cough?
 
-If the child has a cough but no signs of breathing difficulty, the cause is usually an upper respiratory tract viral infection. They do not need an antibiotic but something to soothe the throat (warm water or tea with honey or sugar). Cough mixtures usually only help by soothing the throat. Therefore, use a simple cough linctus.
-
-The cough should get better by 3 weeks. If not, think of TB, asthma or whooping cough. These children should be referred for further investigation and management. Always think of tuberculosis in a child with a chronic cough and weight loss.
-
-If the child has signs of breathing difficulty, refer for management of the underlying condition.
+1.	If the child has a cough but no signs of breathing difficulty, the cause is usually an upper respiratory tract viral infection. They do not need an antibiotic but something to soothe the throat (warm water or tea with honey or sugar). Cough mixtures usually only help by soothing the throat. Therefore, use a simple cough linctus.
+1.	The cough should get better by 3 weeks. If not, think of TB, asthma or whooping cough. These children should be referred for further investigation and management. Always think of tuberculosis in a child with a chronic cough and weight loss.
+1.	If the child has signs of breathing difficulty, refer for management of the underlying condition.
 
 Note
 :	There is no scientific evidence that cough suppressants, expectorants or mucolytics are effective for an acute cough cause by a viral infection.
@@ -5104,187 +4652,173 @@ Note
 
 These signs must be assessed when the child is calm and not crying:
 
-Stridor is usually due to viral croup.
-
-Indrawing of the lower chest wall may occur with most severe lower respiratory tract problems, i.e. pneumonia, stridor, bronchiolitis or asthma.
-
-Wheezing suggests bronchiolitis (in an infant) or asthma (in an older child).
-
-Fast breathing suggests pneumonia, bronchiolitis or asthma.
+1.	Stridor is usually due to viral croup.
+1.	Indrawing of the lower chest wall may occur with most severe lower respiratory tract problems, i.e. pneumonia, stridor, bronchiolitis or asthma.
+1.	Wheezing suggests bronchiolitis (in an infant) or asthma (in an older child).
+1.	Fast breathing suggests pneumonia, bronchiolitis or asthma.
 
 Older children with a severe lower respiratory tract problem may complain of shortness of breath. Always look for danger signs in any child with breathing difficulty. 
 
 The sudden onset of stridor or wheeze in a well child suggests a foreign body.
 
- If any of these signs are present, the child should be carefully examined and considered for urgent transfer to hospital. 
+If any of these signs are present, the child should be carefully examined and considered for urgent transfer to hospital. 
 
 ### 7-50 When and how should oxygen be given?
 
 Children with rapid breathing, indrawing of the chest, expiratory stridor or cyanosis, restless and saturations less than 90% should be given oxygen. Usually 1 to 2 litres per minute of 100% oxygen is given by nasal prongs or 3 to 4 litres via face mask. Measuring the oxygen saturation is very helpful.
 
-Case study 1
+## Case study 1
 
 During the early evening a 2-year-old child develops a strange cough and a crowing noise when she breathes in. She had a mild fever and a runny nose during the day. When the child cries, the noise during inspiration becomes worse. The mother became anxious and brought the child to the casualty department of the local hospital.
 
-1. What is the crowing sound during inspiration called?
+### 1. What is the crowing sound during inspiration called?
 
 Stridor. The sound is caused by breathing in through swollen vocal cords. Mild stridor only occurs during inspiration and is usually only heard when the child cries.
 
-2. What is the most likely cause?
+### 2. What is the most likely cause?
 
 Viral croup. This is an acute viral infection of the larynx, trachea and bronchi (laryngotracheobronchitis). It usually follows the start of a common cold or pharyngitis.
 
-3. What other sign is common with this condition?
+### 3. What other sign is common with this condition?
 
 A ‘barking’ cough.
 
-4. What signs would suggest that the stridor is becoming worse?
+### 4. What signs would suggest that the stridor is becoming worse?
 
 Both inspiratory and expiratory stridor, especially if present at rest, and indrawing of the lower ribs during inspiration. The obvious use of chest and abdominal muscles during expiration, restlessness or fast breathing are signs of dangerous airway obstruction.
 
-5. What is the main treatment of severe stridor?
+### 5. What is the main treatment of severe stridor?
 
 Nebulised adrenaline. A single dose of steroids helps. There is no indication for bronchodilators or antibiotics. If respiratory failure develops, intubation or a tracheotomy may be needed to bypass the laryngeal narrowing.
 
-6. What diagnosis should you consider with the sudden onset of stridor in a well child?
+### 6. What diagnosis should you consider with the sudden onset of stridor in a well child?
 
 An inhaled foreign body.
 
-Case study 2
+## Case study 2
 
 An infant of 6 months develops fast breathing and recession 3 days after the start of a common cold. On inspection the chest appears over expanded and a wheeze is heard. There is a mild fever and the child does not appear seriously ill. He takes his bottle well and has no cyanosis. There is no family history of asthma and this is the first time the child has been ill.
 
-1. What is the most likely diagnosis?
+### 1. What is the most likely diagnosis?
 
 Bronchiolitis. This is an acute inflammation and narrowing of the small airways of the lungs.
 
-2. Why is this unlikely to be asthma?
+### 2. Why is this unlikely to be asthma?
 
 The infant is young for asthma, this is the first episode of wheezing and there is no family history of asthma. No other features of allergy are mentioned.
 
-3. What is the cause?
+### 3. What is the cause?
 
 Probably the respiratory syncytial virus which can start as a common cold. Infection with the respiratory syncytial virus is commoner in winter.
 
-4. What is the correct management?
+### 4. What is the correct management?
 
 Bronchiolitis is best managed in hospital where humidified oxygen can be given if necessary.
 
-5. Should antibiotics be given?
+### 5. Should antibiotics be given?
 
 Usually not, except in infants under 3 months and where pneumonia is difficult to exclude.
 
-6. What are danger signs with bronchiolitis?
+### 6. What are danger signs with bronchiolitis?
 
 Cyanosis, refusal to drink, apnoea, a marked tachycardia, restlessness or a depressed level of consciousness. An oxygen saturation below 90% is cause for great concern. This child does not have any of these danger signs.
 
-Case study 3
+## Case study 3
 
 A 5-year-old child develops a cough and blocked nose. The next day his mother notices that he is breathing fast and has a fever. On examination he has a respiratory rate of 45 with chest indrawing. He refuses to drink and has mild central cyanosis.
 
-1. Why is this child breathing fast?
+### 1. Why is this child breathing fast?
 
 He probably has pneumonia.
 
-2. What is the definition of fast breathing?
+### 2. What is the definition of fast breathing?
 
 It depends on the child’s age as younger children normally breathe faster than older children. A respiratory rate above 40 breaths per minute is abnormally fast in any child older that one year.
 
-3. What is the likely cause?
+### 3. What is the likely cause?
 
 Probably viral as he has an upper respiratory tract infection. However the cause of the pneumonia may be bacterial.
 
-4. What is chest indrawing?
+### 4. What is chest indrawing?
 
 Chest indrawing (recession or retractions) is a clinical sign where there is indrawing of the lower chest when the child breathes in. It is seen with pneumonia as well as a number of other lower respiratory tract conditions.
 
-5. How severe is the pneumonia in this child?
+### 5. How severe is the pneumonia in this child?
 
 It is severe as he has 3 signs of severe pneumonia (chest indrawing, refusal to drink and cyanosis). These are danger signs.
 
-6. What management is needed?
+### 6. What management is needed?
 
-Give oxygen to keep the child pink.
+1.	Give oxygen to keep the child pink.
+1.	Start antibiotics.
+1.	Try to get the child to take oral fluids. Otherwise start an intravenous infusion.
+1.	Urgently transfer the child to hospital.
 
-Start antibiotics.
-
-Try to get the child to take oral fluids. Otherwise start an intravenous infusion.
-
-Urgently transfer the child to hospital.
-
-7. What antibiotic would you choose?
+### 7. What antibiotic would you choose?
 
 Intramuscular ampicillin. It can be given intravenously if an intravenous infusion (a drip) is started. In hospital gentamicin may be added.
 
-8. What is the value of measuring the oxygen saturation?
+### 8. What is the value of measuring the oxygen saturation?
 
 This is a very useful method of assessing whether there is enough oxygen in the blood. 
 
-Case study 4
+## Case study 4
 
 A 7-year-old child has a history of repeated attacks of coughing and wheezing, especially at night and during sport at school. He now has wheezing for the past few hours, complicating a common cold. There is a strong family history of allergies.
 
-1. Why is this child coughing and wheezing?
+### 1. Why is this child coughing and wheezing?
 
 He has an acute attack of asthma.
 
-2. What is this clinical condition?
+### 2. What is this clinical condition?
 
 Asthma is a chronic condition that presents with repeated attacks of airway narrowing.
 
-3. What is the cause?
+### 3. What is the cause?
 
 Asthma is caused by a combination of an inherited factor (i.e. allergy) plus trigger factors.
 
-4. What are common trigger factors?
+### 4. What are common trigger factors?
 
 Viral infections, exercise, exposure to allergens or irritants (e.g. smoke), cold air and emotion. In this child the trigger factor was a viral upper respiratory airway infection.
 
-5. Can you name a few common allergens?
+### 5. Can you name a few common allergens?
 
 House dust mite, pollens, cat or dog hair, some foods and fungus spores.
 
-6. How is a clinical diagnosis of asthma confirmed?
+### 6. How is a clinical diagnosis of asthma confirmed?
 
 By lung function tests for airway narrowing and response to an inhaled bronchodilator. A skin prick test provides supportive evidence for allergies.
 
-7. How should his acute attack be treated?
+### 7. How should his acute attack be treated?
 
 He will probably respond well to an inhaled short acting bronchodilator. If not, he should be referred to hospital for assessment and further treatment 
 
-8. Can acute attacks be prevented?
+### 8. Can acute attacks be prevented?
 
 Yes. Every attempt should be made to prevent acute attacks by identifying and removing trigger factors. In children with persistent asthma, steroids should be added to the regular use of an inhaled bronchodilator.
 
 
 
 
-
-
-
 8
+{:.chapter-number}
 
-Tuberculosis
+# Tuberculosis
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Give reasons why tuberculosis is an important and dangerous disease.
+*	Give reasons why tuberculosis is an important and dangerous disease.
+*	Describe primary tuberculous infection of the lung.
+*	List the complications of primary tuberculous infection.
+*	Diagnose tuberculosis.
+*	Perform and interpret a Mantoux skin test.
+*	Treat tuberculosis.
+*	List ways to prevent tuberculosis.
 
-Describe primary tuberculous infection of the lung.
-
-List the complications of primary tuberculous infection.
-
-Diagnose tuberculosis.
-
-Perform and interpret a Mantoux skin test.
-
-Treat tuberculosis.
-
-List ways to prevent tuberculosis.
-
-Introduction
+## Introduction
 
 ### 8-1 What is tuberculosis?
 
@@ -5304,11 +4838,9 @@ Tuberculosis is usually spread when an infected person talks, coughs, spits, lau
 Note
 :	TB bacilli in unpasteurised cow’s milk can be drunk and cause infection of the tonsils or gut, but this is very uncommon in South Africa.
 
-Tuberculosis in children is usually spead from an adult with untreated pulmonary tuberculosis.
+> Tuberculosis in children is usually spead from an adult with untreated pulmonary tuberculosis.
 
-
-
-Tuberculosis
+## Tuberculosis
 
 ### 8-4 Do all children infected with *Mycobacterium tuberculosis* develop tuberculosis?
 
@@ -5317,9 +4849,7 @@ No. Most children infected with TB bacilli (i.e. *Mycobacterium tuberculosis*) d
 Note
 :	Young children infected before 3 years of age and immunocompromised children have a much greater chance (20–50%) of developing tuberculosis after infection with TB bacilli.
 
-Fortunately, most children infected with tuberculous bacilli (TB infection) do not develop tuberculosis (TB disease).
-
-
+> Fortunately, most children infected with tuberculous bacilli (TB infection) do not develop tuberculosis (TB disease).
 
 ### 8-5 Is tuberculosis common?
 
@@ -5327,9 +4857,7 @@ Infection with TB bacilli is very common, and it is estimated that almost 50% of
 
 Tuberculosis is uncommon in most developed countries. However, tuberculosis is common in developing countries such as South Africa where the incidence has increased rapidly in the last few years. Tuberculosis is particularly common in the Western Cape and KwaZulu-Natal.
 
-Most TB infection occurs during childhood.
-
-
+> Most TB infection occurs during childhood.
 
 Note
 :	It is estimated that 10 million new cases of tuberculosis occur worldwide each year with 3 million deaths due to TB. About 40 South Africans die of TB each day. With the AIDS epidemic this figure is rising rapidly.
@@ -5338,9 +4866,7 @@ Note
 
 In poor, disadvantaged communities where overcrowding, undernutrition and HIV infection are common. Tuberculosis is a disease of poverty. Tuberculosis may be spread in any overcrowded spaces such as homes, schools, churches, buses, clinics and trains. TB infection is usually caught from a family member, friend or neighbour.
 
-Tuberculosis is usually seen in poor communities.
-
-
+> Tuberculosis is usually seen in poor communities.
 
 Note
 :	About 95% of new TB cases and 99% of TB deaths worldwide are in developing countries. In developed countries TB is virtually confined to poor, overcrowded environments and ethnic minorities.
@@ -5353,15 +4879,12 @@ Because it is an important cause of illness and death in many poor countries.
 
 A child can only develop tuberculosis if the child is exposed to TB bacilli. Therefore, the more tuberculosis there is in the community, the higher is the risk that children will become infected. However, some children are at a particularly high risk of developing tuberculosis if they become infected with TB bacilli:
 
-Children exposed to large numbers of TB bacilli: Children living in poor, overcrowded, poorly ventilated conditions are at great risk of becoming infected. They are often exposed to large numbers of TB bacilli due to many adults with untreated pulmonary tuberculosis.
-
-Children with a weak immune system: In these children infection with TB bacilli may progress to tuberculosis because they have an inadequate immune system which is unable to control the infection.
+*	**Children exposed to large numbers of TB bacilli**: Children living in poor, overcrowded, poorly ventilated conditions are at great risk of becoming infected. They are often exposed to large numbers of TB bacilli due to many adults with untreated pulmonary tuberculosis.
+*	**Children with a weak immune system**: In these children infection with TB bacilli may progress to tuberculosis because they have an inadequate immune system which is unable to control the infection.
 
 Therefore, tuberculosis is most common when a child with a weak immune system is exposed to a large number of TB bacilli.
 
-Children who have a weak immune system and are exposed to large numbers of TB bacilli have the greatest risk of tuberculosis.
-
-
+> Children who have a weak immune system and are exposed to large numbers of TB bacilli have the greatest risk of tuberculosis.
 
 ### 8-9 Which children have a weak immune system?
 
@@ -5369,19 +4892,14 @@ Young children under 3 years have an immature (weak) immune system which is unab
 
 Some older children have an immune system which has been weakened by illness, malnutrition or drugs:
 
-Children with HIV infection
-
-Children recovering from measles or whooping cough
-
-Malnourished children
-
-Children on large doses of steroids
+*	Children with HIV infection
+*	Children recovering from measles or whooping cough
+*	Malnourished children
+*	Children on large doses of steroids
 
 Severe tuberculosis itself weakens the immune system.
 
-Children with a weak immune system are at high risk of tuberculosis.
-
-
+> Children with a weak immune system are at high risk of tuberculosis.
 
 ### 8-10 What is primary tuberculosis of the lung?
 
@@ -5390,33 +4908,22 @@ Tuberculous infection usually starts when TB bacilli are inhaled into the lung. 
 Note
 :	The primary infection in the lung, together with the infected regional lymph nodes, is called the primary complex (Ghon complex). Often primary infection of the lung can only be recognised by the presence of a positive skin test. Mild flu-like symptoms may sometimes occur.
 
-Inhaling tuberculous bacilli into the lung results in a primary infection.
-
-
+> Inhaling tuberculous bacilli into the lung results in a primary infection.
 
 ### 8-11 Can the primary infection cause illness due to spread of the infection within the lung?
 
 Unfortunately, yes. Tuberculosis is a very unpredictable disease as there are a number of different ways that the primary infection can spread in the lungs:
 
-Usually the primary infection heals and does not spread, as the TB bacilli have been contained by the natural immunity. These children do not develop tuberculosis.
+1.	Usually the primary infection heals and does not spread, as the TB bacilli have been contained by the natural immunity. These children do not develop tuberculosis.
+1.	In some children, especially those with a weak immune system, the body is unable to control the primary infection. The TB bacilli at the site of the primary infection multiply and spread to cause progressive lung infection (tuberculous pneumonia).
+1.	TB bacilli may multiply in the regional lymph nodes, causing them to rapidly enlarge and compress the bronchus or trachea. Clinically this may present as wheezing or stridor with either collapse or hyperinflation of a lobe or the whole lung.
+1.	The TB bacilli often remain dormant (inactive or ‘sleeping’) for many months or even years after the primary infection. The body has been able to control but not kill all the TB bacilli. If the child’s immune system later becomes weakened by malnutrition or another infection, such as HIV or measles, the TB bacilli may reactivate (multiply) and a local area of tuberculosis pneumonia will develop. Pulmonary tuberculosis due to reactivation of dormant TB bacilli may only present years after the primary infection. This is in contrast to progressive tuberculosis, which usually develops within the first year after the primary infection.
+1.	‘Adult type’ TB is usually seen in older children, especially adolescents. The area of tuberculous pneumonia may ‘break down’ and rupture into a bronchus. An infected lymph node can also erode into a bronchus. The TB bacilli can now spread along the bronchi to other parts of the lung. This occurs most commonly in the upper parts of the lung and results in an air filled cavity (a hole) containing caseous (dead) tissue which contains huge numbers of TB bacilli. This adult form of pulmonary tuberculosis (‘open tuberculosis’) is very infectious as many TB bacilli enter the airways. From here they are then coughed into the air where they may be breathed in and infect the lungs of other people. Adult pulmonary TB is usually the source of TB infection in children.
+1.	Damage to the large airways by tuberculosis can result in bronchiectasis.
+1.	Tuberculous infection may also spread into the pleura causing an effusion.
+1.	Once the TB bacilli have spread beyond the primary infection (spread into the lung or enlarged lymph nodes) the child will become ill. Prompt diagnosis and urgent treatment is very important in these children with pulmonary tuberculosis.
 
-In some children, especially those with a weak immune system, the body is unable to control the primary infection. The TB bacilli at the site of the primary infection multiply and spread to cause progressive lung infection (tuberculous pneumonia).
-
-TB bacilli may multiply in the regional lymph nodes, causing them to rapidly enlarge and compress the bronchus or trachea. Clinically this may present as wheezing or stridor with either collapse or hyperinflation of a lobe or the whole lung.
-
-The TB bacilli often remain dormant (inactive or ‘sleeping’) for many months or even years after the primary infection. The body has been able to control but not kill all the TB bacilli. If the child’s immune system later becomes weakened by malnutrition or another infection, such as HIV or measles, the TB bacilli may reactivate (multiply) and a local area of tuberculosis pneumonia will develop. Pulmonary tuberculosis due to reactivation of dormant TB bacilli may only present years after the primary infection. This is in contrast to progressive tuberculosis, which usually develops within the first year after the primary infection.
-
-‘Adult type’ TB is usually seen in older children, especially adolescents. The area of tuberculous pneumonia may ‘break down’ and rupture into a bronchus. An infected lymph node can also erode into a bronchus. The TB bacilli can now spread along the bronchi to other parts of the lung. This occurs most commonly in the upper parts of the lung and results in an air filled cavity (a hole) containing caseous (dead) tissue which contains huge numbers of TB bacilli. This adult form of pulmonary tuberculosis (‘open tuberculosis’) is very infectious as many TB bacilli enter the airways. From here they are then coughed into the air where they may be breathed in and infect the lungs of other people. Adult pulmonary TB is usually the source of TB infection in children.
-
-Damage to the large airways by tuberculosis can result in bronchiectasis.
-
-Tuberculous infection may also spread into the pleura causing an effusion.
-
-Once the TB bacilli have spread beyond the primary infection (spread into the lung or enlarged lymph nodes) the child will become ill. Prompt diagnosis and urgent treatment is very important in these children with pulmonary tuberculosis.
-
-The primary infection may spread to cause pulmonary tuberculosis.
-
-
+> The primary infection may spread to cause pulmonary tuberculosis.
 
 ### 8-12 Can one have a tuberculous infection more than once?
 
@@ -5424,23 +4931,18 @@ Yes. Unlike some other infections, such as measles and mumps, a TB infection doe
 
 ### 8-13 Can tuberculous infection spread from the lung to other parts of the body?
 
-Yes. Infection with TB bacilli can spread from the lung, via the blood stream (TB bacteraemia,) to most organs of the body (extrapulmonary tuberculosis). The TB bacilli usually spread at the time of the primary lung infection. Sometimes tuberculosis of other organs presents soon after the primary lung infection. However, the TB bacilli often remain dormant in these organs for many months or years before they start to multiply and cause local tuberculosis. This reactivation of TB bacilli is usually due to weakening of the immune system.
+*	Yes. Infection with TB bacilli can spread from the lung, via the blood stream (TB bacteraemia,) to most organs of the body (extrapulmonary tuberculosis). The TB bacilli usually spread at the time of the primary lung infection. Sometimes tuberculosis of other organs presents soon after the primary lung infection. However, the TB bacilli often remain dormant in these organs for many months or years before they start to multiply and cause local tuberculosis. This reactivation of TB bacilli is usually due to weakening of the immune system.
+*	TB bacilli can also spread to other organs via the lymphatics. Spread from the hilar lymph nodes is usually up to the cervical lymph nodes or down to the abdominal lymph nodes. Lymph nodes in the axilla or groin may also be involved. Tuberculosis of organs other than the lungs is not infectious to other people.
 
-TB bacilli can also spread to other organs via the lymphatics. Spread from the hilar lymph nodes is usually up to the cervical lymph nodes or down to the abdominal lymph nodes. Lymph nodes in the axilla or groin may also be involved. Tuberculosis of organs other than the lungs is not infectious to other people.
-
-Tuberculous bacilli may spread from the lungs to other organs via the blood stream or the lymphatics.
-
-
+> Tuberculous bacilli may spread from the lungs to other organs via the blood stream or the lymphatics.
 
 ### 8-14 Which other organs can be involved in tuberculosis?
 
 Although the lung is the most common organ to be infected by TB bacilli, tuberculosis can involve any other organ of the body (extrapulmonary tuberculosis). The organs which are most commonly infected via the blood stream in children are:
 
-The meninges (tuberculous meningitis)
-
-Bones, especially the spine (tuberculous osteitis )
-
-Joints, especially the hip joint (tuberculous arthritis)
+*	The meninges (tuberculous meningitis)
+*	Bones, especially the spine (tuberculous osteitis )
+*	Joints, especially the hip joint (tuberculous arthritis)
 
 Note
 :	The abdomen, skin, tonsils, pericardium, bone marrow, middle ear and genitalia are less common sites of tuberculosis in children. Tuberculosis of the kidney usually only follows 5 or more years after the primary infection and therefore is uncommon in childhood.
@@ -5449,17 +4951,12 @@ Note
 
 The most common complications of primary tuberculous infection in children are:
 
-Pulmonary spread (tuberculous pneumonia)
-
-Airway compression by hilar or mediastinal lymph nodes
-
-Pleural effusion
-
-Tuberculosis of the cervical lymph nodes
-
-Tuberculous meningitis
-
-Miliary tuberculosis
+*	Pulmonary spread (tuberculous pneumonia)
+*	Airway compression by hilar or mediastinal lymph nodes
+*	Pleural effusion
+*	Tuberculosis of the cervical lymph nodes
+*	Tuberculous meningitis
+*	Miliary tuberculosis
 
 Note
 :	Fifty percent of children with miliary TB are under 2 years of age and 80% are under 5 years. Thirty percent of these children will also have meningeal involvement.
@@ -5468,25 +4965,16 @@ Note
 
 The suspected diagnosis of tuberculosis is often difficult to prove. The following are used clinically to diagnose tuberculosis in children:
 
-There is often a history of an adult in the home with infectious pulmonary tuberculosis in the last 6 months (a history of contact).
+1.	There is often a history of an adult in the home with infectious pulmonary tuberculosis in the last 6 months (a history of contact).
+1.	The child often comes from a poor, overcrowded environment and has a weak immune system (young, undernourished or infected with HIV or measles).
+1.	There are clinical signs and symptoms of tuberculosis.
+1.	The tuberculin skin test is usually positive (but often negative in children with malnutrition or HIV infection).
+1.	The chest X-ray is usually abnormal.
+1.	TB bacilli (*Mycobacterium tuberculosis*) may be found in the sputum, gastric aspirate or other body fluids 
+1.	A high index of suspicion is very important in the early diagnosis of tuberculosis, as tuberculosis may present in many different ways.
+1.	Identifying the person who is the source of tuberculosis is also important.
 
-The child often comes from a poor, overcrowded environment and has a weak immune system (young, undernourished or infected with HIV or measles).
-
-There are clinical signs and symptoms of tuberculosis.
-
-The tuberculin skin test is usually positive (but often negative in children with malnutrition or HIV infection).
-
-The chest X-ray is usually abnormal.
-
-TB bacilli (*Mycobacterium tuberculosis*) may be found in the sputum, gastric aspirate or other body fluids 
-
-A high index of suspicion is very important in the early diagnosis of tuberculosis, as tuberculosis may present in many different ways.
-
-Identifying the person who is the source of tuberculosis is also important.
-
-The diagnosis of tuberculosis in children usually depends on a history of contact, clinical signs, tuberculin skin test and chest X-ray.
-
-
+> The diagnosis of tuberculosis in children usually depends on a history of contact, clinical signs, tuberculin skin test and chest X-ray.
 
 Note
 :	A number of new methods, such as PCR for Mycobacterium, promise quick, sensitive and accurate methods of diagnosing tuberculosis.
@@ -5495,19 +4983,14 @@ Note
 
 The early signs and symptoms of tuberculosis are often vague and non-specific making the diagnosis difficult. These general signs and symptoms are caused by tuberculosis at any site in the body:
 
-Failure to thrive with poor weight gain or weight loss. This may be first noticed when the child’s weight is plotted on the Road-to-Health Card.
-
-Feeling generally unwell with loss of appetite, apathy and fatigue (feeling weak and tired).
-
-A fever for more then 2 weeks, often with sweating, especially at night.
-
-Lymphadenopathy, especially in the neck. There may also be an enlarged liver and spleen.
+*	Failure to thrive with poor weight gain or weight loss. This may be first noticed when the child’s weight is plotted on the Road-to-Health Card.
+*	Feeling generally unwell with loss of appetite, apathy and fatigue (feeling weak and tired).
+*	A fever for more then 2 weeks, often with sweating, especially at night.
+*	Lymphadenopathy, especially in the neck. There may also be an enlarged liver and spleen.
 
 The later signs of tuberculosis usually depend on which organ or organs are infected (e.g. meningitis or abdominal distension).
 
-Suspecting tuberculosis is the first step in making the diagnosis.
-
-
+> Suspecting tuberculosis is the first step in making the diagnosis.
 
 Note
 :	Lymphadenopathy usually consists of a number of mildly tender or non-tender nodes stuck together (matted).
@@ -5516,21 +4999,16 @@ Note
 
 ### 8-18 What are the signs and symptoms of pulmonary tuberculosis?
 
-In addition to the early, general signs and symptoms, the most important sign of pulmonary tuberculosis is a persistent, cough lasting 3 weeks or more. The cough may be dry or productive. Shortness of breath, fast breathing and chest pain (usually older children) may also be present. Unlike adults, blood stained sputum is uncommon in children with pulmonary tuberculosis.
+*	In addition to the early, general signs and symptoms, the most important sign of pulmonary tuberculosis is a persistent, cough lasting 3 weeks or more. The cough may be dry or productive. Shortness of breath, fast breathing and chest pain (usually older children) may also be present. Unlike adults, blood stained sputum is uncommon in children with pulmonary tuberculosis.
+*	The enlarged hilar nodes may press on a bronchus causing wheezing, coughing or stridor. The wheeze does not respond to inhaled bronchodilators. 
 
-The enlarged hilar nodes may press on a bronchus causing wheezing, coughing or stridor. The wheeze does not respond to inhaled bronchodilators. 
-
-A persistent cough lasting longer than 3 weeks is an important symptom of pulmonary tuberculosis.
-
-
+> A persistent cough lasting longer than 3 weeks is an important symptom of pulmonary tuberculosis.
 
 ### 8-19 How can a clinical diagnosis of pulmonary tuberculosis be confirmed?
 
 A chest X-ray is very important in confirming a clinical suspicion or diagnosis of pulmonary tuberculosis. In children, tuberculosis is often diagnosed on a chest X-ray.
 
-A chest X-ray is an important way of diagnosing pulmonary tuberculosis.
-
-
+> A chest X-ray is an important way of diagnosing pulmonary tuberculosis.
 
 Note
 :	In children with HIV infection, other HIV related lung conditions may present with a similar X-ray appearance. This makes interpretation more difficult. If pneumonia does not respond to a weeks course of antibiotics, always suspect TB.
@@ -5539,15 +5017,11 @@ Note
 
 In children the following are the most common chest X-ray (radiographic) features:
 
-The site of the primary infection in the lung cannot usually be seen on a chest X-ray. However, the associated hilar lymphadenopathy (enlarged lymph nodes where the main bronchi enter the lung) is seen, often with widening of the mediastinum. A lateral chest X-ray will make it easier to see hilar adenopathy.
-
-The enlarged hilar lymph nodes may partially or completely compress a bronchus resulting in an area of over-expansion (air trapping), collapse or consolidation.
-
-Miliary tuberculosis presents with multiple small spots (nodular pattern) evenly spread through both lungs.
-
-A pleural effusion, especially in older children.
-
-A cavity may form within the area of pneumonia, especially in adolescents. This is usually seen in the upper lobes of the lungs.
+*	The site of the primary infection in the lung cannot usually be seen on a chest X-ray. However, the associated hilar lymphadenopathy (enlarged lymph nodes where the main bronchi enter the lung) is seen, often with widening of the mediastinum. A lateral chest X-ray will make it easier to see hilar adenopathy.
+*	The enlarged hilar lymph nodes may partially or completely compress a bronchus resulting in an area of over-expansion (air trapping), collapse or consolidation.
+*	Miliary tuberculosis presents with multiple small spots (nodular pattern) evenly spread through both lungs.
+*	A pleural effusion, especially in older children.
+*	A cavity may form within the area of pneumonia, especially in adolescents. This is usually seen in the upper lobes of the lungs.
 
 In young children the interpretation of a chest X-ray may be difficult. A good chest X-ray is important to both diagnose tuberculosis and monitor the response to treatment. Some children with tuberculosis may have a normal chest X-ray, e.g. infants with tuberculous meningitis, bone tuberculosis or any other form of extrapulmonary tuberculosis.
 
@@ -5570,17 +5044,13 @@ Incorrect injection under the skin may make the result difficult to interpret.
 
 The Mantoux skin test must be read 2 to 3 days (48 to 72 hours) after it is done. The widest transverse diameter (across the arm) of induration (raised, swollen, thickened area of skin) is measured. It is important that the induration and not the area of redness is measured. The diameter of the induration is best measured with a ruler. The result should be reported in millimeters and not simply as positive or negative. The interpretation is as follows:
 
-If the diameter of induration is 0 to 4 mm the test is negative.
-
-A diameter of induration of 5 to 9 mm is intermediate and may be due to BCG or TB infection. In a healthy HIV negative child this usually indicates that BCG has been given. However, in HIV infected or severely malnourished children, it may indicate tuberculosis.
-
-A diameter of induration of 10 mm or more is positive and indicates infection with TB bacilli.
+1.	If the diameter of induration is 0 to 4 mm the test is negative.
+1.	A diameter of induration of 5 to 9 mm is intermediate and may be due to BCG or TB infection. In a healthy HIV negative child this usually indicates that BCG has been given. However, in HIV infected or severely malnourished children, it may indicate tuberculosis.
+1.	A diameter of induration of 10 mm or more is positive and indicates infection with TB bacilli.
 
 A Mantoux skin test of 10 mm or more indicates tuberculous infection. However, an induration between 5 and 9 mm cannot differentiate between children who have a tuberculous infection and those who have had BCG in the past 2 years. Furthermore, a result of 10 mm or more cannot differentiate between a recent healed TB infection and active tuberculosis. It is unfortunate that BCG may confuse the interpretation of the Mantoux skin test in the first 2 years. It is important to understand that a positive Mantoux test suggest tuberculous infection but does not necessarily mean that the child has tuberculosis.
 
-A positive Mantoux skin test indicates tuberculous infection but not necessarily tuberculosis.
-
-
+> A positive Mantoux skin test indicates tuberculous infection but not necessarily tuberculosis.
 
 Note
 :	An area of induration of 5 to 9 mm may also indicate infection with a non-tuberculous Mycobacterium.
@@ -5589,24 +5059,17 @@ Note
 
 No. Although a negative Mantoux test suggests that there is no tuberculosis, the test may be negative (less than 5 mm induration) in spite of active infection with TB bacilli if the child’s immune system is not reacting to the tuberculin. Therefore, the test may be falsely negative, even though the child has tuberculosis, in:
 
-Early tuberculous infection (the Mantoux skin test becomes positive only 6 weeks to 3 months after the TB infection)
-
-Very young children
-
-Children with severe malnutrition
-
-HIV infection and AIDS
-
-After measles infection (for about 6 weeks)
-
-Children with severe tuberculous disease
+*	Early tuberculous infection (the Mantoux skin test becomes positive only 6 weeks to 3 months after the TB infection)
+*	Very young children
+*	Children with severe malnutrition
+*	HIV infection and AIDS
+*	After measles infection (for about 6 weeks)
+*	Children with severe tuberculous disease
 
 Note
 :	The test may also be falsely negative if the PPD is old or inactive, or if poor technique was used in doing the test.
 
-The Mantoux test may be falsely negative in children with severe malnutrition, HIV infection, severe tuberculosis or after measles.
-
-
+> The Mantoux test may be falsely negative in children with severe malnutrition, HIV infection, severe tuberculosis or after measles.
 
 Note
 :	New blood tests may help to differentiate between TB and BCG infections.
@@ -5615,9 +5078,8 @@ Note
 
 The most accurate way of diagnosing tuberculosis is to identify TB bacilli. Unfortunately this is not always possible in a child and the diagnosis often has to be made on the history, clinical examination, chest X-ray and Mantoux skin test alone. TB bacilli may be identified by either:
 
-Seeing TB bacilli
-
-Growing TB bacilli
+*	Seeing TB bacilli
+*	Growing TB bacilli
 
 In adults, TB bacilli are usually identified in a stained sample (smear and direct microscopy) of sputum (not saliva). A special stain is used to identify the bacteria as TB bacilli. The sputum is collected at a TB clinic and the test done at the nearest laboratory. The result can be obtained in a few hours. Patients who have TB bacilli identified by a ‘positive TB stain’ on a smear of their sputum are called ‘smear positive’.
 
@@ -5626,9 +5088,7 @@ Note
 
 TB bacilli can also be grown (cultured). Unfortunately this is more difficult and expensive and may take many weeks. Therefore, in most poor countries tuberculosis in adults is confirmed with a sputum smear. TB culture and sensitivity testing is important in communities where multidrug resistance is common.
 
-A definite diagnosis of pulmonary tuberculosis in adults is usually made by identifying TB bacilli in their sputum.
-
-
+> A definite diagnosis of pulmonary tuberculosis in adults is usually made by identifying TB bacilli in their sputum.
 
 ### 8-26 Which adults with tuberculosis are most infectious?
 
@@ -5680,31 +5140,21 @@ Peripheral TB lymph nodes are typically non tender (unless secondarily infected)
 Note
 :	Rarely human or bovine TB may cause a primary infection of the tonsil with enlarged cervical nodes. TB adenitis with ulceration through the skin is called scrofula.
 
-Enlarged lymph nodes in the neck may be caused by tuberculosis.
-
-
+> Enlarged lymph nodes in the neck may be caused by tuberculosis.
 
 ### 8-33 How is tuberculosis affected by HIV infection and AIDS?
 
-Increasing numbers of adults and children have both HIV infection and untreated tuberculosis. As adults are highly infectious, more infants (both HIV positive and negative) are becoming infected with TB bacilli.
+*	Increasing numbers of adults and children have both HIV infection and untreated tuberculosis. As adults are highly infectious, more infants (both HIV positive and negative) are becoming infected with TB bacilli.
+*	HIV infection weakens the immune system. This increases the risk that the child will develop severe tuberculosis. Previous asymptomatic primary tuberculous infection may become reactivated resulting in tuberculosis. With damage to the immune system by HIV, previously well controlled TB bacilli can become active and multiply rapidly.
+*	Tuberculosis may be the first serious infection in an HIV infected child and be the first indication that the child is HIV infected.
 
-HIV infection weakens the immune system. This increases the risk that the child will develop severe tuberculosis. Previous asymptomatic primary tuberculous infection may become reactivated resulting in tuberculosis. With damage to the immune system by HIV, previously well controlled TB bacilli can become active and multiply rapidly.
+	> HIV infection weakens the immune system and allows previously dormant tuberculosis bacilli to become active, resulting in tuberculosis.
 
-Tuberculosis may be the first serious infection in an HIV infected child and be the first indication that the child is HIV infected.
+*	Due to their weak immune system, tuberculosis of organs other than the lungs is more common in children with HIV infection, e.g. miliary tuberculosis or tuberculous meningitis and even chronic otitis media due to TB bacilli.
+*	The recent increase in deaths due to tuberculosis in many developing countries is largely due to the spread of HIV infection. Tuberculosis is a very common complication of HIV infection and many children with HIV infection will develop pulmonary tuberculosis. Co-infection (TB and HIV) is a major problem in South Africa.
+*	Most children with both HIV and tuberculous infections will respond as well to the standard antituberculosis treatment as children who are not infected with HIV.
 
-HIV infection weakens the immune system and allows previously dormant tuberculosis bacilli to become active, resulting in tuberculosis.
-
-
-
-Due to their weak immune system, tuberculosis of organs other than the lungs is more common in children with HIV infection, e.g. miliary tuberculosis or tuberculous meningitis and even chronic otitis media due to TB bacilli.
-
-The recent increase in deaths due to tuberculosis in many developing countries is largely due to the spread of HIV infection. Tuberculosis is a very common complication of HIV infection and many children with HIV infection will develop pulmonary tuberculosis. Co-infection (TB and HIV) is a major problem in South Africa.
-
-Most children with both HIV and tuberculous infections will respond as well to the standard antituberculosis treatment as children who are not infected with HIV.
-
-Tuberculosis is a very common complication and cause of death in children and adults with HIV infection.
-
-
+> Tuberculosis is a very common complication and cause of death in children and adults with HIV infection.
 
 HIV infection makes the diagnosis of TB more difficult. The Mantoux skin test may be falsely negative and the chest X-ray confusing. While a smear may be negative, TB bacilli can still be grown in the sputum.
 
@@ -5712,25 +5162,17 @@ HIV infection makes the diagnosis of TB more difficult. The Mantoux skin test ma
 
 Tuberculosis weakens the patient’s immune system and enables HIV infection to progress more rapidly to AIDS.
 
-Every child with tuberculosis should be screened for HIV infection.
-
-
+> Every child with tuberculosis should be screened for HIV infection.
 
 ### 8-35 How can tuberculosis be prevented?
 
-By improving the standard of living and preventing overcrowding
-
-By diagnosing and treating adults with pulmonary tuberculosis
-
-By immunising all newborn infants with BCG
-
-By keeping children away from adults with untreated tuberculosis
-
-By screening children who have come into close contact with an adult with pulmonary tuberculosis and giving chemoprophylaxis to all TB exposed children under 5 years of age
-
-By monitoring weight gain (Road-to-Health Card) to identify children with failure to thrive. Preventing malnutrition and giving routine vitamin A helps prevent the progression of TB infection to tuberculosis (TB disease).
-
-By preventing the spread of HIV infection
+1.	By improving the standard of living and preventing overcrowding
+1.	By diagnosing and treating adults with pulmonary tuberculosis
+1.	By immunising all newborn infants with BCG
+1.	By keeping children away from adults with untreated tuberculosis
+1.	By screening children who have come into close contact with an adult with pulmonary tuberculosis and giving chemoprophylaxis to all TB exposed children under 5 years of age
+1.	By monitoring weight gain (Road-to-Health Card) to identify children with failure to thrive. Preventing malnutrition and giving routine vitamin A helps prevent the progression of TB infection to tuberculosis (TB disease).
+1.	By preventing the spread of HIV infection
 
 ### 8-36 What is the value of BCG immunisation?
 
@@ -5742,29 +5184,21 @@ Immunisation against measles and diphtheria also helps reduce the risk of tuberc
 
 ### 8-37 How is the diagnosis of tuberculosis classified in children?
 
-Suspected tuberculosis: The chest X-ray in an ill child suggests tuberculosis.
-
-Probable tuberculosis: The chest X-ray suggests tuberculosis in a child who is failing to thrive, has a chronic cough, has a positive Mantoux skin test and/or has a history of contact with an adult suffering from untreated tuberculosis.
-
-Confirmed tuberculosis: In addition to the above, TB bacilli are seen or grown from the sputum or any other body fluid.
+1.	Suspected tuberculosis: The chest X-ray in an ill child suggests tuberculosis.
+1.	Probable tuberculosis: The chest X-ray suggests tuberculosis in a child who is failing to thrive, has a chronic cough, has a positive Mantoux skin test and/or has a history of contact with an adult suffering from untreated tuberculosis.
+1.	Confirmed tuberculosis: In addition to the above, TB bacilli are seen or grown from the sputum or any other body fluid.
 
 Unfortunately the diagnosis of tuberculosis is often only suspected or probable and cannot be confirmed. These infants need to be treated as if they had confirmed tuberculosis.
 
 ### 8-38 What is the management of tuberculosis?
 
-Multi-drug treatment with 3 or 4 drugs is essential to make sure that the tuberculosis is cured and that resistance to the anti-TB drugs does not develop.
+1.	Multi-drug treatment with 3 or 4 drugs is essential to make sure that the tuberculosis is cured and that resistance to the anti-TB drugs does not develop.
+1.	The most important aspect of treating a child with tuberculosis is to ensure that the medicine is taken correctly and regularly. This is often difficult as the treatment takes many months. It is essential that the health care workers at the clinic develop a good working relationship with the mother and child.
+1.	While ill children need hospitalisation, most children with tuberculosis can be treated from a clinic.
+1.	The child’s general nutritional status must be improved as most children with tuberculosis are underweight for age. The Road-to-Health Card is a valuable way of monitoring the child’s weight gain.
+1.	If children are infected with both HIV and TB, both infections should be treated. These children have a damaged immune system and their HIV infection should be correctly managed with prophylactic co-trimoxazole and antiretroviral therapy if they qualify.
 
-The most important aspect of treating a child with tuberculosis is to ensure that the medicine is taken correctly and regularly. This is often difficult as the treatment takes many months. It is essential that the health care workers at the clinic develop a good working relationship with the mother and child.
-
-While ill children need hospitalisation, most children with tuberculosis can be treated from a clinic.
-
-The child’s general nutritional status must be improved as most children with tuberculosis are underweight for age. The Road-to-Health Card is a valuable way of monitoring the child’s weight gain.
-
-If children are infected with both HIV and TB, both infections should be treated. These children have a damaged immune system and their HIV infection should be correctly managed with prophylactic co-trimoxazole and antiretroviral therapy if they qualify.
-
-Multi-drug treatment for many months is essential to cure tuberculosis.
-
-
+> Multi-drug treatment for many months is essential to cure tuberculosis.
 
 Note
 :	Because of severe drug interactions between anti-TB and antiretroviral drugs, similar adverse drug reactions in the 2 groups of drugs, and possible immune reconstitution inflammatory syndrome, it is recommended to delay antiretroviral treatment until after the TB treatment is completed or to postpone antiretroviral treatment until 2 months of TB treatment has been completed.
@@ -5773,11 +5207,9 @@ Note
 
 Because the TB bacillus rapidly becomes resistant to 1 antituberculous drug if it is given on its own, multiple drug therapy is used. Usually 3 or more drugs are given together. The drug combination usually given consists of:
 
-Rifampicin
-
-Isoniazid (INH)
-
-Pyrazinamide (PZA)
+*	Rifampicin
+*	Isoniazid (INH)
+*	Pyrazinamide (PZA)
 
 All 3 drugs are usually given together before breakfast. It is very important that the drugs are taken regularly and correctly. Hospitalisation and bed rest are usually not needed. With correct treatment more than 90% of children with tuberculosis can be cured.
 
@@ -5797,7 +5229,7 @@ Children older than 8 years or children weighing more than 35 kg are treated wit
 Note
 :	Corticosteroids are indicated in addition to anti-TB treatment in children with severe bronchial compression by enlarged lymph nodes and in tuberculous meningitis.
 
-Tuberculosis is usually treated with rifampicin, INH and pyrazinamide for 2 months followed by rifampicin and INH only for another 4 months.
+> Tuberculosis is usually treated with rifampicin, INH and pyrazinamide for 2 months followed by rifampicin and INH only for another 4 months.
 
 Table 8-1: The usual 6-month treatment regimen for tuberculosis. R = Rifampicin; H = INH; Z = Pyrazinamide
 {:.table-caption}
@@ -5879,9 +5311,7 @@ Note
 
 If the treatment is stopped too soon the tuberculosis can also return (relapse). In many poor countries it is common for TB patients not to complete their full course of treatment. Once they feel well again they stop their treatment. As a result, relapse of TB occurs and many people die of TB.
 
-Treatment of tuberculosis is difficult as it is lengthy and requires good compliance.
-
-
+> Treatment of tuberculosis is difficult as it is lengthy and requires good compliance.
 
 Adults with tuberculosis have a responsibility, not only to themselves, but also to their household and community to complete their treatment correctly.
 
@@ -5892,39 +5322,28 @@ Adults with tuberculosis have a responsibility, not only to themselves, but also
 Note
 :	The DOTS strategy consists of 5 main points: Government commitment to sustained TB control activities; case detection by sputum smear microscopy among symptomatic patients; self-reporting to health services; standardized treatment regimens of 6 to 8 months for at least all confirmed sputum smear positive cases, with directly observed treatment (DOT) for at least the initial 2 months; a regular, uninterrupted supply of all essential anti-TB drugs; and a standardized recording and reporting system that allows assessment of treatment results for each patient and of the TB control programme overall. DOTS was introduced to South Africa in 1996.
 
-With DOTS a responsible person must see the patient take the tablets.
-
-
+> With DOTS a responsible person must see the patient take the tablets.
 
 ### 8-45 When are anti-tuberculous drugs given prophylactically to young children?
 
 The following children should be given prophylactic (preventative) treatment:
 
-Clinically well, asymptomatic children under 5 years of age who have been in the same home as someone who has smear-positive pulmonary TB. These young children are at very high risk of developing TB themselves as they have an immature immune system.
-
-Children under 5 years who have a positive Mantoux skin test (10 mm or more), who are clinically well and have not recently been treated for TB. 
-
-HIV positive children who are in contact with adults with smear-positive tuberculosis.
+*	Clinically well, asymptomatic children under 5 years of age who have been in the same home as someone who has smear-positive pulmonary TB. These young children are at very high risk of developing TB themselves as they have an immature immune system.
+*	Children under 5 years who have a positive Mantoux skin test (10 mm or more), who are clinically well and have not recently been treated for TB. 
+*	HIV positive children who are in contact with adults with smear-positive tuberculosis.
 
 Currently, prophylaxis consists of INH for 6 months. The treatment is given daily for 5 days a week using the same dose as for short course treatment. Children of 5 and older, who have been in close contact with an adult with untreated pulmonary TB, or have a positive Mantoux, are not given prophylaxis, as they are at far less risk of developing tuberculosis. However, they should be followed and treated if they develop any early signs of TB.
 
-Prophylactic treatment is given to well children under 5 years of age who have been in close contact with someone with untreated tuberculosis.
-
-
+> Prophylactic treatment is given to well children under 5 years of age who have been in close contact with someone with untreated tuberculosis.
 
 ### 8-46 What is the management of a newborn infant if the mother has tuberculosis?
 
-If the mother has untreated pulmonary tuberculosis, or has not been on treatment for at least 4 weeks before delivery, the infant should have prophylactic treatment. The same will apply if another family member has active pulmonary tuberculosis. Usually INH 5 mg/kg/day is given. Some services use INH plus rifampicin.
-
-The mother should be allowed to care for and breastfeed her infant. The infant need not be isolated but can stay with the mother. The mother must receive a full course of treatment.
-
-BCG should not be given at birth (as the BCG bacillus could be killed by the anti-TB drugs).
-
-At 3 months, a Mantoux skin test must be done:
-
-If the infant is thriving and the skin test is negative, the infant has not been infected with TB bacilli. BCG should now be given after the prophylactic treatment has been stopped for 3 days. No further treatment is needed.
-
-A Mantoux skin test of 5 mm or more indicates that the infant has been infected by TB bacilli despite the prophylactic treatment. Do not give BCG but treat the child for tuberculosis.
+1.	If the mother has untreated pulmonary tuberculosis, or has not been on treatment for at least 4 weeks before delivery, the infant should have prophylactic treatment. The same will apply if another family member has active pulmonary tuberculosis. Usually INH 5 mg/kg/day is given. Some services use INH plus rifampicin.
+1.	The mother should be allowed to care for and breastfeed her infant. The infant need not be isolated but can stay with the mother. The mother must receive a full course of treatment.
+1.	BCG should not be given at birth (as the BCG bacillus could be killed by the anti-TB drugs).
+1.	At 3 months, a Mantoux skin test must be done:
+	*	If the infant is thriving and the skin test is negative, the infant has not been infected with TB bacilli. BCG should now be given after the prophylactic treatment has been stopped for 3 days. No further treatment is needed.
+	*	A Mantoux skin test of 5 mm or more indicates that the infant has been infected by TB bacilli despite the prophylactic treatment. Do not give BCG but treat the child for tuberculosis.
 
 Note
 :	Prophylactic treatment of newborn infants remains controversial. The choice of 1 or more drugs and the duration of treatment is still debatable. Therefore, some authorities use both INH and rifampicin for 3 months.
@@ -5939,197 +5358,175 @@ After 2 weeks of the correct treatment, patients with pulmonary tuberculosis are
 
 ### 8-49 How can tuberculosis be controlled in a community?
 
-By the early identification, referral and correct treatment of adults with tuberculosis (especially if smear-positive)
-
-By looking for family members, friends or care givers with untreated tuberculosis (TB contacts) when a child is diagnosed with tuberculosis. It is important to look for the source of infection.
-
-By bringing any child who has been in contact with a smear-positive tuberculosis to clinic for assessment and possible prophylactic treatment. This is particularly important in children under 5 years of age and those with HIV infection.
-
-By improving general nutrition and preventing overcrowding (good housing)
-
-By immunising all infants with BCG, measles and pertussis vaccine
-
-By routinely monitoring weight gain in children with the Road-to-Health Card
-
-By using the DOTS strategy
-
-By reducing the transmission of HIV to children and correctly treating children with symptomatic HIV infection
-
-By notifying all cases of tuberculosis
+1.	By the early identification, referral and correct treatment of adults with tuberculosis (especially if smear-positive)
+1.	By looking for family members, friends or care givers with untreated tuberculosis (TB contacts) when a child is diagnosed with tuberculosis. It is important to look for the source of infection.
+1.	By bringing any child who has been in contact with a smear-positive tuberculosis to clinic for assessment and possible prophylactic treatment. This is particularly important in children under 5 years of age and those with HIV infection.
+1.	By improving general nutrition and preventing overcrowding (good housing)
+1.	By immunising all infants with BCG, measles and pertussis vaccine
+1.	By routinely monitoring weight gain in children with the Road-to-Health Card
+1.	By using the DOTS strategy
+1.	By reducing the transmission of HIV to children and correctly treating children with symptomatic HIV infection
+1.	By notifying all cases of tuberculosis
 
 ### 8-50 What are the main responsibilities of the staff in a primary care TB clinic?
 
-Identifying adults and children with tuberculosis or at high risk of having tuberculosis
+1.	Identifying adults and children with tuberculosis or at high risk of having tuberculosis
+1.	Referring them for correct diagnosis
+1.	Making sure that patients take their treatment correctly
+1.	Looking for other cases of tuberculosis in the home
+1.	Finding children under 5 years who need prophylactic treatment
+1.	Supporting the family of a patient with tuberculosis
 
-Referring them for correct diagnosis
-
-Making sure that patients take their treatment correctly
-
-Looking for other cases of tuberculosis in the home
-
-Finding children under 5 years who need prophylactic treatment
-
-Supporting the family of a patient with tuberculosis
-
-Case study 1
+## Case study 1
 
 A 7-year-old child presents at a local clinic with a history of a persistent, dry cough for the past month. He has a poor appetite, has lost weight recently and reports that he sweats a lot at night. Examination reveals a thin child with an expiratory wheeze. A BCG scar is noted over his right upper arm. His mother says she and her 5 children live with her father in a 2 roomed house. The grandfather is also unwell and has been coughing and complaining of chest pain for the past few months. She is unemployed and the whole family live on the grandfather’s pension. The child is sent for a chest X-ray and Mantoux skin test.
 
-1. Why should you suspect that this child has pulmonary tuberculosis?
+### 1. Why should you suspect that this child has pulmonary tuberculosis?
 
 The symptoms of chronic cough for a month, poor appetite, weight loss and night sweats are strongly suggestive of tuberculosis. They live in poor, overcrowded conditions and the grandfather’s history also suggests tuberculosis. The child has probably been infected by the grandfather who could have smear-positive pulmonary tuberculosis.
 
-2. Would BCG immunisation not protect this child from tuberculosis?
+### 2. Would BCG immunisation not protect this child from tuberculosis?
 
 BCG immunisation gives partial protection against tuberculosis, especially tuberculous meningitis and miliary tuberculosis. However, an immunised child can still become infected particularly if they are undernourished or exposed to large numbers of TB bacilli. Therefore, this child may have tuberculosis even though he has been immunized with BCG.
 
-3. How can the suspected diagnosis of tuberculosis be confirmed in this child?
+### 3. How can the suspected diagnosis of tuberculosis be confirmed in this child?
 
 A chest X-ray should be taken and a Mantoux skin test performed. The grandfather should also be investigated for tuberculosis.
 
-4. What are the typical chest X-ray findings of tuberculosis in a child?
+### 4. What are the typical chest X-ray findings of tuberculosis in a child?
 
 Usually an area of pneumonia (consolidation) is seen together with a widened mediastinum due to enlarged hilar and mediastinal lymph nodes.
 
-5. What is the probable cause of the wheeze?
+### 5. What is the probable cause of the wheeze?
 
 Either a wheeze or stridor can be caused by pressure of enlarged lymph nodes on the airway. This is common in children with pulmonary tuberculosis. The wheeze seldom responds to inhaled bronchodilators.
 
-6. How would you interpret a Mantoux skin test with an area of induration of more than 15 mm across?
+### 6. How would you interpret a Mantoux skin test with an area of induration of more than 15 mm across?
 
 A test of 10 mm or more would indicate tuberculosis, even if the child had received BCG.
 
-7. What other diagnostic investigations should be done on the child?
+### 7. What other diagnostic investigations should be done on the child?
 
 The child should be able to cough up a sample of sputum. This should be stained and then examined for TB bacilli.
 
-8. What medication should be given to this child to treat his tuberculosis?
+### 8. What medication should be given to this child to treat his tuberculosis?
 
 Rifampicin, isoniazid and pyrazinamide are used for the first 2 months then only rifampicin and isoniazid continued for another 4 months. With short course treatment the drugs are given 5 times a week. It is very important that the drugs are given regularly and that doses are not missed.
 
-9. Is tuberculosis a notifiable disease?
+### 9. Is tuberculosis a notifiable disease?
 
 Yes. All forms of tuberculosis are notifiable in South Africa. This enables the local health authority to look for the person who is the source of the infection and to screen contacts for tuberculosis.
 
-Case study 2
+## Case study 2
 
 An 18 month old infant is brought to hospital with a 1 week history of fever and irritability. For the last 2 days the infant has been very drowsy, refuses feeds and does not want to play with her siblings. She has also vomited a few times. The mother reports that the child has not been immunized as she was born at home and lives far from the nearest clinic. The child has received no treatment or traditional medicine. A chest X-ray done at the clinic is normal.
 
-1. What diagnosis should be suspected?
+### 1. What diagnosis should be suspected?
 
 Tuberculous meningitis.
 
-2. How can this diagnosis be confirmed?
+### 2. How can this diagnosis be confirmed?
 
 By examining a sample of cerebrospinal fluid (CSF) obtained by lumbar puncture. If the child has tuberculous meningitis the fluid will be abnormal. Children with TB meningitis often have a normal chest X-ray. The typical signs of meningitis are often not present during the first few days of illness.
 
-3. Which children are at most risk of tuberculous meningitis?
+### 3. Which children are at most risk of tuberculous meningitis?
 
 Children under 3 years of age who have not been immunized with BCG and are exposed to large numbers of TB bacilli. It would be important to ask if there is an adult in the home who may have untreated tuberculosis.
 
-4. What are the dangers of tuberculous meningitis?
+### 4. What are the dangers of tuberculous meningitis?
 
 The child may die or suffer permanent brain damage. Hydrocephalus, paralysis, deafness, blindness, convulsions or mental retardation may result, especially if the diagnosis is only made when the child already has neurological signs. If diagnosed and treated early, the child may fully recover. The clinical presentation in this child suggests an early diagnosis.
 
-5. How should this child be managed?
+### 5. How should this child be managed?
 
 The child must be urgently referred to hospital for investigation and treatment. Treatment with anti-TB drugs will be needed for 6 months.
 
-6. What other organs can be infected with the tuberculosis bacilli?
+### 6. What other organs can be infected with the tuberculosis bacilli?
 
 The lungs are the most common organs to be infected with tuberculosis. In children, tuberculous meningitis, abdominal tuberculosis, tuberculosis of the bones or joints, and tuberculous infection of the lymph nodes are less common. Almost any organ can be infected with tuberculosis.
 
-Case study 3
+## Case study 3
 
 A 16-year-old adolescent gives a history of feeling unwell and losing weight for the past 2 months. She also complains of a chronic loose cough and blood stained sputum. Her older brother was treated for tuberculosis for 2 months but stopped when the medicine ran out. He remained well for a while but is now coughing again. She has a younger brother who is well. The nurse at the clinic refers the patient to hospital for a chest X-ray as she suspects that she has tuberculosis.
 
-1. How is tuberculosis spread?
+### 1. How is tuberculosis spread?
 
 Usually by breathing in TB bacilli that have been coughed into the air by an adult with untreated pulmonary tuberculosis.
 
-2. What viral infections may weaken the immune system and increase the risk of tuberculosis?
+### 2. What viral infections may weaken the immune system and increase the risk of tuberculosis?
 
 HIV infection is a very important cause of damage to the immune system. Therefore children with HIV infection are at high risk of developing tuberculosis. A recent infection with measles can also damage the immune system .
 
-3. What would you expect to see on this patient’s chest X-ray?
+### 3. What would you expect to see on this patient’s chest X-ray?
 
 She probably has adult type pulmonary tuberculosis with cavities in an upper lobe. Patients with this type of tuberculosis are highly infectious as they cough up large numbers of TB bacilli. A stain of her sputum will probably be full of TB bacilli.
 
-4. When was this child probably infected with the TB bacilli?
+### 4. When was this child probably infected with the TB bacilli?
 
 She could have had an asymptomatic primary tuberculosis infection a number of years ago, but recent infection transmitted from her older brother is more likely. If her tuberculosis was the result of reactivation from previous infection, it was because her immune system was able to stop the TB bacilli from multiplying at the time of the previous infection but it was not able to kill them. A few years later the TB bacilli started to multiply again causing pulmonary tuberculosis. This resulted in her becoming ill.
 
-5. What is the best method to make sure that she takes her anti-tuberculosis treatment correctly?
+### 5. What is the best method to make sure that she takes her anti-tuberculosis treatment correctly?
 
 DOTS (Directly Observed Treatment – Short course). It is best if every dose of medication is carefully supervised by a responsible person. It is not necessary to admit her to hospital for treatment. With DOTS she also need not visit the local clinic daily for her treatment.
 
-6. How should the younger brother be managed?
+### 6. How should the younger brother be managed?
 
 The younger brother should be screened for tuberculosis. Any child in the home who is under 5 years of age and does not have tuberculosis should receive prophylactic treatment.
 
-Case study 4
+## Case study 4
 
 A 1-year-old child is seen by a general prac­titioner with a short history of fever and being generally unwell. On examination the child is obviously ill with an enlarged liver and spleen. The mother is also unwell with weight loss and chronic diarrhoea.
 
-1. What is the probable diagnosis in this child?
+### 1. What is the probable diagnosis in this child?
 
 Although a number of different infections can present in this way, miliary tuberculosis must be suspected.
 
-2. What would be the appearance of a chest X-ray in miliary tuberculosis?
+### 2. What would be the appearance of a chest X-ray in miliary tuberculosis?
 
 With miliary tuberculosis the chest X-ray shows numerous small spots throughout both lungs indicating a widespread pneumonia.
 
-3. Would you expect the Mantoux skin test to be positive?
+### 3. Would you expect the Mantoux skin test to be positive?
 
 The Mantoux skin test may be positive. However, with miliary tuberculosis the Mantoux could be negative, as the severe infection weakens the immune system.
 
-4. How did this child probably become infected with TB?
+### 4. How did this child probably become infected with TB?
 
 The mother probably has tuberculosis. The story of chronic diarrhoea suggests that she may also have AIDS. Tuberculosis and HIV infection often occur together.
 
-5. How can a newborn infant be protected against infection if the mother has tuberculosis ?
+### 5. How can a newborn infant be protected against infection if the mother has tuberculosis ?
 
 The infant should be started on prophylactic anti-TB treatment (usually INH alone or INH plus rifampicin) as soon as possible after delivery. Immunisation with BCG should be delayed until the treatment is completed.
 
-6. Should a mother with tuberculosis be allowed to breastfeed her infant?
+### 6. Should a mother with tuberculosis be allowed to breastfeed her infant?
 
 Yes, provided the infant is given prophylactic treatment. The mother must take her anti-TB medication correctly and need not be separated from her infant.
 
 
 
-
-
 9
+{:.chapter-number}
 
-HIV infection
+# HIV infection
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Define HIV infection and AIDS.
+*	Define HIV infection and AIDS.
+*	Describe how children may become infected with HIV.
+*	Reduce the risk of mother-to-child transmission of HIV.
+*	Recognise the clinical signs and symptoms of HIV infection.
+*	Confirm the diagnosis of HIV infection.
+*	Manage a child with HIV infection.
+*	Counsel parents of a child with HIV infection.
 
-Describe how children may become infected with HIV.
-
-Reduce the risk of mother-to-child transmission of HIV.
-
-Recognise the clinical signs and symptoms of HIV infection.
-
-Confirm the diagnosis of HIV infection.
-
-Manage a child with HIV infection.
-
-Counsel parents of a child with HIV infection.
-
-Introduction
+## Introduction
 
 ### 9-1 What is HIV?
 
 HIV stands for the Human Immunodeficiency Virus. The virus is infectious and can be spread from one person to another and is found in most body fluids, e.g. blood, semen, vaginal secretions and breast milk.
 
-HIV is the Human Immunodeficiency Virus.
-
-
+> HIV is the Human Immunodeficiency Virus.
 
 Note
 :	HIV is a new human virus which was first identified in Paris in 1983. It was probably transmitted to humans from monkeys in central Africa in the 1950s. From here it rapidly spread to all parts of the world, especially the USA, Europe, Asia and other parts of Africa.
@@ -6151,9 +5548,7 @@ Note
 
 AIDS is the Acquired Immune Deficiency Syndrome. This is an advanced stage of HIV infection presenting with serious clinical illness. It presents in both adults and children in many different ways. The main feature of AIDS is severe damage to the immune system leading to many viral, bacterial and fungal infections, many of which do not usually occur in people with a healthy immune system. These are called HIV associated infections or opportunistic infections. They take the ‘opportunity’ of infecting people with poor immune function (immune deficiency). At present AIDS can be controlled but cannot be cured. If not treated with antiretroviral drugs, AIDS is a fatal condition.
 
-AIDS is a serious illness caused by the Human Immunodeficiency Virus (HIV).
-
-
+> AIDS is a serious illness caused by the Human Immunodeficiency Virus (HIV).
 
 Note
 :	AIDS was first recognized among homosexual males and intravenous drug abusers in the USA in 1981. The next year it was diagnosed in heterosexual men and women in Africa and also recognized in infants born to drug addicted mothers.
@@ -6162,9 +5557,7 @@ Note
 
 Yes. Adults are usually infected with HIV for years while remaining clinically well (asymptomatic HIV infection). Only after this long latent period do the clinical signs of HIV infection develop (symptomatic HIV infection). In children the latent period may be as short as a few months. HIV infection is only called AIDS when the patient becomes seriously ill due to HIV related infections. Therefore, AIDS is the most advanced and serious form of HIV infection.
 
-AIDS is the most advanced and serious stage of HIV infection.
-
-
+> AIDS is the most advanced and serious stage of HIV infection.
 
 HIV is frequently transmitted by people who appear to be clinically well and do not know that they are infected with HIV.
 
@@ -6172,112 +5565,82 @@ HIV is frequently transmitted by people who appear to be clinically well and do 
 
 Most cases of HIV infection occur in Africa where the spread of the HIV epidemic is greatest in Southern Africa. Over 40 million people world-wide have HIV infection. South Africa has one of the fastest growing HIV epidemics with 1000 to 2000 people infected every day. Between 12 and 15% of all South Africans are currently infected with HIV. Approximately 30% of pregnant women in South Africa are HIV-positive (i.e. infected with HIV) and over 100 000 infants are infected annually.
 
-Symptomatic HIV infection is causing a widespread epidemic in Africa.
-
-
+> Symptomatic HIV infection is causing a widespread epidemic in Africa.
 
 HIV infection is having a devastating effect on the health of children and many of the gains made in child survival during recent years are now being reversed. In many hospitals in Southern Africa, most paediatric beds are now filled with children suffering from HIV infection.
 
-Transmission of hiv to children
+## Transmission of HIV to children
 
 ### 9-7 How can a person become infected with HIV?
 
 HIV may be transmitted from one person to another by:
 
-Unprotected heterosexual or homosexual intercourse (horizontal transmission). This includes rape or sexual assault.
-
-Crossing from a mother to her fetus or newborn infant (vertical transmission).
-
-Using syringes, needles or blades which are soiled with HIV-infected blood. This includes syringes and needles shared by intravenous drug abusers.
-
-Accidental injuries in health care workers (a needle, lancet or blade contaminated with HIV-infected blood). HIV may also be able to enter via a skin lesion (cut or open wound).
-
-A blood transfusion with HIV-infected blood or other HIV-infected blood products such as factor VIII in haemophiliacs. This is very rare in South Africa as all blood products are screened for HIV.
+*	Unprotected heterosexual or homosexual intercourse (horizontal transmission). This includes rape or sexual assault.
+*	Crossing from a mother to her fetus or newborn infant (vertical transmission).
+*	Using syringes, needles or blades which are soiled with HIV-infected blood. This includes syringes and needles shared by intravenous drug abusers.
+*	Accidental injuries in health care workers (a needle, lancet or blade contaminated with HIV-infected blood). HIV may also be able to enter via a skin lesion (cut or open wound).
+*	A blood transfusion with HIV-infected blood or other HIV-infected blood products such as factor VIII in haemophiliacs. This is very rare in South Africa as all blood products are screened for HIV.
 
 There is no evidence that HIV can be spread by mosquitoes, lice or bed bugs. HIV infection is not spread by kissing, holding hands or sharing cups or eating utensils. In Africa HIV is most commonly spread between adults by heterosexual intercourse.
 
-In adults HIV is usually spread by sexual intercourse.
-
-
+> In adults HIV is usually spread by sexual intercourse.
 
 ### 9-8 How are children usually infected with HIV?
 
 In children HIV is usually spread from a mother to her fetus or young infant. This is called mother-to-child transmission or MTCT. An HIV-infected mother may pass the virus to her child by the following routes:
 
-HIV may cross the placenta from the mother to her fetus during pregnancy.
-
-The infant may be infected with HIV by contact with vaginal secretions and blood during labour and delivery.
-
-HIV may cross to the infant in breast milk.
-
-Young children may also be infected with HIV during rape or sexual assault while adolescents may be infected during consenting intercourse.
-
-Children may be infected when sharp instruments are used in ritual scratching or scarification or circumcision if the instrument is contaminated with blood containing HIV from another person.
+1.	HIV may cross the placenta from the mother to her fetus during pregnancy.
+1.	The infant may be infected with HIV by contact with vaginal secretions and blood during labour and delivery.
+1.	HIV may cross to the infant in breast milk.
+1.	Young children may also be infected with HIV during rape or sexual assault while adolescents may be infected during consenting intercourse.
+1.	Children may be infected when sharp instruments are used in ritual scratching or scarification or circumcision if the instrument is contaminated with blood containing HIV from another person.
 
 ### 9-9 What is the risk of a child becoming infected with HIV by mother-to-child transmission?
 
 If a mother is infected with HIV and is not being given antretroviral prophylaxis:
 
-There is a 5% risk that HIV will cross the placenta from a mother to her fetus during pregnancy. The risk is increased further if the woman has an amniocentesis, external cephalic version, becomes infected with HIV during the pregnancy or has AIDS.
-
-There is a 15% risk of the infant becoming infected with HIV during labour and a vaginal delivery. The risk is increased if the mother has pre-term labour, chorioamnionitis, rupture of membranes for more than 4 hours, an episiotomy or assisted delivery (vacuum or forceps delivery), a scalp clip for foetal heart rate monitoring or foetal scalp blood sampling for pH. Elective caesarean section removes the risk of HIV transmission during labour and vaginal delivery.
-
-There is an additional 15% risk of HIV transmission after delivery if the mother practices mixed breastfeeding (breast milk plus other fluids and foods) for up to 18 months.
+1.	There is a 5% risk that HIV will cross the placenta from a mother to her fetus during pregnancy. The risk is increased further if the woman has an amniocentesis, external cephalic version, becomes infected with HIV during the pregnancy or has AIDS.
+1.	There is a 15% risk of the infant becoming infected with HIV during labour and a vaginal delivery. The risk is increased if the mother has pre-term labour, chorioamnionitis, rupture of membranes for more than 4 hours, an episiotomy or assisted delivery (vacuum or forceps delivery), a scalp clip for foetal heart rate monitoring or foetal scalp blood sampling for pH. Elective caesarean section removes the risk of HIV transmission during labour and vaginal delivery.
+1.	There is an additional 15% risk of HIV transmission after delivery if the mother practices mixed breastfeeding (breast milk plus other fluids and foods) for up to 18 months.
 
 Therefore, without antiretroviral prophylaxis, the risk of HIV transmission with vaginal delivery and no breastfeeding is 20% (i.e. 5% plus 15%). With mixed breastfeeding the risk increases to 35% (i.e. 5% plus 15% plus 15%). It is important to know that at least 65% or more of infants born to HIV-infected mothers are not infected with HIV.
 
-Most infants born to HIV-infected mothers are not infected with HIV.
-
-
+> Most infants born to HIV-infected mothers are not infected with HIV.
 
 ### 9-10 How can the risk of mother-to-child transmission be reduced?
 
-If possible, all women should be screened for HIV infection early in pregnancy so that HIV-exposed infants can be identified before delivery. Antiretroviral prophylaxis should be offered to all HIV-infected mothers during pregnancy and delivery, and to the newborn infant to reduce the risk of mother-to-child transmission of HIV.
-
-The management of pregnancy, labour and delivery should be altered to reduce the risk of exposing the fetus and infant to HIV. Avoid early rupture of the membranes, instrument delivery and episiotomy if possible. An elective caesarean section is an option, especially in communities that can afford it.
-
-Women should avoid becoming infected with HIV during pregnancy and breastfeeding by practising safe sex.
-
-The choice of infant feeding should be discussed with the mother.
+1.	If possible, all women should be screened for HIV infection early in pregnancy so that HIV-exposed infants can be identified before delivery. Antiretroviral prophylaxis should be offered to all HIV-infected mothers during pregnancy and delivery, and to the newborn infant to reduce the risk of mother-to-child transmission of HIV.
+1.	The management of pregnancy, labour and delivery should be altered to reduce the risk of exposing the fetus and infant to HIV. Avoid early rupture of the membranes, instrument delivery and episiotomy if possible. An elective caesarean section is an option, especially in communities that can afford it.
+1.	Women should avoid becoming infected with HIV during pregnancy and breastfeeding by practising safe sex.
+1.	The choice of infant feeding should be discussed with the mother.
 
 ### 9-11 What factors influence the risk of HIV transmission in breast milk?
 
 HIV is present in breast milk and HIV can be transmitted in the mother’s milk to the breastfeeding infant. The risk is greatest if the mother both breastfeeds and gives other foods, such as water, fruit juice, formula feeds and solids (i.e. mixed breastfeeding). With mixed breastfeeding the risk of passing HIV to the infant is:
 
-5% in the first 6 months
-
-5% from 6 to 12 months
-
-5% from 12 to 18 months
+1.	5% in the first 6 months
+1.	5% from 6 to 12 months
+1.	5% from 12 to 18 months
 
 The risk of HIV transmission with breastfeeding is further increased if:
 
-The mother becomes infected with HIV during the time that she is breastfeeding.
-
-The mother has AIDS.
-
-The mother has cracked nipples, mastitis or a breast abscess.
-
-The infant has oral thrush.
+*	The mother becomes infected with HIV during the time that she is breastfeeding.
+*	The mother has AIDS.
+*	The mother has cracked nipples, mastitis or a breast abscess.
+*	The infant has oral thrush.
 
 Note
 :	The risk of transmission is determined by the amount of HIV in the breast milk. This is very high soon after infection with HIV and again with symptomatic HIV infection.
 
 ### 9-12 How can the risk of HIV transmission in breast milk be reduced?
 
-By giving formula feeds only and no breast milk (exclusive formula feeding)
-
-By giving breast milk only and no other liquids or solids (exclusive breastfeeding)
-
-By preventing HIV infection of the mother  (safe sex) during the breastfeeding period
-
-By good breastfeeding management to avoid mastitis or breast abcess
-
-By treating oral thrush correctly in the infant
-
-By pasteurising breast milk. This is very helpful with pre-term infants in hospital
-
-By giving antiretroviral treatment to HIV-positive mothers who elect to breastfeed
+*	By giving formula feeds only and no breast milk (exclusive formula feeding)
+*	By giving breast milk only and no other liquids or solids (exclusive breastfeeding)
+*	By preventing HIV infection of the mother  (safe sex) during the breastfeeding period
+*	By good breastfeeding management to avoid mastitis or breast abcess
+*	By treating oral thrush correctly in the infant
+*	By pasteurising breast milk. This is very helpful with pre-term infants in hospital
+*	By giving antiretroviral treatment to HIV-positive mothers who elect to breastfeed
 
 With exclusive breastfeeding, for the first 6 months, the risk of HIV transmission appears to be small. Further research is still needed to document the risk of HIV transmission with exclusive breastfeeding.
 
@@ -6288,30 +5651,24 @@ Note
 
 The best feeding choice must be made by the mother herself after counselling to enable her to understand the risks and advantages of both forms of feeding. Formula feeding is usually only advised if all the following conditions can be met:
 
-Formula is available and affordable.
-
-Clean water is available and feeding cups or bottles can be sterilised.
-
-The mother can mix the feeds correctly.
-
-It is acceptable to her family and society to formula feed.
-
-Primary health facilities are available to monitor the child’s growth.
+1.	Formula is available and affordable.
+1.	Clean water is available and feeding cups or bottles can be sterilised.
+1.	The mother can mix the feeds correctly.
+1.	It is acceptable to her family and society to formula feed.
+1.	Primary health facilities are available to monitor the child’s growth.
 
 If any of these conditions cannot be met, which is common when mothers are living in or returning to rural areas, then exclusive breastfeeding for 4 to 6 months followed by rapid weaning off the breast is probably safest. In these infants, the risk of death due to gastroenteritis and malnutrition if formula fed is often higher than the risk of HIV infection via breastfeeding.
 
 Note
 :	WHO uses the acronym AFASS for acceptable, feasible, affordable, sustainable and safe.
 
-Diagnosing HIV infection in a child
+## Diagnosing HIV infection in a child
 
 ### 9-14 How is HIV infection diagnosed?
 
 In older children (and adults) the ELISA or rapid screening tests are used to confirm the diagnosis of HIV infection. These tests detect antibodies against HIV in the blood and usually become positive between 2 to 6 weeks after the infection (i.e. after the window period for the screening tests). As maternal HIV antibodies cross the placenta to the infant, and can remain in the infant’s blood for up to 18 months after delivery, the screening tests can only diagnose HIV infection in an infant if the test remains positive after 18 months of age. A positive screening test in the infant before 18 months may simply indicate that there are still maternal antibodies to HIV in an infant who is not infected (i.e. HIV-exposed but not infected).
 
-A positive ELISA or rapid test in a child younger than 18 months does not necessarily mean the child has HIV infection.
-
-
+> A positive ELISA or rapid test in a child younger than 18 months does not necessarily mean the child has HIV infection.
 
 A PCR test (polymerase chain reaction) detects HIV DNA (part of the genetic code of HIV). If the PCR blood test is positive the infant is infected with HIV. As the PCR test may take up to 6 weeks after the time of infection to become positive (the window period for the PCR test), an HIV-infected infant may have a negative test during this time (a false negative test).
 
@@ -6320,9 +5677,7 @@ If the mother is HIV-positive and does not breastfeed, the PCR test should be do
 Note
 :	The vast majority of infants (more than 98%) infected with HIV before or during delivery will have a positive PCR test by 6 weeks. The remainder will be positive by 3 months.
 
-A positive PCR test indicates that the child has HIV infection.
-
-
+> A positive PCR test indicates that the child has HIV infection.
 
 Note
 :	The ultrasensitive p24 antigen test is as reliable as the PCR at 6 weeks but is not widely available yet. The PCR HIV RNA test is also probably an accurate method of identifying HIV infection in children under 18 months.
@@ -6331,11 +5686,9 @@ Note
 
 There are many advantages of diagnosing HIV infection early in infants. If the infant has not been breastfed, PCR testing can screen the infant for HIV infection at 6 weeks after delivery. Most infants will be negative and their parents can be reassured. These infants do not need the routine care offered to HIV-exposed infants from 6 weeks and can be followed at a well baby clinic. Infants with a positive PCR test should be closely followed up as they need additional care and monitoring. Breastfed infants should only be rescreened later after they have received no breast milk for 6 weeks. As HIV can cause severe illness and even death in the first few months of life, it is important to make the diagnosis as early as possible so that treatment can be started.
 
-HIV-exposed infants should be screened for HIV infection at 6 weeks of age.
+> HIV-exposed infants should be screened for HIV infection at 6 weeks of age.
 
-
-
-The clinical diagnosis of HIV infection and AIDS
+## The clinical diagnosis of HIV infection and AIDS
 
 ### 9-16 How does HIV infection present clinically in children?
 
@@ -6345,13 +5698,10 @@ HIV infection can present in many different ways in children and, as a result, m
 
 HIV infection in children is divided into 4 stages:
 
-During stage 1 the child is generally well (asymptomatic).
-
-During stage 2 the child has skin rashes and minor infections.
-
-During stage 3 the child becomes ill with more serious infections.
-
-During stage 4 the child becomes infected with unusual organisms which are very uncommon in healthy children. Stage 4 is also know as AIDS.
+1.	During stage 1 the child is generally well (asymptomatic).
+1.	During stage 2 the child has skin rashes and minor infections.
+1.	During stage 3 the child becomes ill with more serious infections.
+1.	During stage 4 the child becomes infected with unusual organisms which are very uncommon in healthy children. Stage 4 is also know as AIDS.
 
 Some previously-well infants can present with stage 4 disease without first progressing through the other stages.
 
@@ -6362,9 +5712,8 @@ Note
 
 A definite diagnosis of symptomatic HIV infection (i.e. HIV infection causing disease) can be made if both of the following are present:
 
-Confirmation of HIV infection by ELISA or PCR testing
-
-Clinical signs and symptoms common in HIV infection (Remember that young infants do not have symptoms as they cannot give a history.)
+1.	Confirmation of HIV infection by ELISA or PCR testing
+1.	Clinical signs and symptoms common in HIV infection (Remember that young infants do not have symptoms as they cannot give a history.)
 
 Additional blood tests showing a weakened or damaged immune system help to confirm the diagnosis of symptomatic HIV infection but are not essential. Therefore, when laboratory tests of immune function are not available, a diagnosis of illness due to HIV infection can still be made on clinical signs and symptoms together with blood tests confirming HIV infection.
 
@@ -6376,57 +5725,38 @@ These children are generally well (asymptomatic) but may have persistent general
 
 Stage 2 HIV infection presents with any of the following:
 
-An enlarged liver (hepatomegaly) and spleen (splenomegaly), i.e. hepatosplenomegaly
-
-Bilateral enlargement of the parotid glands
-
-Mild skin rashes, especially itchy papules, warts or molluscum
-
-Recurrent mouth ulcers
-
-Chronic or recurrent upper respiratory infections especially otitis media
+*	An enlarged liver (hepatomegaly) and spleen (splenomegaly), i.e. hepatosplenomegaly
+*	Bilateral enlargement of the parotid glands
+*	Mild skin rashes, especially itchy papules, warts or molluscum
+*	Recurrent mouth ulcers
+*	Chronic or recurrent upper respiratory infections especially otitis media
 
 ### 9-21 What are the signs of stage 3 HIV infection?
 
 Stage 3 HIV infection is recognised by:
 
-Moderate unexplained weight loss or failure to thrive. These children are usually chronically unwell with a poor appetite. Their weight is 60 to 80% of that expected for their age.
-
-Unexplained fever
-
-Unexplained persistent diarrhoea for more than 14 days
-
-Oral candidiasis (thrush) after the newborn period. The candidiasis is often severe, recurrent and responds poorly to topical treatment.
-
-Pulmonary tuberculosis
-
-Severe recurrent presumed bacterial pneumonia
-
-Herpes zoster or severe herpes simplex infection
-
-Symptomatic lymphoid interstitial pneumonia (LIP)
-
-Unexplained anaemia, neutropaenia (low white blood cell count) or thrombocytopaenia (low platelet count)
-
-Gingivitis (gum infections and bleeding)
+*	Moderate unexplained weight loss or failure to thrive. These children are usually chronically unwell with a poor appetite. Their weight is 60 to 80% of that expected for their age.
+*	Unexplained fever
+*	Unexplained persistent diarrhoea for more than 14 days
+*	Oral candidiasis (thrush) after the newborn period. The candidiasis is often severe, recurrent and responds poorly to topical treatment.
+*	Pulmonary tuberculosis
+*	Severe recurrent presumed bacterial pneumonia
+*	Herpes zoster or severe herpes simplex infection
+*	Symptomatic lymphoid interstitial pneumonia (LIP)
+*	Unexplained anaemia, neutropaenia (low white blood cell count) or thrombocytopaenia (low platelet count)
+*	Gingivitis (gum infections and bleeding)
 
 ### 9-22 What are the signs of stage 4 HIV infection?
 
 Stage 4 HIV infection is recognised by:
 
-Severe failure to thrive or weight loss with a weight less than 60% of that expected for age
-
-Oesophageal candidiasis
-
-Pneumocystis pneumonia
-
-Disseminated tuberculosis or extrapulmonary tuberculosis
-
-HIV encephalopathy
-
-Many other severe opportunistic infections
-
-Malignancy
+*	Severe failure to thrive or weight loss with a weight less than 60% of that expected for age
+*	Oesophageal candidiasis
+*	Pneumocystis pneumonia
+*	Disseminated tuberculosis or extrapulmonary tuberculosis
+*	HIV encephalopathy
+*	Many other severe opportunistic infections
+*	Malignancy
 
 The main feature of stage 4 HIV infection is severe opportunistic infection such as Pneumocystis pneumonia. Unlike adults, children with HIV infection rarely present with malignancies.
 
@@ -6438,19 +5768,14 @@ HIV infects and damages the CD4 lymphocytes. These are important cells that cont
 
 The concentration or percentage of CD4 lymphocytes is used to measure the degree of immune damage. In children the number of CD4 cells is higher than in adults and normally reduces with age. Therefore, in young children (under 5 years) the number of CD4 cells is best expressed as a percentage:
 
-The normal range of CD4 lymphocytes in children is 25% or above.
-
-With mild immunosuppression the CD4 percentage may still be normal.
-
-With moderate immunosuppression the range of CD4 lymphocytes is 15 to 24%.
-
-With severe immunosuppression the range of CD4 lymphocytes falls below 15%.
+1.	The normal range of CD4 lymphocytes in children is 25% or above.
+1.	With mild immunosuppression the CD4 percentage may still be normal.
+1.	With moderate immunosuppression the range of CD4 lymphocytes is 15 to 24%.
+1.	With severe immunosuppression the range of CD4 lymphocytes falls below 15%.
 
 The lower the CD4 percentage the greater is the damage to the immune system and, therefore, the higher the risk of serious HIV-related infections.
 
-A CD4 percentage below 25% in young children indicates immunosuppression.
-
-
+> A CD4 percentage below 25% in young children indicates immunosuppression.
 
 The absolute CD4 count is used in children aged 5 years and more. Healthy HIV-negative children of 5 years or above have a CD4 count above 500 cells/μL. A CD4 count below 200 cells/μL indicates severe immune suppression.
 
@@ -6461,29 +5786,24 @@ Note
 
 This depends on both:
 
-The severity of the clinical signs of HIV infection (i.e. the clinical stage)
+1.	The severity of the clinical signs of HIV infection (i.e. the clinical stage)
+1.	The severity of the immunosuppression
 
-The severity of the immunosuppression
-
-Management of HIV-exposed infants
+## Management of HIV-exposed infants
 
 ### 9-25 How should an infant born to an HIV-infected woman be managed after delivery?
 
-All the routine care should be given. It is safe to give intramuscular vitamin K.
-
-Infants should be dried well immediately after delivery to remove blood and amniotic fluid.
-
-Whenever possible the decision to breastfeed or not should be made well before delivery.
-
-HIV prophylaxis should be given to the mother and newborn infant to reduce the risk of mother-to-child transmission.
+1.	All the routine care should be given. It is safe to give intramuscular vitamin K.
+1.	Infants should be dried well immediately after delivery to remove blood and amniotic fluid.
+1.	Whenever possible the decision to breastfeed or not should be made well before delivery.
+1.	HIV prophylaxis should be given to the mother and newborn infant to reduce the risk of mother-to-child transmission.
 
 ### 9-26 How should HIV prophylaxis be given to the newborn infant to reduce the risk of HIV infection during labour and delivery?
 
 All pregnant women should be screened for HIV infection when they book for antenatal care. HIV-positive women must have their CD4 count measured and be offered HIV prophylaxis before delivery. Usually AZT 300 mg orally twice daily is given from 28 weeks gestation followed by a 300 mg oral dose 3-hourly during labour. In addition, oral Nevirapine 200 mg should be given to the mother at the onset of labour. After delivery the infant should be given both:
 
-AZT syrup 12 mg (1.2 ml) twice daily for 7 days, or 4 mg/kg ( 0.4 ml/kg) if the birth weight is less than 2 kg
-
-Nevirapine syrup within 72 hours of delivery as a single dose of 6 mg (0.6 ml), or 2 mg/kg (0.2 ml/kg) if birth weight is less than 2 kg
+*	AZT syrup 12 mg (1.2 ml) twice daily for 7 days, or 4 mg/kg ( 0.4 ml/kg) if the birth weight is less than 2 kg
+*	Nevirapine syrup within 72 hours of delivery as a single dose of 6 mg (0.6 ml), or 2 mg/kg (0.2 ml/kg) if birth weight is less than 2 kg
 
 HAART (Highly Active Antiretroviral Treatment) with 3 antiretroviral drugs should be given to HIV-infected pregnant women with a CD4 count below 200 cells/μL. This will reduce the risk of HIV transmission to the fetus if it is started before 28 weeks.
 
@@ -6494,19 +5814,13 @@ Note
 
 All HIV-exposed infants should be managed as follows unless appropriate PCR testing excludes HIV infection:
 
-All the routine immunisations should be given.
-
-Growth should be assessed by regularly plotting the infant’s weight on a Road-to-Health Card. The early detection of poor weight gain is especially important.
-
-Ensure that the infant is receiving an adequate diet. Provide vitamins, especially vitamin A. This is best given as a multivitamin syrup.
-
-Co-trimoxazole should be started at 6 weeks.
-
-Signs of HIV infection should be looked for at each clinic visit. The early diagnosis and effective treatment of opportunistic infections can give these children longer and better lives.
-
-The correct use of antiretroviral therapy is most important in children with AIDS.
-
-It is very important to also provide the correct HIV management to the mother and other infected members of the family.
+1.	All the routine immunisations should be given.
+1.	Growth should be assessed by regularly plotting the infant’s weight on a Road-to-Health Card. The early detection of poor weight gain is especially important.
+1.	Ensure that the infant is receiving an adequate diet. Provide vitamins, especially vitamin A. This is best given as a multivitamin syrup.
+1.	Co-trimoxazole should be started at 6 weeks.
+1.	Signs of HIV infection should be looked for at each clinic visit. The early diagnosis and effective treatment of opportunistic infections can give these children longer and better lives.
+1.	The correct use of antiretroviral therapy is most important in children with AIDS.
+1.	It is very important to also provide the correct HIV management to the mother and other infected members of the family.
 
 There are great advantages in identifying HIV-infected infants as soon as possible with PCR testing. Infants who are not infected with HIV can be followed at a well baby clinic.
 
@@ -6544,25 +5858,17 @@ Prophylactic co-trimoxazole decreases the risk of pneumonia caused by Pneumocyst
 
 Side effects to co-trimoxazole are uncommon in children. However, co-trimoxazole must be stopped immediately and the child referred if a maculopapular rash (red and easily palpable) develops as this may be the first sign of severe allergy to the drug.
 
-Prophylactic co-trimoxazole reduces the risk of pneumocystis pneumonia.
-
-
+> Prophylactic co-trimoxazole reduces the risk of pneumocystis pneumonia.
 
 ### 9-31 What is the value of antiretroviral therapy in children?
 
-When started early it can prevent severe damage to the immune system and thereby prevent severe, recurrent opportunistic infections.
+*	When started early it can prevent severe damage to the immune system and thereby prevent severe, recurrent opportunistic infections.
+*	If the immune system is already damaged, it allows partial recovery and lessens the risk of opportunistic infections.
+*	With an improvement in the functioning of the immune system, the child will start to thrive and feel much better.
+*	In the future, it is hoped that new developments in antiretroviral therapy may be able to cure HIV infection.
+*	With antiretroviral therapy AIDS is a chronic, manageable disease.
 
-If the immune system is already damaged, it allows partial recovery and lessens the risk of opportunistic infections.
-
-With an improvement in the functioning of the immune system, the child will start to thrive and feel much better.
-
-In the future, it is hoped that new developments in antiretroviral therapy may be able to cure HIV infection.
-
-With antiretroviral therapy AIDS is a chronic, manageable disease.
-
-Early, correct treatment of HIV infection can enable children to enjoy a good quality of life for many years.
-
-
+> Early, correct treatment of HIV infection can enable children to enjoy a good quality of life for many years.
 
 ### 9-32 What is the expected outcome for children with HIV infection?
 
@@ -6578,50 +5884,34 @@ Children with AIDS who do not receive antiretroviral therapy die much sooner tha
 
 The progress in HIV-infected children can be roughly divided into 3 groups:
 
-About a third of children present with clinical signs of HIV infection within the first year of life. Without antiretroviral therapy they have a rapid progression of their disease and usually die before 2 years of age (‘fast progressors’).
+1.	About a third of children present with clinical signs of HIV infection within the first year of life. Without antiretroviral therapy they have a rapid progression of their disease and usually die before 2 years of age (‘fast progressors’).
+1.	Another third of children present later, between the ages of 1 and 5 years. Their disease runs a slower course.
+1.	The remaining third present after the age of 5 (‘slow progressors’). They have the best outlook and may live for 10 years or more (similar to adults) even without antiretroviral therapy.
 
-Another third of children present later, between the ages of 1 and 5 years. Their disease runs a slower course.
-
-The remaining third present after the age of 5 (‘slow progressors’). They have the best outlook and may live for 10 years or more (similar to adults) even without antiretroviral therapy.
-
-Children with an early onset of symptomatic HIV infection have the worst outcome.
-
-
+> Children with an early onset of symptomatic HIV infection have the worst outcome.
 
 ### 9-33 What factors other than age determine how fast HIV infection will progress?
 
-The amount of virus present (the viral load). A lot of virus leads to rapid progression of the disease.
-
-The amount of damage to the immune system (the degree of immunosuppression). The greater the damage (the lower the CD4 percentage), the faster the disease progresses.
-
-The nutritional status of the child. Poor nutrition results in a worse outcome as it lowers the number of CD4 cells.
-
-The number of HIV related infections. These co-infections (e.g. TB) may further depress the immune system and accelerate the course of HIV infection.
-
-Access to health care. Children die sooner if they do not have access to good health care as early diagnosis and treatment of infections is essential.
-
-Access to antiretroviral treatment.
-
-The amount of organ damage done before antiretroviral treatment is started.
+*	The amount of virus present (the viral load). A lot of virus leads to rapid progression of the disease.
+*	The amount of damage to the immune system (the degree of immunosuppression). The greater the damage (the lower the CD4 percentage), the faster the disease progresses.
+*	The nutritional status of the child. Poor nutrition results in a worse outcome as it lowers the number of CD4 cells.
+*	The number of HIV related infections. These co-infections (e.g. TB) may further depress the immune system and accelerate the course of HIV infection.
+*	Access to health care. Children die sooner if they do not have access to good health care as early diagnosis and treatment of infections is essential.
+*	Access to antiretroviral treatment.
+*	The amount of organ damage done before antiretroviral treatment is started.
 
 Note
 :	The genetic make up of the child and the type of the virus are probably also important. The viral load during the asymptomatic phase of HIV infection (viral set point) determines how fast the HIV infection will progress.
 
 ### 9-34 What are important respiratory problems in children with HIV infection?
 
-Severe, recurrent or chronic pneumonia caused by bacteria that also cause pneumonia in children who do not have HIV infection, e.g. Streptococcal pneumonia (Pneumococcus) and *Haemophilus influenzae* B
-
-Pneumocystis pneumonia
-
-Viral pneumonia and bronchiolitis
-
-Tuberculosis
-
-Bacterial ear infections (otitis media), bronchitis and sinusitis
-
-Lymphoid interstitial pneumonitis (LIP)
-
-Chronic lung disease especially bronchiectasis
+*	Severe, recurrent or chronic pneumonia caused by bacteria that also cause pneumonia in children who do not have HIV infection, e.g. Streptococcal pneumonia (Pneumococcus) and *Haemophilus influenzae* B
+*	Pneumocystis pneumonia
+*	Viral pneumonia and bronchiolitis
+*	Tuberculosis
+*	Bacterial ear infections (otitis media), bronchitis and sinusitis
+*	Lymphoid interstitial pneumonitis (LIP)
+*	Chronic lung disease especially bronchiectasis
 
 Pneumocystis pneumonia and lymphoid interstitial pneumonitis are seen very rarely in HIV-negative children.
 
@@ -6640,9 +5930,7 @@ Note
 
 Yes. Tuberculosis is one of the commonest serious bacterial infections seen in children with HIV infection.
 
-Tuberculosis is common in children with HIV infection.
-
-
+> Tuberculosis is common in children with HIV infection.
 
 Note
 :	Lymphoid interstitial pneumonitis or LIP may be confused with tuberculosis, both clinically and on X-ray. The cause of LIP is uncertain. It usually occurs in older children. LIP presents with mild to severe respiratory signs, a persistent cough, and responds symptomatically to oral steroids. Parotid enlargement and finger clubbing are common.
@@ -6662,17 +5950,12 @@ Note
 
 ### 9-38 What gastrointestinal problems are common in children with HIV infection?
 
-Oral candidiasis (moniliasis or thrush): This may be severe, persistent or recurrent. Oral candidiasis after 2 months of age is uncommon in children who are not HIV-infected.
-
-Oesphageal candidiasis: Infants who have severe oral candidiasis and have difficulty swallowing and drool probably have oesophageal candidiasis as well. This serious complication rapidly results in dehydration.
-
-Herpes stomatitis: This is often severe in children with HIV infection, resulting in dehydration. Aphthous ulcers and gum infections are also common. Severe herpes stomatitis should be treated with acyclovir.
-
-Acute diarrhoea: This is usually due to bacteria and viruses which also cause diarrhoea in children who are not infected with HIV.
-
-Chronic diarrhoea: This may complicate acute diarrhoea or be due to opportunistic infections such as Cryptosporidium.
-
-Lactose intolerance: This may complicate chronic diarrhoea.
+*	**Oral candidiasis (moniliasis or thrush)**: This may be severe, persistent or recurrent. Oral candidiasis after 2 months of age is uncommon in children who are not HIV-infected.
+*	**Oesphageal candidiasis**: Infants who have severe oral candidiasis and have difficulty swallowing and drool probably have oesophageal candidiasis as well. This serious complication rapidly results in dehydration.
+*	**Herpes stomatitis**: This is often severe in children with HIV infection, resulting in dehydration. Aphthous ulcers and gum infections are also common. Severe herpes stomatitis should be treated with acyclovir.
+*	**Acute diarrhoea**: This is usually due to bacteria and viruses which also cause diarrhoea in children who are not infected with HIV.
+*	**Chronic diarrhoea**: This may complicate acute diarrhoea or be due to opportunistic infections such as Cryptosporidium.
+*	**Lactose intolerance**: This may complicate chronic diarrhoea.
 
 Except for children with mild, acute diarrhoea, all these children should be referred to hospital for further investigation and management. Oral candidiasis can usually be  treated with local mycostatin or miconazole at a primary care clinic.
 
@@ -6680,23 +5963,15 @@ Except for children with mild, acute diarrhoea, all these children should be ref
 
 Many common skin conditions occur in children who are HIV-infected. However, they are more severe, and often take longer to respond to treatment, than in children who are not immunosuppressed. Common skin conditions in children with HIV infection are:
 
-Pruritic papular urticaria (‘itchy bump disease’)
-
-Severe molluscum contagiosum
-
-Severe candidiasis nappy rash, which may ulcerate
-
-Widespread warts
-
-Severe chicken pox or shingles due to *Varicella zoster* virus
-
-Severe scabies, which may involve the whole body
-
-Severe tinea capitis (ringworm of the scalp)
-
-Severe impetigo
-
-Severe seborrhoeic dermatitis
+*	Pruritic papular urticaria (‘itchy bump disease’)
+*	Severe molluscum contagiosum
+*	Severe candidiasis nappy rash, which may ulcerate
+*	Widespread warts
+*	Severe chicken pox or shingles due to *Varicella zoster* virus
+*	Severe scabies, which may involve the whole body
+*	Severe tinea capitis (ringworm of the scalp)
+*	Severe impetigo
+*	Severe seborrhoeic dermatitis
 
 Any of these severe skin conditions, especially shingles, suggests that the child is infected with HIV. Molluscum contagiosum and warts are often extensive and do not recover spontaneously. Severe tinea capitis and impetigo often need systemic therapy and do not respond to local treatment.
 
@@ -6709,19 +5984,15 @@ The neurodevelopment of children with HIV infection is often retarded. They may 
 Note
 :	Cryptococcal meningitis is an uncommon opportunistic infection in children.
 
-Management of children with symptomatic HIV infection
+## Management of children with symptomatic HIV infection
 
 ### 9-41 What are the major components of management?
 
-Nutritional support
-
-Preventing and treating opportunistic infections
-
-Antiretroviral therapy
-
-Emotional and family support
-
-Palliative and terminal care
+1.	Nutritional support
+1.	Preventing and treating opportunistic infections
+1.	Antiretroviral therapy
+1.	Emotional and family support
+1.	Palliative and terminal care
 
 ### 9-42 How important is nutrition support?
 
@@ -6733,65 +6004,47 @@ It is very important that opportunistic infections (HIV-associated infections wh
 
 ### 9-44 What are the goals of antiretroviral therapy?
 
-To stop or reverse the progress of AIDS
-
-To return growth and development to normal
-
-To prolong and improve the quality of the child’s life
+1.	To stop or reverse the progress of AIDS
+1.	To return growth and development to normal
+1.	To prolong and improve the quality of the child’s life
 
 With antiretroviral therapy, the aim should be to return the child to normal health, growth and development and maintain this for as long as possible. Antiretroviral therapy has changed AIDS from a rapidly fatal to a chronic, manageable illness.
 
-Antiretroviral therapy prolongs and improves the quality of life.
-
-
+> Antiretroviral therapy prolongs and improves the quality of life.
 
 ### 9-45 When should antiretroviral treatment be started?
 
 There remains a lot of debate as to when treatment should be started and guidelines are changing rapidly as more information becomes available. In South Africa, treatment is started when either:
 
-The child is graded as having stage 3 or 4 HIV infection (i.e. moderate or severe clinical signs of HIV infection).
+1.	The child is graded as having stage 3 or 4 HIV infection (i.e. moderate or severe clinical signs of HIV infection).
+1.	The CD4 percentage falls below 20% in asymptomatic children less than 18 months and below 15% if 18 months and older, or a CD4 count below 350 cells/μL in children of 5 years or more.
 
-The CD4 percentage falls below 20% in asymptomatic children less than 18 months and below 15% if 18 months and older, or a CD4 count below 350 cells/μL in children of 5 years or more.
-
-The clinical staging and CD4 percentage are used as indications for antiretroviral therapy.
-
-
+> The clinical staging and CD4 percentage are used as indications for antiretroviral therapy.
 
 The mother or carer must also be ready to accept the diagnosis and make a commitment to treatment (‘treatment-ready’).
 
 ### 9-46 What are the guidelines for antiretroviral therapy?
 
-Usually, 3 drugs are used together (multi-drug therapy).
+1.	Usually, 3 drugs are used together (multi-drug therapy).
+1.	The drugs must be given regularly and correctly, at the same time every day (good adherence or compliance).
+1.	Once or twice daily drugs that taste pleasant and can be given as a liquid are ideal.
+1.	The dose is calculated for body weight (or body surface area). The most common mistake is not to increase the dosage as the child grows.
+1.	Someone must take responsibility for the medication. There must be firm parental commitment to life-long treatment.
+1.	Educating the parents and child about correct medication is essential.
+1.	Treatment should be started and monitored for the first 6 months by an infectious disease clinic (AIDS clinic). Follow-up can then be done at a primary care clinic.
 
-The drugs must be given regularly and correctly, at the same time every day (good adherence or compliance).
-
-Once or twice daily drugs that taste pleasant and can be given as a liquid are ideal.
-
-The dose is calculated for body weight (or body surface area). The most common mistake is not to increase the dosage as the child grows.
-
-Someone must take responsibility for the medication. There must be firm parental commitment to life-long treatment.
-
-Educating the parents and child about correct medication is essential.
-
-Treatment should be started and monitored for the first 6 months by an infectious disease clinic (AIDS clinic). Follow-up can then be done at a primary care clinic.
-
-It is most important that antiretroviral therapy is given correctly every day.
-
-
+> It is most important that antiretroviral therapy is given correctly every day.
 
 ### 9-47 What drugs are used for antiretroviral therapy?
 
 The first line choice of antiretroviral treatment with highly-active antiretroviral therapy (HAART) in South Africa is a combination of:
 
-Two nucleoside reverse transcriptase inhibitors (‘nucs’), usually stavudine (d4T) and lamivudine (3TC)
-
-One protease inhibitor in younger children, usually Kaletra (lopinavir with ritonavir), or one non-nucleoside reverse transcriptase inhibitor (‘non-nuc’) in older children, usually nevirapine or efavirenz
+1.	Two nucleoside reverse transcriptase inhibitors (‘nucs’), usually stavudine (d4T) and lamivudine (3TC)
+1.	One protease inhibitor in younger children, usually Kaletra (lopinavir with ritonavir), or one non-nucleoside reverse transcriptase inhibitor (‘non-nuc’) in older children, usually nevirapine or efavirenz
 
 If there are serious side effects to one or more drugs, or if the patient fails to respond, a second line of treatment with a different combination of drugs will be necessary. These decisions will be made at an infectious disease clinic.
 
-Highly-active antiretroviral therapy (HAART) is given with a combination of 3 drugs.
-
-
+> Highly-active antiretroviral therapy (HAART) is given with a combination of 3 drugs.
 
 ### 9-48 What side effects are seen with antiretroviral drugs?
 
@@ -6806,13 +6059,10 @@ Note
 
 All children on antiretroviral therapy must be monitored:
 
-Check compliance.
-
-Growth should be monitored using the Road-to-Health Card.
-
-The CD4 percentage and viral load should be measured every 6 months.
-
-Full blood count, liver enzymes and/or fasting lipids according to the specific antiretroviral treatment regimen.
+1.	Check compliance.
+1.	Growth should be monitored using the Road-to-Health Card.
+1.	The CD4 percentage and viral load should be measured every 6 months.
+1.	Full blood count, liver enzymes and/or fasting lipids according to the specific antiretroviral treatment regimen.
 
 ### 9-50 Is there a vaccine against HIV infection?
 
@@ -6826,9 +6076,7 @@ Families with AIDS are often very poor with little or no income. The bread winne
 
 Almost all children with AIDS have parents who are HIV-infected. It is important that the whole family receives good care. In poor communities, the death of a mother often results in the death of her children, even if they are not HIV-infected.
 
-The family of a child with AIDS usually needs emotional, medical and financial support.
-
-
+> The family of a child with AIDS usually needs emotional, medical and financial support.
 
 ### 9-52 What is palliative and terminal care?
 
@@ -6838,237 +6086,197 @@ Terminal care is the care given to children in the last stages of AIDS. Pain man
 
 Palliative care includes terminal care. During the final stages of the disease the aim shifts to keeping the patient comfortable with love and dignity, relieving distress, limiting or reducing the duration of any hospital admissions, and providing the family with additional support.
 
-Palliative care starts when HIV infection is first diagnosed and continues for the duration of the illness.
+> Palliative care starts when HIV infection is first diagnosed and continues for the duration of the illness.
 
-
-
-Case study 1
+## Case study 1
 
 A young woman is counselled and screened during pregnancy and found to be HIV-positive. She delivers at home and takes her infant to the clinic 3 days later. She breastfeeds for 24 months and introduces formula and solids from one month after delivery. The clinic refuses to give the routine immunisations because the child is positive for HIV on an ELISA screening test.
 
-1. What is the risk of HIV transmission to this child before and during labour and delivery?
+### 1. What is the risk of HIV transmission to this child before and during labour and delivery?
 
 There is a 5% risk of HIV transmission during pregnancy plus a 15% risk during labour and vaginal delivery, giving a combined risk of 20%.
 
-2. How could the risk of mother-to-child transmission of HIV at birth have been reduced in this child?
+### 2. How could the risk of mother-to-child transmission of HIV at birth have been reduced in this child?
 
 By giving both the mother and newborn infant prophylactic antiretroviral drugs.
 
-3. What is the risk of HIV transmission to this child during the first years of life?
+### 3. What is the risk of HIV transmission to this child during the first years of life?
 
 About 15% as mixed breastfeeds (breast milk plus other foods) were given for 2 years. Therefore the total risk of mother-to-child transmission of HIV is 35% (5% + 15% + 15%).
 
-4. What would have been a better method of feeding this child during the first 6 months?
+### 4. What would have been a better method of feeding this child during the first 6 months?
 
 Either exclusive breastfeeding (breast milk only with no other fluids or solids) or exclusive formula-feeding (formula but no breastfeeds).
 
-5. Do you agree with the clinic’s decision not to immunize this child?
+### 5. Do you agree with the clinic’s decision not to immunize this child?
 
 No. HIV-exposed infants should receive their routine immunisations.
 
-6. Is this child infected with HIV if the ELISA screening test is positive?
+### 6. Is this child infected with HIV if the ELISA screening test is positive?
 
 Not necessarily. Antibodies from an HIV-positive mother cross the placenta, giving the infant a positive screening test up to 18 months. A positive PCR test would indicate that this child was HIV-infected. However, a negative PCR test cannot exclude HIV infection until 6 weeks after the mother has stopped breastfeeding.
 
-Case study 2
+## Case study 2
 
 A 4-year-old child presents at a local clinic with loose stools for 6 weeks and a sore mouth. The Road-to-Health Card shows failure to thrive for the past 3 months. On examination the child is generally unwell and thin, has oral thrush, a rash and generalized lymphadenopathy. After counselling the mother, an HIV screening test (rapid test) is done. This is positive. The CD4 percentage is 20%.
 
-1. Why would you suspect on the history alone that this child has HIV infection?
+### 1. Why would you suspect on the history alone that this child has HIV infection?
 
 Because failure to thrive with chronic diarrhoea and a sore mouth are common presenting signs of HIV infection.
 
-2. Are the findings on clinical examination suggestive of HIV infection?
+### 2. Are the findings on clinical examination suggestive of HIV infection?
 
 Yes. Wasting, oral thrush (candidiasis), a rash and generalized lymphadopathy are typical of symptomatic HIV infection.
 
-3. How would you grade the clinical severity?
+### 3. How would you grade the clinical severity?
 
 Stage 3 as the child is generally unwell with chronic diarrhoea and oral candidiasis.
 
-4. Does the positive screening test confirm the diagnosis of HIV infection?
+### 4. Does the positive screening test confirm the diagnosis of HIV infection?
 
 Yes, as the child is older than 18 months.
 
-5. What does the CD4 percentage indicate?
+### 5. What does the CD4 percentage indicate?
 
 It shows that the child’s immune system has been weakened (normal above 25%).
 
-6. How should this child be managed?
+### 6. How should this child be managed?
 
 The child should be referred to an HIV clinic where he can be evaluated for antiretroviral therapy. His oral thrush must be treated. Co-trimoxazole prophylaxis should be started. He needs an adequate balanced diet and the parents must to be counselled. They may also need emotional and financial support.
 
-Case study 3
+## Case study 3
 
 A 1-year-old child presents with severe pneumonia. The mother is know to be HIV-positive. On examination the child also has extensive scabies and chronic otitis media. The infant has not started to crawl yet.
 
-1. Do you think this child has symptomatic HIV infection?
+### 1. Do you think this child has symptomatic HIV infection?
 
 Yes. With extensive scabies, you should always think of HIV infection. The pneumonia and chronic ear infection also suggests that this child has a suppressed immune system. Knowing that the mother is HIV-positive makes the diagnosis very likely.
 
-2. What are the probable causes of the pneumonia?
+### 2. What are the probable causes of the pneumonia?
 
 Probably bacterial pneumonia, pulmonary tuberculosis or Pneumocyctis pneumonia. This child needs urgent referral for investigation and treatment. A chest X-ray may show the typical appearance of pneumocystis pneumonia.
 
-3. How can Pneumocyctis pneumonia be prevented in an HIV-infected infant?
+### 3. How can Pneumocyctis pneumonia be prevented in an HIV-infected infant?
 
 Prophylactic co-trimoxazole from 6 weeks is very effective in preventing Pneumocystis pneumonia in HIV-infected infants. It will also reduce the risk of other bacterial infections such as otitis media There is no history that this child received prophylaxis.
 
-4. Do children with HIV infection often have retarded development?
+### 4. Do children with HIV infection often have retarded development?
 
 Yes. Retarded development is common in children with symptomatic HIV infection. It may be one of the first clinical signs of HIV encephalopathy, indicating stage 4 disease.
 
-5. What is this child’s prognosis?
+### 5. What is this child’s prognosis?
 
 He has stage 4 HIV infections (i.e. AIDS) with severe immunosuppression. Without correct treatment, including antiretroviral therapy, he will probably die within months.
 
-Case study 4
+## Case study 4
 
 A 5-year-old girl, who was infected with HIV following a sexual assault, has been followed for 2 years at an HIV clinic. She has remained well until now when she presents with tuberculosis . On examination it is noted that she has bilateral parotid enlargement and an itchy papular rash Her CD4 percentage is less than 15%. She is started on TB treatment, followed 2 months later by antiretroviral therapy. Soon after beginning the antiretroviral therapy she feels nauseous and has headaches.
 
-1. What is the importance of bilateral parotid enlargement?
+### 1. What is the importance of bilateral parotid enlargement?
 
 This is a very common early sign of HIV infection, as is an itchy papular rash.
 
-2. Is tuberculosis common in children with HIV infection?
+### 2. Is tuberculosis common in children with HIV infection?
 
 Yes. HIV infection should be suspected in all children and adults with TB.
 
-3. Should antiretroviral treatment not be started before the tuberculosis?
+### 3. Should antiretroviral treatment not be started before the tuberculosis?
 
 No. If possible the TB should be controlled first before the antiretroviral therapy is started.
 
-4. How many drugs are used to treat AIDS?
+### 4. How many drugs are used to treat AIDS?
 
 Antiretroviral therapy (HAART) should always be started with 3 drugs (multi-drug therapy). This lessens the risk of drug resistance and treatment failure.
 
-5. What drugs are usually started as first-line treatment of AIDS?
+### 5. What drugs are usually started as first-line treatment of AIDS?
 
 In South Africa the first-line treatment regime is d4T and 3TC (both nucleoside reverse transcriptase inhibitors) together with Kaletra (a protease inhibitor) in young children and nevirapene or efavirenz (a non-nucleoside reverse transcriptase inhibitor) in older children.
 
-6. Do antiretroviral drugs have side effects?
+### 6. Do antiretroviral drugs have side effects?
 
 Yes. These are usually mild, especially in children. Nausea, vomiting, headache, fatigue and mild rashes are common and improve with time. Severe side effects can occur, but they are rare.
 
-Reference: The 4 stages of HIV infection
+## Reference: The 4 stages of HIV infection
 
-Stage 1
+### Stage 1
 
-Asymptomatic
+*	Asymptomatic
+*	Generalised persistent lymphadenopathy
 
-Generalised persistent lymphadenopathy
+### Stage 2
 
-Stage 2
+*	Hepatosplenomegaly (enlarged liver and spleen)
+*	Chronically enlarged painless parotid glands
+*	Repeated or chronic upper respiratory tract infections (e.g. otitis media, pharyngitis and sinusitis)
+*	Skin rashes (‘itchy bump disease’, extensive warts or molluscum) and fungal nail infections
+*	Recurrent mouth ulcers (aphthous ulcers) and inflammed gums
+*	Angular chelitis (cracks on the lips at the angles of the mouth)
+*	Herpes zoster
 
-Hepatosplenomegaly (enlarged liver and spleen)
+### Stage 3
 
-Chronically enlarged painless parotid glands
+*	Unexplained moderate malnutrition with no response to feeding
+*	Unexplained persistent fever for longer than 1 month
+*	Unexplained persistent diarrhoea for 14 days or more
+*	Oral candidiasis (thrush) after 2 months of age
+*	Oral hairy leukoplakia (white lines on the edge of the tongue)
+*	Severe ulceration and bleeding of the gums
+*	Pulmonary tuberculosis (TB) or lymph node TB
+*	Severe, recurrent pneumonia
+*	Symptomatic lymphoid interstitial pneumonitis (LIP)
+*	Chronic lung disease including bronchiectasis
+*	vUnexplained anaemia, neutropenia (low white cells) or thrombocytopenia (low platelets)
 
-Repeated or chronic upper respiratory tract infections (e.g. otitis media, pharyngitis and sinusitis)
+### Stage 4
 
-Skin rashes (‘itchy bump disease’, extensive warts or molluscum) and fungal nail infections
-
-Recurrent mouth ulcers (aphthous ulcers) and inflammed gums
-
-Angular chelitis (cracks on the lips at the angles of the mouth)
-
-Herpes zoster
-
-Stage 3
-
-Unexplained moderate malnutrition with no response to feeding
-
-Unexplained persistent fever for longer than 1 month
-
-Unexplained persistent diarrhoea for 14 days or more
-
-Oral candidiasis (thrush) after 2 months of age
-
-Oral hairy leukoplakia (white lines on the edge of the tongue)
-
-Severe ulceration and bleeding of the gums
-
-Pulmonary tuberculosis (TB) or lymph node TB
-
-Severe, recurrent pneumonia
-
-Symptomatic lymphoid interstitial pneumonitis (LIP)
-
-Chronic lung disease including bronchiectasis
-
-Unexplained anaemia, neutropenia (low white cells) or thrombocytopenia (low platelets)
-
-Stage 4
-
-Unexplained severe malnutrition with wasting that does not respond to feeding
-
-Recurrent severe bacterial infections other than pneumonia, e.g. meningitis or osteitis
-
-Pneumocystis pneumonia
-
-Oesophageal candidiasis
-
-Severe chronic herpes simplex infection
-
-Extrapulmonary or disseminated TB
-
-HIV associated malignancies (e.g. Kaposi sarcoma)
-
-HIV encephalopathy
-
-Severe HIV associated infections (i.e. CMV, Toxoplasmosis, Cryptococcosis, Cryptosporidiosis, Isosporidiasis)
-
-
+*	Unexplained severe malnutrition with wasting that does not respond to feeding
+*	Recurrent severe bacterial infections other than pneumonia, e.g. meningitis or osteitis
+*	Pneumocystis pneumonia
+*	Oesophageal candidiasis
+*	Severe chronic herpes simplex infection
+*	Extrapulmonary or disseminated TB
+*	HIV associated malignancies (e.g. Kaposi sarcoma)
+*	HIV encephalopathy
+*	Severe HIV associated infections (i.e. CMV, Toxoplasmosis, Cryptococcosis, Cryptosporidiosis, Isosporidiasis)
 
 
 
 10
+{:.chapter-number}
 
-Childhood infections
+# Childhood infections
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Diagnose and manage children with measles, chickenpox and mumps.
+*	Diagnose and manage children with measles, chickenpox and mumps.
+*	Diagnose and manage children with herpes stomatitis.
+*	Diagnose and manage children with viral hepatitis.
+*	Diagnose and manage children with tickbite fever.
+*	Diagnose and treat children with acute conjunctivitis.
 
-Diagnose and manage children with herpes stomatitis.
-
-Diagnose and manage children with viral hepatitis.
-
-Diagnose and manage children with tickbite fever.
-
-Diagnose and treat children with acute conjunctivitis.
-
-Introduction
+## Introduction
 
 ### 10-1 Which are the common childhood infections?
 
-Measles
-
-Chickenpox
-
-Mumps
-
-Herpes stomatitis
-
-Viral hepatitis
-
-Tickbite fever
-
-Conjunctivitis
+*	Measles
+*	Chickenpox
+*	Mumps
+*	Herpes stomatitis
+*	Viral hepatitis
+*	Tickbite fever
+*	Conjunctivitis
 
 Some infections, such as measles, mumps and viral hepatitis, are becoming uncommon in communities where vaccines against these viral illness are routinely given.
 
-Measles
+## Measles
 
 ### 10-2 What is the cause of measles?
 
 Measles is caused by a virus. It is an acute, very infectious (contagious) illness and is transmitted from person to person when the measles virus is breathed, coughed or sneezed into the air and then inhaled by another person who becomes infected by droplet spread. Measles often occurs in epidemics and is an important cause of childhood death in poor, unimmunised communities.
 
-Measles is a highly infectious and serious disease.
-
-
+> Measles is a highly infectious and serious disease.
 
 ### 10-3 What are the signs and symptoms of measles?
 
@@ -7089,29 +6297,19 @@ Note
 
 ### 10-4 What are the complications of measles?
 
-Otitis media
-
-Laryngotracheobronchitis with a severe cough and stridor (measles croup)
-
-Pneumonia. This may be viral (measles, herpes or adenovirus) or bacterial
-
-Gastroenteritis
-
-Oral herpes or candidiasis (thrush)
-
-Keratitis (infection of the cornea) with possible corneal ulcers due to measles or herpes virus
-
-Encephalitis (rare but serious)
-
-Reactivation of tuberculosis
-
-Immunosuppression
+*	Otitis media
+*	Laryngotracheobronchitis with a severe cough and stridor (measles croup)
+*	Pneumonia. This may be viral (measles, herpes or adenovirus) or bacterial
+*	Gastroenteritis
+*	Oral herpes or candidiasis (thrush)
+*	Keratitis (infection of the cornea) with possible corneal ulcers due to measles or herpes virus
+*	Encephalitis (rare but serious)
+*	Reactivation of tuberculosis
+*	Immunosuppression
 
 Measles depresses the immune system resulting in other infections such as herpes stomatitis and adenoviral pneumonia. HIV infection may rapidly progress to AIDS while tuberculosis is often reactivated following measles. The Mantoux skin test may be negative despite active tuberculosis for a few months after measles.
 
-Measles complications may be severe and result in death.
-
-
+> Measles complications may be severe and result in death.
 
 ### 10-5 What is the relationship between measles and malnutrition?
 
@@ -7121,9 +6319,7 @@ Measles is far more severe in children who are malnourished, especially if they 
 
 Measles, especially with complications such as diarrhoea, often results in failure to thrive. Measles may lead to kwashiorkor or marasmus in children who are underweight at the time that they get measles. Therefore, measles may result in, or aggravate, malnutrition.
 
-Measles is more severe in malnourished children and may make the existing malnutrition worse.
-
-
+> Measles is more severe in malnourished children and may make the existing malnutrition worse.
 
 ### 10-6 How can measles be prevented?
 
@@ -7134,22 +6330,17 @@ Note
 
 ### 10-7 What is the management of a child with measles?
 
-The child should be kept away from other children until 5 days after the rash first appears. By this time the child is no longer infectious to others. Measles is most infectious during the 4 days of illness before the rash appears.
-
-Paracetamol for fever
-
-Adequate oral fluids to prevent dehydration
-
-Vitamin A for all children with measles: 100 000 IU orally daily for 2 days (50 000 IU daily for 2 days in children under 1 year)
-
-Look out for and treat complications (acyclovir for herpes stomatitis and stridor; antibiotics for otitis media and pneumonia).
-
-Measles is a notifiable disease in South Africa.
+1.	The child should be kept away from other children until 5 days after the rash first appears. By this time the child is no longer infectious to others. Measles is most infectious during the 4 days of illness before the rash appears.
+1.	Paracetamol for fever
+1.	Adequate oral fluids to prevent dehydration
+1.	Vitamin A for all children with measles: 100 000 IU orally daily for 2 days (50 000 IU daily for 2 days in children under 1 year)
+1.	Look out for and treat complications (acyclovir for herpes stomatitis and stridor; antibiotics for otitis media and pneumonia).
+1.	Measles is a notifiable disease in South Africa.
 
 Note
 :	Other viral infections may have a rash similar to measles: rubella (German measles), erythema infectiosum (slapped cheek disease) due to parvovirus, roseola infantum (‘baby measles’) due to herpes virus 6, infectious mononucleosis (glandular fever) due to Epstein-Barr virus and common viral infections of the bowel, e.g coxsackie and ECHO.
 
-Chickenpox
+## Chickenpox
 
 ### 10-8 What is the cause of chickenpox?
 
@@ -7168,22 +6359,17 @@ Note
 
 ### 10-10 How is a child with chickenpox managed?
 
-They should not come into contact with other children or adults who have not had chickenpox until there are no more crops of new rash and all the rash has formed scabs.
-
-Paracetamol for fever
-
-Try to prevent secondary bacterial infection following scratching. Baby powder often helps reduce the itching. Antibiotics may be needed for impetigo.
-
-Ensure an adequate fluid intake, especially if the child has a sore mouth.
-
-A new vaccine, recently available, is very effective in preventing chickenpox and shingles.
-
-Hyperimmune immunoglobulin should be given prophylactically to high-risk children (leukaemia, AIDS, newborns) who are exposed to chickenpox.
+1.	They should not come into contact with other children or adults who have not had chickenpox until there are no more crops of new rash and all the rash has formed scabs.
+1.	Paracetamol for fever
+1.	Try to prevent secondary bacterial infection following scratching. Baby powder often helps reduce the itching. Antibiotics may be needed for impetigo.
+1.	Ensure an adequate fluid intake, especially if the child has a sore mouth.
+1.	A new vaccine, recently available, is very effective in preventing chickenpox and shingles.
+1.	Hyperimmune immunoglobulin should be given prophylactically to high-risk children (leukaemia, AIDS, newborns) who are exposed to chickenpox.
 
 Note
 :	Acyclovir is indicated for pneumonia or encephalitis or severe rash or in immunocompromised children.
 
-Mumps
+## Mumps
 
 ### 10-11 What are the clinical features of mumps?
 
@@ -7200,17 +6386,14 @@ Mumps usually has no complications and recovery takes about 1 to 2 weeks. Howeve
 
 ### 10-13 What is the management of children with mumps?
 
-Mumps is infectious until the parotid swelling disappears.
-
-Paracetamol for fever and discomfort is usually all the treatment that is needed.
-
-Ensure adequate fluid intake.
-
-Good mouth hygiene with antiseptic mouthwashes
+1.	Mumps is infectious until the parotid swelling disappears.
+1.	Paracetamol for fever and discomfort is usually all the treatment that is needed.
+1.	Ensure adequate fluid intake.
+1.	Good mouth hygiene with antiseptic mouthwashes
 
 Mumps is becoming uncommon in many communities as the very effective mumps vaccine is often given together with measles and rubella vaccine (MMR).
 
-Herpes stomatitis
+## Herpes stomatitis
 
 ### 10-14 What is herpes stomatitis?
 
@@ -7223,17 +6406,12 @@ Note
 
 ### 10-15 What is the management of a child with herpes stomatitis?
 
-Paracetamol for pain and fever
+1.	Paracetamol for pain and fever
+1.	Good mouth hygiene with Glyco Thymol mouthwashes
+1.	Ensure adequate hydration. A nasogastric tube may be needed if the child refuses to drink or swallow.
+1.	Acyclovir in severe stomatitis, especially children with HIV infection. These children need hospitalisation.
 
-Good mouth hygiene with Glyco Thymol mouthwashes
-
-Ensure adequate hydration. A nasogastric tube may be needed if the child refuses to drink or swallow.
-
-Acyclovir in severe stomatitis, especially children with HIV infection. These children need hospitalisation.
-
-Children with severe herpes stomatitis should be referred to hospital.
-
-
+> Children with severe herpes stomatitis should be referred to hospital.
 
 ### 10-16 What are fever blisters?
 
@@ -7243,7 +6421,7 @@ Fever blisters present as a few very painful vesicles on the lips which soon for
 
 Unlike fever blisters, which occur on the lip, painful aphthous ulcers occur repeatedly on the mucosa of the mouth. The cause of aphthous ulcers is still unknown.
 
-Acute viral hepatitis
+## Acute viral hepatitis
 
 ### 10-17 What is hepatitis?
 
@@ -7258,9 +6436,8 @@ Note
 
 There are 2 common causes of acute viral hepatitis in children:
 
-Hepatitis A virus: This has a shorter incubation period (15–50 days) and is spread by swallowing the virus in contaminated food or water. Hepatitis A is the most common type of hepatitis in children.
-
-Hepatitis B virus: This has a longer incubation period (5–150 days) and in children is usually spread from a mother to her newborn infant at or soon after delivery. However it may also be spread orally like hepatitis A or by an unscreened blood transfusion or traditional scratching or cutting. In adults it is spread by sexual contact.
+*	Hepatitis A virus: This has a shorter incubation period (15–50 days) and is spread by swallowing the virus in contaminated food or water. Hepatitis A is the most common type of hepatitis in children.
+*	Hepatitis B virus: This has a longer incubation period (5–150 days) and in children is usually spread from a mother to her newborn infant at or soon after delivery. However it may also be spread orally like hepatitis A or by an unscreened blood transfusion or traditional scratching or cutting. In adults it is spread by sexual contact.
 
 Note
 :	Antibodies to hepatitis A or B can be used to identify each virus. Hepatitis surface antigen (HBsAg) or e antigen (HBeAg) indicate persistent infection and probable viral shedding with hepatitis B.
@@ -7269,47 +6446,40 @@ Note
 
 Acute viral hepatitis in children is often asymptomatic or presents with loose stools and a general feeling of being unwell. Clinical hepatitis may develop with loss of appetite, nausea and vomiting and pain over the liver. The liver is enlarged and tender. Some children have jaundice with dark urine and pale stools. Acute hepatitis is the most common cause of jaundice in children. The clinical symptoms and signs usually resolve over 2–4 weeks.
 
-Acute viral hepatitis is the most common cause of jaundice in children.
-
-
+> Acute viral hepatitis is the most common cause of jaundice in children.
 
 Hepatitis A virus only causes acute hepatitis but hepatitis B virus may also cause chronic hepatitis.
 
 ### 10-20 What are the complications of acute viral hepatitis?
 
-Liver failure with acute viral hepatitis is uncommon. Liver failure presents with drowsiness and confusion or severe vomiting. These children need urgent referral to hospital. Some of these children die.
-
-Chronic hepatitis due to the hepatitis B virus may lead to cirrhosis and liver cancer in adulthood. Therefore, it is important to prevent hepatitis due to the hepatitis B virus.
+*	Liver failure with acute viral hepatitis is uncommon. Liver failure presents with drowsiness and confusion or severe vomiting. These children need urgent referral to hospital. Some of these children die.
+*	Chronic hepatitis due to the hepatitis B virus may lead to cirrhosis and liver cancer in adulthood. Therefore, it is important to prevent hepatitis due to the hepatitis B virus.
 
 Note
 :	In acute liver failure there is usually hypoglycaemia, low clotting factors and raised serum ammonia. Chronic (active) hepatitis is recognised by persistent raised liver enzymes.
 
 ### 10-21 How can viral hepatitis be prevented?
 
-Hepatitis A:
+**Hepatitis A**:
 
-This virus is spread by the virus in stool-contaminated food or water, which is then eaten or drunk by someone else (the faeco-oral route). Good sanitation, clean water, hand-washing before meals and the hygienic preparation of food are therefore important to prevent the spread of the virus.
+*	This virus is spread by the virus in stool-contaminated food or water, which is then eaten or drunk by someone else (the faeco-oral route). Good sanitation, clean water, hand-washing before meals and the hygienic preparation of food are therefore important to prevent the spread of the virus.
+*	A very effective vaccine to prevent Hepatitis A is now available. Hopefully it will be added to the routine programme of immunisation in children.
 
-A very effective vaccine to prevent Hepatitis A is now available. Hopefully it will be added to the routine programme of immunisation in children.
+**Hepatitis B**:
 
-Hepatitis B:
-
-As children usually acquire this virus from their mother who has the virus in her stool, it is important to identify women who have hepatitis before or during pregnancy. Their infants should be given hyperimmune immunoglobulin for hepatitis B after delivery when the first dose of hepatitis B vaccine should also be given.
-
-A very effective vaccine to prevent hepatitis B is available and has been included in the routine programme of immunisation in South Africa.
+*	As children usually acquire this virus from their mother who has the virus in her stool, it is important to identify women who have hepatitis before or during pregnancy. Their infants should be given hyperimmune immunoglobulin for hepatitis B after delivery when the first dose of hepatitis B vaccine should also be given.
+*	A very effective vaccine to prevent hepatitis B is available and has been included in the routine programme of immunisation in South Africa.
 
 ### 10-22 What is the management of a child with acute viral hepatitis?
 
-Allow the child to eat whatever is wanted. A high energy diet with a lot of carbohydrate is best tolerated. Keep the child at home if possible.
-
-Good hygiene prevents other children getting hepatitis. Hepatitis A is most infectious in the days just before the onset of jaundice.
-
-Look out for danger signs of depressed level of consciousness, severe vomiting, and jaundice that does not clear by 4 weeks. Monitor blood glucose concentration in severely ill children.
+1.	Allow the child to eat whatever is wanted. A high energy diet with a lot of carbohydrate is best tolerated. Keep the child at home if possible.
+1.	Good hygiene prevents other children getting hepatitis. Hepatitis A is most infectious in the days just before the onset of jaundice.
+1.	Look out for danger signs of depressed level of consciousness, severe vomiting, and jaundice that does not clear by 4 weeks. Monitor blood glucose concentration in severely ill children.
 
 Note
 :	Pooled immunoglobulin should be given to hepatitis A contacts and hyperimmune gamma globulin to hepatitis B contacts if affordable and available.
 
-Tickbite fever
+## Tickbite fever
 
 ### 10-23 What is tickbite fever?
 
@@ -7317,9 +6487,7 @@ It is an acute illness caused by a bite from an infected tick. It presents with 
 
 The incubation period is 10 days. Usually the bite occurs on one weekend and the illness starts on the following weekend. Infection commonly occurs in the country where cattle are present and carry infected ticks.
 
-Tickbite fever presents with a severe headache.
-
-
+> Tickbite fever presents with a severe headache.
 
 Note
 :	Tickbite fever is caused by a Rickettsia organism. Tickbite fever may be serious, even fatal, in adults who may have many organs involved. The rash may be haemorrhagic and tender due to a vasculitis. Splenomegaly is common while a positive Weil-Felix test will confirm the clinical diagnosis. However, a negative test does not exclude the diagnosis.
@@ -7333,7 +6501,7 @@ Doxycycline 100 mg orally twice a day for 5 days is effective. However, it shoul
 Note
 :	Chloromycetin can be used in children under 7 years.
 
-Acute conjunctivitis
+## Acute conjunctivitis
 
 ### 10-25 What are the common causes of acute conjunctivitis?
 
@@ -7358,131 +6526,122 @@ Note
 
 Some childhood illnesses have almost disappeared due to routine immunisation:
 
-Poliomyelitis (polio)
-
-Whooping cough
-
-Diphtheria
+*	Poliomyelitis (polio)
+*	Whooping cough
+*	Diphtheria
 
 Other infections are more common in adolescents and young adults:
 
-Infectious mononucleosis (Glandular fever)
+*	Infectious mononucleosis (Glandular fever)
+*	Rubella (German measles)
 
-Rubella (German measles)
-
-Case study 1
+## Case study 1
 
 A 6-year-old child comes home from school feeling generally unwell. She has a temperature, cough and mild conjunctivitis. When a doctor is called 2 days later he notices Koplik spots and diagnoses measles. After another 2 days she develops a typical measles rash. Another child at school had measles recently.
 
-1. What are Koplik spots?
+### 1. What are Koplik spots?
 
 Small white spots seen on a red, granular mucosa inside the cheeks opposite the back teeth. Only measles displays Koplik spots.
 
-2. What is the incubation period for measles?
+### 2. What is the incubation period for measles?
 
 10 days from exposure to an infected child until the onset of feeling unwell with fever, cough and conjunctivitis. Another 2 days until the Koplik spots appear and then a further 2 days for the rash to start. Therefore, 14 days from infection to the rash.
 
-3. Describe the typical rash of measles.
+### 3. Describe the typical rash of measles.
 
 A pink or red blotchy maculopapular (both seen and felt) rash starting on the face and spreading down the trunk to the arms and legs. Skin pigmentation and peeling may follow the rash.
 
-4. How can measles be prevented?
+### 4. How can measles be prevented?
 
 By immunising all children. The occasional case of measles still occurs because all children are not fully immunised.
 
-5. What are the common complications of measles?
+### 5. What are the common complications of measles?
 
 Otitis media, laryngotracheobronchitis and pneumonia. Gastroenteritis and stomatitis (herpes or fungal) are also seen.
 
-6. What is the relationship between measles and malnutrition?
+### 6. What is the relationship between measles and malnutrition?
 
 Measles is often more severe, and can be fatal, in malnourished children. In addition, the degree of malnutrition often becomes worse after measles.
 
 Measles is particularly severe in children with a deficiency of vitamin A. Therefore 200 000 units of vitamin A should be given orally to all children with measles.
 
-7. Can measles cause tuberculosis or AIDS?
+### 7. Can measles cause tuberculosis or AIDS?
 
 No. But measles suppresses the immune system which can result in the reactivation of tuberculosis (a child with an asymptomatic TB infection now develops clinical signs of tuberculosis). A child with asymptomatic HIV infection can also develop clinical AIDS following immunosuppression due to measles.
 
-Case study 2
+## Case study 2
 
 A 4-year-old child develops a very painful mouth, drools saliva and refuses all feeds. He has a high temperature and is generally unwell and very miserable. His mother had fever blisters on her lip a week before.
 
-1. What is the likely diagnosis?
+### 1. What is the likely diagnosis?
 
 Herpes stomatitis. This presents with many small, very painful ulcers in the mouth. The children are also pyrexial and generally unwell. Drooling and refusing to eat is due to the sore mouth.
 
-2. What is the cause of this condition?
+### 2. What is the cause of this condition?
 
 The herpes simplex virus. This child almost certainly was infected from his mother’s fever blisters. During the acute phase of fever blisters, the herpes virus can be spread by direct contact such as kissing. Adults with fever blisters should never kiss a child.
 
-3. What is the danger of herpes stomatitis?
+### 3. What is the danger of herpes stomatitis?
 
 Children may become dehydrated if they do not drink enough because of their sore mouth. They may need nasogastric feeds or intravenous rehydration.
 
-4. Which children often get severe herpes stomatitis?
+### 4. Which children often get severe herpes stomatitis?
 
 Children with malnutrition or measles
 
-5. What else may cause severe stomatitis?
+### 5. What else may cause severe stomatitis?
 
 Candidiasis (thrush) can cause severe stomatitis.
 
-Case study 3
+## Case study 3
 
 In an orphanage a number of children become ill. Some have a fever and loose stools while others develop jaundice and a tender abdomen. All have loss of appetite.
 
-1. Why have a number of children in the orphanage become ill?
+### 1. Why have a number of children in the orphanage become ill?
 
 They probably have acute hepatitis A, which is often spread in crowded situations such as schools or orphanages. The virus is spread from the stools of a child to be ingested by other children (faeco-oral route). This is the most common cause of acute hepatitis in children.
 
-2. Why are some children unwell with loose stools but do not develop jaundice?
+### 2. Why are some children unwell with loose stools but do not develop jaundice?
 
 Many children with acute hepatitis are asymptomatic while others become ill with loose stools but do not develop jaundice. Some become jaundiced for a few weeks. Rarely children with hepatitis become severely ill and may die of liver failure.
 
-3. How are children usually infected with the hepatitis B virus?
+### 3. How are children usually infected with the hepatitis B virus?
 
 They are infected by their mother at birth. Acute hepatitis due to the hepatitis B virus may not recover after a few weeks but progress to chronic hepatitis. This can lead to cirrhosis and liver cancer in adulthood.
 
-4. How can acute hepatitis A be prevented?
+### 4. How can acute hepatitis A be prevented?
 
 The spread of hepatitis A virus (and to a lesser extent, hepatitis B virus) can be reduced by washing hands after using the toilet and before eating. The safe distribution of human faeces (toilets) and a clean water supply is important. A vaccine is available.
 
-5. How can acute hepatitis B be prevented?
+### 5. How can acute hepatitis B be prevented?
 
 Hepatitis B can be prevented by routinely immunising all children with hepatitis B vaccine. Mothers who have jaundice before or during pregnancy must be identified for special management.
 
 
 
-
-
 11
+{:.chapter-number}
 
-Parasites
+# Parasites
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Diagnose and manage children with intestinal worms.
+*	Diagnose and manage children with intestinal worms.
+*	Diagnose and treat giardiasis.
+*	Diagnose and treat amoebiasis.
+*	Diagnose and treat bilharzia.
+*	Diagnose and manage children with malaria.
 
-Diagnose and treat giardiasis.
-
-Diagnose and treat amoebiasis.
-
-Diagnose and treat bilharzia.
-
-Diagnose and manage children with malaria.
-
-Introduction
+## Introduction
 
 ### 11-1 What are parasites?
 
 These are small creatures (animals) which invade and infect (infest) the body. They may be either:
 
-External parasites which live on or in the skin, e.g. scabies and sandworms.
-
-Internal parasites which live in the body. Many internal parasites live in the bowel (i.e. intestinal parasites such as worms). Other parasites live in the blood (e.g. malaria) or other organs such as the bladder wall (e.g. bilharzia).
+*	External parasites which live on or in the skin, e.g. scabies and sandworms.
+*	Internal parasites which live in the body. Many internal parasites live in the bowel (i.e. intestinal parasites such as worms). Other parasites live in the blood (e.g. malaria) or other organs such as the bladder wall (e.g. bilharzia).
 
 Children with AIDS may be infected with unusual parasites not normally seen in healthy children (e.g. Toxoplasmosis).
 
@@ -7490,21 +6649,15 @@ Children with AIDS may be infected with unusual parasites not normally seen in h
 
 In Southern Africa the common intestinal parasites are:
 
-Roundworms
+*	Roundworms
+*	Whipworms
+*	Pinworms
+*	Hookworms
+*	Giardia
+*	Tapeworms
+*	Amoebae
 
-Whipworms
-
-Pinworms
-
-Hookworms
-
-Giardia
-
-Tapeworms
-
-Amoebae
-
-Roundworms
+## Roundworms
 
 ### 11-3 What is a roundworm?
 
@@ -7514,9 +6667,7 @@ Roundworms produce thousands of eggs a day which are passed in the child’s sto
 
 Roundworms are common in children between the ages of 1 and 5 years.
 
-Roundworms are the most common bowel parasite in many poor countries.
-
-
+> Roundworms are the most common bowel parasite in many poor countries.
 
 Note
 :	The roundworm is Ascaris lumbricoides. Infection with roundworms is called ascariasis.
@@ -7533,13 +6684,10 @@ Many children with roundworms appear healthy and have no symptoms. Often the onl
 
 Large numbers of worms in the bowel can cause problems:
 
-Vague abdominal pain or discomfort
-
-The amount of food they use can contribute to malnutrition (undernutrition). Roundworms also decrease the child’s appetite.
-
-A large bunch (bolus) of worms can cause colic (cramping abdominal pain) and even total small bowel obstruction. The mass of worms may be palpable on abdominal examination.
-
-Migrating worms can get stuck in the bile duct, resulting in acute, severe pain over the liver (biliary colic).
+*	Vague abdominal pain or discomfort
+*	The amount of food they use can contribute to malnutrition (undernutrition). Roundworms also decrease the child’s appetite.
+*	A large bunch (bolus) of worms can cause colic (cramping abdominal pain) and even total small bowel obstruction. The mass of worms may be palpable on abdominal examination.
+*	Migrating worms can get stuck in the bile duct, resulting in acute, severe pain over the liver (biliary colic).
 
 Note
 :	Roundworms can also cause bowel perforation, volvulus, intussusception, colangitis and pancreatic duct obstruction. With heavy infections, bunches of roundworms can be seen in a plain abdominal X-ray. Do not give mebendazole or albendazole if acute abdominal pain is present as treatment increases the worms’ tendency to migrate and may precipitate bowel obstruction. Surgery must be considered if there are signs of obstruction.
@@ -7553,23 +6701,18 @@ Note
 
 ### 11-7 How are roundworms treated?
 
-Roundworm infection can be treated with either:
+Roundworm infection can be treated with either of:
 
-Mebendazole orally 100 mg (i.e. 1 tablet) twice a day for 3 days if below 5 years and 500 mg as a single dose if 5 years or older.
-
-Albendazole as a single dose 200 mg (2 tablets) for children below 2 years and 400 mg for children of 2 years or more.
+*	Mebendazole orally 100 mg (i.e. 1 tablet) twice a day for 3 days if below 5 years and 500 mg as a single dose if 5 years or older.
+*	Albendazole as a single dose 200 mg (2 tablets) for children below 2 years and 400 mg for children of 2 years or more.
 
 ### 11-8 How can infection with roundworms be prevented?
 
-By safely disposing of human faeces (adequate sanitation), e.g. water borne sewerage or correctly built pit latrines
-
-By washing raw vegetables before they are eaten
-
-By washing hands before preparing or eating meals
-
-By preventing children from eating soil
-
-By routinely deworming children
+*	By safely disposing of human faeces (adequate sanitation), e.g. water borne sewerage or correctly built pit latrines
+*	By washing raw vegetables before they are eaten
+*	By washing hands before preparing or eating meals
+*	By preventing children from eating soil
+*	By routinely deworming children
 
 ### 11-9 When is deworming recommended?
 
@@ -7577,11 +6720,9 @@ Deworming every 6 months is recommended for children between the ages of 2 and 5
 
 Mebendazole is the drug of choice. Albendazole is more expensive. The dose for deworming is the same as for treating roundworms. Both these drugs are highly effective for roundworms.
 
-Regular deworming of young children is recommended in communities where roundworms are common.
+> Regular deworming of young children is recommended in communities where roundworms are common.
 
-
-
-Whipworms
+## Whipworms
 
 ### 11-10 What are whipworms?
 
@@ -7596,27 +6737,20 @@ Note
 
 Whipworms usually infect children over 5 years of age. If the infection is light there are usually no symptoms or signs. Heavy infection can cause:
 
-Loose stools containing blood.
+*	Loose stools containing blood.
+*	Rectal prolapse may occur with very heavy infections. With prolapse, the worms may be seen attached to the rectal mucosa.
+*	Iron deficiency anaemia due to chronic blood loss in the stool. This may be severe.
+*	Malnutrition
 
-Rectal prolapse may occur with very heavy infections. With prolapse, the worms may be seen attached to the rectal mucosa.
-
-Iron deficiency anaemia due to chronic blood loss in the stool. This may be severe.
-
-Malnutrition
-
-Whipworm infection can cause iron deficiency anaemia.
-
-
+> Whipworm infection can cause iron deficiency anaemia.
 
 ### 11-12 What is the treatment of whipworm infection?
 
-Prevention through good hand hygiene, washing raw vegetables and the correct disposal of human faeces (as with prevention of roundworms)
+1.	Prevention through good hand hygiene, washing raw vegetables and the correct disposal of human faeces (as with prevention of roundworms)
+1.	Mebendazole or albendazole, as given for roundworms
+1.	Treat iron deficiency anaemia with oral iron.
 
-Mebendazole or albendazole, as given for roundworms
-
-Treat iron deficiency anaemia with oral iron.
-
-Pinworms
+## Pinworms
 
 ### 11-13 What are pinworms?
 
@@ -7629,9 +6763,7 @@ Note
 
 Perianal itching and scratching at night. This may cause loss of sleep. Secondary infection of the scratched skin is common. In girls the worms may enter the vulva causing irritation and vaginal discharge (vaginitis).
 
-Pinworm infection presents with perianal itching and scratching, especially at night.
-
-
+> Pinworm infection presents with perianal itching and scratching, especially at night.
 
 ### 11-15 How is pinworm infection diagnosed?
 
@@ -7641,7 +6773,7 @@ The clinical diagnosis can be confirmed by the parent finding the small worms on
 
 Mebendazole or albendazole, as used for roundworms
 
-Hookworms
+## Hookworms
 
 ### 11-17 What are hookworms?
 
@@ -7665,15 +6797,13 @@ Mebendazole or albendazole, as for roundworm infection.
 Note
 :	Pyrantel (Combantrin) orally 10 mg/kg as a single dose may also be used.
 
-Tapeworms
+## Tapeworms
 
 ### 11-21 What are tapeworms?
 
 The common tapeworms that infect the human gut are the pork and, to a lesser degree, the beef tapeworm. They are very long (up to 5 metres) segmented worms that grow in the small bowel of humans after eating uncooked or partially cooked meat, which is contaminated with tapeworm cysts. Tapeworm segments filled with eggs are excreted in human stools and later may be swallowed by animals (pigs or cows). The eggs hatch in the animal’s gut and are carried in the bloodstream to the muscles of the animals where they become tapeworm cysts. Eating infected, uncooked meat of these animals completes the life cycle of the tapeworm when the eggs hatch, resulting in adult worms living in the human gut.
 
-Most tapeworms result from eating poorly cooked pork which is infected with tapeworm cysts.
-
-
+> Most tapeworms result from eating poorly cooked pork which is infected with tapeworm cysts.
 
 Note
 :	The pork tapeworm is Taenia solium and the beef tapeworm is Taenia saginata.
@@ -7692,22 +6822,18 @@ If possible, animals should be slaughtered in a registered abattoir where all me
 
 Human stools must be disposed of safely so that it cannot be eaten by pigs. This will prevent the pigs from becoming infected with tapeworm cysts. Parts of the Eastern Cape of South Africa are particularly heavily contaminated with tapeworm eggs.
 
-In villages, pigs must be prevented from eating human faeces.
-
-
+> In villages, pigs must be prevented from eating human faeces.
 
 ### 11-25 Can tapeworm cysts enter the brain?
 
 Yes. Sometimes the eggs of the pork tapeworm, which have been passed in human faeces, are swallowed by other humans (instead of by pigs) in food or water contaminated by infected human faeces. The eggs hatch in the child’s gut and are then carried by the bloodstream into all parts of the body including the brain. In the brain they form many small tape worm cysts (neurocysticercosis) which cause fits (convulsions). Tapeworm cysts in the brain are a common cause of fits in children that live in rural areas where toilets are not available. Good sanitation, safe water, hand-washing and washed vegetables will reduce the risk of neurocycticercosis.
 
-Swallowed pork tapeworm eggs from human faeces result in tapeworm cysts in the brain.
-
-
+> Swallowed pork tapeworm eggs from human faeces result in tapeworm cysts in the brain.
 
 Note
 :	The tapeworm cysts (cysticerci) are best identified in the brain by MRI or CT scanning. With time they become calcified and can be seen on X-ray. Cysts may also occur in muscles. Antibody tests are of little help. Treatment of neurocysticercosis in hospital is with steroids and Praziquantel.
 
-Hydatid disease
+## Hydatid disease
 
 ### 11-26 What is hydatid disease?
 
@@ -7717,9 +6843,7 @@ If eggs of the dog tapeworm are swallowed by humans instead, the eggs hatch in t
 
 Dogs should be dewormed regularly and they should not be allowed to eat raw meat, especially mutton or goat meat which is infected with the cysts of the dog tapeworm. Prevent children eating soil as it may be contaminated with dog tapeworm eggs. Always wash hands before eating. Also wash vegetables well.
 
-Hydatid disease results when children swallow the eggs of the dog tapeworm.
-
-
+> Hydatid disease results when children swallow the eggs of the dog tapeworm.
 
 Treatment is with mebendazole or albendazole daily for 6 weeks.
 
@@ -7728,7 +6852,7 @@ Note
 
 *The prevention, diagnosis and treatment of sandworm infection is discussed in [chapter 12](12.html).*
 
-Giardiasis
+## Giardiasis
 
 ### 11-27 What is giardiasis?
 
@@ -7743,9 +6867,7 @@ Giardiasis is usually asymptomatic. However, with heavy infection the child deve
 
 It is difficult to confirm the diagnosis by finding cysts in the stool. Therefore, diagnosis is usually suspected from the clinical history and confirmed when the symptoms and signs disappear after treatment.
 
-Giardiasis can cause chronic diarrhoea and failure to thrive.
-
-
+> Giardiasis can cause chronic diarrhoea and failure to thrive.
 
 Note
 :	Giardia is a common cause of ‘travellers’ diarrhoea’.
@@ -7756,7 +6878,7 @@ Metronidazole (Flagyl) 500 mg (under 4 years) or 800 mg (4 years or older) daily
 
 It is best to avoid infection with giardia by not drinking contaminated water or eating unwashed vegetables or salad.
 
-Amoebiasis
+## Amoebiasis
 
 ### 11-30 What is amoebiasis?
 
@@ -7781,25 +6903,17 @@ Clean water, washing hands before eating, avoiding unwashed vegetables and salad
 
 The same basic steps are needed to prevent most intestinal parasites:
 
-The safe disposal of faeces is most important, e.g. water flush toilets or correctly-made pit toilets (VIP toilets). Never pass urine or stool near a stream or dam.
-
-Hands should always be washed before preparing and eating food. They should also be washed before eating.
-
-Always use a clean, safe source of water for drinking and washing.
-
-Always wash raw vegetables or salads before eating.
-
-Avoid eating meat which has not been thoroughly cooked.
-
-Prevent pigs from eating human faeces.
-
-Do not leave dog faeces lying around.
+1.	The safe disposal of faeces is most important, e.g. water flush toilets or correctly-made pit toilets (VIP toilets). Never pass urine or stool near a stream or dam.
+1.	Hands should always be washed before preparing and eating food. They should also be washed before eating.
+1.	Always use a clean, safe source of water for drinking and washing.
+1.	Always wash raw vegetables or salads before eating.
+1.	Avoid eating meat which has not been thoroughly cooked.
+1.	Prevent pigs from eating human faeces.
+1.	Do not leave dog faeces lying around.
 
 Public awareness campaigns are an important method of reducing the number of infected children. Methods of preventing infection with intestinal parasites should be taught and practised at schools.
 
-Safe toilets and clean water will prevent infection with most intestinal parasites.
-
-
+> Safe toilets and clean water will prevent infection with most intestinal parasites.
 
 ### 11-34 What is the treatment of intestinal parasites?
 
@@ -7809,7 +6923,7 @@ Regular treatment of children (e.g. deworming for roundworms) is advised for som
 
 It is important that parents are aware of the clinical features of infection with intestinal parasites and can recognise the worms if they are seen.
 
-Bilharzia
+## Bilharzia
 
 ### 11-35 What is bilharzia?
 
@@ -7822,9 +6936,7 @@ In the bladder wall the parasites cause inflammation, bleeding and eventually sc
 Note
 :	Bilharzia (schistosomiasis) is caused by either Schistosoma haemotobium (bladder parasite) or Schistosoma mansoni (bowel parasite).
 
-Bilharzia of the bladder is common in South Africa.
-
-
+> Bilharzia of the bladder is common in South Africa.
 
 ### 11-36 What are the clinical features of bilharzia of the bladder?
 
@@ -7832,9 +6944,7 @@ At the time of infection an itchy, papular rash may occur at the site where the 
 
 Mild bladder infection with bilharzia parasites is often asymptomatic. With more severe infection, the classical sign is terminal haematuria (blood seen in the urine towards the end of micturition).
 
-Bilharzia of the bladder usually presents with terminal haematuria.
-
-
+> Bilharzia of the bladder usually presents with terminal haematuria.
 
 Note
 :	Bilharzia of the bowel may cause dysentery.
@@ -7854,19 +6964,15 @@ Praziquantel 40 mg/kg orally as a single dose. This treatment can be given at a 
 
 Every effort must be made to prevent bilharzia infection. Never pass urine into a stream or pool of water. Standing or slow-moving water such as farm dams and irrigation furrows are the home of the bilharzias snail, especially in the eastern areas of South Africa and in Zimbabwe. Fast-moving streams are usually safe. Swimming or bathing in infected water must be avoided as this is the common way of getting bilharzias. Efforts are being made to kill the snails in high risk areas.
 
-Do not swim in standing water where there are bilharzia snails.
+> Do not swim in standing water where there are bilharzia snails.
 
-
-
-Malaria
+## Malaria
 
 ### 11-40 What is malaria?
 
 Malaria is a serious illness caused by a malaria parasite which is transmitted to humans by a special type of mosquito. When a mosquito bites an infected person, human blood containing malaria parasites is taken in by the mosquito. The mosquito becomes infected (but not ill) and can then bite and infect other humans. In the human, the malaria parasite infects both red cells and the liver. Infection of the red cells causes haemolysis, resulting in anaemia. It also causes the red cells to stick together which obstructs small blood vessels. Malaria is a common cause of chronic illness and death in many low lying regions where malaria mosquitoes occur.
 
-Malaria is an important cause of death in many parts of southern Africa.
-
-
+> Malaria is an important cause of death in many parts of southern Africa.
 
 As falciparum malaria is by far the most common form of malaria in South Africa, other rarer forms of malaria will not be considered.
 
@@ -7884,21 +6990,15 @@ Note
 
 Anyone who develops fever in a malaria area, or within 2 weeks of leaving a malaria area, must be suspected of having malaria. Thinking of malaria is the most important step in the clinical diagnosis. As the clinical symptoms and signs of malaria are very varied, it is always important to confirm the clinical suspicion. There are often no clinical signs at presentation.
 
-Suspect malaria in anyone with a flu-like illness who lives in or has recently visited a malaria region.
-
-
+> Suspect malaria in anyone with a flu-like illness who lives in or has recently visited a malaria region.
 
 ### 11-42 How is the diagnosis of malaria confirmed?
 
-Seeing the malaria parasites within red cells in a stained thick blood smear is the traditional ways of confirming the diagnosis. Repeated smears may be needed before malaria is excluded as the smear may be negative early in the infection.
+1.	Seeing the malaria parasites within red cells in a stained thick blood smear is the traditional ways of confirming the diagnosis. Repeated smears may be needed before malaria is excluded as the smear may be negative early in the infection.
+1.	A blood test to detect malaria proteins (rapid antigen test) is also useful in making a rapid diagnosis. It is very reliable and available at primary care facilities in malarial areas of South Africa.
+1.	It is very important to confirm the diagnosis of malaria as soon as possible.
 
-A blood test to detect malaria proteins (rapid antigen test) is also useful in making a rapid diagnosis. It is very reliable and available at primary care facilities in malarial areas of South Africa.
-
-It is very important to confirm the diagnosis of malaria as soon as possible.
-
-Most deaths due to malaria are caused by delayed diagnosis or late treatment.
-
-
+> Most deaths due to malaria are caused by delayed diagnosis or late treatment.
 
 Remember that many other serious conditions may present with the same symptoms and signs as malaria, e.g. bacterial meningitis. Children may also have malaria plus another infection.
 
@@ -7906,30 +7006,22 @@ Remember that many other serious conditions may present with the same symptoms a
 
 In uncomplicated malaria the patient:
 
-Has mild symptoms
-
-Is fully alert and able to stand and walk
-
-Is passing urine
-
-Is not vomiting repeatedly, and is able to take oral medication
-
-Has no signs of organ failure
+*	Has mild symptoms
+*	Is fully alert and able to stand and walk
+*	Is passing urine
+*	Is not vomiting repeatedly, and is able to take oral medication
+*	Has no signs of organ failure
 
 Note
 :	In uncomplicated malaria the parasite count on a thin blood smear is less than 5%, i.e. less than 5% of red cells containing malaria parasites.
 
 In severe malaria the patient may have any of the following:
 
-Signs of cerebral malaria
-
-Breathing difficulty
-
-Hypoglycaemia, jaundice or severe anaemia (Hb less than 5 g/dl)
-
-Repeated vomiting, apparent dehydration or little urine passed
-
-A shocked appearance
+*	Signs of cerebral malaria
+*	Breathing difficulty
+*	Hypoglycaemia, jaundice or severe anaemia (Hb less than 5 g/dl)
+*	Repeated vomiting, apparent dehydration or little urine passed
+*	A shocked appearance
 
 Note
 :	In severe malaria the parasite count is well over 5% (hyperparasitaemia). The higher the count, the more severe the malaria. Metabolic acidosis may occur.
@@ -7940,13 +7032,10 @@ This is the most dangerous complication of severe malaria as the brain is affect
 
 Signs of cerebral malaria must always be viewed with great concern:
 
-Depressed level of consciousness, i.e. drowsy, unable to stand, confused or unconscious
+*	Depressed level of consciousness, i.e. drowsy, unable to stand, confused or unconscious
+*	Convulsions
 
-Convulsions
-
-Confusion is an important sign of potentially fatal cerebral malaria.
-
-
+> Confusion is an important sign of potentially fatal cerebral malaria.
 
 Note
 :	In cerebral malaria the large numbers of parasites obstruct the normal blood flow to the brain.
@@ -7979,33 +7068,24 @@ Using a combination of drugs for both uncomplicated and severe malaria is more e
 
 ### 11-47 How is malaria prevented?
 
-Pregnant women and young children should not enter a malaria areas if at all possible.
-
-Mosquitoes usually bite in the early evening and early morning. Therefore, stay indoors with screens over windows and doors or wear light coloured clothes, long sleeves and trousers with shoes and socks in the evenings and early mornings.
-
-Use a bed net impregnated with insecticide (pyrethroid) at night.
-
-Use insect repellent on the skin and clothes or burn repellent coils or pads or sprays at night.
-
-Antimalarial drug prophylaxis is recommended for short visits to a malaria area.
-
-By reducing the number of mosquitoes.
+1.	Pregnant women and young children should not enter a malaria areas if at all possible.
+1.	Mosquitoes usually bite in the early evening and early morning. Therefore, stay indoors with screens over windows and doors or wear light coloured clothes, long sleeves and trousers with shoes and socks in the evenings and early mornings.
+1.	Use a bed net impregnated with insecticide (pyrethroid) at night.
+1.	Use insect repellent on the skin and clothes or burn repellent coils or pads or sprays at night.
+1.	Antimalarial drug prophylaxis is recommended for short visits to a malaria area.
+1.	By reducing the number of mosquitoes.
 
 Preventing mosquito bites is more effective than prophylaxis. Usually both are needed.
 
-Preventing mosquito bites is the most effective way of avoiding malaria.
-
-
+> Preventing mosquito bites is the most effective way of avoiding malaria.
 
 ### 11-48 What malaria prophylaxis is recommended?
 
 Malaria prophylaxis is needed by all who enter a malaria area (a region where malaria occurs), even if it is only a one day visit. The risk of becoming infected by malaria is particularly high in the rainy season when mosquitoes are common. Full compliance is very important. However, prophylaxis is never 100% effective.
 
-Malanil or malarone (atovaquone plus proguanil) for children of 10 kg or more. It is well tolerated but expensive.
-
-Mefloquine (Larium) for children of 5 kg or more.
-
-Doxycycline for older children (over 8 years).
+1.	Malanil or malarone (atovaquone plus proguanil) for children of 10 kg or more. It is well tolerated but expensive.
+1.	Mefloquine (Larium) for children of 5 kg or more.
+1.	Doxycycline for older children (over 8 years).
 
 It is best for all children under 5 years, especially children under 5 kg, not to enter a malaria area as they are at high risk for severe infection. Chloroquine alone, chloroquine with proguanil, and Coartem should not be used for prophylaxis.
 
@@ -8016,150 +7096,142 @@ Seasonal Intermittent Treatment of children in malaria regions decreases the inc
 
 ### 11-49 How can the number of mosquitoes be reduced?
 
-By reducing the mosquito population with the use of controlled spraying around homes with insecticides. This is done by state-employed teams.
-
-By reducing pools of water where mosquitoes can breed.
+1.	By reducing the mosquito population with the use of controlled spraying around homes with insecticides. This is done by state-employed teams.
+1.	By reducing pools of water where mosquitoes can breed.
 
 Note
 :	Malarial mosquitoes have become resistant to many insecticides. The controlled use of DDT is very effective but remains controversial due to the risk of environmental pollution and dangers to other animals and possibly the newborn infant.
 
-Case study 1
+## Case study 1
 
 A mother brings her 5-year-old son to the clinic because he has passed 2 roundworms with his stool. He is generally well but the mother complains that he scratches his anus at night which keeps him awake.
 
-1. How do children get roundworms?
+### 1. How do children get roundworms?
 
 They ingest the roundworm eggs after playing in sand or soil. If human faeces are not disposed of correctly they can contaminate soil in the village, garden or playground. Eggs can survive for years in soil and may also contaminate pools of water or raw vegetables. This is a common public health problem.
 
-2. Can roundworms cause clinical problems?
+### 2. Can roundworms cause clinical problems?
 
 Usually not. However, with heavy infections children may complain of abdominal pain or discomfort and lose their appetite. Roundworms can cause bowel obstruction or block a bile duct. The larvae of roundworms pass through the lungs and can cause coughing and wheezing.
 
-3. How should this child be treated?
+### 3. How should this child be treated?
 
 With a single oral dose of mebendazole or albendazole. The mother should be told how to avoid reinfection.
 
-4. Is routine deworming recommended for all children?
+### 4. Is routine deworming recommended for all children?
 
 A deworming programme is recommended in regions where roundworms are common.
 
-5. What is a common cause of perianal itch at night in children?
+### 5. What is a common cause of perianal itch at night in children?
 
 Pinworms. These are short worms that infect the gut and leave the anus at night, causing irritation to the skin around the anus. They can also cause a vaginal discharge in girls.
 
-6. How can the diagnosis be confirmed?
+### 6. How can the diagnosis be confirmed?
 
 A strip of Sellotape should be stuck onto the child’s skin over and next to the anus and then immediately removed. Pinworm eggs will stick to the Sellotape. These can then be seen under a microscope. The treatment is the same as for roundworms.
 
-Case study 2
+## Case study 2
 
 A malnourished child from a rural village presents at the local clinic after passing a piece of tapeworm in her stool. Pigs run free and eat human faeces. There are also a number of dogs in the village.
 
-1. What are the common types of tapeworms in children?
+### 1. What are the common types of tapeworms in children?
 
 The pork or beef tapeworms. Pig tapeworms are more common.
 
-2. What is the clinical presentation of tapeworms?
+### 2. What is the clinical presentation of tapeworms?
 
 Infected children are often asymptomatic. However, tapeworms can cause poor appetite, abdominal discomfort and weight loss. This child’s malnutrition may be partly explained by the tapeworm.
 
-3. How did this child get infected with a tapeworm?
+### 3. How did this child get infected with a tapeworm?
 
 Probably by eating uncooked or partially cooked pork. Tapeworm eggs get passed in the stool and then may be eaten by pigs if toilets are not available. The eggs hatch in the pig’s gut and then travel in the bloodstream to the muscles where they form cysts. If these cysts in the meat are eaten by humans, they hatch out in the gut to form a tapeworm.
 
-4. What is used to treat intestinal tapeworms?
+### 4. What is used to treat intestinal tapeworms?
 
 Oral mebendazole twice daily for 7 days.
 
-5. Can tapeworms affect the brain?
+### 5. Can tapeworms affect the brain?
 
 Yes. If eggs of the pork tapeworm are passed in human faeces and then later get swallowed by another human rather than a pig, they can hatch in the gut of that person and then travel in the bloodstream to the brain where they form many small cysts. This is called neurocysticercosis and usually presents with convulsions. Neurocysticercosis is common in communities where there are pigs and human faeces are not disposed of safely.
 
-6. What problems can be caused by the dog tapeworm?
+### 6. What problems can be caused by the dog tapeworm?
 
 If eggs of the dog tapeworm are ingested by humans they hatch in the gut, enter the bloodstream and are carried to organs such as the liver and lungs where they grow into large (hydatid) cysts. Therefore it is important that children do not play in areas where dog faeces are left to mix with the soil or pools of water.
 
 Hydatid disease can be treated with oral daily mebendazole or albendazole for 6 weeks. Large cysts may have to be removed surgically.
 
-Case study 3
+## Case study 3
 
 A month after returning from holiday on a farm in the Eastern Cape, a 14-year-old child presents with a 3-week story of loose stools, and terminal haematuria for 2 days. While on holiday he swam in a farm dam.
 
-1. What is the common cause of terminal haematuria?
+### 1. What is the common cause of terminal haematuria?
 
 Blood in the urine towards the end of micturition is typical of bilharzia. The bilharzia parasite settles in the wall of the bladder where it causes inflammation and bleeding.
 
-2. When did the infection probably occur?
+### 2. When did the infection probably occur?
 
 When he swam in the farm dam. The special bilharzia snail is common in the eastern parts of South Africa where it lives in standing or slow-moving water such as farm dams or irrigation furrows. If someone with bilharzia passes urine into the water the snails can become infected. The parasites released from the snails can then penetrate the skin of anyone walking or playing in the water.
 
-3. Can bilharzia be treated?
+### 3. Can bilharzia be treated?
 
 Yes. It can be treated very effectively with praziquantel. It is best to first confirm the diagnosis by seeing bilharzia parasites in a urine sample collected around midday. Chronic bilharzia infection can lead to damage of the urinary system causing renal failure.
 
-4. What is the probable cause of the diarrhoea for the past 3 weeks?
+### 4. What is the probable cause of the diarrhoea for the past 3 weeks?
 
 The child may have a bowel infection with giardia, which causes diarrhoea. Although it is often acute it may last for weeks or months. Giardia is common where a safe water supply and adequate toilets are not present.
 
-5. Which drug is used to treat giardiasis?
+### 5. Which drug is used to treat giardiasis?
 
 Metronidazole (Flagyl).
 
-Case study 4
+## Case study 4
 
 Two weeks after returning from a malaria area, a 10-year-old child presents with headache, shivering and vomiting. The mother gave her some paracetamol for the fever. A few hours later the child becomes confused and cannot stand up. The family did not take malarial prophylaxis because they planned to be in the area for 2 days only.
 
-1. Do you think this child has malaria?
+### 1. Do you think this child has malaria?
 
 Yes. Malaria has an incubation period of 1 to 2 weeks and presents with fever and a flu-like illness.
 
-2. How severe is the infection?
+### 2. How severe is the infection?
 
 At presentation it was uncomplicated, with fever and vomiting. However, within hours she was confused and could not stand. This indicates severe, probably cerebral malaria. Malaria can progress from uncomplicated to severe within hours if not treated.
 
-3. How can the diagnosis be confirmed?
+### 3. How can the diagnosis be confirmed?
 
 By examining a blood smear or performing a malaria rapid antigen test.
 
-4. What is the correct treatment?
+### 4. What is the correct treatment?
 
 She must be admitted to hospital urgently as cerebral malaria can be fatal. She needs to be treated with intravenous quinine plus either doxycycline or clindamycin. Uncomplicated malaria can be adequately treated with oral Coartem provided the clinical diagnosis has been confirmed.
 
-5. How can malaria be prevented while on holiday?
+### 5. How can malaria be prevented while on holiday?
 
 The only way to confidently avoid malaria is not to enter a malaria area. However, malaria can usually be avoided by making efforts not to be bitten by mosquitoes and by taking malaria prophylaxis. Insecticide impregnated bed nets are very effective. Also keeping indoors after sunset with mosquito screens on the door and windows. Wear long trousers and sleeves, and shoes and socks if going out in the evening or early morning, when mosquitoes are most active.
 
-6. What malaria prophylaxis should be taken?
+### 6. What malaria prophylaxis should be taken?
 
 The choice is atovaquone and proguanil (Malanil) for children of 10kg or more, or mefloquine (Larium) for children of 5 kg or more. Children over 8 years can also use doxycycline. The medication must be taken correctly, including for the correct period after leaving the malaria area. Prophylaxis must be taken even for a one day visit.
 
 
 
 
-
-
-
 12
+{:,chapter-number}
 
-Skin conditions
+# Skin conditions
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Recognise the common types of rashes.
+*	Recognise the common types of rashes.
+*	Diagnose and treat common skin infections.
+*	Diagnose and treat rashes caused by skin parasites.
+*	Manage rashes caused by skin irritations or insect bites.
+*	Manage rashes due to allergy.
+*	Manage mild acne.
 
-Diagnose and treat common skin infections.
-
-Diagnose and treat rashes caused by skin parasites.
-
-Manage rashes caused by skin irritations or insect bites.
-
-Manage rashes due to allergy.
-
-Manage mild acne.
-
-Introduction
+## Introduction
 
 ### 12-1 Are skin conditions common in children?
 
@@ -8169,27 +7241,20 @@ Yes. Skin conditions are common in children, as young skin is sensitive. As a re
 
 A rash is a skin disorder which causes a change in the normal appearance of the skin. It may appears suddenly or gradually and most rashes disappear after days or weeks. Some rashes may recur (come back repeatedly) or persist (become chronic). Any part of the body may be affected by a rash. However, if the rash only affects the skin of certain parts of the body, this may help with the diagnosis. While most rashes are mild and recover quickly, some are serious and need urgent treatment. There are many types (appearances) of rashes.
 
-A rash is a skin disorder which causes a change in the normal appearance of the skin.
-
-
+> A rash is a skin disorder which causes a change in the normal appearance of the skin.
 
 ### 12-3 What are the common types of rash?
 
-Macule: This is a flat spot that can be seen but not felt. Macular rashes are usually pink or red (erythematous macules) and disappear (blanch) for a few seconds after pressing on them. This is because these macules consist of dilated, small capillaries. Rubella infection is one of the many causes of a pink macular rash. Pale or brown macules also occur, and are due to changes in the amount of pigment in the skin. They are often seen as part of the healing of damaged skin and do not disappear when pressed.
-
-Papule: This is a raised spot (a skin lump), which can be both seen and felt. A papule feels solid and can be any colour, although they are often pink or red or the colour of normal skin. Papular urticaria (allergic reaction to an insect bite) is one of the many causes of a papular rash. A nodule is larger than a papule.
-
-Vesicle: This is a small fluid filled blister that can be both seen and felt. The fluid in a vesicular rash is clear and may look like serum or water. If the vesicles leak, oozing of the fluid makes the skin wet (weepy). When the fluid dries it leaves a crust. If a vesicle bursts it leaves a small ulcer. Fever blisters (cold sores) and acute eczema are typical of a vesicular rash.
-
-Pustule: This is a small pus-filled blister. A pustular rash can be both seen and felt. If a pustule bursts it also forms a small ulcer, which may crust. Bacterial skin infection is one of the many causes of a pustular rash.
+*	**Macule**: This is a flat spot that can be seen but not felt. Macular rashes are usually pink or red (erythematous macules) and disappear (blanch) for a few seconds after pressing on them. This is because these macules consist of dilated, small capillaries. Rubella infection is one of the many causes of a pink macular rash. Pale or brown macules also occur, and are due to changes in the amount of pigment in the skin. They are often seen as part of the healing of damaged skin and do not disappear when pressed.
+*	**Papule**: This is a raised spot (a skin lump), which can be both seen and felt. A papule feels solid and can be any colour, although they are often pink or red or the colour of normal skin. Papular urticaria (allergic reaction to an insect bite) is one of the many causes of a papular rash. A nodule is larger than a papule.
+*	**Vesicle**: This is a small fluid filled blister that can be both seen and felt. The fluid in a vesicular rash is clear and may look like serum or water. If the vesicles leak, oozing of the fluid makes the skin wet (weepy). When the fluid dries it leaves a crust. If a vesicle bursts it leaves a small ulcer. Fever blisters (cold sores) and acute eczema are typical of a vesicular rash.
+*	**Pustule**: This is a small pus-filled blister. A pustular rash can be both seen and felt. If a pustule bursts it also forms a small ulcer, which may crust. Bacterial skin infection is one of the many causes of a pustular rash.
 
 *[See the full-colour illustrations of skin conditions at the end of this book.](16.html)*
 
 One type of rash often changes into another. For example, in chicken pox the rash starts as red macules, which develop into papules and eventually change into vesicles that heal leaving pale or dark macules or sometimes scars. Although identifying the type of rash does not necessarily give the diagnosis, it is an important step in limiting the range of possible diagnoses. Therefore a detailed description of the rash is needed.
 
-It is important to describe the type of rash accurately.
-
-
+> It is important to describe the type of rash accurately.
 
 Some rashes are caused by bleeding into the skin, e.g. petechiae (purpura) or bruises (small or large pink or purple spots which do not fade with pressure).
 
@@ -8213,27 +7278,20 @@ All local (topical) treatments need to be carefully explained and demonstrated t
 
 Skin conditions caused by:
 
-Local infections
+*	Local infections
+*	Systemic infections
+*	Skin parasites
+*	Skin irritations
+*	Allergies
+*	Conditions of unknown cause
 
-Systemic infections
-
-Skin parasites
-
-Skin irritations
-
-Allergies
-
-Conditions of unknown cause
-
-Local viral infection
+## Local viral infection
 
 ### 12-7 What local viral infections are common?
 
-Molluscum contagiosum
-
-Warts
-
-Cold sores
+*	Molluscum contagiosum
+*	Warts
+*	Cold sores
 
 ### 12-8 How is molluscum contagiosum recognised and treated?
 
@@ -8243,9 +7301,7 @@ The molluscum papules have a typical, easily recognised appearance. They are pea
 
 It is best to leave them alone as they will disappear on their own after a few months. However, they can be treated by pricking each papule with a sharp stick (tooth pick). If necessary the contents can be gently squeezed out. With many papules, sedation or a general anaesthetic may be needed before treatment. Wart paint, benzoyl peroxide or liquid nitrogen have also been used.
 
-Many common, mild skin infections may become severe and persistent in children with HIV infection.
-
-
+> Many common, mild skin infections may become severe and persistent in children with HIV infection.
 
 ### 12-9 How are warts recognised and managed?
 
@@ -8267,51 +7323,38 @@ The management consists of applying povidone iodine (Betadine) ointment or 2% vi
 Note
 :	Herpes simplex virus, which remains in nerve ganglia, causes recurrent attacks of cold sores. A history of a primary infection of herpes stomatitis with many painful, small ulcers of the mouth and tongue, together with fever, may or may not be obtained. Often the primary infection with herpes virus is asymptomatic. Cold sores typically occur when immunity is depressed.
 
-Local fungal infections
+## Local fungal infections
 
 ### 12-11 What local fungal infections are common in children?
 
-Ringworm
-
-Athlete’s foot
-
-Tinea versicolor
-
-Dandruff
-
-Candida
+*	Ringworm
+*	Athlete’s foot
+*	Tinea versicolor
+*	Dandruff
+*	Candida
 
 ### 12-12 What is ringworm?
 
 Ringworm is not a worm. It is a rash caused by a fungal infection of the skin. Ringworm of the scalp (tinea capitis) is common. Less common is ringworm of the skin, feet (athlete’s foot) and nails It is infectious and is spread by direct contact with infected humans (touching heads), things they use (sharing brushes, combs and clothes) or pets. Athlete’s foot is infectious and usually caught from the wet floors of bathrooms and changing rooms at school. Pets may also have ringworm.
 
-Ringworm is not a worm but a rash caused by a fungus.
-
-
+> Ringworm is not a worm but a rash caused by a fungus.
 
 ### 12-13 How is ringworm recognised?
 
-Ringworm of the scalp commonly presents as dry, scaly patches with hair loss (bald patches). Occasionally, the infected scalp becomes red and lumpy with pustules. This can easily be confused with impetigo.
-
-Ringworm may present on the face or trunk as a group of itchy, scaly, pink papules. Often the rash forms a ring with a well defined raised edge and normal skin in the centre. Vesicles may also occur along the edge.
-
-Athlete’s foot presents as a painful crack between the toes, usually between the small and next toe. It may also affect the sole of the foot. You do not need to be an athlete to catch athlete’s foot.
-
-Infection of the nail causes discolouration (yellow or white nails) with abnormal nail growth (crumbly nails).
+*	Ringworm of the scalp commonly presents as dry, scaly patches with hair loss (bald patches). Occasionally, the infected scalp becomes red and lumpy with pustules. This can easily be confused with impetigo.
+*	Ringworm may present on the face or trunk as a group of itchy, scaly, pink papules. Often the rash forms a ring with a well defined raised edge and normal skin in the centre. Vesicles may also occur along the edge.
+*	Athlete’s foot presents as a painful crack between the toes, usually between the small and next toe. It may also affect the sole of the foot. You do not need to be an athlete to catch athlete’s foot.
+*	Infection of the nail causes discolouration (yellow or white nails) with abnormal nail growth (crumbly nails).
 
 HIV-infected children may develop extensive, severe fungal skin and nail infections which do not respond to standard treatment.
 
 ### 12-14 How should ringworm be treated?
 
-Ringworm of the skin and feet is usually treated with clotrimazole ointment (e.g. Canesten) or 2% miconazole cream (Daktarin) twice daily for 2 to 4 weeks until the rash has cleared. Ideally treatment should be continued for 1 to 2 weeks after the rash has healed.
-
-Ringworm of the scalp can be improved but not cured with local ointment (cream or shampoo). Fortunately it often disappears on its own over time (especially at puberty). If left untreated it may infect other children.
-
-To prevent athlete’s foot, dry the feet well after washing, especially between the toes, wear clean socks every day and use open sandals.
-
-Scalp ringworm and severe or chronic infection of skin, can be treated with oral griseofulvin 10 mg/kg/day for 6 weeks. Any secondary bacterial infection should be treated with antibiotics.
-
-Fungal infections of the nails should be treated with oral griseofulvin 10 mg/kg/day for 3 months or until the nail returns to normal. It rarely gets better without treatment.
+1.	Ringworm of the skin and feet is usually treated with clotrimazole ointment (e.g. Canesten) or 2% miconazole cream (Daktarin) twice daily for 2 to 4 weeks until the rash has cleared. Ideally treatment should be continued for 1 to 2 weeks after the rash has healed.
+1.	Ringworm of the scalp can be improved but not cured with local ointment (cream or shampoo). Fortunately it often disappears on its own over time (especially at puberty). If left untreated it may infect other children.
+1.	To prevent athlete’s foot, dry the feet well after washing, especially between the toes, wear clean socks every day and use open sandals.
+1.	Scalp ringworm and severe or chronic infection of skin, can be treated with oral griseofulvin 10 mg/kg/day for 6 weeks. Any secondary bacterial infection should be treated with antibiotics.
+1.	Fungal infections of the nails should be treated with oral griseofulvin 10 mg/kg/day for 3 months or until the nail returns to normal. It rarely gets better without treatment.
 
 Every effort should be made to prevent the spread of ringworm to others. Families should avoid sharing clothes, towels and combs.
 
@@ -8341,13 +7384,12 @@ Candida is a fungus which grows in warm, moist creases where it causes a red ras
 
 Management consists of keeping the skin dry and applying mycostatin cream. For severe cases, oral mycostatin may be needed to clear the fungus from the gut and stool.
 
-Local bacterial infections
+## Local bacterial infections
 
 ### 12-18 What local bacterial infections are common?
 
-Impetigo
-
-Boils
+*	Impetigo
+*	Boils
 
 ### 12-19 What is impetigo?
 
@@ -8359,9 +7401,7 @@ Treat by gently removing the crust, after soaking the area in warm water or a di
 
 Sometimes the infection can spread to deeper layers of the skin to cause veld sores (ecthyma). They present as crusted ulcers, particularly on the lower legs of older children. Treatment is the same as for impetigo.
 
-Impetigo due to bacterial infection often complicates other skin conditions.
-
-
+> Impetigo due to bacterial infection often complicates other skin conditions.
 
 Impetigo due to Streptococcus can result in acute glomerulonephritis.
 
@@ -8376,19 +7416,16 @@ Children who have repeated boils should wash their body and hair twice weekly wi
 Note
 :	Boils sufferers often carry Staphylococcus in their nose, on their skin and under their nails. If boils occur repeatedly, screen the child for diabetes. They may also be nasal carriers of Staphylococcus.
 
-Rashes due to systemic infections
+## Rashes due to systemic infections
 
 ### 12-21 What common systemic infections cause a rash?
 
 These are usually viral infections such as:
 
-Rubella (German measles)
-
-Measles
-
-Chicken pox and shingles
-
-AIDS
+*	Rubella (German measles)
+*	Measles
+*	Chicken pox and shingles
+*	AIDS
 
 *These infections are discussed in [chapter 10 on common childhood illnesses](10.html) and [chapter 9 on AIDS](9.html).*
 
@@ -8399,15 +7436,13 @@ Note
 
 Because the child is usually generally unwell with a fever. In some infections the rash appears when the child first becomes unwell. In other infections the rash may only appear when the child has been ill for a few days.
 
-Local parasitic infestations
+## Local parasitic infestations
 
 ### 12-23 What local parasites cause skin conditions in children?
 
-Scabies
-
-Head lice
-
-Sandworm
+*	Scabies
+*	Head lice
+*	Sandworm
 
 ### 12-24 What is scabies?
 
@@ -8420,9 +7455,7 @@ Note
 
 The rash of scabies presents as many small, very itchy papules or vesicles, especially over the wrists, between the fingers, on the hands and feet and waist. A few itchy papules in the skin folds of the axilla (arm pit), around the nipples and umbilicus, and on the scrotum are common presentations in infants. The face can also be affected in small children. The itching is worse at night when the skin is warm. Blisters, sores and scabs often result from the scratching. Bacterial infection (impetigo) of the blisters and sores, which have been scratched open, is common.
 
-Scabies presents as a rash which is very itchy, especially at night.
-
-
+> Scabies presents as a rash which is very itchy, especially at night.
 
 Note
 :	Sometimes the mite’s burrows can be seen as thin lines under the skin between the fingers and on the wrists. The mite may be seen as a white or black dot at the end of the burrow. Some affected people have no symptoms as they are not sensitive to the mite.
@@ -8433,9 +7466,7 @@ It important to treat all members of the family at the same time. Even members w
 
 Infants under 2 months should rather be treated with 5% sulphur ointment nightly for 3 days. Antiscabies soap alone is not effective treatment. Keeps nails short. Wash clothes and bedding in hot water.
 
-The whole family must be treated for scabies at the same time.
-
-
+> The whole family must be treated for scabies at the same time.
 
 If there is additional bacterial infection (impetigo), treat locally with 2% vioform in zinc ointment. Oral penicillin may be needed if the infection is severe, especially if the local lymph nodes are enlarged or the child is pyrexial. Treat the bacterial infection first before treating the scabies.
 
@@ -8452,9 +7483,7 @@ Head lice usually present as itching and scratching of the scalp. Many small red
 
 As with scabies, the scratching can cause secondary bacterial infection (impetigo) which must also be treated.
 
-Lice infestation presents with itching and scratching of the scalp.
-
-
+> Lice infestation presents with itching and scratching of the scalp.
 
 ### 12-28 How should you treat head lice?
 
@@ -8467,17 +7496,14 @@ Sandworms are the larvae of the dog or cat hookworm which burrow under the skin,
 Note
 :	Thiabendazole 10% in petroleum jelly (Vaseline) can also be applied locally, but is difficult to obtain. Ethyl chloride spray can also be applied to the affected area but it is very painful.
 
-Rashes due to skin irritants
+## Rashes due to skin irritants
 
 ### 12-30 What skin irritants are common?
 
-Sunburn
-
-Nappy rash
-
-Insect bites and stings
-
-Miliaria
+*	Sunburn
+*	Nappy rash
+*	Insect bites and stings
+*	Miliaria
 
 ### 12-31 How should sunburn be managed?
 
@@ -8487,9 +7513,7 @@ Put a sunscreen on the child’s exposed skin whenever he or she goes into the s
 
 When the sunburn is first noticed, cool the child in a bath or shower. A simple moisturizing cream can be used to sooth the inflamed skin. Give children with severe sunburn frequent drinks of water to correct dehydration. Paracetamol may be needed for pain. The redness and pain resolves in a few days. This is often followed by peeling and itching of the affected skin.
 
-Children should be protected by a hat, clothing and sunscreen when going out into the sun.
-
-
+> Children should be protected by a hat, clothing and sunscreen when going out into the sun.
 
 Note
 :	Ultraviolet rays penetrate and damage the skin. Ultraviolet ray damage in childhood is an important cause of later skin cancer. Topical steroids may be used in severe sunburn.
@@ -8520,21 +7544,18 @@ With bee stings, scrape the sting off with a blunt knife. Do not try to pull it 
 
 This is the very common heat rash usually seen on the neck of small infants who have a fever or who have been allowed to get too hot. The rash consists of small pink macules, which fade when pressed. The rash is caused by sweat irritating the infant’s sensitive skin. Miliaria usually disappears when washed with cold water. Prevent by not overheating the child. Avoid excessive clothes or blankets, especially in summer.
 
-Rashes due to allergies
+## Rashes due to allergies
 
 ### 12-35 What rashes are caused by allergies?
 
-Eczema
-
-Urticaria
+*	Eczema
+*	Urticaria
 
 ### 12-36 What is atopic eczema?
 
 Eczema (or dermatitis) is an itchy, scaly rash, which has many causes. The most common form of eczema in children is atopic or allergic eczema. Atopic eczema is a form of allergy of the skin and occurs in about 5% of children. Most children with atopic eczema have a family history of asthma, hay fever or eczema. These children start with atopic eczema before 2 years of age and often later develop other forms of allergic disorder. They all have very dry skins.
 
-Children with atopic eczema usually have a family history of allergy.
-
-
+> Children with atopic eczema usually have a family history of allergy.
 
 ### 12-37 What are the clinical features of atopic eczema?
 
@@ -8542,9 +7563,7 @@ In young children, the rash of atopic eczema consists of a red, very itchy, oozi
 
 In older children the rash is usually chronic and consists of dry, itchy, thickened, scaly patches on the face, neck, front and back of the elbows and wrists, front and back of the knees and ankles (chronic eczema). Bacterial infection often complicates eczema as a result of the scratching.
 
-The rash of acute eczema is very itchy.
-
-
+> The rash of acute eczema is very itchy.
 
 Note
 :	Children with atopic eczema have an inherited tendency to produce IgE. This results in an immunological reaction in the skin, which causes inflammation. IgE testing or skin prick tests for common allergens is needed to confirm the clinical diagnosis of atopic eczema.
@@ -8555,29 +7574,18 @@ Atopic eczema is rare in newborn infants and usually starts during the first mon
 
 Unless the eczema is mild, the child should be referred to a skin clinic at a hospital, if possible, for the management of acute eczema and the planning of management for chronic eczema. Specific management consists of the following:
 
-Local management of the skin is most important in atopic eczema. Liberal amounts of emulsifying creams (moisturizing creams or emollients), such a ‘aqueous cream’, are used in acute eczema and emulsifying ointments, such as ‘HEB’ in chronic eczema. Emulsifying creams and ointments are used as first line treatment to prevent the skin from drying out. This helps to prevent inflammation. Emulsifying creams or ointments should be applied at least twice a day.
+1.	Local management of the skin is most important in atopic eczema. Liberal amounts of emulsifying creams (moisturizing creams or emollients), such a ‘aqueous cream’, are used in acute eczema and emulsifying ointments, such as ‘HEB’ in chronic eczema. Emulsifying creams and ointments are used as first line treatment to prevent the skin from drying out. This helps to prevent inflammation. Emulsifying creams or ointments should be applied at least twice a day.
+1.	For mild or moderate eczema, 1% hydrocortisone in an emulsifying cream or ointment (emollients) should be applied twice daily. Stronger steroids (betamethasone) can be used on the trunk and limbs if 1% hydrocortisone fails to control the rash in 2 to 3 days. Do not use strong steroids for longer than one week without specialist advice. Do not use strong steroids on the face. Oral steroids must be avoided. The need for steroids is reduced if emulsifying cream or ointment is used to protect the skin. Many children with mild eczema can be adequately managed with regular use of emulsifying cream or ointment alone.
+1.	5% coal tar in emulsifying ointment is used on patches of chronic eczema.
+1.	If secondary bacterial infection (impetigo) is present, povidone iodine (Betadine) cream or ointment dressings are applied for 3 to 5 days. An oral antibiotic may be needed with widespread infection.
+1.	An oral antihistamine can be given for the itch and to provide some sedation in acute eczema. Local antihistamine creams are of no help. It is very difficult to stop small children from scratching. Unfortunately, scratching causes further itching and may introduce secondary bacterial infection. Gloves or socks over the hands may reduce scratching. Do not let the child get too warm as this makes itching worse. Keep the nails short.
+1.	The child should wash daily with aqueous cream instead of soap. Do not use soaps, shampoos, bubble baths or washing detergents as they often make the rash worse. Showers are better than baths. Aqueous cream or emulsifying ointment (or petroleum jelly) should be applied every day immediately after washing and drying.
+1.	Removing specific items from the diet may be useful in young infants but is less helpful in older children. Encourage breastfeeding.
+1.	Do not let the child overdress and get too hot. Avoid wool or nylon next to the skin. Cotton clothing is best.
+1.	Avoid people with cold sores, as secondary herpes virus infection is dangerous in children with eczema.
+1.	If the acute eczema is not much improved after a week of treatment, refer to a specialist skin clinic.
 
-For mild or moderate eczema, 1% hydrocortisone in an emulsifying cream or ointment (emollients) should be applied twice daily. Stronger steroids (betamethasone) can be used on the trunk and limbs if 1% hydrocortisone fails to control the rash in 2 to 3 days. Do not use strong steroids for longer than one week without specialist advice. Do not use strong steroids on the face. Oral steroids must be avoided. The need for steroids is reduced if emulsifying cream or ointment is used to protect the skin. Many children with mild eczema can be adequately managed with regular use of emulsifying cream or ointment alone.
-
-5% coal tar in emulsifying ointment is used on patches of chronic eczema.
-
-If secondary bacterial infection (impetigo) is present, povidone iodine (Betadine) cream or ointment dressings are applied for 3 to 5 days. An oral antibiotic may be needed with widespread infection.
-
-An oral antihistamine can be given for the itch and to provide some sedation in acute eczema. Local antihistamine creams are of no help. It is very difficult to stop small children from scratching. Unfortunately, scratching causes further itching and may introduce secondary bacterial infection. Gloves or socks over the hands may reduce scratching. Do not let the child get too warm as this makes itching worse. Keep the nails short.
-
-The child should wash daily with aqueous cream instead of soap. Do not use soaps, shampoos, bubble baths or washing detergents as they often make the rash worse. Showers are better than baths. Aqueous cream or emulsifying ointment (or petroleum jelly) should be applied every day immediately after washing and drying.
-
-Removing specific items from the diet may be useful in young infants but is less helpful in older children. Encourage breastfeeding.
-
-Do not let the child overdress and get too hot. Avoid wool or nylon next to the skin. Cotton clothing is best.
-
-Avoid people with cold sores, as secondary herpes virus infection is dangerous in children with eczema.
-
-If the acute eczema is not much improved after a week of treatment, refer to a specialist skin clinic.
-
-Emulsifying cream or ointment, with or without 1% hydrocortisone, is most important in treating eczema.
-
-
+> Emulsifying cream or ointment, with or without 1% hydrocortisone, is most important in treating eczema.
 
 Note
 :	If possible, wet wraps should be used at night to manage acute eczema. Wet wraps are stocking bandages (Stockinette) that have been moistened with warm water and covered in generous amounts of emulsifying ointment or aqueous cream. The wet wrap is placed over the skin where steroid has been applied. It ensures deep penetration of the steroid, and rehydrates the skin, lessens inflammation, reduces itching and discomfort and hastens healing. Wet wraps alone reduce the need for local steroids.
@@ -8613,9 +7621,7 @@ Papular urticaria is common and presents as groups of very itchy papules. The pa
 
 Papular urticaria is caused by an allergy to insect bites, especially fleas, mosquitoes and bed bugs. It is particularly common in young children. 
 
-Papular urticaria due to flea or mosquito bites is a common cause of a very itchy papular rash.
-
-
+> Papular urticaria due to flea or mosquito bites is a common cause of a very itchy papular rash.
 
 ### 12-43 How is papular urticaria managed?
 
@@ -8624,7 +7630,7 @@ Insect control is most important. Treat the rash with calamine lotion which decr
 Note
 :	Non sedating antihistamines such as cetirizine (Zyrtec) and loratidine (Clarityne) are effective but expensive.
 
-Other skin conditions in children
+## Other skin conditions in children
 
 ### 12-44 What is ichthyosis?
 
@@ -8649,15 +7655,11 @@ At puberty, sex hormones result in an increase in secretion from sebaceous gland
 
 Most mild cases can be managed with local treatment:
 
-Washing the face daily with water and a regular soap.
-
-Acne cream (tretinoin) to promote mild peeling to open the blocked ducts of the sebaceous glands is the first line treatment of mild acne. This is best used at night. Stop treatment for a few days if the skin becomes red and tender.
-
-A local antiseptic cream (benzoyl peroxide) to reduce inflammation in the sebaceous glands.
-
-Mild exposure to sunshine.
-
-No squeezing, picking or scrubbing the spots.
+1.	Washing the face daily with water and a regular soap.
+1.	Acne cream (tretinoin) to promote mild peeling to open the blocked ducts of the sebaceous glands is the first line treatment of mild acne. This is best used at night. Stop treatment for a few days if the skin becomes red and tender.
+1.	A local antiseptic cream (benzoyl peroxide) to reduce inflammation in the sebaceous glands.
+1.	Mild exposure to sunshine.
+1.	No squeezing, picking or scrubbing the spots.
 
 If the acne does not improve in 2 months, or if it is severe, the patient should be referred to a skin clinic at a hospital.
 
@@ -8668,157 +7670,148 @@ Note
 
 This is a common rash on the face of infants when petroleum jelly (Vaseline) is rubbed onto the skin. Vaseline blocks the sebaceous glands causing many small papules. It may also cause contact dermatitis. The rash disappears when petroleum jelly is no longer used. Greasy substances, such as petroleum jelly, should not be used on the face.
 
-Vaseline is a common cause of a fine papular rash on the face of infants.
+> Vaseline is a common cause of a fine papular rash on the face of infants.
 
-
-
-Typical presentation of rashes
+## Typical presentation of rashes
 
 ### 12-49 Which rashes typically cause itching?
 
-Scabies
-
-Ringworm
-
-Atopic eczema
-
-Urticaria
+*	Scabies
+*	Ringworm
+*	Atopic eczema
+*	Urticaria
 
 ### 12-50 Which rashes are typically painful?
 
-Cold sores
-
-Athlete’s foot
-
-Plantar warts
+*	Cold sores
+*	Athlete’s foot
+*	Plantar warts
 
 ### 12-51 Which rashes are typically scaly?
 
-Ringworm
+*	Ringworm
+*	Chronic eczema
+*	Psoriasis
 
-Chronic eczema
-
-Psoriasis
-
-Case study 1
+## Case study 1
 
 A mother brings her 7-year-old son to the clinic as she is worried about bald patches which have developed on his scalp. On examination, you find a number of areas of pale, scaly skin with hair loss.
 
-1. What is the diagnosis?
+### 1. What is the diagnosis?
 
 Ringworm of the scalp.
 
-2. Is this caused by a worm?
+### 2. Is this caused by a worm?
 
 No. It is caused by a fungus.
 
-3. Is this an infectious skin condition?
+### 3. Is this an infectious skin condition?
 
 Yes. It is common in school children, who often borrow each others’ combs, brushes or caps and touch heads when they play. Pets may also have ringworm.
 
-4. What is the correct treatment?
+### 4. What is the correct treatment?
 
 Oral griseofulvin 10 mg/kg/day for 6 weeks. Ringworm of the scalp will improve but not be cured with local treatment only.
 
-5. Can this condition affect other parts of the body?
+### 5. Can this condition affect other parts of the body?
 
 Yes. Ringworm often presents as a group of itchy, scaly, pink papules on the face or trunk. The rash typically forms a circle with normal skin in the centre. Vesicles may also occur. Treat with clotrimazole (Canesten) ointment twice daily for 2 to 4 weeks.
 
-Case study 2
+## Case study 2
 
 A mother brings her 3-year-old son to the clinic as he has an itchy rash over his wrists. He scratches both the rash and his scalp at night and sleeps badly. When you examine the child you notice that the rash is red and pustular with scratch marks. You also see small, shiny white spots in the child’s hair.
 
-1. What do you think is the cause of the rash?
+### 1. What do you think is the cause of the rash?
 
 The history is typical of scabies with an itchy rash on the wrists. The itching is much worse at night when the child is warm. Usually the rash is papular. Scratch marks are common.
 
-2. Why is this rash pustular?
+### 2. Why is this rash pustular?
 
 Because the scabies has been complicated by secondary bacterial infection (impetigo). This is a common complication caused by scratching.
 
-3. What are the white spots in the hair?
+### 3. What are the white spots in the hair?
 
 Probably the nits (eggs) of lice attached to the hairs. Unlike dandruff, nits cannot be easily combed out as they are tightly attached to the hairs. Lice suck blood from the scalp leaving small red spots, which itch.
 
-4. Why would it be important to examine the mother?
+### 4. Why would it be important to examine the mother?
 
 Because she may also have scabies and lice. Both are infections and are spread by direct contact, such as sleeping in the same bed.
 
-5. How should you treat this child?
+### 5. How should you treat this child?
 
 First use 2% vioform in zinc ointment on the rash for a few days to treat the bacterial infection. Then put 12.5% benzyl benzoate lotion over his whole body, except the face. Wash the lotion off after 24 hours and then dress him in clean clothes. Wash the bed linen. The mother and other family members must be similarly treated.
 
 The lice should be treated with 1% gamma benzene hexachloride shampoo (Gambex or Quellada). This should be rubbed onto the head and then left for 5 minutes before washing off. Comb out the nits with a fine comb. The rest of the family should also be treated.
 
-6. Should the child’s head be shaved?
+### 6. Should the child’s head be shaved?
 
 No. There is no need to cut the hair or shave his head.
 
-Case study 3
+## Case study 3
 
 A 4-year-old child presents with groups of very itchy, red papules on her face, arms and legs. She is generally well but her mother says she is restless at night because of the itching.
 
-1. What is the most likely diagnosis?
+### 1. What is the most likely diagnosis?
 
 Papular urticaria.
 
-2. What is the cause?
+### 2. What is the cause?
 
 An allergy to insect bites. As the rash is on exposed areas of skin, the allergy is probably due to mosquito bites.
 
-3. How should the rash be treated?
+### 3. How should the rash be treated?
 
 Local calamine lotion is soothing. An oral antihistamine will reduce the itching.
 
-4. What can be done to prevent the condition?
+### 4. What can be done to prevent the condition?
 
 Every effort must be made to prevent the mosquito bites. Insect repellent is helpful.
 
-Case study 4
+## Case study 4
 
 A grandmother brings her grandson to clinic and complains that his atopic eczema has become much worse during the past few days. He is irritable and scratches all the time.
 
-1. What is the appearance of the rash in acute atopic eczema?
+### 1. What is the appearance of the rash in acute atopic eczema?
 
 The rash is red, oozing and crusted. It is very itchy and usually presents on the face and may spread to the scalp and chest, front of the elbows and wrists and back of the knees.
 
-2. What is a common complication of the scratching?
+### 2. What is a common complication of the scratching?
 
 Impetigo due to secondary bacterial infection.
 
-3. How is this complication diagnosed and treated?
+### 3. How is this complication diagnosed and treated?
 
 Impetigo presents as a group of small blisters which soon burst leaving a raw area that becomes covered by a yellow crust. It should be treated with 2% vioform or an antibiotic cream. An oral antibiotic, such as flucloxacillin, may be needed.
 
-4. How is an acute flare up of atopic eczema managed?
+### 4. How is an acute flare up of atopic eczema managed?
 
 Mild or moderate cases can be treated with 1% hydrocortisone in an emulsifying cream on the face twice daily. A stronger steroid ointment can be used for a few days on the rash over other parts of the body. The rash should respond and the treatment stopped in a week. Never use strong steroids on the face.
 
-5. What is the long-term management of atopic eczema?
+### 5. What is the long-term management of atopic eczema?
 
 The skin must be kept moist and soft with regular use of an emulsifying ointment or aqueous cream twice daily .The child should wash daily with aqueous cream instead of soap. 
 
-Case study 5
+## Case study 5
 
 A teenager complains of blackheads and pimples on his forehead and cheeks. He has had the rash for 6 months. He also has warts on his hand. Both make him embarrassed.
 
-1. What is the rash on his face?
+### 1. What is the rash on his face?
 
 Acne. It is common at puberty, especially in boys. It presents with blackheads, pimples and pustules on the face. Severe cases can also involve the neck, back and chest.
 
-2. What is the cause?
+### 2. What is the cause?
 
 Acne is due to an increased secretion of sebaceous glands which happens at puberty due to increased sex hormone production. Acne is more common in families with greasy skins. It is not caused by poor hygiene or an incorrect diet.
 
-3. What is the treatment?
+### 3. What is the treatment?
 
 Most cases of acne respond to tretinoin cream, which causes mild peeling, and benzoyl peroxide cream to reduce inflammation. Mild exposure to sunshine also helps. The rash may take a few months to respond. The patient should not pick, squeeze or scrub the rash.
 
-4. When should patients be referred to a special skin clinic?
+### 4. When should patients be referred to a special skin clinic?
 
 If the acne is severe or does not respond in 2 months.
 
-5. How should warts be treated?
+### 5. How should warts be treated?
 
 Many warts disappear spontaneously after a few months without treatment. Warts are best treated with daily applications of wart paint.
 
@@ -8827,26 +7820,22 @@ Many warts disappear spontaneously after a few months without treatment. Warts a
 
 
 13
+{:.chapter-number}
 
-Serious illnesses
+# Serious illnesses
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Diagnose and manage acute rheumatic fever.
+*	Diagnose and manage acute rheumatic fever.
+*	Diagnose and manage acute glomerulonephritis.
+*	Diagnose and manage septicemia and meningitis.
+*	Diagnose and manage pyleonephritis.
+*	Diagnose and refer children with diabetes or epilepsy.
+*	List the warning signs of childhood cancer.
 
-Diagnose and manage acute glomerulonephritis.
-
-Diagnose and manage septicemia and meningitis.
-
-Diagnose and manage pyleonephritis.
-
-Diagnose and refer children with diabetes or epilepsy.
-
-List the warning signs of childhood cancer.
-
-Introduction
+## Introduction
 
 ### 13-1 What serious bacterial infections are seen in children?
 
@@ -8854,19 +7843,15 @@ These are illnesses which can result in death if they are not correctly managed.
 
 Important serious illnesses include:
 
-Acute rheumatic fever
-
-Acute glomerulonephritis
-
-Septicaemia, especially meningococcal septicaemia
-
-Meningitis
-
-Pyelonephritis
+*	Acute rheumatic fever
+*	Acute glomerulonephritis
+*	Septicaemia, especially meningococcal septicaemia
+*	Meningitis
+*	Pyelonephritis
 
 *Some serious illnesses, such as pneumonia and typhoid, are discussed in other units.*
 
-Acute rheumatic fever
+## Acute rheumatic fever
 
 ### 13-2 What is acute rheumatic fever?
 
@@ -8875,25 +7860,18 @@ Acute rheumatic fever is the most common cause of acquired heart disease in chil
 Note
 :	Many strains of Group A beta haemolytic Streptococcus can cause rheumatic fever which is a multisystem disease affecting the heart, joints, skin and brain. Recent studies suggest that skin infections (impetigo) may also cause rheumatic fever.
 
-Rheumatic fever is the most common cause of acquired heart disease in children in developing countries.
-
-
+> Rheumatic fever is the most common cause of acquired heart disease in children in developing countries.
 
 ### 13-3 What are the clinical features of acute rheumatic fever?
 
 Acute rheumatic fever develops 2–3 weeks after a Streptococcal pharyngitis. The classical features of acute rheumatic fever are:
 
-Fever
-
-A ‘flitting’ polyarthritis. Pain, redness and swelling (arthritis) of a number of joints (polyarthritis) where the arthritis moves within days from joint to joint (flitting). Usually the large joints (elbows, knees) are involved.
-
-Carditis
-
-Eythema marginatum. A short-lived erythematous (pink) rash which forms irregular patterns on the trunk.
-
-Subcutaneous nodules. Small, non tender lumps under the skin over the elbows, knuckles, wrists, knees and spine.
-
-Chorea. Usually seen in girls who become clumsy and very emotional with unusual jerky movements. Their handwriting deteriorates and they have difficulty doing up buttons due to the abnormal movements. Chorea may only appear months after the throat infection.
+*	Fever
+*	A ‘flitting’ polyarthritis. Pain, redness and swelling (arthritis) of a number of joints (polyarthritis) where the arthritis moves within days from joint to joint (flitting). Usually the large joints (elbows, knees) are involved.
+*	Carditis
+*	Eythema marginatum. A short-lived erythematous (pink) rash which forms irregular patterns on the trunk.
+*	Subcutaneous nodules. Small, non tender lumps under the skin over the elbows, knuckles, wrists, knees and spine.
+*	Chorea. Usually seen in girls who become clumsy and very emotional with unusual jerky movements. Their handwriting deteriorates and they have difficulty doing up buttons due to the abnormal movements. Chorea may only appear months after the throat infection.
 
 Children with acute rheumatic fever do not necessarily develop all the classical signs. The rash, subcutaneous nodules and chorea are less common signs of acute rheumatic fever.
 
@@ -8901,13 +7879,10 @@ Children with acute rheumatic fever do not necessarily develop all the classical
 
 Carditis is an inflammation of the heart. The heart muscle, valves and pericardium are involved. The signs of carditis are:
 
-A heart murmur due to inflammation or damage to one or more heart valves
-
-Tachycardia, especially when resting or asleep. Signs of heart failure may develop (e.g. shortness of breath).
-
-An enlarged heart seen on chest X-ray
-
-A rubbing noise (friction rub) heard on auscultation, which indicates an inflammation of the pericardium (pericarditis)
+*	A heart murmur due to inflammation or damage to one or more heart valves
+*	Tachycardia, especially when resting or asleep. Signs of heart failure may develop (e.g. shortness of breath).
+*	An enlarged heart seen on chest X-ray
+*	A rubbing noise (friction rub) heard on auscultation, which indicates an inflammation of the pericardium (pericarditis)
 
 ### 13-5 How is the clinical diagnosis of acute rheumatic fever made?
 
@@ -8915,44 +7890,32 @@ By documenting a Streptococcal infection plus 2 major or 1 major and 2 minor cri
 
 The major criteria are:
 
-Flitting polyarthritis
-
-Carditis
-
-Erythema marginatum
-
-Nodules
-
-Chorea
+*	Flitting polyarthritis
+*	Carditis
+*	Erythema marginatum
+*	Nodules
+*	Chorea
 
 The minor criteria are:
 
-Fever
-
-Arthralgia (joint pain only) without arthritis
-
-Blood tests indicating inflammation, i.e. raised erythrocyte sedimentation rate (ESR), raised C reactive protein (CRP) or a leucocytosis (raised white cell count)
-
-An abnormal electrocardiogram (ECG) especially a prolonged PR interval (do not use this minor criteria if carditis is used as a major criteria)
+*	Fever
+*	Arthralgia (joint pain only) without arthritis
+*	Blood tests indicating inflammation, i.e. raised erythrocyte sedimentation rate (ESR), raised C reactive protein (CRP) or a leucocytosis (raised white cell count)
+*	An abnormal electrocardiogram (ECG) especially a prolonged PR interval (do not use this minor criteria if carditis is used as a major criteria)
 
 Note
 :	These are the modified Duckett-Jones criteria. A Streptcoccal infection is documented by a positive throat culture or a raised antistreptolysin O titre. A blood culture is useful to exclude bacterial endocarditis which should be considered in any child with fever and a murmur. Two minor criteria are needed to diagnose acute rheumatic fever in a child with establised rheumatic heart disease.
 
 Always suspect acute rheumatic fever in an unwell child older than 3 years who presents with fever, tachycardia and shortness of breath or painful joints.
 
-Strict clinical criteria are used to diagnose acute rheumatic fever.
-
-
+> Strict clinical criteria are used to diagnose acute rheumatic fever.
 
 ### 13-6 How is acute rheumatic fever treated?
 
-Bed rest until all signs of acute rheumatic fever have disappeared and the resting heart rate is normal. All children with acute rheumatic fever should be admitted to hospital if possible
-
-Amoxycillin 10 mg/kg 6 hourly orally for 10 days or a single dose of benzathine penicillin 1.2 million units intramuscularly.
-
-Aspirin for symptomatic relief of fever and joint pain. Acute rheumatic fever is one of the very few indication for aspirin in children.
-
-Observe closely for signs of heart failure.
+1.	Bed rest until all signs of acute rheumatic fever have disappeared and the resting heart rate is normal. All children with acute rheumatic fever should be admitted to hospital if possible
+1.	Amoxycillin 10 mg/kg 6 hourly orally for 10 days or a single dose of benzathine penicillin 1.2 million units intramuscularly.
+1.	Aspirin for symptomatic relief of fever and joint pain. Acute rheumatic fever is one of the very few indication for aspirin in children.
+1.	Observe closely for signs of heart failure.
 
 ### 13-7 How can the first attack of acute rheumatic fever be prevented?
 
@@ -8970,9 +7933,7 @@ Acute rheumatic fever should resolve in 4 weeks. Some children recover completel
 
 One or more attacks of acute rheumatic fever can cause permanent damage to one or more heart valves. This is called chronic rheumatic heart disease. Leaking of the mitral valve (mitral incompetence) or narrowing of the mitral valve (mitral stenosis) are the most common permanent valve defects. Damage to a valve or damage to the heart muscle can cause heart failure.
 
-Every effort must be made to prevent repeated attacks of acute rheumatic fever.
-
-
+> Every effort must be made to prevent repeated attacks of acute rheumatic fever.
 
 ### 13-10 What are the features of chronic rheumatic heart disease?
 
@@ -8987,17 +7948,14 @@ Children with chronic rheumatic heart disease must be managed by a special cardi
 
 ### 13-11 What are the clinical symptoms and signs of heart failure?
 
-Tiredness with exhaustion after only a little exercise
-
-Shortness of breath and wheezing, especially when lying flat
-
-Swelling of the ankles due to oedema
-
-An enlarged liver
+*	Tiredness with exhaustion after only a little exercise
+*	Shortness of breath and wheezing, especially when lying flat
+*	Swelling of the ankles due to oedema
+*	An enlarged liver
 
 There are many causes of heart failure, including acute rheumatic fever, chronic rheumatic heart disease, congenital heart disease and severe anaemia.
 
-Acute glomerulonephritis
+## Acute glomerulonephritis
 
 ### 13-12 What is acute glomerulonephritis?
 
@@ -9008,19 +7966,14 @@ Note
 
 ### 13-13 What are the presenting signs of acute glomerulonephritis?
 
-Haematuria and proteinuria. There may be obvious blood in the urine seen with the naked eye (dark urine). Marked haematuria looks like dilute Coca Cola. The red cells can also be seen under the microscope. Haematuria and proteinuria can be detected with reagent strips.
-
-Decreased urine volume (oliguria). In severe cases there may be no urine produced (anuria).
-
-Oedema of the face (especially in the morning) and feet (especially in the evenings)
-
-Hypertension
+*	Haematuria and proteinuria. There may be obvious blood in the urine seen with the naked eye (dark urine). Marked haematuria looks like dilute Coca Cola. The red cells can also be seen under the microscope. Haematuria and proteinuria can be detected with reagent strips.
+*	Decreased urine volume (oliguria). In severe cases there may be no urine produced (anuria).
+*	Oedema of the face (especially in the morning) and feet (especially in the evenings)
+*	Hypertension
 
 The severity of signs varies widely. In many children the condition is asymptomatic and would only be diagnosed by testing the urine for blood and protein, or by measuring the blood pressure.
 
-Acute glomerulonephritis usually presents with dark urine, reduced urine output and oedema.
-
-
+> Acute glomerulonephritis usually presents with dark urine, reduced urine output and oedema.
 
 Note
 :	Oedema plus marked proteinuria without haematuria suggests nephrotic syndrome.
@@ -9035,34 +7988,23 @@ It is very important to look for signs of complications.
 
 ### 13-15 What are the complications of acute glomerulonephritis?
 
-Hypertensive encephalopathy which usually presents with headaches, vomiting, drowsiness and convulsions. This may be the first sign of acute glomerulonephritis.
-
-Pulmonary oedema and heart failure due to fluid overload. This presents with breathing difficulties, especially when lying down.
-
-Acute renal failure with raised serum urea and creatinine
+*	Hypertensive encephalopathy which usually presents with headaches, vomiting, drowsiness and convulsions. This may be the first sign of acute glomerulonephritis.
+*	Pulmonary oedema and heart failure due to fluid overload. This presents with breathing difficulties, especially when lying down.
+*	Acute renal failure with raised serum urea and creatinine
 
 ### 13-16 What is the management of a child with acute glomerulonephritis?
 
-Refer the child to hospital if possible.
-
-Oral phenoxymethyl penicillin (penicillin V) 12.5 mg/kg 6 hourly or oral amoxycillin for 10 days to treat the Streptococcal infection.
-
-Restrict the daily fluid intake to 20 ml/kg plus the volume of the previous day’s urine output. It is important to keep a careful check on the fluid intake and output.
-
-Weigh daily to assess fluid status.
-
-Low sodium and low protein diet until the urine output increases (diuresis). Bread, jam, rice, fruit and vegetables with no added salt is a practical diet.
-
-Furosemide (Lasix) 1 mg/kg orally to help increase urine output
-
-Observe the blood pressure every 6 hours.
-
-Check serum urea, creatinine and electrolytes to monitor any renal failure.
+1.	Refer the child to hospital if possible.
+1.	Oral phenoxymethyl penicillin (penicillin V) 12.5 mg/kg 6 hourly or oral amoxycillin for 10 days to treat the Streptococcal infection.
+1.	Restrict the daily fluid intake to 20 ml/kg plus the volume of the previous day’s urine output. It is important to keep a careful check on the fluid intake and output.
+1.	Weigh daily to assess fluid status.
+1.	Low sodium and low protein diet until the urine output increases (diuresis). Bread, jam, rice, fruit and vegetables with no added salt is a practical diet.
+1.	Furosemide (Lasix) 1 mg/kg orally to help increase urine output
+1.	Observe the blood pressure every 6 hours.
+1.	Check serum urea, creatinine and electrolytes to monitor any renal failure.
 
 Note
-:	Severe hypertension can be treated as an emergency with nifedipine (Adalat) 
-
-0.25 mg/kg sublingually (under the tongue). Convulsions can be stopped with rectal diazepam.
+:	Severe hypertension can be treated as an emergency with nifedipine (Adalat) 0.25 mg/kg sublingually (under the tongue). Convulsions can be stopped with rectal diazepam.
 
 Respiratory distress due to pulmonary oedema should be managed with oxygen, furosemide 1 mg/kg intravenously, sitting the patient up and referring to hospital urgently.
 
@@ -9073,7 +8015,7 @@ Note
 
 Most cases occur in children over the age of 2 years in poor communities where Streptococcal infections, especially of the skin are common. It is important that skin infections are treated promptly with local antiseptics (e.g. Savlon). Scabies, which is often complicated by impetigo, should be treated. Oral penicillin should be given for 5 days if there is extensive impetigo. The more frequent use of antibiotics in developed countries has resulted in a fall in the number of children with acute glomerulonephritis (and acute rheumatic fever). However, this is not a reason to give antibiotics to every child with a few patches of impetigo that can be treated locally.
 
-Septicaemia
+## Septicaemia
 
 ### 13-18 What is septicaemia?
 
@@ -9086,19 +8028,13 @@ Note
 
 ### 13-19 What are the clinical features of septicaemia?
 
-There may be a local source of infection.
+*	There may be a local source of infection.
+*	At first the child may feel generally unwell but not have any specific signs. It is, therefore, often difficult to make an early clinical diagnosis of septicaemia. As the septicaemia becomes worse the child appears seriously ill.
+*	Fever is almost always present. 
+*	The patient may become shocked (septic shock).
+*	Shock leads to failure of many organs such as the kidney and lungs.
 
-At first the child may feel generally unwell but not have any specific signs. It is, therefore, often difficult to make an early clinical diagnosis of septicaemia. As the septicaemia becomes worse the child appears seriously ill.
-
-Fever is almost always present. 
-
-The patient may become shocked (septic shock).
-
-Shock leads to failure of many organs such as the kidney and lungs.
-
-Children with septicaemia are seriously ill, often without an obvious site of infection.
-
-
+> Children with septicaemia are seriously ill, often without an obvious site of infection.
 
 ### 13-20 What is shock?
 
@@ -9117,36 +8053,28 @@ With finding a positive blood culture. Always take a blood culture before starti
 
 The white cell count may be high at first and later fall. The platelet count may also fall and the blood clotting factors may be low.
 
-A blood culture is needed to confirm the clinical diagnosis of septaecaemia.
-
-
+> A blood culture is needed to confirm the clinical diagnosis of septaecaemia.
 
 Note
 :	The C reactive protein (CRP) level may initially be normal but rises after a few hours.
 
 ### 13-23 What is the management of septicaemia?
 
-Start antibiotics immediately. Do not wait for the result of the blood culture.
-
-Treat shock if it is present.
-
-Transfer the patient urgently to hospital. Give oxygen during transport.
-
-Look for an underlying cause and monitor for complications such as organ failure.
+1.	Start antibiotics immediately. Do not wait for the result of the blood culture.
+1.	Treat shock if it is present.
+1.	Transfer the patient urgently to hospital. Give oxygen during transport.
+1.	Look for an underlying cause and monitor for complications such as organ failure.
 
 The fist choice of antibiotics is either:
 
-Benzyl penicillin 50 000 units/kg every 6 hours intravenously (or ampicillin 50 mg/kg every 6 hours intravenously) *plus* gentamicin 7.5 mg/kg daily (or amikacin 20 mg/kg daily), given slowly intravenously over 5 minutes.
-
-Ceftriaxone 80 mg/kg daily intra­muscularly or by slow intravenous injection. This is very useful in a primary care facility before the child is transferred to hospital.
+*	Benzyl penicillin 50 000 units/kg every 6 hours intravenously (or ampicillin 50 mg/kg every 6 hours intravenously) *plus* gentamicin 7.5 mg/kg daily (or amikacin 20 mg/kg daily), given slowly intravenously over 5 minutes.
+*	Ceftriaxone 80 mg/kg daily intra­muscularly or by slow intravenous injection. This is very useful in a primary care facility before the child is transferred to hospital.
 
 ### 13-24 What is the treatment of shock?
 
 The aim of treatment is to correct the blood pressure and improve the peripheral perfusion. A fast intravenous infusion must be started immediately with 20 ml/kg of normal saline or Ringer’s lactate. If the signs of shock are not corrected, repeat the bolus of intravenous fluid. This will usually correct the shock. Always give oxygen. Urgent transfer to hospital is needed. Start treating shock before moving the patient.
 
-Shock must be treated before the patient is moved to hospital.
-
-
+> Shock must be treated before the patient is moved to hospital.
 
 ### 13-25 What is meningococcal septicaemia?
 
@@ -9156,9 +8084,7 @@ This is a serious illness caused by septicaemia due to Meningococcus (i.e. *Neis
 
 The patient presents with the signs of septicaemia. However, a rash also develops. This starts as small red spots on the skin and conjunctivae which rapidly become purpuric (larger pink or purple spots). The spots do not blanch when pressed. The rash becomes very dark and may become necrotic (ulcerate). Gangrene of the skin may occur. Without early treatment the mortality is high. It is very important to look for a rash in all children who are thought to have septicaemia.
 
-Always look carefully for a rash if a child has a diagnosis of possible septicaemia.
-
-
+> Always look carefully for a rash if a child has a diagnosis of possible septicaemia.
 
 Many children with meningococcal septicaemia will also have meningococcal meningitis. Most will rapidly develop shock.
 
@@ -9176,7 +8102,7 @@ All those in contact with the patient, including the health staff, should take r
 
 A short-lived vaccine against meningococcus can be used to help end epidemics. Over­crowding in schools, army camps and crèches should be avoided.
 
-Meningitis
+## Meningitis
 
 ### 13-29 What is meningitis?
 
@@ -9186,23 +8112,16 @@ Bacteria usually reach the meninges via the blood stream. Rarely, infection is b
 
 ### 13-30 What are the symptoms and signs of meningitis?
 
-Feeling generally unwell with fever. Most children with meningitis rapidly appear seriously ill.
-
-A severe headache, vomiting and photophobia (avoids bright light)
-
-Irritability, drowsiness, loss of consciousness and convulsions
-
-Young infants may present with poor feeding, lethargy and apnoea.
-
-Neck stiffness. It is painful if the patient tries to flex his/her neck so that the chin touches the chest. It is also painful and difficult if the examiner tries to flex the patient’s neck. Neck stiffness may be absent in young children with meningitis.
-
-Infants may have a full (bulging) fontanelle.
+*	Feeling generally unwell with fever. Most children with meningitis rapidly appear seriously ill.
+*	A severe headache, vomiting and photophobia (avoids bright light)
+*	Irritability, drowsiness, loss of consciousness and convulsions
+*	Young infants may present with poor feeding, lethargy and apnoea.
+*	Neck stiffness. It is painful if the patient tries to flex his/her neck so that the chin touches the chest. It is also painful and difficult if the examiner tries to flex the patient’s neck. Neck stiffness may be absent in young children with meningitis.
+*	Infants may have a full (bulging) fontanelle.
 
 The signs of meningitis and septicaemia are very similar. Both must be suspected in any child who is seriously ill or unconscious or who has a high fever without an obvious cause.
 
-Headache, fever and vomiting suggest meningitis.
-
-
+> Headache, fever and vomiting suggest meningitis.
 
 ### 13-31 How is the clinical diagnosis of meningitis confirmed?
 
@@ -9217,9 +8136,7 @@ No. Therefore, all cases of clinical meningitis must initially be managed as if 
 
 Children with viral meningitis usually improve rapidly after a lumbar puncture and have fewer complications. The management is supportive and antibiotics can be stopped once the results of the lumbar puncture exclude bacterial meningitis. Tuberculous meningitis also has a similar presentation and must be distinguished on lumbar puncture and other investigations.
 
-It is not possible to distinguish between viral and bacterial meningitis on clinical examination alone.
-
-
+> It is not possible to distinguish between viral and bacterial meningitis on clinical examination alone.
 
 Note
 :	In viral meningitis most cells in the CSF are lymphocytes, the CSF glucose is normal and the Gram stain and culture are negative for bacteria.
@@ -9228,19 +8145,13 @@ Note
 
 The most important step is to start antibiotics as soon as possible. If a lumbar puncture cannot be done immediately, it is better to start antibiotics before transferring the child to hospital for investigation and further treatment. The sooner the treatment is started the better is the clinical outcome.
 
-The first choice of antibiotic is ceftriaxone 100 mg/kg intravenously immediately and then repeatedly daily. In older children the second choice is benzyl penicillin 100 000 units/kg 6 hourly plus chloramphenicol 25 mg/kg 6 hourly intravenously (or intramuscularly if an intravenous line cannot be started). In neonates the second choice is ampicillin and gentamicin.
+1.	The first choice of antibiotic is ceftriaxone 100 mg/kg intravenously immediately and then repeatedly daily. In older children the second choice is benzyl penicillin 100 000 units/kg 6 hourly plus chloramphenicol 25 mg/kg 6 hourly intravenously (or intramuscularly if an intravenous line cannot be started). In neonates the second choice is ampicillin and gentamicin.
+1.	Convulsions should be stopped.
+1.	Paracetamol and tepid sponging can be used to lower the temperature.
+1.	Always look for signs of shock and exclude hypoglycaemia.
+1.	The patient must be transferred urgently to hospital.
 
-Convulsions should be stopped.
-
-Paracetamol and tepid sponging can be used to lower the temperature.
-
-Always look for signs of shock and exclude hypoglycaemia.
-
-The patient must be transferred urgently to hospital.
-
-Antibiotics must be started as soon as possible if a clinical diagnosis of bacterial meningitis is made.
-
-
+> Antibiotics must be started as soon as possible if a clinical diagnosis of bacterial meningitis is made.
 
 ### 13-34 Can meningitis be prevented?
 
@@ -9252,17 +8163,13 @@ All those in contact with a patient with meningococcal meningitis or septicaemia
 
 About 25% of children with bacterial meningitis will die and about 25% of the survivors will have permanent brain damage such as:
 
-Cerebral palsy
+*	Cerebral palsy
+*	Intellectual impairment
+*	Nerve deafness
+*	Hydrocephalus
+*	Epilepsy
 
-Intellectual impairment
-
-Nerve deafness
-
-Hydrocephalus
-
-Epilepsy
-
-Pyelonephritis
+## Pyelonephritis
 
 ### 13-36 What is pyelonephritis?
 
@@ -9289,29 +8196,23 @@ The only accurate way to confirm a urinary tract infection is a positive culture
 
 It is very important to make an accurate diagnosis and not simply send a urine bag sample to the laboratory. A normal urine bag result will exclude a urinary tract infection but a positive result may simply be due to skin or stool contamination. A confirmed diagnosis is also important because it indicates that a series of management steps is required. Treating a presumed urinary tract infection without confirming the diagnosis is bad practice.
 
-It is important to collect a clean specimen of urine to make an accurate diagnosis before starting treatment.
-
-
+> It is important to collect a clean specimen of urine to make an accurate diagnosis before starting treatment.
 
 ### 13-39 How should a urinary tract infection be managed?
 
-Once the urine sample has been collected, a course of antibiotics must be started, usually oral nalidixic acid 10 mg/kg 6 hourly for 7 days in children older than 3 months. 
+1.	Once the urine sample has been collected, a course of antibiotics must be started, usually oral nalidixic acid 10 mg/kg 6 hourly for 7 days in children older than 3 months. 
+1.	In younger infants and any child with a clinical diagnosis of pyelonephritis, intravenous cefuroxime or intramuscular ceftriaxone is indicated.
+1.	All children with a proven urinary tract infection must be referred for investigation. Usually an ultrasound examination is done. Other special investigations may also be needed.
 
-In younger infants and any child with a clinical diagnosis of pyelonephritis, intravenous cefuroxime or intramuscular ceftriaxone is indicated.
-
-All children with a proven urinary tract infection must be referred for investigation. Usually an ultrasound examination is done. Other special investigations may also be needed.
-
-Other bacterial infections
+## Other bacterial infections
 
 ### 13-40 What serious bacterial infections are less common?
 
-Osteitis (bacterial infection of bone)
+*	Osteitis (bacterial infection of bone)
+*	Septic arthritis (bacterial infection of a joint)
+*	Mastoiditis (bacterial infection of the mastoid bone behind the ear)
 
-Septic arthritis (bacterial infection of a joint)
-
-Mastoiditis (bacterial infection of the mastoid bone behind the ear)
-
-Diabetes
+## Diabetes
 
 ### 13-41 What is diabetes?
 
@@ -9319,35 +8220,26 @@ Diabetes is due to inadequate amounts of insulin being produced by the pancreas.
 
 ### 13-42 What are the presenting symptoms and signs of diabetes?
 
-Passing frequent, large amounts of urine (polyuria). The child may start to bed-wet again after being dry for months or years.
-
-Drinking a lot of water
-
-Weight loss and tiredness
-
-Collapse (shock), dehydration, loss of consciousness (diabetic coma) and fast breathing (due to metabolic acidosis). This is a life-threatening emergency.
+*	Passing frequent, large amounts of urine (polyuria). The child may start to bed-wet again after being dry for months or years.
+*	Drinking a lot of water
+*	Weight loss and tiredness
+*	Collapse (shock), dehydration, loss of consciousness (diabetic coma) and fast breathing (due to metabolic acidosis). This is a life-threatening emergency.
 
 The diagnosis of diabetes must be suspected if a very high blood glucose concentration is found, using reagent strips. All children with suspected diabetes must be referred urgently to hospital. An intravenous infusion with normal saline must be started before transferring a child with diabetic coma. Later the clinical diagnosis of diabetes must be confirmed with a glucose tolerance test. Children with diabetes usually need daily injections of insulin for life to control their diabetes.
 
-Diabetes usually presents with tiredness, weight loss and polyuria.
+> Diabetes usually presents with tiredness, weight loss and polyuria.
 
-
-
-Convulsions
+## Convulsions
 
 ### 13-43 What are convulsions?
 
 Convulsions (fits) present with a sudden onset of abnormal movements and an altered level of consciousness due to abnormal brain activity. Convulsions have many different causes and may present in a wide variety of ways. Important causes are:
 
-Epilepsy
-
-High fever
-
-Meningitis
-
-Hypoglycaemia
-
-Cerebral cysticercosis (brain cysts caused by the pig tapeworm)
+*	Epilepsy
+*	High fever
+*	Meningitis
+*	Hypoglycaemia
+*	Cerebral cysticercosis (brain cysts caused by the pig tapeworm)
 
 All children with convulsions must be urgently transferred to hospital for investigation, to establish the cause, and start correct management.
 
@@ -9357,18 +8249,14 @@ Before moving a child with convulsions, make sure the airway is open and give ox
 
 Always look very carefully for the cause and treat this if possible. If a fit last longer than 5 minutes it can be usually be stopped with one of the following:
 
-A single dose of rectal diazepam (Valium) 0.5 mg/kg. Intravenous diazepam may cause apnoea unless given very slowly.
-
-Phenobarbitone 15 mg/kg intravenously or intramuscularly. This is safe.
-
-Phenytoin 15 mg/kg by slow intravenous injection can also be used. Never give phenytoin intramuscularly, as it damages the tissues locally.
+*	A single dose of rectal diazepam (Valium) 0.5 mg/kg. Intravenous diazepam may cause apnoea unless given very slowly.
+*	Phenobarbitone 15 mg/kg intravenously or intramuscularly. This is safe.
+*	Phenytoin 15 mg/kg by slow intravenous injection can also be used. Never give phenytoin intramuscularly, as it damages the tissues locally.
 
 Note
 :	Lorazepam 0.1 mg/kg intravenously is very effective at stopping a convulsion. Buccal midazolam 0.1 to 0.2 mg/kg is also effective.
 
-Any convulsion lasting longer than 5 minutes should be stopped.
-
-
+> Any convulsion lasting longer than 5 minutes should be stopped.
 
 ### 13-45 What are febrile convulsions?
 
@@ -9383,144 +8271,130 @@ Note
 
 Children with epilepsy have repeated generalised convulsions. There is usually no obvious cause, and they are well between convulsions. The diagnosis is usually based on the history. Epilepsy often starts at puberty and can be controlled (prevented) with oral anticonvulsants. All children with epilepsy should be referred to a neurological clinic for assessment and initial management. Long-term management can be supervised from a primary care clinic.
 
-Cancer
+## Cancer
 
 ### 13-47 Are malignancies common in children?
 
 Malignancies (‘cancers’) are not common in children. However, it is important to know the warning symptoms and signs of childhood malignancy as many childhood malignancies are curable if they are diagnosed and treated early.
 
-Malignancy in children often has a good prognosis if diagnosed and treated early.
-
-
+> Malignancy in children often has a good prognosis if diagnosed and treated early.
 
 ### 13-48 What malignancies occur in children?
 
-Leukaemia
-
-Lymphoma
-
-Brain cancer
-
-Kidney cancer (Wilm’s tumour)
+*	Leukaemia
+*	Lymphoma
+*	Brain cancer
+*	Kidney cancer (Wilm’s tumour)
 
 Note
 :	Less common malignancies in children include liver and bone cancer, retinoblastoma (eye), rhabdomyosarcoma (muscle) and germ cell tumours.
 
 ### 13-49 What are the warning signs of malignancy in children?
 
-Pallor and bleeding
-
-Aching bones or joints, especially waking the child at night; backache
-
-Unexplained weight loss, fever or fatigue
-
-Persistent, unexplained lymphadenopathy
-
-Abdominal masses
-
-Lumps in the neck, testes or limbs
-
-Eye changes: white pupil, sudden squint or loss of vision, bulging eyeball
-
-Neurological symptoms or signs: headaches, early morning vomiting, unsteady gait, cranial palsies, change in behaviour
+1.	Pallor and bleeding
+1.	Aching bones or joints, especially waking the child at night; backache
+1.	Unexplained weight loss, fever or fatigue
+1.	Persistent, unexplained lymphadenopathy
+1.	Abdominal masses
+1.	Lumps in the neck, testes or limbs
+1.	Eye changes: white pupil, sudden squint or loss of vision, bulging eyeball
+1.	Neurological symptoms or signs: headaches, early morning vomiting, unsteady gait, cranial palsies, change in behaviour
 
 Children presenting with any of these warning (danger) symptoms or signs must be urgently referred for an expert opinion.
 
-Case study 1
+## Case study 1
 
 A 5-year-old child presents with a fever and a one-week history of pain and swelling of the knees and elbows. Over the past few days the pain has moved from joint to joint. On examination the child is unwell with arthritis of both knees. The heart rate is noted to be 110 beats per minute. A soft murmur is heard when her heart is examined. The heart appears enlarged on a chest X-ray. On questioning the mother says the child had a sore throat a few weeks back.
 
-1. What is your clinical diagnosis?
+### 1. What is your clinical diagnosis?
 
 Acute rheumatic fever. The child has 2 major criteria (polyarthritis and carditis) and one minor criteria (fever). There is also a history of a sore throat.
 
-2. What are the other major criteria?
+### 2. What are the other major criteria?
 
 A rash (erythema marginatum), subcutaneous nodules and chorea. Only 2 major criteria are needed to make the diagnosis of acute rheumatic fever.
 
-3. What is the likely cause of the sore throat?
+### 3. What is the likely cause of the sore throat?
 
 A streptococcal infection.
 
-4. Which signs suggests that this child has carditis?
+### 4. Which signs suggests that this child has carditis?
 
 A heart murmur, tachycardia and enlarged heart.
 
-5. What is the management of acute rheumatic fever?
+### 5. What is the management of acute rheumatic fever?
 
 The child should be referred to hospital. With bed rest, antibiotics (oral amoxycillin for 10 days or a single dose of intramuscular benzythine penicillin) and aspirin the acute rheumatic fever usually recovers within 4 weeks. It is important to look for signs of heart failure.
 
-6. What is the danger of repeated attacks of acute rheumatic fever?
+### 6. What is the danger of repeated attacks of acute rheumatic fever?
 
 It may result in chronic rheumatic heart disease with damaged heart valves. Rheumatic fever is the most common cause of acquired heart disease in poor, overcrowded communities.
 
-7. How can repeated attacks of acute rheumatic fever be prevented?
+### 7. How can repeated attacks of acute rheumatic fever be prevented?
 
 With 4 weekly intramuscular injections of benzathine penicillin.
 
-Case study 2
+## Case study 2
 
 A 3-year-old child has had a swollen face and dark urine for the past 24 hours. There are numerous areas of impetigo on his legs. The mother says he is very short of breath when he lies down.
 
-1. What is the probable diagnosis?
+### 1. What is the probable diagnosis?
 
 Acute glomerulonephritis.
 
-2. Why does he have dark urine and a swollen face.
+### 2. Why does he have dark urine and a swollen face.
 
 The dark urine is probably due to the presence of blood. Haematuria can be confirmed with reagent strips. His swollen face is due to fluid overload as a result of decreased urine production.
 
-3. What is the cause of this condition?
+### 3. What is the cause of this condition?
 
 The streptococcal skin infection (impetigo). This is an unusual immune response to Streptococcus where antibodies damage the kidney.
 
-4. How is this condition prevented?
+### 4. How is this condition prevented?
 
 By preventing or treating impetigo. Usually, local treatment is adequate. An oral antibiotic should be given with widespread impetigo.
 
-5. Why is this child short of breath?
+### 5. Why is this child short of breath?
 
 Due to fluid overload. The most serious complications of acute glomerulonephritis are:
 
-Severe hypertension resulting in encephalopathy
+*	Severe hypertension resulting in encephalopathy
+*	Pulmonary oedema and cardiac failure due to fluid overload
+*	Acute renal failure
 
-Pulmonary oedema and cardiac failure due to fluid overload
-
-Acute renal failure
-
-6. What is the management of the fluid overload?
+### 6. What is the management of the fluid overload?
 
 Reduced fluid intake, a low salt diet and furosemide. These children should be managed in hospital.
 
-Case study 3
+## Case study 3
 
 A severely ill child is brought to the clinic. He has a high temperature without an obvious cause. His heart rate is fast, blood pressure low and hands feel cold. The capillary filling time over the chest is 8 seconds. The nurse notices that he has a fine rash which reminds her of purpura. The child is fully conscious with no neck stiffness.
 
-1. What is the likely diagnosis?
+### 1. What is the likely diagnosis?
 
 The child has the clinical signs of septicaemia.
 
-2. Why is the blood pressure low?
+### 2. Why is the blood pressure low?
 
 The low blood pressure, fast pulse and cold hands, in spite of a fever, indicate that the child is shocked. This is often seen in patients with septicaemia.
 
-3. What does a capillary filling time of 8 seconds mean?
+### 3. What does a capillary filling time of 8 seconds mean?
 
 It is abnormally long, as the pink colour should return to a blanched (pale compressed area) area of skin within 3 seconds. The long capillary filling time confirms that the child is shocked.
 
-4. Why is there a rash?
+### 4. Why is there a rash?
 
 A fine pink or purpuric rash strongly suggests that the septicaemia is due to Meningococcus. This is an extremely serious condition.
 
-5. How is the diagnosis of septicaemia confirmed?
+### 5. How is the diagnosis of septicaemia confirmed?
 
 By finding a positive blood culture.
 
-6. Do you think the child has meningitis?
+### 6. Do you think the child has meningitis?
 
 There are no signs of meningitis. However, meningitis is very common with meningococcal septicaemia.
 
-7. What is the correct management of septicaemia with shock?
+### 7. What is the correct management of septicaemia with shock?
 
 Take a blood culture and start a fast intravenous infusion with normal saline or Ringer’s lactate. Immediately start antibiotics. Benzyl penicillin or ampicillin plus gentamicin or amikacin would be the antibiotic combination of choice. Do not perform a lumbar puncture. The child should be moved to hospital as soon as possible.
 
@@ -9528,35 +8402,26 @@ Take a blood culture and start a fast intravenous infusion with normal saline or
 
 
 
-
-
 14
+{:.chapter-number}
 
-Home and society
+# Home and society
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-List the rights of children.
+*	List the rights of children.
+*	Understand the role of poverty in ill health.
+*	Describe the importance of the social environment.
+*	Recognise and manage child abuse.
+*	Understand the problem of street children.
+*	Discuss the problems of orphans.
+*	Describe normal development.
+*	Identify neurodevelopmental disability.
+*	Manage behaviour and emotional problems.
 
-Understand the role of poverty in ill health.
-
-Describe the importance of the social environment.
-
-Recognise and manage child abuse.
-
-Understand the problem of street children.
-
-Discuss the problems of orphans.
-
-Describe normal development.
-
-Identify neurodevelopmental disability.
-
-Manage behaviour and emotional problems.
-
-Children’s rights
+## Children’s rights
 
 ### 14-1 What are the rights of children?
 
@@ -9564,29 +8429,18 @@ South Africa has agreed to put children first in both it’s constitution and in
 
 Under the South African constitution children have certain rights:
 
-A name and nationality
+*	A name and nationality
+*	Family or parental care (or appropriate care if removed from the family)
+*	Basic nutrition
+*	Shelter
+*	Basic health and social services
+*	Protection from maltreatment, abuse, neglect and exploitation
+*	Legal representation and certain protection from detention
+*	Protection and exclusion from armed conflict
+*	Not to be required or allowed to work or provide services not appropriate for their age
+*	To have access to legal representation
 
-Family or parental care (or appropriate care if removed from the family)
-
-Basic nutrition
-
-Shelter
-
-Basic health and social services
-
-Protection from maltreatment, abuse, neglect and exploitation
-
-Legal representation and certain protection from detention
-
-Protection and exclusion from armed conflict
-
-Not to be required or allowed to work or provide services not appropriate for their age
-
-To have access to legal representation
-
-Children’s rights to survival and healthy development must be respected, promoted and protected.
-
-
+> Children’s rights to survival and healthy development must be respected, promoted and protected.
 
 Note
 :	The United Nations Convention on the Rights of the Child of 1989 defines four principles (non-discrimination, best interests of the child, right to survival and development, and respect for the views of the child); the African Charter on the Rights and Welfare of the Child of 1990 addresses the unique problems of the African child (socio-economic inequality, cultural and traditional barriers to progress, natural disasters, armed conflict, exploitation and hunger, female circumcision, child soldiers, literacy and children of imprisoned mothers) while the South African Constitution and Bill of Rights focus on the rights of children.
@@ -9595,74 +8449,52 @@ Note
 
 The greatest threat to children’s rights is a dysfunctional family. This may be due to:
 
-Excessive demands on the family (illness, death, divorce, natural disaster, poverty, loss of employment, alcoholism, overcrowding, large family, violence and war)
-
-A lack of coping strategies available to the family (education, self-esteem, income, parenting skills, cultural beliefs, housing, friends, schools, safe neighbourhood, health and social services)
+*	Excessive demands on the family (illness, death, divorce, natural disaster, poverty, loss of employment, alcoholism, overcrowding, large family, violence and war)
+*	A lack of coping strategies available to the family (education, self-esteem, income, parenting skills, cultural beliefs, housing, friends, schools, safe neighbourhood, health and social services)
 
 Infants and young children are totally dependent on their mothers or caregivers. Their family and social environment also have a huge influence on their wellbeing.
 
 Note
 :	A rights-based approach to health focuses on the whole child and the creation of an environment which promotes the realisation of these rights. It implies duties and implications by the family, community and the state.
 
-Poverty
+## Poverty
 
 ### 14-3 What is the role of poverty in child health?
 
 Poverty, inequity, ignorance and neglect remain the main causes of ill health in children in many low resource countries. Poverty is the single most negative influence on children. Therefore, removing poverty is the most effective way of improving the survival and the quality of life of children All governments must strive to reduce poverty. In many countries, grants are available to poor families.
 
-Poverty places children at risk.
-
-
+> Poverty places children at risk.
 
 ### 14-4 Why does poverty place children at risk?
 
-The percentage of low birth weight is high.
+*	The percentage of low birth weight is high.
+*	Teenage and unmarried mothers are common.
+*	Poor infrastructure and services – overcrowding, no clean water or safe sanitation, inadequate housing, poor hygiene
+*	High levels of stress and threat of violence
+*	Poor maternal education and skills training
+*	High level of rural-to-urban migration
+*	No financial security, with high levels of unemployment
+*	General disempowerment of women
+*	Malnutrition is common.
+*	Poor access to health care
+*	General feelings of helplessness, hopelessness and depression
+*	Alcoholism and prostitution are common.
 
-Teenage and unmarried mothers are common.
-
-Poor infrastructure and services – overcrowding, no clean water or safe sanitation, inadequate housing, poor hygiene
-
-High levels of stress and threat of violence
-
-Poor maternal education and skills training
-
-High level of rural-to-urban migration
-
-No financial security, with high levels of unemployment
-
-General disempowerment of women
-
-Malnutrition is common.
-
-Poor access to health care
-
-General feelings of helplessness, hopelessness and depression
-
-Alcoholism and prostitution are common.
-
-Female education and empowerment of women improve the lives of children living in poverty.
-
-
+> Female education and empowerment of women improve the lives of children living in poverty.
 
 ### 14-5 What political factors play a role in poverty?
 
 Inappropriate state expenditure (e.g. arms instead of housing), policies (e.g. neglecting rural and slum areas) and strategies (e.g. building expensive hospitals without adequate staffing). Corruption, lack of vision and insight, and no political will to make the changes needed. War, civil strife and refugees remain a reality in many poor countries. We know what the problems are and how to correct them; the challenge is to make the changes needed in poor communities. Migration and urbanization lead to the breaking up of families and communities.
 
-We know what the problems are and how to correct them; the challenge is to make the changes needed in poor communities.
-
-
+> We know what the problems are and how to correct them; the challenge is to make the changes needed in poor communities.
 
 ### 14-6 What can health workers do to help obtain social grants for children?
 
-Know what grants are available to children, which children are eligible for grants, and the process of obtaining child grants.
-
-Identify children who are eligible for grants.
-
-Inform parents or caregivers about available grants.
-
-Help with the process of applying for grants by referring parents or caregivers to the social security department and by getting medical reports completed.
-
-As most grants are targeted at poor families an income means test will be needed.
+1.	Know what grants are available to children, which children are eligible for grants, and the process of obtaining child grants.
+1.	Identify children who are eligible for grants.
+1.	Inform parents or caregivers about available grants.
+1.	Help with the process of applying for grants by referring parents or caregivers to the social security department and by getting medical reports completed.
+1.	As most grants are targeted at poor families an income means test will be needed.
 
 In South Africa applications must be submitted through special social workers in the Department of Social Security and Population Development. Applications may need a medical certificate and processing through the Children’s Court.
 
@@ -9675,91 +8507,72 @@ There are a number of state grants aimed at supporting poor families, families o
 
 In South Africa the following grants are available:
 
-Child support grant: For children in very poor homes
+1.	Child support grant: For children in very poor homes
 
-Note
-:	For children under 14 years with a caregiver over 18 years and a monthly household income under R800 (rural) or R11000 (urban).
+	Note
+	:	For children under 14 years with a caregiver over 18 years and a monthly household income under R800 (rural) or R11000 (urban).
 
 2.	Care dependency grant: For the support of families of children with permanent handicaps
 
-Note
-:	For children aged 2 to 18 years with a severe handicap and an annual family income below R 48 000.
+	Note
+	:	For children aged 2 to 18 years with a severe handicap and an annual family income below R 48 000.
 
 3.	Foster care grant: To assist foster families of a child in need
 
-Note
-:	For children under 18 years who live with, and are cared for by, a foster family. Requires a court order.
+	Note
+	:	For children under 18 years who live with, and are cared for by, a foster family. Requires a court order.
 
 4.	Social relief grant: An immediate short-term grant for children and families during a crisis situation (e.g. death of the breadwinner)
 
-Note
-:	Usually food parcels or a small financial grant while other grant applications are being processed.
+	Note
+	:	Usually food parcels or a small financial grant while other grant applications are being processed.
 
 The types of grants and schemes to reduce poverty in South Africa are being rapidly expanded.
 
-Social environment
+## Social environment
 
 ### 14-8 What home environmental factors can affect a child’s health?
 
-A home environment without adequate love, care and nutrition has a major effect on the health of children. Basic warmth, protection, clothing and food are essential.
-
-Smoke due to a family member smoking cigarettes or a fire inside the house is detrimental to health. The risk of cot death is increased if a parent smokes while respiratory illnesses, especially asthma, are aggravated by smoke.
-
-Clean water and adequate toilet facilities are essential to prevent diarrhea and other infectious diseases.
-
-The correct preparation of food under clean conditions is important. Milk formula must be mixed correctly under hygienic conditions.
-
-It is important to protect children from insects such as fleas, mosquitoes, flies and ticks which can spread disease.
-
-The education level of the mother is very important. Mothers with little formal education are more likely to have children with malnutrition or illness.
-
-Television. In well resourced countries obesity is closely associated with watching too much TV and too little physical exercise. Violence on TV may result in emotional and behaviour problems.
+*	A home environment without adequate love, care and nutrition has a major effect on the health of children. Basic warmth, protection, clothing and food are essential.
+*	Smoke due to a family member smoking cigarettes or a fire inside the house is detrimental to health. The risk of cot death is increased if a parent smokes while respiratory illnesses, especially asthma, are aggravated by smoke.
+*	Clean water and adequate toilet facilities are essential to prevent diarrhea and other infectious diseases.
+*	The correct preparation of food under clean conditions is important. Milk formula must be mixed correctly under hygienic conditions.
+*	It is important to protect children from insects such as fleas, mosquitoes, flies and ticks which can spread disease.
+*	The education level of the mother is very important. Mothers with little formal education are more likely to have children with malnutrition or illness.
+*	Television. In well resourced countries obesity is closely associated with watching too much TV and too little physical exercise. Violence on TV may result in emotional and behaviour problems.
 
 ### 14-9 What environmental factors outside the home can affect a child’s wellbeing?
 
-School
-
-Crime
-
-Drugs
-
-War
+*	School
+*	Crime
+*	Drugs
+*	War
 
 ### 14-10 When do children not have access to health care?
 
-Despite free health care for preschool children in South Africa, children are often unable to access health care because of inadequate services, especially in rural areas where there is often a severe lack of health care facilities, staff, medication and transport.
+*	Despite free health care for preschool children in South Africa, children are often unable to access health care because of inadequate services, especially in rural areas where there is often a severe lack of health care facilities, staff, medication and transport.
+*	Poor knowledge by parents of the rights and needs of children. Parents may not take their children for immunisations and regular weight checks. They may even not take them for help when they become ill.
+*	Health services at school are often inadequate and feeding schemes may not function.
 
-Poor knowledge by parents of the rights and needs of children. Parents may not take their children for immunisations and regular weight checks. They may even not take them for help when they become ill.
-
-Health services at school are often inadequate and feeding schemes may not function.
-
-Child abuse
+## Child abuse
 
 ### 14-11 What is child abuse?
 
 This is the purposeful maltreatment of a child with the aim of causing harm or injury. The child is always the innocent party. Abuse is usually by a family member, guardian or child minder. Child abuse is most common in children under the age of 5 years. The younger the child the greater is the risk of severe injury or death.
 
-Child abuse is the intentional harm or injury of a child.
-
-
+> Child abuse is the intentional harm or injury of a child.
 
 ### 14-12 What are the forms of child abuse?
 
 Abuse may be physical, emotional or sexual and takes many forms which often overlap with each other:
 
-Physical abuse (non-accidental injury): Intentionally causing a child physical harm. Physical abuse is identified by examining the child.
-
-Emotional abuse: Repeated blaming, shouting or verbally rejecting a child. This is often subtle and difficult to prove.
-
-Sexual abuse: Using a child for personal sexual gratification, e.g. fondling, voyeurism and exhibitionism, child pornography, masturbation or intercourse (vaginal, anal or oral penetration). The recognition of sexual abuse is often dependent on what the child says as sexual abuse often leaves no physical signs.
-
-Failure to thrive: Due to willful neglect and withholding food and care. Lack of love can also result in poor growth.
-
-Intentional overdosage or poisoning: purposely giving a child excess medication or a known poison.
-
-Medical neglect: The child is intentionally not taken for treatment when obviously ill.
-
-Safety neglect: Not keeping the child away from dangerous situations.
+*	Physical abuse (non-accidental injury): Intentionally causing a child physical harm. Physical abuse is identified by examining the child.
+*	Emotional abuse: Repeated blaming, shouting or verbally rejecting a child. This is often subtle and difficult to prove.
+*	Sexual abuse: Using a child for personal sexual gratification, e.g. fondling, voyeurism and exhibitionism, child pornography, masturbation or intercourse (vaginal, anal or oral penetration). The recognition of sexual abuse is often dependent on what the child says as sexual abuse often leaves no physical signs.
+*	Failure to thrive: Due to willful neglect and withholding food and care. Lack of love can also result in poor growth.
+*	Intentional overdosage or poisoning: purposely giving a child excess medication or a known poison.
+*	Medical neglect: The child is intentionally not taken for treatment when obviously ill.
+*	Safety neglect: Not keeping the child away from dangerous situations.
 
 Note
 :	Sexual abuse occurs in a relationship where there is an imbalance of power between the child and the abuser. The child either does not consent or understand what is occurring.
@@ -9768,49 +8581,32 @@ Note
 
 The most important step in making the correct diagnosis is to consider abuse. Abuse should always be thought of if any of the following occur:
 
-If the story does not explain the nature or degree of the injury
+*	If the story does not explain the nature or degree of the injury
+*	If the story is vague or keeps changing
+*	If the child reports or hints at abuse
+*	A delay in seeking medical help
+*	Repeated or multiple injuries
+*	Any unusual type of injury
+*	An inappropriate emotional state or behaviour of the parents or child
+*	Pregnancy or a sexually transmitted infection in a child under 16 years
 
-If the story is vague or keeps changing
-
-If the child reports or hints at abuse
-
-A delay in seeking medical help
-
-Repeated or multiple injuries
-
-Any unusual type of injury
-
-An inappropriate emotional state or behaviour of the parents or child
-
-Pregnancy or a sexually transmitted infection in a child under 16 years
-
-The most important sign of abuse is a history that does not adequately explain the degree or nature of the injury.
-
-
+> The most important sign of abuse is a history that does not adequately explain the degree or nature of the injury.
 
 Unfortunately, the diagnosis of child abuse is often missed as it is not considered. Almost half of all abused children do not have physical injuries.
 
-The most important step in the diagnosis is to consider child abuse.
-
-
+> The most important step in the diagnosis is to consider child abuse.
 
 ### 14-14 What are the clinical signs of physical abuse in children?
 
 Child abuse often presents with:
 
-Bruises of different ages (some fresh and others already discoloured)
-
-Bruises with a particular distribution (on the back and back of legs)
-
-Bruises with a particular pattern (hand, buckle, or tram line due to a stick)
-
-Cigarette burns
-
-Burns of the buttocks or perineum
-
-Burns on the hands and feet
-
-Any injuries in the mouth
+*	Bruises of different ages (some fresh and others already discoloured)
+*	Bruises with a particular distribution (on the back and back of legs)
+*	Bruises with a particular pattern (hand, buckle, or tram line due to a stick)
+*	Cigarette burns
+*	Burns of the buttocks or perineum
+*	Burns on the hands and feet
+*	Any injuries in the mouth
 
 An X-ray examination may show multiple injuries of different ages, e.g. new and old rib fractures.
 
@@ -9818,13 +8614,10 @@ An X-ray examination may show multiple injuries of different ages, e.g. new and 
 
 Sexual abuse may present with:
 
-Inappropriate emotional behaviour (withdrawal, separation anxiety, depression, poor school work, avoiding school)
-
-Inappropriate sexual behaviour
-
-Vaginal discharge
-
-Injuries to the vulva, anus or penis (tears, bruises, tenderness, redness, scars)
+*	Inappropriate emotional behaviour (withdrawal, separation anxiety, depression, poor school work, avoiding school)
+*	Inappropriate sexual behaviour
+*	Vaginal discharge
+*	Injuries to the vulva, anus or penis (tears, bruises, tenderness, redness, scars)
 
 Often there are no obvious clinical signs. A family member may report the abuse.
 
@@ -9835,9 +8628,7 @@ Note
 
 Adults who abuse children were often abused themselves as children. Child abuse is usually a family problem. Poverty, inadequate family and social support, alcoholism, unemployment and mental illness are risk factors for child abuse.
 
-Child abusers were often abused themselves as children.
-
-
+> Child abusers were often abused themselves as children.
 
 Physical abuse usually involves a stressed parent or caregiver, a vulnerable child, and a precipitating crisis.
 
@@ -9847,17 +8638,12 @@ Sexual abuse usually occurs when there is inadequate supervision of a child and 
 
 Abuse is best managed by a multi-disciplinary team who have experience with caring for abused children. Always be kind and gentle with the child, and handle the parents with support and understanding. Be non-judgemental and non-threatening as being accused of child abuse is always emotionally threatening. Stay calm and do not become aggressive with the parents. It is often very difficult to tell with certainty whether a child is or is not being abused.
 
-A careful history from the child and family is important. Children rarely lie about abuse.
-
-A full examination looking especially for unusual or unexplained injuries. The examination must not be traumatic for the child. Look for signs of malnutrition or neglect. Has the child been drinking alcohol?
-
-All past and present injuries must be carefully documented. Make good notes as they may be used in court. Always date and sign your notes.
-
-Provide any immediate physical or emotional treatment needed.
-
-Always consider the safety of the child. You may have to remove the child to a safe place until the investigation of child abuse is completed. Never allow a child to be taken home if you suspect that the abuse will be repeated. The safety and interests of the child must always come first.
-
-If at all possible the child and parents should be seen urgently by someone who has had special training in the management of child abuse. Many big hospitals have a child abuse team. If this is not possible, contact an experienced person immediately.
+1.	A careful history from the child and family is important. Children rarely lie about abuse.
+1.	A full examination looking especially for unusual or unexplained injuries. The examination must not be traumatic for the child. Look for signs of malnutrition or neglect. Has the child been drinking alcohol?
+1.	All past and present injuries must be carefully documented. Make good notes as they may be used in court. Always date and sign your notes.
+1.	Provide any immediate physical or emotional treatment needed.
+1.	Always consider the safety of the child. You may have to remove the child to a safe place until the investigation of child abuse is completed. Never allow a child to be taken home if you suspect that the abuse will be repeated. The safety and interests of the child must always come first.
+1.	If at all possible the child and parents should be seen urgently by someone who has had special training in the management of child abuse. Many big hospitals have a child abuse team. If this is not possible, contact an experienced person immediately.
 
 Note
 :	Always examine the fundi of the eyes for retinal haemorrhages which are important indicators of physical abuse.
@@ -9866,9 +8652,7 @@ Note
 
 Health workers have a specific responsibility to inform the authorities if a case of child abuse is suspected. Notify the police, a social worker or child welfare officer immediately.
 
-All cases of suspected child abuse must be notified to the authorities immediately.
-
-
+> All cases of suspected child abuse must be notified to the authorities immediately.
 
 Note
 :	The Child Care Amendment Act 96 of 1996 in South Africa states that any person who suspects that a child is being maltreated or deliberately injured must immediately notify the authorities.
@@ -9879,37 +8663,31 @@ The repair and reconstruction of the family, if this is possible.
 
 ### 14-20 How should a child be managed if sexual abuse is suspected?
 
-An examination of the anus and genital must be done only once. Younger children can be held on the mother’s lap with their legs pulled up to expose the genitalia. Older child are best examined in the lateral position, never in the knee–chest position which is often used by abusers. This examination is usually not urgent. All signs of sexual interference (bruising, tears, swelling or scarring) will be at or external to the hymen. Therefore, an internal digital examination should not be done. However, a vaginal examination may be needed under a general anaesthetic if there is severe trauma. Describe the shape and appearance of the hymen. The findings must be carefully documented. Swabs must be taken for culture.
+1.	An examination of the anus and genital must be done only once. Younger children can be held on the mother’s lap with their legs pulled up to expose the genitalia. Older child are best examined in the lateral position, never in the knee–chest position which is often used by abusers. This examination is usually not urgent. All signs of sexual interference (bruising, tears, swelling or scarring) will be at or external to the hymen. Therefore, an internal digital examination should not be done. However, a vaginal examination may be needed under a general anaesthetic if there is severe trauma. Describe the shape and appearance of the hymen. The findings must be carefully documented. Swabs must be taken for culture.
 
-Note
-:	A special Crime Kit to collect semen samples is available if the sexual abuse has taken place in the past 4 days.
+	Note
+	:	A special Crime Kit to collect semen samples is available if the sexual abuse has taken place in the past 4 days.
 
 2.	Take blood for VDRL and HIV screen.
-
 3.	Consider prophylaxis for syphilis, Chlamydia, gonorrhoea, Trichomonas, Gardnerella and HIV.
-
 4.	Prescribe pregnancy prophylaxis within 72 hours of rape in girls who have already started menstruating.
-
 5.	Debrief and counsel to prevent post-traumatic stress disorder.
 
 Note
 :	Cefotaxime IMI once, metronidazole (Flagyl) for 7 days and erythromycin for 10 days to prevent most sexually transmitted infections. AZT and 3TC for 28 days for HIV prophylaxis.
 
-Street children
+## Street children
 
 ### 14-21 What are street children?
 
 These are children under 16 years of age who live on the street. True street children have little or no contact with their family. The street is their home. They find shelter, food, security and friends on the street. True street children should not be confused with children who make a living on the street after school but return to their family and home at night.
 
-Street children have left their home and family to make a new life on the street.
-
-
+> Street children have left their home and family to make a new life on the street.
 
 ### 14-22 How do street children get onto the street?
 
-Some are ‘throw-away’ children who are orphaned or abandoned. They are forced out of their homes.
-
-Others are runaway children who have escaped an abnormal home environment of poverty, cruelty, neglect and exploitation. Some leave home so that they do not have to attend school.
+*	Some are ‘throw-away’ children who are orphaned or abandoned. They are forced out of their homes.
+*	Others are runaway children who have escaped an abnormal home environment of poverty, cruelty, neglect and exploitation. Some leave home so that they do not have to attend school.
 
 Street children seek the freedom to find a better place to live. It is expected that the number of street children will increase dramatically as more and more families are affected by HIV.
 
@@ -9919,29 +8697,22 @@ They beg, scavenge, undertake simple tasks (e.g. cleaning car windscreens), stea
 
 Street children often suffer from malnutrition, poor hygiene, infections, trauma and sexually transmitted infections. Most have severe emotional and psychological problems due to the reasons behind leaving home as well as their experiences on the street.
 
-Street children have many physical and emotional problems.
-
-
+> Street children have many physical and emotional problems.
 
 ### 14-24 How should the problem of street children be managed?
 
 Street children have the same rights and needs as other children. There are many programmes to help street children:
 
-Some help with basic needs such as food, clothing and safe shelter.
-
-Others provide basic services such as medical care, schooling, counselling and sport facilities.
-
-A few comprehensive programmes attempt to meet all the needs of street children and rehabilitate them back into society.
-
-Preventative programmes address the reasons why children leave home (e.g. life skills and parenting training).
+*	Some help with basic needs such as food, clothing and safe shelter.
+*	Others provide basic services such as medical care, schooling, counselling and sport facilities.
+*	A few comprehensive programmes attempt to meet all the needs of street children and rehabilitate them back into society.
+*	Preventative programmes address the reasons why children leave home (e.g. life skills and parenting training).
 
 It would be far better for citizens to contribute to one of the agencies which assist street children rather than giving money directly to these children. Giving food and money at street corners only encourages them to beg. Street children are often used and abused by older people to collect money.
 
-Street children should be integrated back into society.
+> Street children should be integrated back into society.
 
-
-
-Orphans
+## Orphans
 
 ### 14-25 What are orphans?
 
@@ -9957,29 +8728,23 @@ Parents are a child’s first line of protection and guidance. Therefore, childr
 
 Being separated from parents by death, war or social breakdown is detrimental to a child’s development and general wellbeing. Many of these children are uneducated, unhealthy and impoverished.
 
-Orphans are at an increased risk of deprivation and abuse.
-
-
+> Orphans are at an increased risk of deprivation and abuse.
 
 ### 14-28 What can be done to help orphans?
 
 Every effort must be made to help and protect these children. They have the same physical and emotional needs as other children. Whenever possible they should remain in their extended families or within their broader society. The state must provide the financial support to make this possible. Only as a last resort should they be placed in orphanages. It is better if they can be fostered or adopted so that they can be part of a family.
 
-Every effort must be made to care for orphans in their own family and community.
-
-
+> Every effort must be made to care for orphans in their own family and community.
 
 Children who are cared for outside their own family and community soon lose their family ties and sense of identity. This can be severely damaging emotionally.
 
-developmental screening
+## Developmental screening
 
 ### 14-29 What is normal neurological development?
 
 From birth to adulthood, children both grow and develop. Normal development follows a standard orderly sequence of events which can be measured. Along the path of development are critical stages called ‘milestones’. Milestones are important developmental achievements such as standing and talking. Determining the child’s milestones allows for an assessment of whether development is normal or not. Milestones are determined both from the history and examination.
 
-Milestones are critical developmental achievements.
-
-
+> Milestones are critical developmental achievements.
 
 ### 14-30 Do all normal children reach the same milestones at the same age?
 
@@ -9991,61 +8756,45 @@ Many tests are available to decide whether a child’s development is within the
 
 Basic developmental screening is part of normal primary health care. In infants born preterm, their postnatal age should be corrected for the number of weeks that they were born early. Therefore, a one month old infant born at 36 weeks gestation should behave like a full term infant.
 
-All children should have basic developmental screening.
-
-
+> All children should have basic developmental screening.
 
 ### 14-32 What areas of development should be assessed?
 
 Developmental assessment looks at the following areas:
 
-Gross motor
-
-Fine motor
-
-Language and communication (vision and hearing)
-
-Social interaction
+*	Gross motor
+*	Fine motor
+*	Language and communication (vision and hearing)
+*	Social interaction
 
 ### 14-33 What are the common milestones in gross motor development?
 
-Smiling socially by 6 weeks
-
-Sitting without support by 6 months
-
-Pulling to a standing position by 9 months
-
-Walking with help by 12 months
-
-Walking well by 18 months
+1.	Smiling socially by 6 weeks
+1.	Sitting without support by 6 months
+1.	Pulling to a standing position by 9 months
+1.	Walking with help by 12 months
+1.	Walking well by 18 months
 
 ### 14-34 When do children develop fine motor skills?
 
-The newborn infant will grasp anything placed in the hand.
-
-By 6 months an object will be passed from hand to hand.
-
-By 12 months a child should pick up small objects in a pincer grip between thumb and index finger.
-
-By 18 months they should be able to build a tower with 3 blocks.
+1.	The newborn infant will grasp anything placed in the hand.
+1.	By 6 months an object will be passed from hand to hand.
+1.	By 12 months a child should pick up small objects in a pincer grip between thumb and index finger.
+1.	By 18 months they should be able to build a tower with 3 blocks.
 
 ### 14-35 Which children are at high risk of developmental delay?
 
-Very low birth weight (less than 1500 g at birth) or very preterm (fewer than 32 weeks’ gestation) infants
-
-Infants with severe perinatal complications (e.g. severe foetal growth restriction, foetal distress in labour, need for prolonged resuscitation at birth)
-
-Children with meningitis, cerebral bleeds or brain trauma
-
-Children with birth defects that affect the brain
-
-Children from emotionally-deprived homes
+*	Very low birth weight (less than 1500 g at birth) or very preterm (fewer than 32 weeks’ gestation) infants
+*	Infants with severe perinatal complications (e.g. severe foetal growth restriction, foetal distress in labour, need for prolonged resuscitation at birth)
+*	Children with meningitis, cerebral bleeds or brain trauma
+*	Children with birth defects that affect the brain
+*	Children from emotionally-deprived homes
 
 ### 14-36 What should be done if a child has developmental delay?
 
 The child should be referred to a developmental clinic for assessment by a multi-disciplinary team. Do not simply advise the parents that the child will outgrow the problems. Causes of any developmental delay should be looked for and corrected if possible. It may be necessary to test the child’s sight and hearing. An interview with a social worker may be needed to exclude emotional or social problems at home or school. Children with developmental delay may be found to have a neurodevelopmental disability.
 
-Neurodevelopmental disability
+## Neurodevelopmental disability
 
 ### 14-37 What is disability?
 
@@ -10059,11 +8808,9 @@ By measuring the intelligence quotient (IQ). Children without intellectual disab
 
 Intellectual disability can be divided into 4 grades based on intelligence quotients (or developmental quotients):
 
-Mild disability (IQ 50–74). Common in disadvantaged communities with poverty, malnutrition, neglect and few educational opportunities. These children can usually remain in mainstream education.
-
-Moderate disability (IQ 35–49). They need special schooling.
-
-Severe (IQ 20–34) and profound disability (IQ less than 20). They require constant supervision and are dependent on others for their daily needs.
+*	Mild disability (IQ 50–74). Common in disadvantaged communities with poverty, malnutrition, neglect and few educational opportunities. These children can usually remain in mainstream education.
+*	Moderate disability (IQ 35–49). They need special schooling.
+*	Severe (IQ 20–34) and profound disability (IQ less than 20). They require constant supervision and are dependent on others for their daily needs.
 
 Moderate and severe intellectual disability are usually due to brain damage.
 
@@ -10071,9 +8818,7 @@ Moderate and severe intellectual disability are usually due to brain damage.
 
 A non-progressive motor disorder with abnormalities in tone, movement and posture. It is caused by damage to the immature, developing brain (before birth or in infancy). This is the most common cause of motor disability in children. There are a number of different types of cerebral palsy and part or all of the body may be effected. The most common is spastic cerebral palsy which may present as hemiplegia (weakness on one side of the body only), diplegia (legs affected more than arms) and quadriplegia (all limbs affected). Children with cerebral palsy may also have fits, learning difficulties, visual, hearing or speech problems. Spastic cerebral palsy is usually due to hypoxic damage during labour and delivery.
 
-Cerebral palsy is a non progressive motor disorder involving tone, movements and posture.
-
-
+> Cerebral palsy is a non progressive motor disorder involving tone, movements and posture.
 
 Note
 :	Children with cerebral palsy may also be hypotonic (floppy) or athetoid (abnormal tone and movements).
@@ -10082,35 +8827,26 @@ Note
 
 Children with cerebral palsy must be referred for assessment and management by a multi-disciplinary team. Physiotherapy and occupational therapy are very helpful. The family often need support and financial help through a state grant. The involvement and co-operation of the family and community is very important. These children may be intellectually normal. If at all possible they should be cared for at home with the family and not institutionalised.
 
-Behaviour and emotional problems
+## Behaviour and emotional problems
 
 ### 14-42 What problems are common in young children?
 
-Sleeping difficulties
-
-Head banging
-
-Breath-holding attacks
-
-Faecal soiling
+*	Sleeping difficulties
+*	Head banging
+*	Breath-holding attacks
+*	Faecal soiling
 
 Most of these problems get better with time. Parents need understanding, support and advice. Refer the child if the problem does not disappear.
 
 ### 14-43 What problems are seen in older children?
 
-Attention deficit disorder
-
-Anxiety and fears
-
-Learning difficulties
-
-Eating disorders
-
-Depression
-
-Antisocial behaviour
-
-Substance abuse
+*	Attention deficit disorder
+*	Anxiety and fears
+*	Learning difficulties
+*	Eating disorders
+*	Depression
+*	Antisocial behaviour
+*	Substance abuse
 
 Most of these problems need the help of experts and therefore these children should be referred.
 
@@ -10125,119 +8861,119 @@ These children need early diagnosis and educational help. The parents need to un
 Note
 :	Some, but not all, school children with attention deficit disorder respond dramatically to methylphenidate (Ritalin) taken after breakfast on school days. Recent findings suggest that the medication should be taken both during school days and holidays.
 
-Case study 1
+## Case study 1
 
 A very underweight child is brought to the local urban clinic by his mother who is unemployed. The mother has had little school education and relies on her boyfriend for food and shelter. Her boyfriend drinks heavily and abuses her. Unfortunately her family are far away in a rural village. The clinic nurse criticizes her for not feeding her child adequately and for not bringing him to the clinic regularly.
 
-1. What is the main problem facing this mother and child?
+### 1. What is the main problem facing this mother and child?
 
 Poverty.
 
-2. Why is the mother in this situation?
+### 2. Why is the mother in this situation?
 
 She is unemployed and has had very little formal education. Therefore she has to rely on an abusive boyfriend for food and shelter, both for herself and her child.
 
-3. Why does she not seek employment?
+### 3. Why does she not seek employment?
 
 She has no social support as her family are far away. She probably came to town looking for work, but she has little education and few work skills. Who would she leave the child with if she went to look for employment? This is a very common scenario in many poor countries which results in childhood malnutrition, ill health and delayed growth and development.
 
-4. What do you think of the attitude of the nurse?
+### 4. What do you think of the attitude of the nurse?
 
 This will not encourage the mother to bring her child to the clinic in future. This woman needs help, advice, understanding and support.
 
-5. What can be done to help her?
+### 5. What can be done to help her?
 
 Her problem is not easily answered. Referral to a social worker would be helpful. Social grants are available for children in need.
 
-6. What are this child’s rights?
+### 6. What are this child’s rights?
 
 All children have a right to basic shelter, care and nutrition. They also have a right to basic health and social services.
 
-Case study 2
+## Case study 2
 
 A 2-year-old child is brought to a casualty department in the early hours of the morning. The parents give a vague story of the child falling off the bed. The parents are obviously drunk. On examination the child has bruises all over her body and a cigarette burn on the abdomen. Some bruises are fresh and others are old. A skeletal survey shows both recent and old fractures of the ribs. The medical officer shouts at the parents and phones the police from a busy waiting room.
 
-1. Why would you suspect child abuse from the history?
+### 1. Why would you suspect child abuse from the history?
 
 Because the history does not adequately explain the bruises all over the body. The fact that the child was brought to hospital so late at night and that the parents were drunk is also very suspicious.
 
-2. Does the examination confirm your suspicions?
+### 2. Does the examination confirm your suspicions?
 
 Yes. Both bruises of different ages and a cigarette burn are very strong evidence for abuse.
 
-3. Are the X-ray findings typical of child abuse?
+### 3. Are the X-ray findings typical of child abuse?
 
 Yes. Multiple injuries of different ages are typical. It would be most unusual for a non-abused child to have rib fractures that occurred on more than one occasion.
 
-4. What was wrong with the doctor’s actions?
+### 4. What was wrong with the doctor’s actions?
 
 It is very difficult to stay calm when you know that a child has been abused. However, it is important to behave in a professional manner. The authorities must be informed, but it is not appropriate to shout at the parents and discuss the child in a public place.
 
-5. What would be the correct management of this child?
+### 5. What would be the correct management of this child?
 
 The child must not be allowed to return home as the abuse may be repeated. The parents need to be told of the suspected diagnosis and that the authorities have to be informed. If possible an abuse team should be notified. Very careful notes must be written to document the history and clinical findings.
 
-6. Why do some parents abuse their children?
+### 6. Why do some parents abuse their children?
 
 They were often abused themselves as children. Abuse is more common in a social background of poverty, poor education, a lack of emotional support, and alcoholism.
 
-7. How should the child’s genitalia be examined if sexual abuse was suspected?
+### 7. How should the child’s genitalia be examined if sexual abuse was suspected?
 
 Children must not be hurt or frightened. It is best to examine young children on their mother’s lap. Inspection of the vulva and anus is usually all that is needed. A digital internal examination should not be done.
 
-Case study 3
+## Case study 3
 
 A child of 8 years is brought to a general practitioner following physical abuse by older boys. He has been living on the street for the past 6 months following the death of his mother and then his father. He does not know why they died.
 
-1. How do children get onto the street?
+### 1. How do children get onto the street?
 
 Like this child, they may be orphaned. However, they may also be abandoned by their parents or run away from home.
 
-2. What problems are common in street children?
+### 2. What problems are common in street children?
 
 They commonly suffer from malnutrition, poor hygiene, infections, trauma and sexually transmitted infections. They may also abuse drugs. Most have severe emotional and psychological problems due to their experiences on the street.
 
-3. What is the aim of managing a street child?
+### 3. What is the aim of managing a street child?
 
 To integrate the child back into society and, thereby, avoid all the risks of living on the street.
 
-4. What should the general practitioner do to help this child?
+### 4. What should the general practitioner do to help this child?
 
 Contact the local social services.
 
-5. Where is the best place for orphaned children?
+### 5. Where is the best place for orphaned children?
 
 In their extended families, e.g. with a grandmother. If this is not possible, every effort should be made to get these children cared for in the community where they lived before losing their parents.
 
-6. What factor explains many of the recently orphaned children in South Africa?
+### 6. What factor explains many of the recently orphaned children in South Africa?
 
 AIDS.
 
-Case study 4
+## Case study 4
 
 Parents bring a 1-year-old child to hospital because he is still unable to sit without support. They recognize that his development has been slower than that of their other children. On examination it is noted that the tone in his legs is much greater than that in his arms. He appears generally well. The mother says that he was very small at birth and had a gestational age of only 35 weeks. He remained in hospital for 3 months.
 
-1. Should the parents be concerned about his slow development?
+### 1. Should the parents be concerned about his slow development?
 
 Yes. Most children are sitting without help by 6 months. One year is very late not to be sitting yet. Even with correction for his prematurity (10 weeks), he is developing very slowly.
 
-2. Why do you think this child is developing slowly?
+### 2. Why do you think this child is developing slowly?
 
 The increased tone in his legs suggests that he has spastic diplegia. This is a form of cerebral palsy that is typically seen in infants that were very low birth weight or preterm. The history indicates that he was born preterm and needed a long stay in hospital.
 
-3. How can you tell whether this child also has intellectual disability?
+### 3. How can you tell whether this child also has intellectual disability?
 
 He needs special tests to assess all aspects of development.
 
-4. What areas of neurodevelopment should be assessed?
+### 4. What areas of neurodevelopment should be assessed?
 
 Gross motor, fine motor, language and communication (including vision and hearing) and social interaction. Neurodevelopment is best assessed by a multidisciplinary team.
 
-5. Could the diagnosis have been made earlier?
+### 5. Could the diagnosis have been made earlier?
 
 Yes. Cerebral palsy can usually be detected by screening all children at regular intervals as part of primary care.
 
-6. Can this child be helped?
+### 6. Can this child be helped?
 
 He needs physiotherapy. The parents also need to be counselled about the cause, the management and the prognosis. It is very important to work with the parents.
 
@@ -10245,35 +8981,28 @@ He needs physiotherapy. The parents also need to be counselled about the cause, 
 
 
 
-
-
 15
+{:.chapter-number}
 
-Childhood mortality
+# Childhood mortality
 
 ## Objectives
 
 When you have completed this chapter you should be able to:
 
-Calculate the under-5 mortality rate.
+*	Calculate the under-5 mortality rate.
+*	Understand the importance of knowing local mortality rates.
+*	Manage a mortality meeting.
+*	List common causes of under-5 mortality.
+*	Identify important modifiable factors.
 
-Understand the importance of knowing local mortality rates.
-
-Manage a mortality meeting.
-
-List common causes of under-5 mortality.
-
-Identify important modifiable factors.
-
-Introduction
+## Introduction
 
 ### 15-1 How are deaths during childhood counted?
 
 The most common way of recording the number of deaths during childhood is to count the number of children who die before the age of 5 years, therefore children who are born alive but die before their fifth birthday will be counted as under-5 deaths but children who die on or after their fifth birthday will not be included. However, there are limitations to this method as it is important not to forget older children.
 
-Under-5 deaths are often used as a measure of the number of childhood deaths.
-
-
+> Under-5 deaths are often used as a measure of the number of childhood deaths.
 
 Note
 :	The WHO defines a child as a person under the age of 18 years. Ideally all deaths under the age of 18 should be recorded as childhood deaths. However, this is rarely done as teenagers are usually not cared for by paediatric services. Many paediatric services only care for children up to the age of 13 (the common age of puberty).
@@ -10288,25 +9017,19 @@ It is more useful to know the mortality rate than only the number of children wh
 
 The number of children who die under the age of 5 years is usually expressed as a rate per 1000). Therefore, the under-5 mortality rate is defined as the number of children who die under the age of 5 years per 1000 live born infants. The under-5 mortality rate indicates the probability that a live born child will not survive to the age of 5 years. The under-5 mortality rate is one of the basic health indicators.
 
-The under-5 mortality rate is the number of children who are born alive but die under the age of 5 years per 1000 liveborn infants.
-
-
+> The under-5 mortality rate is the number of children who are born alive but die under the age of 5 years per 1000 liveborn infants.
 
 ### 15-4 How can under-5 deaths be grouped?
 
 Under-5 deaths are usually divided into age groups:
 
-Neonatal mortality includes all live born infants who die in the first 28 days of life. Often neonatal deaths are further divided into early neonatal deaths (deaths in the first 7 days of life) and late neonatal deaths (deaths between 8 and 28 days of life). The neonatal mortality rate is, therefore, the number of live born infants who die in the first 28 days of life per 1000 live born infants.
+**Neonatal mortality** includes all live born infants who die in the first 28 days of life. Often neonatal deaths are further divided into early neonatal deaths (deaths in the first 7 days of life) and late neonatal deaths (deaths between 8 and 28 days of life). The neonatal mortality rate is, therefore, the number of live born infants who die in the first 28 days of life per 1000 live born infants.
 
-The neonatal mortality rate is the number of infants who are born alive but die in their first 28 days of life per 1000 live born infants.
+> The neonatal mortality rate is the number of infants who are born alive but die in their first 28 days of life per 1000 live born infants.
 
+**Infant mortality** includes all the children who die before the age of 1 year (i.e. before reaching their first birthday). Therefore the infant mortality rate is the number of children who die under 1 year per 1000 infant born that year.
 
-
-Infant mortality includes all the children who die before the age of 1 year (i.e. before reaching their first birthday). Therefore the infant mortality rate is the number of children who die under 1 year per 1000 infant born that year.
-
-The infant mortality rate is the number of infants who die before the age of 1 year per 1000 liveborn infants.
-
-
+> The infant mortality rate is the number of infants who die before the age of 1 year per 1000 liveborn infants.
 
 Note
 :	Sometimes the infant mortality rate is divided into the neonatal mortality rate and the post neonatal mortality rate (the number of infants who die between 1 month and 12 months per 1000 infants born that year). The child mortality rate is the number of children aged 1 to 4 who die per 1000 live births. The 5–18 mortality rate includes all the children dying from 5 up to but not including 18 years.
@@ -10323,9 +9046,7 @@ Yes. Mortality rate is usually calculated for a given health district (or region
 
 This is much better than simply calculating the mortality rate of a single hospital. Due to differing patterns of referral, hospital deaths do not necessarily reflect all deaths in the districts which drain to that hospital. For example, deaths at home or at clinics are not included. Therefore, mortality rates are best expressed for a health district in 1 year.
 
-It is best to calculate the under-5 mortality rate for a health district rather than only for a single hospital.
-
-
+> It is best to calculate the under-5 mortality rate for a health district rather than only for a single hospital.
 
 ### 15-7 Are mortality rates the same for all health districts?
 
@@ -10337,17 +9058,13 @@ No. Mortality rates may also differ between different time periods. In most coun
 
 Therefore, mortality rates allow you to compare different groups of children, either in different places (districts, regions, provinces or countries) at the same time or in the same place at different times (months or years).
 
-Mortality rates in the same place often vary over time.
-
-
+> Mortality rates in the same place often vary over time.
 
 ### 15-9 Why is it important to know the infant and under-5 mortality rates?
 
 Because they are one of the best ways of measuring the wellbeing of children. An improvement in mortality rates for a health district from one year to the next is a good way of showing that the wellbeing of children in that district is improving. An increase in the mortality rates indicates that the wellbeing is deteriorating. A high mortality rate draws attention to that district where there is obviously a problem.
 
-The under-5 mortality rate is one of the best methods of assessing the wellbeing of children.
-
-
+> The under-5 mortality rate is one of the best methods of assessing the wellbeing of children.
 
 Note
 :	The 4th Millennium Developmental Goal set by the United Nations is to reduce the under-5 mortality rate between 2000 and 2015 by a third.
@@ -10356,15 +9073,12 @@ Note
 
 These mortality rates depends on both:
 
-The health, nutrition and home environment of children
-
-The quality of health care that is available to children
+*	The health, nutrition and home environment of children
+*	The quality of health care that is available to children
 
 The mortality rate will increase if either the health, nutrition and home environment of children is poor or the health care service are poor. Often both poor socioeconomic conditions and inadequate access to good quality health services occur together. It is, therefore, not surprising that the mortality rates for children vary widely between different districts and countries. The district with a high rate may have a specific health problem (e.g. malaria) or a problem with the health service (e.g. low immunisation rate).
 
-The under-5 mortality rate reflects both the socioeconomic conditions and quality of health care provided.
-
-
+> The under-5 mortality rate reflects both the socioeconomic conditions and quality of health care provided.
 
 ### 15-11 What is the under-5 mortality rate in well resourced countries?
 
@@ -10377,9 +9091,7 @@ Note
 
 In under resourced (poor) countries or under resourced communities in wealthy countries the under-5 mortality rate is usually higher than 80. Every effort must be made to reduce the under-5 mortality rate in poor countries so that it approaches the rate in well resourced countries. Note the enormous difference in rates between wealthy and poor countries.
 
-Every effort must be made to reduce the under-5 mortality rate in poor countries.
-
-
+> Every effort must be made to reduce the under-5 mortality rate in poor countries.
 
 Note
 :	It is estimated that more than 10 million children die worldwide each year before their fifth birthday! Four million of these children die in their first month of life. The average worldwide under-5 mortality rate is about 80/1000 but some very poor countries have an under-5 mortality rate above 250/1000!
@@ -10388,9 +9100,7 @@ Note
 
 This is not accurately known because the collection of mortality data is not good in all regions as many childhood deaths are not reported. However, the under-5 mortality rate in South Africa is estimated to be about 70/1000. In other words, for every 1000 infants that are born alive in South Africa, 70 will die before their fifth birthday. The under-5 mortality rate in South Africa is more like that of an under resourced than a wealthy country.
 
-The under-5 mortality rate in South Africa is estimated at about 70/1000.
-
-
+> The under-5 mortality rate in South Africa is estimated at about 70/1000.
 
 The under-5 mortality rate varies between urban (town and city) and rural (country) areas and between different regions of the country. Wealthy communities in urban areas have an under-5 mortality rate similar to well resourced countries while poor, rural areas have a rate similar to under resourced countries.
 
@@ -10401,9 +9111,7 @@ Note
 
 The infant mortality rate in South Africa is estimated to be about 55 per 1000. Therefore, out of every 1000 infants born alive in South Africa, 55 will die before reaching the age of 12 months. This can be compared to an infant mortality rate of less than 10/1000 in developed countries and 20/1000 or more in developing (under resourced) countries. South Africa therefore has an infant mortality rate similar to that seen in most under resourced countries.
 
-South Africa has an infant mortality rate typical of a developing country.
-
-
+> South Africa has an infant mortality rate typical of a developing country.
 
 The high infant mortality rate in South Africa indicates that there are problems with the health of young children in the country. South Africa has a higher infant mortality rate than other countries with a similar income (e.g. Mexico and Brazil). Therefore, South Africa has the financial resources to lower the infant mortality rate. It is important that a country uses its resources wisely and develops the health service and improves living conditions for all.
 
@@ -10414,15 +9122,12 @@ Note
 
 ### 15-15 What do under-5 mortality rates tell us?
 
-How well a district, region, province or nation is caring for their children
+*	How well a district, region, province or nation is caring for their children
+*	Which districts, regions or provinces have the greatest need for better child care
+*	It allows for comparison of mortality rates between different areas or countries with a similar income. In other words, how well we are using our income to improve the health of children.
+*	It helps identify areas or age groups where the causes of childhood death need urgent investigation.
 
-Which districts, regions or provinces have the greatest need for better child care
-
-It allows for comparison of mortality rates between different areas or countries with a similar income. In other words, how well we are using our income to improve the health of children.
-
-It helps identify areas or age groups where the causes of childhood death need urgent investigation.
-
-Collecting information on under-5 deaths
+## Collecting information on under-5 deaths
 
 ### 15-16 Should childhood deaths be notified?
 
@@ -10430,9 +9135,7 @@ Yes. All deaths are notifiable in most countries, including South Africa. The ch
 
 The list of common causes of death on official publications is, therefore, often misleading.
 
-The cause of death given on many death notices is often incorrect or misleading.
-
-
+> The cause of death given on many death notices is often incorrect or misleading.
 
 In well resourced countries with accurate records of all births and deaths, it is far easier to determine mortality rates and the important causes of death.
 
@@ -10440,9 +9143,7 @@ In well resourced countries with accurate records of all births and deaths, it i
 
 The fully history, detailed examination and any special investigations must be recorded and reviewed (discussed) before deciding on the most likely cause of death. Collecting this information is best done as soon as possible after the child’s death while the probable cause of death should be recorded after it has been discussed and reviewed.
 
-All the infant’s case details must be collected and recorded as soon as possible after the death.
-
-
+> All the infant’s case details must be collected and recorded as soon as possible after the death.
 
 ### 15-18 Why is it important to know the common causes of under-5 deaths?
 
@@ -10450,101 +9151,69 @@ Knowing the under-5 mortality rate is of limited value if you do not know why th
 
 The common causes of death need to be known before interventions can be planned to lower the mortality rate. It is very important that we learn why children die. This is done at a mortality review.
 
-It is essential to identify the common causes of under-5 mortality in each country, as they are important in planning health care interventions.
+> It is essential to identify the common causes of under-5 mortality in each country, as they are important in planning health care interventions.
 
-
-
-Mortality review
+## Mortality review
 
 ### 15-19 What is a mortality review?
 
 This is an in-depth investigation and discussion about each child death. The mortality review is usually done at special mortality meetings. These are regular meeting of staff where every childhood death in that service is reviewed. This includes all children who die in a hospital ward, outpatient or casualty department, and hospital or peripheral clinics. Ideally all children who die at home within the service region should also be included. Deaths due to both medical and surgical conditions must be discussed. This is the best way of obtaining an accurate assessment of each death.
 
-The cause of death is best decided after discussion at a mortality meeting.
-
-
+> The cause of death is best decided after discussion at a mortality meeting.
 
 ### 15-20 What are the aims of the mortality review?
 
 The main aims of a mortality review are to:
 
-Obtain data on the number of deaths and calculate the mortality rates.
+*	Obtain data on the number of deaths and calculate the mortality rates.
+*	Identify the main cause of death as well as contributing causes.
+*	Identify any modifiable factors.
+*	Decide whether the child received good management.
+*	Allow all the staff involved with child care to contribute to the discussion.
+*	Discuss ways that both causes can be avoided and modifiable factors corrected.
+*	Use the discussion to teach. Getting the staff to identify the clinical and management problems is a very effective way of learning.
+*	Providing feedback on changes in the frequency of causes and modifiable factors, i.e. Are we making a difference?
 
-Identify the main cause of death as well as contributing causes.
-
-Identify any modifiable factors.
-
-Decide whether the child received good management.
-
-Allow all the staff involved with child care to contribute to the discussion.
-
-Discuss ways that both causes can be avoided and modifiable factors corrected.
-
-Use the discussion to teach. Getting the staff to identify the clinical and management problems is a very effective way of learning.
-
-Providing feedback on changes in the frequency of causes and modifiable factors, i.e. Are we making a difference?
-
-The main aims of mortality reviews are to identify problems and find answers.
-
-
+> The main aims of mortality reviews are to identify problems and find answers.
 
 An important part of the mortality review is the mortality meeting. Mortality meetings should be well organised and well managed.
 
 ### 15-21 How should a mortality meeting be managed?
 
-A responsible person must be identified to arrange the meeting. This is usually a doctor working in the paediatric service.
+1.	A responsible person must be identified to arrange the meeting. This is usually a doctor working in the paediatric service.
+1.	Regular meetings are held once or twice a month depending on the number of deaths.
+1.	A suitable time and venue is needed. Often lunch times or late afternoons are best.
+1.	All staff involved with child care should be invited (nurses, doctors and administrators). Staff must understand that mortality meetings are very important.
+1.	A brief summary of each death, giving relevant information, must be prepared before each mortality meeting.
+1.	Anything discussed in the meeting must be viewed as confidential. Summary sheets should be destroyed after the meeting.
+1.	The meeting should discussed what ‘we’ did incorrectly and how ‘we’ could do better in future. The meeting must never become a ‘witch hunt’. Any disciplinary action must be handled with the person involved privately outside the meeting and never in front of other staff. Without a spirit of mutual support and trust, important details of the child’s management may be withheld. A team approach is needed to solve problems of patient management.
+1.	All decisions (causes and modifiable factors) made must be recorded on the mortality sheets (death data capture sheets) at the time of the meeting and not afterwards when important details may be forgotten.
+1.	Decisions about actions to be taken must be documented, and progress must be reviewed at the beginning of the next mortality meeting.
 
-Regular meetings are held once or twice a month depending on the number of deaths.
-
-A suitable time and venue is needed. Often lunch times or late afternoons are best.
-
-All staff involved with child care should be invited (nurses, doctors and administrators). Staff must understand that mortality meetings are very important.
-
-A brief summary of each death, giving relevant information, must be prepared before each mortality meeting.
-
-Anything discussed in the meeting must be viewed as confidential. Summary sheets should be destroyed after the meeting.
-
-The meeting should discussed what ‘we’ did incorrectly and how ‘we’ could do better in future. The meeting must never become a ‘witch hunt’. Any disciplinary action must be handled with the person involved privately outside the meeting and never in front of other staff. Without a spirit of mutual support and trust, important details of the child’s management may be withheld. A team approach is needed to solve problems of patient management.
-
-All decisions (causes and modifiable factors) made must be recorded on the mortality sheets (death data capture sheets) at the time of the meeting and not afterwards when important details may be forgotten.
-
-Decisions about actions to be taken must be documented, and progress must be reviewed at the beginning of the next mortality meeting.
-
-Discussions in a mortality meeting must be confidential and carried out in a constructive and non-threatening manner.
-
-
+> Discussions in a mortality meeting must be confidential and carried out in a constructive and non-threatening manner.
 
 Well organised mortality meetings are one of the best ways of improving the standard of health care of children. Mortality meetings are also a very effective way of teaching. They help staff to identify and solve problems and provide a wonderful learning opportunity. They reduce the number of children who die.
 
-Mortality meetings reduce the number of children who die.
-
-
+> Mortality meetings reduce the number of children who die.
 
 ### 15-22 What information is needed for each child who dies?
 
-Full name, hospital or clinic number, gender (sex), age (date of birth) and date of death.
-
-Full clinical history including past history, record of immunisation, review of the growth chart in the Road-to-Health Card, family history and home conditions.
-
-Results of a full examination together with an assessment of the growth and nutritional status.
-
-Any special investigations (e.g. blood and urine tests, X-rays).
+1.	Full name, hospital or clinic number, gender (sex), age (date of birth) and date of death.
+1.	Full clinical history including past history, record of immunisation, review of the growth chart in the Road-to-Health Card, family history and home conditions.
+1.	Results of a full examination together with an assessment of the growth and nutritional status.
+1.	Any special investigations (e.g. blood and urine tests, X-rays).
 
 All the information must be summarised *before* the meeting so that a brief summary can be presented. This is often handed out on an information sheet or presented with an overhead projector. It is boring and wastes time if information has to be looked for in the patient’s records during the meeting.
 
 A register of all admissions and deaths must be kept in each service area (e.g. ward) so that no deaths are missed and the number of admissions are known. Basic information in the ward or clinic register must include each patient’s name, folder number, age, sex and weight. All wards should keep a monthly death register which records all deaths in that month. Often each death is given a unique code (number).
 
-A brief clinical summary must be prepared before the mortality meeting for each child who has died.
-
-
+> A brief clinical summary must be prepared before the mortality meeting for each child who has died.
 
 ### 15-23 How is the cause of death decided?
 
 This is one of the most important parts of the mortality meeting. All the possible causes must be considered before agreement is reached on the main cause of death. This is often only agreed upon after some discussion. If the cause of death is not certain, then the probable cause must be used. The cause of death, therefore, is decided by everyone at the meeting.
 
-It is important to decide on the most likely cause of death.
-
-
+> It is important to decide on the most likely cause of death.
 
 ### 15-24 How is the cause of death recorded?
 
@@ -10560,9 +9229,7 @@ If possible, standard national protocols of care should be used. The management 
 
 By identifying errors in management and correcting these errors, the lives of children in future can be saved. This is one of the main aims of mortality meetings.
 
-Identifying and correcting errors in management can save the lives of other children.
-
-
+> Identifying and correcting errors in management can save the lives of other children.
 
 It is very important to praise good manage­ment, even if the child died. A positive attitude and willingness to compliment the staff for good care helps to encourage active participation and lessen the fear of criticism.
 
@@ -10570,57 +9237,42 @@ It is very important to praise good manage­ment, even if the child died. A posi
 
 A modifiable (avoidable) factor is a missed opportunity for good care or an example of substandard care which probably lead to the child’s death. No measles immunisation would be a missed opportunity in a 2-year-old child who died of measles, while failure to give adequate rehydration at a clinic would be substandard care in a child who died of acute diarrhoea.
 
-Modifiable factors include all missed opportunities for good care and any substandard care which probably resulted in the death.
-
-
+> Modifiable factors include all missed opportunities for good care and any substandard care which probably resulted in the death.
 
 Identifying modifiable factors is an important step in planning health care strategy and correcting problems which lead to poor care and deaths. It is important to decide whether each death is probably avoidable or not. The identification of modifiable factors enables problem solving.
 
-It is important to decide whether a death could probably have been avoided.
-
-
+> It is important to decide whether a death could probably have been avoided.
 
 ### 15-27 How can modifiable factors be classified?
 
 Modifiable factors can be divided into:
 
-Modifiable factors related to the family or caregiver. Examples include not taking children for immunisation, delay in taking an ill child to clinic, poor nutrition, not recognising that a child was ill, neglect and abuse.
+*	Modifiable factors related to the family or caregiver. Examples include not taking children for immunisation, delay in taking an ill child to clinic, poor nutrition, not recognising that a child was ill, neglect and abuse.
+*	Modifiable factors associated with the clinical staff. Examples include poor clinical assessment, giving the incorrect treatment, delay in referral, inadequate notes and not seeing a child when asked to do so.
+*	Modifiable factors related to the administration. Examples include lack of facilities, equipment or staff, lack of training, inadequate transport, poor communication, lack of policy or medications, and no laboratory service.
 
-Modifiable factors associated with the clinical staff. Examples include poor clinical assessment, giving the incorrect treatment, delay in referral, inadequate notes and not seeing a child when asked to do so.
-
-Modifiable factors related to the administration. Examples include lack of facilities, equipment or staff, lack of training, inadequate transport, poor communication, lack of policy or medications, and no laboratory service.
-
-Modifiable factors may be related to the caregiver, clinical staff or administration.
-
-
+> Modifiable factors may be related to the caregiver, clinical staff or administration.
 
 Note
 :	Any event, act or omission contributing to the death or to substandard care should be regarded as a modifiable factors.
 
 A comprehensive (full) list of common modifiable factors should be drawn up and referred to when each death is discussed. It is helpful if each modifiable factor is given a specific code as this makes the analysis of modifiable factors much easier.
 
-Causes of under 5 deaths
+## Causes of under 5 deaths
 
 ### 15-28 What are the common causes of under-5 deaths in South African hospitals?
 
-Lower respiratory tract infection
-
-Diarrhoeal disease
-
-Septicaemia
-
-AIDS
-
-Severe malnutrition
-
-Tuberculosis
+*	Lower respiratory tract infection
+*	Diarrhoeal disease
+*	Septicaemia
+*	AIDS
+*	Severe malnutrition
+*	Tuberculosis
 
 Note
 :	This data is from the Child Health Care Problem Identification Programme (Child PIP).
 
-Infections are the most common cause of under-5 mortality in South Africa.
-
-
+> Infections are the most common cause of under-5 mortality in South Africa.
 
 Note
 :	The most common cause of death in the 5–18 year age group in South Africa is trauma (e.g. motor vehicle accidents and violence).
@@ -10629,9 +9281,7 @@ Note
 
 AIDS is becoming a much more common cause of death both in children and adults. Many of these children will eventually die of other infections such as pneumonia, diarrhoea, septicaemia and tuberculosis. Even if a child is not HIV-infected, death of one or both parents will increase their risk of dying under the age of 5 years. Therefore, the AIDS epidemic is expected to increase the under-5 mortality rate, and especially the infant mortality rate, in South Africa and many other developing countries.
 
-The spread of AIDS will increase the under-5 mortality rate in South Africa.
-
-
+> The spread of AIDS will increase the under-5 mortality rate in South Africa.
 
 ### 15-30 Why is it important to determine the HIV status of each child that dies?
 
@@ -10641,31 +9291,25 @@ Clinical signs of HIV infection must always be looked for and documented. If pos
 
 Children with definite or probable HIV infection can be classified into:
 
-Definite HIV infection with both clinical signs of HIV infection and positive HIV status
+*	Definite HIV infection with both clinical signs of HIV infection and positive HIV status
+*	Children with probable HIV infection who have clinical signs of HIV infection but an unknown HIV status (i.e. blood test not done)
 
-Children with probable HIV infection who have clinical signs of HIV infection but an unknown HIV status (i.e. blood test not done)
-
-The HIV status of all children who die must be assessed whenever possible.
-
-
+> The HIV status of all children who die must be assessed whenever possible.
 
 ### 15-31 How important is malnutrition as a cause of death?
 
 Malnutrition is an important main or contributing cause of childhood death in most poor countries. Therefore it is important to determine the growth and nutritional status of all children seen at a clinic, admitted to a hospital, as well as all children who die.
 
-The nutritional status of all children who die must be recorded.
+> The nutritional status of all children who die must be recorded.
 
-
-
-The analysis of mortality data
+## The analysis of mortality data
 
 ### 15-32 What data are needed to analyse childhood deaths?
 
 Two sets of information are needed to analyse mortality data:
 
-Baseline population data. For calculating infant and under-5 mortality rates, the number if liveborn infants each year in that service or region is needed. For hospital mortality data, the total number of admission are needed. All deaths must be counted. This hospital data should be recorded in the ward admission books. Without this information, mortality rates cannot be calculated.
-
-The causes of death and modifiable factors. This information should be recorded on the forms completed at the mortality meetings.
+*	**Baseline population data**. For calculating infant and under-5 mortality rates, the number if liveborn infants each year in that service or region is needed. For hospital mortality data, the total number of admission are needed. All deaths must be counted. This hospital data should be recorded in the ward admission books. Without this information, mortality rates cannot be calculated.
+*	**The causes of death and modifiable factors**. This information should be recorded on the forms completed at the mortality meetings.
 
 ### 15-33 How is the data analysed?
 
@@ -10677,17 +9321,12 @@ All the information recorded onto the mortality data capture forms at the mortal
 
 ### 15-34 What results are obtained from the analysis?
 
-Details of the basic information, e.g. number of infants born alive each year and total hospital admissions. Admissions can be divided into age groups and by nutritional status (e.g. below the 3rd centile for weight).
-
-Number of deaths and mortality rates
-
-Causes of death and modifiable factors
-
-Tables and graphs can be printed giving monthly or annual information on the number of deaths, mortality rates, causes of death and modifiable factors.
-
-Children can be grouped by age and site of death.
-
-Data from more than one site or region can be combined.
+*	Details of the basic information, e.g. number of infants born alive each year and total hospital admissions. Admissions can be divided into age groups and by nutritional status (e.g. below the 3rd centile for weight).
+*	Number of deaths and mortality rates
+*	Causes of death and modifiable factors
+*	Tables and graphs can be printed giving monthly or annual information on the number of deaths, mortality rates, causes of death and modifiable factors.
+*	Children can be grouped by age and site of death.
+*	Data from more than one site or region can be combined.
 
 ### 15-35 What should be done with the results of the analysis?
 
@@ -10697,9 +9336,7 @@ It is extremely important that the results of the analysis be made available to 
 
 This is usually an annual report prepared from the monthly results of the mortality meetings. The mortality report gives a summary of the results and also draws conclusions from the results. It is of little value to collect and analyse mortality data throughout the year without interpreting what the results mean. The mortality report should also suggest ways that the results can be used to plan methods of reducing the mortality rate. The feedback loop between collecting mortality data, analysing the data and then using the data to improve care is very important.
 
-A mortality report must summarise mortality data and suggest ways to reduce mortality.
-
-
+> A mortality report must summarise mortality data and suggest ways to reduce mortality.
 
 At a report-back meeting all the staff must be given the findings of the mortality report. An annual mortality report should be prepared for each health district. Theses should be used to produce reports for each province and for the whole nation.
 
@@ -10715,21 +9352,23 @@ The aim of ChildPIP is to determine the mortality rates, causes of death and mod
 
 *Figure 15-1 shows the data collection sheet for childhood deaths from ChildPIP.*
 
-Ways of avoiding the common causes of under 5 deaths
+![Figure 15-1: The data collection sheet for childhood deaths from the ChildPIP](images/15-1.svg)
+
+Figure 15-1: The data collection sheet for childhood deaths from the ChildPIP
+{:.figure-caption}
+
+## Ways of avoiding the common causes of under 5 deaths
 
 ### 15-39 What steps can be taken to reduce the under-5 mortality rate?
 
-Improve the general health, nutrition and home environment of children. This can be achieved by reducing poverty.
-
-Improve the access and quality of care provided by the health system.
+*	Improve the general health, nutrition and home environment of children. This can be achieved by reducing poverty.
+*	Improve the access and quality of care provided by the health system.
 
 ### 15-40 How can under-5 mortality data be used to improve the quality of care in a health system?
 
 By reviewing the data in hospitals and clinics, it is possible to decrease the under-5 mortality and improve the care of children. The problem of a high under-5 mortality rate cannot be addressed until the common causes of death and modifiable factors are fully understood.
 
-All health facilities should conduct regular mortality reviews as this can reduce the under-5 morality rate.
-
-
+> All health facilities should conduct regular mortality reviews as this can reduce the under-5 morality rate.
 
 ### 15-41 What should be done to address specific causes of under-5 deaths?
 
@@ -10741,126 +9380,120 @@ A meeting of all role-players must be called to report and discuss the findings.
 
 A regular assessment of both the causes and modifiable factors must be made to determine whether the interventions are in fact reducing the mortality rate by decreasing the frequency of deaths associated with those causes and modifiable factors. Positive results are a very powerful motivating factors for the staff. A failure to show an improvement indicates that the strategy to lower mortality is ineffective. The reasons for this must be found and corrected. In future it is hoped that the deaths of children of 5 years and older will also be recorded and analysed in a similar fashion.
 
-Case study 1
+## Case study 1
 
 The under-5 mortality rate is estimated at 95/1000 in a low resourced country. In a study of 8000 infants born alive in a large hospital in one year in that country, approximately 480 had died before their first birthday.
 
-1. What is the definition of the under-5 mortality rate?
+### 1. What is the definition of the under-5 mortality rate?
 
 The number of liveborn infants who die before their 5th birthday per 1000 liveborn infants. Therefore, in this hospital, for every 1000 infants born alive 95 will die before the age of 5.
 
-2. What do you think of an under-5 mortality rate of 95/1000?
+### 2. What do you think of an under-5 mortality rate of 95/1000?
 
 It is high and typical of many under resourced (poor) countries. The under-5 mortality rate in well resourced countries is usually below 10/1000. In South Africa the estimated under-5 mortality rate is 70/1000.
 
-3. Why is it important to know the under-5 mortality rate of a country?
+### 3. Why is it important to know the under-5 mortality rate of a country?
 
 Because it is one of the best indicators of the wellbeing of children in that country.
 
-4. What important factors determine the under-5 mortality rate?
+### 4. What important factors determine the under-5 mortality rate?
 
 The under-5 mortality rate depends both on:
 
-The health, nutrition and home environment of children
+*	The health, nutrition and home environment of children
+*	The quality of health care that is available to children
 
-The quality of health care that is available to children
-
-5. What is the definition of the infant mortality rate?
+### 5. What is the definition of the infant mortality rate?
 
 The number of liveborn infants who die in the first year of life. About 75% of all under-5 deaths occur in the first year of life.
 
-6. What is the infant mortality rate in this hospital?
+### 6. What is the infant mortality rate in this hospital?
 
 480/8000 = 60/1000 This is also typical of a developing country. South Africa has an infant mortality rate of 55 compared to rates of less than 7 in well-resourced countries.
 
-7. Why is it of only limited value to know the mortality rate in a single hospital?
+### 7. Why is it of only limited value to know the mortality rate in a single hospital?
 
 Because deaths at home and at clinics are not included, hospital deaths do not necessarily reflect all the deaths in the region that drains to that hospital. Therefore, it is better to determine the mortality rate in the whole region rather than just at one hospital.
 
-8. Does South Africa have high infant and under-5 mortality rates because it is under resourced?
+### 8. Does South Africa have high infant and under-5 mortality rates because it is under resourced?
 
 This is only part of the problem as some other countries with a similar income per person have lower rates. What is important is how a country spends its state funds. Resources must be spent wisely on improving the standard of living (and health) for all.
 
-Case study 2
+## Case study 2
 
 The manager of a state hospital decides to start monthly mortality meetings in the children’s ward because the administration has had complaints of poor care. He instructs all doctors to attend and asks the paediatrician to present the findings of each death in order to find out which staff members have been practising substandard care. The doctor reads from the hospital folders which takes a long time. This discourages the junior doctors from asking questions or contributing to the presentation as they want to go home. The doctor criticises one of the doctors who failed to notice that a child with diarrhoea was dehydrated. The story is spread in the ward the next day.
 
-1. What are the aims of a mortality meeting?
+### 1. What are the aims of a mortality meeting?
 
 To improve the care of children by finding out the common causes of death and identifying associated factors which may have contributed to the death. If these problems are successfully addressed, the lives of other children may be saved. Mortality meetings are also an excellent opportunity to learn how to identify and solve problems. They provide a wonderful teaching opportunity.
 
-2. What is wrong with the way the hospital manager arranged these meetings?
+### 2. What is wrong with the way the hospital manager arranged these meetings?
 
 All staff members should be encouraged to attend these meetings, not just doctors. A team approach to identifying problems in patient management is essential if mortality meetings are to be helpful. These meetings should be a team effort. Everyone attending the meeting should be encouraged to participate.
 
-3. Should the paediatrician read the notes from the patients’ folders?
+### 3. Should the paediatrician read the notes from the patients’ folders?
 
 No. The history, examination and special investigations for each child must be summarised before the meeting. It is very useful if the summaries are handed out at the meeting or shown on an overhead projector. This saves a lot of time.
 
-4. Are the findings in a mortality meeting confidential?
+### 4. Are the findings in a mortality meeting confidential?
 
 Yes. All the discussions in the meeting must be confidential and gossip about the findings must not be allowed. Without strict confidentiality, many staff will not attend the meetings. It is a good idea to destroy the handouts at the end of the meeting.
 
-5. Should mortality meetings be used to identify staff who have made mistakes?
+### 5. Should mortality meetings be used to identify staff who have made mistakes?
 
 No. These meetings must never become a ‘witch hunt’. Any disciplinary action must take place privately and never in front of colleagues. The spirit of mortality meetings is to explore how ‘we’ could have managed the child better. It is important to praise good care, even if the child died.
 
-Case study 3
+## Case study 3
 
 A 4-year-old undernourished child with severe measles develops pneumonia and dies soon after arrival at hospital. Only when the child had been ill for 5 days did the mother take him to the local clinic. He had never been immunised against measles although this was available at the local clinic. The mother did not bring his Road-to-Health Card. While waiting for transport to hospital the child was cyanosed but no oxygen was available at the clinic. The history of this child is presented at a mortality meeting.
 
-1. What was the main cause of death?
+### 1. What was the main cause of death?
 
 Measles
 
-2. What were important contributing causes?
+### 2. What were important contributing causes?
 
 Pneumonia, either viral or bacterial. Malnutrition may also have contributed to the death, as measles is often severe in malnourished children.
 
-3. Was this death avoidable?
+### 3. Was this death avoidable?
 
 Definitely yes.
 
-4. What were the modifiable factors related to the family?
+### 4. What were the modifiable factors related to the family?
 
 The child had not been taken for immunisation although this was available. The child was also not brought to the clinic until severely ill. As the mother did not have his Road-to-Health Card, it was not known how long he had been underweight. Family factors, related to poverty almost certainly contributed to the lack of routine clinic visits.
 
-5. What was the administration-related factor that needs to be addressed?
+### 5. What was the administration-related factor that needs to be addressed?
 
 There was no emergency oxygen available at the clinic.
 
-6. When should these details be entered onto the death data capture sheet?
+### 6. When should these details be entered onto the death data capture sheet?
 
 The history and clinical details are best entered at the time of the death when all the documentation is available. The causes and modifiable factors should be entered at the mortality meeting.
 
-Case study 4
+## Case study 4
 
 A 2-year-old child with clinical signs of AIDS is brought to hospital from a poor, rural area. She has not eaten for days because of a severe fungal infection of the mouth and oesophagus. On admission the child is pyrexial and has signs of serious bacterial infection. The child dies the following day. The HIV screening test is positive and the CD4 count is very low. The mother says that she did not receive antenatal care as there is no clinic close to their home.
 
-1. Should this child be classified as an infant death?
+### 1. Should this child be classified as an infant death?
 
 No, as infant deaths are defined as deaths before the age of 1 year. Her death would be classified as an under-5 death.
 
-2. What is the main cause of death?
+### 2. What is the main cause of death?
 
 AIDS. The screening test for HIV infection was positive. This diagnosis is supported both the clinical findings (an opportunistic infection) and the immunological results.
 
-3. What are contributing causes?
+### 3. What are contributing causes?
 
 Septicaemia and fungal infection of the mouth and oesophagus, both complications of AIDS.
 
-4. What is the important modifiable factor?
+### 4. What is the important modifiable factor?
 
 The important modifiable factor is related to administration. As there is no local clinic, the woman could not receive antenatal care with counselling and screening for HIV. Prophylactic  antiretroviral drugs may have prevented the child from being infected with HIV.
 
-5. How could this modifiable factor be addressed?
+### 5. How could this modifiable factor be addressed?
 
 The adequacy of the local health service needs to be assessed. The community should also be empowered to ask for improved primary care services.
-
-
-
-
-
 
 
 
