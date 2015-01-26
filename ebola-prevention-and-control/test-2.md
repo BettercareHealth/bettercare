@@ -102,7 +102,7 @@ Please choose the one, most correct answer to each question or statement.
 	1.	They should be placed in a single, robust, leak-proof plastic body bag
 	1.	They must be burned immediately
 	1.	They should be soaked in a lime solution for 24 hours
-	1.	They should be laid on the ground and sprayed with 0.5% chlorine every hour
+	1.	They should be laid on the ground and sprayed with 0.05% chlorine every hour
 20.	What role can the family play in burying a patient who has died of Ebola?
 	1.	There is no need for any precautions
 	1.	They can touch the body if they wash their hands well afterwards
