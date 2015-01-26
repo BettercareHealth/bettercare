@@ -6,16 +6,24 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Introduction to childhood HIV infection](1.html)
+2.	[Clinical and immunological diagnosis of HIV infection](2.html)
+3.	[Management of children with HIV infection](3.html)
+4.	[Antiretroviral drugs](4.html)
+5.	[Management of children with antiretroviral treatment](5.html)
+6.	[HIV-associated infections and end-of-life care](6.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Introduction to childhood HIV infection](test-1.html)
+2.	[Clinical and immunological diagnosis of HIV infection](test-2.html)
+3.	[Management of children with HIV infection](test-3.html)
+4.	[Antiretroviral drugs](test-4.html)
+5.	[Management of children with antiretroviral treatment](test-5.html)
+6.	[HIV-associated infections and end-of-life care](test-6.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
