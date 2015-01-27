@@ -2138,6 +2138,24 @@ Can all the drugs be taken together at the same time?
 
 Is the drug stable at room temperature?
 
+Table 4-1: Details of antiretroviral drugs
+{:.table-caption}
+
+| Drug                | Generic             | Trade name | Frequency     | With meals |
+|---------------------+---------------------+------------+---------------+------------|
+| ABC                 | abacavir            | Ziagen     | Twice daily   | Yes        |
+| 3TC                 | lamivudine          | 3TC        | Twice daily   | Yes        |
+| AZT                 | zidovudine          | Retrovir   | Twice daily   | Yes        |
+| ddI                 | didanosine          | Videx      | Twice daily   | No         |
+| d4T                 | stavudine           | Zerit      | Twice daily   | Yes        |
+| Nevirapine          | nevirapine          | Viramune   | Twice daily\* | Yes        |
+| TDF                 | tenofovir           | Viread     | Twice daily   | Yes        |
+| Efavirenz           | efavirenz           | Stocrin    | Daily         | Yes\*\*    |
+| Lopinavir/ritonavir | lopinavir/ritonavir | Aluvia     | Twice daily   | Yes        |
+
+\* Nevirapine should be taken daily for the first 14 days.  
+\*\* Efavirenz is best taken on an empty stomach for the first few weeks.
+
 ### 4-25 How should antiretroviral drugs be given?
 
 Children prefer to take the medication in a small volume of pleasant-tasting liquid. Otherwise pills which can be crushed or dissolved in water can be given with something sweet, such as jam, to hide any bitter taste. Unfortunately, many antiretroviral drugs are not child-friendly as they have been designed for adults.
@@ -2329,6 +2347,69 @@ Remember that drugs used to treat HIV-associated infections may cause similar si
 Some of the clinical symptoms and signs of HIV infection or HIV-associated infections may also be similar to the side effects to antiretroviral treatment. Other diseases may also mimic side effects, e.g. viral hepatitis may mimic liver toxicity.
 
 All antiretroviral drugs may have side effects.
+
+Table 4-2: Summary of side effects of antiretroviral drugs
+{:.table-caption}
+
+<table>
+<thead>
+  <tr>
+    <td><p>Name of drug</p></td>
+    <td><p>Side effects</p></td>
+  </tr>
+</thead>
+  <tr class="table-subhead">
+    <td colspan="2"><p>&lsquo;Nucs&rsquo;</p></td>
+  </tr>
+  <tr>
+    <td><p>3TC </p></td>
+    <td><p>Few side effects. Uncommonly headache and nausea</p></td>
+  </tr>
+  <tr>
+    <td><p>AZT</p></td>
+    <td><p>Commonly headache, nausea and vomiting, anaemia and neutropenia</p>
+      <p>Rarely muscle pain and lactic acidosis</p></td>
+  </tr>
+  <tr>
+    <td><p>ABC</p></td>
+    <td><p>Uncommonly rash, fever, respiratory and abdominal symptoms</p></td>
+  </tr>
+  <tr>
+    <td><p>ddI</p></td>
+    <td><p>Commonly nausea, vomiting, abdominal pain</p>
+      <p>Uncommonly peripheral neuropathy, pancreatitis and lactic acidosis</p></td>
+  </tr>
+  <tr>
+    <td><p>d4T</p></td>
+    <td><p>Commonly headache, rash and nausea</p>
+      <p>Rarely peripheral neuropathy, pancreatitis and lactic acidosis</p></td>
+  </tr>
+  <tr>
+    <td><p>TDF</p></td>
+    <td><p>Commonly nausea, diarrhoea, vomiting</p>
+      <p>Less commonly decreased bone density, decreased renal function, lactic acidosis</p></td>
+  </tr>
+  <tr class="table-subhead">
+    <td colspan="2"><p>&lsquo;Non-nucs&rsquo;</p></td>
+  </tr>
+  <tr>
+    <td><p>Nevirapine</p></td>
+    <td><p>Commonly mild rash, headache, nausea, vomiting and diarrhoea</p>
+      <p>Uncommonly severe rash and hepatitis</p></td>
+  </tr>
+  <tr>
+    <td><p>Efavirenz</p></td>
+    <td><p>Commonly mild skin rash, sleep and emotional disturbances or psychiatric symptoms</p></td>
+  </tr>
+  <tr class="table-subhead">
+    <td colspan="2"><p>&lsquo;PIs&rsquo;</p></td>
+  </tr>
+  <tr>
+    <td><p>Lopinavir/ritonavir</p></td>
+    <td><p>Commonly nausea, vomiting, diarrhoea, hypercholesterolaemia and triglyceridaemia</p>
+      <p>Rarely pancreatitis, hyperglycaemia and lipodystrophy</p></td>
+  </tr>
+</table>
 
 ### 4-41 Do children have more side effects than adults?
 
