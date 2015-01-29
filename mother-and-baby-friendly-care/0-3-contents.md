@@ -6,16 +6,22 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Mother friendly care during pregnancy](1.html)
+2.	[Mother friendly care during labour, delivery and the puerperium](2.html)
+3.	[Principles of Kangaroo Mother Care](3.html)
+4.	[Practice of Kangaroo Mother Care](4.html)
+5.	[Baby friendly care](5.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Mother friendly care during pregnancy](test-1.html)
+2.	[Mother friendly care during labour, delivery and the puerperium](test-2.html)
+3.	[Principles of Kangaroo Mother Care](test-3.html)
+4.	[Practice of Kangaroo Mother Care](test-4.html)
+5.	[Baby friendly care](test-5.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)
