@@ -4,17 +4,11 @@ title: Copyright
 layout: frontmatter
 ---
 
-> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
-
 **Mother and Baby Friendly Care**
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Updated:
-
-1 April 2009
-
-Text © Perinatal Education Programme 2008
+Text © 
 
 Cover photograph © 
 
@@ -22,9 +16,9 @@ Illustrations
 
 Getup © Electric Book Works
 
-ISBN (print edition): 978-1-920218-24-9
+ISBN (print edition): 
 
-ISBN (PDF edition): 978-1-920218-56-0
+ISBN (PDF edition): 
 
 ISBN (reflowable edition): 
 
