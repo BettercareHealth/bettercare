@@ -16,17 +16,13 @@ Updated:
 
 Text © Perinatal Education Programme 2008
 
-Cover photograph © 
-
-Illustrations 
-
 Getup © Electric Book Works
 
 ISBN (print edition): 978-1-920218-24-9
 
 ISBN (PDF edition): 978-1-920218-56-0
 
-ISBN (reflowable edition): 
+ISBN (reflowable edition): 978-1-920218-98-0
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
