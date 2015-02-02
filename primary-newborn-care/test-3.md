@@ -87,7 +87,7 @@ Please choose the ONE most correct answer to each question:
 	1.	They weigh less
 	1.	They do not suck well
 	1.	Their stools consist of meconium
-1.	Their kidneys only produce a little urine
+	1.	Their kidneys only produce a little urine
 17.	The best milk for most low-birth-weight infants is:
 	1.	A soya bean formula
 	1.	Special preterm formula

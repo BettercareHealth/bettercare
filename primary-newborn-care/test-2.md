@@ -52,7 +52,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Breast milk meets all the nutritional needs of a term infant
 	1.	Breast milk reduces the risk of gastroenteritis
 	1.	Breast milk is cheap
-1.	All of the above
+	1.	All of the above
 10.	When should a normal infant be put to the breast for the first time?
 	1.	Immediately after birth
 	1.	Not before 1 hour or the infant will vomit
@@ -82,7 +82,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Stop breastfeeding
 	1.	Give the mother a diuretic
 	1.	Empty the breasts by frequent feeds or by expressing
-1.	Bandage the breasts tightly
+	1.	Bandage the breasts tightly
 16.	Which of the following signs suggest mastitis?
 	1.	Both breasts feel full
 	1.	The affected breast feels hot and painful
