@@ -6,16 +6,22 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Care of infants at birth](1.html)
+2.	[Care of normal infants](2.html)
+3.	[Care of low-birth-weight infants](3.html)
+4.	[Emergency management of infants](4.html)
+5.	[Management of important problems](5.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Care of infants at birth](test-1.html)
+2.	[Care of normal infants](test-2.html)
+3.	[Care of low-birth-weight infants](test-3.html)
+4.	[Emergency management of infants](test-4.html)
+5.	[Management of important problems](test-5.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
