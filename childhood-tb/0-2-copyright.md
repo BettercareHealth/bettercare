@@ -4,23 +4,23 @@ title: Copyright
 layout: frontmatter
 ---
 
+> Very important: We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
+
 **Childhood TB**
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com).
 
-Text © 
+Updated: 11 May 2011
 
-Cover photograph © 
-
-Illustrations 
+Text © David Woods and Robert Gie 2010
 
 Getup © Electric Book Works
 
-ISBN (print edition): 
+ISBN (print edition): 978-1-920218-46-1
 
-ISBN (PDF edition): 
+ISBN (PDF edition): 978-1-920218-47-8
 
-ISBN (reflowable edition): 
+ISBN (reflowable edition): 978-1-928313-02-1
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 

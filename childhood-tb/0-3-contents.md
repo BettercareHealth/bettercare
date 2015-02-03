@@ -6,16 +6,22 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
-1.	[First chapter](title-1.html)
-2.	[Next chapter](title-2.html)
+1.	[Introduction to childhood tuberculosis](1.html)
+2.	[Clinical presentation of childhood tuberculosis](2.html)
+3.	[Diagnosis of childhood tuberculosis](3.html)
+4.	[Management of childhood tuberculosis](4.html)
+5.	[Preventing childhood tuberculosis](5.html)
 
 ## Tests
 
-1.	[Chapter title](title-test-1.html)
-2.	[Next chapter title](title-test-2.html)
+1.	[Introduction to childhood tuberculosis](test-1.html)
+2.	[Clinical presentation of childhood tuberculosis](test-2.html)
+3.	[Diagnosis of childhood tuberculosis](test-3.html)
+4.	[Management of childhood tuberculosis](test-4.html)
+5.	[Preventing childhood tuberculosis](test-5.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
