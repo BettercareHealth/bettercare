@@ -219,6 +219,33 @@ If you're creating images from InDesign originals using Illustrator, a suggested
 
 Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
 
+### Embedding video
+
+We can include any iframe in markdown to embed a video, but our preferred method is this:
+
+*	Find the video's YouTube ID: a code in the URL that looks like this: `RRV-9Jf0eI0`
+*	In the markdown, put the code between these two tags: `{% include youtube-start.html %}` and `{% include youtube-end.html %}`. Those tags will insert the iframe HTML that works best for the Learning Station.
+*	The default iframe code gives the ifram a `.non-printing` class, so that the video won't appear in the printed or PDF book.
+*	If you need a heading, caption or any other text related to the video, remember to add `{:.non-printing}` to them, so that they also do not appear in the book.
+
+Here's a full example:
+
+~~~
+## Video: Jaundice
+{:.non-printing}
+
+{% include youtube-start.html %}RRV-9Jf0eI0{% include youtube-end.html %}
+
+Video by the [Global Health Media Project](http://globalhealthmedia.org/) made available under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](creativecommons.org/licenses/by-nc-nd/4.0/)
+{:.non-printing}
+~~~
+
+Note that this only works with YouTube. If you're embedding from any other service, instead of using our `{% include %}` tags:
+
+*	use their standard embed iframe
+*	try to select a width of around 850 px
+*	add `style="max-width: 100%;"` and `class="non-printing"` to the iframe tag.
+
 ## General tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
