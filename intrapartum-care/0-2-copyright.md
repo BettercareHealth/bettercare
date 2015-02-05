@@ -4,23 +4,27 @@ title: Copyright
 layout: frontmatter
 ---
 
-**Intrapartum Care**
+> We have taken every care to ensure that drug
+dosages and related medical advice in this book
+are accurate. However, drug dosages can change
+and are updated often, so always double-check
+dosages and procedures against a reliable,
+up-to-date formulary and the given drug‘s
+documentation before administering it.
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+**Intrapartum Care: An advanced-midwife’s guide to labour and delivery**
 
-Text © 
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
 
-Cover photograph © 
+Updated 16 February 2011, 5 February 2015 (layout)
 
-Illustrations 
+Text © Perinatal Education Programme 2009  
+Illustrations by Anne Westoby  
+Getup © Electric Book Works 2009
 
-Getup © Electric Book Works
-
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
-ISBN (reflowable edition): 
+ISBN (paperback): 978-1-920218-38-6  
+ISBN (PDF ebook edition): 978-1-920218-39-3  
+ISBN (reflowable edition): 978-1-928313-04-5
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
