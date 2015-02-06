@@ -5,24 +5,22 @@ layout: chapter
 ---
 
 1
+{:.chapter-number}
 
-Monitoring the condition of the mother during the first stage of labour
+# Monitoring the condition of the mother during the first stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Monitor the condition of the mother during the first stage of labour.
+*	Monitor the condition of the mother during the first stage of labour.
+*	Record the clinical observations on the partogram.
+*	Explain the clinical significance of these observations.
+*	Manage any problems which are detected.
 
-Record the clinical observations on the partogram.
-
-Explain the clinical significance of these observations.
-
-Manage any problems which are detected.
-
-Monitoring labour
+## Monitoring labour
 
 ### 1-1 What is labour?
 
@@ -32,15 +30,13 @@ Labour is the process whereby the fetus and the placenta are delivered. The uter
 
 Labour is divided into three stages:
 
-The first stage of labour.
-
-The second stage of labour.
-
-The third stage of labour.
+1.	The first stage of labour.
+1.	The second stage of labour.
+1.	The third stage of labour.
 
 Each stage of labour is important as it must be correctly diagnosed and managed. There are dangers to the mother in each of the three stages of labour.
 
-Labour is divided into three stages.
+> Labour is divided into three stages.
 
 ### 1-3 What is the first stage of labour?
 
@@ -48,21 +44,16 @@ The first stage of labour starts with the onset of regular uterine contractions 
 
 ### 1-4 What must be monitored in the first stage of labour?
 
-The condition of the mother.
-
-The condition of the fetus.
-
-The progress of labour.
+1.	The condition of the mother.
+1.	The condition of the fetus.
+1.	The progress of labour.
 
 ### 1-5 What four questions should be asked about each of these observations?
 
-How often must the observations be done?
-
-How are the findings recorded?
-
-What is the clinical significance of the findings?
-
-What should be done if an observation is abnormal?
+1.	How often must the observations be done?
+1.	How are the findings recorded?
+1.	What is the clinical significance of the findings?
+1.	What should be done if an observation is abnormal?
 
 ### 1-6 What is the partogram?
 
@@ -72,35 +63,29 @@ The partogram is a chart which shows the progress of labour over time. It also d
 
 All the maternal observations must be carefully recorded on the partogram.
 
-All the observations of every mother in the first stage of labour must be recorded on a partogram.
+> All the observations of every mother in the first stage of labour must be recorded on a partogram.
 
 ### 1-8 How should each observation be assessed?
 
 At the completion of any set of observations, you must ask yourself the following questions:
 
-*Is everything normal?* If the answer is no, then you must ask:
-
-*What* is not normal and *why* is it not normal?
-
-Finally you must ask the question: ‘What must I do about the problem?’.
+1.	*Is everything normal?* If the answer is no, then you must ask:
+1.	*What* is not normal and *why* is it not normal?
+1.	Finally you must ask the question: ‘What must I do about the problem?’.
 
 ### 1-9 How is the condition of the mother monitored?
 
 By regular observations of the following:
 
-The general condition of the mother.
-
-Temperature.
-
-Pulse rate.
-
-Blood pressure.
-
-Urine output and urinalysis for protein and ketones.
+1.	The general condition of the mother.
+1.	Temperature.
+1.	Pulse rate.
+1.	Blood pressure.
+1.	Urine output and urinalysis for protein and ketones.
 
 Therefore, the general condition of the mother, as well as observations of her temperature, pulse rate, blood pressure, urine volume and chemistry must be recorded on the partogram.
 
-Assessing the general condition of the mother
+## Assessing the general condition of the mother
 
 ### 1-10 Why is it important to observe the general condition of the mother during the first stage of labour?
 
@@ -118,41 +103,32 @@ The general condition of the mother should be observed continuously, but noted s
 
 When any of the following are present:
 
-Excessive anxiety.
-
-Severe, continuous pain.
-
-Severe exhaustion.
-
-Dehydration.
-
-Marked pallor of the face and mucous membranes.
+1.	Excessive anxiety.
+1.	Severe, continuous pain.
+1.	Severe exhaustion.
+1.	Dehydration.
+1.	Marked pallor of the face and mucous membranes.
 
 ### 1-14 What causes severe anxiety?
 
 Anxiety is usually seen in primigravidas who:
 
-Are not prepared for the process of labour and the labour ward.
-
-Are not accompanied by a friend or family member in the labour ward.
-
-Cannot communicate due to language differences.
+1.	Are not prepared for the process of labour and the labour ward.
+1.	Are not accompanied by a friend or family member in the labour ward.
+1.	Cannot communicate due to language differences.
 
 ### 1-15 What should you do if the mother is very anxious and is experiencing very painful contractions?
 
-She must be comforted and reassured. If possible, someone she knows should stay with her.
-
-She must be offered appropriate pain relief.
+1.	She must be comforted and reassured. If possible, someone she knows should stay with her.
+1.	She must be offered appropriate pain relief.
 
 ### 1-16 What causes severe, continuous pain in the first stage of labour?
 
 Severe, continuous pain always indicates that a complication is present, such as:
 
-Abruptio placentae.
-
-Rupture of the uterus.
-
-An infection, such as acute pyelonephritis and chorioamnionitis.
+1.	Abruptio placentae.
+1.	Rupture of the uterus.
+1.	An infection, such as acute pyelonephritis and chorioamnionitis.
 
 ### 1-17 When may severe exhaustion or dehydration occur?
 
@@ -162,15 +138,14 @@ With a prolonged labour, e.g. with cephalopelvic disproportion.
 
 This is usually due to either of the following:
 
-Chronic anaemia, e.g. iron deficiency, malaria, etc.
-
-Blood loss, e.g. placenta praevia, abruptio placentae or rupture of the uterus.
+1.	Chronic anaemia, e.g. iron deficiency, malaria, etc.
+1.	Blood loss, e.g. placenta praevia, abruptio placentae or rupture of the uterus.
 
 ### 1-19 Where must abnormalities in the mother’s general condition be recorded?
 
 If the general condition of the woman becomes abnormal, this must be noted in the appropriate space at the bottom of the partogram as shown in figure 1-1.
 
-Assessing the temperature
+## Assessing the temperature
 
 ### 1-20 What is a normal temperature?
 
@@ -188,23 +163,20 @@ The temperature is recorded in the appropriate space on the partogram as shown i
 
 There are two main causes of a high maternal temperature:
 
-Infection: This will most probably be in the urogenital tract, e.g. acute pyelonephritis or chorioamnionitis. However, it must be remembered that any other infection, unrelated to the pregnancy, may be present during labour, e.g. pneumonia, viral infections or malaria.
-
-Maternal exhaustion: Dehydration causes pyrexia.
+1.	Infection: This will most probably be in the urogenital tract, e.g. acute pyelonephritis or chorioamnionitis. However, it must be remembered that any other infection, unrelated to the pregnancy, may be present during labour, e.g. pneumonia, viral infections or malaria.
+1.	Maternal exhaustion: Dehydration causes pyrexia.
 
 ### 1-24 How should you manage maternal pyrexia?
 
-The cause of the high temperature must be found and treated. It is particularly important to look for acute pyelonephritis, chorioamnionitis and evidence of maternal exhaustion.
-
-The temperature may be brought down with paracetamol (e.g. Panado).
+1.	The cause of the high temperature must be found and treated. It is particularly important to look for acute pyelonephritis, chorioamnionitis and evidence of maternal exhaustion.
+1.	The temperature may be brought down with paracetamol (e.g. Panado).
 
 ### 1-25 What are the dangers of pyrexia?
 
-To the mother: The temperature, on its own, does not constitute a risk. However, if the pyrexia is caused by an infection, the infection may be dangerous to the mother. Fever may cause a woman to go into labour.
+1.	To the mother: The temperature, on its own, does not constitute a risk. However, if the pyrexia is caused by an infection, the infection may be dangerous to the mother. Fever may cause a woman to go into labour.
+1.	To the fetus: A high temperature can cause fetal tachycardia (fast heart rate). Preterm delivery with complications of immaturity in the newborn infant may also result. If the pyrexia is due to chorioamnionitis, the fetus is at high risk of becoming infected and may present with pneumonia.
 
-To the fetus: A high temperature can cause fetal tachycardia (fast heart rate). Preterm delivery with complications of immaturity in the newborn infant may also result. If the pyrexia is due to chorioamnionitis, the fetus is at high risk of becoming infected and may present with pneumonia.
-
-Assessing the pulse rate
+## Assessing the pulse rate
 
 ### 1-26 What is the normal maternal pulse rate?
 
@@ -222,21 +194,17 @@ The pulse rate is recorded in the appropriate space on the partogram as shown in
 
 The commonest causes of a rapid pulse rate (tachycardia) are:
 
-Anxiety.
-
-Pain
-
-Pyrexia.
-
-Exhaustion.
-
-Shock.
+1.	Anxiety.
+1.	Pain
+1.	Pyrexia.
+1.	Exhaustion.
+1.	Shock.
 
 ### 1-30 What action should be taken if the mother has a fast heart rate?
 
 The cause of the tachycardia should be determined and treated.
 
-Assessing the blood pressure
+## Assessing the blood pressure
 
 ### 1-31 What is a normal blood pressure?
 
@@ -252,83 +220,65 @@ The blood pressure is recorded in the appropriate space on the partogram as show
 
 ### 1-34 What are the causes of hypertension (high blood pressure)?
 
-Anxiety.
-
-Pain.
-
-Any one of the hypertensive disorders of pregnancy.
+1.	Anxiety.
+1.	Pain.
+1.	Any one of the hypertensive disorders of pregnancy.
 
 ### 1-35 What are the causes of hypotension (low blood pressure)?
 
-Some women may normally have a low blood pressure. Therefore, the blood pressure during labour must be compared with that recorded during the antenatal visits.
-
-Pressure of the uterus on the inferior vena cava when the woman lies on her back may decrease the venous return to the heart and, thereby, cause the blood pressure to fall. This is called supine hypotension.
-
-Shock. This is usually due to blood loss.
+1.	Some women may normally have a low blood pressure. Therefore, the blood pressure during labour must be compared with that recorded during the antenatal visits.
+1.	Pressure of the uterus on the inferior vena cava when the woman lies on her back may decrease the venous return to the heart and, thereby, cause the blood pressure to fall. This is called supine hypotension.
+1.	Shock. This is usually due to blood loss.
 
 ### 1-36 What are the risks of hypotension?
 
-To the mother: If hypotension is due to shock, the mother may suffer kidney damage. Severe and uncorrected hypotension may result in maternal death.
-
-To the fetus: A fall in blood pressure results in decreased blood flow to the placenta, reducing the supply of oxygen to the fetus. This may cause fetal distress due to hypoxia.
+1.	To the mother: If hypotension is due to shock, the mother may suffer kidney damage. Severe and uncorrected hypotension may result in maternal death.
+1.	To the fetus: A fall in blood pressure results in decreased blood flow to the placenta, reducing the supply of oxygen to the fetus. This may cause fetal distress due to hypoxia.
 
 ### 1-37 What should you do for a mother with hypotension?
 
-Establish the cause of the hypotension.
-
-If the hypotension is due to the woman lying on her back, she should be turned onto her side. The blood pressure usually returns to normal within one to two minutes. The fetal heart rate should then be checked again.
-
-If the hypotension is due to haemorrhage, the woman must be resuscitated urgently and be managed according to the cause of the bleeding.
+1.	Establish the cause of the hypotension.
+1.	If the hypotension is due to the woman lying on her back, she should be turned onto her side. The blood pressure usually returns to normal within one to two minutes. The fetal heart rate should then be checked again.
+1.	If the hypotension is due to haemorrhage, the woman must be resuscitated urgently and be managed according to the cause of the bleeding.
 
 ### 1-38 How do you recognise shock?
 
 Shock presents with one or more of the following features:
 
-Tachycardia.
-
-Hypotension.
-
-The skin feels cold and sweaty.
+1.	Tachycardia.
+1.	Hypotension.
+1.	The skin feels cold and sweaty.
 
 ### 1-39 What are the common causes of shock in the first stage of labour?
 
-Shock during the first stage of labour is almost always due to haemorrhage, for example:
-
-Abruptio placentae.
-
-Placenta praevia.
-
-A ruptured uterus.
-
-Infection as a cause of shock must always be considered.
+1.	Shock during the first stage of labour is almost always due to haemorrhage, for example:
+	*	Abruptio placentae.
+	*	Placenta praevia.
+	*	A ruptured uterus.
+1.	Infection as a cause of shock must always be considered.
 
 Assessing the urine
 
 ### 1-40 What urine tests should be done during labour?
 
-Volume.
-
-Protein.
-
-Ketones.
+1.	Volume.
+1.	Protein.
+1.	Ketones.
 
 The presence and degree of proteinuria and ketonuria is measured and graded with a reagent strip, e.g. Dipstix.
 
 ### 1-41 How often should you test the urine?
 
-Every four hours during the latent phase of labour.
-
-Every two hours during the active phase of labour.
-
-Each time the woman passes urine, if more frequently than above.
+1.	Every four hours during the latent phase of labour.
+1.	Every two hours during the active phase of labour.
+1.	Each time the woman passes urine, if more frequently than above.
 
 ### 1-42 How are the urinary observations recorded?
 
 The observations are recorded on the partogram:
 
-Volume in ml.
-
-Protein and ketones are recorded as 0 if absent and 1+ to 4+ if present.
+1.	Volume in ml.
+1.	Protein and ketones are recorded as 0 if absent and 1+ to 4+ if present.
 
 The urinary observations should be recorded on the partogram as shown in figure 1-1.
 
@@ -341,11 +291,9 @@ An amount of less than 20 ml per hour.
 
 ### 1-44 What are the causes of oliguria?
 
-Dehydration.
-
-Severe pre-eclampsia.
-
-Shock.
+1.	Dehydration.
+1.	Severe pre-eclampsia.
+1.	Shock.
 
 Women suffering from any of these conditions must have their urinary output accurately monitored. An indwelling urinary catheter must, therefore, be passed.
 
@@ -353,23 +301,19 @@ The cause of the oliguria must be diagnosed and treated.
 
 ### 1-45 How can normal hydration during labour be ensured?
 
-If a vaginal delivery is expected, the woman should be encouraged to eat and drink during the latent phase of the first stage of labour.
+1.	If a vaginal delivery is expected, the woman should be encouraged to eat and drink during the latent phase of the first stage of labour.
+1.	If a Caesarean section is expected during labour, the woman must be kept nil per mouth while being prepared for surgery.
+1.	Women who are at low risk of problems must continue taking fluids, while women with risk factors should be kept nil per mouth, during the active phase of the first stage of labour. Intravenous fluids must be given to women with risk factors as well as to women with long labours.
 
-If a Caesarean section is expected during labour, the woman must be kept nil per mouth while being prepared for surgery.
-
-Women who are at low risk of problems must continue taking fluids, while women with risk factors should be kept nil per mouth, during the active phase of the first stage of labour. Intravenous fluids must be given to women with risk factors as well as to women with long labours.
-
-Always ensure that a mother in labour has an adequate fluid intake. Fluids should be given intravenously if necessary.
+> Always ensure that a mother in labour has an adequate fluid intake. Fluids should be given intravenously if necessary.
 
 ### 1-46 What is the significance of proteinuria?
 
 Proteinuria of more than a trace is never normal. It is an important sign of:
 
-Pre-eclampsia.
-
-Urinary tract infection.
-
-Renal disease.
+1.	Pre-eclampsia.
+1.	Urinary tract infection.
+1.	Renal disease.
 
 When there is proteinuria, the urine must always be examined for evidence of infection. However, infection alone will not cause more than 1+ proteinuria. Proteinuria of 2+ or more should always be regarded as indicating pre-eclampsia or chronic renal disease.
 
@@ -377,7 +321,7 @@ When there is proteinuria, the urine must always be examined for evidence of inf
 
 Ketonuria is common in labour and may be normal. However, if a woman has ketonuria, it is important to look for signs of maternal exhaustion.
 
-Maternal exhaustion
+## Maternal exhaustion
 
 Maternal exhaustion is a term used to describe a clinical condition, consisting of dehydration and exhaustion during prolonged labour. It should not be confused with pain, anxiety or shock.
 
@@ -385,15 +329,11 @@ Maternal exhaustion is a term used to describe a clinical condition, consisting 
 
 The following physical signs of maternal exhaustion may be present:
 
-Tachycardia.
-
-Pyrexia.
-
-A dry mouth.
-
-Oliguria.
-
-Ketonuria.
+1.	Tachycardia.
+1.	Pyrexia.
+1.	A dry mouth.
+1.	Oliguria.
+1.	Ketonuria.
 
 ### 1-49 What causes maternal exhaustion?
 
@@ -401,109 +341,101 @@ A long labour with an insufficient supply of fluid and energy to the woman.
 
 ### 1-50 What are the effects of maternal exhaustion?
 
-On the mother: Inadequate progress of labour due to poor uterine action in the first stage, and poor maternal effort in bearing down during the second stage of labour.
-
-On the fetus: Fetal distress due to hypoxia. This often results from incorrectly managed cephalopelvic disproportion.
+1.	On the mother: Inadequate progress of labour due to poor uterine action in the first stage, and poor maternal effort in bearing down during the second stage of labour.
+1.	On the fetus: Fetal distress due to hypoxia. This often results from incorrectly managed cephalopelvic disproportion.
 
 ### 1-51 How can you prevent maternal exhaustion?
 
-Make sure that the woman gets an adequate intake of fluid and energy during labour. It may be necessary to give fluid intravenously. Ringer’s lactate with 5% dextrose will also ensure an adequate energy supply to the woman.
-
-Ensure that the woman gets adequate analgesia during labour.
-
-Ensure that labour does not become prolonged.
+1.	Make sure that the woman gets an adequate intake of fluid and energy during labour. It may be necessary to give fluid intravenously. Ringer’s lactate with 5% dextrose will also ensure an adequate energy supply to the woman.
+1.	Ensure that the woman gets adequate analgesia during labour.
+1.	Ensure that labour does not become prolonged.
 
 ### 1-52 How do you treat a mother with maternal exhaustion?
 
 If a woman has signs of maternal exhaustion then she should receive:
 
-An intravenous infusion, giving two litres of Ringer’s lactate with 5% dextrose. The first litre must be given quickly and the second litre given over two hours. It is contraindicated to give a woman in labour 50 ml of 50% dextrose intravenously as this may be harmful to the fetus.
+1.	An intravenous infusion, giving two litres of Ringer’s lactate with 5% dextrose. The first litre must be given quickly and the second litre given over two hours. It is contraindicated to give a woman in labour 50 ml of 50% dextrose intravenously as this may be harmful to the fetus.
+1.	Adequate analgesia.
 
-Adequate analgesia.
-
-Maternal exhaustion may result in poor progress of labour, while poor progress of labour may result in maternal exhaustion.
+> Maternal exhaustion may result in poor progress of labour, while poor progress of labour may result in maternal exhaustion.
 
 ### 1-53 Is it necessary for every mother to receive intravenous fluid during labour?
 
 No. Low risk women who are progressing well in labour do not need intravenous fluid, even if 1+ or 2+ ketonuria is present. If there are no contraindications, women should be encouraged to take oral fluids during labour.
 
-Case study 1
+## Case study 1
 
 A woman is admitted at 32 weeks gestation. She complains of lower abdominal pain and fever. On general examination her temperature is 38 °C.
 
-1. Does this woman have a normal temperature?
+### 1. Does this woman have a normal temperature?
 
 No. She is pyrexial as her temperature is higher than 37 °C.
 
-2. Where should her temperature be recorded?
+### 2. Where should her temperature be recorded?
 
 In the appropriate space on the partogram.
 
-3. What are the most likely causes of her pyrexia?
+### 3. What are the most likely causes of her pyrexia?
 
 Acute pyelonephritis or chorioamnionitis as she has pyrexia with lower abdominal pain.
 
-4. How should you manage this woman’s pyrexia?
+### 4. How should you manage this woman’s pyrexia?
 
 Diagnose and treat the cause of the high temperature. The temperature should be brought down with paracetamol.
 
-5. What are the dangers of maternal pyrexia to the fetus?
+### 5. What are the dangers of maternal pyrexia to the fetus?
 
 Pyrexia may cause preterm labour, resulting in the delivery of a preterm infant with all the complications of immaturity. If the pyrexia is due to chorioamnionitis a preterm infant will be born with a high risk of congenital pneumonia.
 
-Case study 2
+## Case study 2
 
 A woman is admitted to hospital with a history of labour for 24 hours. On admission she appears anxious, has a dry mouth and a pulse rate of 120 beats per minute. She is able to pass only 30 ml of urine which is dark in colour. She had not passed any urine for the previous few hours.
 
-1. What is the probable diagnosis?
+### 1. What is the probable diagnosis?
 
 Maternal exhaustion due to a long labour with an inadequate fluid and energy intake. The diagnosis is confirmed by the presence of maternal tachycardia and a dry mouth.
 
-2. What other findings would help confirm this diagnosis?
+### 2. What other findings would help confirm this diagnosis?
 
 Pyrexia and ketonuria.
 
-3. Does this woman have oliguria?
+### 3. Does this woman have oliguria?
 
 Yes, as she obviously has passed less than 20 ml per hour during the past number of hours.
 
-4. Is ketonuria always abnormal?
+### 4. Is ketonuria always abnormal?
 
 No, ketonuria on its own may be normal.
 
-5. How could maternal exhaustion be avoided?
+### 5. How could maternal exhaustion be avoided?
 
 By making sure that every woman receives an adequate intake of fluid and energy during labour. If a vaginal delivery is expected and no high risk factors are present, a woman should continue to take fluids orally during the active phase of the first stage of labour. Any woman with prolonged labour should receive fluids intravenously.
 
-6. How should the woman’s exhaustion be treated?
+### 6. How should the woman’s exhaustion be treated?
 
 She should be given two litres of Ringer’s lactate with 5% dextrose intravenously. The first litre must be given quickly and the second litre over two hours. In addition, adequate analgesia should be given if needed.
 
 
 
 2
+{:.chapter-number}
 
-Monitoring the condition of the fetus during the first stage of labour
+# Monitoring the condition of the fetus during the first stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
-Monitor the condition of the fetus during labour.
+*	Monitor the condition of the fetus during labour.
+*	Record the findings on the partogram.
+*	Understand the significance of the findings.
+*	Understand the causes and signs of fetal distress.
+*	Interpret the significance of different fetal heart rate patterns and meconium-stained liquor.
+*	Manage any abnormalities which are detected.
 
-Record the findings on the partogram.
-
-Understand the significance of the findings.
-
-Understand the causes and signs of fetal distress.
-
-Interpret the significance of different fetal heart rate patterns and meconium-stained liquor.
-
-Manage any abnormalities which are detected.
-
-Monitoring the fetus
+## Monitoring the fetus
 
 ### 2-1 Why should you monitor the fetus during labour?
 
@@ -941,7 +873,7 @@ Monitoring and management of the first stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -1597,7 +1529,7 @@ If there is steady progress of labour, if the maternal and fetal conditions are 
 
 Skills workshop: Examination of the abdomen in labour
 
-Objectives
+## Objectives
 
 When you have completed this skills workshop you should be able to:
 
@@ -1754,7 +1686,7 @@ The fetal heart must be detected and the fetal heart rate pattern assessed and r
 
 Skills workshop: Vaginal examination in labour
 
-Objectives
+## Objectives
 
 When you have completed this skills workshop you should be able to:
 
@@ -2020,7 +1952,7 @@ A small pelvis: The subpubic angle allows only two fingers (i.e. an angle of abo
 
 Skills workshop: Recording observations on the partogram
 
-Objectives
+## Objectives
 
 When you have completed this skills workshop you should be able to:
 
@@ -2234,7 +2166,7 @@ The second stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -2660,7 +2592,7 @@ An immediate attempt must be made to deliver the infant’s posterior arm. The p
 
 Skills workshop: Performing and repairing an episiotomy
 
-Objectives
+## Objectives
 
 When you have completed this skills workshop you should be able to:
 
@@ -2790,7 +2722,7 @@ The third stage of labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -3421,7 +3353,7 @@ Managing pain during labour
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -3842,7 +3774,7 @@ The puerperium
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
@@ -4690,7 +4622,7 @@ Family planning after pregnancy
 
 Before you begin this unit, please take the corresponding test to assess your knowledge of the subject matter. You should redo the test after you’ve worked through the unit, to evaluate what you have learned.
 
-Objectives
+## Objectives
 
 When you have completed this unit you should be able to:
 
