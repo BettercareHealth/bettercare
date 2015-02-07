@@ -291,6 +291,13 @@ blockquote p {
 	margin: 0;
 	padding: 0;
 }
+blockquote.box {
+	background-color: inherit;
+	color: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+	border: 1px solid #ccc;
+}
 dl {
 	font-family: "Source Sans Pro", sans-serif;
 	color: #666;
