@@ -6,9 +6,9 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
 1.	[Monitoring the condition of the mother during the first stage of labour](1.html)
 2.	[Monitoring the condition of the fetus during the first stage of labour](2.html)
@@ -34,4 +34,4 @@ layout: toc
 7.	[The puerperium](test-7.html)
 8.	[Family planning after pregnancy](test-8.html)
 
-*	[Answers](title-test-answers.html)	
+*	[Answers](test-answers.html)	
