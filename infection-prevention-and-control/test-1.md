@@ -82,8 +82,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Written explanation of how to perform a practical task
 	1.	Guideline on how to operate a piece of medical equipment 
 	1.	Tool to assist healthcare workers with low-risk procedures 
-	1.	Measure of how well a facility 
-	1.	Scores compared to a national standard of care.
+	1.	Measure of how well a facility scores compared to a national standard of care.
 16.	Reports are used in infection prevention and control to:
 	1.	Penalise clinical areas that do not comply with IPC best practice
 	1.	Increase managers’ awareness of IPC problems 
