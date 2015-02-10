@@ -159,7 +159,7 @@ The Perinatal Mental Health Project of the Department of Psychiatry and Mental H
 
 The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health related associations.
 
-### Updating the course material
+## Updating the course material
 
 Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
 

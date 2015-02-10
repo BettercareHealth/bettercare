@@ -6,9 +6,8 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
-
-*	[Introduction](title-0-5-introduction.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
+*	[Introduction](0-5-introduction.html)
 
 1.	[Antenatal care](1.html)
 	*	[Skills: General examination at the first antenatal visit](1a.html)
