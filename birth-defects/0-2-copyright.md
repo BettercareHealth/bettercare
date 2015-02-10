@@ -4,6 +4,8 @@ title: Copyright
 layout: frontmatter
 ---
 
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
+
 **Birth Defects: Counselling and caring for children with birth defects**
 
 First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
