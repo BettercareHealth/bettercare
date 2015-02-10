@@ -11,7 +11,7 @@ layout: toc
 *	[Introduction](0-5-introduction.html)
 
 1.	[Introduction to perinatal HIV](1.html)
-2.	[HIV in pregnancy](title-2.html)
+2.	[HIV in pregnancy](2.html)
 3.	[HIV during labour and delivery](3.html)
 4.	[HIV in the newborn infant](4.html)
 5.	[HIV and counselling](5.html)
