@@ -26,6 +26,8 @@ layout: toc
 8.	[Tuberculosis infection prevention and control](8.html)
 9.	[Antimicrobial stewardship](9.html)
 
+*	[Addendum: Resources for infection prevention and control](10-resources.html)
+
 ## Tests
 
 1.	[Role and structure of infection prevention and control programmes](test-1.html)
