@@ -123,7 +123,15 @@ a.nav-item:hover {
 /* 
  * General typography 
  */
- 
+
+body {
+	-moz-font-feature-settings: "liga=1";
+	-ms-font-feature-settings: "liga";
+	-webkit-font-feature-settings: "liga";
+	-o-font-feature-settings: "liga";
+	font-feature-settings: "liga";
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 600;
 	line-height: 120%;
