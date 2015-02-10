@@ -226,16 +226,16 @@ img {
 	page-break-before: avoid;
 	margin: 0 0 1em 0;
 }
-.full-width img {
+.full-width img, img.full-width {
 	width: 100%;
 }
-.full-page img {
+.full-page img, img.full-page {
 	max-width: 100%;
 }
-.half-page img {
+.half-page img, img.half-page {
 	max-width: 50%;
 }
-.quarter-page img {
+.quarter-page img, img.quarter-page {
 	max-width: 25%;
 }
 
