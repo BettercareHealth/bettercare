@@ -312,8 +312,11 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 ### Search-and-replace
 
 *	Remove paths to `screen.css` and `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
+
 *	Remove the favicon links and meta from the `<head>` element. (From `<!--Links and meta for favicons` to `End favicon links and meta-->`.)
+
 *	Remove all scripts from the `<head>` and from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
+
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
 	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
