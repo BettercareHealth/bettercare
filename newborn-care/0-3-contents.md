@@ -6,7 +6,8 @@ layout: toc
 
 # Contents
 
-*	[Introduction](0-5-intro.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
+*	[Introduction](0-5-introduction.html)
 
 1.	[Failure to breathe at birth and resuscitation](1.html)
 	*	[Skills: Neonatal resuscitation](1A.html)
