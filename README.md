@@ -303,7 +303,11 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
 *	Add `epub.css` to your `Styles` folder.
+
+## Add JPGs and rename image references
+
 *	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations).
+*	Search for `.svg` in image references and replace with `.jpg`.
 
 ### Update paths
 
@@ -311,11 +315,13 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 
 ### Search-and-replace
 
+For the removals listed here, search-and-replace with the 'Replace' box empty.
+
 *	Remove paths to `screen.css` and `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
 
 *	Remove the favicon links and meta from the `<head>` element. (From `<!--Links and meta for favicons` to `End favicon links and meta-->`.)
 
-*	Remove all scripts from the `<head>` and from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
+*	Remove all scripts from the `<head>` and, at the end of each HTML document, from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
 
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
