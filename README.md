@@ -304,7 +304,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
 *	Add `epub.css` to your `Styles` folder.
 
-## Add JPGs and rename image references
+### Add JPGs and rename image references
 
 *	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations).
 *	Search for `.svg` in image references and replace with `.jpg`.
