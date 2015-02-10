@@ -20,7 +20,5 @@ The funding for this project was obtained from a United States Agency for Intern
 
 *Prof David Woods and Prof Robert Gie*
 
-![Desmond Tutu TB Centre](images/desmond-tutu-tb-centre-logo.jpg)
-
-![TBCTA - USAID](images/tbcta-usaid-logo.jpg)
-
+![Desmond Tutu TB Centre](images/desmond-tutu-tb-centre-logo.svg){:.quarter-page}&nbsp;
+![TBCTA – USAID](images/tbcta-usaid-logo.svg){:.quarter-page}
