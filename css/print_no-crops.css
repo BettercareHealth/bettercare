@@ -378,16 +378,16 @@ img {
 	page-break-before: avoid;
 	margin: 0 0 1em 0;
 }
-.full-width img {
+.full-width img, img.full-width {
 	width: 100%;
 }
-.full-page img {
+.full-page img, img.full-page {
 	max-height: 150mm;
 }
-.half-page img {
+.half-page img, img.half-page {
 	max-height: 55mm;
 }
-.quarter-page img {
+.quarter-page img, img.quarter-page {
 	max-height: 25mm;
 }
 
