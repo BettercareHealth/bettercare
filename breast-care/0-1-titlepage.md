@@ -10,7 +10,7 @@ Breast Care
 A health professional's guide to the diagnosis and management of common breast conditions
 {:.titlepage-subtitle}
 
-Written by Jenny Edge and Dave Woods
+Written by Jenny Edge and Dave&nbsp;Woods
 {:.titlepage-author}
 
 ![Bettercare logo][logo]{:.titlepage-logo}
