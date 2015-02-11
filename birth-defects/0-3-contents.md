@@ -6,9 +6,9 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](title-0-4-acknowledgements.html)
+*	[Acknowledgements](0-4-acknowledgements.html)
 
-*	[Introduction](title-0-5-introduction.html)
+*	[Introduction](0-5-introduction.html)
 
 1.	[Introduction to birth defects](1.html)
 2.	[Care, prevention and counselling](2.html)
