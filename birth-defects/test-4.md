@@ -61,7 +61,7 @@ layout: test
 	*	Visually disabled.
 	*	Crippled due to joint damage.
 	*	Socially isolated.
-12 Important care in patients with oculocutaneous albinism includes:
+12.	Important care in patients with oculocutaneous albinism includes:
 	*	Sun protection at all times.
 	*	Prophylactic antibiotics.
 	*	Special diet high in protein.
