@@ -8,10 +8,6 @@ layout: frontmatter
 
 **Adult HIV: What health professionals need to know**
 
-Editors: Dr C. Orrell, Dr R. Kaplan, Prof D. Woods  
-Editorial Board: Prof L-G. Bekker, Ms F. Cope, Ms K. Fosseus, Dr C. Orrell, Ms L. Mtwisha, Dr R. Kaplan, Prof D. Woods  
-Contributors: Dr M. Blockman, Dr K. Dong, Dr C. Horwood, Prof D. Martin, Dr D. Wilson, Dr F. Venter, Prof R. Wood, Dr B. Harley
-
 First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout)
 
 Text © Desmond Tutu HIV Foundation 2014  
@@ -29,4 +25,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
+For any other uses, please [Electric Book Works](http://electricbookworks.com/contact).
