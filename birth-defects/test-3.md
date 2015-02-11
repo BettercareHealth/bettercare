@@ -27,10 +27,10 @@ layout: test
 	*	Because most infants with Down syndrome die of infection during the first days of life.
 	*	Because most infants are born at home and do not attend clinics.
 5.	In Down syndrome there is extra material from which chromosome?
-	*	15.	
-	*	18.	
-	*	21.	
-	*	22.	
+	*	15
+	*	18
+	*	21
+	*	22
 6.	What is the most common cause of Down syndrome?
 	*	Trisomy.
 	*	Translocation.
