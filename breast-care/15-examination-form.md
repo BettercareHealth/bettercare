@@ -9,118 +9,75 @@ layout: chapter
 <table style="width: 100%">
   <tbody>
     <tr>
-      <td style="width: 25%">Date</td>
-      <td style="width: 75%">&nbsp;</td>
+      <td colspan="4" style="width: 16%">Date:</td>
+      <td colspan="2" style="width: 16%">Discharge Sum ☐</td>
     </tr>
     <tr>
-      <td>Discharge Sum</td>
-      <td>☐</td>
+      <td>Name:</td>
+      <td colspan="5">&nbsp;</td>
     </tr>
     <tr>
-      <td>Name</td>
+      <td colspan="2">DOB:</td>
+      <td colspan="2">Procedure Code:</td>
+      <td colspan="2">ICD10 Code:</td>
+    </tr>
+    <tr>
+      <td colspan="6">Address</td>
+    </tr>
+    <tr>
+      <td colspan="3">Med. Aid:</td>
+      <td colspan="3">Med. Aid No:</td>
+    </tr>
+    <tr>
+      <td colspan="2">Tel (h):</td>
+      <td colspan="2">Tel (w):</td>
+      <td colspan="2">Cell:</td>
+    </tr>
+    <tr>
+      <td colspan="4">Ref. Doctor:</td>
+      <td colspan="2">Tel:</td>
+    </tr>
+    <tr>
+      <td>GP:</td>
+      <td colspan="3">&nbsp;</td>
+      <td>Tel:</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>DOB</td>
-      <td>&nbsp;</td>
+      <td colspan="6">History:
+        <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td>Procedure Code</td>
-      <td>&nbsp;</td>
+      <td colspan="6">Family History:
+        <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td>ICD10 Code</td>
-      <td>&nbsp;</td>
+      <td colspan="6">Past medical History:
+        <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td>Address</td>
-      <td>&nbsp;</td>
+      <td colspan="6">Drugs:
+        <p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
-      <td>Med. Aid</td>
-      <td>&nbsp;</td>
+      <td colspan="2">Menopausal:☐</td>
+      <td colspan="2">Postmenopausal:☐</td>
+      <td colspan="2">Nipple Discharge:</td>
     </tr>
     <tr>
-      <td>Med. Aid No</td>
-      <td>&nbsp;</td>
+      <td colspan="2">LMP:</td>
+      <td colspan="2">Menacle:</td>
+      <td colspan="2">G:</td>
     </tr>
     <tr>
-      <td>Tel (h)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Tel (w)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Ref. Doctor</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Tel</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>GP</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Tel</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>History</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Family History</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Past medical History</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Drugs</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Menopausal</td>
-      <td>☐</td>
-    </tr>
-    <tr>
-      <td>Postmenopausal</td>
-      <td>☐</td>
-    </tr>
-    <tr>
-      <td>Nipple Discharge</td>
-      <td>☐</td>
-    </tr>
-    <tr>
-      <td>LMP</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Menacle</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>G</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>P</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Breastfeeding</td>
-      <td>&nbsp;</td>
+      <td colspan="2">P:</td>
+      <td colspan="4">Breastfeeding:</td>
     </tr>
   </tbody>
 </table>
 
-![Exam form diagram](images/fig-15-1.svg)
+![Exam form diagram](images/fig-15-1.svg){:.quarter-page}

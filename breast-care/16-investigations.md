@@ -10,39 +10,48 @@ layout: chapter
   <tbody>
     <tr>
       <td style="width:25%;">Cytology</td>
-      <td style="width:75%;">&nbsp;</td>
+      <td style="width:75%;"><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Tru-cut</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Histology</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Ultrasound</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Mammogram</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>CXR</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Liver Sonar</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Bone scan</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td>Other</td>
-      <td>&nbsp;</td>
+      <td><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td><p>Management</p>
