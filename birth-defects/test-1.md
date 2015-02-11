@@ -12,10 +12,10 @@ layout: test
 	*	80/1000 live births.
 	*	120/1000 live births.
 2.	How many chromosomes are found in the cells of the human body?
-	*	22.	
-	*	23.	
-	*	44.	
-	*	46.	
+	*	22
+	*	23
+	*	44
+	*	46
 3.	Females have:
 	*	One X chromosome.
 	*	One Y chromosome.
