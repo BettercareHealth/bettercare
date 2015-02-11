@@ -94,10 +94,10 @@ Please choose the one, most correct answer to each question or statement.
 	*	DDI.
 	*	ABC.
 18.	How many drugs are usually used when giving antiretroviral treatment?
-	*	1.	
-	*	2.	
-	*	3.	
-	*	4.	
+	*	1
+	*	2
+	*	3
+	*	4
 19.	What is important in the follow up care of HIV exposed infants?
 	*	Giving HIV vaccine.
 	*	Monitoring growth carefully at each clinic visit.
