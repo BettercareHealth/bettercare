@@ -44,10 +44,10 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Less than 50
 	*	Less than 100.	
 8.	What is the estimated under-5 mortality rate in South Africa?
-	*	15.	
-	*	30.	
-	*	70.	
-	*	90.	
+	*	15
+	*	30
+	*	70
+	*	90
 9.	Which childhood deaths should be notified?
 	*	All childhood deaths.
 	*	Only deaths in hospital.
