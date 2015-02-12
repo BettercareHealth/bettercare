@@ -221,30 +221,38 @@ pre, code {
 	white-space: pre-wrap;
 }
 
-/* 
- * Figures and images
- */
+/* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
+ * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
 
-img {
-	max-width: 100%;
+blockquote.figure {
+	clear: both;
+	page-break-inside: avoid;
+	background-color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	color: #666;
+	border: 1px solid #666;
+	border-radius: 0.25em;
 	margin: 1em 0;
+	padding: 0.5em;
 }
-.figure-caption {
-	font-style: italic;
+blockquote.figure p {
+	clear: both;
+	page-break-inside: avoid;
 	page-break-before: avoid;
-	margin: 0 0 1em 0;
 }
-.full-width img, img.full-width {
+blockquote.figure p img {
 	width: 100%;
+	padding: 0.5em 0 1em 0;
+	margin: 0 0 0.5em 0;
+	border-bottom: 1px dashed #ccc;
 }
-.full-page img, img.full-page {
+blockquote.figure.small p img {
 	max-width: 100%;
+	max-height: 10em;
 }
-.half-page img, img.half-page {
-	max-width: 50%;
-}
-.quarter-page img, img.quarter-page {
-	max-width: 25%;
+blockquote.figure.large p img {
+	width: 100%;
 }
 
 /*
