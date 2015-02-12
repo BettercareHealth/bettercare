@@ -276,6 +276,18 @@ li:last-of-type {
 li li:first-of-type {
 	page-break-before: auto;
 }
+pre, code {
+	font-family: "Linux Libertine Mono", monospace;
+	white-space: pre-wrap;
+	line-height: 1em;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+/* Key concept boxes. Note: we use the blockquote element as our default element for key-concept boxes. */
+
 blockquote {
 	clear: both;
 	font-family: "Source Sans Pro", sans-serif;
@@ -297,6 +309,9 @@ blockquote.box {
 	font-weight: inherit;
 	font-size: inherit;
 	border: 1px solid #ccc;
+
+/* Definition lists. Note: we use the dl element as our default element for notes. */
+
 }
 dl {
 	font-family: "Source Sans Pro", sans-serif;
@@ -313,15 +328,6 @@ dt {
 }
 dd .table-caption {
 	margin-top: 1em;
-}
-pre, code {
-	font-family: "Linux Libertine Mono", monospace;
-	white-space: pre-wrap;
-	line-height: 1em;
-}
-a {
-	text-decoration: none;
-	color: inherit;
 }
 
 /*
@@ -365,30 +371,44 @@ td p {
 	padding: 0;
 }
 
-/*
- * Figures and images
- */
+/* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
+ * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
 
-img {
-	max-width: 100%;
-	margin: 0.5em 0;
+blockquote.figure {
+	clear: both;
+	float: prince-snap;
+	page-break-inside: avoid;
+	background-color: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	color: inherit;
+	border: 0.5pt solid #666;
+	border-radius: 0.25em;
+	margin: 1em 0;
+	padding: 0.5em;
 }
-.figure-caption {
-	font-style: italic;
+blockquote.fixed {
+	float: none; /* For figures that must keep their position in the text flow, not float to the top of the page. */
+}
+blockquote.figure p {
+	clear: both;
+	page-break-inside: avoid;
 	page-break-before: avoid;
-	margin: 0 0 1em 0;
 }
-.full-width img, img.full-width {
+blockquote.figure p img {
 	width: 100%;
+	max-height: 75mm;
+	padding: 0.5em 0 1em 0;
+	margin: 0 0 0.5em 0;
+	border-bottom: 0.5pt dashed #ccc;
 }
-.full-page img, img.full-page {
+blockquote.figure.small p img {
+	max-width: 100%;
+	max-height: 45mm;
+}
+blockquote.figure.large p img {
+	width: 100%;
 	max-height: 150mm;
-}
-.half-page img, img.half-page {
-	max-height: 55mm;
-}
-.quarter-page img, img.quarter-page {
-	max-height: 25mm;
 }
 
 /*
