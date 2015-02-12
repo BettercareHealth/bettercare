@@ -80,4 +80,4 @@ layout: chapter
   </tbody>
 </table>
 
-![Exam form diagram](images/fig-15-1.svg){:.quarter-page}
+![Exam form diagram](images/fig-15-1.svg)
