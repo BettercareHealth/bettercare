@@ -133,16 +133,27 @@ For the `layout` header, you have these options for Bettercare books:
 
 #### Images in markdown
 
-We use markdown to embed images. (We don't use the HTML `<figure>` element any more, because it doesn't validate in EPUB2.)
-
-Use this markdown for each image:
+We use markdown to embed images.
 
 ```
-![Figure 2-A: The Ballard scoring method](images/fig-2-A.svg)
-
-Figure 2-A: The Ballard scoring method
-{:.figure-caption}
+![The image alt text](pth/to/image.svg)
 ```
+
+Most of our images are figures. A 'figure' is an image plus a caption. We put these in a blockquote to control their layout and appearance.
+
+Technical note
+:	The challenge is keeping images and their captions together when we can't wrap them in a `<figure>` element (which won't validate in EPUB2). So we use a `<blockquote>` element with a `.figure` class instead. We can then control placement by floating the `<blockquote>`.
+
+Use this markdown for each figure:
+
+```
+> ![Figure 2-A: The Ballard scoring method](images/fig-2-A.svg)
+> 
+> Figure 2-A: The Ballard scoring method
+{:.figure}
+```
+
+Every line (except the `{:.figure}` class tag at the end) starts with a `>` and a space. These wrap the figure (image and caption) in a `blockquote` element. 
 
 The first line is the image reference. It consists of:
 
@@ -150,23 +161,27 @@ The first line is the image reference. It consists of:
 *	the `alt` attribute in square brackets
 *	the path to the image file.
 
-The second line is the figure caption, followed by the kramdown notation `{:.figure-caption}`, which lets our stylesheets format that paragraph as a figure caption, and prevent a page break between the image and the caption in print.
+The third line is the figure caption, followed by the kramdown tag `{:.figure}`, which lets our stylesheets format the `blockquote` as a figure. (For instance, preventing a page break between the image and the caption in print.)
 
 #### Image placement
 
-You may need to control how an image is placed on the page, depending on its size and nearby images or other elements. You do this by applying a class to the figure, and you have these options:
+You may need to control how an image is sized and placed on the page, depending on its detail or aspect ratio and nearby images or other elements. You do this by adding the class tag to the line after the `>` lines. You have these options:
 
-*	`full-width` sets the image to be as wide as possible, filling the horizontal text area
-*	`full-page` sets the max image size to 15cm high, to fill a page
-*	`half-page` sets the max image size to 8cm, about half a page including caption
-*	`quarter-page` sets the max image size to 3cm, about a quarter of the page including caption.
+* `.small` reduces the image height
+* `.large` fills the width and most of a printed page
+* `.fixed` keeps the figure in its place in the text flow, and will not float it to the top or bottom of a page. For instance, when an image must appear in a step-by-step list of instructions.
 
-You apply these by adding the class immediately after the image reference, like this, where we're adding the 'half-page' class to an image:
+You add these classes to the `{:.figure} tag like this:
 
-```
-![Figure 2-B: Weight for gestational age chart](images/fig-2-B.svg)
-{:.half-page}
-```
+`{:.figure .small}`
+
+`{:.figure .large}`
+
+`{:.figure .fixed}`
+
+You can combine size and placement classes like this, too:
+
+`{:.figure .fixed .small}`
 
 #### Creating images
 
