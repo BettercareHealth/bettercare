@@ -376,7 +376,7 @@ td p {
 
 blockquote.figure {
 	clear: both;
-	float: prince-snap;
+	float: top unless-fit;
 	page-break-inside: avoid;
 	background-color: inherit;
 	font-size: inherit;
@@ -384,7 +384,7 @@ blockquote.figure {
 	color: inherit;
 	border: 0.5pt solid #666;
 	border-radius: 0.25em;
-	margin: 1em 0;
+	margin: 1em 0 2em 0;
 	padding: 0.5em;
 }
 blockquote.fixed {
@@ -402,9 +402,16 @@ blockquote.figure p img {
 	margin: 0 0 0.5em 0;
 	border-bottom: 0.5pt dashed #ccc;
 }
+blockquote.figure.x-small p img {
+	max-width: 100%;
+	max-height: 30mm;
+}
 blockquote.figure.small p img {
 	max-width: 100%;
 	max-height: 45mm;
+}
+blockquote.figure.large {
+	float: none;
 }
 blockquote.figure.large p img {
 	width: 100%;
