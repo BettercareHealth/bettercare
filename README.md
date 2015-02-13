@@ -189,20 +189,22 @@ Wherever possible, Bettercare images should be created with the same sizes, styl
 
 These constraints make our designs consistent, make layout easier (for print, ebook and web on large and small screens), and keep file sizes down for mobile devices.
 
-Sizes:
+##### Sizes
 
 *	Default width: 115mm (this is just under the 118mm-wide text area in our A5 print format)
 *	Alternative width: 55mm (this is a half-page-width image)
 *	Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.
 
-**Note in image sizes**: Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, **if you're creating images in Illustrator**, ideally set your image sizes to 125% of what you intend to appear in the book (115mm × 125% = 143.75mm). We try to compensate for inconsistency in our CSS just in case (see 'image placement' below).
+On SVG sizes
+:	Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, **if you're creating images in Illustrator**, ideally set your image sizes to 125% of what you intend to appear in the book (115mm × 125% = 143.75mm). We try to compensate for inconsistency in our CSS just in case (see 'image placement' below).
 
-Resolution:
+##### Resolution
 
 *	For SVG images, the editor you use will determine underlying resolution. Illustrator uses 72dpi, and Inkscape 90dpi. We favour and assume 90dpi, but can rescale SVG images with  our stylesheets just in case.
 *	For JPGs, our default resolution should be 200dpi and image quality of 80 ('very high' in Adobe presets). This allows for reasonable print quality while keeping file sizes sensible for web delivery.
+* To get a 200dpi JPG that is 115 mm wide, the image must be 906 pixels wide. (115mm is 4.53 inches, which contains 906 pixels at 200 pixels per inch, aka 200 dpi.)
 
-Styles:
+##### Styles
 
 *	Default style: Black and white line art, with average 1mm line thickness.
 *	Use shades of grey only where needed, and as few shades as possible.
@@ -229,6 +231,7 @@ If you're creating images from InDesign originals using Illustrator, a suggested
 *	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
 *	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills workshops images, that might be 1E-B.svg for workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
 *	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
+*	To save a little more on file size, also convert all strokes to fills.
 
 #### Cover images
 
