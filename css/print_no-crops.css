@@ -40,8 +40,8 @@
 	font-weight: 600;
 }
 @font-face {
-    font-family: "Linux Libertine Mono";
-    src: url(fonts/LinLibertine_M.otf);
+    font-family: "Inconsolata", monospace;
+    src: url(fonts/Inconsolata-Regular.ttf);
 }
 @font-face {
     font-family: "Source Sans Pro";
@@ -277,7 +277,7 @@ li li:first-of-type {
 	page-break-before: auto;
 }
 pre, code {
-	font-family: "Linux Libertine Mono", monospace;
+	font-family: "Inconsolata", monospace;
 	white-space: pre-wrap;
 	line-height: 1em;
 }
