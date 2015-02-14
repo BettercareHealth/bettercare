@@ -483,6 +483,7 @@ blockquote.figure.large p img {
 .test {
 	column-count: 2;
 	column-gap: 3em;
+	column-fill: auto; /* Better than balance because our groups of MCQs keep together */
 }
 .test h1 {
 	font-size: 1.5em;
