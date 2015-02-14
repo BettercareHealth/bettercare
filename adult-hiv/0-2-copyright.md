@@ -6,7 +6,7 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug’s documentation before administering it.
 
-**Adult HIV: What health professionals need to know**
+*Adult HIV: What health professionals need to know*
 
 First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout)
 

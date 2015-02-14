@@ -5,8 +5,8 @@ layout: answers
 ---
 
 # Answers
-	
-The sections indicate from which part of the unit the questions were taken. For each question that was answered incorrectly, please re-learn the corresponding section.
+
+Relearn the sections in brackets for questions you get wrong.
 
 ## Test 1: HIV infection
 
