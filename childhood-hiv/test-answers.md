@@ -6,6 +6,8 @@ layout: answers
 
 # Answers
 
+Relearn the sections in brackets for questions you get wrong.
+
 ## Test 1: Introduction to childhood HIV infection
 
 1.	d	(1-1)
