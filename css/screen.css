@@ -39,6 +39,11 @@
 	font-weight: 700;
 	font-style: italic;
 }
+@font-face {
+    font-family: "Inconsolata", monospace;
+    src: url(fonts/Inconsolata-Regular.ttf);
+}
+
 
 /* 
  * Structure
