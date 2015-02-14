@@ -6,21 +6,15 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Primary Newborn Care**
+*Primary Newborn Care*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated:
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com).  
+Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout)
 
-*	22 March 2012
-*	7 July 2014
+Text © Perinatal Education Programme 2008  
 
-Text © Perinatal Education Programme 2008
-
-Getup © Electric Book Works 2008
-
-ISBN (print edition): 978-1-920218-14-0
-
-ISBN (PDF edition): 978-1-920218-59-1
-
+ISBN (print edition): 978-1-920218-14-0  
+ISBN (PDF edition): 978-1-920218-59-1  
 ISBN (reflowable edition): 978-1-920218-71-3
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
