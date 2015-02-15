@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="497.53px" height="356.788px" viewBox="0 0 497.53 356.788" enable-background="new 0 0 497.53 356.788"
-	 xml:space="preserve">
+	 width="327.984px" height="236.083px" viewBox="84.773 60.353 327.984 236.083"
+	 enable-background="new 84.773 60.353 327.984 236.083" xml:space="preserve">
 <g>
 	<g>
-		<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" d="M155.606,53.883
-			c-1.655,1.137-3.284,2.299-4.885,3.485"/>
-		<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" stroke-dasharray="11.9276,11.9276" d="
-			M141.401,64.813C80.875,116.86,65.734,206.7,109.336,276.481c48.116,77.003,149.549,100.419,226.551,52.303
-			c77.005-48.117,100.421-149.547,52.306-226.549C342.206,28.64,247.524,3.991,172.009,43.955"/>
-		<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" d="M166.788,46.84
-			c-1.727,0.995-3.442,2.024-5.146,3.088"/>
 		<g>
-			<path fill="#706F6F" d="M106.884,49.922c-0.826,0.546-1.364,1.491-1.349,2.555c0.026,1.655,1.394,2.977,3.051,2.95l45.894-0.767
-				l-18.713,41.913c-0.675,1.513,0.004,3.291,1.516,3.963s3.292-0.019,3.963-1.516l20.633-46.214
-				c0.417-0.936,0.329-2.022-0.236-2.877s-1.529-1.363-2.554-1.347l-50.604,0.845C107.895,49.437,107.344,49.618,106.884,49.922
-				C106.058,50.468,107.344,49.618,106.884,49.922z"/>
+			<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" d="M187.48,96.142
+				c-1.088,0.748-2.161,1.513-3.213,2.293"/>
+			<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" stroke-dasharray="11.9276,11.9276" d="
+				M178.135,103.333c-39.816,34.239-49.777,93.341-21.094,139.246c31.653,50.655,98.38,66.061,149.037,34.407
+				s66.062-98.379,34.409-149.035c-30.252-48.415-92.539-64.63-142.217-38.339"/>
+			<path fill="none" stroke="#706F6F" stroke-width="6" stroke-miterlimit="10" d="M194.837,91.509
+				c-1.137,0.655-2.265,1.332-3.386,2.031"/>
+			<g>
+				<path fill="#706F6F" d="M155.428,93.537c-0.543,0.359-0.897,0.981-0.888,1.681c0.018,1.089,0.917,1.958,2.007,1.94l30.191-0.504
+					l-12.311,27.573c-0.444,0.996,0.002,2.166,0.997,2.607c0.994,0.441,2.166-0.014,2.607-0.998l13.573-30.402
+					c0.273-0.616,0.216-1.33-0.156-1.893c-0.371-0.562-1.006-0.896-1.68-0.886l-33.291,0.556
+					C156.094,93.217,155.731,93.336,155.428,93.537C154.885,93.896,155.731,93.336,155.428,93.537z"/>
+			</g>
 		</g>
 	</g>
+	<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M303.585,84.921
+		c0,4.359-3.534,7.894-7.894,7.894h-93.854c-4.358,0-7.894-3.535-7.894-7.894V69.247c0-4.359,3.535-7.894,7.894-7.894h93.854
+		c4.358,0,7.894,3.535,7.894,7.894V84.921z"/>
+	<text transform="matrix(1 0 0 1 218.1921 80.207)" font-family="'SourceSansPro-Regular'" font-size="11.8413">Honeymoon</text>
+	<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M411.758,163.9c0,4.36-3.535,7.895-7.896,7.895
+		h-93.854c-4.358,0-7.894-3.534-7.894-7.895v-15.674c0-4.358,3.534-7.894,7.894-7.894h93.854c4.359,0,7.896,3.535,7.896,7.894V163.9
+		z"/>
+	<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M195.415,163.9c0,4.36-3.535,7.895-7.894,7.895
+		H93.667c-4.358,0-7.894-3.534-7.894-7.895v-15.674c0-4.358,3.535-7.894,7.894-7.894h93.854c4.358,0,7.894,3.535,7.894,7.894V163.9z
+		"/>
+	<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M390.679,253.273
+		c0,4.36-3.535,7.896-7.896,7.896H288.93c-4.36,0-7.896-3.534-7.896-7.896V237.6c0-4.358,3.534-7.895,7.896-7.895h93.854
+		c4.359,0,7.896,3.535,7.896,7.895V253.273z"/>
+	<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M212.392,253.273
+		c0,4.36-3.535,7.896-7.895,7.896h-93.854c-4.36,0-7.896-3.534-7.896-7.896V237.6c0-4.358,3.535-7.895,7.896-7.895h93.854
+		c4.359,0,7.895,3.535,7.895,7.895V253.273z"/>
+	<text transform="matrix(1 0 0 1 337.2048 158.9258)" font-family="'SourceSansPro-Regular'" font-size="11.8413">Tension</text>
+	<text transform="matrix(1 0 0 1 314.824 248.665)" font-family="'SourceSansPro-Regular'" font-size="11.8413">Violence</text>
+	<text transform="matrix(1 0 0 1 135.6072 248.665)" font-family="'SourceSansPro-Regular'" font-size="11.8413">Remorse</text>
+	<text transform="matrix(1 0 0 1 111.1277 159.0449)" font-family="'SourceSansPro-Regular'" font-size="11.8413">Forgiveness</text>
 </g>
-<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M332.098,36.826c0,6.627-5.373,12-12,12H177.431
-	c-6.627,0-12-5.373-12-12V13c0-6.627,5.373-12,12-12h142.667c6.627,0,12,5.373,12,12V36.826z"/>
-<text transform="matrix(1 0 0 1 202.2891 29.6602)" font-family="'SourceSansPro-Regular'" font-size="18">Honeymoon</text>
-<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M496.53,156.884c0,6.628-5.373,12-12,12H341.863
-	c-6.627,0-12-5.372-12-12v-23.826c0-6.627,5.373-12,12-12H484.53c6.627,0,12,5.373,12,12V156.884z"/>
-<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M167.667,156.884c0,6.628-5.373,12-12,12H13
-	c-6.627,0-12-5.372-12-12v-23.826c0-6.627,5.373-12,12-12h142.667c6.627,0,12,5.373,12,12V156.884z"/>
-<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M464.489,292.739c0,6.628-5.373,12-12,12H309.822
-	c-6.628,0-12-5.372-12-12v-23.825c0-6.628,5.372-12,12-12h142.667c6.627,0,12,5.372,12,12V292.739z"/>
-<path fill="#EDEDED" stroke="#706F6F" stroke-width="2" stroke-miterlimit="10" d="M193.475,292.739c0,6.628-5.373,12-12,12H38.808
-	c-6.627,0-12-5.372-12-12v-23.825c0-6.628,5.373-12,12-12h142.667c6.627,0,12,5.373,12,12V292.739z"/>
-<text transform="matrix(1 0 0 1 383.2002 149.3188)" font-family="'SourceSansPro-Regular'" font-size="18">Tension</text>
-<text transform="matrix(1 0 0 1 349.1797 285.7329)" font-family="'SourceSansPro-Regular'" font-size="18">Violence</text>
-<text transform="matrix(1 0 0 1 76.7524 285.7329)" font-family="'SourceSansPro-Regular'" font-size="18">Remorse</text>
-<text transform="matrix(1 0 0 1 39.5415 149.501)" font-family="'SourceSansPro-Regular'" font-size="18">Forgiveness</text>
 </svg>
