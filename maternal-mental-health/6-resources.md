@@ -452,7 +452,7 @@ Merci
 
 Certain public health facilities should be able to perform terminations of pregnancy free of charge. These services are less available in rural areas. 
 
-The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: www.mariestopes.org.za or their toll-free number 0800 11 77 85.
+The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: [www.mariestopes.org.za](http://www.mariestopes.org.za) or their toll-free number 0800 11 77 85.
 
 ## 3.	Adoption Services
 
@@ -494,26 +494,26 @@ Organisations that assist with adoption services:
 
 *	A welfare organisation, with 112 branches in the Western Cape, Eastern Cape, Northern Cape and North West, that focuses on general child and family services.
 *	Tel: 021 461 7437
-*	www.acvv.org.za
+*	[www.acvv.org.za](http://www.acvv.org.za)
 
 #### BADISA
  
 *	BADISA has 52 social service offices providing services in various towns/districts in the Eastern Cape, Northern Cape and Western Cape. 
 *	Tel: 021 957 7130
-*	www.badisa.org.za
+*	[www.badisa.org.za](http://www.badisa.org.za)
 
 #### Child Welfare South Africa (CWSA)
  
 *	An umbrella body that represents more than 263 member organisations and outreach projects in communities throughout South Africa. They have offices and member organisations in all the nine provinces of the country.
 *	Tel: 021 945 3111
-*	www.childwelfaresa.org.za
+*	[www.childwelfaresa.org.za](http://www.childwelfaresa.org.za)
 
 Other websites that provide information about adoptions include:
 
-*	National information and helpline: www.adoption.org.za 
-*	The National Adoption Coalition: www.adoptioncoalitionsa.org
-*	SA Vrouefederasie: www.savf.co.za
-*	Procare: www.procare.co.za
+*	National information and helpline: [www.adoption.org.za](http://www.adoption.org.za) 
+*	The National Adoption Coalition: [www.adoptioncoalitionsa.org](http://www.adoptioncoalitionsa.org)
+*	SA Vrouefederasie: [www.savf.co.za](http://www.savf.co.za)
+*	Procare: [www.procare.co.za](http://www.procare.co.za)
 
 ## 4.	Maintenance Orders
 
@@ -607,11 +607,11 @@ Child Support Grants will be stopped:
 *	If the child is admitted to a state-funded institution for over six months
 *	If the child dies.
 
-For more information contact a local SASSA office or look at:  http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA
+For more information contact a local SASSA office or look at:  [www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA](http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA)
 
 ## 6.	Protection Orders
 
-This information applies to South Africa. It is worth finding out about relevant laws and processes in your country.  This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. (www.mosaic.org.za)
+This information applies to South Africa. It is worth finding out about relevant laws and processes in your country.  This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. ([www.mosaic.org.za](http://www.mosaic.org.za))
 
 ### 6-1	What is a Protection Order?
 
@@ -796,14 +796,14 @@ South African national helpline contact numbers
 #### Families South Africa (FAMSA)
 
 *	Offers basic and advanced counselling training to support staff, common interest groups and community developers
-*	www.famsa.org.za
+*	[www.famsa.org.za](http://www.famsa.org.za)
 *	011 975 7106
 *	011 975 7107
 
 #### Lifeline
 
 *	Offers a training programme for volunteer champions
-*	www.lifeline.org
+*	[www.lifeline.org](http://www.lifeline.org)
 *	011 715 2000
 *	082 231 0805
 
@@ -812,23 +812,23 @@ South African national helpline contact numbers
 #### CTI education group
 
 *	Offers a university degree in psychology and counselling (BPsych). The main campus is in Midrand, but they have links to remote sites of delivery around the country.
-*	www.cti.co.za
+*	[www.cti.co.za](http://www.cti.co.za)
 *	011 467 8422
 
 #### Families South Africa (FAMSA)
 
 *	Offers advanced and special groups counselling to professionals. They have offices in each province in South Africa.
-*	www.famsa.org.za
+*	[www.famsa.org.za](http://www.famsa.org.za)
 *	011 975 7106
 *	011 975 7107
 
 #### South African College of Applied Psychology (SACAP)
 
 *	Offers accredited counselling, coaching and Psychology courses. They offer distance learning and have campuses in Cape Town, Johannesburg and also offer online studies.
-*	www.sacap.edu.za
+*	[www.sacap.edu.za](http://www.sacap.edu.za)
 *	0860 77 1111
 
 #### University South Africa (UNISA)
 
 *	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma counselling). Studies can be done through distance learning.
-*	www.unisa.ac.za
+*	[www.unisa.ac.za](http://www.unisa.ac.za)
