@@ -6,9 +6,9 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Child Healthcare: a guide to common paediatric disorders**
+*Child Healthcare: a guide to common paediatric disorders*
 
-First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
 
 Updated 23 August 2007, 23 January 2015 (layout)
 
