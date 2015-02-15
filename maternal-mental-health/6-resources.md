@@ -672,43 +672,39 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 
 A letter of referral may be used when referring to an organisation outside your facility. Use the template below to draft a letter of referral.
 
-|--------------------------------------------+-----------------------------|
-|             Letter of referral             |                             |
-|--------------------------------------------+-----------------------------|
-|                                            |                             |
-|                                            | Address of your health unit |
-|                                            | Town District               |
-|                                            | Telephone number            |
-|                                            |                             |
-| Contact at referral organisation           |                             |
-| Name of referral organisation              |                             |
-| Address of referral organisation           |                             |
-| Town                                       |                             |
-|                                            |                             |
-| Date                                       |                             |
-|--------------------------------------------+-----------------------------|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                 |
-| Dear [include name of contact person here]                                                                                                                      |
-|                                                                                                                                                                 |
-| Re: [include name of patient here]                                                                                                                              |
-|                                                                                                                                                                 |
-| Thank you for considering [include name of patient here].                                                                                                       |
-|                                                                                                                                                                 |
-| She is [include age of patient here] years  old.                                                                                                                |
-|                                                                                                                                                                 |
-| I am concerned about this patient because [include details of your concerns].                                                                                   |
-|                                                                                                                                                                 |
-| I hope that you will be able to assist her with her difficulties.                                                                                               |
-|                                                                                                                                                                 |
-| Please contact me for further information and to let me know that this referral has been successful. My telephone number is [include your contact number here]. |
-|                                                                                                                                                                 |
-| Yours sincerely                                                                                                                                                 |
-|                                                                                                                                                                 |
-|                                                                                                                                                                 |
-| Your name                                                                                                                                                       |
-| Job Title                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+#### Letter of referral
+
+~~~
+Address of your health unit  
+Town  
+District  
+Telephone number  
+
+Contact at referral organisation  
+Name of referral organisation
+Address of referral organisation
+Town
+
+Date
+
+Dear [include name of contact person here]
+
+Re: [include name of patient here]
+
+Thank you for considering [include name of patient here]. She is [include age of patient here] years old.
+
+I am concerned about this patient because [include details of your concerns].
+
+I hope that you will be able to assist her with her difficulties.
+
+Please contact me for further information and to let me know that this referral has been successful. My telephone number is [include your contact number here].
+
+Yours sincerely
+
+Your name
+
+Job Title
+~~~
 
 ### 7-2 Mental Health Referral Evaluation
 
@@ -716,40 +712,34 @@ This evaluation form helps to see if your referral has been useful.
 
 After referring your client, complete a 'follow-up' evaluation using the form below. 
 
-Follow-up referral evaluation form
-{:.table-caption}
+#### Referral Evaluation Form
 
-|----------------------------------------------------+-----+----|
-|              Referral Evaluation Form              |     |    |
-|----------------------------------------------------+-----+----|
-| Date referral made                                 |     |    |
-|                                                    |     |    |
-| Who made the referral?                             |     |    |
-|                                                    |     |    |
-| Where referred to?                                 |     |    |
-|                                                    |     |    |
-| Date of appointment?                               |     |    |
-|                                                    |     |    |
-| Did you go?                                        | Yes | No |
-| If No, what stopped you?                           |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-| If Yes, did you get help for your problem?         | Yes | No |
-| What help was given?                               |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-| What do you think about the help that was offered? |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-| Would you recommend that place to a friend?        | Yes | No |
-| Why?                                               |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-|                                                    |     |    |
-|----------------------------------------------------+-----+----|
+~~~
+Date referral made
+
+Who made the referral?
+
+Where referred to?
+
+Date of appointment?
+
+Did you go? Yes/No
+
+If No, what stopped you?
+
+If Yes, did you get help for your problem? Yes/No
+
+What help was given?
+
+What do you think about the help that was offered?
+
+Would you recommend that place to a friend? Yes/No
+
+Why?
+
+
+
+~~~
 
 ## 8.	South African national helplines
 
@@ -819,8 +809,7 @@ South African national helpline contact numbers
 
 *	Offers advanced and special groups counselling to professionals. They have offices in each province in South Africa.
 *	[www.famsa.org.za](http://www.famsa.org.za)
-*	011 975 7106
-*	011 975 7107
+*	011 975 7106/7
 
 #### South African College of Applied Psychology (SACAP)
 

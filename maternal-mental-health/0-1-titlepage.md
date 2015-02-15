@@ -10,7 +10,7 @@ Maternal Mental Health
 A guide for healthcare workers
 {:.titlepage-subtitle}
 
-Written by Sally Field and Dr Simone Honikman
+Written by Sally Field and Dr&nbsp;Simone&nbsp;Honikman
 {:.titlepage-author}
 
 Edited by Prof Dave Woods
