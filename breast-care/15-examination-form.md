@@ -45,23 +45,19 @@ layout: chapter
     </tr>
     <tr>
       <td colspan="6">History:
-        <p>&nbsp;</p>
-      <p>&nbsp;</p></td>
+        <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td colspan="6">Family History:
-        <p>&nbsp;</p>
-      <p>&nbsp;</p></td>
+        <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td colspan="6">Past medical History:
-        <p>&nbsp;</p>
-      <p>&nbsp;</p></td>
+        <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td colspan="6">Drugs:
-        <p>&nbsp;</p>
-      <p>&nbsp;</p></td>
+        <p>&nbsp;</p></td>
     </tr>
     <tr>
       <td colspan="2">Menopausal:☐</td>
@@ -81,3 +77,4 @@ layout: chapter
 </table>
 
 ![Exam form diagram](images/15-1.svg)
+{:.figure .fixed}
