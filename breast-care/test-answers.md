@@ -6,6 +6,8 @@ layout: answers
 
 # Answers
 
+Relearn the sections in brackets for questions you get wrong.
+
 ## Test 1: The normal breast
 
 1.	a	(1-1)

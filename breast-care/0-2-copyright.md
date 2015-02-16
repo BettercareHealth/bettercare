@@ -6,15 +6,14 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Breast Care**
+*Breast Care: A health professional’s guide to the diagnosis and management of common breast conditions*
 
-First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
 
 Updated: 29 March 2014, 13 August 2014, 16 October 2014, 12 January 2015
 
 Text © Jenny Edge and Dave Woods 2014  
-Illustrations by Fiona Gawronsky  
-Getup © Electric Book Works
+Illustrations by Fiona Gawronsky, adapted for low-bandwidth access by Kevin Shelley and Arthur Attwell  
 
 ISBN (paperback): 978-1-920218-76-8  
 ISBN (PDF ebook): 978-1-920218-77-5  
@@ -28,4 +27,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
