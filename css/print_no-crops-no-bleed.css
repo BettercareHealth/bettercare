@@ -412,6 +412,7 @@ blockquote.figure.small p img {
 }
 blockquote.figure.large {
 	float: none;
+	page-break-before: always;
 }
 blockquote.figure.large p img {
 	width: 100%;
