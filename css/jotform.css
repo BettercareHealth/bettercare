@@ -1,0 +1,145 @@
+/* These styles are for use with Bettercare Jotform forms.
+ * Import them using the CSS editor in Jotform.
+ * Created by Arthur Attwell at Electric Book Works http://electricbookworks.com */
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic);
+
+.jotform-form {
+    padding : 1em;
+}
+
+.form-all {
+    margin : 0;
+    padding-top : 0;
+    width : 90%;
+    font-family : 'Source Sans Pro', sans-serif;
+    font-size : 1.3em;
+    border : none !important;
+    box-shadow : none !important;
+    -webkit-box-shadow : none !important;
+}
+
+.form-line {
+    clear : both;
+    margin : 0;
+    width : 100%;
+    padding : 1em 0 0 0;
+    display : block;
+    position : relative;
+}
+
+.form-section {
+    list-style : none;
+    list-style-position : outside;
+    margin : 0;
+    padding : 0;
+    position : relative;
+    zoom : 1;
+    clear : both;
+}
+
+.form-label-top, .form-label-left, .form-label-right, .form-checkbox-item label, .form-radio-item label {
+    color : #000000;
+}
+
+.form-label.form-label-left {
+    width : inherit !important;
+    font-weight : normal;
+    margin-bottom : 1.25em;
+    float : left;
+    display : inline-block;
+    text-align : left;
+    padding : 0 1em 0 0;
+    white-space : normal;
+    font-family : 'Source Sans Pro', sans-serif;
+}
+
+.form-radio-item label {
+    margin-top : 0;
+    margin-bottom : 0.5em;
+    font-family : 'Source Sans Pro', sans-serif;
+    cursor : pointer;
+}
+
+.form-radio {
+    vertical-align : top;
+    margin : 0.25em 0.5em 0 0;
+    padding : 0;
+    float : left;
+}
+
+.form-radio-item input[type=radio] {
+    /* display : none;
+    Can't use this because iOS Safari 4 is crap */
+}
+
+.form-radio-item input[type=radio] + label {
+    padding : 0.25em;
+    margin : -0.25em 0 0.25em 0;
+    float : none;
+}
+
+.form-radio-item input[type=radio]:checked + label {
+    padding : 0.25em;
+    margin : -0.25em 0 0.25em 0;
+    font-weight : bold;
+}
+
+.form-submit-button, .form-submit-button:hover {
+    margin : 0;
+    background : #4f89d2;
+    color : white;
+    border-radius : 0.2em;
+    border : none;
+    font-family : 'Source Sans Pro', sans-serif !important;
+    font-size : 1em !important;
+    text-shadow : none;
+    max-width : 30%;
+}
+
+.form-submit-button:hover, .form-pagebreak-back:hover, .form-pagebreak-next:hover {
+    background : #4faad2;
+}
+
+.form-input-wide {
+    text-align : right;
+}
+
+.form-pagebreak-back, .form-pagebreak-next {
+    margin : 0;
+    background : #4f89d2;
+    color : white;
+    border-radius : 0.2em;
+    border : none;
+    font-family : 'Source Sans Pro', sans-serif !important;
+    font-size : 1em !important;
+    text-shadow : none;
+}
+
+.form-pagebreak-next-container {
+
+}
+
+.form-pagebreak-back-container {
+    max-width : 5em;
+}
+
+.form-pagebreak {
+    border : none;
+}
+
+.form-pagebreak-back {
+    float : left;
+}
+
+.form-pagebreak-next, .form-pagebreak-next-container {
+    float : right;
+}
+
+.form-textbox, .form-textarea {
+    width : 15em;
+    padding : 0.5em;
+    font-family : "source sans pro", sans-serif;
+    letter-spacing : 0.1em;
+}
+
