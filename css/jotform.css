@@ -1,5 +1,5 @@
 /* These styles are for use with Bettercare Jotform forms.
- * Import them using the CSS editor in Jotform.
+ * Import them using the CSS editor in Jotform. Everything marked !important because of the order Jotform injects CSS in.
  * Created by Arthur Attwell at Electric Book Works http://electricbookworks.com */
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic);
@@ -19,68 +19,68 @@
 	(min-width: 1024px) 
 	{
 		.jotform-form {
-			padding: 0;
+			padding: 0 !important;
 		}
 	}
 
 .form-all {
-    margin : 0;
-    padding-top : 0;
-    width : 90%;
-    font-family : 'Source Sans Pro', sans-serif;
-    font-size : 1.3em;
+    margin : 0 !important;
+    padding-top : 0 !important;
+    width : 90% !important;
+    font-family : 'Source Sans Pro', sans-serif !important;
+    font-size : 1.3em !important;
     border : none !important;
     box-shadow : none !important;
     -webkit-box-shadow : none !important;
 }
 
 .form-line {
-    clear : both;
-    margin : 0;
-    width : 100%;
-    padding : 1em 0 0 0;
-    display : block;
-    position : relative;
+    clear : both !important;
+    margin : 0 !important;
+    width : 100% !important;
+    padding : 1em 0 0 0 !important;
+    display : block !important;
+    position : relative !important;
 }
 
 .form-section {
-    list-style : none;
-    list-style-position : outside;
-    margin : 0;
-    padding : 0;
-    position : relative;
-    zoom : 1;
-    clear : both;
+    list-style : none !important;
+    list-style-position : outside !important;
+    margin : 0 !important;
+    padding : 0 !important;
+    position : relative !important;
+    zoom : 1 !important;
+    clear : both !important;
 }
 
 .form-label-top, .form-label-left, .form-label-right, .form-checkbox-item label, .form-radio-item label {
-    color : #000000;
+    color : #000000 !important;
 }
 
 .form-label.form-label-left {
     width : inherit !important;
-    font-weight : normal;
-    margin-bottom : 1.25em;
-    float : left;
-    display : inline-block;
-    text-align : left;
-    padding : 0 1em 0 0;
-    white-space : normal;
-    font-family : 'Source Sans Pro', sans-serif;
+    font-weight : normal !important;
+    margin-bottom : 1.25em !important;
+    float : left !important;
+    display : inline-block !important;
+    text-align : left !important;
+    padding : 0 1em 0 0 !important;
+    white-space : normal !important;
+    font-family : 'Source Sans Pro', sans-serif !important;
 }
 
 .form-radio-item label {
-    margin-top : 0;
-    margin-bottom : 0.5em;
-    font-family : 'Source Sans Pro', sans-serif;
-    cursor : pointer;
+    margin-top : 0 !important;
+    margin-bottom : 0.5em !important;
+    font-family : 'Source Sans Pro', sans-serif !important;
+    cursor : pointer !important;
 }
 
 .form-radio {
-    vertical-align : top;
-    margin : 0.25em 0.5em 0 0;
-    padding : 0;
-    float : left;
+    vertical-align : top !important;
+    margin : 0.25em 0.5em 0 0 !important;
+    padding : 0 !important;
+    float : left !important;
 }
 
 .form-radio-item input[type=radio] {
@@ -89,46 +89,46 @@
 }
 
 .form-radio-item input[type=radio] + label {
-    padding : 0.25em;
-    margin : -0.25em 0 0.25em 0;
-    float : none;
+    padding : 0.25em !important;
+    margin : -0.25em 0 0.25em 0 !important;
+    float : none !important;
 }
 
 .form-radio-item input[type=radio]:checked + label {
-    padding : 0.25em;
-    margin : -0.25em 0 0.25em 0;
-    font-weight : bold;
+    padding : 0.25em !important;
+    margin : -0.25em 0 0.25em 0 !important;
+    font-weight : bold !important;
 }
 
 .form-submit-button, .form-submit-button:hover {
-    margin : 0;
-    background : #4f89d2;
-    color : white;
-    border-radius : 0.2em;
-    border : none;
+    margin : 0 !important;
+    background : #4f89d2 !important;
+    color : white !important;
+    border-radius : 0.2em !important;
+    border : none !important;
     font-family : 'Source Sans Pro', sans-serif !important;
     font-size : 1em !important;
-    text-shadow : none;
-    max-width : 30%;
+    text-shadow : none !important;
+    max-width : 30% !important;
 }
 
 .form-submit-button:hover, .form-pagebreak-back:hover, .form-pagebreak-next:hover {
-    background : #4faad2;
+    background : #4faad2 !important;
 }
 
 .form-input-wide {
-    text-align : right;
+    text-align : right !important;
 }
 
 .form-pagebreak-back, .form-pagebreak-next {
-    margin : 0;
-    background : #4f89d2;
-    color : white;
-    border-radius : 0.2em;
-    border : none;
+    margin : 0 !important;
+    background : #4f89d2 !important;
+    color : white !important;
+    border-radius : 0.2em !important;
+    border : none !important;
     font-family : 'Source Sans Pro', sans-serif !important;
     font-size : 1em !important;
-    text-shadow : none;
+    text-shadow : none !important;
 }
 
 .form-pagebreak-next-container {
@@ -136,25 +136,24 @@
 }
 
 .form-pagebreak-back-container {
-    max-width : 5em;
+    max-width : 5em !important;
 }
 
 .form-pagebreak {
-    border : none;
+    border : none !important;
 }
 
 .form-pagebreak-back {
-    float : left;
+    float : left !important;
 }
 
 .form-pagebreak-next, .form-pagebreak-next-container {
-    float : right;
+    float : right !important;
 }
 
 .form-textbox, .form-textarea {
-    width : 15em;
-    padding : 0.5em;
-    font-family : "source sans pro", sans-serif;
-    letter-spacing : 0.1em;
+    width : 15em !important;
+    padding : 0.5em !important;
+    font-family : "source sans pro", sans-serif !important;
+    letter-spacing : 0.1em !important;
 }
-
