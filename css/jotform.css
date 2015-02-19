@@ -1,5 +1,7 @@
 /* These styles are for use with Bettercare Jotform forms. The override Jotform's myriad default styles.
- * Import them using the CSS editor in Jotform. Everything marked !important because of the order Jotform injects CSS in.
+ * Imported with @import "http://electricbookworks.github.io/bettercare/css/jotform.css";
+ * in Jotform Form Designer. E.g http://www.jotform.com//?formID=43496817304561+#design
+ * Everything marked !important because of the order Jotform injects CSS in.
  * Created by Arthur Attwell at Electric Book Works http://electricbookworks.com */
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic);
@@ -28,7 +30,7 @@
     padding-top : 0 !important;
     width : 90% !important;
     font-family : 'Source Sans Pro', sans-serif !important;
-    font-size : 1.3em !important;
+    font-size : 1.5em !important;
     border : none !important;
     box-shadow : none !important;
     -webkit-box-shadow : none !important;
