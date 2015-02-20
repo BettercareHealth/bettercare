@@ -8,10 +8,9 @@ layout: frontmatter
 
 *Adult HIV: What health professionals need to know*
 
-First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout)
+First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 6 April 2011, 25 August 2012, 2 June 2014, 16 January 2014 (layout)
 
 Text © Desmond Tutu HIV Foundation 2014  
-Getup © Electric Book Works
 
 ISBN (print edition): 978-1-920218-17-1  
 ISBN (PDF edition): 978-1-920218-54-6  
