@@ -250,12 +250,15 @@ We can include any iframe in markdown to embed a video, but our preferred method
 Here's a full example:
 
 ~~~
-## Video: Jaundice
+## Video
+{:.non-printing}
+
+### Jaundice
 {:.non-printing}
 
 {% include youtube-start.html %}RRV-9Jf0eI0{% include youtube-end.html %}
 
-Video by the [Global Health Media Project](http://globalhealthmedia.org/) made available under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](creativecommons.org/licenses/by-nc-nd/4.0/)
+Video by the [Global Health Media Project](http://globalhealthmedia.org/) made available under a [Creative Commons Attribution-NonCommercial-NoDerivativess License](creativecommons.org/licenses/by-nc-nd/4.0/)
 {:.non-printing}
 ~~~
 
@@ -264,6 +267,12 @@ Note that this only works with YouTube. If you're embedding from any other servi
 *	use their standard embed iframe
 *	try to select a width of around 850 px
 *	add `style="max-width: 100%;"` and `class="non-printing"` to the iframe tag.
+
+Also, add the video section to the table of contents. The link should be nested as a bullet below the chapter heading, and after any skills chapters: 
+
+~~~
+	*	[Video](3.html#video){:.non-printing}
+~~~
 
 ## General tips
 
