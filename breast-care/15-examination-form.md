@@ -77,4 +77,4 @@ layout: chapter
 </table>
 
 ![Exam form diagram](images/15-1.svg)
-{:.figure .fixed}
+{:.figure-no-caption .fixed}
