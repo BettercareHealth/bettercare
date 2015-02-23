@@ -169,8 +169,8 @@ If your image **has no caption** then instead of `{:.figure}` use `{:.figure-no-
 
 You may need to control how an image is sized and placed on the page, depending on its detail or aspect ratio and nearby images or other elements. You do this by adding the class tag to the line after the `>` lines. You have these options:
 
-* `.small` reduces the image height
-* `.large` fills the width and most of a printed page
+* `.small` reduces the image height.
+* `.large` fills the width and most of a printed page. Try to put these images at the end of a section, because they cause a page break.
 * `.fixed` keeps the figure in its place in the text flow, and will not float it to the top or bottom of a page. For instance, when an image must appear in a step-by-step list of instructions.
 
 You add these classes to the `{:.figure} tag like this:
