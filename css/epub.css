@@ -224,7 +224,7 @@ pre, code {
 /* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
  * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
 
-blockquote.figure {
+blockquote.figure, blockquote.figure-no-caption {
 	clear: both;
 	page-break-inside: avoid;
 	background-color: inherit;
@@ -259,6 +259,15 @@ blockquote.figure.small p img {
 blockquote.figure.large p img {
 	width: 100%;
 	max-height: inherit;
+}
+blockquote.figure-no-caption p img {
+	padding: 0.5em 0 0.5em 0;
+	margin: 0;
+	border-bottom: none;
+}
+.figure-no-caption, .figure-no-caption img {
+	width: 100%;
+	max-height: 20em;
 }
 
 /*

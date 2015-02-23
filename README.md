@@ -163,6 +163,8 @@ The first line is the image reference. It consists of:
 
 The third line is the figure caption, followed by the kramdown tag `{:.figure}`, which lets our stylesheets format the `blockquote` as a figure. (For instance, preventing a page break between the image and the caption in print.)
 
+If your image **has no caption** then instead of `{:.figure}` use `{:.figure-no-caption}` (otherwise there'll be an empty space where a caption should be). 
+
 #### Image placement
 
 You may need to control how an image is sized and placed on the page, depending on its detail or aspect ratio and nearby images or other elements. You do this by adding the class tag to the line after the `>` lines. You have these options:
