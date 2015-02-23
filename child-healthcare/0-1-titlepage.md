@@ -7,7 +7,7 @@ layout: frontmatter
 Child Healthcare
 {:.titlepage-title}
 
-A guide to common paediatric disorders
+A guide to common paediatric&nbsp;disorders
 {:.titlepage-subtitle}
 
 Written by Prof Dave Woods

@@ -13,7 +13,6 @@ First published in 2007 by [Bettercare](http://bettercare.co.za), a division of 
 Updated 23 August 2007, 23 January 2015 (layout)
 
 Text © Eduhealthcare 2007  
-Getup © Electric Book Works 2007
 
 ISBN (paperback): 978-1-920218-01-0  
 ISBN (international paperback): 978-1-920218-15-7  
@@ -28,4 +27,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
