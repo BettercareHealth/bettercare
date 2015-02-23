@@ -123,6 +123,10 @@ Note
 
 Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned earlier in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital. The participant should attempt to answer each question in the case study before reading the correct answer. Case studies without the correct answers are also used at the start of some chapters to identify common clinical problems that need to be addressed.
 
+### Practical skills
+
+Some Bettercare books include chapters on practical skills that need to be practised, preferably in groups. These skills chapters list essential equipment and present step-by-step instructions on how to perform each task, often with pictures. If participants are not familiar with a practical skill, they should ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues.
+
 ### Final examination
 
 On completion of each course, participants can take a 75-question, self-managed multiple-choice examination.
