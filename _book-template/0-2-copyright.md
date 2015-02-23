@@ -6,22 +6,16 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Title Here**
+**Title: Subtitle**
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
 
-Text © 
+Text ©  
+Cover photograph ©  
+Illustrations  
 
-Cover photograph © 
-
-Illustrations 
-
-Getup © Electric Book Works
-
-ISBN (print edition): 
-
-ISBN (PDF edition): 
-
+ISBN (print edition):  
+ISBN (PDF edition):  
 ISBN (reflowable edition): 
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -32,4 +26,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com/contact).
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
