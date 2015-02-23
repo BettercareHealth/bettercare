@@ -755,7 +755,7 @@ The level of care needed is shown as follows:
  </tbody>
 </table>
 
-# BMI table
+## BMI table
 {:.page-break-before}
 
 <table width="100%">
@@ -1219,23 +1219,6 @@ The level of care needed is shown as follows:
    <td>32.3</td>
    <td>30.8</td>
    <td>29.3</td>
-  </tr>
-  <tr>
-   <td>126&nbsp;kg</td>
-   <td>64.3</td>
-   <td>59.9</td>
-   <td>56.0</td>
-   <td>52.4</td>
-   <td>49.2</td>
-   <td>46.3</td>
-   <td>43.6</td>
-   <td>41.1</td>
-   <td>38.9</td>
-   <td>36.8</td>
-   <td>34.9</td>
-   <td>33.1</td>
-   <td>31.5</td>
-   <td>30.0</td>
   </tr>
  </tbody>
 </table>

@@ -10,9 +10,7 @@ Maternal Care
 A health professional's guide to pregnancy and childbirth
 {:.titlepage-subtitle}
 
-Developed by the Perinatal Education Programme
+Developed by the Perinatal Education&nbsp;Programme
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}

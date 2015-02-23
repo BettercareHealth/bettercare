@@ -6,20 +6,11 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Maternal Care: A health professional’s guide to pregnancy and childbirth**
+*Maternal Care: A health professional’s guide to pregnancy and childbirth*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
-
-*	Layout updated: 1 January 2015
-*	Updated: 11 August 2014
-*	Updated: 31 March 2014
-*	Updated: 15 August 2012
-*	Updated: 25 March 2011
-*	Layout updated: 1 August 2011
+First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout)
 
 Text © Perinatal Education Programme
-Getup © Electric Book Works
-Illustrations by Anne Westoby
 
 ISBN (paperback): 978-1-920218-27-0  
 ISBN (PDF ebook): 978-1-920218-45-4  
