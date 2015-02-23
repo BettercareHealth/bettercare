@@ -15,6 +15,7 @@ layout: toc
 3.	[Diagnosis of childhood tuberculosis](3.html)
 4.	[Management of childhood tuberculosis](4.html)
 5.	[Preventing childhood tuberculosis](5.html)
+6.	[Pictures](6.html)
 
 ## Tests
 
