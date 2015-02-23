@@ -6,7 +6,7 @@ layout: answers
 
 # Answers
 
-After each answer, the number indicates from where the questions were taken. For each question that you answer incorrectly, please re-learn the corresponding section.
+Relearn the sections in brackets for questions you get wrong.
 
 ## Test 1: Introduction to perinatal HIV
 
