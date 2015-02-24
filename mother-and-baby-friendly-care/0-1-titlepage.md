@@ -10,9 +10,7 @@ Mother and Baby Friendly Care
 Best practice for healthcare professionals
 {:.titlepage-subtitle}
 
-Developed by the Perinatal Education Project
+Developed by the Perinatal Education&nbsp;Programme
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
