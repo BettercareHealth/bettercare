@@ -7,7 +7,7 @@ layout: frontmatter
 Maternal Mental Health
 {:.titlepage-title}
 
-A guide for healthcare workers
+A guide for health and social workers
 {:.titlepage-subtitle}
 
 Written by Sally Field and Dr&nbsp;Simone&nbsp;Honikman

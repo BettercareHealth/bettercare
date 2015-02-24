@@ -155,7 +155,7 @@ The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is
 
 The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
 
-### Perinatal Mental Health Project
+### The Perinatal Mental Health Project
 
 The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and anxiety. 
 
@@ -188,3 +188,4 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Exams
 
 *	[exams@bettercare.co.za](mailto:exams@bettercare.co.za)
+
