@@ -1,7 +1,9 @@
 
 	<script src="{{ site.baseurl }}/js/anchor.js"></script>
 	<script>
-	addAnchors('h2, h3, h4, h5, h6');
+	if (typeof Prince  === "undefined") {
+		addAnchors('h2, h3, h4, h5, h6');
+	}
 	</script>
 </body>
 </html>

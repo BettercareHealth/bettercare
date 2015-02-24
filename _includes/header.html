@@ -31,22 +31,25 @@
 	
 	<!--Show/Hide script: http://www.cssnewbie.com/example/showhide-content/ -->
 	<script>
-	function showHide(shID) {
-	   if (document.getElementById(shID)) {
-		  if (document.getElementById(shID+'-show').style.display != 'none') {
-			 document.getElementById(shID+'-show').style.display = 'none';
-			 document.getElementById(shID).style.display = 'block';
-		  }
-		  else {
-			 document.getElementById(shID+'-show').style.display = 'block';
-			 document.getElementById(shID).style.display = 'none';
-		  }
-	   }
+	if (typeof Prince  === "undefined") {
+		function showHide(shID) {
+		   if (document.getElementById(shID)) {
+			  if (document.getElementById(shID+'-show').style.display != 'none') {
+				 document.getElementById(shID+'-show').style.display = 'none';
+				 document.getElementById(shID).style.display = 'block';
+			  }
+			  else {
+				 document.getElementById(shID+'-show').style.display = 'block';
+				 document.getElementById(shID).style.display = 'none';
+			  }
+		   }
+		}
 	}
 	</script>
 
 	<!-- Google Analytics-->
 	<script>
+	if (typeof Prince  === "undefined") {
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -54,7 +57,7 @@
 
 	  ga('create', 'UA-5570316-41', 'auto');
 	  ga('send', 'pageview');
-
+	}
 	</script>
 	
 </head>
