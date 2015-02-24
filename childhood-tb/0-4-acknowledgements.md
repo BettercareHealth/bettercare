@@ -19,6 +19,3 @@ Our sincere thanks go to the publishers for their willingness to support this pr
 The funding for this project was obtained from a United States Agency for International Development (USAID) southern Africa grant (under the terms of Agreement No.GHS-A-00-05-00019-00) to the Desmond Tutu Tuberculosis Centre. The grant was administered by the Tuberculosis Control Assistance Programme (TBCAP) through the KNCV Tuberculosis Foundation. The views expressed in this publication do not necessarily reflect the views of the USAID or the United States Government. We also wish to acknowledge the generous funding from Eduhealthcare, a not-for-profit organisation, in writing this book.
 
 *Prof David Woods and Prof Robert Gie*
-
-![Desmond Tutu TB Centre](images/desmond-tutu-tb-centre-logo.svg){:.titlepage-logo}&nbsp;
-![TBCTA – USAID](images/tbcta-usaid-logo.svg){:.titlepage-logo}
