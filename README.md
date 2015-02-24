@@ -163,13 +163,29 @@ The first line is the image reference. It consists of:
 
 The third line is the figure caption, followed by the kramdown tag `{:.figure}`, which lets our stylesheets format the `blockquote` as a figure. (For instance, preventing a page break between the image and the caption in print.)
 
-If your image **has no caption** then instead of `{:.figure}` use `{:.figure-no-caption}` (otherwise there'll be an empty space where a caption should be). 
+If your image has no caption, just skip the empty line and caption line:
+
+```
+> ![Figure 2-A: The Ballard scoring method](images/fig-2-A.svg)
+{:.figure}
+```
+
+If it's important that it doesn't have a border (isn't in a blockquote), you could use:
+
+```
+![Figure 2-A: The Ballard scoring method](images/fig-2-A.svg)
+{:.figure}
+```
+
+Always check print output to be sure you're getting what you intend.
 
 #### Image placement
 
-You may need to control how an image is sized and placed on the page, depending on its detail or aspect ratio and nearby images or other elements. You do this by adding the class tag to the line after the `>` lines. You have these options:
+You may need to control how an image is sized and placed on the page, depending on its detail or aspect ratio and nearby images or other elements. You do this by adding the class tag to the line after the `>` lines. (This applies a class to the blockquote in HTML.) You have these options:
 
-* `.small` reduces the image height.
+* `.x-small` limits the image height. In print, to 30mm.
+* `.small` limits the image height. In print, to 45mm.
+* `.medium` limits the image height. In print, to 90mm.
 * `.large` fills the width and most of a printed page. Try to put these images at the end of a section, because they cause a page break.
 * `.fixed` keeps the figure in its place in the text flow, and will not float it to the top or bottom of a page. For instance, when an image must appear in a step-by-step list of instructions.
 
@@ -177,11 +193,9 @@ You add these classes to the `{:.figure} tag like this:
 
 `{:.figure .small}`
 
-`{:.figure .large}`
-
 `{:.figure .fixed}`
 
-You can combine size and placement classes like this, too:
+and so on. You can combine size and placement classes like this, too:
 
 `{:.figure .fixed .small}`
 
@@ -194,11 +208,13 @@ These constraints make our designs consistent, make layout easier (for print, eb
 ##### Sizes
 
 *	Default width: 115mm (this is just under the 118mm-wide text area in our A5 print format)
-*	Alternative width: 55mm (this is a half-page-width image)
 *	Aspect ratios: 4:3 (portrait or landscape), a closer ratio, or square. Images at wider ratios (e.g. 16:9) than 4:3 make layout more difficult.
+*	Therefore, maximum height is 150mm. (That's very slightly less than a 4:3 height:width ratio.)
 
 On SVG sizes
-:	Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, **if you're creating images in Illustrator**, ideally set your image sizes to 125% of what you intend to appear in the book (115mm × 125% = 143.75mm). We try to compensate for inconsistency in our CSS just in case (see 'image placement' below).
+:	Different SVG editors treat image size differently. For instance, a 2-inch-wide image in Illustrator will appear 1.6 inches wide in Prince and Inkscape. Why? Because when creating the SVG's XML, Illustrator includes its dimensions in pixels, and *assumes a 72dpi resolution*, where Prince and Inkscape follow the W3C SVG spec and assume 90dpi. As a result, images coming out of Illustrator always appear 80% of their intended size. So, if you're creating images in Illustrator, set your image sizes to 125% of what you intend to appear in the book. That means:
+	*	default width 115mm × 125% = 143.75mm
+	*	max height (at 4:3) = 190mm
 
 ##### Resolution
 
