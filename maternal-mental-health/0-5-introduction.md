@@ -12,8 +12,6 @@ Bettercare publishes an innovative series of distance-learning books for healthc
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
-In the Maternal Mental Health book, we are also hoping that this will be of benefit to social workers. While most of the examples are set in the medical facilities, we feel that the knowledge and skills shared in the book are relevant to a range of professionals who work with mothers. 
-
 The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
@@ -153,7 +151,7 @@ The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is
 
 The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
 
-### Perinatal Mental Health Project
+### The Perinatal Mental Health Project
 
 The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and anxiety. 
 
@@ -186,3 +184,4 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Exams
 
 *	[exams@bettercare.co.za](mailto:exams@bettercare.co.za)
+
