@@ -10,7 +10,7 @@ Birth Defects
 Counselling and caring for children with birth defects
 {:.titlepage-subtitle}
 
-Developed by the Perinatal Education Programme
+Developed by the Perinatal Education&nbsp;Programme
 {:.titlepage-author}
 
 Edited by Prof Dave Woods
