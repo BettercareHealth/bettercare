@@ -1,10 +1,10 @@
 ---
 book: Maternal Mental Health
-title: 6. Resources
+title: 7. Resources
 layout: chapter
 ---
 
-6
+7
 {:.chapter-number}
 
 # Resources

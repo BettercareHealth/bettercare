@@ -12,7 +12,7 @@ Editor: Prof Dave Woods
 
 *Maternal Mental Health* has drawn from material from the Perinatal Mental Health Project’s *Maternal Mental Health: A handbook for health workers*. The handbook can be found online at http://www.pmhp.za.org/learn/pmhp-resources. 
 
-The authors would like to acknowledge the contributions made to the content of the handbook by: Emily Baron, Bronwyn Evans, Sheila Faure, Angela Hutchison, Linda Lewis, Ingrid Meintjes, Natasa Meli, Karen Miller, Liz Mills, Songelwa Mobo, Joan Raphael-Leff, Hilary Rosenthal, Lisa Sanders, Bridget Schweitzer, Sarah Skeen and Julie van der Vlugt. 
+The authors would like to acknowledge the contributions made to the content of the handbook by: Emily Baron, Bronwyn Evans, Sheila Faure, Sue Fawcus, Angela Hutchison, Linda Lewis, Crick Lund, Ingrid Meintjes, Natasa Meli, Karen Miller, Liz Mills, Songelwa Mobo, Joan Raphael-Leff, Hilary Rosenthal, Lisa Sanders, Bridget Schweitzer, Sarah Skeen, Roseanne Turner, Julie van der Vlugt and Bavi Vythilingum. 
 
 Graeme Arendse created the illustrations (email: [boeta.gee@gmail.com](mailto:boeta.gee@gmail.com)).
 

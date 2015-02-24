@@ -12,6 +12,8 @@ Bettercare publishes an innovative series of distance-learning books for healthc
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
+In the Maternal Mental Health book, we are also hoping that this will be of benefit to social workers. While most of the examples are set in the medical facilities, we feel that the knowledge and skills shared in the book are relevant to a range of professionals who work with mothers. 
+
 The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
