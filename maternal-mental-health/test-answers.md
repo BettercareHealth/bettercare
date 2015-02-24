@@ -100,7 +100,7 @@ After each answer, the number indicates from where the questions were taken. For
 19.	b	(4-38)
 20.	a	(4-36)
 
-## Test 5: Special issues in maternal mental health
+## Test 5: Special medical issues in maternal mental health
 
 1.	c	(5-1)
 2.	a 	(5-1)
