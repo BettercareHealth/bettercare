@@ -1,5 +1,5 @@
 ---
-book: Title Here
+book: Childhood TB
 title: Title page
 layout: frontmatter
 ---
@@ -16,6 +16,4 @@ Written by Dave Woods and Robert Gie
 with the Desmond Tutu Tuberculosis Centre
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
