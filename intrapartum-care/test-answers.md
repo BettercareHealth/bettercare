@@ -148,7 +148,7 @@ Relearn the sections in brackets for questions you get wrong.
 
 ## Test 7: The puerperium
 
-1.	b (7-1)
+1.	b (7-2)
 2.	b (7-4)
 3.	a (7-4)
 4.	c (7-4)
@@ -159,15 +159,15 @@ Relearn the sections in brackets for questions you get wrong.
 9.	d (7-6)
 10.	a (7-8)
 11.	c (7-10)
-12.	d (7-20)
+12.	d (7-18)
 13.	c (7-24)
-14.	a (7-28)
-15.	d (7-35)
-16.	c (7-37)
-17.	b (7-38)
-18.	a (7-40)
-19.	d (7-42)
-20.	a (7-45)
+14.	a (7-26)
+15.	d (7-33)
+16.	c (7-35)
+17.	b (7-36)
+18.	a (7-38)
+19.	d (7-40)
+20.	a (7-43)
 
 ## Test 8: Family planning after pregnancy
 
