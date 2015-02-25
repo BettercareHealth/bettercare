@@ -267,14 +267,17 @@ ul ul, ol ol {
 ol ol {
 	list-style-type: lower-alpha;
 }
-li:first-of-type {
-	page-break-after: avoid;
+li:nth-child(1) {
+	page-break-before: avoid;
 }
 li:last-of-type {
-	page-break-before: auto;
+	page-break-before: avoid;
 }
 li li:first-of-type {
-	page-break-before: auto;
+	page-break-before: avoid;
+}
+li:last-of-type {
+	page-break-before: avoid;
 }
 pre, code {
 	font-family: "Inconsolata", monospace;
@@ -384,11 +387,15 @@ blockquote.figure {
 	color: inherit;
 	border: 0.5pt solid #666;
 	border-radius: 0.25em;
-	margin: 1em 0 2em 0;
+	margin: 1em 0 1.5em 0;
 	padding: 0.5em;
 	width: 100%;
 }
-.fixed {
+ol li blockquote.figure, ul li blockquote.figure {
+	margin-left: 0; /* Figures don't indent when inside of lists */
+}
+.fixed, .figure.fixed {
+	clear: both;
 	float: none; /* For figures that must keep their position in the text flow, not float to the top of the page. */
 }
 .figure p {
@@ -404,8 +411,9 @@ blockquote.figure {
 	margin: 0 auto 0.5em auto;
 }
 .figure p:nth-child(2) {
-	padding: 0.5em 0;
+	padding: 0.5em 0 0 0;
 	border-top: 0.5pt dashed #ccc;
+	text-align: left;
 }
 .figure.x-small p img {
 	width: auto;
@@ -417,7 +425,7 @@ blockquote.figure {
 }
 .figure.medium p img {
 	width: auto;
-	max-height: 90mm;
+	max-height: 65mm;
 }
 .figure.large {
 	float: none;
@@ -426,6 +434,7 @@ blockquote.figure {
 .figure.large img {
 	max-height: 150mm;
 	max-width: 100%;
+	width: auto;
 }
 
 /*
