@@ -8,18 +8,14 @@ layout: frontmatter
 
 *Childhood HIV: What health professionals need to know*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
-
-Updated 3 August 2011 (layout), 30 January 2013, 24 January 2015 (layout)
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 3 Aug 2011 (layout), 30 Jan 2013, 24 Jan 2015 (layout).
 
 Text © David Woods and Brian Eley 2008  
-Getup © Electric Book Works 2008
+Cover photograph by Anna Nersesyan at Life Studios, Cape Town
 
 ISBN (paperback): 978-1-920218-21-8  
 ISBN (PDF ebook): 978-1-920218-33-1  
 ISBN (reflowable edition): 978-1-920218-97-3
-
-Cover photograph by Anna Nersesyan at Life Studios, Cape Town
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
@@ -29,4 +25,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
