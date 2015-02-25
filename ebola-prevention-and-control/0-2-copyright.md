@@ -8,10 +8,10 @@ layout: frontmatter
 
 *Ebola Prevention and Control*
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com).
+First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com).
 
 Text © Infection Control Africa Network 2015  
-Cover photograph © [EU Humanitarian Aid and Civil Protection](https://www.flickr.com/photos/69583224@N05/13717624625/) licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)  
+Cover photograph © [EU Humanitarian Aid and Civil Protection](https://www.flickr.com/photos/69583224@N05/13717624625/)  
 Illustrations by Lizelle Niit and Kevin Shelley
 
 ISBN (paperback): 978-1-920218-86-7  
@@ -25,3 +25,5 @@ This licence means you may share, copy and redistribute the material in any medi
 * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
