@@ -404,8 +404,9 @@ blockquote.figure {
 	margin: 0 auto 0.5em auto;
 }
 .figure p:nth-child(2) {
-	padding: 0.5em 0;
+	padding: 0.5em 0 0 0;
 	border-top: 0.5pt dashed #ccc;
+	text-align: left;
 }
 .figure.x-small p img {
 	width: auto;
@@ -417,7 +418,7 @@ blockquote.figure {
 }
 .figure.medium p img {
 	width: auto;
-	max-height: 90mm;
+	max-height: 80mm;
 }
 .figure.large {
 	float: none;
@@ -426,6 +427,7 @@ blockquote.figure {
 .figure.large img {
 	max-height: 150mm;
 	max-width: 100%;
+	width: auto;
 }
 
 /*

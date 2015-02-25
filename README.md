@@ -185,7 +185,7 @@ You may need to control how an image is sized and placed on the page, depending 
 
 * `.x-small` limits the image height. In print, to 30mm.
 * `.small` limits the image height. In print, to 45mm.
-* `.medium` limits the image height. In print, to 90mm.
+* `.medium` limits the image height. In print, to 80mm, which allows two figures with shortish captions to fit on a page.
 * `.large` fills the width and most of a printed page. Try to put these images at the end of a section, because they cause a page break.
 * `.fixed` keeps the figure in its place in the text flow, and will not float it to the top or bottom of a page. For instance, when an image must appear in a step-by-step list of instructions.
 
@@ -227,8 +227,8 @@ Using Illustrator? Different SVG editors treat image size differently. For insta
 
 *	Default style: Black and white line art, with average 1mm line thickness.
 *	Use shades of grey only where needed, and as few shades as possible.
-*	Font: Source Sans Pro
-*	Font sizes: 10pt
+*	Font: [Source Sans Pro](https://www.google.com/fonts/specimen/Source+Sans+Pro)
+*	Font sizes: 10pt on 115mm-wide images, 11pt on 145mm-wide images (see note above on using Illustrator)
 *	Fit artboards to artwork bounds; there must be no white space around the art in an image. (We control space with styling.) Since you're creating images to a specific size, you need to **expand artwork to fit the artboard**, *not* fit artboards to artwork bounds, which would make your whole image smaller.
 
 If you use live trace to create art from a raster source, you must clean up the file to remove unnecessary fills that add to file size but do little for clarity.
