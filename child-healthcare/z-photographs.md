@@ -4,7 +4,7 @@ title: Skin conditions photographs
 layout: chapter
 ---
 
-# Pictures
+# Photographs
 
 ## Skin conditions
 

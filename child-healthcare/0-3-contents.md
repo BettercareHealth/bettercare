@@ -26,8 +26,6 @@ layout: toc
 14.	[Home and society](14.html)
 15.	[Childhood mortality](15.html)
 
-*	[Skin conditions: photographs](16.html)
-
 ## Tests
 
 1.	[The history and examination](test-1.html)
@@ -47,3 +45,4 @@ layout: toc
 15.	[Childhood mortality](test-15.html)
 
 *	[Answers](test-answers.html)	
+*	[Skin conditions: photographs](z-photographs.html)
