@@ -71,7 +71,7 @@ layout: index
 
 		<a href="mother-and-baby-friendly-care/0-3-contents.html" title="Mother and Baby Friendly Care"><img class="cover-thumb unavailable" src="mother-and-baby-friendly-care/images/cover-thumb.jpg" alt="Mother and Baby Friendly Care" title="Mother and Baby Friendly Care is for nurses and medical officers who work in labour wards. It covers caring for women during pregnancy, labour and delivery with special emphasis on kangaroo mother care and exclusive breastfeeding." /></a>
 
-		<a href="perinatal-hiv" title="Perinatal HIV"><img class="cover-thumb unavailable" src="perinatal-hiv/images/cover-thumb.jpg" alt="Perinatal HIV" title="Perinatal HIV is for midwives and nurses. It covers the basics of HIV infection and screening, antenatal and intrapartum care of women with HIV infection, care of HIV-exposed newborn infants, and parent counselling." /></a>
+		<a href="perinatal-hiv/0-3-contents.html" title="Perinatal HIV"><img class="cover-thumb unavailable" src="perinatal-hiv/images/cover-thumb.jpg" alt="Perinatal HIV" title="Perinatal HIV is for midwives and nurses. It covers the basics of HIV infection and screening, antenatal and intrapartum care of women with HIV infection, care of HIV-exposed newborn infants, and parent counselling." /></a>
 
 		<a href="primary-newborn-care/0-3-contents.html" title="Primary Newborn Care"><img class="cover-thumb unavailable" src="primary-newborn-care/images/cover-thumb.jpg" alt="Primary Newborn Care" title="Primary Newborn Care is for nurses and midwives who provide primary care for newborn infants. It covers the care of infants at birth, care of normal and low-birth-weight infants, neonatal emergencies, and common minor problems in newborn infants." /></a>
 
