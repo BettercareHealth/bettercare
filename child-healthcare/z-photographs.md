@@ -8,82 +8,82 @@ layout: chapter
 
 ## Skin conditions
 
-> ![Acne](images/p-1.jpg)
+> ![Acne](images/p-1-acne.jpg)
 > 
 > Acne
-{:.figure}
+{:.figure .small .fixed}
 
-> ![Acute eczema](images/p-2.jpg)
+> ![Acute eczema](images/p-2-acute-eczema.jpg)
 > 
 > Acute eczema
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Impetigo](images/p-3.jpg)
+> ![Impetigo](images/p-3-impetigo.jpg)
 > 
 > Impetigo
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Herpes simplex](images/p-4.jpg)
+> ![Herpes simplex](images/p-4-herpes-simplex.jpg)
 > 
 > Herpes simplex
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Chronic eczema](images/p-5.jpg)
+> ![Chronic eczema](images/p-5-chronic-eczema.jpg)
 > 
 > Chronic eczema
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Chicken pox](images/p-6.jpg)
+> ![Chicken pox](images/p-6-chicken-pox.jpg)
 > 
 > Chicken pox
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![HIV rash](images/p-7.jpg)
+> ![HIV rash](images/p-7-hiv-rash.jpg)
 > 
 > HIV rash
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Seborrhoeic dermatitis](images/p-8.jpg)
+> ![Seborrhoeic dermatitis](images/p-8-seborrhoeic-dermatitis.jpg)
 > 
 > Seborrhoeic dermatitis
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Measles](images/p-9.jpg)
+> ![Measles](images/p-9-measles.jpg)
 > 
 > Measles
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Ringworm](images/p-10.jpg)
+> ![Ringworm](images/p-10-ringworm.jpg)
 > 
 > Ringworm
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Molluscum contagiosum](images/p-11.jpg)
+> ![Molluscum contagiosum](images/p-11-molluscum-contagiosum.jpg)
 > 
 > Molluscum contagiosum
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Pellagra rash](images/p-12.jpg)
+> ![Pellagra rash](images/p-12-pellegra-rash.jpg)
 > 
 > Pellagra rash
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Meningococcal septicaemia](images/p-13.jpg)
+> ![Meningococcal septicaemia](images/p-13-meningococcal-septicaemia.jpg)
 > 
 > Meningococcal septicaemia
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Lice](images/p-14.jpg)
+> ![Lice](images/p-14-lice.jpg)
 > 
 > Lice
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Scabies](images/p-15.jpg)
+> ![Scabies](images/p-15-scabies.jpg)
 > 
 > Scabies
-{:.figure}
+{:.figure .medium .fixed}
 
-> ![Papular urticaria](images/p-16.jpg)
+> ![Papular urticaria](images/p-16-papular-urticaria.jpg)
 > 
 > Papular urticaria
-{:.figure}
+{:.figure .medium .fixed}
