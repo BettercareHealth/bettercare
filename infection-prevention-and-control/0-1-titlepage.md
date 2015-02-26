@@ -13,6 +13,7 @@ A guide for healthcare professionals in low-resource settings
 Written by Angela Dramowski
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
+Edited by Dave Woods and Shaheen&nbsp;Mehtar
+{:.titlepage-author}
 
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
