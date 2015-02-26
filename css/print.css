@@ -109,6 +109,21 @@
 	font-weight: 600;
 	font-style: italic;
 }
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(fonts/OpenSans-CondLight.ttf);
+	font-weight: normal;
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(fonts/OpenSans-CondBold.ttf);
+	font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(fonts/OpenSans-CondLightItalic.ttf);
+	font-style: italic;
+}
 
 /* Set up our basic page margins */
 @page { 
@@ -312,10 +327,12 @@ blockquote.box {
 	font-weight: inherit;
 	font-size: inherit;
 	border: 1px solid #ccc;
+	page-break-inside: avoid;
+	float: top unless-fit;
+}
 
 /* Definition lists. Note: we use the dl element as our default element for notes. */
 
-}
 dl {
 	font-family: "Source Sans Pro", sans-serif;
 	color: #666;
@@ -338,10 +355,12 @@ dd .table-caption {
  */
 
 table {
+	display: block;
 	font-family: "Source Sans Pro", sans-serif;
 	border-collapse: collapse;
 	margin: 1em 0;
 	font-size: 80%;
+	max-width: 100%;
 }
 th, td {
 	vertical-align: top;
@@ -376,6 +395,10 @@ td p {
 
 /* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
  * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
+
+img {
+	prince-image-resolution: 200dpi;
+}
 
 blockquote.figure {
 	clear: both;
@@ -565,4 +588,14 @@ ol li blockquote.figure, ul li blockquote.figure {
 
 .videowrapper {
     display: none;
+}
+
+/*
+ * Tricks
+ */
+
+.shrink {
+	font-size: 0.7em; /* Useful for wide tables */
+	font-family: "Open Sans Condensed";
+	font-weight: normal;
 }
