@@ -6,22 +6,14 @@ layout: frontmatter
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
-**Infection Prevention and Control**
+*Infection Prevention and Control: A guide for healthcare professionals in low-resource settings*
 
-**Author**: Dr Angela Dramowski
-
-**Editors**: Prof D. Woods and Prof S. Mehtar
-
-First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). 
+First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
 
 Text © Academic Unit for Infection Prevention and Control, Stellenbosch University
 
-Getup © Electric Book Works
-
-ISBN (print edition): 978-1-920218-81-2
-
-ISBN (PDF edition): 978-1-920218-82-9
-
+ISBN (print edition): 978-1-920218-81-2  
+ISBN (PDF edition): 978-1-920218-82-9  
 ISBN (reflowable edition): 978-1-928313-03-8
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
