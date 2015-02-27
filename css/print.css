@@ -214,6 +214,13 @@ div.frontmatter, div.toc, div.chapter, div.test, div.answers {
 	page-break-inside: avoid;
 }
 
+/* To allow a break where default styles would normally avoid one */
+.allow-break {
+	page-break-before: inherit;
+	page-break-after: inherit;
+	page-break-inside: inherit;
+}
+
 /* Hide screen-only and non-printing elements */
 .non-printing {
 	display: none;
@@ -413,9 +420,10 @@ blockquote.figure {
 	margin: 1em 0 1.5em 0;
 	padding: 0.5em;
 	width: 100%;
+	box-sizing: border-box;
 }
 ol li blockquote.figure, ul li blockquote.figure {
-	margin-left: 0; /* Figures don't indent when inside of lists */
+	display: inline-block; /* Experimental. Effectively overrides 'unless-fit' to reduce ugly instances of indented images in lists beside floated, non-indented images. */
 }
 .fixed, .figure.fixed {
 	clear: both;
@@ -459,6 +467,9 @@ ol li blockquote.figure, ul li blockquote.figure {
 	max-width: 100%;
 	width: auto;
 }
+.logo {
+	max-width: 10em;
+}
 
 /*
  * Title page
@@ -484,7 +495,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 	margin: 0 0 1em 0;
 }
 .titlepage-logo {
-	width: 200px;
+	max-width: 10em;
 	position: absolute;
 	bottom: 0;
 }
