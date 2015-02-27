@@ -18,4 +18,4 @@ We have had great fun writing the book. As can be seen from the page of acknowle
 
 *Prof David Woods* is a retired neonatologist in Cape Town and the editor-in-chief of the renowned Perinatal Education Programme. He is passionate about self-empowered distant learning for all health professionals.
 
-![Breast Course 4 Nurses](images/breast-course-4-nurses-logo.jpg){:.titlepage-logo}
+![Breast Course 4 Nurses](images/breast-course-4-nurses-logo.jpg){:.logo}

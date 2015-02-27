@@ -13,6 +13,4 @@ A health professional's guide to the diagnosis and management of common breast c
 Written by Jenny Edge and Dave&nbsp;Woods
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
