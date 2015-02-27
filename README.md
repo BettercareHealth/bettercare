@@ -216,6 +216,8 @@ Using Illustrator? Different SVG editors treat image size differently. For insta
 *	default width 115mm × 125% = 143.75mm
 *	max height (at 4:3) = 190mm
 
+Check out [Adobe's guidance on saving SVGs](https://helpx.adobe.com/illustrator/using/saving-artwork.html#save_in_svg_format).
+
 ##### Resolution
 
 *	For SVG images, the editor you use will determine underlying resolution. Illustrator uses 72dpi, and Inkscape 90dpi. We favour and assume 90dpi, but can rescale SVG images with  our stylesheets just in case.
