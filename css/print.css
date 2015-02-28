@@ -337,6 +337,7 @@ blockquote.box {
 	page-break-inside: avoid;
 	float: top unless-fit;
 }
+blockquote.box.large {}
 
 /* Definition lists. Note: we use the dl element as our default element for notes. */
 
