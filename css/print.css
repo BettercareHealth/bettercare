@@ -384,6 +384,9 @@ thead, th {
 	page-break-after:avoid;
 	font-style: italic;
 }
+.table-caption em {
+	font-style: normal;
+}
 td {
 	page-break-inside: avoid;
 }
