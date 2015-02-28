@@ -356,9 +356,16 @@ td p {
 	margin: 0;
 	padding: 0;
 }
+td ul, td ol {
+	margin: 0;
+	padding: 0 0 0 1em;
+}
 .table-caption {
 	page-break-after:avoid;
 	font-style: italic;
+}
+.table-caption em {
+	font-style: normal;
 }
  
 /*
@@ -587,4 +594,12 @@ img.thumbnail {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+/*
+ * Tricks
+ */
+
+.shrink {
+	font-size: 0.7em; /* Useful for wide tables */
 }
