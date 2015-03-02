@@ -14,7 +14,7 @@ Text © Perinatal Education Programme 2009
 
 Illustrations by Anne Westoby
 
-ISBN (paperback): 978-1-920218-43  
+ISBN (paperback): 978-1-920218-43-0  
 ISBN (PDF ebook): 978-1-920218-44-7  
 ISBN (reflowable ebook): 978-1-928313-07-6
 
