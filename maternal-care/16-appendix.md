@@ -778,6 +778,7 @@ The level of care needed is shown as follows:
    <td>205 cm</td>
   </tr>
  </thead>
+ <tbody>
   <tr>
    <td>48&nbsp;kg</td>
    <td>24.5</td>
