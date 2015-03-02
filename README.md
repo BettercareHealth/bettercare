@@ -80,6 +80,9 @@ Always remember how important your work is here: these books literally save live
 	*	Click 'Create Table'. (The default settings are usually fine. Play with them only if you need to.)
 	*	Copy the Output and paste it into your markdown file.
 	*	The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
+	
+	If you create an HTML table, make sure it validates as the very strict XHTML 1.1 – this is needed for EPUB2 validation. (E.g. remember to include a `<tbody>` element.)
+	
 1.	Add markdown/code for the images, and make sure the image files are in the book's `images` folder. See the images section below for detail on this.
 
 ### YAML headers
@@ -338,22 +341,18 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
-*	Add `epub.css` to your `Styles` folder.
-
-### Add JPGs and rename image references
-
 *	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations).
-*	Search for `.svg` in image references and replace with `.jpg`.
-
-### Update paths
-
-*	Replace the paths to `screen.css` to a path to `epub.css` in all `<head>` elements (`/css/screen.css` becomes `../Styles/epub.css`) using search-and-replace.
+*	Add `epub.css` to your `Styles` folder.
 
 ### Search-and-replace
 
 For the removals listed here, search-and-replace with the 'Replace' box empty.
 
-*	Remove paths to `screen.css` and `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
+*	Search for `.svg` in image references and replace with `.jpg`.
+
+*	Replace the paths to `screen.css` to a path to `epub.css` in all `<head>` elements (`/css/screen.css` becomes `../Styles/epub.css`) using search-and-replace.
+
+*	Remove paths to `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
 
 *	Remove the favicon links and meta from the `<head>` element. (From `<!--Links and meta for favicons` to `End favicon links and meta-->`.)
 
