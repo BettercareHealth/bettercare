@@ -322,6 +322,7 @@ blockquote.figure {
 		max-height: 600px;
 	}
 }
+
 /*
  * Tables 
  */
@@ -360,7 +361,7 @@ td ul, td ol {
 .table-caption em {
 	font-style: normal;
 }
- 
+
 /*
  * Title page 
  */
