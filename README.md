@@ -380,8 +380,16 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 ### Add metadata, semantics and TOC
 	
-*	Add basic metadata to your epub using Sigil's Metadata Editor. Include at least title with subtitle, author, date, and publisher.
-*	Add semantics to key HTML files and the cover image (right click the file name in Sigil for the semantics context menu).
+*	Add basic metadata to your epub using Sigil's Metadata Editor. Include at least:
+	*	title: subtitle
+	*	author
+	*	date of creation
+	*	publisher (Bettercare)
+	*	ISBN
+	*	Relation ISBN (we use the print ISBN as a parent ISBN)
+*	Add semantics (right click the file name in Sigil for the semantics context menu) to:
+	*	key HTML files
+	*	the cover JPG.
 *	Generate the epub's table of contents (Tools > Table Of Contents…).
 
 ### Validate
