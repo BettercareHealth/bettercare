@@ -378,6 +378,10 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 	
 	`<p><a class="button non-printing" href="http://ls.bettercare.co.za">Online tests</a></p>`
 
+*	Replace videos with a link to the Learning Station. (The main reason is that iframes are invalid in EPUB2 XHTML 1.1.) This must be done manually.
+	*	Search for `videowrapper` to find instances of embedded videos.
+	*	Replace all references to specific videos with `<p>To watch the videos, visit <a href="http://ls.bettercare.co.za">the online version of this book</a>.</p>`.
+	
 ### Add metadata, semantics and TOC
 	
 *	Add basic metadata to your epub using Sigil's Metadata Editor. Include at least:
