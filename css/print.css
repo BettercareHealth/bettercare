@@ -301,6 +301,9 @@ li li:first-of-type {
 li:last-of-type {
 	page-break-before: avoid;
 }
+.chapter li > ul {
+	margin-bottom: 0.5em; /* manages line space after sublists in lists */
+}
 pre, code {
 	font-family: "Inconsolata", monospace;
 	white-space: pre-wrap;
