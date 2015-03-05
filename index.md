@@ -39,6 +39,8 @@ layout: index
 		
 		<a href="birth-defects/0-3-contents.html" title="Birth Defects"><img class="cover-thumb" src="birth-defects/images/cover-thumb.jpg" alt="Birth Defects" title="Birth Defects is for those who work with patients with birth defects. It covers modes of inheritance, medical genetic counselling, birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance."/></a>
 		
+		<a href="breast-care/0-3-contents.html" title="Breast Care"><img class="cover-thumb" src="breast-care/images/cover-thumb.jpg" alt="Breast Care" title="Breast Care is for nurses and doctors who manage the health needs of women from childhood to old age. It covers the assessment and management of benign breast conditions, breast cancer and palliative care." /></a>
+		
 		<a href="ebola-prevention-and-control/0-3-contents.html" title="Ebola Prevention and Control"><img class="cover-thumb" src="ebola-prevention-and-control/images/cover-thumb.jpg" alt="Ebola Prevention and Control" title="Ebola Prevention and Control is a crucial guide to managing, preventing and controlling Ebola and other viral haemorrhagic fevers, especially in resource-limited settings. This book is for healthcare workers, managers and administrators and covers virology and epidemology, patient management, protection of health care workers, and support services. It is written by Dr Angela Dramowski (Stellenbosch University) and Professor Shaheen Mehtar (Stellenbosch, ICAN, WHO), and endorsed by the Infection Control Africa Network (ICAN)." /></a>
 		
 		<a href="newborn-care/0-3-contents.html" title="Newborn Care"><img class="cover-thumb" src="newborn-care/images/cover-thumb.jpg" alt="Newborn Care" title="Newborn Care is for healthcare workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation, assessing size and gestational age, routine care of normal and high-risk infants, hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, and communication with parents." /></a>
@@ -50,8 +52,6 @@ layout: index
 	<div class="index-coming-soon">
 
 		<h1>Coming soon</h1>
-
-		<a href="breast-care/" title="Breast Care"><img class="cover-thumb unavailable" src="breast-care/images/cover-thumb.jpg" alt="Breast Care" title="Breast Care is for nurses and doctors who manage the health needs of women from childhood to old age. It covers the assessment and management of benign breast conditions, breast cancer and palliative care." /></a>
 
 		<a href="child-healthcare/" title="Child Healthcare"><img class="cover-thumb unavailable" src="child-healthcare/images/cover-thumb.jpg" alt="Child Healthcare" title="Child Healthcare is for GPs and paediatric nurses in primary care settings. It cover common and important clinical problems in children, including immunisation, history and examination, growth and nutrition, acute and chronic infections, parasites, skin conditions, and difficulties in the home and society." /></a>
 
