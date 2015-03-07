@@ -10,7 +10,7 @@ layout: chapter
 
 Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project, the Academic Unit for Infection Prevention and Control at Stellenbosch University, and the Infection Control Africa Network, with contributions from numerous experts.
 
-Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
+Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care. In *Maternal Mental Health*, we are also hoping that this will be of benefit to social workers. While most of the examples are set in the medical facilities, we feel that the knowledge and skills shared in the book are relevant to a range of professionals who work with mothers. 
 
 The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
@@ -157,7 +157,7 @@ The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, s
 
 ### The Perinatal Mental Health Project
 
-The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and anxiety. 
+The Perinatal Mental Health Project of the Centre for Public Mental Health in the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women in low-resource settings who are at risk of depression and anxiety. 
 
 ### The Infection Control Africa Network
 
@@ -188,4 +188,3 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Exams
 
 *	[exams@bettercare.co.za](mailto:exams@bettercare.co.za)
-
