@@ -23,442 +23,400 @@ This section provides copies of the screening tools discussed in this book, info
 8.	South African national helplines
 9.	South African organisations for training in counselling
 
-## 1.	Screening tools
+## 1. Screening tools
 
 *	The screening tools can be copied and used for screening. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French.  
 *	Information about how to score each screening tool can be found in Chapter 2. 
 
-### 1-1 The Whooley Depression Screen
+> ### The Whooley Depression Screen (English)
+> 
+> 1. During the past month, have you been bothered by feeling down, depressed or hopeless? Yes/No
+> 2. During the past month, have you been bothered by little interest or pleasure in doing things? Yes/No
+> 3. Is this something you feel you need or want help with? Yes/No
+{:.box .fixed}
 
-The Whooley Depression Screen (English)
-{:.table-caption}
+> ### The Whooley Depression Screen (Afrikaans)
+> 
+> 1. Gedurende die laaste maand, was jy gepla deur om teneergedruk, depressief of sonder hoop te voel? Ja/Nee
+> 2. Gedurende die laaste maand, was jy gepla deur min plesier in dinge doen, of min belangstelling in dinge? Ja/Nee
+> 3. Voel jy dis iets waarmee hy hulp benodig het, of hulp mee wil hê? Ja/Nee
+{:.box .fixed}
 
-|---+-----------------------------------------------------------------------------------------------+---------+--------|
-|   |                                           Question                                            | **Yes** | **No** |
-|---+-----------------------------------------------------------------------------------------------+---------+--------|
-| 1 | During the past month, have you been bothered by feeling down, depressed or hopeless?         | Yes     | No     |
-| 2 | During the past month, have you been bothered by little interest or pleasure in doing things? | Yes     | No     |
-| 3 | Is this something you feel you need or want help with?                                        | Yes     | No     |
-|---+-----------------------------------------------------------------------------------------------+---------+--------|
+> ### The Whooley Depression Screen (IsiXhosa)
+> 
+> 1. Kule nyanga igqithileyo / idlulileyo ingaba ukhe waziva umoya wakho uphantsi, ukhathazekile ungenalo ithemba? Ewe/Hayi
+> 2. Kule nyanga igqithileyo / idlulileyo ingaba ukhe wahlutshwa kungabi namdla ekwenzeni izinto okanye ok umdla omncinci ekwenzeni izinto? Ewe/Hayi
+> 3. Ingaba lento uziva ufuna / udlinga unceolo ngayo na? Ewe/Hayi
+{:.box .fixed}
 
-The Whooley Depression Screen (Afrikaans)
-{:.table-caption}
+> ### The Whooley Depression Screen (French)
+> 
+> 1. Pendant le mois passé, avez-vous été embêtée par les problèmes suivants: se sentir malheureuse, dépressive ou désespérée? Oui/Non
+> 2. Pendant le mois passé, avez-vous été embêtée par un manque d’intérêt ou de plaisir à effectuer des activités? Oui/Non
+> 3. Voulez-vous ou avez-vous besoin d’aide avec ces sentiments-là? Oui/Non
+{:.box .fixed}
 
-|---+----------------------------------------------------------------------------------------------------------+----+-----|
-|   |                                                  Vraag                                                   | Ja | Nee |
-|---+----------------------------------------------------------------------------------------------------------+----+-----|
-| 1 | Gedurende die laaste maand, was jy gepla deur om teneergedruk, depressief of sonder hoop te voel?        | Ja | Nee |
-| 2 | Gedurende die laaste maand, was jy gepla deur min plesier in dinge doen, of min belangstelling in dinge? | Ja | Nee |
-| 3 | Voel jy dis iets waarmee hy hulp benodig het, of hulp mee wil hê?                                        | Ja | Nee |
-|---+----------------------------------------------------------------------------------------------------------+----+-----|
+> ### Edinburgh Postnatal Depression Scale (EPDS) (English)
+> 
+> *My feelings now that I am pregnant/have had a baby*
+> 
+> As you are pregnant/have had a baby, we would like to know how you are feeling. It may assist us in choosing the best care for your needs. The information you provide us will be kept private and confidential. 
+> 
+> There is a choice of four answers for each question. Please mark the one that comes closest to how you have felt in the past seven days, not just how you feel today.
+> 
+> 1. I have been able to see the funny side of things:  
+> ☐ As much as I always could  
+> ☐ Not quite so much now  
+> ☐ Definitely not so much now  
+> ☐ Not at all
+> 2. I have looked forward with enjoyment to things:  
+> ☐ As much as I ever did  
+> ☐ A little less than I used to  
+> ☐ Much less than I used to  
+> ☐ Hardly at all
+> 3. I have blamed myself when things went wrong, and it wasn’t my fault:  
+> ☐ Yes, most of the time  
+> ☐ Yes, some of the time  
+> ☐ Not very much  
+> ☐ No, never
+> 4. I have been worried and I don’t know why:  
+> ☐ No, not at all  
+> ☐ Hardly ever  
+> ☐ Yes, sometimes  
+> ☐ Yes, very much
+> 5. I have felt scared or panicky and I don’t know why:  
+> ☐ Yes, quite a lot  
+> ☐ Yes, sometimes  
+> ☐ No, not much  
+> ☐ No, not at all
+> 6. I have had difficulty in coping with things:  
+> ☐ Yes, most of the time I haven’t been coping at all  
+> ☐ Yes, sometimes I haven’t been coping as well as usual  
+> ☐ No, most of the time I have coping quite well  
+> ☐ No, I have been coping as well as ever
+> 7. I have been so unhappy I have had difficulty sleeping:  
+> ☐ Yes, most of the time  
+> ☐ Yes, sometimes  
+> ☐ Not very much  
+> ☐ No, not at all
+> 8. I have felt sad and miserable:  
+> ☐ Yes, most of the time  
+> ☐ Yes, quite a lot  
+> ☐ Not very much  
+> ☐ No, not at all
+> 9. I have been so unhappy that I have been crying:  
+> ☐ Yes, most of the time  
+> ☐ Yes, quite a lot  
+> ☐ Only sometimes  
+> ☐ No, never
+> 10. I have thought of harming myself or ending my life:  
+> ☐ Yes, quite a lot  
+> ☐ Sometimes  
+> ☐ Hardly ever  
+> ☐ Never
+> 
+> Thank you
+{:.box}
 
-The Whooley Depression Screen (IsiXhosa)
-{:.table-caption}
+> ### Edinburgh Postnatal Depression Scale (EPDS) (Afrikaans)
+> 
+> *My gevoelens nou dat ek swanger is/my baba gekry het*
+> 
+> Nou dat jy swanger is/die baba het, wil ons graag weet hoe jy voel. Dit mag ons help om die beste sorg vir jou behoeftes te beplan. Die inligting wat jy aan ons verskaf sal privaat en vertroulik hanteer word.
+> 
+> Daar is ‘n keuse van vier antwoorde vir elke vraag. Omsirkel asseblief die antwoord wat die beste beskryf hoe jy gedurende die afgelope sewe dae gevoel het, nie net hoe jy nou vandag voel nie.
+> 
+> Gedurende die afgelope sewe dae:	 
+> 
+> 1. Kon ek die snaakse kant van dinge sien:  
+> ☐ So maklik soos ek altyd kon  
+> ☐ Nie heeltemal so maklik nie  
+> ☐ Definitief nie so maklik nie  
+> ☐ Glad nie  
+> 2. Kon ek met genot na dinge uitsien:  
+> ☐ So baie soos ek altyd het  
+> ☐ ‘n Bietjie minder as wat ek altyd het  
+> ☐ Baie minder as wat ek gewoonlik het  
+> ☐ Amper glad nie  
+> 3. Het ek myself blameer wanneer dinge verkeerd gaan, al was dit nie my skuld nie:  
+> ☐ Ja, meeste van die tyd  
+> ☐ Ja, soms  
+> ☐ Nee, nie dikwels nie  
+> ☐ Nee, nooit nie  
+> 4. Was ek bekommerd en ek weet nie hoekom nie:  
+> ☐ Nee, glad nie  
+> ☐ Omtrent nooit  
+> ☐ Ja, soms  
+> ☐ Ja, dikwels  
+> 5. Het ek bang en paniekerig gevoel en ek weet nie hoekom nie:  
+> ☐ Ja, nogal baie  
+> ☐ Ja, soms  
+> ☐ Nee, nie so baie nie  
+> ☐ Nee, glad nie  
+> 6. Het ek gesukkel om dinge te hanteer:  
+> ☐ Ja, meeste van die tyd sukkel ek om dinge te hanteer  
+> ☐ Ja, soms hanteer ek dinge nie so maklik soos gewoonlik nie  
+> ☐ Nee, meesal hanteer ek dinge redelik goed  
+> ☐ Nee, ek hanteer dinge so goed as wat ek altyd kon  
+> 7. Was ek so ongelukkig dat ek sleg geslaap het:  
+> ☐ Ja, meeste van die tyd  
+> ☐ Ja, soms  
+> ☐ Nie dikwels nie  
+> ☐ Nee, glad nie  
+> 8. Het ek hartseer en ongelukkig gevoel:  
+> ☐ Ja, meeste van die tyd  
+> ☐ Ja, nogal dikwels  
+> ☐ Nie dikwels nie  
+> ☐ Nee, nooit nie  
+> 9. Was ek so hartseer dat ek gehuil het:  
+> ☐ Ja, meeste van die tyd  
+> ☐ Ja, dikwels  
+> ☐ Net soms  
+> ☐ Nee, nooit  
+> 10. Die idee om myself leed aan te doen het al by my opgekom:  
+> ☐ Ja, nogal dikwels  
+> ☐ Soms  
+> ☐ Amper nooit  
+> ☐ Nooit  
+> 
+> Baie dankie
+{:.box}
 
-|---+----------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-|   |                                                                 Umbuzo                                                                 | Ewe | Hayi |
-|---+----------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-| 1 | Kule nyanga igqithileyo / idlulileyo ingaba ukhe waziva umoya wakho uphantsi, ukhathazekile ungenalo ithemba?                          | Ewe | Hayi |
-| 2 | Kule nyanga igqithileyo / idlulileyo ingaba ukhe wahlutshwa kungabi namdla ekwenzeni izinto okanye ok umdla omncinci ekwenzeni izinto? | Ewe | Hayi |
-| 3 | Ingaba lento uziva ufuna / udlinga unceolo ngayo na?                                                                                   | Ewe | Hayi |
-|---+----------------------------------------------------------------------------------------------------------------------------------------+-----+------|
+> ### Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
+> 
+> *Indlela endiziva ngayo ngexa ndikhulelweyo naxa disasandula ukufumana umntwana*
+> 
+> Njengokuba ukhulelewe okanye usandula ukufumana usana sifuna ukwazi ukuba uziva njani. Oko kungasinceda ukukhetha eyona ndlela esingathi sincedisane nemfuno zakho. Yonke inkcazelo oyakuthi usinike yona izakugcinwa iyimfihlo.
+> 
+> Kunentlobo ezine zempendulo kumbuzo ngamnye, Nceda yenza isangqa kwenye ethe yasondela kwindlela ubuziva ngayo kwintsuku ezisixhenxe ezidlulileyo, hayi ngendlela oziva ngayo ngoku.
+> 
+> Kwintsuku ezisixhenxe ezidlulileyo:	 
+> 
+> 1. Ndibenakho ukubona icala lezinto ezingalunganga:  
+> ☐ Kangangoko bendisenza  
+> ☐ Hayi kangako  
+> ☐ Ngokuqinesekileyo akukho kangako ngoku  
+> ☐ Akukho kwaphela  
+> 2. Izinto ndizijonga ndinolonwabo:  
+> ☐ Njengoko bendihlala ndisenza  
+> ☐ Kancinane kunokuba ndisenza  
+> ☐ Kancinci kakhulu kunokuba bendisenza  
+> ☐ Hayi konke konke  
+> 3. Bendibeka ityala kum xa izinto zingandihambeli kakhule, ibe ingeyompazamo yam:  
+> ☐ Ewe amaxesha amaninzi  
+> ☐ Ewe ngelinye ixesha  
+> ☐ Hayi kangako  
+> ☐ Hayi kwaphela  
+> 4. Bendikhathazekile kwaye ndingamazi unobangela:  
+> ☐ Hayi konke konke  
+> ☐ Kunqabile ukuba kwenzeka  
+> ☐ Ewe ngamanye amaxesha  
+> ☐ Ewe kakhulu  
+> 5. Bendiziva ndisoyika okanye ndinexhala kwaye ndingamazi unobangela:  
+> ☐ Ewe kakhulu  
+> ☐ Ewe ngamanye amaxesha  
+> ☐ Hayi kangako  
+> ☐ Hayi konke konke  
+> 6. Ndifumene ubunzima kakhulu ukumelana nezinto:  
+> ☐ Ewe ixesha elininzi bendikwazi ukumelana nezinto  
+> ☐ Ewe ngelinye ixesha bendingakwazi ukumelana nezinto ngendlela ebendimelana nazo ngayo  
+> ☐ Hayi ixesha elininzi bendiphumelela kakhulu  
+> ☐ Hayi bendingafumani bunzima kwaphela  
+> 7. Bendingonwabanga kakhulu kwaye bendifumana ubunzima xa kufuneka ndilele:  
+> ☐ Ewe ixesha elininzi  
+> ☐ Ewe ngalinye ixesha  
+> ☐ Hayi kangako  
+> ☐ Hayi konke konke  
+> 8. Bendizive ndibuhlungu kwaye ndixhalisekile:  
+> ☐ Ewe amaxesha amaninzi  
+> ☐ Ewe ngolonahlobo  
+> ☐ Hayi kangako  
+> ☐ Hayi konke konke  
+> 9. Bendingonwabanga kakhulu ndisoloko ndilila:  
+> ☐ Ewe ixesha elininzi  
+> ☐ Ewe ngolonahlobo  
+> ☐ Ngamanye amaxesha  
+> ☐ Hayi azange  
+> 10. Ingcinga yokuzenzakalisa ike yandifikela:  
+> ☐ Ewe ngolonahlobo  
+> ☐ Ngamanye amaxesha  
+> ☐ Ayizange kwaphela  
+> ☐ Ayizange  
+> 
+> Enkosi kakhulu
+{:.box}
 
-The Whooley Depression Screen (French)
-{:.table-caption}
+> ### Edinburgh Postnatal Depression Scale (EPDS) (French)
+> 
+> *Mes sentiments, maintenant que je suis enceinte/que j’ai un bébé*
+> 
+> Comme vous êtes enceinte/vous avez un bébé, nous aimerions savoir comment vous vous sentez. Cela nous aidera à choisir les meilleurs soins dont vous avez besoin. Les renseignements que vous nous fournirez demeureront privés et confidentiels.
+> 
+> Il y a un choix de quatre réponses pour chaque question. Encerclez celle qui se rapproche le plus de la manière dont vous vous êtes sentie les sept derniers jours, et pas seulement la manière dont vous vous sentez aujourd’hui.
+> 
+> Les sept derniers jours:	 
+> 
+> 1. J’ai été capable de voir le côté amusant des choses:  
+> ☐ Autant que je l’ai toujours pu  
+> ☐ Pas autant maintenant  
+> ☐ Certainement pas autant  
+> ☐ Pas du tout  
+> 2. J’ai attendu les événements avec impatience et plaisir:  
+> ☐ Autant que je l’ai toujours fait  
+> ☐ Un peu moins qu’auparavant  
+> ☐ Bien moins que d’habitude  
+> ☐ Presque pas  
+> 3. Je me suis blâmée quand les choses n’allaient pas bien et que ce n’était pas ma faute:  
+> ☐ Oui, la plupart du temps  
+> ☐ Oui, quelquefois  
+> ☐ Pas beaucoup  
+> ☐ Non jamais  
+> 4. J’étais inquiète, et je ne savais pas pourquoi:  
+> ☐ Non, pas du tout  
+> ☐ Presque jamais  
+> ☐ Oui, quelquefois  
+> ☐ Oui, beaucoup  
+> 5. Je me suis sentie effrayée et pleine de panique et je ne savais pas pourquoi:  
+> ☐ Oui, beaucoup  
+> ☐ Oui, quelquefois  
+> ☐ Non, pas beaucoup  
+> ☐ Non pas du tout  
+> 6. J’ai eu des difficultés à faire face aux événements:  
+> ☐ Oui, la plupart du temps, je n’ai pas pu me débrouiller  
+> ☐ Oui, quelquefois, je n’ai pas pu me débrouiller comme d’habitude  
+> ☐ Non, la plupart du temps, je me suis assez bien débrouillée  
+> ☐ Non, je me suis pas débrouillée aussi bien qu’avant  
+> 7. J’ai été si malheureuse, que j’ai eu des difficultés à dormir:  
+> ☐ Oui, la plupart du temps  
+> ☐ Oui, quelquefois  
+> ☐ Pas beaucoup  
+> ☐ Non, pas du tout  
+> 8. Je me suis sentie triste et misérable:  
+> ☐ Oui, la plupart du temps  
+> ☐ Oui, beaucoup  
+> ☐ Non, pas beaucoup  
+> ☐ Non, pas du tout  
+> 9. J’ai été si malheureuse que j’ai pleuré:  
+> ☐ Oui, la plupart du temps  
+> ☐ Oui, beaucoup  
+> ☐ Quelquefois seulement  
+> ☐ Non, jamais  
+> 10. La pensée de me faire du mal m’est venue:  
+> ☐ Oui, souvent  
+> ☐ Quelquefois  
+> ☐ Presque jamais  
+> ☐ Jamais  
+> 
+> Merci
+{:.box}
 
-|---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
-|   |                                                         Question                                                          | Oui | Non |
-|---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
-| 1 | Pendant le mois passé, avez-vous été embêtée par les problèmes suivants: se sentir malheureuse, dépressive ou désespérée? | Oui | Non |
-| 2 | Pendant le mois passé, avez-vous été embêtée par un manque d’intérêt ou de plaisir à effectuer des activités?             | Oui | Non |
-| 3 | Voulez-vous ou avez-vous besoin d’aide avec ces sentiments-là?                                                            | Oui | Non |
-|---+---------------------------------------------------------------------------------------------------------------------------+-----+-----|
+> ### Risk Factor Assessment (RFA) (English)
+> 
+> *My situation now that I am pregnant/have had my baby:*
+> 
+> We are interested to find out how your situation is in your pregnancy/now that you have had your baby. This questionnaire may help us suggest extra care for you if necessary. Your answers will be kept confidential. Please answer either yes or no to the following questions. Tick the box.
+> 
+> |    |                                                                                                                                        | Yes | No |
+> |----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
+> |  1 | I feel pleased about being pregnant/now that I have had my baby.                                                                       |     |    |
+> |  2 | I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home etc.) |     |    |
+> |  3 | My husband/boyfriend and I are still together.                                                                                         |     |    |
+> |  4 | I feel my husband/boyfriend cares about me (say no if you are not with him anymore).                                                   |     |    |
+> |  5 | My husband/boyfriend or someone else in the household is sometimes violent towards me.                                                 |     |    |
+> |  6 | My family and friends care about how I feel.                                                                                           |     |    |
+> |  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                            |     |    |
+> |  8 | My family and friends help me in practical ways.                                                                                       |     |    |
+> |  9 | On the whole, I have a good relationship with my own mother (indicate “no” if your mother has passed away).                            |     |    |
+> | 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.  |     |    |
+> | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
+> 
+> Thank you
+{:.box .fixed}
 
-### 1-2 Edinburgh Postnatal Depression Scale (EPDS)
+> ### Risk Factor Assessment (RFA) (Afrikaans)
+> 
+> *My situasie nou dat ek swanger is/my baba gekry het*
+> 
+> Ons stel daarin belang om uit te vind wat jou situasie is in jou swangerskap. Hierdie vrae kan ons help om moontlik extra hulp vir jou aan te bied indien nodig. Jou antwoorde sal vetroulik hanteer word.
+> 
+> Antwoord asseblief Ja of Nee op die volgende vrae. Maak ‘n kruisie.
+> 
+> |    |                                                                                                                                   | Ja | Nee |
+> |----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
+> |  1 | Ek voel gelukkig nou dat ek swanger is/my baba het.                                                                               |     |    |
+> |  2 | Baie moeilike dinge het in die afgelope jaar met my gebeur (bv. iemand na aan my is dood, ek het my werk verloor, ek het getrek). |     |    |
+> |  3 | My man/vriend en ek is nog bymekaar.                                                                                              |     |    |
+> |  4 | Ek voel dat my man/vriend gee om vir my (merk Nee as julle nie  meer bymekaar is nie).                                            |     |    |
+> |  5 | My man/vriend of iemand anders in die huis tree soms agressief teenoor my op.                                                     |     |    |
+> |  6 | My familie en vriende gee om hoe ek voel.                                                                                         |     |    |
+> |  7 | Ek was al in die verlede mishandel (bv. fisies, emosioneel, sexueel, verkrag).                                                    |     |    |
+> |  8 | My familie en vriende help my op praktiese maniere                                                                                |     |    |
+> |  9 | Oor die algemeen het ek ‘n goeie verhouding met my eie ma (merk Nee as jou ma reeds oorlede is).                                  |     |    |
+> | 10 | Ek het een van die volgende in die verlede ervaar: miskraam, aborsie, stilgeboorte, dood van my kind enige tyd na geboorte.       |     |    |
+> | 11 | Ek het van te vore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                      |     |    |
+> 
+> Dankie
+{:.box .fixed}
 
-Edinburgh Postnatal Depression Scale (EPDS) (English)
-{:.table-caption}
+> ### Risk Factor Assessment (RFA) (isiXhosa)
+> 
+> *Imeko endikuyo njengokuba ndikhulelwe/naxa ndifumene umntwana*
+> 
+> Sinomdla wokwazi injani imeko okuyo njengokuba ukhulelewe okanye ufumene umntwana. Lemibuzo ingasinceda ukuthi sikwazi ukukubonelela ngoncedo xa kuyimfuneko. Impendulo yakho iyakugcinwa iyimfihlo. Nceda phendula apha Ewe okanye Hayi kulemibuzo ilandelayo. Hlaba kwibhokisi.
+> 
+> |    |                                                                                                                                                                                                | Ewe | Hayi |
+> |----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
+> |  1 | Ndiziva ndixolile njengokuba ndinzima/njengokuba ndifumene umntwana.                                                                                                                           |     |      |
+> |  2 | Ndibenezinto ezibuhlugu kakhulu ezindehleleyo kulonyaka uphelileyo (umzekelo ndaye ndaphulukana nomsebenzi, ndaphulukana nomntu owayesondele kakhulu kum, ndafuna indawo yokuhlala ngokutsha). |     |      |
+> |  3 | Umyeni/isoka lam sisekunye kunye (uthi hayi ukuba anisahlali kunye).                                                                                                                           |     |      |
+> |  4 | Ndicinga ukuba umyeni/isoka lam lindikhathalele kakhulu.                                                                                                                                       |     |      |
+> |  5 | Umyeni/isoka lam okanye omnye umntu endlini ngamanye amaxesha babanobundlongondlongo kum.                                                                                                      |     |      |
+> |  6 | Izazalwane kunye nezihlobo zam ziyikhathalele indlela endiziva ngayo.                                                                                                                          |     |      |
+> |  7 | Ndifumene ingxaki yokuphatheka kakubi kwixesha elidlulileyo (umzekelo ngokwasemzimbeni, ngokwasemphefumulweni, ngokwesondo nangokudlwengulwa).                                                 |     |      |
+> |  8 | Izizalwane nezihlobo zam bezindinceda kwizinto ezenziwayo.                                                                                                                                     |     |      |
+> |  9 | Ngokupheleleyo ubuhlolo phakathi kwam nomama buhle kakhulu.                                                                                                                                    |     |      |
+> | 10 | Ndifumene ezingxaki kwixesha elidlulileyo: ukuphuma isisu, ukuqhomfa, ukuzala umntwana sele etshabile, okanye ukuswelekelwa ngumntwana sendimfumene.                                           |     |      |
+> | 11 | Ndike ndaba nokudakumba okuxhalabisayo komphefumlo, ndaziva ngathi. Ndivaleka umphefumlo, intliziyo ibetha ngamandla, ndinokudinwa okugqithileyo kwixesha elidlulileyo.                        |     |      |
+> 
+> Enkosi
+{:.box .fixed}
 
-#### My feelings now that I am pregnant/have had a baby.
+> ### Risk Factor Assessment (RFA) (French)
+> 
+> *Ma situation, maintenant que je suis enceinte/que j’ai un bébé*
+> 
+> Nous aimerions connaître votre situation durant votre grossesse. Ce questionnaire nous aidera à suggérer des soins supplémentaires pour vous, si  c’est nécessaire. Vos réponses seront confidentielles.
+> 
+> |    |                                                                                                                                                      | Oui | Non |
+> |----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
+> |  1 | Je suis heureuse d’être enceinte.                                                                                                                    |     |     |
+> |  2 | J’ai connu des difficultés au cours de l’année dernière (par exemple: perte de quelqu’un de cher, perte de mon emploi, déménagement, etc).           |     |     |
+> |  3 | Mon mari/compagnon et moi sommes toujours ensemble.                                                                                                  |     |     |
+> |  4 | Je sens que mon mari/compagnon m’aime toujours (dites Non, si vous n’êtes plus avec lui).                                                            |     |     |
+> |  5 | Mon mari/compagnon, ou quelqu’un d’autre à la maison est quelquefois violent avec moi.                                                               |     |     |
+> |  6 | Ma famille et mes amis se soucient de la manière dont je Me sens.                                                                                    |     |     |
+> |  7 | J’ai souffert quelque forme de mauvais traitement dans le passé (ex. physique, émotionnel, sexuel, viol).                                            |     |     |
+> |  8 | Ma famille et mes amis m’aident dans les choses pratiques.                                                                                           |     |     |
+> |  9 | Dans l’ensemble, je jouis d’une bonne relation avec ma propre mère (écrivez « non », si votre mère est morte).                                       |     |     |
+> | 10 | J’ai subi l’un des chocs suivants dans le passé: fausse-couche, avortement, enfant mort-né ou la mort d’un enfant quelque temps après la naissance). |     |     |
+> | 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   |     |     |
+> 
+> Merci
+{:.box .fixed}
 
-As you are pregnant/have had a baby, we would like to know how you are feeling. It may assist us in choosing the best care for your needs. The information you provide us will be kept private and confidential. 
-
-There is a choice of four answers for each question. Please mark the one that comes closest to how you have felt in the past seven days, not just how you feel today.
-
-|----+----------------------------------------------------------------------+---|
-|    |                       In the past seven days:                        | &emsp;  |
-|----+----------------------------------------------------------------------+---|
-|  1 | I have been able to see the funny side of things:                    |   |
-|    | As much as I always could                                            |   |
-|    | Not quite so much now                                                |   |
-|    | Definitely not so much now                                           |   |
-|    | Not at all                                                           |   |
-|  2 | I have looked forward with enjoyment to things:                      |   |
-|    | As much as I ever did                                                |   |
-|    | A little less than I used to                                         |   |
-|    | Much less than I used to                                             |   |
-|    | Hardly at all                                                        |   |
-|  3 | I have blamed myself when things went wrong, and it wasn't my fault: |   |
-|    | Yes, most of the time                                                |   |
-|    | Yes, some of the time                                                |   |
-|    | Not very much                                                        |   |
-|    | No, never                                                            |   |
-|  4 | I have been worried and I don't know why:                            |   |
-|    | No, not at all                                                       |   |
-|    | Hardly ever                                                          |   |
-|    | Yes, sometimes                                                       |   |
-|    | Yes, very much                                                       |   |
-|  5 | I have felt scared or panicky and I don't know why:                  |   |
-|    | Yes, quite a lot                                                     |   |
-|    | Yes, sometimes                                                       |   |
-|    | No, not much                                                         |   |
-|    | No, not at all                                                       |   |
-|  6 | I have had difficulty in coping with things:                         |   |
-|    | Yes, most of the time I haven't been coping at all                   |   |
-|    | Yes, sometimes I haven't been coping as well as usual                |   |
-|    | No, most of the time I have coping quite well                        |   |
-|    | No, I have been coping as well as ever                               |   |
-|  7 | I have been so unhappy I have had difficulty sleeping:               |   |
-|    | Yes, most of the time                                                |   |
-|    | Yes, sometimes                                                       |   |
-|    | Not very much                                                        |   |
-|    | No, not at all                                                       |   |
-|  8 | I have felt sad and miserable:                                       |   |
-|    | Yes, most of the time                                                |   |
-|    | Yes, quite a lot                                                     |   |
-|    | Not very much                                                        |   |
-|    | No, not at all                                                       |   |
-|  9 | I have been so unhappy that I have been crying:                      |   |
-|    | Yes, most of the time                                                |   |
-|    | Yes, quite a lot                                                     |   |
-|    | Only sometimes                                                       |   |
-|    | No, never                                                            |   |
-| 10 | I have thought of harming myself or ending my life:                  |   |
-|    | Yes, quite a lot                                                     |   |
-|    | Sometimes                                                            |   |
-|    | Hardly ever                                                          |   |
-|    | Never                                                                |   |
-|----+----------------------------------------------------------------------+---|
- 
-Thank you
-
-Edinburgh Postnatal Depression Scale (EPDS) (Afrikaans)
-{:.table-caption}
-
-#### My gevoelens nou dat ek swanger is/my baba gekry het.
-
-Nou dat jy swanger is/die baba het, wil ons graag weet hoe jy voel. Dit mag ons help om die beste sorg vir jou behoeftes te beplan. Die inligting wat jy aan ons verskaf sal privaat en vertroulik hanteer word.
-
-Daar is ‘n keuse van vier antwoorde vir elke vraag. Omsirkel asseblief die antwoord 
-wat die beste beskryf hoe jy gedurende die afgelope sewe dae gevoel het, nie net 
-hoe jy nou vandag voel nie.
-
-|----+---------------------------------------------------------------------------------+---|
-|    |                        Gedurende die afgelope sewe dae:                         | &emsp;  |
-|----+---------------------------------------------------------------------------------+---|
-|  1 | Kon ek die snaakse kant van dinge sien:                                         |   |
-|    | So maklik soos ek altyd kon                                                     |   |
-|    | Nie heeltemal so maklik nie                                                     |   |
-|    | Definitief nie so maklik nie                                                    |   |
-|    | Glad nie                                                                        |   |
-|  2 | Kon ek met genot na dinge uitsien:                                              |   |
-|    | So baie soos ek altyd het                                                       |   |
-|    | ‘n Bietjie minder as wat ek altyd het                                           |   |
-|    | Baie minder as wat ek gewoonlik het                                             |   |
-|    | Amper glad nie                                                                  |   |
-|  3 | Het ek myself blameer wanneer dinge verkeerd gaan, al was dit nie my skuld nie: |   |
-|    | Ja, meeste van die tyd                                                          |   |
-|    | Ja, soms                                                                        |   |
-|    | Nee, nie dikwels nie                                                            |   |
-|    | Nee, nooit nie                                                                  |   |
-|  4 | Was ek bekommerd en ek weet nie hoekom nie:                                     |   |
-|    | Nee, glad nie                                                                   |   |
-|    | Omtrent nooit                                                                   |   |
-|    | Ja, soms                                                                        |   |
-|    | Ja, dikwels                                                                     |   |
-|  5 | Het ek bang en paniekerig gevoel en ek weet nie hoekom nie:                     |   |
-|    | Ja, nogal baie                                                                  |   |
-|    | Ja, soms                                                                        |   |
-|    | Nee, nie so baie nie                                                            |   |
-|    | Nee, glad nie                                                                   |   |
-|  6 | Het ek gesukkel om dinge te hanteer:                                            |   |
-|    | Ja, meeste van die tyd sukkel ek om dinge te hanteer                            |   |
-|    | Ja, soms hanteer ek dinge nie so maklik soos gewoonlik nie                      |   |
-|    | Nee, meesal hanteer ek dinge redelik goed                                       |   |
-|    | Nee, ek hanteer dinge so goed as wat ek altyd kon                               |   |
-|  7 | Was ek so ongelukkig dat ek sleg geslaap het:                                   |   |
-|    | Ja, meeste van die tyd                                                          |   |
-|    | Ja, soms                                                                        |   |
-|    | Nie dikwels nie                                                                 |   |
-|    | Nee, glad nie                                                                   |   |
-|  8 | Het ek hartseer en ongelukkig gevoel:                                           |   |
-|    | Ja, meeste van die tyd                                                          |   |
-|    | Ja, nogal dikwels                                                               |   |
-|    | Nie dikwels nie                                                                 |   |
-|    | Nee, nooit nie                                                                  |   |
-|  9 | Was ek so hartseer dat ek gehuil het:                                           |   |
-|    | Ja, meeste van die tyd                                                          |   |
-|    | Ja, dikwels                                                                     |   |
-|    | Net soms                                                                        |   |
-|    | Nee, nooit                                                                      |   |
-| 10 | Die idee om myself leed aan te doen het al by my opgekom:                       |   |
-|    | Ja, nogal dikwels                                                               |   |
-|    | Soms                                                                            |   |
-|    | Amper nooit                                                                     |   |
-|    | Nooit                                                                           |   |
-|----+---------------------------------------------------------------------------------+---|
-
-Baie dankie
-
-Edinburgh Postnatal Depression Scale (EPDS) (isiXhosa)
-{:.table-caption}
-
-#### Indlela endiziva ngayo ngexa ndikhulelweyo naxa disasandula ukufumana umntwana.
-
-Njengokuba ukhulelewe okanye usandula ukufumana usana sifuna ukwazi ukuba uziva njani. Oko kungasinceda ukukhetha eyona ndlela esingathi sincedisane nemfuno zakho. Yonke inkcazelo oyakuthi usinike yona izakugcinwa iyimfihlo.
-	
-Kunentlobo ezine zempendulo kumbuzo ngamnye, Nceda yenza isangqa kwenye ethe yasondela kwindlela ubuziva ngayo kwintsuku ezisixhenxe ezidlulileyo, hayi ngendlela oziva ngayo ngoku.
-
-|----+---------------------------------------------------------------------------------------+---|
-|    |                          Kwintsuku ezisixhenxe ezidlulileyo:                          | &emsp;  |
-|----+---------------------------------------------------------------------------------------+---|
-|  1 | Ndibenakho ukubona icala lezinto ezingalunganga:                                      |   |
-|    | Kangangoko bendisenza                                                                 |   |
-|    | Hayi kangako                                                                          |   |
-|    | Ngokuqinesekileyo akukho kangako ngoku                                                |   |
-|    | Akukho kwaphela                                                                       |   |
-|  2 | Izinto ndizijonga ndinolonwabo:                                                       |   |
-|    | Njengoko bendihlala ndisenza                                                          |   |
-|    | Kancinane kunokuba ndisenza                                                           |   |
-|    | Kancinci kakhulu kunokuba bendisenza                                                  |   |
-|    | Hayi konke konke                                                                      |   |
-|  3 | Bendibeka ityala kum xa izinto zingandihambeli kakhule, ibe ingeyompazamo yam:        |   |
-|    | Ewe amaxesha amaninzi                                                                 |   |
-|    | Ewe ngelinye ixesha                                                                   |   |
-|    | Hayi kangako                                                                          |   |
-|    | Hayi kwaphela                                                                         |   |
-|  4 | Bendikhathazekile kwaye ndingamazi unobangela:                                        |   |
-|    | Hayi konke konke                                                                      |   |
-|    | Kunqabile ukuba kwenzeka                                                              |   |
-|    | Ewe ngamanye amaxesha                                                                 |   |
-|    | Ewe kakhulu                                                                           |   |
-|  5 | Bendiziva ndisoyika okanye ndinexhala kwaye ndingamazi unobangela:                    |   |
-|    | Ewe kakhulu                                                                           |   |
-|    | Ewe ngamanye amaxesha                                                                 |   |
-|    | Hayi kangako                                                                          |   |
-|    | Hayi konke konke                                                                      |   |
-|  6 | Ndifumene ubunzima kakhulu ukumelana nezinto:                                         |   |
-|    | Ewe ixesha elininzi bendikwazi ukumelana nezinto                                      |   |
-|    | Ewe ngelinye ixesha bendingakwazi ukumelana nezinto ngendlela ebendimelana nazo ngayo |   |
-|    | Hayi ixesha elininzi bendiphumelela kakhulu                                           |   |
-|    | Hayi bendingafumani bunzima kwaphela                                                  |   |
-|  7 | Bendingonwabanga kakhulu kwaye bendifumana ubunzima xa kufuneka ndilele:              |   |
-|    | Ewe ixesha elininzi                                                                   |   |
-|    | Ewe ngalinye ixesha                                                                   |   |
-|    | Hayi kangako                                                                          |   |
-|    | Hayi konke konke                                                                      |   |
-|  8 | Bendizive ndibuhlungu kwaye ndixhalisekile:                                           |   |
-|    | Ewe amaxesha amaninzi                                                                 |   |
-|    | Ewe ngolonahlobo                                                                      |   |
-|    | Hayi kangako                                                                          |   |
-|    | Hayi konke konke                                                                      |   |
-|  9 | Bendingonwabanga kakhulu ndisoloko ndilila:                                           |   |
-|    | Ewe ixesha elininzi                                                                   |   |
-|    | Ewe ngolonahlobo                                                                      |   |
-|    | Ngamanye amaxesha                                                                     |   |
-|    | Hayi azange                                                                           |   |
-| 10 | Ingcinga yokuzenzakalisa ike yandifikela:                                             |   |
-|    | Ewe ngolonahlobo                                                                      |   |
-|    | Ngamanye amaxesha                                                                     |   |
-|    | Ayizange kwaphela                                                                     |   |
-|    | Ayizange                                                                              |   |
-|----+---------------------------------------------------------------------------------------+---|
-
-Enkosi kakhulu
-
-Edinburgh Postnatal Depression Scale (EPDS) (French) 
-{:.table-caption}
-
-#### Mes sentiments, maintenant que je suis enceinte/que j’ai un bébé.
-
-Comme vous êtes enceinte/vous avez un bébé, nous aimerions savoir comment vous vous sentez. Cela nous aidera à choisir les meilleurs soins dont vous avez besoin. Les renseignements que vous nous fournirez demeureront privés et confidentiels.
-
-Il y a un choix de quatre réponses pour chaque question. Encerclez celle qui se rapproche le plus de la manière dont vous vous êtes sentie les sept derniers jours, et  pas seulement la manière dont vous vous sentez aujourd’hui. 
-
-|----+----------------------------------------------------------------------------------------+---|
-|    |                                Les sept derniers jours:                                | &emsp;  |
-|----+----------------------------------------------------------------------------------------+---|
-|  1 | J’ai été capable de voir le côté amusant des choses:                                   |   |
-|    | Autant que je l’ai toujours pu                                                         |   |
-|    | Pas autant maintenant                                                                  |   |
-|    | Certainement pas autant                                                                |   |
-|    | Pas du tout                                                                            |   |
-|  2 | J’ai attendu les événements avec impatience et plaisir:                                |   |
-|    | Autant que je l’ai toujours fait                                                       |   |
-|    | Un peu moins qu’auparavant                                                             |   |
-|    | Bien moins que d’habitude                                                              |   |
-|    | Presque pas                                                                            |   |
-|  3 | Je me suis blâmée quand les choses n’allaient pas bien et que ce n’était pas ma faute: |   |
-|    | Oui, la plupart du temps                                                               |   |
-|    | Oui, quelquefois                                                                       |   |
-|    | Pas beaucoup                                                                           |   |
-|    | Non jamais                                                                             |   |
-|  4 | J’étais inquiète, et je ne savais pas pourquoi:                                        |   |
-|    | Non, pas du tout                                                                       |   |
-|    | Presque jamais                                                                         |   |
-|    | Oui, quelquefois                                                                       |   |
-|    | Oui, beaucoup                                                                          |   |
-|  5 | Je me suis sentie effrayée et pleine de panique et je ne savais pas pourquoi:          |   |
-|    | Oui, beaucoup                                                                          |   |
-|    | Oui, quelquefois                                                                       |   |
-|    | Non, pas beaucoup                                                                      |   |
-|    | Non pas du tout                                                                        |   |
-|  6 | J’ai eu des difficultés à faire face aux événements:                                   |   |
-|    | Oui, la plupart du temps, je n’ai pas pu me débrouiller                                |   |
-|    | Oui, quelquefois, je n’ai pas pu me débrouiller comme d’habitude                       |   |
-|    | Non, la plupart du temps, je me suis assez bien débrouillée                            |   |
-|    | Non, je me suis pas débrouillée aussi bien qu’avant                                    |   |
-|  7 | J’ai été si malheureuse, que j’ai eu des difficultés à dormir:                         |   |
-|    | Oui, la plupart du temps                                                               |   |
-|    | Oui, quelquefois                                                                       |   |
-|    | Pas beaucoup                                                                           |   |
-|    | Non, pas du tout                                                                       |   |
-|  8 | Je me suis sentie triste et misérable:                                                 |   |
-|    | Oui, la plupart du temps                                                               |   |
-|    | Oui, beaucoup                                                                          |   |
-|    | Non, pas beaucoup                                                                      |   |
-|    | Non, pas du tout                                                                       |   |
-|  9 | J’ai été si malheureuse que j’ai pleuré:                                               |   |
-|    | Oui, la plupart du temps                                                               |   |
-|    | Oui, beaucoup                                                                          |   |
-|    | Quelquefois seulement                                                                  |   |
-|    | Non, jamais                                                                            |   |
-| 10 | La pensée de me faire du mal m’est venue:                                              |   |
-|    | Oui, souvent                                                                           |   |
-|    | Quelquefois                                                                            |   |
-|    | Presque jamais                                                                         |   |
-|    | Jamais                                                                                 |   |
-|----+----------------------------------------------------------------------------------------+---|
-
-Merci
-
-### 1-3 Risk Factor Assessment (RFA)
-
-Risk Factor Assessment (RFA) (English)
-{:.table-caption}
-
-#### My situation now that I am pregnant/have had my baby:
-
-We are interested to find out how your situation is in your pregnancy/now that you have had your baby. This questionnaire may help us suggest extra care for you if necessary. Your answers will be kept confidential. Please answer either yes or no to the following questions. Tick the box.
-
-|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
-|    |                                                                                                                                        | Yes | No |
-|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
-|  1 | I feel pleased about being pregnant/now that I have had my baby.                                                                       |     |    |
-|  2 | I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home etc.) |     |    |
-|  3 | My husband/boyfriend and I are still together.                                                                                         |     |    |
-|  4 | I feel my husband/boyfriend cares about me (say no if you are not with him anymore).                                                   |     |    |
-|  5 | My husband/boyfriend or someone else in the household is sometimes violent towards me.                                                 |     |    |
-|  6 | My family and friends care about how I feel.                                                                                           |     |    |
-|  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                            |     |    |
-|  8 | My family and friends help me in practical ways.                                                                                       |     |    |
-|  9 | On the whole, I have a good relationship with my own mother (indicate “no” if your mother has passed away).                            |     |    |
-| 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.  |     |    |
-| 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
-|----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
-
-Thank you
-
-Risk Factor Assessment (RFA) (Afrikaans)
-{:.table-caption}
-
-#### My situasie nou dat ek swanger is/my baba gekry het.
-
-Ons stel daarin belang om uit te vind wat jou situasie is in jou swangerskap. Hierdie vrae kan ons help om moontlik extra hulp vir jou aan te bied indien nodig. Jou antwoorde sal vetroulik hanteer word.
-
-Antwoord asseblief Ja of Nee op die volgende vrae. Maak ‘n kruisie.
-
-|----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
-|    |                                                                                                                                   | Ja | Nee |
-|----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
-|  1 | Ek voel gelukkig nou dat ek swanger is/my baba het.                                                                               |     |    |
-|  2 | Baie moeilike dinge het in die afgelope jaar met my gebeur (bv. iemand na aan my is dood, ek het my werk verloor, ek het getrek). |     |    |
-|  3 | My man/vriend en ek is nog bymekaar.                                                                                              |     |    |
-|  4 | Ek voel dat my man/vriend gee om vir my (merk Nee as julle nie  meer bymekaar is nie).                                            |     |    |
-|  5 | My man/vriend of iemand anders in die huis tree soms agressief teenoor my op.                                                     |     |    |
-|  6 | My familie en vriende gee om hoe ek voel.                                                                                         |     |    |
-|  7 | Ek was al in die verlede mishandel (bv. fisies, emosioneel, sexueel, verkrag).                                                    |     |    |
-|  8 | My familie en vriende help my op praktiese maniere                                                                                |     |    |
-|  9 | Oor die algemeen het ek ‘n goeie verhouding met my eie ma (merk Nee as jou ma reeds oorlede is).                                  |     |    |
-| 10 | Ek het een van die volgende in die verlede ervaar: miskraam, aborsie, stilgeboorte, dood van my kind enige tyd na geboorte.       |     |    |
-| 11 | Ek het van te vore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                      |     |    |
-|----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
-
-Dankie
-
-Risk Factor Assessment (RFA) (isiXhosa)
-{:.table-caption}
-
-#### Imeko endikuyo njengokuba ndikhulelwe/naxa ndifumene umntwana.
-
-Sinomdla wokwazi injani imeko okuyo njengokuba ukhulelewe okanye ufumene umntwana. Lemibuzo ingasinceda ukuthi sikwazi ukukubonelela ngoncedo xa kuyimfuneko. Impendulo yakho iyakugcinwa iyimfihlo. Nceda phendula apha Ewe okanye Hayi kulemibuzo ilandelayo. Hlaba kwibhokisi.
-
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-|    |                                                                                                                                                                                                | Ewe | Hayi |
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-|  1 | Ndiziva ndixolile njengokuba ndinzima/njengokuba ndifumene umntwana.                                                                                                                           |     |      |
-|  2 | Ndibenezinto ezibuhlugu kakhulu ezindehleleyo kulonyaka uphelileyo (umzekelo ndaye ndaphulukana nomsebenzi, ndaphulukana nomntu owayesondele kakhulu kum, ndafuna indawo yokuhlala ngokutsha). |     |      |
-|  3 | Umyeni/isoka lam sisekunye kunye (uthi hayi ukuba anisahlali kunye).                                                                                                                           |     |      |
-|  4 | Ndicinga ukuba umyeni/isoka lam lindikhathalele kakhulu.                                                                                                                                       |     |      |
-|  5 | Umyeni/isoka lam okanye omnye umntu endlini ngamanye amaxesha babanobundlongondlongo kum.                                                                                                      |     |      |
-|  6 | Izazalwane kunye nezihlobo zam ziyikhathalele indlela endiziva ngayo.                                                                                                                          |     |      |
-|  7 | Ndifumene ingxaki yokuphatheka kakubi kwixesha elidlulileyo (umzekelo ngokwasemzimbeni, ngokwasemphefumulweni, ngokwesondo nangokudlwengulwa).                                                 |     |      |
-|  8 | Izizalwane nezihlobo zam bezindinceda kwizinto ezenziwayo.                                                                                                                                     |     |      |
-|  9 | Ngokupheleleyo ubuhlolo phakathi kwam nomama buhle kakhulu.                                                                                                                                    |     |      |
-| 10 | Ndifumene ezingxaki kwixesha elidlulileyo: ukuphuma isisu, ukuqhomfa, ukuzala umntwana sele etshabile, okanye ukuswelekelwa ngumntwana sendimfumene.                                           |     |      |
-| 11 | Ndike ndaba nokudakumba okuxhalabisayo komphefumlo, ndaziva ngathi. Ndivaleka umphefumlo, intliziyo ibetha ngamandla, ndinokudinwa okugqithileyo kwixesha elidlulileyo.                        |     |      |
-|    |                                                                                                                                                                                                |     |      |
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-
-Enkosi
-
-Risk Factor Assessment (RFA) (French)
-{:.table-caption}
-
-#### Ma situation, maintenant que je suis enceinte/que j’ai un bébé.
-
-Nous aimerions connaître votre situation durant votre grossesse. Ce questionnaire nous aidera à suggérer des soins supplémentaires pour vous, si  c’est nécessaire. Vos réponses seront confidentielles.
-
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
-|    |                                                                                                                                                      | Oui | Non |
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
-|  1 | Je suis heureuse d’être enceinte.                                                                                                                    |     |     |
-|  2 | J’ai connu des difficultés au cours de l’année dernière (par exemple: perte de quelqu’un de cher, perte de mon emploi, déménagement, etc).           |     |     |
-|  3 | Mon mari/compagnon et moi sommes toujours ensemble.                                                                                                  |     |     |
-|  4 | Je sens que mon mari/compagnon m’aime toujours (dites Non, si vous n’êtes plus avec lui).                                                            |     |     |
-|  5 | Mon mari/compagnon, ou quelqu’un d’autre à la maison est quelquefois violent avec moi.                                                               |     |     |
-|  6 | Ma famille et mes amis se soucient de la manière dont je Me sens.                                                                                    |     |     |
-|  7 | J’ai souffert quelque forme de mauvais traitement dans le passé (ex. physique, émotionnel, sexuel, viol).                                            |     |     |
-|  8 | Ma famille et mes amis m’aident dans les choses pratiques.                                                                                           |     |     |
-|  9 | Dans l’ensemble, je jouis d’une bonne relation avec ma propre mère (écrivez « non », si votre mère est morte).                                       |     |     |
-| 10 | J’ai subi l’un des chocs suivants dans le passé: fausse-couche, avortement, enfant mort-né ou la mort d’un enfant quelque temps après la naissance). |     |     |
-| 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   |     |     |
-|----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
-
-Merci
-
-## 2.	Termination of Pregnancy (TOP) Services
+## 2. Termination of Pregnancy (TOP) Services
+{:.page-break-before}
 
 Certain public health facilities should be able to perform terminations of pregnancy free of charge. These services are less available in rural areas. 
 
 The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: [www.mariestopes.org.za](http://www.mariestopes.org.za) or their toll-free number 0800 11 77 85.
 
-## 3.	Adoption Services
+## 3. Adoption Services
 
 The National Department of Social Development is responsible for child protection services in South Africa. Social workers are trained to assist with adoptions. There are many adoption agencies in the country. 
 
-### 3-1	What is the process for adoption?
+### 3-1 What is the process for adoption?
 
 If the biological parents of the child are alive, they must both consent to the adoption. Consent is not necessary if the parent or guardian: 
 
@@ -475,7 +433,7 @@ A child may be placed temporarily with caregivers who are not the child’s fami
 
 When the child is adopted all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
 
-### 3-2	What needs to happen for the child to be placed with an adoptive family?
+### 3-2 What needs to happen for the child to be placed with an adoptive family?
 
 For an adoption to take place, an adoption agency needs to:  
 
@@ -486,7 +444,7 @@ For an adoption to take place, an adoption agency needs to:
 *	If the family agrees, the agency sends a report to the Children’s Court to finalise the adoption and issue an adoption order.
 *	The Court report will be sent to the Department of Social Development so they can check if correct procedure was followed and to record both the family and the child’s details.
 
-### 3-3	What organisations help with adoptions?
+### 3-3 What organisations help with adoptions?
 
 Organisations that assist with adoption services: 
 
@@ -508,6 +466,8 @@ Organisations that assist with adoption services:
 *	Tel: 021 945 3111
 *	[www.childwelfaresa.org.za](http://www.childwelfaresa.org.za)
 
+#### Other resources
+
 Other websites that provide information about adoptions include:
 
 *	National information and helpline: [www.adoption.org.za](http://www.adoption.org.za) 
@@ -515,11 +475,11 @@ Other websites that provide information about adoptions include:
 *	SA Vrouefederasie: [www.savf.co.za](http://www.savf.co.za)
 *	Procare: [www.procare.co.za](http://www.procare.co.za)
 
-## 4.	Maintenance Orders
+## 4. Maintenance Orders
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in other countries. 
 
-### 4-1	What is the process for getting a Maintenance Order?
+### 4-1 What is the process for getting a Maintenance Order?
 
 The mother (for the sake of simplicity, we refer to a mother applying for a Maintenance Order in this section, however, fathers and other primary caregivers can also apply) needs to go to the Maintenance Office at the Maintenance Court in her area to apply for the court order. The mother will need to fill in a form.
 
@@ -533,7 +493,7 @@ The mother (for the sake of simplicity, we refer to a mother applying for a Main
 *	If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
 *	The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
 
-### 4-2	What if the person ordered to pay maintenance does not pay?
+### 4-2 What if the person ordered to pay maintenance does not pay?
 
 *	The mother needs to go to the Maintenance Office and complain. It is important to make a formal complaint every time that the other parent does not pay.
 *	The Maintenance Office records each time payments are made. This record will show when payments are not made and how much is owed. 
@@ -542,13 +502,13 @@ The mother (for the sake of simplicity, we refer to a mother applying for a Main
 
 For more information contact the Maintenance Officer at your local Magistrates' Court.
 
-## 5.	Child Support Grants
+## 5. Child Support Grants
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in your country. 
 
 The Child Support Grant is a monthly payment to help parents or primary caregivers in financial need to support the children in their care. The amount changes every year. From 1 October 2014 the Child Support Grant is R320 per month. 
 
-### 5-1	Who qualifies for a Child Support grant?
+### 5-1 Who qualifies for a Child Support grant?
 
 Parents or primary caregivers can apply for this monthly payment on behalf of the children in their care.
 
@@ -562,7 +522,7 @@ Parents or primary caregivers who earn below a certain amount can also access th
 *	A married couple who together earn R5 800 or less per month (or less than R69 600 per year) can apply for this grant.
 *	Parents or primary caregivers must be South African citizens or permanent residents of South Africa. They and the child must be living in South Africa. 
 
-### 5-2	What is the process for getting a Child Support grant?
+### 5-2 What is the process for getting a Child Support grant?
 
 Parents or primary caregivers can apply for a grant at their nearest South African Social Security Agency (SASSA) office. There is no cost to apply. 
 
@@ -609,11 +569,11 @@ Child Support Grants will be stopped:
 
 For more information contact a local SASSA office or look at:  [www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA](http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA)
 
-## 6.	Protection Orders
+## 6. Protection Orders
 
 This information applies to South Africa. It is worth finding out about relevant laws and processes in your country.  This information below is taken from Miller R. (2003). *It’s an Order! A simple guide to your rights*. Cape Town: Mosaic Training, Service and Healing Centre for Women. ([www.mosaic.org.za](http://www.mosaic.org.za))
 
-### 6-1	What is a Protection Order?
+### 6-1 What is a Protection Order?
 
 A Protection Order is a document which legally forbids an abuser from committing any acts of domestic violence against the applicant (e.g. woman). The types of abuse covered by Protection Orders are: 
 
@@ -633,7 +593,7 @@ Anyone who has been or is being abused can apply for a Protection Order. In this
 
 Depending on the severity of the abuse, once the application forms and affidavit have been completed, an Interim Protection Order might be granted for a short period until the date the abuser must appear in front of the magistrate for the hearing of the case. Once the Protection Order is finalised, the Protection Order is permanent. A Protection Order can be withdrawn.  
 
-### 6-2	What is the process for getting a Protection Order?
+### 6-2 What is the process for getting a Protection Order?
 
 All courts process Protection Orders slightly differently, but the procedure that most courts follow is described below. 
 
@@ -660,13 +620,13 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 14.	With the Final Protection Order, the woman will also get a Final Warrant of Arrest. 
 15.	If the woman’s Protection Order is lost or destroyed, it can always be replaced if she goes back to court and ask for another copy.
 
-### 6-3	What happens if the abuser goes against the Protection Order?
+### 6-3 What happens if the abuser goes against the Protection Order?
 
 *	If the woman is abused after she has received her Interim or Final Protection Order, she must take the Interim or Final Warrant of Arrest and her copy of the Interim or Final Protection Order to the police so that they can arrest her abuser. 
 *	The woman will have to return to court to get another Warrant of Arrest when the police take her Warrant of Arrest away from her when they arrest her abuser.
 *	If she does not have a Warrant of Arrest, then she will have to take her Protection Order with her to the police station and lay a charge of assault against her abuser.
 
-## 7.	How to make a referral
+## 7. How to make a referral
 
 ### 7-1 How to write a referral letter
 
@@ -674,37 +634,36 @@ A letter of referral may be used when referring to an organisation outside your 
 
 #### Letter of referral
 
-~~~
-Address of your health unit  
-Town  
-District  
-Telephone number  
-
-Contact at referral organisation  
-Name of referral organisation
-Address of referral organisation
-Town
-
-Date
-
-Dear [include name of contact person here]
-
-Re: [include name of patient here]
-
-Thank you for considering [include name of patient here]. She is [include age of patient here] years old.
-
-I am concerned about this patient because [include details of your concerns].
-
-I hope that you will be able to assist her with her difficulties.
-
-Please contact me for further information and to let me know that this referral has been successful. My telephone number is [include your contact number here].
-
-Yours sincerely
-
-Your name
-
-Job Title
-~~~
+> Address of your health unit  
+> Town  
+> District  
+> Telephone number  
+> 
+> Contact at referral organisation    
+> Name of referral organisation  
+> Address of referral organisation  
+> Town
+> 
+> Date
+> 
+> Dear [include name of contact person here]
+> 
+> Re: [include name of patient here]
+> 
+> Thank you for considering [include name of patient here]. She is [include age of patient here] years old.
+> 
+> I am concerned about this patient because [include details of your concerns].
+> 
+> I hope that you will be able to assist her with her difficulties.
+> 
+> Please contact me for further information and to let me know that this referral has been successful. My telephone number is [include your contact number here].
+> 
+> Yours sincerely
+> 
+> Your name
+> 
+> Job Title
+{:.box .fixed}
 
 ### 7-2 Mental Health Referral Evaluation
 
@@ -714,34 +673,31 @@ After referring your client, complete a 'follow-up' evaluation using the form be
 
 #### Referral Evaluation Form
 
-~~~
-Date referral made
+> Date referral made
+> 
+> Who made the referral?
+> 
+> Where referred to?
+> 
+> Date of appointment?
+> 
+> Did you go? Yes/No
+> 
+> If No, what stopped you?
+> 
+> If Yes, did you get help for your problem? Yes/No
+> 
+> What help was given?
+> 
+> What do you think about the help that was offered?
+> 
+> Would you recommend that place to a friend? Yes/No
+> 
+> Why?  
+> 
+{:.box .fixed} 
 
-Who made the referral?
-
-Where referred to?
-
-Date of appointment?
-
-Did you go? Yes/No
-
-If No, what stopped you?
-
-If Yes, did you get help for your problem? Yes/No
-
-What help was given?
-
-What do you think about the help that was offered?
-
-Would you recommend that place to a friend? Yes/No
-
-Why?
-
-
-
-~~~
-
-## 8.	South African national helplines
+## 8. South African national helplines
 
 South African national helpline contact numbers
 {:.table-caption}
@@ -779,7 +735,7 @@ South African national helpline contact numbers
 
 > National Mental Health Information Line: 0800 567 567
 
-## 9.	South African organisations for training in counselling
+## 9. South African organisations for training in counselling
 
 ### 9-1 Lay counselling training
 
