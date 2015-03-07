@@ -335,12 +335,22 @@ blockquote.box {
 	background-color: inherit;
 	color: inherit;
 	font-weight: inherit;
-	font-size: inherit;
+	font-size: 89%; /* because key concept boxes are the default blockquote at 110% */
+	line-height: 120%;
 	border: 1px solid #ccc;
 	page-break-inside: avoid;
 	float: top unless-fit;
 }
+blockquote.box p {
+	margin: 0 0 0.5em 0;
+}
 blockquote.box.large {}
+blockquote.box.fixed {
+	float: none;
+}
+blockquote.box.allow-break {
+	page-break-inside: auto;
+}
 
 /* Definition lists. Note: we use the dl element as our default element for notes. */
 
