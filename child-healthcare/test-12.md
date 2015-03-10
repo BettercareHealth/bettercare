@@ -34,7 +34,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Oral flucloxacillin.
 	*	Oral piperazine.
 6.	How should tinea versicolor be treated?
-	*	With selenium suphide shampoo.
+	*	With selenium sulphide shampoo.
 	*	With griseofulvin ointment.
 	*	With oral griseofulvin.
 	*	With 1% hydrocortisone cream.

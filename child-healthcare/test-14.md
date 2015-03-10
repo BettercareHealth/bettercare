@@ -44,7 +44,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	A multidisciplinary team.
 	*	The police.
 8.	When should the authorities be notified about a case of suspected child abuse?
-	*	There is no need to notify the authorites if the doctor is prepared to manage the problem.
+	*	There is no need to notify the authorities if the doctor is prepared to manage the problem.
 	*	Only notify the authorities if you are certain there has been child abuse.
 	*	The authorities should only be notified if the child has been abused before.
 	*	Always notify the authorities.
