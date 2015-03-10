@@ -44,8 +44,8 @@ layout: test
 8.	What is the standard first-line combination used in children younger than three years in South Africa?
 	*	ABC, 3TC and efavirenz
 	*	ABC, 3TC and lopinavir/ritonavir
-	*	d4T, 3TC and ddl
-	*	AZT, ddl and efavirenz
+	*	d4T, 3TC and ddI
+	*	AZT, ddI and efavirenz
 9.	What is the standard first-line combination used in children older than three years in South Africa?
 	*	ABC, 3TC and efavirenz
 	*	AZT, ddI and lopinavir/ritonavir

@@ -35,7 +35,7 @@ layout: test
 	*	At birth
 	*	At six weeks
 	*	At nine months
-	*	Ai one year
+	*	At one year
 7.	What important side effect may occur when children are given co-trimoxazole prophylaxis?
 	*	Shortness of breath
 	*	Jaundice
