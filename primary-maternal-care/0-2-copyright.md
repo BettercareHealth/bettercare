@@ -4,11 +4,11 @@ title: Copyright
 layout: frontmatter
 ---
 
-> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug and disinfectant dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug's documentation before administering it.
 
 *Primary Maternal Care: Antenatal and postnatal care in the clinic*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com). Updated 1 December 2009, 2 August 2011 (layout only), 31 August 2014, 16 February 2015 (layout)
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 1 December 2009, 2 August 2011 (layout only), 31 August 2014, 16 February 2015 (layout)
 
 Text © Perinatal Education Programme 2009
 

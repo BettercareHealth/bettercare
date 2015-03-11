@@ -4,12 +4,11 @@ title: Copyright
 layout: frontmatter
 ---
 
-> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
+> We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug and disinfectant dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug's documentation before administering it.
 
-*Primary Newborn Care*
+*Primary Newborn Care: Problem-solving in the clinic*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works (Pty) Ltd](http://www.electricbookworks.com).  
-Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout)
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout)
 
 Text © Perinatal Education Programme 2008  
 
@@ -25,4 +24,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please <a href="http://electricbookworks.com/contact">contact Electric Book Works</a>.
+For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
