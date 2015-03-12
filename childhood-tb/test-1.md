@@ -21,7 +21,7 @@ Please choose the ONE most correct answer to each question:
 3.	How is tuberculosis spread?
 	1.	By airborne droplets
 	1.	By drinking unclean water
-	1.	By infected mosquitos
+	1.	By infected mosquitoes
 	1.	By sharing dirty needles
 4.	The source of TB infection is usually:
 	1.	Another child with undiagnosed tuberculosis

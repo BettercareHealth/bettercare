@@ -56,7 +56,7 @@ Please choose the ONE most correct answer to each question:
 10.	To avoid spreading TB bacilli to the members of the community, adults with pulmonary tuberculosis should:
 	1.	Be isolated for the first month of treatment
 	1.	Be taught to cough into a handkerchief (cough etiquette)
-	1.	Not be allowed onto busses or trains
+	1.	Not be allowed onto buses or trains
 	1.	Not be allowed into a clinic or hospital
 11.	Once anti-TB treatment is started, patients with pulmonary tuberculosis are probably no longer infectious after:
 	1.	24 to 48 hours
@@ -93,7 +93,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Only if they are under two years of age
 	1.	Only if they also have HIV infection
 	1.	No
-18.	The 6th Millennium Developmental Goal aims at:
+18.	The 6th Millennium Development Goal aims at:
 	1.	Preventing all new cases of tuberculosis by 2020
 	1.	Preventing all childhood cases of tuberculosis by 2020
 	1.	Halving the number of cases of tuberculosis by 2015
