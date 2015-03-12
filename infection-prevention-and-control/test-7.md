@@ -67,7 +67,7 @@ Please choose the ONE most correct answer to each question:
 	1.	A non-living intermediary that can transmit pathogens, e.g. food
 	1.	A living intermediary that can transmit pathogens, e.g. ticks
 	1.	The site where a pathogen grows and multiplies
-	1.	A motorised form of transport that can translocate pathogens, e.g. mosquitos on aeroplanes.
+	1.	A motorised form of transport that can translocate pathogens, e.g. mosquitoes on aeroplanes.
 13.	In outbreak terminology, an epidemic is defined as:
 	1.	The usual or expected level of disease in an area
 	1.	Disease levels greater than normally expected, more prolonged/widespread than outbreaks
