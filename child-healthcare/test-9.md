@@ -16,7 +16,7 @@ Please choose the one, most correct answer to each question or statement.
 2.	How may children become  infected with HIV?
 	*	It commonly crosses the placenta during pregnancy but not during labour and delivery.
 	*	Rarely it may infect the infant during labour and delivery.
-	*	Children may be infected when bitten by ticks, fleas or mosquitos.
+	*	Children may be infected when bitten by ticks, fleas or mosquitoes.
 	*	The infant may be infected with HIV during pregnancy, labour or delivery.
 3.	What is the risk of mother-to-child transmission if the woman is infected with HIV?
 	*	5–10%.
