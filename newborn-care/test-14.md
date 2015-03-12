@@ -100,7 +100,7 @@ layout: test
 	1.	An upward slant of the eyes
 	1.	A long, smooth upper lip `correct`{:.correct-answer}
 	1.	Hydrocephalus
-	1.	Single palmer creases
+	1.	Single palmar creases
 20.	When speaking to parents of an infant with birth defects, it is best:
 	1.	To tell them as soon as possible `correct`{:.correct-answer}
 	1.	To wait until all the results of the special investigations are available
