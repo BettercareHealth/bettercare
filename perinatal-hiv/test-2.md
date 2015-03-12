@@ -105,6 +105,6 @@ Please choose the ONE most correct answer to each question:
 	1.	Bad dreams
 20.	Which drugs are used to treat tuberculosis during pregnancy in women who are HIV positive?
 	1.	Anti-TB drugs should only be started after the infant is born
-	1.	Rifampicin, INH, pyrizinamide and ethambutol ( Rifafour)
-	1.	Rifampicin, INH, pyrizinamide only
+	1.	Rifampicin, INH, pyrazinamide and ethambutol ( Rifafour)
+	1.	Rifampicin, INH, pyrazinamide only
 	1.	Rifampicin alone
