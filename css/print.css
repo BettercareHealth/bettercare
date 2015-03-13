@@ -569,7 +569,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 .test ol li {
 	margin: 0 0 1em 0;
 	page-break-inside: avoid;
-	font-weight: 600;
+	font-weight: bold;
 }
 .test ol li li {
 	list-style-type: lower-alpha;
