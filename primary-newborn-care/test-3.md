@@ -68,7 +68,7 @@ Please choose the ONE most correct answer to each question:
 	1.	2.0 mmol/l to 7.0 mmol/l
 	1.	1.4 mmol/l to 10 mmol/l
 	1.	7.0 mmol/l to 12 mmol/l
-13.	How can the risk of hypoglycaemia be decreasd?
+13.	How can the risk of hypoglycaemia be decreased?
 	1.	Start an intravenous infusion in all low-birth-weight infants after delivery
 	1.	Feed infants as soon as possible after birth
 	1.	Add sugar to the formula feeds of all low-birth-weight infants

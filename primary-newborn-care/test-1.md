@@ -49,7 +49,7 @@ Please choose the ONE most correct answer to each question:
 	1.	It is used to document the infant’s clinical condition after birth
 	1.	It is used to assess gestational age
 9.	What is the value of the 5 minute Apgar score?
-	1.	It indictes whether the infant is responding to resuscitation
+	1.	It indicates whether the infant is responding to resuscitation
 	1.	If less than 7, it confirms that the infant will die
 	1.	If 7 or more, it confirms that the infant will survive
 	1.	It is used to decide whether cardiac massage is needed
