@@ -148,6 +148,9 @@
 .test, .answers {
 	page: test;
 }
+.cover {
+	page: cover;
+}
 
 /* Let's set all our running heads and footers */
 @page chapter:left {
@@ -416,6 +419,11 @@ td p {
 	margin: 0;
 	padding: 0;
 }
+.shrink {
+	font-size: 0.7em; /* Useful for wide tables */
+	font-family: "Open Sans Condensed";
+	font-weight: normal;
+}
 
 /* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
  * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
@@ -498,6 +506,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 	font-family: "Source Sans Pro", sans-serif;
 	margin: 20% 0 0.8em 0;
 	line-height: 100%;
+	counter-reset: page 1;
 }
 .titlepage-subtitle {
 	font-size: 2.5em;
@@ -619,11 +628,27 @@ ol li blockquote.figure, ul li blockquote.figure {
 }
 
 /*
- * Tricks
+ * Cover-page styling. Creates a single-page low-res cover for web PDFs.
  */
 
-.shrink {
-	font-size: 0.7em; /* Useful for wide tables */
-	font-family: "Open Sans Condensed";
-	font-weight: normal;
+@page cover {
+	margin: 0;
+}
+
+@prince-pdf {
+    prince-pdf-page-layout: single-page;
+}
+
+body.cover, div.cover {
+	margin: 0;
+	padding: 0;
+}
+p.cover {
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
+}
+img.cover {
+	height: 100%;
+	width: 100%;
 }
