@@ -84,7 +84,7 @@ layout: test
 16.	A common side effect of an intramuscular injection of depo progesterone is:
 	1.	Fluid retention and breast tenderness.
 	1.	Reduction in lactation.
-	1.	Cloasma (a brown mark on the face).
+	1.	Chloasma (a brown mark on the face).
 	1.	Amenorrhoea.
 17.	Tubal ligation causes:
 	1.	Menstrual abnormalities.

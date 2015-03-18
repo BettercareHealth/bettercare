@@ -23,7 +23,7 @@ layout: test
 	1.	Poor maternal weight gain during pregnancy is of great value in the diagnosis of intra-uterine growth restriction.
 4.	Which of the following is the best clinical method of determining uterine growth between 18 and 36 weeks of pregnancy?
 	1.	An abdominal examination.
-	1.	The distance in centimetres between the upper edge of the symphsyis pubis and the fundus of the uterus.
+	1.	The distance in centimetres between the upper edge of the symphysis pubis and the fundus of the uterus.
 	1.	Recording the fetal heart rate at each antenatal visit.
 	1.	The abdominal circumference measured with a tape at each antenatal visit.
 5.	The ability to detect abnormalities in symphysis-fundus growth is improved if:
