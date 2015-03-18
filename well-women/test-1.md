@@ -13,7 +13,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Women who have multiple sex partners
 	1.	Women who have positive and respectful sexual relationships
 	1.	Women whose sexual life is controlled by their partners
-2.	What are the Millenium Development Goals?
+2.	What are the Millennium Development Goals?
 	1.	A new form of lottery to raise funds for reproductive health in poor communities
 	1.	A South African plan to reduce infertility in resource-poor communities
 	1.	An international project to improve the lives of poor people
