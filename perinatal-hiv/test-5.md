@@ -22,7 +22,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Anyone who is interested in counselling and wants to help people
 	1.	Only doctors
 	1.	Only professional nurses
-	1.	Only someone who is HIV positive themself
+	1.	Only someone who is HIV positive themselves
 4.	A characteristic of a good counsellor is:
 	1.	To be kind, caring and understanding
 	1.	To be firm and give clear advice
