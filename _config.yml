@@ -11,3 +11,18 @@ paginate: 10
 markdown: kramdown
 permalink: none
 highlighter: pygments
+
+prose:
+  rooturl: 'bettercare'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+	- /_site
+	- /js
+	- /testing
+	- /images
+	- robots.txt
+	- sitemap.xml
