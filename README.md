@@ -123,7 +123,8 @@ Do not use a colon `:` in your YAML values. (See how in the example above we've 
 
 For the `layout` header, you have these options for Bettercare books:
 
-*	`frontmatter` (first few informational pages in a book, such as the title page; the printed version won't have page numbers on these pages)
+*	`frontmatter` (first few informational pages in a book; the printed version won't have page numbers on these pages)
+*	`titlepage` (a special kind of frontmatter)
 *	`toc` (only for the table of contents)
 *	`chapter` (the most common, used for all chapters and appendices)
 *	`test` (for the multiple-choice questions)
