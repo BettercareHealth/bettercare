@@ -15,11 +15,11 @@ highlighter: pygments
 prose:
   rooturl: 'bettercare'
   ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
+	- index.md
+	- _config.yml
+	- /_layouts
+	- /_includes
+	- /css
 	- /_site
 	- /js
 	- /testing
