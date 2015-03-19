@@ -25,3 +25,6 @@ prose:
     - /testing
     - /images
     - robots.txt
+    - .gitattributes
+    - .gitignore
+    - sitemap.xml
