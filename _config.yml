@@ -13,7 +13,7 @@ permalink: none
 highlighter: pygments
 
 prose:
-  rooturl: 'bettercare'
+  siteurl: "http://electricbookworks.github.io/bettercare"
   ignore:
     - index.md
     - _config.yml
