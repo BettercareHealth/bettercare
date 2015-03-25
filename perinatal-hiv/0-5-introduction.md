@@ -12,7 +12,7 @@ Bettercare publishes an innovative series of distance-learning books for healthc
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60&nbsp;000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
 
@@ -28,7 +28,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Birth Defects
 
-*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa.
+*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
 
 ### Breast Care
 
@@ -44,15 +44,15 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Childhood TB
 
-*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu Tuberculosis Centre.
+*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu TB Centre.
 
 ### Ebola Prevention and Control
  
-*Ebola Prevention and Control* was written for all healthcare workers and administrators managing, preventing and controlling viral haemorrhagic diseases. Chapters cover virology and epidemiology, patient management, support systems and documentation and communication and community engagement. There is a strong emphasis on the protection of healthcare workers in the field, particularly in resource-limited settings.
+*Ebola Prevention and Control* was written for all healthcare workers and administrators managing, preventing and controlling viral haemorrhagic diseases. Chapters cover virology and epidemiology, patient management, protection of healthcare workers, support services and documentation, and communication and community engagement. There is a strong emphasis on the protection of healthcare workers in the field, particularly in resource-limited settings.
 
 ### Infection Prevention and Control
 
-*Infection Prevention and Control* was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
+*Infection Prevention and Control* was written for nurses, doctors and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
 
 ### Intrapartum Care
 
@@ -60,7 +60,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Maternal Care
 
-*Maternal Care* addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning and regionalised perinatal care. Skills chapters teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria and performing and repairing an episiotomy. *Maternal Care* is aimed at health workers in level 1 hospitals or clinics.
+*Maternal Care* addresses all the common and important problems that occur during pregnancy, labour, delivery and the puerperium. It covers the antenatal and postnatal care of healthy women with normal pregnancies, monitoring and managing the progress of labour, specific medical problems during pregnancy, labour and the puerperium, family planning, and regionalised perinatal care. Skills chapters teach clinical examination in pregnancy and labour, routine screening tests, the use of an antenatal card and partogram, measuring blood pressure, detecting proteinuria, and performing and repairing an episiotomy. *Maternal Care* is aimed at health workers in level 1 hospitals or clinics.
 
 ### Maternal Mental Health
 
@@ -72,7 +72,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Newborn Care
 
-*Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills chapters address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors and oxygen therapy.
+*Newborn Care* was written for health workers providing special care for newborn infants in level 2 hospitals. It covers resuscitation at birth, assessing infant size and gestational age, routine care and feeding of both normal and high-risk infants, the prevention, diagnosis and management of hypothermia, hypoglycaemia, jaundice, respiratory distress, infection, trauma, bleeding and congenital abnormalities, as well as communication with parents. Skills chapters address resuscitation, size measurement, history, examination and clinical notes, nasogastric feeds, intravenous infusions, use of incubators, measuring blood glucose concentration, insertion of an umbilical vein catheter, phototherapy, apnoea monitors, and oxygen therapy.
 
 ### Perinatal HIV
 
@@ -88,7 +88,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Saving Mothers and Babies
 
-*Saving Mothers and Babies* was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
+*Saving Mothers and Babies* was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings, and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
 
 ### Well Women
 
@@ -102,7 +102,7 @@ The learning objectives are clearly stated at the start of each chapter. They he
 
 ### Pre- and post-tests
 
-There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter, to benchmark their current knowledge, and a post-test after each chapter, to assess what they have learned. Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter to benchmark their current knowledge, and a post-test after each chapter to assess what they have learned. Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 
@@ -112,7 +112,7 @@ Participants should cover the answer for a few minutes with a piece of paper whi
 
 Simplified flow diagrams are also used, where necessary, to indicate the correct approach to diagnosing or managing a particular problem. 
 
-Each question is identified with the number of the chapter, followed by the number of the question, e.g. 5-23.
+Each question is identified with the number of the chapter, followed by the number of the question, for example 5-23.
 
 > Important practical lessons are emphasised like this.
 
@@ -151,13 +151,13 @@ Eduhealthcare is a non-profit organisation based in South Africa. It aims to imp
 
 The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is a centre of excellence in HIV medicine, building capacity through training and enhancing knowledge through research.
 
-### The Desmond Tutu Tuberculosis Centre
+### The Desmond Tutu TB Centre
 
-The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
+The Desmond Tutu TB Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
 
 ### The Perinatal Mental Health Project
 
-The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town aims at improving the mental health of women both during pregnancy and in the months afterwards. The project targets women who are at risk of depression and anxiety. 
+The Perinatal Mental Health Project of the Centre for Public Mental Health in the Department of Psychiatry and Mental Health at the University of Cape Town, South Africa, aims to improve the mental health of women during pregnancy and in the months afterwards. The project targets women in low-resource settings who are at risk of depression and anxiety. 
 
 ### The Infection Control Africa Network
 
@@ -173,8 +173,8 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
 *	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: 076 657 0353
-*	Fax: 086 219 8093
+*	Phone: +27 (0)21 671 1278
+*	Fax: +27 (0)86 219 8093
 {:.keep-together}
 
 ### Perinatal Education Programme
@@ -182,7 +182,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 *	Editor-in-Chief: Professor Dave Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
-*	Phone/fax: 021 786 5369
+*	Phone/fax: +27 (0)21 786 5369
 *	Post: Perinatal Education Programme, 70 Dorries Drive, Simon’s Town, 7975
 
 ### Exams

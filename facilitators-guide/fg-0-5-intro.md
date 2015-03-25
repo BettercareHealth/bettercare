@@ -48,11 +48,11 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Saving Mothers and Babies
 
-*Saving Mothers and Babies* was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
+*Saving Mothers and Babies* was developed in response to the high maternal and perinatal mortality rates found in most developing countries. Learning material used in this book is based on the results of the annual confidential enquiries into maternal deaths and the Saving Mothers and Saving Babies reports published in South Africa. It addresses the basic principles of mortality audit, maternal mortality, perinatal mortality, managing mortality meetings, and ways of reducing maternal and perinatal mortality rates. This book should be used together with the Perinatal Problem Identification Programme (PPIP).
 
 ### Birth Defects
 
-*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa.
+*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
 
 ### Perinatal HIV
 
@@ -64,7 +64,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Childhood TB
 
-*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed by Prof Dave Woods of the Perinatal Education Programme and Prof Robert Gie of the Desmond Tutu Tuberculosis Centre, in collaboration with other experts.
+*Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed by Prof Dave Woods of the Perinatal Education Programme and Prof Robert Gie of the Desmond Tutu TB Centre, in collaboration with other experts.
 
 ### Child Healthcare
 
@@ -84,7 +84,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Infection Prevention and Control
 
-*Infection Prevention and Control* was written for nurses, doctors, and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
+*Infection Prevention and Control* was written for nurses, doctors and health administrators working in the field of infection prevention and control, particularly in resource-limited settings. It includes chapters on IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship.
 
 ## Format of the courses
 
@@ -94,7 +94,7 @@ The learning objectives are clearly stated at the start of each chapter. They he
 
 ### Pre- and post-tests
 
-There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter, to benchmark their current knowledge, and a post-test after each chapter, to assess what they have learned. Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter to benchmark their current knowledge, and a post-test after each chapter to assess what they have learned. Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 
@@ -104,7 +104,7 @@ Participants should cover the answer for a few minutes with a piece of paper whi
 
 Simplified flow diagrams are also used, where necessary, to indicate the correct approach to diagnosing or managing a particular problem. 
 
-Each question is identified with the number of the chapter, followed by the number of the question, e.g. 5-23.
+Each question is identified with the number of the chapter, followed by the number of the question, for example 5-23.
 
 > Important practical lessons are emphasised like this.
 
@@ -143,9 +143,9 @@ Eduhealthcare is a non-profit organisation based in South Africa. It aims to imp
 
 The Desmond Tutu HIV Foundation at the University of Cape Town, South Africa, is a centre of excellence in HIV medicine, building capacity through training and enhancing knowledge through research.
 
-### The Desmond Tutu Tuberculosis Centre
+### The Desmond Tutu TB Centre
 
-The Desmond Tutu Tuberculosis Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
+The Desmond Tutu TB Centre at Stellenbosch University, South Africa, strives to improve the health of vulnerable groups through the education of healthcare workers and community members, and by influencing policy based on research into the epidemiology of childhood tuberculosis, multi-drug-resistant tuberculosis, HIV/TB co-infection and preventing the spread of TB and HIV in southern Africa.
 
 ### Updating the course material
 
@@ -157,15 +157,15 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
 *	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: 076 657 0353
-*	Fax: 086 219 8093
+*	Phone: +27 (0)21 671 1278
+*	Fax: +27 (0)86 219 8093
 
 ### Perinatal Education Programme
 
 *	Editor-in-Chief: Professor Dave Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
-*	Phone/fax: 021 786 5369
+*	Phone/fax: +27 (0)21 786 5369
 *	Post: Perinatal Education Programme, 70 Dorries Drive, Simon’s Town, 7975
 
 ### Exams
