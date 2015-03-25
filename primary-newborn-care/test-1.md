@@ -70,7 +70,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Intra-uterine death
 13.	After delivery the following infants should have their mouth and throat suctioned:
 	1.	Preterm infants
-	1.	Infants born by caesarean section
+	1.	Infants born by Caesarean section
 	1.	Infants that fail to breathe well after stimulation
 	1.	All newborn infants
 14.	Which staff members need to be able to resuscitate infants:

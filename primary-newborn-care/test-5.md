@@ -91,7 +91,7 @@ Please choose the ONE most correct answer to each question:
 17.	A brachial plexus injury (Erb’s palsy) is most commonly seen in:
 	1.	Preterm infants born by vaginal delivery
 	1.	Large infants with impacted shoulders
-	1.	Infants born by elective caesarean section
+	1.	Infants born by elective Caesarean section
 	1.	Infants delivered by vacuum extraction
 18.	Haemorrhagic disease of the newborn is caused by lack of:
 	1.	Vitamin A
