@@ -30,7 +30,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Yes as it prevents dehydration during long labours.
 5.	Should women be allowed to drink during labour?
 	1.	Only if they are in the second stage of labour.
-	1.	Yes, as long as they are not being prepared for a caesarean section under general anaesthetic.
+	1.	Yes, as long as they are not being prepared for a Caesarean section under general anaesthetic.
 	1.	They should only drink during early labour.
 	1.	No, women should not drink at any stage of labour in case they may vomit during delivery.
 6.	Is it safe for a woman to eat during labour?
@@ -70,9 +70,9 @@ Please choose the ONE most correct answer to each question:
 	1.	A delivery at home with the family present.
 13.	Is it better if a doctor delivers all infants?
 	1.	Yes as they have had the most training.
-	1.	Yes as this will lower the caesarean section rate.
+	1.	Yes as this will lower the Caesarean section rate.
 	1.	No as midwives can very competently deliver most infants.
-	1.	No as doctors in many poor countries are only allowed to perform instrument deliveries and caesarean sections.
+	1.	No as doctors in many poor countries are only allowed to perform instrument deliveries and Caesarean sections.
 14.	Can women be safely delivered at home?
 	1.	This is a dangerous practice and must be discouraged.
 	1.	Home delivery is safe if the delivery is performed by a doctor.
