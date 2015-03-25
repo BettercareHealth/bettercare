@@ -419,11 +419,6 @@ td p {
 	margin: 0;
 	padding: 0;
 }
-.shrink {
-	font-size: 0.7em; /* Useful for wide tables */
-	font-family: "Open Sans Condensed";
-	font-weight: normal;
-}
 
 /* Figures. Note: we use the blockquote element to wrap figures and their captions in valid XHTML. 
  * Use the .figure class for the blockquote wrapping an image and a caption. Add .fixed, .small and/or .large for layout and size options. */
@@ -651,4 +646,30 @@ p.cover {
 img.cover {
 	height: 100%;
 	width: 100%;
+}
+
+/*
+ * ADJUSTMENTS FOR FINE TYPOGRAPHY
+ */
+
+.tight {
+	letter-spacing: -0.0075em;
+	word-spacing: -0.0075em;
+}
+.x-tight {
+	letter-spacing: -0.01em;
+	word-spacing: -0.01em;
+}
+.loose {
+	letter-spacing: 0.0075em;
+	word-spacing: 0.0075em;
+}
+.x-loose {
+	letter-spacing: 0.01em;
+	word-spacing: 0.01em;
+}
+.shrink {
+	font-size: 0.7em; /* Useful for wide tables */
+	font-family: "Open Sans Condensed";
+	font-weight: normal;
 }

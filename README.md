@@ -133,6 +133,23 @@ For the `layout` header, you have these options for Bettercare books:
 *	`index` (only for a book's `index.md` file)
 *	`default` (almost never used, it's just a fallback for Jekyll)
 
+### Print typography
+
+For fine control of print typography, our styles include some useful classes. 
+
+* `tight` very slightly reduces the letter-spacing and wordspacing almost invisibly, useful for bringing back an orphan word or two.
+* `x-tight` is extra-tight; use with caution because the reduced letter-spacing is visible to trained eyes.
+* `loose` is the opposite of `tight`
+* `x-loose` is extra-loose
+* `shrink` completely changes the font to a condensed font at a small font size. This is useful for very wide tables, but should be avoided wherever possible.
+
+Apply these classes to paragraphs (or block-level elements like tables) in markdown by putting a `{:.classname}` tag in the line immediately after the element:
+
+~~~
+This paragraph is set extra-tight.
+{:.x-tight}
+~~~
+
 ### Images
 
 #### Images in markdown
