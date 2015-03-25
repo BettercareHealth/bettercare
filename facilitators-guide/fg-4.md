@@ -68,7 +68,7 @@ Each chapter ends with a few case studies. These help participants to consolidat
 
 ### Practical training
 
-Some chapters contain “skills workshops”. These are most effective if the practical skill is demonstrated by an experienced colleague who has already mastered that particular skill. You will have to arrange a suitable time and venue for the demonstration. Different colleagues may be needed to help with the various skills workshops as a single colleague may not have all the skills. Skills workshops are not examined in the final exam, but you may want to arrange your own tests moderated by a senior medical or nursing colleague.
+Some chapters contain ‘skills workshops’. These are most effective if the practical skill is demonstrated by an experienced colleague who has already mastered that particular skill. You will have to arrange a suitable time and venue for the demonstration. Different colleagues may be needed to help with the various skills workshops as a single colleague may not have all the skills. Skills workshops are not examined in the final exam, but you may want to arrange your own tests moderated by a senior medical or nursing colleague.
 
 ### Final examination
 

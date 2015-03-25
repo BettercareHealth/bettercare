@@ -45,7 +45,7 @@ Some groups are better at getting things done than others. An effective small gr
 * to achieve a common goal
 * for which they are accountable together. 
 	
-You can see that all members of the group need to “buy in” to the process. They need to be committed to the goals of the group and be accountable for their actions in the group. 
+You can see that all members of the group need to ‘buy in’ to the process. They need to be committed to the goals of the group and be accountable for their actions in the group. 
 
 ## Successful collaborative learning
 

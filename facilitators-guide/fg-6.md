@@ -15,7 +15,7 @@ When your group has worked through the entire book, they can take a formal 75-qu
 
 You will need to arrange a venue for the exam and an exam manager (an invigilator). The time needed for the exam is one hour. 
 
-Participants can also take the exam on their own on a “trust” basis, but it is better to have a more formal, supervised exam. 
+Participants can also take the exam on their own on a ‘trust’ basis, but it is better to have a more formal, supervised exam. 
 
 ### How to request exams
 

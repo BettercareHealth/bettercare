@@ -15,7 +15,7 @@ Group members need to stay motivated to achieve their goals. When a course runs 
  
 Get group members to keep a learning journal. In their journal they can record what they have learnt and, more importantly, how they have applied their new knowledge and skills in the workplace. They can share these experiences with the group at the beginning or end of each session. Hearing how other people have grown is very motivational, as is seeing your own progress. 
 
-Keep a record of the group members’ post-test scores on the multiple-choice tests. You can have a “top achiever” every week or every two weeks. Name the top achiever and let the group congratulate him or her. To make it fun, you could have a special sign that the top achiever wears that week, for example, a funny hat or a big badge.
+Keep a record of the group members’ post-test scores on the multiple-choice tests. You can have a ‘top achiever’ every week or every two weeks. Name the top achiever and let the group congratulate him or her. To make it fun, you could have a special sign that the top achiever wears that week, for example, a funny hat or a big badge.
 
 With the group’s permission, display the pre- and post-test scores on the multiple-choice tests on the wall of your meeting room. You could also have a weekly or bi-weekly award for the most improved participant.  
 
@@ -37,10 +37,10 @@ Remember to include all group members in presenting information to the group. Fo
 
 ## Ensuring skills are applied in the work setting
 
-There is not much point in learning new knowledge and skills if it isn’t applied in the work setting. Here are some ways to make sure new knowledge and skills are carried over into “real life”. 
+There is not much point in learning new knowledge and skills if it isn’t applied in the work setting. Here are some ways to make sure new knowledge and skills are carried over into ‘real life’. 
 
 * Each member keeps a learning journal or diary and writes down experiences they have had in the workplace where they had the opportunity to apply their knowledge and skills. These can be shared at the beginning or end of each session. 
 * The members of the group can share at the beginning or end of each session what they have noticed their colleagues doing differently after training. This also helps to develop problem-solving and decision-making skills.  
 * The group members can share experiences they had before training and talk about what they would do differently now that they have new knowledge and skills. 
-* Ask a superior or co-workers if they have noticed a change in the group members’ professional behaviour and attitudes. Emphasise that you are not “checking up on them”. You are gathering information to find out if the learning process is successful. 
+* Ask a superior or co-workers if they have noticed a change in the group members’ professional behaviour and attitudes. Emphasise that you are not ‘checking up on them’. You are gathering information to find out if the learning process is successful. 
 * If the material in the course is different to hospital or clinic policy, discuss this in the group. Try to reach a compromise after reviewing both points of view. 
