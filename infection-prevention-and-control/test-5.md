@@ -58,7 +58,7 @@ the area.
 	1.	Should be mechanically ventilated under negative pressure
 	1.	Should be kept at temperatures between 24 and 28 °C
 	1.	May routinely sterilize their own surgical equipment in the theatre
-	1.	Should have well-demarcated “clean” and “sterile” zones.
+	1.	Should have well-demarcated ‘clean’ and ‘sterile’ zones.
 11.	Intensive care units (ICU):
 	1.	Do not require isolation rooms as the beds are far apart 
 	1.	Should have a minimum of 2.5 metres space between beds

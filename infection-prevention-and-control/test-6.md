@@ -95,7 +95,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Be corrosive to surfaces.
 18.	The sterile services department (SSD) should: 
 	1.	Process all critical and semi-critical items in a hospital
-	1.	Have a single large room where “clean” and “dirty” instruments are processed
+	1.	Have a single large room where ‘clean’ and ‘dirty’ instruments are processed
 	1.	Be operated by cleaners in the wash room
 	1.	Routinely allow operating theatre staff to process instruments in the surgical area.
 19.	An advantage of autoclave sterilizers is:

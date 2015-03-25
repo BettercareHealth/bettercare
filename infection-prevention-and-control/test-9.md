@@ -55,7 +55,7 @@ Please choose the ONE most correct answer to each question:
 	1.	A manager, clinician, pharmacist, microbiologist, data manager and IPC practitioner. 
 10.	Information on antimicrobial usage can be used by the stewardship committee to:
 	1.	Identify high usage drugs and clinical areas that use them most
-	1.	Punish individual “high-volume” prescribers  
+	1.	Punish individual ‘high-volume’ prescribers  
 	1.	Impose penalties on the clinical areas with highest usage
 	1.	Draw up local guidelines for antimicrobial usage.
 11.	Essential resources needed for an antimicrobial stewardship programme include:

@@ -37,7 +37,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Bacteria need the right nutrients, humidity and temperature to multiply
 	1.	Bacteria can replicate as fast as every two minutes
 	1.	Bacteria can only grow if oxygen is available
-	1.	The phase of rapid bacterial growth is called the “lag phase”. 
+	1.	The phase of rapid bacterial growth is called the ‘lag phase’. 
 7.	Regarding viruses:
 	1.	Most viruses infect cells of the endocrine system
 	1.	Viruses with an envelope are more difficult to kill

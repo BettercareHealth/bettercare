@@ -30,7 +30,7 @@ If coordinated effectively, the utilization of this critical resource will have 
 
 —*Zulfa Francis, Quality Manager, Metro District Health Services, Western Cape Department of Health*
 
-‘Infection prevention and control is one of those facets of healthcare that everyone acknowledges is vital, but always seems to be “someone else’s job”. Infection control is everyone’s responsibility and it is incumbent on all healthcare professionals to have an understanding of basic IPC principles. 
+‘Infection prevention and control is one of those facets of healthcare that everyone acknowledges is vital, but always seems to be ‘someone else’s job’. Infection control is everyone’s responsibility and it is incumbent on all healthcare professionals to have an understanding of basic IPC principles. 
 
 This book is a well-written, well-structured resource that could be used by both undergraduate and qualified clinicians, nurses and allied health professionals. 
 

@@ -23,12 +23,12 @@ Please choose the ONE most correct answer to each question:
 	1.	Not wear rings, bracelets and watches, but may wear artificial nails.
 	1.	Not wear rings, bracelets and watches, but may have long nails
 	1.	Not wear rings, bracelets and watches, and keep nails short.
-4.	Which one of the “five moments for hand hygiene” is the most important?
+4.	Which one of the ‘five moments for hand hygiene’ is the most important?
 	1.	Before and after patient contact
 	1.	Before an aseptic procedure
 	1.	After body fluid exposure and contact with patient surroundings
 	1.	They are all equally important.
-5.	Which of the “five moments for hand hygiene” do healthcare workers forget most often? 
+5.	Which of the ‘five moments for hand hygiene’ do healthcare workers forget most often? 
 	1.	Before patient contact
 	1.	After patient contact
 	1.	Before aseptic procedure
@@ -45,7 +45,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Around the fingernails/fingertips.
 8.	When should gloves be changed?
 	1.	When they are dirty
-	1.	When moving from a contaminated body area to a “clean” area of the same patient
+	1.	When moving from a contaminated body area to a ‘clean’ area of the same patient
 	1.	When moving to another patient
 	1.	All of the above.
 9.	For which of these tasks should gloves be worn?
@@ -85,7 +85,7 @@ Please choose the ONE most correct answer to each question:
 	1.	At the point of care.
 16.	The ideal handwashing basin/station should include which of the following? 
 	1.	A place to put the wet soap
-	1.	Elbow-operated, “no touch” taps
+	1.	Elbow-operated, ‘no touch’ taps
 	1.	Alcohol handrub mounted at the sink
 	1.	A plug for the sink.
 17.	Which strategy can improve healthcare workers’ hand hygiene compliance rates?
