@@ -63,7 +63,7 @@ layout: index
 		
 		<a href="infection-prevention-and-control/" title="Infection Prevention and Control"><img class="cover-thumb unavailable" src="infection-prevention-and-control/images/cover-thumb.jpg" alt="Infection Prevention and Control" title="Infection Prevention and Control is for nurses, doctors, and health administrators in resource-limited settings. It covers IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship." /></a>
 		
-		<a href="intrapartum-care/" title="Intrapartum Care"><img class="cover-thumb unavailable" src="intrapartum-care/images/cover-thumb.jpg" alt="Intrapartum Care" title="Intrapartum Care is for doctors and advanced midwives working in labour wards in level 2 hospitals. It covers the care of the mother, the management of labour and monitoring the well-being of the fetus." /></a>
+		<a href="intrapartum-care/" title="Intrapartum Care"><img class="cover-thumb unavailable" src="intrapartum-care/images/cover-thumb.jpg" alt="Intrapartum Care" title="Intrapartum Care is for doctors and advanced midwives working in labour wards in level 2 hospitals. It covers the care of the mother, the management of labour and monitoring the wellbeing of the fetus." /></a>
 
 		<a href="maternal-care/" title="Maternal Care"><img class="cover-thumb unavailable" src="maternal-care/images/cover-thumb.jpg" alt="Maternal Care" title="Maternal Care is for midwives and doctors working in labour wards in level 2 hospitals. It covers the common and important problems that occur during pregnancy, labour, delivery and the puerperium." /></a>
 
