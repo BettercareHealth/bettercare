@@ -44,7 +44,7 @@ layout: test
 8.	A brachial palsy is most commonly seen in:
 	1.	Preterm infants born by vaginal delivery
 	1.	Large infants with impacted shoulders `correct`{:.correct-answer}
-	1.	Infants born by elective caesarean section
+	1.	Infants born by elective Caesarean section
 	1.	Infants delivered by vacuum extraction
 9.	What is the treatment of a brachial palsy?
 	1.	Keep the arm above the head.

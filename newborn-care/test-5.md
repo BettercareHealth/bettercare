@@ -29,7 +29,7 @@ layout: test
 5.	Which of the following signs indicates that the infant is sick?
 	1.	Preterm delivery
 	1.	Birth weight of 1500 g
-	1.	Delivery by caesarean section
+	1.	Delivery by Caesarean section
 	1.	Apnoea `correct`{:.correct-answer}
 6.	Which of the following is called a vital sign?
 	1.	Birth weight

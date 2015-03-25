@@ -37,7 +37,7 @@ layout: test
 	1.	It is used to assess the infant’s clinical condition at birth. `correct`{:.correct-answer}
 	1.	It is used to assess gestational age.
 7.	What is the value of a 5 minute Apgar score?
-	1.	It is used to define “failure to breathe at birth”.
+	1.	It is used to define ‘failure to breathe at birth’.
 	1.	It is used to assess the success or failure of resuscitation. `correct`{:.correct-answer}
 	1.	It helps to decide whether further resuscitation is hopeless.
 	1.	It accurately predicts whether the infant will develop cerebral palsy.
@@ -63,7 +63,7 @@ layout: test
 	1.	All staff who conduct deliveries `correct`{:.correct-answer}
 12.	After being well dried which infants should have their mouth and pharynx suctioned:
 	1.	Preterm infants
-	1.	Infants born by caesarean section
+	1.	Infants born by Caesarean section
 	1.	Infants that fail to breathe well `correct`{:.correct-answer}
 	1.	All newborn infants
 13.	Which infants should be resuscitated with oxygen?
