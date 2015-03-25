@@ -97,10 +97,10 @@ layout: test
 	*	Stays the same
 	*	Is not important
 19.	What is the value of knowing the CD4 percentage?
-	*	The lower the CD4 % the greater the risk of severe illness.
-	*	The higher the CD4 % the greater the risk of death.
-	*	A low CD4 % indicates that the child’s immune system is improving.
-	*	A normal CD4 % indicates that the child does not have HIV infection.
+	*	The lower the CD4% the greater the risk of severe illness.
+	*	The higher the CD4% the greater the risk of death.
+	*	A low CD4% indicates that the child’s immune system is improving.
+	*	A normal CD4% indicates that the child does not have HIV infection.
 20.	In South Africa, who can give consent for a child to be tested for HIV?
 	*	The consent of both parents is always needed.
 	*	The consent of the medical superintendent is always needed.
