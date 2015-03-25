@@ -39,7 +39,7 @@ Please choose the ONE most correct answer to each question:
 	1.	By paying health care workers more.
 	1.	By creating clear referral criteria.
 7.	What is a key recommendation to prevent maternal death?
-	1.	Primary care clinics should perform caesarean sections.
+	1.	Primary care clinics should perform Caesarean sections.
 	1.	Midwife obstetric clinics should be established.
 	1.	All HIV positive women should be delivered in hospital.
 	1.	All women be observed in hospital for five days after delivery.

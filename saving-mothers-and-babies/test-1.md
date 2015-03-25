@@ -83,7 +83,7 @@ Please choose the ONE most correct answer to each question:
 	1.	It indicates the quality of antenatal care.
 	1.	It can be used to calculate the maternal mortality rate.
 	1.	It can be used to calculate the stillbirth rate.
-16.	What is the expected caesarean section rate in a developing country?
+16.	What is the expected Caesarean section rate in a developing country?
 	1.	10%.
 	1.	15%.
 	1.	20%.
@@ -101,7 +101,7 @@ Please choose the ONE most correct answer to each question:
 19.	The low birth weight rate is important because it:
 	1.	Reflects the socioeconomic status of the community.
 	1.	Is used to calculate the perinatal mortality rate.
-	1.	Can be used to predict the number of caesarean sections needed in a hospital.
+	1.	Can be used to predict the number of Caesarean sections needed in a hospital.
 	1.	Increases in communities where diabetes during pregnancy is common.
 20.	What is the low birth weight rate in South Africa?
 	1.	About 5%.

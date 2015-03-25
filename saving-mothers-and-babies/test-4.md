@@ -44,7 +44,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Once a year.
 	1.	Whenever a maternal death occurs.
 8.	What routine information should be presented at a perinatal mortality meeting?
-	1.	The number of normal, assisted and caesarean deliveries.
+	1.	The number of normal, assisted and Caesarean deliveries.
 	1.	Only the total number of deliveries.
 	1.	The number of infants receiving phototherapy.
 	1.	The number of women with prolonged labour.
