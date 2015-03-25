@@ -338,7 +338,7 @@ The level of care needed is shown as follows:
   <tr>
     <td><p>Myomectomy</p></td>
     <td><p>Danger of ruptured uterus.</p></td>
-    <td><p>Elective caesarean section indicated.</p></td>
+    <td><p>Elective Caesarean section indicated.</p></td>
     <td><p>2</p></td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@ The level of care needed is shown as follows:
     <td><p>Caesarean section(s)</p></td>
     <td><p>Danger of ruptured uterus with previous vertical uterine incision, or with two or more caesarian sections.</p></td>
     <td><p> Get details of the indication and type of incision from old records.</p>
-      <p>Elective caesarean section at 39 weeks if 2 previous caesarean sections or a vertical incision.</p></td>
+      <p>Elective Caesarean section at 39 weeks if 2 previous Caesarean sections or a vertical incision.</p></td>
     <td><p>2</p></td>
   </tr>
   <tr>

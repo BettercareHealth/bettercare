@@ -22,7 +22,7 @@ layout: test
 	1.	Only those patients who had a transverse lower segment incision may be allowed to labour normally.
 	1.	Only those patients who had a transverse lower segment incision for a non-recurring indication may be allowed to labour normally.
 4.	Which of the following risk factors from a patient’s past obstetric history carries the highest risk in a subsequent pregnancy?
-	1.	A previous caesarean section.
+	1.	A previous Caesarean section.
 	1.	An infant weighing more than 4000 g at birth.
 	1.	A previous perinatal death.
 	1.	A previous ectopic pregnancy.
@@ -73,7 +73,7 @@ layout: test
 	1.	16 weeks.
 14.	During the antenatal period ultrasonography must be done between 18 and 22 weeks:
 	1.	On very obese patients where determination of the duration of pregnancy is difficult.
-	1.	On patients needing elective delivery, e.g. those with 2 previous caesarean sections.
+	1.	On patients needing elective delivery, e.g. those with 2 previous Caesarean sections.
 	1.	On patients with a history of severe pre-eclampsia before 34 weeks gestation.
 	1.	In all of the above patients.
 15.	Which of the following results indicate active syphilis?

@@ -84,7 +84,7 @@ layout: test
 16.	What action should you take if a routine ultrasound examination early in pregnancy shows a placenta praevia?
 	1.	A repeat ultrasound examination must be arranged at 32 weeks.
 	1.	No further investigations are required.
-	1.	Book the patient for an elective caesarean section at 38 weeks.
+	1.	Book the patient for an elective Caesarean section at 38 weeks.
 	1.	Refer the patient to hospital where she will be admitted.
 17.	How will a patient describe a blood-stained vaginal discharge?
 	1.	A vaginal bleed that soaks a sanitary towel.

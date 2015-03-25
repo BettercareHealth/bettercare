@@ -80,7 +80,7 @@ layout: test
 	1.	All patients where there is reason to be worried about the fetal condition.
 	1.	All primigravidas.
 	1.	All pregnant patients from 28 weeks gestation.
-	1.	All patients who have had a previous caesarean section.
+	1.	All patients who have had a previous Caesarean section.
 16.	When during the day would you advise a patient to count fetal movements?
 	1.	Fetal movement should be counted and recorded for a period of an hour per day after breakfast.
 	1.	Fetal movement should be counted and recorded for a period of an hour per day before breakfast.
@@ -102,7 +102,7 @@ layout: test
 	1.	The patient should repeat the fetal movement count in the afternoon.
 	1.	Antenatal fetal heart rate monitoring is indicated and, therefore, she must report to her nearest hospital.
 20.	What management would be correct if a patient with reduced fetal movements presents at a hospital that does not have a cardiotocograph (CTG machine)?
-	1.	The responsible doctor must see the patient immediately as a caesarean section should be done.
+	1.	The responsible doctor must see the patient immediately as a Caesarean section should be done.
 	1.	Refer the patient urgently to a hospital that has a cardiotocograph.
 	1.	Exclude the possibility of fetal death by listening for the fetal heart with a stethoscope.
 	1.	Fetal movements must be counted again the next day.
