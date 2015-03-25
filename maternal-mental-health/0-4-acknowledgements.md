@@ -16,6 +16,6 @@ The authors would like to acknowledge the contributions made to the content of t
 
 Graeme Arendse created the illustrations (email: [boeta.gee@gmail.com](mailto:boeta.gee@gmail.com)).
 
-We acknowledge all colleagues who have made suggestions and offered constructive criticism. It is only through constant feedback that the content of the Perinatal Education Programme can be improved. 
+We acknowledge all colleagues who have made suggestions and offered constructive criticism. It is only through constant feedback that the Bettercare books can be improved. 
 
 We are particularly grateful to the Harry Crossley Foundation for their generous funding for the production of this book. 

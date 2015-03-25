@@ -89,10 +89,10 @@ Please choose the ONE most correct answer to each question:
 	1.	Feeling pity for someone’s suffering
 	1.	Understanding someone’s emotions even though you have not experienced them 
 17.	The following is an example of validating feelings:
-	1.	“I don’t think you are depressed, this is just a bad day”
-	1.	“I’m sure your husband is not having an affair, he probably will be back this evening”
-	1.	“I can hear that this is making you are feeling low. That must be very difficult for you.”
-	1.	“Did you really say you want to shake your baby? That is a shocking thing to say.”
+	1.	‘I don’t think you are depressed, this is just a bad day’
+	1.	‘I’m sure your husband is not having an affair, he probably will be back this evening’
+	1.	‘I can hear that this is making you are feeling low. That must be very difficult for you.’
+	1.	‘Did you really say you want to shake your baby? That is a shocking thing to say.’
 18.	A good listener has the following characteristics:
 	1.	Ability to multi-task
 	1.	Ability to minimise problems

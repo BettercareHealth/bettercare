@@ -21,7 +21,7 @@ Please choose the ONE most correct answer to each question:
 3.	Which mental illnesses are known as Common Mental Disorders? 
 	1.	Depression and Anxiety
 	1.	Schizophrenia and Post-Traumatic Stress Disorder
-	1.	Bipolar Affective Disorder and Obsessive-Compulsive Disorder
+	1.	Bipolar affective disorder and obsessive–compulsive disorder
 	1.	TB and HIV/ AIDS
 4.	How can mental illness affect the baby?
 	1.	It is caused by a virus and so crosses the placental barrier

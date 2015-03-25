@@ -327,7 +327,7 @@ This section provides copies of the screening tools discussed in this book, info
 > |  6 | My family and friends care about how I feel.                                                                                           |     |    |
 > |  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                            |     |    |
 > |  8 | My family and friends help me in practical ways.                                                                                       |     |    |
-> |  9 | On the whole, I have a good relationship with my own mother (indicate “no” if your mother has passed away).                            |     |    |
+> |  9 | On the whole, I have a good relationship with my own mother (indicate ‘no’ if your mother has passed away).                            |     |    |
 > | 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.  |     |    |
 > | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
 > 
@@ -488,8 +488,8 @@ The mother (for the sake of simplicity, we refer to a mother applying for a Main
 *	The Maintenance Officer will help the mother work out all the things she must pay for every month, how much money she earns and how much money the father earns. 
 *	If the father says that he is not the father of the child, the mother needs to ask the court to order a paternity test. 
 *	The Magistrate will listen to both the parents' stories. They will ask both of them to show how much they earn and how much they pay every month for things like rent, electricity and food. 
-*	The Magistrate then decides how much the father must pay for the children. The Magistrate will make this amount an “Order of Court”, in writing. 
-*	If the mother agrees with how much the father must pay for the children, the Maintenance Officer will get both parents to sign a paper called an “Order of Court”. This says that the father must pay the agreed amount of money every week or every month.
+*	The Magistrate then decides how much the father must pay for the children. The Magistrate will make this amount an ‘Order of Court’, in writing. 
+*	If the mother agrees with how much the father must pay for the children, the Maintenance Officer will get both parents to sign a paper called an ‘Order of Court’. This says that the father must pay the agreed amount of money every week or every month.
 *	If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
 *	The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
 
@@ -532,7 +532,7 @@ The parent or primary caregiver will need:
 *	The child’s birth certificate
 *	If the parent or primary caregiver is married, proof of the person’s marital status
 *	Proof of income: salary slip, bank statements for three months, or pension slips, and any other proof of income
-*	If the parent or primary caregiver is unemployed, the Unemployment Insurance Fund (UIF) card, also known as the “blue book”, or a discharge certificate from the person’s previous employer
+*	If the parent or primary caregiver is unemployed, the Unemployment Insurance Fund (UIF) card, also known as the ‘blue book’, or a discharge certificate from the person’s previous employer
 
 If the primary caregiver is not the child's parent or guardian:
 
@@ -723,7 +723,7 @@ South African national helpline contact numbers
 | Mental Health Society                                       | 011 781 1852                        |
 | Narcotics Anonymous                                         | 083 900 6962                        |
 | People Opposing Women Abuse (POWA)                          | 011 642 4345 or 083 765 1235        |
-| PNDSA                                                       | SMS “help” and name to 082 882 0072 |
+| PNDSA                                                       | SMS ‘help’ and name to 082 882 0072 |
 | Rape and Trauma Line                                        | 021 447 9762                        |
 | SA Depression and Anxiety Group                             | 011 262 6396                        |
 | Safeline                                                    | 0800 035 553                        |

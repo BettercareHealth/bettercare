@@ -10,7 +10,7 @@ layout: chapter
 
 Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project, the Academic Unit for Infection Prevention and Control at Stellenbosch University, and the Infection Control Africa Network, with contributions from numerous experts.
 
-Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care. In *Maternal Mental Health*, we are also hoping that this will be of benefit to social workers. While most of the examples are set in the medical facilities, we feel that the knowledge and skills shared in the book are relevant to a range of professionals who work with mothers. 
+Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care. In *Maternal Mental Health*, we are also hoping that this will be of benefit to social workers. While most of the examples are set in medical facilities, we feel that the knowledge and skills shared in the book are also relevant to a range of professionals who work with mothers. 
 
 The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60&nbsp;000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
