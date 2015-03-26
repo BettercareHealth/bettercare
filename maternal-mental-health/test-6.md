@@ -22,18 +22,18 @@ Please choose the ONE most correct answer to each question:
 	1.	They are confused and out of touch with reality and so cannot get help
 	1.	They have the same access as everyone else so should have no more difficulties
 	1.	The women may not feel worthy of support
-	1.	They are supported by the Department of Social Development and so have good access to mental health care. 
+	1.	They are supported by the Department of Social Development and so have good access to mental health care
 4.	How can a health worker support a woman with few resources?
 	1.	Tell her to get a job
 	1.	Listen to her, show kindness and respect
 	1.	Inform her husband that she needs more care
-	1.	There is nothing that can be done, that is the job of a scial worker
+	1.	There is nothing that can be done, that is the job of a social worker
 5.	What typical teenage behaviour can be confused with symptoms of mental illness?
 	1.	Aggression or withdrawal
 	1.	Chewing gum
 	1.	Having acne
 	1.	Being sexually active
-6.	How can a health work support a pregnant teenager?
+6.	How can a health worker support a pregnant teenager?
 	1.	Tell her to behave like an adult; she is going to be a mother
 	1.	Advise her to make better choices for her future
 	1.	Warn her that she is irresponsible: sexually transmitted diseases and lack of contraception are dangerous
@@ -56,7 +56,7 @@ Please choose the ONE most correct answer to each question:
 10.	Which statement regarding adoption is true?
 	1.	A closed adoption means that the identity of the birth parents are not given to the adoptive parents
 	1.	A closed adoption means that the door is closed so that the birth mother can say goodbye to her baby in private
-	1.	A disclosed adoption means that the adoptive parent’s HIV status must be known. 
+	1.	A disclosed adoption means that the adoptive parents’ HIV status must be known
 	1.	A disclosed adoption means that the identity of the birth parents are not given to the adoptive parents
 11.	What makes it more likely for refugees to suffer from mental illness?
 	1.	Most foreigners are mentally ill
@@ -69,10 +69,10 @@ Please choose the ONE most correct answer to each question:
 	1.	Domestic violence is likely to increase during pregnancy
 	1.	Only men can suffer from domestic violence
 13.	With reference to domestic violence, the letters IPV stand for the words:
-	1.	Internal Perforation - violent
-	1.	Indigo, Purple, Violet - bruise categories
-	1.	Independent Personal Victim
-	1.	Intimate Partner Violence
+	1.	Internal perforation – violent
+	1.	Indigo, purple, violet – bruise categories
+	1.	Independent personal victim
+	1.	intimate partner violence
 14.	Emotionally abusive behaviour is:
 	1.	Your own fault for choosing an abusive partner
 	1.	Letting your emotions get in the way of your behaviour
@@ -104,7 +104,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Neglecting to pick up after the child has thrown food on the floor
 	1.	Failure to provide adequately for the child’s emotional or physical needs
 20.	What is the best way for a health worker to help an abused child?
-	1.	Contact Social Services or Child Welfare because the child’s life is at risk.
+	1.	Contact Social Services or Child Welfare because the child’s life is at risk
 	1.	Ignore the problem, the child will grow up and leave home anyway
 	1.	Hit the mother so she knows what it feels like
 	1.	Threaten to send her husband to jail as he is part of the problem

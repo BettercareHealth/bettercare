@@ -14,26 +14,26 @@ Please choose the ONE most correct answer to each question:
 	1.	Irrational behaviour
 	1.	Stressing other people
 2.	How common is mental illness during and after pregnancy in South Africa?
-	1.	Less common than in high income countries
+	1.	Less common than in high-income countries
 	1.	All pregnant women suffer from mental illness
 	1.	Almost half of pregnant women in South Africa have a mental illness like depression or anxiety
 	1.	This is very rare for pregnant women in South Africa
-3.	Which mental illnesses are known as Common Mental Disorders? 
-	1.	Depression and Anxiety
-	1.	Schizophrenia and Post-Traumatic Stress Disorder
+3.	Which mental illnesses are known as common mental disorders? 
+	1.	Depression and anxiety
+	1.	Schizophrenia and post-traumatic stress disorder
 	1.	Bipolar affective disorder and obsessive–compulsive disorder
-	1.	TB and HIV/ AIDS
+	1.	TB and HIV/AIDS
 4.	How can mental illness affect the baby?
 	1.	It is caused by a virus and so crosses the placental barrier
 	1.	Babies are likely to develop genetic defects
 	1.	Babies are too young to be affected
 	1.	Babies may be delivered prematurely with low birth weight
 5.	Which of the following are risk factors for maternal mental illness?
-	1.	Living in a high income country
+	1.	Living in a high-income country
 	1.	Smoking
 	1.	Being a teenager
-	1.	Having more than 4 children 
-6.	A pregnant women who learns that she is HIV positive during pregnancy may:
+	1.	Having more than four children 
+6.	A pregnant woman who learns that she is HIV positive during pregnancy may:
 	1.	Feel guilty or anxious about her baby possibly getting HIV
 	1.	Become depressed and feel it is not worth adhering to the PMTCT protocol
 	1.	Deny her HIV status 
@@ -43,7 +43,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Substance use
 	1.	Previous history of mental illness
 	1.	Unplanned pregnancy
-8.	What is the ‘Baby Blues’?
+8.	What is the ‘baby blues’?
 	1.	A baby that needs to be given oxygen at birth
 	1.	A male infant 
 	1.	Bruising from delivery
@@ -63,22 +63,22 @@ Please choose the ONE most correct answer to each question:
 	1.	Swearing
 	1.	Spending a lot of money
 	1.	Sleeping all the time 
-12.	Obsessive Compulsive Disorder is suspected when
+12.	Obsessive–compulsive disorder is suspected when
 	1.	Someone is obsessed with a famous person
 	1.	Someone has unwanted thoughts that are repeated
 	1.	Someone is afraid of strangers
 	1.	Someone has low appetite and sleeps little 
-13.	What is the cause of Post-traumatic stress disorder? 
+13.	What is the cause of post-traumatic stress disorder? 
 	1.	Being exposed to a virus
 	1.	Coming from a foreign country
 	1.	An unplanned pregnancy
 	1.	A traumatic experience 
-14.	If a person has Post-traumatic stress disorder what behaviour could she display?
+14.	If a person has post-traumatic stress disorder what behaviour could she display?
 	1.	She may want more attention than other women
 	1.	She may not keep herself clean
 	1.	She may be very frightened and jumpy
 	1.	She may be sleepy all the time
-15.	What is Tocophobia?
+15.	What is tocophobia?
 	1.	Fear of the unknown
 	1.	Fear of childbirth
 	1.	Fear of smoke
@@ -101,7 +101,7 @@ Please choose the ONE most correct answer to each question:
 19.	Which of the following statements are true?
 	1.	Women with mental illnesses cannot get better
 	1.	Very few pregnant women in South Africa have mental illnesses
-	1.	Postpartum psychosis is the only mental illness women suffer from around childbirth
+	1.	Postnatal psychosis is the only mental illness women suffer from around childbirth
 	1.	Mental illness in the mother can have a negative effect for the child 
 20.	What is co-morbid?
 	1.	When both mother and baby die in childbirth

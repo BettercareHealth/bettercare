@@ -9,7 +9,7 @@ layout: test
 Please choose the ONE most correct answer to each question:
  
 1.	What is a referral?
-	1.	Sending a patient to someone else because you find her irritating.
+	1.	Sending a patient to someone else because you find her irritating
 	1.	Sending a patient’s bloods to the lab for testing
 	1.	Recommending and sending someone for specialised services
 	1.	Recommending a healthy diet and adequate rest during pregnancy
@@ -81,7 +81,7 @@ Please choose the ONE most correct answer to each question:
 15.	How can depression or anxiety affect the mother’s ability to take up a referral?
 	1.	It can make them lazy
 	1.	They may forget appointments
-	1.	They will be too busy getting dressed up to go the appointment
+	1.	They will be too busy getting dressed up to go to the appointment
 	1.	They should be staying at home to take care of themselves
 16.	If there are no counselling resources available, which of the following can you do to help?
 	1.	Ignore the problem
@@ -102,9 +102,9 @@ Please choose the ONE most correct answer to each question:
 	1.	She can put up pain relief drips
 	1.	She can do vacuum extractions
 	1.	She supports the mother and helps to calm her
-	1.	She intervenes with the medical team and stops them doing unnecessary Caesarean sections. 
+	1.	She intervenes with the medical team and stops them doing unnecessary Caesarean sections
 20.	What can one of the benefits of having a doula be?
 	1.	More need for pain relief
 	1.	Shorter length of labour
-	1.	Increased chance of a Caesarean sections 
+	1.	Increased chance of a Caesarean section
 	1.	Shorter duration of breastfeeding

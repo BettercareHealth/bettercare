@@ -13,21 +13,22 @@ This section provides copies of the screening tools discussed in this book, info
 
 ## Contents
 
-1.	Screening tools
-2.	Termination of Pregnancy Services
-3.	Adoption Services 
-4.	Maintenance Orders
-5.	Child Support Grants
-6.	Protection Orders
-7.	How to make a referral
-8.	South African national helplines
-9.	South African organisations for training in counselling
+1.	[Screening tools](#screening-tools)
+2.	[Termination of pregnancy (TOP) services](#termination-of-pregnancy-top-services)
+3.	[Adoption services](#adoption-services)
+4.	[Maintenance Orders](#maintenance-orders)
+5.	[Child Support Grants](#child-support-grants)
+6.	[Protection Orders](#protection-orders)
+7.	[How to make a referral](#how-to-make-a-referral)
+8.	[South African national helplines](#south-african-national-helplines)
+9.	[South African organisations for training in counselling](#south-african-organisations-for-training-in-counselling)
+{:.page-ref-list}
 
 ## 1. Screening tools
 
 *	The screening tools can be copied and used for screening. 
 *	All screening tools are provided in English, Afrikaans, isiXhosa and French.  
-*	Information about how to score each screening tool can be found in Chapter 2. 
+*	Information about how to score each screening tool can be found in chapter 2. 
 
 > ### The Whooley Depression Screen (English)
 > 
@@ -125,7 +126,7 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > Nou dat jy swanger is/die baba het, wil ons graag weet hoe jy voel. Dit mag ons help om die beste sorg vir jou behoeftes te beplan. Die inligting wat jy aan ons verskaf sal privaat en vertroulik hanteer word.
 > 
-> Daar is ‘n keuse van vier antwoorde vir elke vraag. Omsirkel asseblief die antwoord wat die beste beskryf hoe jy gedurende die afgelope sewe dae gevoel het, nie net hoe jy nou vandag voel nie.
+> Daar is ’n keuse van vier antwoorde vir elke vraag. Omsirkel asseblief die antwoord wat die beste beskryf hoe jy gedurende die afgelope sewe dae gevoel het, nie net hoe jy nou vandag voel nie.
 > 
 > Gedurende die afgelope sewe dae:	 
 > 
@@ -136,7 +137,7 @@ This section provides copies of the screening tools discussed in this book, info
 > ☐ Glad nie  
 > 2. Kon ek met genot na dinge uitsien:  
 > ☐ So baie soos ek altyd het  
-> ☐ ‘n Bietjie minder as wat ek altyd het  
+> ☐ ’n Bietjie minder as wat ek altyd het  
 > ☐ Baie minder as wat ek gewoonlik het  
 > ☐ Amper glad nie  
 > 3. Het ek myself blameer wanneer dinge verkeerd gaan, al was dit nie my skuld nie:  
@@ -317,19 +318,19 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > We are interested to find out how your situation is in your pregnancy/now that you have had your baby. This questionnaire may help us suggest extra care for you if necessary. Your answers will be kept confidential. Please answer either yes or no to the following questions. Tick the box.
 > 
-> |    |                                                                                                                                        | Yes | No |
-> |----+----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
-> |  1 | I feel pleased about being pregnant/now that I have had my baby.                                                                       |     |    |
-> |  2 | I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home etc.) |     |    |
-> |  3 | My husband/boyfriend and I are still together.                                                                                         |     |    |
-> |  4 | I feel my husband/boyfriend cares about me (say no if you are not with him anymore).                                                   |     |    |
-> |  5 | My husband/boyfriend or someone else in the household is sometimes violent towards me.                                                 |     |    |
-> |  6 | My family and friends care about how I feel.                                                                                           |     |    |
-> |  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                            |     |    |
-> |  8 | My family and friends help me in practical ways.                                                                                       |     |    |
-> |  9 | On the whole, I have a good relationship with my own mother (indicate ‘no’ if your mother has passed away).                            |     |    |
-> | 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.  |     |    |
-> | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                          |     |    |
+> |    |                                                                                                                                         | Yes | No |
+> |----+-----------------------------------------------------------------------------------------------------------------------------------------+-----+----|
+> |  1 | I feel pleased about being pregnant/now that I have had my baby.                                                                        | ☐   | ☐  |
+> |  2 | I have had some very difficult things happen to me in the last year (e.g. losing someone close to me, losing my job, moving home, etc.) | ☐   | ☐  |
+> |  3 | My husband/boyfriend and I are still together.                                                                                          | ☐   | ☐  |
+> |  4 | I feel my husband/boyfriend cares about me (say no if you are not with him anymore).                                                    | ☐   | ☐  |
+> |  5 | My husband/boyfriend or someone else in the household is sometimes violent towards me.                                                  | ☐   | ☐  |
+> |  6 | My family and friends care about how I feel.                                                                                            | ☐   | ☐  |
+> |  7 | I have experienced some kind of abuse in the past (e.g. physical, emotional, sexual, rape).                                             | ☐   | ☐  |
+> |  8 | My family and friends help me in practical ways.                                                                                        | ☐   | ☐  |
+> |  9 | On the whole, I have a good relationship with my own mother (say no if your mother has passed away).                                    | ☐   | ☐  |
+> | 10 | I have experienced one of the following in the past: miscarriage, abortion, stillbirth, or the death of a child any time after birth.   | ☐   | ☐  |
+> | 11 | I have had serious depression, panic attacks or problems with anxiety before.                                                           | ☐   | ☐  |
 > 
 > Thank you
 {:.box .fixed}
@@ -338,23 +339,23 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > *My situasie nou dat ek swanger is/my baba gekry het*
 > 
-> Ons stel daarin belang om uit te vind wat jou situasie is in jou swangerskap. Hierdie vrae kan ons help om moontlik extra hulp vir jou aan te bied indien nodig. Jou antwoorde sal vetroulik hanteer word.
+> Ons stel daarin belang om uit te vind wat jou situasie is in jou swangerskap/nou dat jy jou baba gekry het. Hierdie vrae kan ons help om moontlik extra hulp vir jou aan te bied indien nodig. Jou antwoorde sal vetroulik hanteer word.
 > 
-> Antwoord asseblief Ja of Nee op die volgende vrae. Maak ‘n kruisie.
+> Antwoord asseblief Ja of Nee op die volgende vrae. Maak ’n kruisie.
 > 
 > |    |                                                                                                                                   | Ja | Nee |
 > |----+-----------------------------------------------------------------------------------------------------------------------------------+-----+----|
-> |  1 | Ek voel gelukkig nou dat ek swanger is/my baba het.                                                                               |     |    |
-> |  2 | Baie moeilike dinge het in die afgelope jaar met my gebeur (bv. iemand na aan my is dood, ek het my werk verloor, ek het getrek). |     |    |
-> |  3 | My man/vriend en ek is nog bymekaar.                                                                                              |     |    |
-> |  4 | Ek voel dat my man/vriend gee om vir my (merk Nee as julle nie  meer bymekaar is nie).                                            |     |    |
-> |  5 | My man/vriend of iemand anders in die huis tree soms agressief teenoor my op.                                                     |     |    |
-> |  6 | My familie en vriende gee om hoe ek voel.                                                                                         |     |    |
-> |  7 | Ek was al in die verlede mishandel (bv. fisies, emosioneel, sexueel, verkrag).                                                    |     |    |
-> |  8 | My familie en vriende help my op praktiese maniere                                                                                |     |    |
-> |  9 | Oor die algemeen het ek ‘n goeie verhouding met my eie ma (merk Nee as jou ma reeds oorlede is).                                  |     |    |
-> | 10 | Ek het een van die volgende in die verlede ervaar: miskraam, aborsie, stilgeboorte, dood van my kind enige tyd na geboorte.       |     |    |
-> | 11 | Ek het van te vore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                      |     |    |
+> |  1 | Ek voel gelukkig nou dat ek swanger is/my baba het.                                                                               | ☐   | ☐  |
+> |  2 | Baie moeilike dinge het in die afgelope jaar met my gebeur (bv. iemand na aan my is dood, ek het my werk verloor, ek het getrek). | ☐   | ☐  |
+> |  3 | My man/vriend en ek is nog bymekaar.                                                                                              | ☐   | ☐  |
+> |  4 | Ek voel dat my man/vriend gee om vir my (merk Nee as julle nie  meer bymekaar is nie).                                            | ☐   | ☐  |
+> |  5 | My man/vriend of iemand anders in die huis tree soms agressief teenoor my op.                                                     | ☐   | ☐  |
+> |  6 | My familie en vriende gee om hoe ek voel.                                                                                         | ☐   | ☐  |
+> |  7 | Ek was al in die verlede mishandel (bv. fisies, emosioneel, sexueel, verkrag).                                                    | ☐   | ☐  |
+> |  8 | My familie en vriende help my op praktiese maniere.                                                                               | ☐   | ☐  |
+> |  9 | Oor die algemeen het ek ’n goeie verhouding met my eie ma (merk Nee as jou ma reeds oorlede is).                                  | ☐   | ☐  |
+> | 10 | Ek het een van die volgende in die verlede ervaar: miskraam, aborsie, stilgeboorte, dood van my kind enige tyd na geboorte.       | ☐   | ☐  |
+> | 11 | Ek het vantevore aan ernstige depressie gelei, paniek aanvalle of probleme met angs gehad.                                        | ☐   | ☐  |
 > 
 > Dankie
 {:.box .fixed}
@@ -367,17 +368,17 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > |    |                                                                                                                                                                                                | Ewe | Hayi |
 > |----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------|
-> |  1 | Ndiziva ndixolile njengokuba ndinzima/njengokuba ndifumene umntwana.                                                                                                                           |     |      |
-> |  2 | Ndibenezinto ezibuhlugu kakhulu ezindehleleyo kulonyaka uphelileyo (umzekelo ndaye ndaphulukana nomsebenzi, ndaphulukana nomntu owayesondele kakhulu kum, ndafuna indawo yokuhlala ngokutsha). |     |      |
-> |  3 | Umyeni/isoka lam sisekunye kunye (uthi hayi ukuba anisahlali kunye).                                                                                                                           |     |      |
-> |  4 | Ndicinga ukuba umyeni/isoka lam lindikhathalele kakhulu.                                                                                                                                       |     |      |
-> |  5 | Umyeni/isoka lam okanye omnye umntu endlini ngamanye amaxesha babanobundlongondlongo kum.                                                                                                      |     |      |
-> |  6 | Izazalwane kunye nezihlobo zam ziyikhathalele indlela endiziva ngayo.                                                                                                                          |     |      |
-> |  7 | Ndifumene ingxaki yokuphatheka kakubi kwixesha elidlulileyo (umzekelo ngokwasemzimbeni, ngokwasemphefumulweni, ngokwesondo nangokudlwengulwa).                                                 |     |      |
-> |  8 | Izizalwane nezihlobo zam bezindinceda kwizinto ezenziwayo.                                                                                                                                     |     |      |
-> |  9 | Ngokupheleleyo ubuhlolo phakathi kwam nomama buhle kakhulu.                                                                                                                                    |     |      |
-> | 10 | Ndifumene ezingxaki kwixesha elidlulileyo: ukuphuma isisu, ukuqhomfa, ukuzala umntwana sele etshabile, okanye ukuswelekelwa ngumntwana sendimfumene.                                           |     |      |
-> | 11 | Ndike ndaba nokudakumba okuxhalabisayo komphefumlo, ndaziva ngathi. Ndivaleka umphefumlo, intliziyo ibetha ngamandla, ndinokudinwa okugqithileyo kwixesha elidlulileyo.                        |     |      |
+> |  1 | Ndiziva ndixolile njengokuba ndinzima/njengokuba ndifumene umntwana.                                                                                                                           | ☐   | ☐  |
+> |  2 | Ndibenezinto ezibuhlugu kakhulu ezindehleleyo kulonyaka uphelileyo (umzekelo ndaye ndaphulukana nomsebenzi, ndaphulukana nomntu owayesondele kakhulu kum, ndafuna indawo yokuhlala ngokutsha). | ☐   | ☐  |
+> |  3 | Umyeni/isoka lam sisekunye kunye (uthi hayi ukuba anisahlali kunye).                                                                                                                           | ☐   | ☐  |
+> |  4 | Ndicinga ukuba umyeni/isoka lam lindikhathalele kakhulu.                                                                                                                                       | ☐   | ☐  |
+> |  5 | Umyeni/isoka lam okanye omnye umntu endlini ngamanye amaxesha babanobundlongondlongo kum.                                                                                                      | ☐   | ☐  |
+> |  6 | Izazalwane kunye nezihlobo zam ziyikhathalele indlela endiziva ngayo.                                                                                                                          | ☐   | ☐  |
+> |  7 | Ndifumene ingxaki yokuphatheka kakubi kwixesha elidlulileyo (umzekelo ngokwasemzimbeni, ngokwasemphefumulweni, ngokwesondo nangokudlwengulwa).                                                 | ☐   | ☐  |
+> |  8 | Izizalwane nezihlobo zam bezindinceda kwizinto ezenziwayo.                                                                                                                                     | ☐   | ☐  |
+> |  9 | Ngokupheleleyo ubuhlolo phakathi kwam nomama buhle kakhulu.                                                                                                                                    | ☐   | ☐  |
+> | 10 | Ndifumene ezingxaki kwixesha elidlulileyo: ukuphuma isisu, ukuqhomfa, ukuzala umntwana sele etshabile, okanye ukuswelekelwa ngumntwana sendimfumene.                                           | ☐   | ☐  |
+> | 11 | Ndike ndaba nokudakumba okuxhalabisayo komphefumlo, ndaziva ngathi. Ndivaleka umphefumlo, intliziyo ibetha ngamandla, ndinokudinwa okugqithileyo kwixesha elidlulileyo.                        | ☐   | ☐  |
 > 
 > Enkosi
 {:.box .fixed}
@@ -390,29 +391,29 @@ This section provides copies of the screening tools discussed in this book, info
 > 
 > |    |                                                                                                                                                      | Oui | Non |
 > |----+------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-----|
-> |  1 | Je suis heureuse d’être enceinte.                                                                                                                    |     |     |
-> |  2 | J’ai connu des difficultés au cours de l’année dernière (par exemple: perte de quelqu’un de cher, perte de mon emploi, déménagement, etc).           |     |     |
-> |  3 | Mon mari/compagnon et moi sommes toujours ensemble.                                                                                                  |     |     |
-> |  4 | Je sens que mon mari/compagnon m’aime toujours (dites Non, si vous n’êtes plus avec lui).                                                            |     |     |
-> |  5 | Mon mari/compagnon, ou quelqu’un d’autre à la maison est quelquefois violent avec moi.                                                               |     |     |
-> |  6 | Ma famille et mes amis se soucient de la manière dont je Me sens.                                                                                    |     |     |
-> |  7 | J’ai souffert quelque forme de mauvais traitement dans le passé (ex. physique, émotionnel, sexuel, viol).                                            |     |     |
-> |  8 | Ma famille et mes amis m’aident dans les choses pratiques.                                                                                           |     |     |
-> |  9 | Dans l’ensemble, je jouis d’une bonne relation avec ma propre mère (écrivez « non », si votre mère est morte).                                       |     |     |
-> | 10 | J’ai subi l’un des chocs suivants dans le passé: fausse-couche, avortement, enfant mort-né ou la mort d’un enfant quelque temps après la naissance). |     |     |
-> | 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   |     |     |
+> |  1 | Je suis heureuse d’être enceinte.                                                                                                                    | ☐   | ☐  |
+> |  2 | J’ai connu des difficultés au cours de l’année dernière (par exemple: perte de quelqu’un de cher, perte de mon emploi, déménagement, etc).           | ☐   | ☐  |
+> |  3 | Mon mari/compagnon et moi sommes toujours ensemble.                                                                                                  | ☐   | ☐  |
+> |  4 | Je sens que mon mari/compagnon m’aime toujours (dites Non, si vous n’êtes plus avec lui).                                                            | ☐   | ☐  |
+> |  5 | Mon mari/compagnon, ou quelqu’un d’autre à la maison est quelquefois violent avec moi.                                                               | ☐   | ☐  |
+> |  6 | Ma famille et mes amis se soucient de la manière dont je Me sens.                                                                                    | ☐   | ☐  |
+> |  7 | J’ai souffert quelque forme de mauvais traitement dans le passé (ex. physique, émotionnel, sexuel, viol).                                            | ☐   | ☐  |
+> |  8 | Ma famille et mes amis m’aident dans les choses pratiques.                                                                                           | ☐   | ☐  |
+> |  9 | Dans l’ensemble, je jouis d’une bonne relation avec ma propre mère (écrivez « non », si votre mère est morte).                                       | ☐   | ☐  |
+> | 10 | J’ai subi l’un des chocs suivants dans le passé: fausse-couche, avortement, enfant mort-né ou la mort d’un enfant quelque temps après la naissance). | ☐   | ☐  |
+> | 11 | J’ai souffert de dépression sérieuse, panique ou des problèmes d’anxiété au passé.                                                                   | ☐   | ☐  |
 > 
 > Merci
 {:.box .fixed}
 
-## 2. Termination of Pregnancy (TOP) Services
+## 2. Termination of pregnancy (TOP) services
 {:.page-break-before}
 
 Certain public health facilities should be able to perform terminations of pregnancy free of charge. These services are less available in rural areas. 
 
-The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have 14 centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortions depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: [www.mariestopes.org.za](http://www.mariestopes.org.za) or their toll-free number 0800 11 77 85.
+The Marie Stopes Clinics also do terminations. They are an international organisation offering services in sexual and reproductive health. They have fourteen centres around South Africa and practise under World Health Organisation clinical guidelines. Terminations are subsidised and are much cheaper than having it done in a private clinic. The cost of the abortion depends on how far the pregnancy has progressed and also on where the clinic is situated. Further details can be found on: [www.mariestopes.org.za](http://www.mariestopes.org.za) or their toll-free number 0800 11 77 85.
 
-## 3. Adoption Services
+## 3. Adoption services
 
 The National Department of Social Development is responsible for child protection services in South Africa. Social workers are trained to assist with adoptions. There are many adoption agencies in the country. 
 
@@ -420,18 +421,18 @@ The National Department of Social Development is responsible for child protectio
 
 If the biological parents of the child are alive, they must both consent to the adoption. Consent is not necessary if the parent or guardian: 
 
-*	Is incompetent to give consent due to mental illness
-*	Had abandoned the child, or if the whereabouts of that parent or guardian cannot be established, or if the identity of that parent or guardian is unknown
-*	Has abused or deliberately neglected the child or has allowed the child to be abused or deliberately neglected
-*	Has consistently failed to fulfil his or her parental responsibilities towards the child during the last 12 months
-*	Has been divested by an order of court of the right to consent to the adoption of the child or 
-*	Has failed to respond to a notice of the proposed adoption (referred to in Section 238 of the Children's Act 38/2005) within the 30 days of service of notice.
+*	is incompetent to give consent due to mental illness
+*	had abandoned the child, or if the whereabouts of that parent or guardian cannot be established, or if the identity of that parent or guardian is unknown
+*	has abused or deliberately neglected the child or has allowed the child to be abused or deliberately neglected
+*	has consistently failed to fulfil his or her parental responsibilities towards the child during the last twelve months
+*	has been divested by an order of court of the right to consent to the adoption of the child or 
+*	has failed to respond to a notice of the proposed adoption (referred to in Section 238 of the Children's Act 38/2005) within the 30 days of service of notice.
 
 Both the mother and the father must sign the consent form to allow the adoption by a specific person or couple. If the biological parents are not married, the mother and father must also give consent for the adoption of the child. Biological parents can withdraw their consent within 60 days of signing their consent. 
 
 A child may be placed temporarily with caregivers who are not the child’s family. This is called foster care. In most cases the foster child lives with their foster carers full time but the length of their stay will depend on individual needs and circumstances. If the child is in foster care, the foster parents must also certify that they do not wish to adopt the child. 
 
-When the child is adopted all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
+When the child is adopted, all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
 
 ### 3-2 What needs to happen for the child to be placed with an adoptive family?
 
@@ -448,7 +449,7 @@ For an adoption to take place, an adoption agency needs to:
 
 Organisations that assist with adoption services: 
 
-#### ACVV (Afrikaanse Christelike Vroue Vereniging)
+#### Afrikaanse Christelike Vroue Vereniging (ACVV)
 
 *	A welfare organisation, with 112 branches in the Western Cape, Eastern Cape, Northern Cape and North West, that focuses on general child and family services.
 *	Tel: 021 461 7437
@@ -462,7 +463,7 @@ Organisations that assist with adoption services:
 
 #### Child Welfare South Africa (CWSA)
  
-*	An umbrella body that represents more than 263 member organisations and outreach projects in communities throughout South Africa. They have offices and member organisations in all the nine provinces of the country.
+*	An umbrella body that represents more than 263 member organisations and outreach projects in communities throughout South Africa. They have offices and member organisations in all nine provinces of the country.
 *	Tel: 021 945 3111
 *	[www.childwelfaresa.org.za](http://www.childwelfaresa.org.za)
 
@@ -477,7 +478,7 @@ Other websites that provide information about adoptions include:
 
 ## 4. Maintenance Orders
 
-This information applies to South Africa. It is worth finding out about relevant laws and processes in other countries. 
+This information applies to South Africa. It is worth finding out about relevant laws and processes in your country. 
 
 ### 4-1 What is the process for getting a Maintenance Order?
 
@@ -491,14 +492,14 @@ The mother (for the sake of simplicity, we refer to a mother applying for a Main
 *	The Magistrate then decides how much the father must pay for the children. The Magistrate will make this amount an ‘Order of Court’, in writing. 
 *	If the mother agrees with how much the father must pay for the children, the Maintenance Officer will get both parents to sign a paper called an ‘Order of Court’. This says that the father must pay the agreed amount of money every week or every month.
 *	If the mother does not agree, or if the father does not come to the office on that date, then the officer will say their case must go to the Maintenance Court. The court sends notices to both parents telling them to come to the Maintenance Court on a certain date. 
-*	The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the office. 
+*	The father must pay the maintenance amount every week or month to the Maintenance Office. The mother must then collect the money from the Maintenance Office. The money can also be paid into her bank account. This will save her from having to collect the money from the Maintenance Office. 
 
 ### 4-2 What if the person ordered to pay maintenance does not pay?
 
 *	The mother needs to go to the Maintenance Office and complain. It is important to make a formal complaint every time that the other parent does not pay.
 *	The Maintenance Office records each time payments are made. This record will show when payments are not made and how much is owed. 
 *	If the other parent is employed and fails to pay maintenance, the mother must ask the court to make an order to get the maintenance directly from the other parent’s employer. 
-*	If the other parent does not pay, that parent is not obeying the order of court. This is a crime. The court will send the other parent a notice telling the person to come to court on a certain date. The person must then explain why they did not pay the money. If there is not a good reason, the court will usually tell the other party to pay all the maintenance the person owes, or the person will go to jail. 
+*	If the other parent does not pay, that parent is not obeying the Order of Court. This is a crime. The court will send the other parent a notice telling the person to come to court on a certain date. The person must then explain why they did not pay the money. If there is not a good reason, the court will usually tell the other party to pay all the maintenance the person owes, or the person will go to jail. 
 
 For more information contact the Maintenance Officer at your local Magistrates' Court.
 
@@ -514,7 +515,7 @@ Parents or primary caregivers can apply for this monthly payment on behalf of th
 
 When primary caregivers apply for a grant for a child, they must declare under oath that they are the primary caregiver, and provide some documentary proof of this. They cannot receive this grant for more than six children, unless the children are legally adopted.
 
-Children who are heading households, and who are between the ages of 16 and 18, can apply for the Child Support Grant with the help of a supervising adult, like a social worker.
+Children who are heading households, and who are between the ages of sixteen and eighteen, can apply for the Child Support Grant with the help of a supervising adult, like a social worker.
 
 Parents or primary caregivers who earn below a certain amount can also access this grant.
 
@@ -536,8 +537,8 @@ The parent or primary caregiver will need:
 
 If the primary caregiver is not the child's parent or guardian:
 
-*	A written note of permission from the parent or guardian that the person should take care of the child
-*	Information about how the person has tried to get the parents to pay maintenance
+*	A written note of permission from the parent or guardian that the person should take care of the child.
+*	Information about how the person has tried to get the parents to pay maintenance.
 *	Information that shows that the person is the child's primary caregiver.
 
 At the SASSA office, the parent or primary caregiver will be asked to complete and sign a form known as a 'sworn affidavit', confirming who the person and the children are. The parent or primary caregiver will also be asked to bring an affidavit from a reputable person (like a councillor, traditional healer, social worker, priest or school principal) who can verify that they know the person. SASSA may also ask for other documents, like a clinic card or the child’s school report.
@@ -553,9 +554,9 @@ When the parent or primary caregiver makes the application, the person must say 
 
 In some SASSA offices, applicants are told immediately whether or not they qualify for a grant. 
 
-SASSA cannot take longer than 3 months from the date of the mother’s application to start paying the grant. The payments will be backdated to the date the parent or primary caregiver applied for the grant, if it takes this long.
+SASSA cannot take longer than three months from the date of the mother’s application to start paying the grant. The payments will be backdated to the date the parent or primary caregiver applied for the grant, if it takes this long.
 
-The parent or primary caregiver can phone the free SASSA helpline: 0800 601 011 to find out what has happened to the application and when the person can expect payment.
+The parent or primary caregiver can phone the free SASSA helpline: 0800&nbsp;601&nbsp;011 to find out what has happened to the application and when the person can expect payment.
 
 The parent or primary caregiver does not need to renew the grant. 
 
@@ -563,8 +564,8 @@ Every year, SASSA will send the person a registered letter asking to provide up-
 
 Child Support Grants will be stopped:
 
-*	When the child turns 18
-*	If the child is admitted to a state-funded institution for over six months
+*	When the child turns 18.
+*	If the child is admitted to a state-funded institution for over six months.
 *	If the child dies.
 
 For more information contact a local SASSA office or look at:  [www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA](http://www.services.gov.za/services/content/Home/ServicesForPeople/Socialbenefits/childsupportgrant/en_ZA)
@@ -577,13 +578,13 @@ This information applies to South Africa. It is worth finding out about relevant
 
 A Protection Order is a document which legally forbids an abuser from committing any acts of domestic violence against the applicant (e.g. woman). The types of abuse covered by Protection Orders are: 
 
-*	Physical abuse
-*	Sexual abuse
-*	Verbal abuse
-*	Emotional abuse
-*	Psychological abuse
-*	Economic abuse
-*	Harassment
+*	physical abuse
+*	sexual abuse
+*	verbal abuse
+*	emotional abuse
+*	psychological abuse
+*	economic abuse
+*	harassment.
 
 Anyone who has been or is being abused can apply for a Protection Order. In this section, we will refer to a woman applying for a Protection Order. Also:
 
@@ -610,7 +611,7 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 7.	The police or the sheriff will fill in the Return of Service form, and return it to the court when the Protection Order has been served.
 8.	Then, the woman will be entitled to receive an Interim Warrant of Arrest, which she must get from the court. Some courts may only give a Final Warrant of Arrest when a woman appears in court for the Protection Order to be made final. 
 9.	If the clerk does not give the woman an Interim or Final Warrant of Arrest, she must demand one or report it to the chief magistrate. 
-10.	The woman’s court return date should not be less than 10 days after the Interim Protection Order has been served on the abuser. However, there is no time limit as to how far in advance the date should be made for the final court hearing. 
+10.	The woman’s court return date should not be less than ten days after the Interim Protection Order has been served on the abuser. However, there is no time limit as to how far in advance the date should be made for the final court hearing. 
 
 #### Finalising the Protection Order
 
@@ -618,7 +619,7 @@ A woman can apply for a Protection Order at any Magistrates’ Court nearest to 
 12.	During her hearing in court, the magistrate, and lawyers (if she or the abuser have one) will ask questions to her and her abuser. 
 13.	The magistrate will decide if the woman can have a Final Protection Order on the basis of her affidavit and on the basis of what she and the abuser said in court.
 14.	With the Final Protection Order, the woman will also get a Final Warrant of Arrest. 
-15.	If the woman’s Protection Order is lost or destroyed, it can always be replaced if she goes back to court and ask for another copy.
+15.	If the woman’s Protection Order is lost or destroyed, it can always be replaced if she goes back to court and asks for another copy.
 
 ### 6-3 What happens if the abuser goes against the Protection Order?
 
@@ -705,16 +706,16 @@ South African national helpline contact numbers
 |-------------------------------------------------------------+-------------------------------------|
 |                        Organisation                         |               Number                |
 |-------------------------------------------------------------+-------------------------------------|
-| Advice Desk for Abused Women                                | 031 262 9673/9679 or 031 204 4922   |
+| Advice Desk for Abused Women                                | 031 262 9673/9679 or 031&nbsp;204&nbsp;4922   |
 | AIDS Helpline                                               | 0800 012 322                        |
 | Alcoholics Anonymous                                        | 0861 435 722                        |
 | Care Assist (health & psychiatric concerns helpline)        | 011 359 5000                        |
-| Child Line                                                  | 080 005 5555                        |
-| Child Welfare                                               | 0800 435754 or 011 492 2888         |
+| Child Line                                                  | 0800 055 555                        |
+| Child Welfare                                               | 0800 435 754 or 011 492 2888         |
 | Compassionate Friends                                       | 011 440 6322 or  072 798 1202       |
 | Domestic Violence Assistance Programme                      | 031  261 4398                       |
 | Emergency contraception helpline                            | 0800 246 432                        |
-| FAMSA                                                       | 011 975 7106/7                      |
+| Families South Africa (FAMSA)                               | 011 975 7106/7                      |
 | Gay & Lesbian Association                                   | 011 717 4239                        |
 | Lifeline                                                    | 0861 322 322                        |
 | Love Life Sexual Health Line                                | 0800 121 900                        |
@@ -723,7 +724,7 @@ South African national helpline contact numbers
 | Mental Health Society                                       | 011 781 1852                        |
 | Narcotics Anonymous                                         | 083 900 6962                        |
 | People Opposing Women Abuse (POWA)                          | 011 642 4345 or 083 765 1235        |
-| PNDSA                                                       | SMS ‘help’ and name to 082 882 0072 |
+| Post Natal Depression Support Association (PNDSA)           | SMS ‘help’ and name to 082&nbsp;882&nbsp;0072 |
 | Rape and Trauma Line                                        | 021 447 9762                        |
 | SA Depression and Anxiety Group                             | 011 262 6396                        |
 | Safeline                                                    | 0800 035 553                        |
@@ -741,14 +742,13 @@ South African national helpline contact numbers
 
 #### Families South Africa (FAMSA)
 
-*	Offers basic and advanced counselling training to support staff, common interest groups and community developers
+*	Offers basic and advanced counselling training to support staff, common interest groups and community developers.
 *	[www.famsa.org.za](http://www.famsa.org.za)
-*	011 975 7106
-*	011 975 7107
+*	011 975 7106/7
 
 #### Lifeline
 
-*	Offers a training programme for volunteer champions
+*	Offers a training programme for volunteer champions.
 *	[www.lifeline.org](http://www.lifeline.org)
 *	011 715 2000
 *	082 231 0805
@@ -757,7 +757,7 @@ South African national helpline contact numbers
 
 #### CTI education group
 
-*	Offers a university degree in psychology and counselling (BPsych). The main campus is in Midrand, but they have links to remote sites of delivery around the country.
+*	Offers a university degree in psychology and counselling (BPsych). The main campus is in Midrand, Gauteng, but they have links to remote sites of delivery around the country.
 *	[www.cti.co.za](http://www.cti.co.za)
 *	011 467 8422
 
@@ -769,11 +769,11 @@ South African national helpline contact numbers
 
 #### South African College of Applied Psychology (SACAP)
 
-*	Offers accredited counselling, coaching and Psychology courses. They offer distance learning and have campuses in Cape Town, Johannesburg and also offer online studies.
+*	Offers accredited counselling, coaching and psychology courses. They offer distance learning and have campuses in Cape Town, Johannesburg and also offer online studies.
 *	[www.sacap.edu.za](http://www.sacap.edu.za)
 *	0860 77 1111
 
 #### University South Africa (UNISA)
 
-*	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma counselling). Studies can be done through distance learning.
+*	Offers undergraduate and postgraduate courses (e.g. BA in Psychological Counselling, BPsych, Honours in Trauma Counselling). Studies can be done through distance learning.
 *	[www.unisa.ac.za](http://www.unisa.ac.za)

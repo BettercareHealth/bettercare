@@ -1,27 +1,27 @@
 ---
 book: Maternal Mental Health
-title: Test 4. How to help women with mental health problems
+title: Test 4. How to help mothers with mental health problems
 layout: test
 ---
 
-# Test 4: How to help women with mental health problems
+# Test 4: How to help mothers with mental health problems
 
 Please choose the ONE most correct answer to each question:
  
 1.	Why is the time around pregnancy particularly stressful?
 	1.	It is a natural thing so it is not stressful
-	1.	It could be embarrassing and stressful if your waters broke and you were out shopping. 
-	1.	It is a life transition and adapting to change can be stressful.
-	1.	A fetus growing inside puts stress on your bones and muscles. 
+	1.	It could be embarrassing and stressful if your waters broke and you were out shopping
+	1.	It is a life transition and adapting to change can be stressful
+	1.	A fetus growing inside puts stress on your bones and muscles
 2.	Why is a good relationship between mother and health worker important?
 	1.	Mothers will be happier to pay the cost of delivery
 	1.	Mothers are less likely to complain
 	1.	It makes it easier to tell a mother that she needs a Caesarean section
 	1.	Compassionate care from the health worker can influence the mother emotionally and physically
-3.	What are the 4 principles of the Better Births Initiative?
-	1.	Breastfeed, birth companions, bonding, and initiate good practise
+3.	What are the four principles of the Better Births Initiative (BBI)?
+	1.	Breastfeed, birth companions, bonding, and initiate good practice
 	1.	Eat during labour, walk during labour, no shaving, and no enemas
-	1.	Avoid unproven practises, unproven procedures, unnecessary costs, and making mistakes
+	1.	Avoid unproven practices, unproven procedures, unnecessary costs, and making mistakes
 	1.	Humanity, benefit, commitment, and action
 4. Which of the following factors influence emotion?
 	1.	Whether a woman has children or not
@@ -53,7 +53,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Incontinence
 	1.	Improved comfort in bed
 	1.	Greater mobility due to being postpartum
-10.	The terms ‘fight’ and ‘flight’ refer to behaviours that
+10.	The terms ‘fight’ and ‘flight’ refer to behaviours that:
 	1.	Express feelings in a positive way
 	1.	Express feelings in a neutral way
 	1.	Express feelings in a negative way
@@ -68,7 +68,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Children performing well at school
 	1.	Predictable public transport
 	1.	Poor health
-13.	When women are distressed, they need
+13.	When women are distressed, they need:
 	1.	24 hours of bed rest
 	1.	Someone who listens to them
 	1.	Advice
@@ -91,7 +91,7 @@ Please choose the ONE most correct answer to each question:
 17.	The following is an example of validating feelings:
 	1.	‘I don’t think you are depressed, this is just a bad day’
 	1.	‘I’m sure your husband is not having an affair, he probably will be back this evening’
-	1.	‘I can hear that this is making you are feeling low. That must be very difficult for you.’
+	1.	‘I can hear that this is making you feel low. That must be very difficult for you.’
 	1.	‘Did you really say you want to shake your baby? That is a shocking thing to say.’
 18.	A good listener has the following characteristics:
 	1.	Ability to multi-task
@@ -107,4 +107,4 @@ Please choose the ONE most correct answer to each question:
 	1.	Asking for clarification and paraphrasing
 	1.	Problem solving
 	1.	Expressing shock
-	1.	Sympathizing
+	1.	Sympathising

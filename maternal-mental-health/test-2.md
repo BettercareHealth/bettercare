@@ -80,7 +80,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Over the past year
 15.	When scoring the Edinburgh Postnatal Depression Scale (EPDS) questionnaire, which of the following are TRUE
 	1.	The lower the total EPDS score, the more likely it is that the woman is suffering from anxiety or depression
-	1.	Each question has 3 right answers
+	1.	Each question has three right answers
 	1.	You automatically score 13 if you are feeling suicidal
 	1.	The higher the score per question, the more severe the symptom
 16.	On the Edinburgh Postnatal Depression Scale (EPDS), if a patient has a total score of 13 or more
@@ -93,12 +93,12 @@ Please choose the ONE most correct answer to each question:
 	1.	Contact a psychiatric nurse, sister in charge or doctor for emergency help
 	1.	Ask her about her problems and then send her home
 	1.	Give her advice on coping strategies
-18.	The Risk Factor Assessment is used to assess:
+18.	The Risk Factor Assessment (RFA) is used to assess:
 	1.	How many risks women take during their pregnancy
 	1.	The likelihood that a woman will develop depression or anxiety during pregnancy
 	1.	Risk of mental illness for the baby
 	1.	Risk of a physical illness during pregnancy
-19.	The following indicate risk on the Risk Factor Assessment:
+19.	The following indicate risk on the Risk Factor Assessment (RFA):
 	1.	Family and friends help in practical ways
 	1.	I feel pleased about being pregnant
 	1.	I have a good relationship with my mother
