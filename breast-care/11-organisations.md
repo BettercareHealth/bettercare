@@ -46,7 +46,7 @@ Tel: 0860 742 526 472
 
 Website: [www.m.phakamisa.me](http://www.m.phakamisa.me) / [www.facebook.com/PhakamisaZA](http://www.facebook.com/PhakamisaZA)
 
-Small website geared at pointing people at either support or information centres. Support groups used include: CANSA or Breast Health Foundation. The site is able to use cell phone number or IP address to identify location and then highlight relevant information groups in their area. 
+Small website geared at pointing people at either support or information centres. Support groups used include: CANSA or Breast Health Foundation. The site is able to use cellphone number or IP address to identify location and then highlight relevant information groups in their area. 
 
 ## Vrede Foundation (VF)
 
