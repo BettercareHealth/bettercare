@@ -525,7 +525,7 @@ ol li blockquote.figure, ul li blockquote.figure {
  * Contents page
  */
 
-.toc a::after { 
+.toc a::after, .page-ref-list a::after { 
 	content: leader(" ") target-counter(attr(href), page) 
 }
 .toc ul, .toc ol {
