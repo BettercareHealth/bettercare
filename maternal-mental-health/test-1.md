@@ -16,7 +16,7 @@ Please choose the ONE most correct answer to each question:
 2.	How common is mental illness during and after pregnancy in South Africa?
 	1.	Less common than in high-income countries
 	1.	All pregnant women suffer from mental illness
-	1.	Almost half of pregnant women in South Africa have a mental illness like depression or anxiety
+	1.	One third of pregnant women living in poverty in South Africa have a mental illness like depression or anxiety
 	1.	This is very rare for pregnant women in South Africa
 3.	Which mental illnesses are known as common mental disorders? 
 	1.	Depression and anxiety
