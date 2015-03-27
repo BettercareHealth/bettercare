@@ -30,7 +30,7 @@
 
 		<div id="nav-bar" class="non-printing">
 			<div class="nav-content">
-				<a href="#" onclick="history.go(-4)" class="nav-item">Bettercare books</a>
+				<a href="/" class="nav-item">Bettercare books</a>
 				<a href="#" class="nav-item">Test results</a>
 			</div><!--.nav-content-->
 		</div>
@@ -40,7 +40,7 @@
 		<div class="test-result-page">
 
 			<div class="test-results-exit">
-					<a alt="Back" class="button" href="#" onclick="history.go(-2);">Back</a>
+					<a alt="Back" class="button" href="/">Back</a>
 			</div><!--.test-results-exit--> 
 			
 			<div class="test-results">
