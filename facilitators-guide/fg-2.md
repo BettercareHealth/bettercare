@@ -1,6 +1,6 @@
 ---
 book: "Facilitator's Guide"
-title: 2. How to start a group
+title: 2. Planning a Bettercare group
 layout: chapter
 published: true
 ---
