@@ -36,7 +36,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	A rash.
 	*	A red throat.
 7.	What is the management of severe viral croup?
-	*	A short acting bronchodiltor.
+	*	A short acting bronchodilator.
 	*	A broad spectrum antibiotic.
 	*	A headbox with cold mist.
 	*	Nebulised adrenaline.

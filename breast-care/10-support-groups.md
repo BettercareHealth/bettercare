@@ -14,7 +14,7 @@ Website: [www.adoptapinkpiggy.org.za](http://www.adoptapinkpiggy.org.za)
 
 This is a fundraising organisation of the Breast Health Foundation (BHF). School children are encouraged to buy a pink plastic piggybank (R10). The piggybank is named and fed in silver and bronze coins. Funds raised go to the BHF to help raise awareness. 
 
-## amaBele Belles (aAB)
+## amaBele Belles
 
 Contact: Michelle Rennie
 

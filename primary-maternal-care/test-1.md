@@ -16,7 +16,7 @@ layout: test
 	1.	When she has missed her second menstrual period.
 	1.	When she first feels fetal movements.
 	1.	When she is 28 weeks pregnant.
-3.	When a patient has had a ceasarean section:
+3.	When a patient has had a Caesarean section:
 	1.	The type of uterine incision is of no importance.
 	1.	Only those patients who had a vertical lower segment incision may be allowed to labour normally.
 	1.	Only those patients who had a transverse lower segment incision may be allowed to labour normally.
@@ -88,7 +88,7 @@ layout: test
 	1.	Any titre is present.
 17.	Syphilis in pregnancy should be treated with:
 	1.	Nitrofurantoin (Macrodantin).
-	1.	Benzathene penicillin (Bicillin LA or Penilente LA).
+	1.	Benzathine penicillin (Bicillin LA or Penilente LA).
 	1.	Tetracycline.
 	1.	Ampicillin.
 18.	Blood should be taken to determine the presence of anti-D antibodies at 26, 32 and 38 weeks in:

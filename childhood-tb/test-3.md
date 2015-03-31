@@ -62,7 +62,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Ziehl-Neelsen stain
 	1.	Gram’s stain
 	1.	Indian ink stain
-	1.	Analine stain
+	1.	Aniline stain
 12.	How long does it take to get a sputum culture result with liquid culture medium?
 	1.	Less than one week
 	1.	One to two weeks

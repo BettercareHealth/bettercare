@@ -80,7 +80,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Any titre is present
 15.	Syphilis in pregnancy should be treated with: 
 	1.	Nitrofurantoin (Macrodantin)
-	1.	Benzathene penicillin (Bicillin LA or Penilente LA)
+	1.	Benzathine penicillin (Bicillin LA or Penilente LA)
 	1.	Tetracycline
 	1.	Ampicillin
 16.	How often should a woman at low risk, who lives near a clinic, visit the antenatal clinic between 28 and 34 weeks?

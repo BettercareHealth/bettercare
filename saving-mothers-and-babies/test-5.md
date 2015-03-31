@@ -84,7 +84,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Give the infant oxygen via a nasogastric tube.
 	1.	Give mask and bag ventilation even if oxygen is not available.
 16.	How can the risk of hyaline membrane disease in the newborn infant be reduced if women go into preterm labour?
-	1.	Suppress labour and give betamthasone.
+	1.	Suppress labour and give betamethasone.
 	1.	Give an antibiotic such as tetracycline.
 	1.	Rupture the membranes.
 	1.	Give the mother oxygen.
