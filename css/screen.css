@@ -92,6 +92,7 @@ body {
 	width: 100%;
 	border-bottom: 1px solid #f2f2f2;
 	padding: 0.2em 0 0 0;
+	z-index: 1;
 }
 	@media only screen 
 	and (max-width : 984px) {
@@ -120,6 +121,7 @@ a.nav-item {
 	border-radius: 0.5em 2em 2em 0.5em;
 	margin-right: 0.2em;
 	margin-bottom: 0.2em;
+  box-shadow: 0.02em 0.02em 0.02em 0.02em #ccc;
 }
 a.nav-item:hover {
 	background-color: #4faad2;
@@ -189,23 +191,25 @@ a {
 	color: #4f89d2;
 }
 a.button {
-	display: block;
-	border: 1px solid gainsboro;
+	display: inline-block;
 	background-color: #4f89d2;
 	color: white;
 	padding: 0.5em;
-	width: 9em;
 	margin: 0;
 	border-radius: 0.2em;
 	text-align: center;
 	text-decoration: none;
 	line-height: 100%;
+	box-shadow: 0.02em 0.02em 0.02em 0.02em #ccc;
 }
 a.button:hover {
 	background-color: #4faad2;
 }
 h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
 	padding-top: 2.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. In concert with anchor.js. */
+}
+#help:target {
+	padding-top: 3.5em; /* ditto */
 }
 
 /* 
@@ -467,7 +471,7 @@ img.thumbnail {
  */
 
 .index {
-	margin-top: -5em;
+	margin-top: -2em;
 }
 .index h1 {
 	text-align: center;
@@ -500,34 +504,22 @@ img.thumbnail {
 	margin: 1em 0;
 	max-width: 100%;
 }
-#index-help a {
-	position: fixed;
-	right: 0;
-	top: 0.8em;
-	padding: 0.3em 0.5em;
-	background-color: #89d24f;
-	z-index: 1;
-	color: white;
-	min-width: 10%;
-	border-radius: 0.2em 0 0 0.2em;
-	font-size: 1em;
-}
-#index-help a:hover {
-	background-color: #4faad2;
-}
-.index .about-wrapper {
-	margin-top: 1em;
-}
-.index #about {
+
+/* 
+ * Help page
+ */
+
+#help {
 	display: none; /* Element hidden till show/hide script rewrites this line */
-	border: 1px solid #e9e9e9;
-	padding: 1em;
-	border-radius: 0.2em;
-	background-color: #f9f9f9;
+	padding: 3em 1em;
+	margin: 2em auto;
+	max-width: 960px;
 }
-.index a#about-hide {
-	top: 2em;
-	position: absolute;
+a#help-show {
+	border-radius: 0.2em;
+	background-color: #89d24f;
+	margin-right: 0.3em;
+	padding-right: 0.5em;
 }
 
 /*

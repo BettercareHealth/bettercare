@@ -1,8 +1,30 @@
 
 		<div id="nav-bar" class="non-printing">
 			<div class="nav-content">
+				<a href="#help" id="help-show" class="nav-item" onclick="showHide('help');">Help</a>
 				<a href="{{ site.baseurl }}/" class="nav-item">Library</a>
 				<a href="0-3-contents.html" class="nav-item">{{ page.book }}</a>
 				<a href="#" class="nav-item">{{ page.title }}</a>
 			</div><!--.nav-content-->
 		</div><!--#nav-bar-->
+		
+	<div id="help" class="non-printing">
+		<a id="help-hide" href="#" class="hideLink button non-printing" onclick="showHide('help');history.go(-1);">Close help</a>
+		<h2 id="how-to">How to use this Learning Station</h2>
+		<p>On this Learning Station, you can read Bettercare books and test your knowledge.</p>
+		<ol>
+			<li>Choose a book by tapping on its cover. That will open its contents page.</li>
+			<li>Choose a chapter from the contents page.</li>
+			<li>Read the chapter, or tap 'Open chapter test' to test your knowledge.</li>
+		</ol>
+		<h2 id="order">Order books for training and study</h2>
+		<p>Training courses and studying are more effective with high-quality printed books. To order books quickly and easily, <a href="#contact">contact Bettercare</a>.</p>
+		<h2 id="cpd">Continuing Professional Development</h2>
+		<p>If your institution subscribes to the Bettercare CPD system, you can earn points for completing chapter tests. To sign up, contact Bettercare.</p>
+		<h2 id="contact">Contact us</h2>
+		<ul>
+			<li>Phone +27 21 671 1278</li>
+			<li>Email <a href="mailto:info@bettercare.co.za">info@bettercare.co.za</a></li>
+			<li>Visit <a href="http://bettercare.co.za">bettercare.co.za</a></li>
+		</ul>
+	</div><!--#help .non-printing-->
