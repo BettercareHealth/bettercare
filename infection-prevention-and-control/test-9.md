@@ -25,7 +25,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Not a problem as new antimicrobials are being developed constantly. 
 4.	Antimicrobial resistance in healthcare facilities is spread mainly by: 
 	1.	Poor IPC practices (including poor hand hygiene compliance)
-	1.	Use of antibiotics as growth promotors in animal farming
+	1.	Use of antibiotics as growth promoters in animal farming
 	1.	Inadequate environmental cleaning
 	1.	Exposure of pathogens to disinfectants.
 5.	Patients with antimicrobial resistant infections:

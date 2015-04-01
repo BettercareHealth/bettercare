@@ -30,7 +30,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Surfaces get wiped clean by those that touch them.
 5.	Terminal room cleaning is required for patients with: 
 	1.	A community-acquired pneumonia
-	1.	Pulmonary mycobacterium tuberculosis (pTB)
+	1.	Pulmonary mycobacterium tuberculosis (PTB)
 	1.	A myocardial infarction
 	1.	A fungal toe-nail infection.
 6.	The terminal cleaning process requires:

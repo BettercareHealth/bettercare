@@ -87,7 +87,7 @@ layout: test
 	*	Occurs in 30–40% of patients
 	*	Occurs in most patients
 17.	Meconium staining of the liquor is commonest in:
-	*	Patients in post term labour
+	*	Patients in postterm labour
 	*	Patients in term labour
 	*	Patients in preterm labour
 	*	Patients whose fetuses move a lot during pregnancy

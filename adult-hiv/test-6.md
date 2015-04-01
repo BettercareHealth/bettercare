@@ -73,7 +73,7 @@ Please choose the one, most correct answer to each question or statement.
 	*	Ampicillin and gentamicin
 	*	Anti-TB medication, especially INH
 	*	Intravenous acyclovir
-14.	The diagnosis of Cryptoccal infection is confirmed by examining the:
+14.	The diagnosis of Cryptococcal infection is confirmed by examining the:
 	*	Chest X-ray
 	*	Cerebrospinal fluid
 	*	Urine

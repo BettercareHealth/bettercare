@@ -21,9 +21,9 @@ layout: chapter
 > Haemophilia: A swollen knee due to bleeding into the joint
 {:.figure .medium .fixed}
 
-> ![Viteligo: decreased skin pigmentation](images/p-4-viteligo.jpg)
+> ![Vitiligo: decreased skin pigmentation](images/p-4-vitiligo.jpg)
 > 
-> Viteligo: decreased skin pigmentation
+> Vitiligo: decreased skin pigmentation
 {:.figure .medium .fixed}
 
 > ![Oculocutaneous albinism](images/p-5-oculocutaneous-albinism.jpg)

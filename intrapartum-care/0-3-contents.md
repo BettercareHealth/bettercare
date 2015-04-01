@@ -25,7 +25,7 @@ layout: toc
 
 ## Tests
 
-1.	[Monitoring the the mother during the first stage of labour](test-1.html)
+1.	[Monitoring the mother during the first stage of labour](test-1.html)
 2.	[Monitoring the fetus during the first stage of labour](test-2.html)
 3.	[Monitoring and management of the first stage of labour](test-3.html)
 4.	[The second stage of labour](test-4.html)

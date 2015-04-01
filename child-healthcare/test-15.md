@@ -24,7 +24,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Deaths per year.
 	*	Deaths per 10 years.
 4.	It is best to calculate the mortality rate:
-	*	For each hospital seperately.
+	*	For each hospital separately.
 	*	For all the clinics in a health district combined.
 	*	For the hospital and all the clinics in a health region combined.
 	*	For the whole region which is serviced by that hospital and those clinics.

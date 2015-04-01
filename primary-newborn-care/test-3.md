@@ -99,8 +99,8 @@ Please choose the ONE most correct answer to each question:
 	1.	6 times a day
 	1.	On demand
 19.	What supplements should a preterm infant receive?
-	1.	Ferrodrops 1 ml daily from day 7
-	1.	Ferrodrops 0.3 ml daily, starting when the infant starts to suck
+	1.	Ferro Drops 1 ml daily from day 7
+	1.	Ferro Drops 0.3 ml daily, starting when the infant starts to suck
 	1.	Multivitamin drops 0.3 ml daily starting when the infant takes full volume feeds of 150 ml/kg/day
 	1.	Multivitamin drops 0.1 ml with each feed
 20.	What is the normal range of packed cell volume (PCV) at birth?

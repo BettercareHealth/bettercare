@@ -99,7 +99,7 @@ layout: test
 19.	Which one of the following patients is at high risk of cord prolapse?
 	*	A patient with a breech presentation
 	*	A patient with a cephalic presentation
-	*	A patient with a post term pregnancy
+	*	A patient with a postterm pregnancy
 	*	A patient who ruptures her membranes when the fetal head is still palpable 3/5 above the pelvic brim
 20.	What should be done first if a patient, whose cervix is 6 cm dilated, presents with a prolapsed cord?
 	*	Immediately replace the umbilical cord into the vagina and take steps to lift the presenting part off the cord.

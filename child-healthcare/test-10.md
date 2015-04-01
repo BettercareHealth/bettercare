@@ -50,7 +50,7 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Diphtheria.
 9.	Mumps presents with:
 	*	A rash.
-	*	Generalised lymphadeopathy.
+	*	Generalised lymphadenopathy.
 	*	Tender, swollen parotid glands.
 	*	Enlarged liver and spleen.
 10.	A complication of mumps in adolescents is:
@@ -93,12 +93,12 @@ Please choose the one, most correct, answer to each question or statement.
 	*	Tender abdomen with an enlarged liver.
 	*	Drowsiness.
 	*	Loss of appetite.
-18.	Tick bite fever usually presents with:
+18.	Tick-bite fever usually presents with:
 	*	A vesicular rash.
 	*	Severe headache.
 	*	Heart failure.
 	*	Dark urine.
-19.	Tick bite fever in older children is best treated with:
+19.	Tick-bite fever in older children is best treated with:
 	*	Penicillin.
 	*	Erythromycin.
 	*	Doxycycline.

@@ -87,8 +87,8 @@ layout: test
 	1.	Be given 10% dextrose feeds via a nasogastric tube.
 	1.	Be given intravenous fluids.
 17.	What supplements should a preterm infant receive?
-	1.	Ferrodrops 1 ml daily from day 7
-	1.	Ferrodrops 0.6 ml each day starting when the infant begins to suck
+	1.	Ferro Drops 1 ml daily from day 7
+	1.	Ferro Drops 0.6 ml each day starting when the infant begins to suck
 	1.	Multivitamin drops 0.3 ml daily from day 5 `correct`{:.correct-answer}
 	1.	Multivitamin drops 0.1 ml with each feed
 18.	What should you do if an infant has bile-stained (green) vomiting?

@@ -37,7 +37,7 @@ Please choose the one, most correct answer to each question or statement.
 	*	Enlarged parotid glands.
 	*	Generalised, persistent lymphadenopathy only.
 	*	Persistent diarrhoea lasting more than 14 days.
-	*	Oesphageal candidiasis.
+	*	Oesophageal candidiasis.
 7.	What form of pneumonia would suggest that the child has stage 4 HIV infection?
 	*	Viral.
 	*	Bacterial.

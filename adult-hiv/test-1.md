@@ -80,7 +80,7 @@ Please choose the one, most correct answer to each question or statement.
 	*	Oral candidiasis (thrush)
 15.	Which clinical condition is common in stage 3 HIV infection?
 	*	Severe bacterial pneumonia
-	*	Pneumocyctis pneumonia
+	*	Pneumocystis pneumonia
 	*	Non-Hodgkin’s lymphoma
 	*	Oesophageal candidiasis
 16.	Adult patients are said to have AIDS when their HIV infection reaches:

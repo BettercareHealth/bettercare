@@ -61,7 +61,7 @@ Please choose the one, most correct answer to each question or statement.
 11.	What types of eye protection are recommended when caring for Ebola patients?
 	1.	Eye protection is not needed if the patient is not coughing
 	1.	Ordinary reading glasses are adequate
-	1.	Goggles or faceshields can be used
+	1.	Goggles or face shields can be used
 	1.	Only a face-shield is suitable
 12.	What is the role of a face mask when examining a patient with Ebola?
 	1.	It reduces the risk of splashes or droplets reaching the mouth and nose

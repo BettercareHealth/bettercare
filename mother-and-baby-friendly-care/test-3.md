@@ -39,7 +39,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Discharging an infant home when it weighs 2000 g and is cup feeding.
 	1.	Discharging a well infant home immediately after delivery.
 7.	Kangaroo mother care is particularly important in:
-	1.	Post term infants weighing over 4000 g.
+	1.	Postterm infants weighing over 4000 g.
 	1.	Low birth weight infants.
 	1.	Infants with a cleft palate.
 	1.	Jaundiced infants.

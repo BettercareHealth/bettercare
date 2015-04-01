@@ -88,7 +88,7 @@ layout: test
 	1.	Propranolol (Inderal)
 17.	What is the first step in the management of a patient with eclampsia?
 	1.	Give intramuscular phenobarbitone to stop the convulsions.
-	1.	Give dihydralazine (Nepresonl) to lower the blood pressure.
+	1.	Give dihydralazine (Nepresol) to lower the blood pressure.
 	1.	Turn the patient on her side and ensure an open airway.
 	1.	Insert a Foley’s catheter.
 18.	What drug is used to prevent and manage eclampsia?
@@ -99,7 +99,7 @@ layout: test
 19.	How should a patient, who feels well but has a diastolic blood pressure of 90&nbsp;mm&nbsp;Hg at 36 weeks gestation, be managed? At all her previous antenatal visits the blood pressure was normal and she has no proteinuria.
 	1.	She must be given an intramuscular injection of dihydralazine (Nepresol).
 	1.	She must be hospitalised.
-	1.	Weekly antenatal visits should be arranged with additional visits to measure the blood pressure and check for pronteinuria.
+	1.	Weekly antenatal visits should be arranged with additional visits to measure the blood pressure and check for proteinuria.
 	1.	A full blood count should be done to exclude a low platelet count.
 20.	A rise in blood pressure or the development of proteinuria in a patient with chronic hypertension:
 	1.	Could be a result of the pregnancy and should not be of any concern.

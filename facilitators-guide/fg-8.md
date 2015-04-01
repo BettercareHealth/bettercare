@@ -331,7 +331,7 @@ Note that each participant needs two answer sheets per chapter: One for the pre-
     <td colspan="4"></td>
   </tr>
   <tr>
-    <td colspan="5">Circle the the letter that matches with the most correct answer to each question or statement.<br>You may only circle one letter for each question. There are 20 questions.</td>
+    <td colspan="5">Circle the letter that matches with the most correct answer to each question or statement.<br>You may only circle one letter for each question. There are 20 questions.</td>
   </tr>
   <tr>
     <td>1.</td>

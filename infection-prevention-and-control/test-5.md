@@ -43,7 +43,7 @@ the area.
 	1.	Respiratory 
 	1.	Respiratory and contact
 	1.	Faeco-oral 
-	1.	Innoculation.  
+	1.	Inoculation.  
 8.	The highest risk of infection in dental clinics is from: 
 	1.	Blood-borne viruses
 	1.	Bacteria

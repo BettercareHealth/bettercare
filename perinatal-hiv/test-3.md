@@ -90,7 +90,7 @@ Please choose the ONE most correct answer to each question:
 	1.	Lopinavir and ritonavir 
 17.	Which risk factor is associated with an increased risk of HIV transmission during labour even if ARV drugs are used correctly for prophylaxis or treatment?
 	1.	Elective Caesarean section
-	1.	Posterm delivery 
+	1.	Postterm delivery 
 	1.	Male infant
 	1.	A high viral load
 18.	How can staff reduce the risk of becoming infected with HIV themselves during the management of labour?

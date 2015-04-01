@@ -46,7 +46,7 @@ layout: test
 	*	It should not be done as physical contact with the patient should be avoided.
 	*	The pain impulses from the uterus and cervix are experienced as less painful if the patient’s lower back is rubbed.
 	*	There is no physiological reason why rubbing the patient’s back should relieve labour pains.
-9.	Hydroxyzine (Aterax) or promethazine (Phenegan) should always be given together with pethidine for the relief of pain during labour because:
+9.	Hydroxyzine (Aterax) or promethazine (Phenergan) should always be given together with pethidine for the relief of pain during labour because:
 	*	They have a tranquillising effect.
 	*	They decrease nausea and vomiting which are common side effects of pethidine.
 	*	They increase the analgesic effect of pethidine.
@@ -66,7 +66,7 @@ layout: test
 	*	Two hours
 	*	Four hours
 	*	Eight hours
-13.	Pethidine and hydroxyzine (Aterax) or promethazine (Phenegan) should only be given if:
+13.	Pethidine and hydroxyzine (Aterax) or promethazine (Phenergan) should only be given if:
 	*	The cervical dilatation is 4 cm or less in a multigravid patient.
 	*	The patient is unlikely to deliver in the next four to six hours.
 	*	The intramuscular route is used.

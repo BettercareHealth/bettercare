@@ -54,8 +54,8 @@ Please choose the ONE most correct answer to each question:
 	1.	DRTB patients convert to sputum smear-negative faster than susceptible TB
 	1.	DRTB is more expensive and difficult to treat than drug susceptible TB.
 10.	What are the ‘3Is’ of TB prevention? 
-	1.	TB-IPC, Intensified directly observed therapy (DOTS), Integrated contact tracing 
-	1.	TB-IPC, Isoniazid preventive therapy, Intensive training  
+	1.	TB-IPC; Intensified directly observed treatment, short-course (DOTS); Integrated contact tracing 
+	1.	TB-IPC, Isoniazid preventive therapy, Intensive training
 	1.	TB-IPC, Isoniazid preventive therapy, Intensified case finding
 	1.	TB-IPC, Isoniazid preventive therapy, Isolation rooms.
 11.	Implementation of TB infection control in a healthcare facility is the responsibility of:

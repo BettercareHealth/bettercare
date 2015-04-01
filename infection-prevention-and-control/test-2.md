@@ -27,7 +27,7 @@ Please choose the ONE most correct answer to each question:
 	1.	The Ziehl-Neelsen (ZN) stain
 	1.	The methylene blue stain
 	1.	The Gram stain
-	1.	The carbol fuschin stain.
+	1.	The carbol fuchsin stain.
 5.	The Gram stain can assist with bacterial identification by: 
 	1.	Identifying the growth requirements of the bacteria
 	1.	Differentiating Gram-positive from Gram-negative organisms by colour

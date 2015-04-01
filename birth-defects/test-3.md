@@ -89,7 +89,7 @@ layout: test
 17.	How can children with Down syndrome be helped to reach their full potential?
 	*	They should be placed in a special institution as soon as they are one year old.
 	*	They should not be stimulated as this is too stressful for them.
-	*	They should be stimulated by their parents at home and receive early neuodevelopmental therapy.
+	*	They should be stimulated by their parents at home and receive early neurodevelopmental therapy.
 	*	Neurodevelopmental therapy should only be started when they are ready for school.
 18.	How can a pregnant woman be screened for a fetus with Down syndrome?
 	*	X-ray of the mother’s abdomen to look for duodenal atresia in the fetus.

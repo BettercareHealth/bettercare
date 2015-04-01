@@ -22,7 +22,7 @@ Dr Pierre AbiHanna, MD, Rafik Hariri University Hospital, Chief of the Infectiou
 
 Sr Marina Aucamp, RN, B Soc Sc Nursing, PG Dip Infection Control, Academic Unit for Infection Prevention and Control, Tygerberg Hospital, Cape Town, South Africa 
 
-Dr Regina Berba, MD, MSc (Clinical Epidemiology), Philippine General Hospital, University of the Philippines, Phillippines 
+Dr Regina Berba, MD, MSc (Clinical Epidemiology), Philippine General Hospital, University of the Philippines, Philippines 
 Dr Mirian Dal Ben, MD, MS, Infectious Disease Physician and Hospital Epidemiologist, Hospital Sírio Libanês and Hospital das Clínicas of University of São Paulo, Brazil
 
 Mr Boniface Hakizimana, Infection Control Coordinator, University Teaching Hospital of Butare, Rwanda 

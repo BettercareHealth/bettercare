@@ -91,7 +91,7 @@ Please choose the ONE most correct answer to each question:
 17.	Which strategy can improve healthcare workers’ hand hygiene compliance rates?
 	1.	Fine or give verbal warnings to health-care workers who do not comply
 	1.	Give each healthcare worker their own bar of soap
-	1.	Place cotton handtowels at each wash basin 
+	1.	Place cotton hand towels at each wash basin 
 	1.	Monitoring compliance rates and giving feedback on performance. 
 18.	Which interventions improve the use of alcohol handrub? 
 	1.	Education about the superiority of alcohol handrub and increasing ease of access

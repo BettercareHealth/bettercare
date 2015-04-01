@@ -91,7 +91,7 @@ Please choose the ONE most correct answer to each question:
 17.	Which opportunistic infection is most common in pregnant women with stage 3 HIV infection?
 	1.	Oesophageal candidiasis
 	1.	Pulmonary tuberculosis
-	1.	Pneumocyctis pneumonia
+	1.	Pneumocystis pneumonia
 	1.	Cryptococcal meningitis
 18.	Prophylactic co-trimoxazole is given to pregnant women with AIDS to prevent:
 	1.	Oesophageal candidiasis

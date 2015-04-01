@@ -93,7 +93,7 @@ Please choose the one, most correct answer to each question or statement.
 	*	Peripheral neuropathy
 	*	Nevirapine sensitivity
 	*	Pancreatitis
-18.	Lipdystrophy with abdominal obesity is a recognised side effect of:
+18.	Lipodystrophy with abdominal obesity is a recognised side effect of:
 	*	Co-trimoxazole
 	*	‘Non-nucs’
 	*	‘PIs’
