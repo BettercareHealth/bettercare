@@ -161,6 +161,12 @@ h4 {
 	font-style: italic;
 	margin-bottom: 0.5em;
 }
+h5, h6 {
+	font-size: 1em;
+	font-weight: normal;
+	font-style: italic;
+	margin-bottom: 0.5em;
+}
 p, ul, ol, blockquote, dl {
 	max-width: 40em;
 }

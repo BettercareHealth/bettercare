@@ -271,6 +271,18 @@ h4 {
 	font-style: italic;
 	margin-bottom: 0.5em;
 }
+h5 {
+	font-size: 1em;
+	font-weight: normal;
+	margin-bottom: 0.5em;
+}
+h6 {
+	font-size: 1em;
+	font-weight: normal;
+	font-style: italic;
+	font-family: "Linux Libertine", serif;
+	margin-bottom: 0.5em;
+}
 p {
 	margin: 0 0 0.5em 0;
 }
@@ -525,6 +537,14 @@ ol li blockquote.figure, ul li blockquote.figure {
  * Contents page
  */
 
+.toc h1 {
+	margin-bottom: 2em;
+}
+.toc h2 {
+	font-weight: 300;
+	font-size: 1.2em;
+	margin: 1em 0 0.5em 0;
+}
 .toc a::after, .page-ref-list a::after { 
 	content: leader(" ") target-counter(attr(href), page) 
 }
@@ -542,11 +562,6 @@ ol li blockquote.figure, ul li blockquote.figure {
 }
 .toc ol li li::marker {
 	content: none;
-}
-.toc h2 {
-	font-weight: 300;
-	font-size: 1.2em;
-	margin: 1em 0 0.5em 0;
 }
 
 /*
