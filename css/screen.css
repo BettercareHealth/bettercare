@@ -121,7 +121,7 @@ a.nav-item {
 	border-radius: 0.5em 2em 2em 0.5em;
 	margin-right: 0.2em;
 	margin-bottom: 0.2em;
-  box-shadow: 0.02em 0.02em 0.02em 0.02em #ccc;
+	box-shadow: 0.02em 0.02em 0.02em 0.02em #ccc;
 }
 a.nav-item:hover {
 	background-color: #4faad2;
@@ -209,7 +209,7 @@ h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
 	padding-top: 2.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. In concert with anchor.js. */
 }
 #help:target {
-	padding-top: 3.5em; /* ditto */
+	padding-top: 5em; /* ditto */
 }
 
 /* 
