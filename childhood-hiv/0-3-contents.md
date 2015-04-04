@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Introduction to childhood HIV infection](1.html)
 2.	[Clinical and immunological diagnosis of HIV infection](2.html)

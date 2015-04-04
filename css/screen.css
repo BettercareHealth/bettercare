@@ -433,10 +433,16 @@ td ul, td ol {
 	background-color: #f9f9f9;
 }
 .toc li li a {
-	color: silver
+	color: silver;
 }
 .toc a:hover {
 	background-color: white;
+}
+.toc .prelims a {
+    background-color: white;
+}
+.toc .prelims a:hover {
+	background-color: #f9f9f9;
 }
 .toc > h2#tests, .toc > h2#tests ~ ul, .toc > h2#tests ~ ol {
     display: none; /* We don't show the text-only tests in the online table of contents */

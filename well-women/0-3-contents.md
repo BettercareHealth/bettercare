@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Reproductive health](1.html)
 2.	[Family planning and infertility](2.html)

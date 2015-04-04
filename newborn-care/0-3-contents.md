@@ -8,6 +8,7 @@ layout: toc
 
 *	[Acknowledgements](0-4-acknowledgements.html)
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Failure to breathe at birth and resuscitation](1.html)
 	*	[Skills: Neonatal resuscitation](1A.html)

@@ -10,6 +10,7 @@ layout: toc
 *	[About the authors](0-5-about-the-authors.html)
 *	[Acknowledgements](0-6-acknowledgements.html)
 *	[Introduction](0-7-introduction.html)
+{:.prelims}
 
 1.	[Virology and epidemiology](1.html)
 2.	[Patient management](2.html)

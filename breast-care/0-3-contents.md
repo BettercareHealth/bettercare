@@ -9,8 +9,8 @@ layout: toc
 *	[Reviews](0-4-reviews.html)
 *	[Preface](0-5-preface.html)
 *	[Acknowledgements](0-6-acknowledgements.html)
-
 *	[Introduction](0-7-introduction.html)
+{:.prelims}
 
 1.	[The normal breast](1.html)
 2.	[Clinical assessment of the breast](2.html)

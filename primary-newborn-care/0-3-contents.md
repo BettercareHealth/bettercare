@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Care of infants at birth](1.html)
 2.	[Care of normal infants](2.html)

@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Mother friendly care during pregnancy](1.html)
 2.	[Mother friendly care during labour, delivery and the puerperium](2.html)

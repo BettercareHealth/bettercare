@@ -8,6 +8,7 @@ published: true
 # Contents
 
 *	[Introduction](fg-0-5-intro.html)
+{:.prelims}
 
 1.	[Introduction to studying in groups](fg-1.html)
 	

@@ -7,14 +7,11 @@ layout: toc
 # Contents
 
 *	[About the book](0-4-about-the-book.html)
-
 *	[About the author and editors](0-5-about-the-author.html)
-
 *	[Reviews](0-6-reviews.html)
-
 *	[Acknowledgements](0-7-acknowledgements.html)
-
 *	[Introduction](0-8-introduction.html)
+{:.prelims}
 
 1.	[Role and structure of infection prevention and control programmes](1.html)
 2.	[Micro-organisms of relevance to infection prevention and control](2.html)

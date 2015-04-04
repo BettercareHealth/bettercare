@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Monitoring the condition of the mother during the first stage of labour](1.html)
 2.	[Monitoring the condition of the fetus during the first stage of labour](2.html)

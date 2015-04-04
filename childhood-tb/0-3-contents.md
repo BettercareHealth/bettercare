@@ -7,8 +7,8 @@ layout: toc
 # Contents
 
 *	[Acknowledgements](0-4-acknowledgements.html)
-
 *	[Introduction](0-5-introduction.html)
+{:.prelims}
 
 1.	[Introduction to childhood tuberculosis](1.html)
 2.	[Clinical presentation of childhood tuberculosis](2.html)
