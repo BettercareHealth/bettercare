@@ -440,6 +440,10 @@ td ul, td ol {
 }
 .toc .prelims a {
     background-color: white;
+	display: inline-block;
+	float: left;
+	clear: none;
+	margin-right: 0.5em;
 }
 .toc .prelims a:hover {
 	background-color: #f9f9f9;
