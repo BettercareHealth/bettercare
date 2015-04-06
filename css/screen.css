@@ -424,6 +424,7 @@ td ul, td ol {
 	margin: 0 0 0 1em;
 }
 .toc a {
+	clear: both;
 	text-decoration: none;
 	border: 1px solid #f2f2f2;
 	padding: 0.25em;
