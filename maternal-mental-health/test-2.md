@@ -88,7 +88,7 @@ Please choose the ONE most correct answer to each question:
 	1.	She has the international standard score
 	1.	She is probably experiencing depression or anxiety
 	1.	She only has problems with sleep – but this is usual for pregnant women
-17.	If a women has answered that she has thought of suicide on the Edinburgh Postnatal Depression Scale (EPDS) questionnaire, you should:
+17.	If a woman has answered that she has thought of suicide on the Edinburgh Postnatal Depression Scale (EPDS) questionnaire, you should:
 	1.	Tell her to think about her baby
 	1.	Contact a psychiatric nurse, sister in charge or doctor for emergency help
 	1.	Ask her about her problems and then send her home
