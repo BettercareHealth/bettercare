@@ -197,32 +197,6 @@
 	font-weight: 300;
   }
 }
-/* We want mandatory page breaks before some layouts */
-div.frontmatter, div.toc, div.chapter, div.test, div.answers { 
-	page-break-before: always;
-}
-
-/* For manual page breaks, apply this class to an element */
-.page-break-before {
-	page-break-before: always;
-}
-
-/* To keep an element with the next element, apply this class */
-.keep-with-next {
-	page-break-after: avoid;
-}
-
-/* To prevent an element breaking across pages, apply this class */
-.keep-together {
-	page-break-inside: avoid;
-}
-
-/* To allow a break where default styles would normally avoid one */
-.allow-break {
-	page-break-before: inherit;
-	page-break-after: inherit;
-	page-break-inside: inherit;
-}
 
 /* Hide screen-only and non-printing elements */
 .non-printing {
@@ -304,10 +278,7 @@ ul ul, ol ol {
 ol ol {
 	list-style-type: lower-alpha;
 }
-li:nth-child(1) {
-	page-break-before: avoid;
-}
-li:last-of-type {
+li:first-of-type {
 	page-break-before: avoid;
 }
 li li:first-of-type {
@@ -667,6 +638,7 @@ img.cover {
  * ADJUSTMENTS FOR FINE TYPOGRAPHY
  */
 
+ /* Use these classes to control tracking, usually to save widows and orphans. */
 .tight {
 	letter-spacing: -0.0075em;
 	word-spacing: -0.0075em;
@@ -683,8 +655,42 @@ img.cover {
 	letter-spacing: 0.01em;
 	word-spacing: 0.01em;
 }
+
+/* This is useful for wide tables, but avoid wherever possible. */
 .shrink {
-	font-size: 0.7em; /* Useful for wide tables */
+	font-size: 0.7em; 
 	font-family: "Open Sans Condensed";
 	font-weight: normal;
+}
+
+/* We want mandatory page breaks before some layouts */
+div.frontmatter, div.toc, div.chapter, div.test, div.answers { 
+	page-break-before: always;
+}
+
+/* For manual page breaks, apply this class to an element */
+.page-break-before {
+	page-break-before: always;
+}
+
+/* To keep an element with the next element, apply this class */
+.keep-with-next {
+	page-break-after: avoid;
+}
+
+/* To prevent an element breaking across pages, apply this class */
+.keep-together {
+	page-break-inside: avoid;
+}
+
+/* To allow a break where default styles would normally avoid one. Apply the class to the parent element. */
+.allow-break {
+	page-break-before: auto;
+	page-break-after: auto;
+	page-break-inside: auto;
+}
+.allow-break * {
+	page-break-before: inherit;
+	page-break-after: inherit;
+	page-break-inside: inherit;
 }
