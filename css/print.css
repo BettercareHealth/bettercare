@@ -517,7 +517,7 @@ ol li blockquote.figure, ul li blockquote.figure {
 	margin: 1em 0 0.5em 0;
 }
 .toc a::after, .page-ref-list a::after { 
-	content: leader(" ") target-counter(attr(href), page) 
+	content: leader(" ") target-counter(attr(href), page);
 }
 .toc ul, .toc ol {
 	list-style-type: none;
