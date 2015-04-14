@@ -60,6 +60,11 @@ body {
 			font-size: 1.6em;
 		}
 	}
+	@media (max-device-width: 1024px) and (orientation: landscape) { /* E.g. Galaxy Tab 7" */
+		body {
+			font-size: 1.3em;
+		}
+	}
 #wrapper{
 	clear: both;
 	max-width: 960px;
