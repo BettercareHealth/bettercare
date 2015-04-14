@@ -402,7 +402,9 @@ td ul, td ol {
 /*
  * Table of contents
  */
-
+.toc h2#contents {
+	display: none; /* Takes up too much space on small screens and is redundant after nav bar. */
+}
 .toc h2 {
 	font-weight: 400;
 	font-size: 1.25em;
@@ -445,6 +447,7 @@ td ul, td ol {
 	float: left;
 	clear: none;
 	margin-right: 0.5em;
+	color: silver;
 }
 .toc .prelims a:hover {
 	background-color: #f9f9f9;
