@@ -8,7 +8,7 @@ published: true
 # Contents
 
 *	[Introduction](0-5-intro.html)
-*	[Copyright](0-2-coopyright.html)
+*	[Copyright](0-2-copyright.html)
 *	[Acknowledgements](0-4-acknowledgements.html)
 *	[Dear Group Leader](0-6-dear-group-leader.html)
 {:.prelims}
