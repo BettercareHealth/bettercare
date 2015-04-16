@@ -1,7 +1,8 @@
 ---
-book: Facilitator's Guide
+book: "Facilitator's Guide"
 title: Title page
 layout: frontmatter
+published: true
 ---
 
 Facilitator's Guide
@@ -13,6 +14,4 @@ Running a self-managed Bettercare course
 By the Bettercare team
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
