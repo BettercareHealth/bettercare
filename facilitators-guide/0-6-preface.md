@@ -23,9 +23,9 @@ In this guide, you will find out:
 * how to ensure learning is applied in the work setting
 * how to end the course or courses appropriately
 
-At the end of this guide, you will find some useful templates to use in planning and running your group. 
+We want this Facilitator's Guide to be user-friendly: On the next page you will find a summarised checklist showing exactly which steps to take when. At the end of this guide, you will find some useful templates to use in planning and running your group. 
 
-Being a successful Bettercare Group Facilitator requires initiative and leadership skills. Because of this, we want to reward our facilitator’s for the important role they play in the empowerment and training of healthcare workers. If more than half (50%) of your group members who write the exam qualify for a certificate, we will also mail you a Bettercare Group Facilitator certificate acknowledging your leadership capability and commitment to a goal. You can earn one of these certificates for each different Bettercare course that you facilitate (e.g. one for Newborn Care and another one for Childhood HIV).
+Being a successful Bettercare Group Facilitator requires taking initiative and leadership skills. Because of this, we want to reward our facilitator’s for the important role they play in the empowerment and training of healthcare workers. If more than half (50%) of your group members who write the exam qualify for a certificate, we will also mail you a Bettercare Group Facilitator certificate acknowledging your leadership capability and commitment to a goal. You can earn one of these certificates for each different Bettercare course that you facilitate (e.g. one for Newborn Care and another one for Childhood HIV).
 
 If you have any questions or need help with any aspect of the group learning process, please contact Bettercare on info@bettercare.co.za.
 
