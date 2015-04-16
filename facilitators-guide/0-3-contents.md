@@ -10,7 +10,7 @@ published: true
 *	[Introduction](0-5-intro.html)
 {:.prelims}
 
-1.	[Facilitor's checklist](0-7-Checklist.html)
+1.	[Facilitator's checklist](0-7-Checklist.html)
 1.	[Introduction to studying in groups](1.html)
 1.	[Planning a Bettercare group](2.html)
 1.	[Starting a Bettercare group](3.html)
