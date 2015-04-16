@@ -5,10 +5,10 @@ layout: frontmatter
 published: true
 ---
 
-Facilitator's Guide
+How to lead a Bettercare group
 {:.titlepage-title}
 
-Running a self-managed Bettercare course
+A facilitator's guide
 {:.titlepage-subtitle}
 
 By the Bettercare team
