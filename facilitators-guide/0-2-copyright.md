@@ -1,14 +1,15 @@
 ---
-book: Facilitator's Guide
+book: "Facilitator's Guide"
 title: Copyright
 layout: frontmatter
+published: true
 ---
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug and disinfectant dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug's documentation before administering it.
 
-*Facilitator's Guide: Running a self-managed Bettercare course*
+*How to lead a Bettercare group: A facilitator's guide*
 
-First published in 2012 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 25 Feb 2013, 4 Apr 2014, 1 Nov 2014
+First published in 2012 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 25 Feb 2013, 4 Apr 2014, 1 Nov 2014, 16 April 2015
 
 Text © Electric Book Works
 
