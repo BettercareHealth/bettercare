@@ -13,7 +13,7 @@ published: true
 {:.prelims}
 
 *	[Dear Group Leader](0-6-dear-group-leader.html)
-*	[Facilitator's checklist](0-7-Checklist.html)
+*	[Facilitator's checklist](0-7-checklist.html)
 
 1.	[Introduction to studying in groups](1.html)
 1.	[Planning a Bettercare group](2.html)
