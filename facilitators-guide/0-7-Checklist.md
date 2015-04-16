@@ -5,7 +5,7 @@ layout: chapter
 published: true
 ---
 
-# How to run a Bettercare group: Facilitator’s Checklist
+# How to lead a Bettercare group: Facilitator’s Checklist
 
 ## Before the first group meeting:
 
