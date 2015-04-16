@@ -11,7 +11,4 @@ How to lead a Bettercare group
 A facilitator's guide
 {:.titlepage-subtitle}
 
-By the Bettercare team
-{:.titlepage-author}
-
 ![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
