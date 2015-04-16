@@ -7,7 +7,7 @@ published: true
 
 # Contents
 
-*	[Introduction](0-5-introduction.html)
+*	[Introduction](0-5-intro.html)
 {:.prelims}
 
 1.	[Introduction to studying in groups](1.html)
