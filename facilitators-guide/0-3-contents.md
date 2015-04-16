@@ -8,6 +8,9 @@ published: true
 # Contents
 
 *	[Introduction](0-5-intro.html)
+*	[Copyright](0-2-coopyright.html)
+*	[Acknoledgements](0-4-acknowledgements.html)
+*	[Dear Group Leader](0-6-dear-group-leader.html)
 {:.prelims}
 
 1.	[Facilitator's checklist](0-7-Checklist.html)
