@@ -11,9 +11,9 @@ published: true
 *	[Copyright](0-2-copyright.html)
 *	[Acknowledgements](0-4-acknowledgements.html)
 *	[Dear Group Leader](0-6-dear-group-leader.html)
+*	[Facilitator's checklist](0-7-Checklist.html)
 {:.prelims}
 
-1.	[Facilitator's checklist](0-7-Checklist.html)
 1.	[Introduction to studying in groups](1.html)
 1.	[Planning a Bettercare group](2.html)
 1.	[Starting a Bettercare group](3.html)
