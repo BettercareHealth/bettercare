@@ -12,10 +12,11 @@ published: true
 * Identify a need/s for training at your institution.
 * Decide which need is the most urgent (you can get input from other staff members here).
 * Choose an appropriate Bettercare course.
+* Draw up a training budget.
 * Get stakeholder buy-in.
 * Advertise the course.
 * Hold a preliminary, information session about the Bettercare course you will run.
-* Sign up group members and get contact details for them (about 5-10).
+* Sign up group members (about 5-10) and get their contact details.
 * Organise how you will read the books (online for free or order print versions).
 * Contact everyone to say when and where the first official meeting will be held.
 * Start a ‘Bettercare Group Facilitator’s File’ (a flip-file is an easy and neat option) where you keep copies of templates, notes and important documents.
@@ -26,8 +27,8 @@ published: true
 * Introduce and discuss what decentralised learning means.
 * Make group rules that everyone agrees with.
 * Establish goals that everyone shares.
-* Explain how the course and the book works.
-* Explain your role in the group (not a tutor, but a facilitator).
+* Explain how the learning programmes and the books works.
+* Explain your role in the group (not a teacher, but a facilitator).
 * Decide how, when and where future group meetings will happen.
 * Decide if you think you will want to write the exam at the end of the course (this decision does not have to be final, but will give a good idea of what group members want to come out of doing this course).
 * Choose a treasurer (who will monitor the budget and finances).
