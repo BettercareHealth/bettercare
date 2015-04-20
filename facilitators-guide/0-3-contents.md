@@ -7,7 +7,7 @@ published: true
 
 # Contents
 
-*	[Copyright](0-2-copyright.html)
+*	[Copyright](0-2-copyright.html){:.non-printing}
 *	[Acknowledgements](0-4-acknowledgements.html)
 *	[Introduction](0-5-intro.html)
 {:.prelims}
