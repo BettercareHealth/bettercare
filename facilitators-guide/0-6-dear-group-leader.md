@@ -13,15 +13,15 @@ Group learning is a great way for several people to update their knowledge and s
 
 Your role is not to teach or tutor the members of the group. Each member of the group takes responsibility for their own learning. But, you need to support and encourage each person to participate in the group sessions, so that they can contribute towards the learning and understanding of the others. You also need to make sure that everything is in place so that your group’s sessions can be interesting and productive. 
 
-In this guide, you will find out:  
+In this guide, you will learn about:  
 
-* what group work means
-* how to plan a Bettercare group
-* how to start a Bettercare group 
-* how to run a  Bettercare group
-* how to keep participants motivated
-* how to ensure learning is applied in the work setting
-* how to end the course or courses appropriately
+* what makes group work powerful
+* starting your group and getting support
+* goal-setting and managing finances
+* managing group meetings and tests
+* keeping participants motivated
+* exams, certificates and ceremonies
+* measuring the impact of learning on your daily work.
 
 We want this Facilitator's Guide to be user-friendly: On the next page you will find a summarised checklist showing exactly which steps to take when. At the end of this guide, you will find some useful templates to use in planning and running your group. 
 
