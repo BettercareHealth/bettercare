@@ -9,7 +9,9 @@ published: true
 
 ## About the Bettercare series
 
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation and the Desmond Tutu TB Centre, with contributions from numerous experts.
+Bettercare publishes learning programmes for healthcare professionals. 
+
+We have developed these programmes through invaluable partnerships with and input from renowned experts and organisations including: the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, Infection Control Africa Network, Breast Course for Nurses and The Perinatal Mental Health Project.
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
@@ -27,5 +29,4 @@ The developers of our learning materials are a multi-disciplinary team of nurses
 
 ## Updating the course material
 
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
-
+Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to <info@bettercare.co.za>.
