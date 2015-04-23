@@ -12,7 +12,7 @@ published: true
 *	[Introduction](0-5-intro.html)
 {:.prelims}
 
-*	[Dear Group Facilitator](0-6-dear-group-leader.html)
+*	[Dear Facilitator](0-6-dear-facilitator.html)
 *	[Facilitator's checklist](0-7-checklist.html)
 
 1.	[Introduction to studying in groups](1.html)
