@@ -9,17 +9,17 @@ published: true
 
 ## Before the first group meeting
 
-☐ Identify  needs for training at your institution.  
-☐ Decide which need is the most urgent (you can get input from other staff members here).  
-☐ Choose an appropriate Bettercare course.  
-☐ Draw up a training budget.  
-☐ Get stakeholder buy-in.  
-☐ Advertise the course.  
-☐ Hold a preliminary information session about the Bettercare course you will run.  
-☐ Sign up group members (about 5–10) and get their contact details.  
-☐ Organise how you will read the books (online for free or order print versions).  
-☐ Contact everyone to say when and where the first official meeting will be held.  
-☐ Start a ‘Bettercare Facilitator’s File’ (a flip-file is an easy and neat option) where you keep copies of templates, notes and important documents.  
+|☐| Identify  needs for training at your institution.  
+|☐|Decide which need is the most urgent (you can get input from other staff members here).  
+|☐| Choose an appropriate Bettercare course.  
+|☐| Draw up a training budget.  
+|☐| Get stakeholder buy-in.  
+|☐| Advertise the course.  
+|☐| Hold a preliminary information session about the Bettercare course you will run.  
+|☐| Sign up group members (about 5–10) and get their contact details.  
+|☐| Organise how you will read the books (online for free or order print versions).  
+|☐| Contact everyone to say when and where the first official meeting will be held.  
+|☐| Start a ‘Bettercare Facilitator’s File’ (a flip-file is an easy and neat option) where you keep copies of templates, notes and important documents.  
 
 ## At the first group meeting
 
