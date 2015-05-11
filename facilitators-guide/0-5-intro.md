@@ -9,23 +9,25 @@ published: true
 
 ## About the Bettercare series
 
-Bettercare publishes learning programmes for healthcare professionals. 
+Bettercare creates learning programmes for healthcare professionals. A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, our learning programmes make your job simpler and easier.
 
-We have developed these programmes through invaluable partnerships with and input from renowned experts and organisations including: the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, Infection Control Africa Network, Breast Course for Nurses and The Perinatal Mental Health Project.
+We have developed these programmes in partnership with renowned experts and organisations, including the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, Infection Control Africa Network, Breast Course 4 Nurses and the Perinatal Mental Health Project.
 
-Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
+Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can deliver excellent patient care.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+The Bettercare methodology is built on the work of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
 
-Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health workers’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
+We believe excellent learning material enables health professionals to set up and manage their own courses.
 
-To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in poor, rural communities.
+Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, and are often far away from the health workers’ families and places of work. And the content often fails to address the biggest healthcare challenges of poor, rural communities.
+
+To help solve these problems, we offer a self-help, decentralised learning method that addresses the needs of professional healthcare workers, especially in poor, rural communities.
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
+Our learning materials have been developed by multi-disciplinary teams of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
 
 ## Updating the course material
 

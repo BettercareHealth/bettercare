@@ -1,11 +1,11 @@
 ---
 book: "Facilitator's Guide"
-title: Facilitator’s Checklist
+title: Checklists
 layout: chapter
 published: true
 ---
 
-# Facilitator’s checklists
+# Checklists
 
 ## Before the first group meeting
 
@@ -46,10 +46,9 @@ published: true
 ☐&emsp;Discuss difficult sections of the chapter you have all studied the previous week.  
 ☐&emsp;Go through the chapter case studies.  
 ☐&emsp;Have a demonstration and discussion of the relevant skill.  
-☐&emsp;Everyone does the post–test for the chapter you have studied and discussed.  
-☐&emsp;Everyone marks and records the pre– and post–tests.  
+☐&emsp;Everyone does the post-test for the chapter you have studied and discussed.  
+☐&emsp;Everyone marks and records the pre- and post-tests.  
 ☐&emsp;Everyone completes the pre-test for the next chapter.  
-
 
 ## After completing the chapters
 
