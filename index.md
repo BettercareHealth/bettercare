@@ -1,5 +1,5 @@
 ---
-title: Select a course
+title: Bettercare learning programmes
 book: Home
 layout: index
 ---
@@ -8,7 +8,7 @@ layout: index
 
 	<div class="index-available">
 
-		<h1>Select a course</h1>
+		<h1>Tap to select…</h1>
 
 		<a href="adult-hiv/0-3-contents.html" title="Adult HIV"><img class="cover-thumb" src="adult-hiv/images/cover-thumb.jpg" alt="Adult HIV" title="Adult HIV is for primary care nurses, medical officers and lay counsellors. It covers management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to opportunistic infections." /></a>
 		
@@ -24,6 +24,8 @@ layout: index
 	
 		<a href="primary-maternal-care/0-3-contents.html" title="Primary Maternal Care"><img class="cover-thumb" src="primary-maternal-care/images/cover-thumb.jpg" alt="Primary Maternal Care" title="Primary Maternal Care is for midwives and doctors in level 1 hospitals and clinics who provide antenatal and postnatal care, but do not conduct deliveries. It is adapted from theory chapters and skills workshops from [*Maternal Care*](http://bettercare.co.za/books/maternal-care/), and complements the national protocol for antenatal care in South Africa. It covers antenatal care, assessment of fetal growth and condition during pregnancy, hypertensive disorders of pregnancy, antepartum haemorrhage, preterm labour and preterm rupture of the membrames, the puerperium and family planning, and medical problems during pregnancy and the puerperium." /></a>
 
+		<a href="facilitators-guide/0-3-contents.html" title="Facilitator's Guide"><img class="cover-thumb" src="facilitators-guide/images/cover-thumb.jpg" alt="Facilitator's Guide" title="Our Facilitator’s Guide was developed to help you run your own training groups of health workers and community health workers using Bettercare study material. In this guide, you will find out how to start and run a group, keep participants motivated, ensure learning is applied in the work setting, and celebrate the end of a course. The guide includes photocopiable templates to help with planning, starting and running a group." /></a>
+
 	</div><!--.index-available-->
 
 	<div class="index-coming-soon">
@@ -36,8 +38,6 @@ layout: index
 
 		<a href="childhood-tb/" title="Childhood TB"><img class="cover-thumb unavailable" src="childhood-tb/images/cover-thumb.jpg" alt="Childhood TB" title="Childhood TB is for primary care of children with tuberculosis. It covers an introduction to TB infection, the clinical presentation, diagnosis, management and prevention of tuberculosis in children, and HIV/TB co-infection." /></a>
 
-		<a href="facilitators-guide" title="Facilitator's Guide"><img class="cover-thumb unavailable" src="facilitators-guide/images/cover-thumb.jpg" alt="Facilitator's Guide" title="Our Facilitator’s Guide was developed to help you run your own training groups of health workers and community health workers using Bettercare study material. In this guide, you will find out how to start and run a group, keep participants motivated, ensure learning is applied in the work setting, and celebrate the end of a course. The guide includes photocopiable templates to help with planning, starting and running a group." /></a>
-		
 		<a href="infection-prevention-and-control/" title="Infection Prevention and Control"><img class="cover-thumb unavailable" src="infection-prevention-and-control/images/cover-thumb.jpg" alt="Infection Prevention and Control" title="Infection Prevention and Control is for nurses, doctors, and health administrators in resource-limited settings. It covers IPC programmes, risk management, health facility design, outbreak surveillance and antimicrobial stewardship." /></a>
 		
 		<a href="intrapartum-care/" title="Intrapartum Care"><img class="cover-thumb unavailable" src="intrapartum-care/images/cover-thumb.jpg" alt="Intrapartum Care" title="Intrapartum Care is for doctors and advanced midwives working in labour wards in level 2 hospitals. It covers the care of the mother, the management of labour and monitoring the wellbeing of the fetus." /></a>
