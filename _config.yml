@@ -1,7 +1,7 @@
 publisher: "Bettercare"
 publisher-url: "http://bettercare.co.za"
 name: "Bettercare"
-description: "Self-managed-learning coursebooks for healthcare professionals"
+description: "Learning programmes for empowered health professionals"
 
 url: http://localhost:4000
 baseurl: /bettercare
