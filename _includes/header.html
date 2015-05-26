@@ -12,7 +12,6 @@
 	<meta property="og:description" content="The Bettercare Learning Station is a simple, free way to learn, check your knowledge, and watch training videos on smartphones, tablets and computers." />
 	<meta property="og:site_name" content="Bettercare Learning Station" />
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/screen.css" />
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/anchor.css" />
 
 	<!--Links and meta for favicons from http://realfavicongenerator.net/-->
 		<link rel="apple-touch-icon" sizes="57x57" href="{{ site.liveurl }}/images/icons/apple-touch-icon-57x57.png" />
@@ -36,35 +35,13 @@
 	<!--End favicon links and meta-->
 	
 	<!--Show/Hide script: http://www.cssnewbie.com/example/showhide-content/ -->
-	<script>
-	if (typeof Prince  === "undefined") {
-		function showHide(shID) {
-		   if (document.getElementById(shID)) {
-			  if (document.getElementById(shID+'-show').style.display != 'none') {
-				 document.getElementById(shID+'-show').style.display = 'none';
-				 document.getElementById(shID).style.display = 'block';
-			  }
-			  else {
-				 document.getElementById(shID+'-show').style.display = 'block';
-				 document.getElementById(shID).style.display = 'none';
-			  }
-		   }
-		}
-	}
-	</script>
+	<script src="{{ site.baseurl }}/js/show-hide.js"></script>
 
 	<!-- Google Analytics-->
-	<script>
-	if (typeof Prince  === "undefined") {
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-5570316-41', 'auto');
-	  ga('send', 'pageview');
-	}
-	</script>
+	<script src="{{ site.baseurl }}/js/google-analytics.js"></script>
+	
+	<!-- AnchorJS for deep-linking-->
+	<script src="{{ site.baseurl }}/js/anchor.js"></script>
 	
 </head>
 <body>
