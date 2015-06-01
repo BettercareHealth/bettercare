@@ -2,18 +2,8 @@
 # | Content Security Policy (CSP)                                      |
 # ----------------------------------------------------------------------
 
-# Mitigate the risk of cross-site scripting and other content-injection
-# attacks.
-#
-# This can be done by setting a `Content Security Policy` which
-# whitelists trusted sources of content for your website.
-#
-# Reporting to https://cspbuilder.info
-
 <IfModule mod_headers.c>
 
-    Header set Content-Security-Policy-Report-Only "report-uri //cspbuilder.info/report/114969718037170734/noscripteval/; connect-src 'none' ; child-src 'none' ; font-src 'self' data: ; form-action 'none' ; frame-ancestors 'none' ; frame-src http://form.myjotform.com ; img-src 'self' http://www.google-analytics.com ; media-src 'none' ; object-src 'none' ; script-src 'self' http://www.google-analytics.com ; style-src 'self' ; default-src 'none' ; strict-mixed-content-checking; reflected-xss filter; referrer origin-when-cross-origin; "
-
-	Header set Content-Security-Policy-Report-Only "report-uri //cspbuilder.info/report/114969718037170734/noscriptinline/; connect-src 'none' ; child-src 'none' ; font-src 'self' data: ; form-action 'none' ; frame-ancestors 'none' ; frame-src http://form.myjotform.com ; img-src 'self' http://www.google-analytics.com ; media-src 'none' ; object-src 'none' ; script-src 'self' http://www.google-analytics.com ; style-src 'self' ; default-src 'none' ; strict-mixed-content-checking; reflected-xss filter; referrer origin-when-cross-origin; "
+    Header set Content-Security-Policy-Report-Only "report-uri //ls.bettercare.co.za/admin/csp-report-to-email.php; default-src 'self' ; font-src 'self' data: ; frame-ancestors 'none' http://bettercare.co.za/ ; frame-src http://form.myjotform.com https://www.youtube.com ; img-src 'self' http://www.google-analytics.com ; script-src 'self' http://www.google-analytics.com; style-src 'self' unsafe-inline http://ls.bettercare.co.za/js/anchor.js ; reflected-xss filter; "
 
 </IfModule>
