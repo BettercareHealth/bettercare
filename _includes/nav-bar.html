@@ -1,7 +1,7 @@
 
 		<div id="nav-bar" class="non-printing">
 			<div class="nav-content">
-				<a href="#help" id="help-show" class="nav-item" onclick="showHide('help');">Help</a>
+				<a id="help-show" class="button nav-item">Help</a>
 				<a href="{{ site.baseurl }}/" class="nav-item">Library</a>
 				<a href="0-3-contents.html" class="nav-item">{{ page.book }}</a>
 				<a href="#" class="nav-item">{{ page.title }}</a>
@@ -9,7 +9,7 @@
 		</div><!--#nav-bar-->
 		
 	<div id="help" class="non-printing">
-		<a id="help-hide" href="#" class="hideLink button non-printing" onclick="showHide('help');history.go(-1);">Close help</a>
+		<a id="help-hide" class="button non-printing">Close help</a>
 		<h2 id="how-to">How to use this Learning Station</h2>
 		<p>On this Learning Station, you can read Bettercare books and test your knowledge.</p>
 		<ol>
