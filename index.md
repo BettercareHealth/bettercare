@@ -1,5 +1,5 @@
 ---
-title: Bettercare learning programmes
+title: Learning programmes
 book: Home
 layout: index
 ---
