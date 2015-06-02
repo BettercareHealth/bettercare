@@ -672,13 +672,13 @@ a#help-show {
 	display: none;
 }
 
-/* Exams */
+/* Exams. This styling is intended for printing exam papers from the screen. */
 
 .exam {
 	-webkit-column-count: 2;
 	-moz-column-count: 2;
 	column-count: 2;
-	margin: 0.5em;
+	margin: -6em 0 0 0.5em;
 	font-size: 0.7em;
 	line-height: 120%;
 }
