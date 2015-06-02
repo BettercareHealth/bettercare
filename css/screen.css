@@ -683,11 +683,13 @@ a#help-show {
 	line-height: 120%;
 }
 .exam h1 {
-	column-span: 3;
+	-webkit-column-span: all;
+	column-span: all;
 }
 .exam table {
 	width: 100%;
-	column-span: 2;
+	-webkit-column-span: all;
+	column-span: all;
 }
 .exam ol, .exam ul {
 	margin: 0 0 1em 0;
@@ -703,5 +705,6 @@ a#help-show {
 }
 .exam blockquote {
 	max-width: 100%;
-	column-span: 2;
+	-webkit-column-span: all;
+	column-span: all;
 }
