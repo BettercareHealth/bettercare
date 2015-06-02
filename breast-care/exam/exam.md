@@ -5,24 +5,9 @@ layout: exam
 published: true
 ---
 
-![Bettercare](http://ls.bettercare.co.za/images/bettercare-logo.svg)
-
 # Breast Care exam
 
-| Name | &nbsp; |
-| Date | &nbsp; |
-| Facilitator’s name | &nbsp; |
-| Email address | &nbsp; |
-| Phone number | &nbsp; |
-| Postal address | &nbsp; |
-{:.examinee-details}
-
-* There are a total of 75 questions in this exam.
-* You have 60 minutes.
-* You need to score at least 80% to successfully complete the course.
-* Clearly circle the one, most correct answer to each question. 
-* Do not talk or refer to any books or notes during the exam.
-{:.box}
+{% include exam-instructions.html %}
 
 1.	What are breasts like in most normal infants at birth?
 	-	Usually the breasts are very small and any breast development is abnormal
