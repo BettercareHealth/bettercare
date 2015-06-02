@@ -674,13 +674,15 @@ a#help-show {
 
 /* Exams */
 
-.exam {
-	font-family: "Linux Libertine", serif;
+.exam table {
+	width: 100%;
 }
-.exam table.examinee-details td {
-	width: 50%;
-	text-align: left;
+.exam ol, .exam ul {
+	margin: 0 0 1em 0;
 }
 .exam ol ul {
 	list-style-type: lower-alpha;
+}
+.exam blockquote {
+	max-width: auto;
 }
