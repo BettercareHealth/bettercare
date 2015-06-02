@@ -674,8 +674,20 @@ a#help-show {
 
 /* Exams */
 
+.exam {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+	margin: 0.5em;
+	font-size: 0.7em;
+	line-height: 120%;
+}
+.exam h1 {
+	column-span: 3;
+}
 .exam table {
 	width: 100%;
+	column-span: 2;
 }
 .exam ol, .exam ul {
 	margin: 0 0 1em 0;
@@ -690,5 +702,6 @@ a#help-show {
 	list-style-type: lower-alpha;
 }
 .exam blockquote {
-	max-width: auto;
+	max-width: 100%;
+	column-span: 2;
 }
