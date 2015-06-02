@@ -671,3 +671,16 @@ a#help-show {
 .toc .anchorjs-link {
 	display: none;
 }
+
+/* Exams */
+
+.exam {
+	font-family: "Linux Libertine", serif;
+}
+.exam table.examinee-details td {
+	width: 50%;
+	text-align: left;
+}
+.exam ol ul {
+	list-style-type: lower-alpha;
+}
