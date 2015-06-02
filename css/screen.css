@@ -680,6 +680,9 @@ a#help-show {
 .exam ol, .exam ul {
 	margin: 0 0 1em 0;
 }
+.exam ol li {
+	font-weight: 600;
+}
 .exam ol ul {
 	list-style-type: lower-alpha;
 }
