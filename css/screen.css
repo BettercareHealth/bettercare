@@ -212,7 +212,7 @@ a.button:hover {
 	background-color: #4faad2;
 }
 h1:target, h2:target, h3:target, h4:target, h5:target, h6:target {
-	padding-top: 2.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. In concert with anchor.js. */
+	padding-top: 2.5em; /* Prevents #-linked headings from disappearing below the fixed nav bar. */
 }
 #help:target {
 	padding-top: 5em; /* ditto */
@@ -626,50 +626,6 @@ a#help-show {
 
 .shrink {
 	font-size: 0.7em; /* Useful for wide tables */
-}
-
-/**
- * Anchor links on hover.
- */
-
-.anchorjs-icon {
-  font-style: normal;
-  font-variant: normal;
-  font-weight: normal;
-  line-height: 1;
-  speak: none;
-  text-transform: none;
-  /* Better Icon Rendering */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-.anchorjs-link {
-  opacity: 0;
-  text-decoration: none;
-}
-*:hover > .anchorjs-link,
-.anchorjs-link:focus  {
-  /* To fade links as they appear, change transition-property from 'color' to 'all' */
-  opacity: 0.5;
-  -webkit-transition: color .16s linear;
-  -moz-transition: color .16s linear;
-  -o-transition: color .16s linear;
-  transition: color .16s linear;
-}
-.anchorjs-link:link    { color: #4f89d2; }
-.anchorjs-link:visited { color: #4f89d2; }
-.anchorjs-link:hover   { color: #4f89d2; opacity: 1; }
-.anchorjs-link:active  { color: #4f89d2; }
-.anchorjs-icon {
-  font-size: 70%;
-  padding-left: 1em;
-}
-.anchorjs-icon:before {
-  content: '\e600';
-}
-/* Don't show on contents page */
-.toc .anchorjs-link {
-	display: none;
 }
 
 /* Exams. This styling is intended for printing exam papers from the screen. */
