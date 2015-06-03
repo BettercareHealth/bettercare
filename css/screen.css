@@ -677,4 +677,5 @@ a#help-show {
 	text-align: right;
 	-webkit-column-span: all;
 	column-span: all;
+	max-width: 100%;
 }
