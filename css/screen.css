@@ -669,3 +669,6 @@ a#help-show {
 	-webkit-column-span: all;
 	column-span: all;
 }
+.exam .correct {
+	display: none; /* Hide correct answer */
+}
