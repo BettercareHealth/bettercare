@@ -15,8 +15,14 @@ function showHide(shID) {
   }
 }
 
-var s = document.getElementById('help-show');
-s.addEventListener("click", function(){showHide("help")});
+var sh = document.getElementById('help-show');
+sh.addEventListener("click", function(){showHide("help")});
 
-var h = document.getElementById('help-hide');
-h.addEventListener("click", function(){showHide("help")});
+var hh = document.getElementById('help-hide');
+hh.addEventListener("click", function(){showHide("help")});
+
+var st = document.getElementById('live-test-show');
+st.addEventListener("click", function(){showHide("live-test")});
+
+var ht = document.getElementById('live-test-hide');
+ht.addEventListener("click", function(){showHide("live-test")});
