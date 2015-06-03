@@ -670,5 +670,5 @@ a#help-show {
 	column-span: all;
 }
 .exam .correct {
-	display: none; /* Hide correct answer */
+	font-weight: normal;
 }
