@@ -673,6 +673,8 @@ a#help-show {
 	font-weight: normal;
 }
 .exam .exam-version {
-	margin: 0 0 1em 0;
 	font-style: italic;
+	text-align: right;
+	-webkit-column-span: all;
+	column-span: all;
 }
