@@ -324,7 +324,7 @@ published: true
 	+	It is essential that the whole community be invited to these meetings
 	-	Traditional leaders should not be invited as they have little health knowledge
 	-	Only representatives invited by the national health authority
-	1. 	The formal and informal community leaders
+	- 	The formal and informal community leaders
 6.	How can a popular community leader be identified?
 	-	Speak to common people in the community
 	-	Speak to the local health authorities
