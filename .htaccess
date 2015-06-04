@@ -4,6 +4,6 @@
 
 <IfModule mod_headers.c>
 
-    Header set Content-Security-Policy-Report-Only "report-uri //ls.bettercare.co.za/admin/csp-report-to-email.php; default-src 'self' ; font-src 'self' data: ; frame-ancestors 'none' bettercare.co.za/ ; frame-src form.myjotform.com submit.myjotform.com https://www.youtube.com ; img-src 'self' www.google-analytics.com ; script-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline' ; reflected-xss filter; "
+    Header set Content-Security-Policy-Report-Only "report-uri //ls.bettercare.co.za/admin/csp-report-to-email.php; default-src 'self' ; font-src 'self' data: ; frame-ancestors 'none' bettercare.co.za/ ; frame-src form.myjotform.com submit.myjotform.com quizform.jotform.io https://www.youtube.com ; img-src 'self' www.google-analytics.com ; script-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline' ; reflected-xss filter; "
 
 </IfModule>
