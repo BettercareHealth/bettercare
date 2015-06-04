@@ -7,102 +7,102 @@ layout: test
 # Test 7: Temperature control and hypothermia
 
 1.	The body temperature of a newborn infant should be measured by placing a digital thermometer:
-	1.	In the mouth
-	1.	In the rectum
-	1.	In the axilla (arm pit) `correct`{:.correct-answer}
-	1.	In the incubator
+	-	In the mouth
+	-	In the rectum
+	+	In the axilla (arm pit)
+	-	In the incubator
 2.	The normal abdominal skin temperature in a newborn infant is:
-	1.	35.5–36.0°C
-	1.	36.0–36.5°C `correct`{:.correct-answer}
-	1.	36.5–37.0°C
-	1.	37.0–37.5°C
+	-	35.5–36.0°C
+	+	36.0–36.5°C
+	-	36.5–37.0°C
+	-	37.0–37.5°C
 3.	Newborn infants produce heat by:
-	1.	Shivering
-	1.	Kicking their legs
-	1.	Sweating
-	1.	Breaking down brown fat `correct`{:.correct-answer}
+	-	Shivering
+	-	Kicking their legs
+	-	Sweating
+	+	Breaking down brown fat
 4.	Heat production is poor in:
-	1.	Preterm infants `correct`{:.correct-answer}
-	1.	Term infants
-	1.	Postterm infants
-	1.	Female infants
+	+	Preterm infants
+	-	Term infants
+	-	Postterm infants
+	-	Female infants
 5.	Loss of heat to the surrounding air is called:
-	1.	Radiation
-	1.	Conduction
-	1.	Convection `correct`{:.correct-answer}
-	1.	Evaporation
+	-	Radiation
+	-	Conduction
+	+	Convection
+	-	Evaporation
 6.	The amount of heat lost by radiation is influenced by:
-	1.	The temperature of the incubator
-	1.	The temperature of the room air
-	1.	The temperature of the walls and windows `correct`{:.correct-answer}
-	1.	The temperature of the doctor’s hands
+	-	The temperature of the incubator
+	-	The temperature of the room air
+	+	The temperature of the walls and windows
+	-	The temperature of the doctor’s hands
 7.	Wet infants lose heat by:
-	1.	Conduction
-	1.	Convection
-	1.	Evaporation `correct`{:.correct-answer}
-	1.	Radiation
+	-	Conduction
+	-	Convection
+	+	Evaporation
+	-	Radiation
 8.	Heat loss is excessive in infants born:
-	1.	Underweight for gestational age `correct`{:.correct-answer}
-	1.	With an appropriate weight for gestational age
-	1.	Overweight for gestational age
-	1.	At term
+	+	Underweight for gestational age
+	-	With an appropriate weight for gestational age
+	-	Overweight for gestational age
+	-	At term
 9.	What type of subcutaneous fat prevents heat loss?
-	1.	Brown fat
-	1.	White fat `correct`{:.correct-answer}
-	1.	Yellow fat
-	1.	Pink fat
+	-	Brown fat
+	+	White fat
+	-	Yellow fat
+	-	Pink fat
 10.	Hypothermia is defined as a skin temperature below:
-	1.	37°C
-	1.	36°C `correct`{:.correct-answer}
-	1.	30°C
-	1.	25°C
+	-	37°C
+	+	36°C
+	-	30°C
+	-	25°C
 11.	What determines the correct incubator temperature?
-	1.	The infant’s weight `correct`{:.correct-answer}
-	1.	The infant’s sex
-	1.	The infant’s haemoglobin concentration
-	1.	The Apgar score
+	+	The infant’s weight
+	-	The infant’s sex
+	-	The infant’s haemoglobin concentration
+	-	The Apgar score
 12.	When is the oxygen and energy requirements of an infant lowest?
-	1.	When the body temperature is above normal.
-	1.	When the body temperature is normal. `correct`{:.correct-answer}
-	1.	When the body temperature is below normal.
-	1.	The oxygen and energy requirements are not influenced by body temperature.
+	-	When the body temperature is above normal.
+	+	When the body temperature is normal.
+	-	When the body temperature is below normal.
+	-	The oxygen and energy requirements are not influenced by body temperature.
 13.	Heat loss by radiation is best prevented by:
-	1.	Woollen booties
-	1.	Woollen leggings
-	1.	A woollen jacket
-	1.	A woollen cap `correct`{:.correct-answer}
+	-	Woollen booties
+	-	Woollen leggings
+	-	A woollen jacket
+	+	A woollen cap
 14.	How should a well newborn infant with a gestational age of 35 weeks and weighing 1500 g be nursed?
-	1.	With the mother in the KMC position `correct`{:.correct-answer}
-	1.	Under a radiant warmer
-	1.	In a cot (bassinet) in the general nursery
-	1.	In a special warmed room
+	+	With the mother in the KMC position
+	-	Under a radiant warmer
+	-	In a cot (bassinet) in the general nursery
+	-	In a special warmed room
 15.	Which form of heat loss is reduced by a perspex heat shield? 
-	1.	Convection
-	1.	Radiation `correct`{:.correct-answer}
-	1.	Evaporation
-	1.	Conduction
+	-	Convection
+	+	Radiation
+	-	Evaporation
+	-	Conduction
 16.	Cold infants usually have:
-	1.	A blue tongue and blue feet
-	1.	A pink tongue and pink feet
-	1.	A pink tongue and blue feet `correct`{:.correct-answer}
-	1.	A blue tongue and pink feet
+	-	A blue tongue and blue feet
+	-	A pink tongue and pink feet
+	+	A pink tongue and blue feet
+	-	A blue tongue and pink feet
 17.	Sclerema presents as:
-	1.	Blue sclera
-	1.	Oedema of the scalp
-	1.	Oedema of the feet
-	1.	A woody feel to the skin `correct`{:.correct-answer}
+	-	Blue sclera
+	-	Oedema of the scalp
+	-	Oedema of the feet
+	+	A woody feel to the skin
 18.	Hypothermia causes:
-	1.	Anaemia
-	1.	Proteinuria
-	1.	Hyperglycaemia
-	1.	Hypoglycaemia `correct`{:.correct-answer}
+	-	Anaemia
+	-	Proteinuria
+	-	Hyperglycaemia
+	+	Hypoglycaemia
 19.	While a cold infant is being warmed, it is important to give:
-	1.	Sedatives
-	1.	Antibiotics
-	1.	A diuretic
-	1.	Extra energy `correct`{:.correct-answer}
+	-	Sedatives
+	-	Antibiotics
+	-	A diuretic
+	+	Extra energy
 20.	Pyrexia is dangerous as it may cause:
-	1.	Bleeding
-	1.	Jaundice
-	1.	Apnoea `correct`{:.correct-answer}
-	1.	Acidosis
+	-	Bleeding
+	-	Jaundice
+	+	Apnoea
+	-	Acidosis
