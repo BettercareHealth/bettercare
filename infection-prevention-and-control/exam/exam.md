@@ -300,7 +300,7 @@ published: true
 	-	A 65-year-old hypertensive male with acute heart attack in the ICU
 	-	A 28-year-old healthcare worker assigned to the TB ward wearing proper protection.
 59.	Which of the following TB patients is the most infectious?
-	-	A well college student found to have a suspicious TB infiltrates on a chest X-ray
+	-	A well college student found to have suspicious TB infiltrates on a chest X-ray
 	-	A lady with TB of the spine
 	-	A boy with TB of the lymph nodes in his neck (draining fluid containing TB bacilli)
 	+	An elderly man coughing profusely (with a lung cavity from TB) who is not yet on treatment.
