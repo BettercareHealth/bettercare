@@ -24,15 +24,15 @@ Please choose the one most correct answer to each question or statement.
 	-	Requires referral to the doctor
 	-	Is a sign of a urinary tract infection
 4.	In the puerperium the haemoglobin concentration becomes stable by:
-	-	Six weeks
-	-	Day seven
+	-	6 weeks
+	-	Day 7
 	+	Day 4
 	-	Day 1
 5.	In a normal puerperium the cervical os should be closed by:
 	-	Day 3
-	+	Day seven
+	+	Day 7
 	-	Day 14
-	-	Six weeks
+	-	6 weeks
 6.	Normal lochia:
 	-	Is colourless
 	-	Has no smell

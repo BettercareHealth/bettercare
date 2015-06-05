@@ -92,7 +92,7 @@ Please choose the one most correct answer to each question or statement.
 	-	Alpha-methyldopa (Aldomet)
 	+	Nifedipine (Adalat)
 	-	Diazepam (Valium)
-	-	Propranolol (Inderal
+	-	Propranolol (Inderal)
 18.	What is an important sign of magnesium sulphate overdosage?
 	-	Vomiting
 	-	Hyperventilation

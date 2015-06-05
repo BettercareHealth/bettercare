@@ -34,10 +34,10 @@ Please choose the one most correct answer to each question or statement.
 	+	From all women 30 years or more who have not had a previous smear which had been reported as normal
 	-	Only if there is a symptomatic vaginal discharge (e.g. itchiness or burning)
 6.	The abdominal examination is a useful assessment of the duration of pregnancy:
-	-	From 8–12 weeks
-	-	From 10–16 weeks
-	+	From 13-17 weeks
-	-	From 18-24 weeks
+	-	From 8 to 12 weeks
+	-	From 10 to 16 weeks
+	+	From 13 to 17 weeks
+	-	From 18 to 24 weeks
 7.	If a patient is 10 weeks pregnant:
 	-	The fundus will be palpable 2 cm above the pelvic symphysis
 	-	The fundus is not palpable abdominally and it is, therefore, not possible to determine whether the dates correlate with the size of the uterus
