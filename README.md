@@ -1,8 +1,8 @@
 # Bettercare
 
-This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books.
+This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books, or see the [live version of this site](http://ls.bettercare.co.za).
 
-## The workflow
+## Our workflow
 
 To make Bettercare books, we use the [EBW Book Framework](http://github.com/electricbookworks/book-framework). It's relatively easy for non-technical people to edit, includes great version control, produces books fast (no weeks laying out pages in InDesign), and instantly spits out HTML we can use for the web, ebooks, our apps, and print. By print, we mean high-end books you buy in a store, not just 'save as PDF'.
 
@@ -17,73 +17,62 @@ We keep our master content files in markdown, structured for Jekyll, on GitHub. 
 
 [https://github.com/electricbookworks/bettercare](https://github.com/electricbookworks/bettercare)
 
-We use the [kramdown syntax](http://kramdown.gettalong.org/) for our markdown, because it's what GitHub uses. (Among other things, kramdown supports classes, so we can get almost everything we need for neat HTML. For complex tables and for figures, we use HTML inside the markdown docs.) 
-
-Then we let GitHub Pages publish the static HTML output, which it does automatically using Jekyll. Bettercare content then appears here:
+We use the [kramdown syntax](http://kramdown.gettalong.org/) for our markdown, because kramdown supports classes, so we can get almost everything we need for neat HTML. (For complex tables and for figures, we use HTML inside the markdown docs.) Also, it's what GitHub uses for GitHub Pages, which turns the markdown into a static HTML website using Jekyll. The GitHub Pages version of our content serves as our staging site:
 
 [http://electricbookworks.github.io/bettercare/](http://electricbookworks.github.io/bettercare/)
 
-Publishing with GitHub Pages works for Bettercare because its content is open-licensed (CC-BY-NC-ND). (In future, we'll make this GitHub Pages site prettier and we may use it instead of or in addition to Scribd for online reading ([which we do currently](http://bettercare.co.za/books/newborn-care/)).)
+Publishing with GitHub Pages works for Bettercare because [its content is open-licensed (CC-BY-NC-ND)](http://bettercare.co.za/buy/licensing). 
 
-If you click through to a book chapter on our GitHub Pages view, you'll see the HTML we get from kramdown is very simple. For example:
-
-[http://electricbookworks.github.io/bettercare/nc/nc-1.html](http://electricbookworks.github.io/bettercare/nc/nc-1.html)
-
-The key to simple HTML is mapping our books' features to HTML elements, so that we need very few classes. This way we can very easily use the same HTML with simple stylesheets for the web, our app, epub, and output to print PDF using PrinceXML. And our HTML content will remain readable in readers and low-bandwidth browsers that don't support publisher CSS.
-
-## Converting a Bettercare chapter to Markdown
+## Creting a Bettercare chapter in markdown
 
 This is for Bettercare team members, but may contain useful tips to others working on similar material.
 
 ### Before you start
 
-* Read the instructions for [EBW Book Framework](http://github.com/electricbookworks/book-framework).
+* Read the instructions for the [EBW Book Framework](http://github.com/electricbookworks/book-framework).
 * Read through all these notes, including the tips at the end. You may not understand it all at first, but you need to plant all these seeds in your brain for when you need them.
-* Have the [Markdown syntax reference](http://daringfireball.net/projects/markdown/syntax) to hand.
-* For more advanced syntax (including for tables), see the [kramdown syntax](http://kramdown.gettalong.org/syntax.html) and kramdown [quick reference](http://kramdown.gettalong.org/quickref.html).
-* Use a good text editor like Notepad++.
-* Set your default character encoding for your documents to 'UTF without BOM'. (We use GitHub Pages with Jekyll to create our HTML, and Jekyll can break if we don't.)
-* Refer to earlier chapters already done to see how things were handled there.
-* To check how small bits of markdown will convert to HTML, use the [online pandoc tryout](http://johnmacfarlane.net/pandoc/try). If you know how to set up a local Jekyll site or quick pandoc conversion to HTML, do that to see what your Markdown does in HTML as you work. Note: GitHub Pages, and possibly your Jekyll install, use kramdown, which parses markdown slightly differently to pandoc's default. So you might get different results in each, especially with tables. Jekyll with kramdown matters most.
+* Have the [Markdown syntax reference](http://daringfireball.net/projects/markdown/syntax) handy.
+* For more advanced syntax (including for tables), you may need the [kramdown syntax](http://kramdown.gettalong.org/syntax.html) and kramdown [quick reference](http://kramdown.gettalong.org/quickref.html).
+* Use a good text editor. On Windows, Notepad++ is a good option.
+* Set your default character encoding for your documents to 'UTF without BOM'. (Jekyll will break if you don't.)
+* Refer to existing chapters to see how things were handled there.
+* To check how small bits of markdown will convert to HTML, use the [this online kramdown converter](http://kramdown.herokuapp.com/). For best results, paste [`screen.css`](https://raw.githubusercontent.com/electricbookworks/bettercare/gh-pages/css/screen.css) into the converter's custom styles (Settings > Custom styles).
 
 ### Process
 
 Always remember how important your work is here: these books literally save lives. And mistakes in them could have real consequences, even if they only mean a nurse doesn't learn something important when she should have. So be meticulous. If you're converting or updating a book, this is also an opportunity to look out for errors and glitches in the previous edition.
 
-1.	Open the InDesign file and copy all the text
-1.	Paste the text with formatting into your text editor. (Note: the suggested S&Rs here were tested in Notepad++, and may work differently in other editors.)
-1.	Search and replace (S&R) all line breaks with double line breaks:
-	* Tick 'Regular expression' (because you're using the regex \n to mean 'line break', not actually searching for the characters 'slash' and 'lowercase en').
-	* Find `\n`
-	* Replace with `\n\n`
-1.	Format the Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.) To do this, tick 'Match case' and S&R double line-break–note–space, and replace with double-line-break–Note–line-break–colon–tab. As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to, like paragraphs starting with 'Note that…'. Always run an S&R manually through whole documents a few times before using 'Replace all'. This has worked well for me before:
-	*	Find `\n\nnote\s`
-	*	Replace with `\n\nNote\n:\t`
-	*	**But** remember this won't catch Notes that have two or more paragraphs, ir include items like tables or lists. Do a quick search through the InDesign file to look for those and mark them down manually.
-1.	Comparing to a laid-out, up-to-date version of the book, mark all headings with hashes (#) according to their heading level. Using S&R, start with the h3 (article) heads, so that you can then navigate the doc easily by those numbers.
+1.	Open your source, e.g. Word or InDesign file, and copy all the text. Then paste the text with formatting into your text editor. 
+1.	Do as much prep as possible using search-and-replace. (Note: the suggested search-and-replaces here were tested in Notepad++, and may work differently in other editors. ) As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'.
+1.	Mark all headings with hashes (#) according to their heading level. Using S&R, start with the h3 (article) heads, so that you can then navigate the doc easily by those numbers.
 	*	chapter title is h1 = `#`
 	*	subunit head is h2 = `##`
-	*	article head (question) is h3 = `###`. To S&R here, luckily all article heads start with the chapter number and a hyphen. So if you're working on chapter 3, find `\n\n3-` and replace with `\n\n### 3-`. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day…' or '2-hourly…' (these are real examples, it does happen!)
-1.	At the same time, you may want to:
-	*	manually create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists.
-	*	manually marking key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
-	*	Note that list indents can get complicated, so check previous chapters and test your markdown-to-HTML conversion when you hit a tricky one (e.g. a note inside a bullet list nested inside a numbered list).
-1.	Look out for italic and bold, and manually mark these in markdown with asterisks: *italic* and **bold**. It's best to search the InDesign document for these instances so you don't miss any. (in the InDesign Find dialog, click on the box below 'Find Format'. That brings up the 'Find Format Settings' dialog. In the 'Basic Character Formats' menu, select the formatting you're searching for. E.g. bold or italic, or superscript and subscript at the 'Position' dropdown. Click OK. Now the search will find any instances of superscript text.)
-1.	Look out for special characters, especially degree symbols (°), superscripts and subscripts. Searching for special characters is tricky because you have to guess what to search for. In this case, you can search for things you spotted an instance of while doing markdown, and think might appear in other places. The likely candidates are things created with special fonts like Wingdings. In InDesign, go to Type > Find Font... and see what fonts are listed. Any icon fonts (Wingdings, Dingbats, etc.) suggest that they've been used to create special characters. Click on the font there, then 'Find First' to jump to each instance. Then you can check whether the special character has come through okay in your markdown, or needs to replaced with a Unicode equivalent. In text-only markdown, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). E.g. when typing the symbol for oxygen, O₂, the subscript 2 is ₂, unicode character U+2082. Other examples are check mark ✓ and ballot box ☐. To type these characters, [search online](https://www.google.co.za/?#q=unicode+check+mark) and copy-paste from [an online reference](http://www.fileformat.info/info/unicode/char/2713/browsertest.htm).
+	*	article head (question) is h3 = `###`. 
+1.	Create Markdown lists using * for bullets and 1. , 2. , 3. etc. for numbered lists. Note that list indents can get complicated, so check previous chapters and test your markdown-to-HTML conversion when you hit a tricky one (e.g. a note inside a bullet list nested inside a numbered list).
+1.	Mark key concepts as blockquotes by adding > and a space (not a tab) at the start of each line
+1.	Format Notes as markdown 'definitions'. (They'll become dl/dt/dd HTML elements after conversion.)
+1.	Look out for italic and bold, and manually mark these in markdown with asterisks: *italic* and **bold**. It's best to search the InDesign document for these instances so you don't miss any. (In InDesign, use the Find dialog. Click on the box below 'Find Format'. That brings up the 'Find Format Settings' dialog. In the 'Basic Character Formats' menu, select the formatting you're searching for. E.g. bold or italic, or superscript and subscript at the 'Position' dropdown. Click OK. Now the search will find any instances of superscript text.)
+1.	Look out for special characters, especially degree symbols (°), superscripts and subscripts. Searching for special characters is tricky because you have to guess what to search for. In this case, you can search for things you spotted an instance of while doing markdown, and think might appear in other places. The likely candidates are things created with special fonts like Wingdings. If you're in InDesign, go to Type > Find Font... and see what fonts are listed. Any icon fonts (Wingdings, Dingbats, etc.) suggest that they've been used to create special characters. Click on the font there, then 'Find First' to jump to each instance. Then you can check whether the special character has come through okay in your markdown, or needs to replaced with a Unicode equivalent. In text-only markdown, you must use the [unicode character for each superscript or subscript character](http://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts). E.g. when typing the symbol for oxygen, O₂, the subscript 2 is ₂, unicode character U+2082. Other examples are check mark ✓ and ballot box ☐. To type these characters, [search online](https://www.google.co.za/?#q=unicode+check+mark) and copy-paste from [an online reference](http://www.fileformat.info/info/unicode/char/2713/browsertest.htm).
 1.	Make URLs into (clickable) links. To make text into a link, surround it with square brackets, followed immediately (i.e. no space) by the full URL in round brackets: `[This will be clickable text](http://the.full.url.here)`.
-1.	At tables, add `{:.table-caption}` in the line immediately after the table caption, which should *always* immediately precede the table. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. Tables can be created in markdown, but if you need any cell merging or other fine formatting control, you must create an HTML table (using `<table>` etc. tags). To easily create tables with markdown (for Kramdown processing):
-	*	use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To do this:
-	*	Click and drag over some cells in the InDesign table (not the header row). Then Ctrl+A to select the whole table.
-	*	Ctrl+C to copy, then paste into a blank spreadsheet.
+1.	At tables, add `{:.table-caption}` in the line immediately after the table caption, which should *always* immediately precede the table. Kramdown uses this to apply the class `table-caption` to the paragraph. In our print output, this helps us avoid page breaks between the caption and the table. Very simple tables can be created in markdown, with no merged cells. If you need any cell merging or other fine formatting control, you must create an HTML table (using `<table>` etc. tags). To easily create simple tables in markdown, you can use [Senseful's online tool](http://www.sensefulsolutions.com/2010/10/format-text-as-table.html). To get a clean paste into Senseful:
+	*	Copy the original table and paste into a blank spreadsheet.
 	*	Select all the relevant cells in your spreadsheet, and copy. The table text is now on your clipboard, with the cells separated by tabs.
 	*	Paste into the online Format Text as Table Input field.
 	*	Click 'Create Table'. (The default settings are usually fine. Play with them only if you need to.)
 	*	Copy the Output and paste it into your markdown file.
 	*	The Senseful tool starts some table borders with + where kramdown needs a |. Manually change the starting + in any row with a |.
 	
-	If you create an HTML table, make sure it validates as the very strict XHTML 1.1 – this is needed for EPUB2 validation. (E.g. remember to include a `<tbody>` element.)
+	If you create an HTML table, make sure it validates as the very strict XHTML 1.1 – this is needed for EPUB2 validation. (E.g. if you have a `<thead>` element you must include a `<tbody>` element.)
 	
 1.	Add markdown/code for the images, and make sure the image files are in the book's `images` folder. See the images section below for detail on this.
+
+#### Useful search-and-replaces
+
+1.	To search and replace (S&R) all line breaks with double line breaks:
+	* Tick 'Regular expression' (because you're using the regex \n to mean 'line break', not actually searching for the characters 'slash' and 'lowercase en').
+	* Find `\n`
+	* Replace with `\n\n`
+1.	To S&R for `###` headings, all article heads in our books start with the chapter number and a hyphen. So if you're working on chapter 3, find `\n\n3-` and replace with `\n\n### 3-`. Don't use 'Replace all' in case there is a paragraph that starts with, say, '3-5 times a day…' or '2-hourly…' (these are real examples, it does happen!)
 
 ### YAML headers
 
@@ -132,6 +121,7 @@ For the `layout` header, you have these options for Bettercare books:
 *	`cover` (only for the book's `cover.md` file)
 *	`index` (only for a book's `index.md` file)
 *	`default` (almost never used, it's just a fallback for Jekyll)
+*	`exam` (only for end-of-course exams, which are stored in each book's `exam` folder)
 
 ### Print typography
 
@@ -198,7 +188,7 @@ If it's important that it doesn't have a border (isn't in a blockquote), you cou
 {:.figure}
 ```
 
-Always check print output to be sure you're getting what you intend.
+Always check print output (putting the HTML Jekyll creates through Prince with `print.css`) to be sure you're getting what you intend.
 
 #### Image placement
 
@@ -281,11 +271,15 @@ If you SVGs seem big, [read up on optimising SVGs](http://stackoverflow.com/a/70
 
 #### Cover images
 
-Add the front-cover image to the book's `images` folder named cover.jpg. It should be 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. Ensure colour settings are RGB and the DPI is set to 72.
+Add the front-cover image to the book's `images` folder. Ensure colour settings are RGB and the DPI is set to 72. We need three sizes:
+
+*	`cover.jpg`: 960px high (using A5 height:width ratio 210:148). In keeping with epub best practice these are just under 1000px on their longest side. 
+*	`cover-thumb.jpg`: 300px wide (usually 425px high)
+*	`cover-large.jpg`: 2000px high (usually 1410px wide).
 
 ### Embedding video
 
-We can include any iframe in markdown to embed a video, but our preferred method is this:
+We can include any iframe in markdown to embed a video, and our preferred method is this:
 
 *	Find the video's YouTube ID: a code in the URL that looks like this: `RRV-9Jf0eI0`
 *	In the markdown, put the code between these two tags: `{% include youtube-start.html %}` and `{% include youtube-end.html %}`. Those tags will insert the iframe HTML that works best for the Learning Station.
@@ -322,9 +316,9 @@ Also, add the video section to the table of contents. The link should be nested 
 ## General tips
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
-* In lists, Kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
+* In lists, kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
 * To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills workshops are then `1A.md`, `1B.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
-* Remember you're not in a word-processor any more: but you still need spell check! Make sure you have and know how to use a good spell checker in your text editor. (We use the DSpellCheck plugin in Notepad++.)
+* Remember you're not in a word-processor any more: but you still need spell check! Make sure you have and know how to use a good spell checker in your text editor. (I use the DSpellCheck plugin in Notepad++.)
 
 ## Live online tests
 
@@ -369,9 +363,7 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 *	Search for `.svg` in image references and replace with `.jpg`.
 
-*	Replace the paths to `screen.css` to a path to `epub.css` in all `<head>` elements (`/css/screen.css` becomes `../Styles/epub.css`) using search-and-replace.
-
-*	Remove paths to `anchor.css` in all `<head>` elements. (You only want a `<link>` to `epub.css` there.)
+*	Replace the paths to `screen.css` to a path to `epub.css` in all `<head>` elements (`/css/screen.css` becomes `../Styles/epub.css`) using search-and-replace. You only want a `<link>` to `epub.css` there.
 
 *	Remove the favicon links and meta from the `<head>` element. (From `<!--Links and meta for favicons` to `End favicon links and meta-->`.)
 
@@ -379,7 +371,7 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
-	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
+	`(?s).<div id="nav-bar" class="non-printing">(.*)<!--#nav-bar-->`
 	
 *	Remove the `footer` div. DotAll Regex:
 
@@ -387,11 +379,11 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 	
 *	Remove the `live-test` divs. DotAll Regex: 
 
-	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live-test .non-printing-->`
+	`(?s).<div id="live-test" class="live-test non-printing">(.*)</div><!--#live-test .live-test .non-printing-->`
 	
 *	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, using a *normal* search-and-replace, replace 
 
-	`<p><a class="button non-printing" href="#live-test" id="live-test-show" onclick="showHide('live-test');">Open chapter test</a></p>`
+	`<p><a id="live-test-show" href="#live-test" class="button non-printing">Open chapter test</a></p>`
 	
 	with 
 	
@@ -400,7 +392,7 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 *	Replace videos with a link to the Learning Station. (The main reason is that iframes are invalid in EPUB2 XHTML 1.1.) This must be done manually.
 	*	Search for `videowrapper` to find instances of embedded videos.
 	*	Replace all references to specific videos with `<p>To watch the videos, visit <a href="http://ls.bettercare.co.za">the online version of this book</a>.</p>`.
-	
+
 ### Add metadata, semantics and TOC
 	
 *	Add basic metadata to your epub using Sigil's Metadata Editor. Include at least:
