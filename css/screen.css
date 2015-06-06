@@ -573,11 +573,13 @@ a#help-show {
 }
 .live-test iframe {
 	width: 100%;
-	border: none;
+	border: 1px solid #f2f2f2;
 	border-radius: 0.2em;
 	padding: 0 0.5em;
 	margin: 1em 0;
 	height: 25em;
+	box-shadow: 2px 2px 2px 0 #f2f2f2;
+	overflow-y: scroll;
 }
 .test-result-page {
 	margin: 5em 0 0 0;
