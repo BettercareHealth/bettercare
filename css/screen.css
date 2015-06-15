@@ -240,6 +240,7 @@ blockquote.box {
 	color: inherit;
 	font-weight: inherit;
 	font-size: inherit;
+	padding: 0;
 	border: 1px solid #ccc;
 }
 blockquote.box p {
