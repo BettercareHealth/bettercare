@@ -3,7 +3,7 @@
 // Specify the email address to send reports to
 define('EMAIL', 'it@electricbookworks.com');
 // Specify the desired email subject for violation reports
-define('SUBJECT', 'CSP violation');
+define('SUBJECT', 'CSP violation: Bettercare Learning Station');
 
 // Send `204 No Content` status code
 http_response_code(204);
