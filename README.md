@@ -410,3 +410,47 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 ### Validate
 
 Validate the epub in Sigil and fix any validation errors. Sigil won't catch everything though, so also validate with the [IDPF's online version of EpubCheck](http://validator.idpf.org/).
+
+## Saving in Word format
+
+Sometimes our authors need to make updates in Word. To save a Bettercare book as Word:
+
+1.	Get the plain HTML version of each chapter. If you run Jekyll locally, it's in your _site folder; otherwise:
+	*	open the chapter online
+	*	Right-click and 'Save as'
+	*	Save as 'Web Page, HTML Only' (not 'Web Page, Complete').
+2.	Open the file in LibreOffice in this way (this process is probably different in Word or other software):
+	*	Have another document open in LibreOffice Writer already. (Can be a a blank doc.)
+	*	Use File > Open
+	*	Make sure you're still in 'Writer' and not 'Writer/Web'. 'LibreOffice Writer/Web' is a variant of Writer that will *only* let you save as HTML or .txt, not as a Word document.
+3.	Delete all comments (in LibreOffice, click the dropdown on any comment and select 'Delete all comments')
+4.	At the start of each chapter, delete the Help section (everything up to the chapter number)
+5.	At the start of each chapter, delete the chapter-test links and frame between the chapter head and objectives heading.
+6.	Select All (Ctrl+A) and change the font to Times New Roman. (Most others you send this to should have that font, which is better than their computer not having your font, and guessing which font to use instead.)
+7.	Change the formatting of the key-concept boxes. To do this in LibreOffice:
+	*	Click on a key-concept. It is formatted as 'Quotations'.
+	*	Open the Styles and Formatting palette (F11). 
+	*	'Quotations' should be selected because your cursor is on a quotation/key-concept box.
+	*	Right-click 'Quotations' in the palette and select 'Modify'. The Paragraph Styles dialog will open.
+	*	In the Font tab, under Style, select Bold.
+	*	In the Borders tab, under default, click the button that puts a solid border all around the paragraph.
+	*	At the bottom of the Paragraph Style dialog, click Apply. Your bold and border styling should take effect on all the key-concept paragraphs.
+	*	Note that this styling will also affect all figures with captions, because they are also 'Quotations' in the underlying HTML. This is fine. But:
+	*	Separate key-concepts from figures with a paragraph of Default Style text, where they follow each other and appear joined. (Search for 'Figure' to scan through the document for this quickly.)
+8.	Change the formatting of the Note text in the same way, in the Styles and Formatting palette: modify 'List Contents' to be grey.
+8.	At the end of each chapter, delete the navigation text and links ('Library...').
+9.	Save as .docx.
+
+Here is the short checklist version of that process, for quick reference while working:
+
+1.	Delete comments
+2.	Delete help (start), test links, and nav (end) sections
+3.	Change font to TNR
+4.	Change formatting of 'Quotations' and 'List Contents' styles
+5.	Check for key-concepts appearing merged with figures.
+6.	Save as .docx.
+
+Notes
+:	1.	The save-as process adds a couple of new comments at the top of the file. You can ignore them.
+	2.	Pandoc would be great, but it doesn't support some key table features, so tables convert to normal text.
+	3.	It would be great to import/load styles rather than change styles manually in every file. But we have not been able to get LibreOffice to load styles from another document in this context.
