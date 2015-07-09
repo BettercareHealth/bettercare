@@ -85,30 +85,30 @@ published: true
 	-	They are normal only if the breasts return normal by 1 week.
 	+	{:.correct}They are normal in girls and boys and may last for a few months.
 4.	Which type of milk contains the most antibodies?
-	+	{:.correct}Colostrum `correct`{:.correct-answer}
+	+	{:.correct}Colostrum
 	-	Foremilk
 	-	Hindmilk
 	-	Formula
 5.	When should the normal infant be put to the breast for the first time?
-	+	{:.correct}As soon after birth as possible `correct`{:.correct-answer}
+	+	{:.correct}As soon after birth as possible
 	-	Not before 1 hour or the infant will vomit
 	-	Only after 3 hours when the infant has been bathed
 	-	After the mother has had a good sleep
 6.	What should be given as the first feed to normal infants?
 	-	Sterile water
-	+	{:.correct}Breast milk `correct`{:.correct-answer}
+	+	{:.correct}Breast milk
 	-	Formula
 	-	5% dextrose water
 11.	How should you treat engorged breasts?
 	-	Stop breastfeeding
 	-	Give the mother a diuretic
-	+	{:.correct}Empty the breasts by frequent feeds or by expressing `correct`{:.correct-answer}
+	+	{:.correct}Empty the breasts by frequent feeds or by expressing
 	-	Bandage the breasts tightly
 15.	How should you treat cracked nipples?
 	-	Stop breastfeeding and give formula feeds
 	-	Apply antibiotic cream to the nipples
 	-	Give the mother daily penicillin injections for a week
-	+	{:.correct}Allow some breast milk to dry on the nipples after each feed `correct`{:.correct-answer}
+	+	{:.correct}Allow some breast milk to dry on the nipples after each feed
 3.	What is the first step in the management of a high-risk infant?
 	-	Treat the clinical problem as early as possible
 	-	Monitor the vital signs
@@ -191,7 +191,7 @@ published: true
 	-	7.0 mmol/l to 15 mmol/l
 5.	Hypoglycaemia is dangerous as it may cause:
 	-	Jaundice
-	-	Brain damage
+	+	{:.correct}Brain damage
 	-	Anaemia
 	-	Bleeding
 9.	The following infants are at an increased risk of hypoglycaemia:
@@ -385,3 +385,11 @@ published: true
 	-	Less than 10%
 	+	{:.correct}More than 10%
 	-	More than 50%
+
+
+
+
+
+
+
+
