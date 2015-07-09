@@ -28,7 +28,7 @@ layout: test
 	+	Less than 1.5 mmol/l
 5.	Hypoglycaemia is dangerous as it may cause:
 	-	Jaundice
-	-	Brain damage
+	+	Brain damage
 	-	Anaemia
 	-	Bleeding
 6.	Which of the following problems is likely to cause hypoglycaemia because the infant has an increased breakdown of glucose?
