@@ -238,6 +238,7 @@ published: true
 	-	After a blood loss of more than 250 ml within the first 12 hours after delivery of the infant
 	-	After a blood loss of more than 750 ml within the first seven days after delivery of the infant
 	-	Only after the patient has lost 1000 ml blood
+	+	{:.correct}Any haemorrhage following the delivery of the infant which appears to be excessive must be regarded as a postpartum haemorrhage
 14.	What should be the first step in the management of a postpartum haemorrhage when the placenta has already been delivered?
 	+	{:.correct}The uterus must immediately be rubbed up.
 	-	A rapid intravenous infusion of 20 units of oxytocin should be started.
