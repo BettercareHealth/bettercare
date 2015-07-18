@@ -574,24 +574,28 @@ a#help-show {
 }
 .live-test iframe {
 	width: 100%;
-	border: 1px solid #f2f2f2;
+	border: 1px solid #cccccc;
 	border-radius: 0.2em;
 	padding: 0 0.5em;
 	margin: 1em 0;
 	height: 25em;
-	box-shadow: 2px 2px 2px 0 #f2f2f2;
+	box-shadow: 2px 2px 2px 0 #cccccc;
 	overflow-y: scroll;
+	background-color: white;
+	max-width: 95%;
 }
 .test-result-page {
 	margin: 5em 0 0 0;
 }
-.test-results iframe {
+.test-results iframe { /* Only used for Jotform quizzes */
 	width: 100%;
 	border: none;
 	border-radius: 0.2em;
 	margin: 1em 0;
 	padding: 0 0.5em;
 	height: 150em;
+	max-width: 95%;
+	background-color: white;
 }
 .loading:before {
 	content: "Loading…";

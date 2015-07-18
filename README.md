@@ -346,6 +346,15 @@ Take the chapter test before and after you read this chapter.
 {% include jotform-start.html %}43496817304561{% include jotform-end.html %}
 ```
 
+### Adding tests from Betterquiz
+
+We're moving all testing from Jotform to [Betterquiz](https://github.com/electricbookworks/betterquiz), our own multiple-choice testing engine. Bettercare's Betterquiz instance is at [quiz.bettercare.co.za](http://quiz.bettercare.co.za), managed from [quiz.bettercare.co.za/admin](http://quiz.bettercare.co.za/admin). 
+
+Once you've created a chapter test (quiz) in Betterquiz, you can add it to a chapter like this. Note that, currently, you can only add one test per chapter (this is a limitation of the Javascript that shows and hides the test's iframe).
+
+*	In the chapter's YAML header, add the quiz's ID this this: `quiz-id: 1`, where the number is the ID of the quiz on Betterquiz.
+*	Where you want the test to appear in the chapter, insert this on its own line: `{% include quiz.html %}`
+
 ## Epub output
 
 We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes. (For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/) and/or the [Sigil manual online](http://web.sigil.googlecode.com/git/files/OEBPS/Text/introduction.html).)
