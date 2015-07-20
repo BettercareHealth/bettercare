@@ -74,7 +74,7 @@ published: true
 	-	Oedema of the face
 	-	Glycosuria
 	+	{:.correct}Intracerebral haemorrhage
-17. 	What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
+17.	What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
 	-	Alpha-methyldopa (Aldomet)
 	+	{:.correct}Nifedipine (Adalat)
 	-	Diazepam (Valium)
