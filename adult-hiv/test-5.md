@@ -38,7 +38,7 @@ Please choose the one, most correct answer to each question or statement.
 	+	Every one to three months
 	-	Every four to five months
 	-	Every six months
-7.	A haemoglobin level and differential count at months 1,2,3 and 6 should be measured in patients receiving:
+7.	A haemoglobin (Hb) level and differential count at months 3 and 6 should be measured in patients receiving:
 	-	Nevirapine
 	-	d4T
 	-	3TC
@@ -64,7 +64,7 @@ Please choose the one, most correct answer to each question or statement.
 	-	An undetectable viral load
 	+	A viral load above 1000 copies/ml
 12.	What should be done if the second-line of treatment fails in spite of excellent adherence?
-	+	Continue on second-line treatment
+	+	Refer patient for resistance testing
 	-	Change back to the first-line treatment
 	-	Use both first- and second-line treatment together
 	-	Add rifampicin and co-trimoxazole

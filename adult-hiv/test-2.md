@@ -100,7 +100,7 @@ Please choose the one, most correct answer to each question or statement.
 	-	Start pain care with morphine.
 19.	Moderate pain is often best managed with:
 	-	Ibuprofen (Brufen) alone
-	+	Codeine phosphate
+	+	Codeine phosphate or tramadol
 	-	Morphine
 	-	Antidepressants
 20.	Common side effects of morphine include:
