@@ -15,7 +15,7 @@ Please choose the one, most correct answer to each question or statement.
 	-	To prevent repeated infection with HIV
 2.	How many classes of antiretroviral drugs are usually used in South Africa?
 	-	Two
-	+	Three
+	+	Four
 	-	Five
 	-	Ten
 3.	Which of the following drugs is a ‘nuc’?
@@ -93,10 +93,10 @@ Please choose the one, most correct answer to each question or statement.
 	+	Peripheral neuropathy
 	-	Nevirapine sensitivity
 	-	Pancreatitis
-18.	Lipodystrophy with abdominal obesity is a recognised side effect of:
+18.	Lipodystrophy is a recognised side effect of:
 	-	Co-trimoxazole
-	-	‘Non-nucs’
-	+	‘PIs’
+	-	Nevirapine
+	+	AZT
 	-	Anti-TB treatment
 19.	Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment suggests:
 	+	Lactic acidosis

@@ -137,7 +137,7 @@ Participants need to achieve at least 80% in the examination in order to success
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
+The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
 
 ### Perinatal Education Trust
 
