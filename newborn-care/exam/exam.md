@@ -282,8 +282,8 @@ published: true
 20.	The amount of extra oxygen given into a headbox should be measured:
 	-	As a flow rate (e.g. 5 litres per minute)
 	-	As a partial pressure (e.g. 5 kPa)
-	-	As a fraction (e.g. FiO₂ 0.5)
-	+	{:.correct}As a weight (e.g. 500 g)
+	+	{:.correct}As a fraction (e.g. FiO₂ 0.5)
+	-	As a weight (e.g. 500 g)
 2.	Which immunoglobulin does the fetus receive from its mother?
 	-	IgA
 	+	{:.correct}IgG
