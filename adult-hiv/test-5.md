@@ -64,7 +64,7 @@ Please choose the one, most correct answer to each question or statement.
 	-	An undetectable viral load
 	+	A viral load above 1000 copies/ml
 12.	What should be done if the second-line of treatment fails in spite of excellent adherence?
-	+	Refer patient for resistance testing
+	+	Refer the patient for resistance testing
 	-	Change back to the first-line treatment
 	-	Use both first- and second-line treatment together
 	-	Add rifampicin and co-trimoxazole

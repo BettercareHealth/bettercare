@@ -96,7 +96,7 @@ Please choose the one, most correct answer to each question or statement.
 18.	Lipodystrophy is a recognised side effect of:
 	-	Co-trimoxazole
 	-	Nevirapine
-	+	AZT, ddI, d4T or efavirenz
+	+	AZT
 	-	Anti-TB treatment
 19.	Weight loss, nausea, abdominal pain and tiredness after months of successful antiretroviral treatment suggests:
 	+	Lactic acidosis

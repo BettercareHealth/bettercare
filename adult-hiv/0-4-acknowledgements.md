@@ -10,7 +10,7 @@ I wish to gratefully acknowledge the contributions made by many medical and nurs
 
 The Adult HIV Education Programme was developed under the auspices of the Desmond Tutu HIV Foundation at the University of Cape Town, and was guided by an editorial board consisting of Prof L-G. Bekker, Ms F. Cope, Ms K. Fosseus, Dr C. Orrell, Dr R. Kaplan, Ms L. Mtwisha and Prof D. Woods. The contributors who shared their wide experience and provided wise advice to ensure the text was scientifically correct and clinically appropriate were Prof M. Blockman, Dr K. Dong, Dr C. Horwood, Prof D. Martin, Dr D. Wilson, Dr F. Venter, Prof R. Wood and Dr B. Harley.
 
-Comments and suggestions by all the participants who use Adult HIV to further their own continuing education will provide ongoing feedback.
+Comments and suggestions by all the participants who use Adult HIV to further their own continuing education provide ongoing feedback.
 
 A generous grant from the Doris Duke Charitable Foundation, and funding from Eduhealthcare, enabled the development and publishing of this book, and a number of valuable contributors have helped to fund its further distribution.
 
