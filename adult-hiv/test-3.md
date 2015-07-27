@@ -14,13 +14,13 @@ Please choose the one, most correct answer to each question or statement.
 	-	When the patient becomes seriously ill with tuberculosis
 	-	When the patient is terminally ill
 2.	At what stage of the HIV infection is antiretroviral treatment indicated?
-	-	Stage 0
-	-	Stage 1
-	-	Stage 2
-	+	Stage 3 or 4
+	-	Stage 2, 3 and 4
+	-	Stage 1 only
+	-	Stage 2 only
+	+	Stage 3 or 4 only
 3.	Antiretroviral treatment is indicated when the CD4 count falls below:
-	-	500 cells/µl
-	+	350 cells/µl
+	-	350 cells/µl
+	+	500 cells/µl
 	-	100 cells/µl
 	-	50 cells/µl
 4.	Should psychosocial factors be considered when deciding whether to start antiretroviral treatment?
@@ -95,7 +95,7 @@ Please choose the one, most correct answer to each question or statement.
 	-	They are HIV negative.
 18.	What should  be done at the second clinic visit?
 	-	The HIV screening test should be repeated.
-	-	Patients should immediately be started  on ART.
+	-	Patients should have a CD4 count done.
 	-	All patients should have a chest X-ray.
 	+	Blood results should be checked and tests repeated if necessary.
 19.	What is a common cause for postponing the start of antiretroviral treatment?
