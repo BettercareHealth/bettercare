@@ -2,6 +2,34 @@
 
 This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books, or see the [live version of this site](http://ls.bettercare.co.za).
 
+*   [Our workflow](#our-workflow)
+*   [Creating a Bettercare chapter in markdown](#creting-a-bettercare-chapter-in-markdown)
+	*   [Before you start](#before-you-start)
+	*   [Process](#process)
+		*   [Useful search-and-replaces](#useful-search-and-replaces)
+	*   [YAML headers](#yaml-headers)
+	*   [Print typography](#print-typography)
+	*   [Images](#images)
+		*   [Images in markdown](#images-in-markdown)
+		*   [Image placement](#image-placement)
+		*   [Creating images](#creating-images)
+			*   [Sizes](#sizes)
+			*   [Resolution](#resolution)
+			*   [Styles](#styles)
+			*   [File sizes](#file-sizes)
+		*   [Cover images](#cover-images)
+	*   [Embedding video](#embedding-video)
+*   [General tips](#general-tips)
+*   [Live online tests](#live-online-tests)
+	*   [Creating tests with](#creating-tests-with-jotformhttpjotformcom) [Jotform](http://jotform.com)
+	*   [Adding tests from Betterquiz](#adding-tests-from-betterquiz)
+*   [Epub output](#epub-output)
+	*   [Add the files](#add-the-files)
+	*   [Search-and-replace](#search-and-replace)
+	*   [Add metadata, semantics and TOC](#add-metadata-semantics-and-toc)
+	*   [Validate](#validate)
+*   [Saving in Word format](#saving-in-word-format)
+
 ## Our workflow
 
 To make Bettercare books, we use the [EBW Book Framework](http://github.com/electricbookworks/book-framework). It's relatively easy for non-technical people to edit, includes great version control, produces books fast (no weeks laying out pages in InDesign), and instantly spits out HTML we can use for the web, ebooks, our apps, and print. By print, we mean high-end books you buy in a store, not just 'save as PDF'.
@@ -23,7 +51,7 @@ We use the [kramdown syntax](http://kramdown.gettalong.org/) for our markdown, b
 
 Publishing with GitHub Pages works for Bettercare because [its content is open-licensed (CC-BY-NC-ND)](http://bettercare.co.za/buy/licensing). 
 
-## Creting a Bettercare chapter in markdown
+## Creating a Bettercare chapter in markdown
 
 This is for Bettercare team members, but may contain useful tips to others working on similar material.
 
@@ -65,6 +93,32 @@ Always remember how important your work is here: these books literally save live
 	If you create an HTML table, make sure it validates as the very strict XHTML 1.1 – this is needed for EPUB2 validation. (E.g. if you have a `<thead>` element you must include a `<tbody>` element.)
 	
 1.	Add markdown/code for the images, and make sure the image files are in the book's `images` folder. See the images section below for detail on this.
+
+#### Adding tables of contents
+
+Contents lists (tables of contents) behave differently in our print and screen versions:
+
+*	In the print versions of our books, the main contents page includes chapter subheadings (`h2` level headings). These are hidden in the screen version.
+*	In the screen version, each chapter begins with a chapter-contents list of its subheadings. This is hidden in the print version.
+
+In the book's main contents list (usually `0-3-contents.md`), add chapter subheadings to the table of contents as indented list items. (Our `screen.css` will hide these on screen, so that the main contents list on screen is easy to scan quickly.) E.g.
+
+~~~
+*	[1. HIV infection](1.html)
+	*   [Introduction to HIV infection](1.html#introduction-to-hiv-infection)
+	*   [The spread of HIV](1.html#the-spread-of-hiv)
+~~~
+
+Then in each chapter, add the list of subheadings after an `## Contents` heading. Be sure to add `{:.non-printing}` to the heading, and `{:.chapter-toc}` to the list to get the right appearance and behaviour:
+
+~~~
+## Contents
+{:.non-printing}
+
+*   [Introduction to HIV infection](1.html#introduction-to-hiv-infection)
+*   [The spread of HIV](1.html#the-spread-of-hiv)
+{:.chapter-toc}
+~~~
 
 #### Useful search-and-replaces
 
