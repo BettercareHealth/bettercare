@@ -534,6 +534,9 @@ ol li blockquote.figure, ul li blockquote.figure {
 .toc ol li li::marker {
 	content: none;
 }
+.chapter-toc {
+	display: none;
+}
 
 /*
  * Tests

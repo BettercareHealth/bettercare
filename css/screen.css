@@ -409,6 +409,7 @@ td ul, td ol {
 /*
  * Table of contents
  */
+
 .toc h1#contents {
 	display: none; /* Takes up too much space on small screens and is redundant after nav bar. */
 }
@@ -421,18 +422,21 @@ td ul, td ol {
 	margin: 0;
 	padding: 0;
 }
-.toc ul {
+.toc ul, ul.chapter-toc {
 	list-style-type: none;
 	margin: 0 0 1em 0;
 	padding: 0;
 }
-.toc li {
+.toc li, .chapter-toc li {
 	margin: 0 0 0.5em 0;
+}
+.toc li ul {
+	display: none;
 }
 .toc li li {
 	margin: 0 0 0 1em;
 }
-.toc a {
+.toc a, .chapter-toc a {
 	clear: both;
 	text-decoration: none;
 	border: 1px solid #f2f2f2;
@@ -445,7 +449,7 @@ td ul, td ol {
 .toc li li a {
 	color: silver;
 }
-.toc a:hover {
+.toc a:hover, .chapter-toc a:hover {
 	background-color: white;
 }
 .toc .prelims a {
