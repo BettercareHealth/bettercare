@@ -6,6 +6,7 @@ This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/)
 *   [Creating a Bettercare chapter in markdown](#creting-a-bettercare-chapter-in-markdown)
 	*   [Before you start](#before-you-start)
 	*   [Process](#process)
+		*	[Adding tables of contents](#adding-tables-of-contents)
 		*   [Useful search-and-replaces](#useful-search-and-replaces)
 	*   [YAML headers](#yaml-headers)
 	*   [Print typography](#print-typography)
@@ -28,6 +29,7 @@ This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/)
 	*   [Search-and-replace](#search-and-replace)
 	*   [Add metadata, semantics and TOC](#add-metadata-semantics-and-toc)
 	*   [Validate](#validate)
+	*	[Convert for Amazon Kindle](#convert-for-amazon-kindle)
 *   [Saving in Word format](#saving-in-word-format)
 
 ## Our workflow
@@ -417,7 +419,8 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 
 *	Open a blank epub in Sigil.
 *	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
-*	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations).
+*	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. 
+*	Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations). You should have a JPG to replace each SVG you remove.
 *	Add `epub.css` to your `Styles` folder.
 
 ### Search-and-replace
@@ -432,14 +435,22 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 *	Remove all scripts from the `<head>` and, at the end of each HTML document, from just before the `</body>` closing tag. We don't need them and Javascript isn't allowed in EPUB2.
 
+*	Remove the Open Graph metadata (because EPUB2 doesn't allow the `property` attribute):
+
+	`(?s).<!--Open Graph metadata -->(.*)<!-- End of Open Graph metadata -->`
+
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
-	`(?s).<div id="nav-bar" class="non-printing">(.*)<!--#nav-bar-->`
+	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
 	
 *	Remove the `footer` div. DotAll Regex:
 
 	`(?s).<div class="non-printing" id="footer">(.*)</div><!--#footer-->`
 	
+*	Remove the Help section:
+
+	`(?s).<div class="non-printing" id="help">(.*)</div><!--#help .non-printing-->`
+
 *	Remove the `live-test` divs. DotAll Regex: 
 
 	`(?s).<div id="live-test" class="live-test non-printing">(.*)</div><!--#live-test .live-test .non-printing-->`
@@ -473,6 +484,15 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 ### Validate
 
 Validate the epub in Sigil and fix any validation errors. Sigil won't catch everything though, so also validate with the [IDPF's online version of EpubCheck](http://validator.idpf.org/).
+
+To avoid having to upload, you can run EpubCheck locally, too. Options:
+
+*	Install [epubcheck](https://github.com/IDPF/epubcheck/wiki/Running) and run it from the command line
+*	Use [pagina EPUB-Checker](http://www.pagina-online.de/produkte/epub-checker/). 
+
+### Convert for Amazon Kindle
+
+Use Calibre to convert EPUB to MOBI for upload to Kindle. While Kindle will convert automatically, by converting yourself you can preview the MOBI file before uploading. Use Calibre's default settings for conversion to Kindle.
 
 ## Saving in Word format
 
