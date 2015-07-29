@@ -10,20 +10,11 @@ body {
 	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
 	font-size: 1em;
 	line-height: 130%;
-	margin: 0;
 }
 
 /* 
  * General typography 
  */
-
-body {
-	-moz-font-feature-settings: "liga=1";
-	-ms-font-feature-settings: "liga";
-	-webkit-font-feature-settings: "liga";
-	-o-font-feature-settings: "liga";
-	font-feature-settings: "liga";
-}
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
@@ -76,12 +67,11 @@ a {
 }
 a.button {
 	display: block;
-	border: 1px solid gainsboro;
+	border: 1px solid #666666;
 	background-color: #ccc;
 	padding: 0.5em;
 	width: 9em;
 	margin: 0;
-	border-radius: 0.2em;
 	text-align: center;
 	text-decoration: none;
 	line-height: 100%;
@@ -99,8 +89,7 @@ blockquote {
 	font-weight: bold;
 	margin: 1em 0;
 	padding: 0.5em 1em 0.5em 1em;
-	border: 1px solid grey;
-	border-radius: 0.2em;
+	border: 1px solid #666666;
 }
 blockquote p {
 	margin: 0;
@@ -169,7 +158,6 @@ blockquote.figure {
 	font-weight: inherit;
 	color: #666;
 	border: 1px solid #666;
-	border-radius: 0.25em;
 	margin: 1em 0;
 	padding: 0.5em;
 }
@@ -183,18 +171,8 @@ blockquote.figure {
 	padding: 0.5em 0 1em 0;
 	margin: 0 auto;
 	max-width: 100%; 
-	object-fit: scale-down;
 }
-@media screen and (max-height: 800px) {
-	blockquote.figure p img {
-		max-height: 400px;
-		}
-}
-@media screen and (max-height: 500px) {
-	blockquote.figure p img {
-		max-height: 200px;
-		}
-}.figure p:nth-child(2) {
+.figure p:nth-child(2) {
 	padding: 0.5em 0 0 0;
 	border-top: 1px dashed #ccc;
 	text-align: left;
@@ -203,11 +181,6 @@ blockquote.figure {
 .figure.small p img {}
 .figure.large p img {
 	max-height:inherit;
-}
-@media screen and (min-width: 600px) {
-	.figure.large p img {
-		max-height: 600px;
-	}
 }
 
 /*
@@ -343,7 +316,6 @@ img.thumbnail {
 	display: none;
 	border: 1px solid #f2f2f2;
 	padding: 0.1em 0.3em;
-	border-radius: 0.2em;
 	margin: 0 0 0 0.5em;
 }
 
