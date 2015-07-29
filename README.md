@@ -73,7 +73,7 @@ This is for Bettercare team members, but may contain useful tips to others worki
 Always remember how important your work is here: these books literally save lives. And mistakes in them could have real consequences, even if they only mean a nurse doesn't learn something important when she should have. So be meticulous. If you're converting or updating a book, this is also an opportunity to look out for errors and glitches in the previous edition.
 
 1.	Open your source, e.g. Word or InDesign file, and copy all the text. Then paste the text with formatting into your text editor. 
-1.	Do as much prep as possible using search-and-replace. (Note: the suggested search-and-replaces here were tested in Notepad++, and may work differently in other editors. ) As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'.
+1.	Do as much prep as possible using search-and-replace. (Note: the suggested search-and-replaces here were tested in Notepad++, and may work differently in other editors.) As with all S&Rs, it's best not to use 'Replace all' unless you're 100 per cent sure your search won't match things you don't intend it to. Always run an S&R manually through whole documents a few times before using 'Replace all'.
 1.	Mark all headings with hashes (#) according to their heading level. Using S&R, start with the h3 (article) heads, so that you can then navigate the doc easily by those numbers.
 	*	chapter title is h1 = `#`
 	*	subunit head is h2 = `##`
