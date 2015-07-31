@@ -10,7 +10,7 @@ Well Women
 Addressing the everyday health needs of women
 {:.titlepage-subtitle}
 
-Written by Dave Woods and Silke Dyer
+Written by Dave Woods and Silke&nbsp;Dyer
 {:.titlepage-author}
 
 ![Bettercare logo][logo]{:.titlepage-logo}
