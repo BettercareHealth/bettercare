@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: HIV infection
 
-Please choose the one, most correct answer to each question or statement.
-
 1.	HIV is a:
 	-	Fungus
 	-	Spirochaete
@@ -18,7 +16,7 @@ Please choose the one, most correct answer to each question or statement.
 	+	It damages the immune system.
 	-	It damages the liver.
 	-	It lowers the level of antibodies.
-3. How is HIV usually transmitted from person to person?
+3.	How is HIV usually transmitted from person to person?
 	+	By sexual intercourse
 	-	By droplet spread (coughing and sneezing)
 	-	By insect bites

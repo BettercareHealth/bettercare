@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Hand hygiene
 
-Please choose the ONE most correct answer to each question:
-
 1.	Which is the most common mode of infection transmission in healthcare settings?
 	+	Via hands
 	-	Coughing and sneezing

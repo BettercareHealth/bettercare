@@ -6,8 +6,6 @@ layout: test
 
 # Test 6: HIV-associated infections
 
-Please choose the one, most correct answer to each question or statement.
-
 1.	Which is a common HIV-associated infection?
 	-	Chicken pox
 	+	Tuberculosis

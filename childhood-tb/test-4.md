@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Management of childhood tuberculosis
 
-Please choose the ONE most correct answer to each question:
-
 1.	Children with uncomplicated tuberculosis should be:
 	-	Admitted to hospital for the intensive phase of treatment
 	-	Admitted to hospital for bed rest during the first month of treatment

@@ -6,8 +6,6 @@ layout: test
 
 # Test 14: Family planning after pregnancy
 
-Please choose the one most correct answer to each question or statement.
-
 1.	The most important aim of family planning is to:
 	-	Save money
 	+	Improve the quality of life for everyone

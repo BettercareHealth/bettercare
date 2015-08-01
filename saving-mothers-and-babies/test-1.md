@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Introduction to maternal and perinatal mortality
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is the meaning of mortality rate?
 	-	The commonest causes of death.
 	-	The total number of people who die each year.

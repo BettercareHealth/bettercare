@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Care of low-birth-weight infants
 
-Please choose the ONE most correct answer to each question:
-
 1.	Low-birth-weight infants weigh:
 	-	Less than 3000 g
 	+	Less than 2500 g

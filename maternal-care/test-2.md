@@ -6,8 +6,6 @@ layout: test
 
 # Test 2: Assessment of fetal growth and condition during pregnancy
 
-Please choose the one most correct answer to each question or statement.
-
 1.	Which of the following statements about intra-uterine growth restriction is correct?
 	-	The cause of severe intra-uterine growth restriction is usually unknown.
 	+	Both maternal and fetal factors may cause intra-uterine growth restriction.
@@ -78,7 +76,7 @@ Please choose the one most correct answer to each question or statement.
 	-	All pregnant patients should routinely have antenatal fetal heart rate monitoring.
 	-	Antenatal fetal heart rate monitoring should be done on all patients with suspected intra-uterine growth restriction.
 	+	Antenatal fetal heart rate monitoring should be done on high-risk patients where fetal movements have not been shown to be a reliable method of assessing the fetal condition, such as insulin-dependent diabetics, prelabour rupture of the membranes and pre-eclampsia which is being managed conservatively.
-15. (*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*) If there is a non-reactive fetal heart rate pattern: 
+15.	(*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*) If there is a non-reactive fetal heart rate pattern: 
 	-	No decelerations occur despite uterine contractions.
 	-	Fetal distress should be suspected and intra-uterine resuscitation must be undertaken.
 	-	The test must be repeated after 45 minutes.

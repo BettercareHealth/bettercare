@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Diagnosis of childhood tuberculosis
 
-Please choose the ONE most correct answer to each question:
-
 1.	The clinical diagnosis of tuberculosis in children:
 	-	Is usually easy to confirm
 	-	Can be confirmed with a few special investigations

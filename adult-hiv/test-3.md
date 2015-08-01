@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Preparation for antiretroviral treatment
 
-Please choose the one, most correct answer to each question or statement.
-
 1.	When should antiretroviral treatment start?
 	-	When HIV infection is first diagnosed
 	+	When either the clinical signs or CD4 count suggest that the immune function is failing

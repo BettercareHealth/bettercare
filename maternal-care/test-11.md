@@ -6,8 +6,6 @@ layout: test
 
 # Test 11: The third stage of labour
 
-Please choose the one most correct answer to each question and statement.
-
 1.	The third stage of labour starts when:
 	-	The cervix is fully dilated
 	-	The anterior shoulder of the infant is delivered

@@ -5,8 +5,6 @@ layout: test
 ---
 
 # Test 4: How to help mothers with mental health problems
-
-Please choose the ONE most correct answer to each question:
  
 1.	Why is the time around pregnancy particularly stressful?
 	-	It is a natural thing so it is not stressful
@@ -23,7 +21,7 @@ Please choose the ONE most correct answer to each question:
 	-	Eat during labour, walk during labour, no shaving, and no enemas
 	-	Avoid unproven practices, unproven procedures, unnecessary costs, and making mistakes
 	+	Humanity, benefit, commitment, and action
-4. Which of the following factors influence emotion?
+4.	Which of the following factors influence emotion?
 	-	Whether a woman has children or not
 	-	A woman’s level of school education
 	-	The day of the week

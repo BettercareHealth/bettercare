@@ -6,8 +6,6 @@ layout: test
 
 # Test 5: Diarrhoea
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	Diarrhoea is diagnosed when:
 	-	Stools are passed every day.
 	+	At least three loose and watery stools are passed in a day.

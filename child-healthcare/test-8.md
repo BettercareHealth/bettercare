@@ -6,8 +6,6 @@ layout: test
 
 # Test 8: Tuberculosis
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	How is tuberculosis commonly spread to children?
 	-	By urine or stool contaminated drinking water.
 	+	By droplet spread caused by coughing, sneezing and talking.

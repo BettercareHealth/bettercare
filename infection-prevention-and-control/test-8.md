@@ -6,8 +6,6 @@ layout: test
 
 # Test 8: Tuberculosis infection prevention and control
 
-Please choose the ONE most correct answer to each question:
-
 1.	Tuberculosis is caused by the bacteria Mycobacterium tuberculosis which is transmitted by:
 	+	Airborne route
 	-	Droplet route

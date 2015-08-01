@@ -6,8 +6,6 @@ layout: test
 
 # Test 5: Preventing childhood tuberculosis
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is BCG?
 	-	A vaccine made from dead TB bacilli
 	+	A vaccine made from live, weakened TB bacilli

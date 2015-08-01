@@ -6,8 +6,6 @@ layout: test
 
 # Test 2: Family planning and infertility
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is family planning?
 	-	Having a planned pregnancy
 	-	Using contraception to prevent an unplanned pregnancy

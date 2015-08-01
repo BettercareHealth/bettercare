@@ -6,8 +6,6 @@ layout: test
 
 # Test 5: Management of important problems
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is the definition of jaundice?
 	-	An increase in the concentration of bilirubin in the serum
 	+	The yellow discolouration of the skin due to deposits of bilirubin

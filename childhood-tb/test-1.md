@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Introduction to childhood tuberculosis
 
-Please choose the ONE most correct answer to each question:
-
 1.	Tuberculosis is:
 	-	An acute infection
 	+	A chronic infection

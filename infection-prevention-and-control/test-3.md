@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Risk assessment and risk management in IPC 
 
-Please choose the ONE most correct answer to each question:
-
 1.	Risk assessment:
 	-	Is not required in the healthcare environment
 	+	Is a process that identifies, evaluates and controls hazards in healthcare

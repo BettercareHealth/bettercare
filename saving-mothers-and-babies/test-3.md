@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Perinatal mortality
 
-Please choose the ONE most correct answer to each question:
-
 1.	What are perinatal deaths?
 	-	Stillbirths.
 	+	Stillbirths and early neonatal deaths.

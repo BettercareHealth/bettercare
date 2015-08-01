@@ -6,8 +6,6 @@ layout: test
 
 # Test 6: Special social issues in maternal mental health
 
-Please choose the ONE most correct answer to each question:
-
 1.	Poor women are more likely to have mental health problems because:
 	-	They are lazy
 	+	They may suffer from malnutrition

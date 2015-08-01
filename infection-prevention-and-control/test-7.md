@@ -6,8 +6,6 @@ layout: test
 
 # Test 7: Surveillance and outbreak investigation
 
-Please choose the ONE most correct answer to each question:
-
 1.	Surveillance can best be described as:
 	+	A method to track infections in a healthcare facility
 	-	A way to record the numbers of patients attending a primary care clinic

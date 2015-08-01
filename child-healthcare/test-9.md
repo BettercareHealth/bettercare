@@ -6,8 +6,6 @@ layout: test
 
 # Test 9: HIV infection
 
-Please choose the one, most correct answer to each question or statement.
-
 1.	What is AIDS?
 	-	A virus, also known as HIV.
 	-	A disease caused by poverty and malnutrition.

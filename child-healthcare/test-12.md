@@ -6,8 +6,6 @@ layout: test
 
 # Test 12: Skin conditions
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	What is a papule?
 	-	A flat spot.
 	+	A raised spot that can be felt.

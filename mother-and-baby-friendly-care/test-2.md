@@ -6,8 +6,6 @@ layout: test
 
 # Test 2: Mother friendly care during labour, delivery and the puerperium
 
-Please choose the ONE most correct answer to each question:
-
 1.	Can a woman play an active part in her labour and delivery?
 	+	Yes. She should be encouraged to play an active role.
 	-	Only if she is multigravida and has experienced a vaginal delivery before.

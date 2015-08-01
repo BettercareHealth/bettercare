@@ -6,8 +6,6 @@ layout: test
 
 # Test 12: The puerperium
 
-Please choose the one most correct answer to each question or statement.
-
 1.	The puerperium starts:
 	-	When the infant is delivered
 	+	When the placenta is delivered

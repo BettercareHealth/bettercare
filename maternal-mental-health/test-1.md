@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Introduction to maternal mental health
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is mental illness?
 	-	Feeling distressed
 	+	A diagnosable condition

@@ -5,10 +5,8 @@ layout: test
 ---
 
 # Test 5: Special medical issues in maternal mental health
-
-Please choose the ONE most correct answer to each question:
  
-1. 	Which statement about HIV and mental illness is correct?
+1.	Which statement about HIV and mental illness is correct?
 	-	HIV-positive women are usually mentally ill
 	-	Pregnant HIV-positive mothers will have babies that are mentally ill
 	+	Mental illness is more common among HIV-positive women
@@ -23,12 +21,12 @@ Please choose the ONE most correct answer to each question:
 	+	Poorer adherence to HIV management, e.g. PMTCT or ART 
 	-	Mental wellbeing means you won’t get HIV
 	-	Mental illness automatically lowers the CD4 count
-4. 	What is substance misuse?
+4.	What is substance misuse?
 	-	Occasional use of alcohol in a social setting
 	-	Once-off use of illegal drugs
 	+	Harmful use of alcohol or drugs for non-medical purposes
 	-	Use of any drugs for medical purposes
-5. 	How does substance misuse affect mental health?
+5.	How does substance misuse affect mental health?
 	-	Drugs to treat mental illness make one an addict
 	-	Both substance misuse and mental disease are untreatable
 	-	All mentally ill people need illegal substances to cope with reality
@@ -38,7 +36,7 @@ Please choose the ONE most correct answer to each question:
 	-	Being thirsty and wanting to drink
 	+	Agitation or mood swings
 	-	Being responsible and taking care of one’s appearance
-7. 	What is the best approach to finding out if a mother is misusing substances?
+7.	What is the best approach to finding out if a mother is misusing substances?
 	+	Ask if she has used alcohol or drugs in the past
 	-	Be direct and ask her if she is drunk
 	-	Check her bag for alcohol or drugs

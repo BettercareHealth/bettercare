@@ -5,8 +5,6 @@ layout: test
 ---
 
 # Test 3: Making referrals for maternal mental illness
-
-Please choose the ONE most correct answer to each question:
  
 1.	What is a referral?
 	-	Sending a patient to someone else because you find her irritating

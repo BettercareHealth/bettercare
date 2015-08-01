@@ -3,9 +3,8 @@ book: Child Healthcare
 title: Test 1. History and examination
 layout: test
 ---
-# Test 1: History and examination
 
-Please choose the one, most correct, answer to each question or statement. 
+# Test 1: History and examination
 
 1.	What is the first step in the general examination of a child?
 	+	Introduce yourself.

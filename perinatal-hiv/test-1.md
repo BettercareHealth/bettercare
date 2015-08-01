@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Introduction to perinatal HIV
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is HIV?
 	+	A retrovirus
 	-	A herpes virus

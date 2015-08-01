@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Antenatal care
 
-Please choose the one most correct answer to each question or statement.
-
 1.	An extra-uterine pregnancy is suggested by:
 	-	A uterus that is larger than expected for the duration of pregnancy
 	-	Morning sickness and breast tenderness
@@ -28,7 +26,7 @@ Please choose the one most correct answer to each question or statement.
 	+	If the patient has a regular cycle and she was not on contraceptives.
 	-	If the last menstrual period had started earlier and had been shorter than the patient would have expected.
 	-	Patients’ information about their last menstrual period is always wrong.
-5. A cervical smear for cytology must be done during the first antenatal visit as part of the gynaecological examination:
+5.	A cervical smear for cytology must be done during the first antenatal visit as part of the gynaecological examination:
 	-	In all women
 	-	Only if the cervix appears abnormal.
 	+	From all women 30 years or more who have not had a previous smear which had been reported as normal

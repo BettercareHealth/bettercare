@@ -6,8 +6,6 @@ layout: test
 
 # Test 2: Care of normal infants
 
-Please choose the ONE most correct answer to each question:
-
 1.	What type of care is needed by a normal infant?
 	+	Primary care at a level 1 clinic
 	-	Special care if the infant is born in a level 2 hospital

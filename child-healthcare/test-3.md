@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Growth and development
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	What is growth?
 	-	A measurement of size.
 	+	A change in size over time.

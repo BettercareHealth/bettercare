@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Hypertensive disorders of pregnancy
 
-Please choose the one most correct answer to each question or statement.
-
 1.	What is the definition of hypertension in pregnancy?
 	-	A diastolic blood pressure of 80 mm Hg or above and/or a systolic blood pressure of 120 mm Hg or above
 	+	A diastolic blood pressure of 90 mm Hg or above and/or a systolic blood pressure of 140 mm Hg or above
@@ -88,7 +86,7 @@ Please choose the one most correct answer to each question or statement.
 	-	The patient should immediately be rushed to the nearest level 3 hospital for stabilisation.
 	-	The patient should be managed at a level 1 hospital.
 	-	The infant must immediately be delivered by Caesarean section at a level 2 hospital.
-17. What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
+17.	What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
 	-	Alpha-methyldopa (Aldomet)
 	+	Nifedipine (Adalat)
 	-	Diazepam (Valium)

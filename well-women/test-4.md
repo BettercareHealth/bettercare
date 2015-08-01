@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Vaginal bleeding
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is menopause?
 	-	The first menstruation in a young girl
 	-	The first six weeks after the birth of an infant

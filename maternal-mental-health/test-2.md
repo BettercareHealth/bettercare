@@ -6,8 +6,6 @@ layout: test
 
 # Test 2: Identifying maternal mental illness
 
-Please choose the ONE most correct answer to each question:
-
 1.	Why is mental illness often overlooked?
 	-	Mental illness is not important
 	+	Health workers may feel uncomfortable having to address mental illness
@@ -68,7 +66,7 @@ Please choose the ONE most correct answer to each question:
 	-	The screening tool is very sensitive
 	-	The tool has been used in other countries
 	+	The tool has been tested against a diagnostic ‘gold standard’ assessment
-13. The Edinburgh Postnatal Depression Scale (EPDS) is a questionnaire that assesses:
+13.	The Edinburgh Postnatal Depression Scale (EPDS) is a questionnaire that assesses:
 	-	Breastfeeding
 	-	Bonding
 	+	Mood

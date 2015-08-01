@@ -6,8 +6,6 @@ layout: test
 
 # Test 5: Finding solutions to maternal and perinatal mortality
 
-Please choose the ONE most correct answer to each question:
-
 1.	How can solutions best be found for maternal and perinatal deaths?
 	-	Look for answers in textbooks.
 	-	Follow standard protocols of management.

@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Mother friendly care during pregnancy
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is mother friendly care during pregnancy?
 	-	Visits to the antenatal clinic as frequently as possible.
 	-	Making sure that the woman is seen at the antenatal clinic by a doctor at every visit.

@@ -6,8 +6,6 @@ layout: test
 
 # Test 5: Infection control considerations for healthcare facility design
 
-Please choose the ONE most correct answer to each question:
-
 1.	The most important consideration when designing a new healthcare facility is: 
 	-	The budget available for the project
 	+	The disease profile of the local community

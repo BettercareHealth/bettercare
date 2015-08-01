@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Antiretroviral drugs
 
-Please choose the one, most correct answer to each question or statement.
-
 1.	Which is one of the main current goals of antiretroviral treatment?
 	+	To suppress the viral load
 	-	To cure HIV infection

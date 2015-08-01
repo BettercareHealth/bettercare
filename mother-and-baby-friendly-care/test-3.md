@@ -6,8 +6,6 @@ layout: test
 
 # Test 3: Principles of kangaroo mother care
 
-Please choose the ONE most correct answer to each question:
-
 1.	What is kangaroo mother care?
 	-	A new Australian method of caring for infants.
 	+	A method of caring for infant which uses skin-to-skin contact.

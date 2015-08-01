@@ -6,8 +6,6 @@ layout: test
 
 # Test 13: Medical problems during pregnancy and the puerperium
 
-Please choose the one most correct answer to each question or statement.
-
 1.	A patient with cystitis usually complains of:
 	-	Headache
 	-	Fever and rigors

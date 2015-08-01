@@ -6,8 +6,6 @@ layout: test
 
 # Test 1: Role and structure of infection prevention and control programmes
 
-Please choose the ONE most correct answer to each question:
-
 1.	Infection prevention and control:
 	-	Aims to prevent infection transmission in the community only
 	+	Is the duty of care of every healthcare worker

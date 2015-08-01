@@ -6,8 +6,6 @@ layout: test
 
 # Test 13: Serious illnesses
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	Acute rheumatic fever usually follows:
 	+	Pharyngitis.
 	-	Otitis media.

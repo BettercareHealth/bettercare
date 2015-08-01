@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Nutrition
 
-Please choose the one, most correct, answer to each question or statement.
-
 1.	What is a child’s nutrition?
 	+	The child’s diet.
 	-	The child’s physical and mental development.
