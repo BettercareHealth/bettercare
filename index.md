@@ -54,7 +54,6 @@ layout: index
 	<div class="index-coming-soon">
 		<h1>Coming soon</h1>
 	</div><!--.index-coming-soon-->
--->
 	
 </div><!--#chooser-->
 
