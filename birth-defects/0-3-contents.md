@@ -17,10 +17,10 @@ layout: toc
 *	[5. Fetal alcohol syndrome](5.html)
 *	[6. Neural tube defects](6.html)
 
-*	[Photographs of birth defects](z-photographs.html)
-*	[Addendum A: Clinical features, diagnosis, treatment, genetic counselling&nbsp;and prevention of common birth defects](7.html)
-*	[Addendum B: Social grants available in South Africa for people with&nbsp;disability](8.html)
-*	[Addendum C: Down syndrome association contact details in South&nbsp;Africa](9.html)
+*	{:.auxiliary}[Photographs of birth defects](z-photographs.html)
+*	{:.auxiliary}[Addendum A: Clinical features, diagnosis, treatment, genetic counselling&nbsp;and prevention of common birth defects](7.html)
+*	{:.auxiliary}[Addendum B: Social grants available in South Africa for people with&nbsp;disability](8.html)
+*	{:.auxiliary}[Addendum C: Down syndrome association contact details in South&nbsp;Africa](9.html)
 
 ## Tests
 

@@ -21,14 +21,14 @@ layout: toc
 *	[7. Side effects of breast cancer treatment](7.html)
 *	[8. Palliative care](8.html)
 
-*	[Epilogue](9-epilogue.html)
-*	[Support groups in South Africa](10-support-groups.html)
-*	[Other organisations](11-organisations.html)
-*	[Useful websites](12-websites.html)
-*	[Organisations active by region](13-organisations-by-region.html)
-*	[Recipes and diets](14-recipes-and-diets.html)
-*	[Examination form](15-examination-form.html)
-*	[Investigations](16-investigations.html)
+*	{:.auxiliary}[Epilogue](9-epilogue.html)
+*	{:.auxiliary}[Support groups in South Africa](10-support-groups.html)
+*	{:.auxiliary}[Other organisations](11-organisations.html)
+*	{:.auxiliary}[Useful websites](12-websites.html)
+*	{:.auxiliary}[Organisations active by region](13-organisations-by-region.html)
+*	{:.auxiliary}[Recipes and diets](14-recipes-and-diets.html)
+*	{:.auxiliary}[Examination form](15-examination-form.html)
+*	{:.auxiliary}[Investigations](16-investigations.html)
 
 ## Tests
 

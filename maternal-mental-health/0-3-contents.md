@@ -17,8 +17,8 @@ layout: toc
 *	[5. Special medical issues in maternal mental health](5.html)
 *	[6. Special social issues in maternal mental health](6.html)
 
-*	[Resources](7-resources.html)
-*	[References](8-references.html)
+*	{:.auxiliary}[Resources](7-resources.html)
+*	{:.auxiliary}[References](8-references.html)
 
 ## Tests
 

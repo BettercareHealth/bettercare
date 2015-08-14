@@ -66,7 +66,7 @@ layout: toc
     *   [Infections of the central nervous system](6.html#infections-of-the-central-nervous-system)
     *   [Tuberculosis co-infection](6.html#tuberculosis-co-infection)
     *   [Case studies](6.html#case-study-1)
-*	[6a. Skills: Screening tests for HIV](6a.html)
+*	{:.auxiliary}[6a. Skills: Screening tests for HIV](6a.html)
 	*   [Equipment needed to perform an HIV rapid test](6a.html#a-equipment-needed-to-perform-an-hiv-rapid-test)
 	*   [The method of performing the HIV rapid test](6a.html#b-the-method-of-performing-the-hiv-rapid-test)
 	*   [Reading the results of the HIV rapid test](6a.html#c-reading-the-results-of-the-hiv-rapid-test)

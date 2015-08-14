@@ -446,8 +446,11 @@ td ul, td ol {
 	border-radius: 0.2em;
 	background-color: #f9f9f9;
 }
+.toc .auxiliary a {
+    color: #b2b2b2;
+}
 .toc li li a {
-	color: silver;
+	color: #b2b2b2;
 }
 .toc a:hover, .chapter-toc a:hover {
 	background-color: white;
@@ -458,7 +461,7 @@ td ul, td ol {
 	float: left;
 	clear: none;
 	margin-right: 0.5em;
-	color: silver;
+	color: #b2b2b2;
 }
 .toc .prelims a:hover {
 	background-color: #f9f9f9;

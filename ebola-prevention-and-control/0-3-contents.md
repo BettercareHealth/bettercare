@@ -18,7 +18,7 @@ layout: toc
 *	[4. Support services and documentation](4.html)
 *	[5. Communication and community engagement](5.html)
 
-*	[Resources](6.html)
+*	{:.auxiliary}[Resources](6.html)
 
 ## Tests
 

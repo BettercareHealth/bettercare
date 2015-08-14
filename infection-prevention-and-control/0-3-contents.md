@@ -23,7 +23,7 @@ layout: toc
 *	[8. Tuberculosis infection prevention and control](8.html)
 *	[9. Antimicrobial stewardship](9.html)
 
-*	[Addendum: Resources for infection prevention and control](10-resources.html)
+*	{:.auxiliary}[Addendum: Resources for infection prevention and control](10-resources.html)
 
 ## Tests
 

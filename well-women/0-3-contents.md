@@ -45,7 +45,7 @@ layout: toc
     *   [Counselling women with sexually transmitted infections](3.html#counselling-women-with-sexually-transmitted-infections)
     *   [Acute urinary tract infections](3.html#acute-urinary-tract-infections)
     *   [Case studies](3.html#case-study-1)
-*	[3A. Skills: How to conduct a gynaecological history and examination](3A.html)
+*	{:.auxiliary}[3A. Skills: How to conduct a gynaecological history and examination](3A.html)
     *   [Objectives](3A.html#objectives)
     *   [Taking a gynaecological history](3A.html#taking-a-gynaecological-history)
     *   [General examination of the patient](3A.html#general-examination-of-the-patient)
