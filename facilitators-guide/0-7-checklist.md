@@ -7,6 +7,16 @@ published: true
 
 # Checklists
 
+## Contents
+{:.non-printing}
+
+*   [Before the first group meeting](#before-the-first-group-meeting)
+*   [At the first group meeting](#at-the-first-group-meeting)
+*   [Before every group meeting](#before-every-group-meeting)
+*   [At group meetings](#at-group-meetings)
+*   [After completing the chapters](#after-completing-the-chapters)
+{:.chapter-toc}
+
 ## Before the first group meeting
 
 ☐&emsp;Identify  needs for training at your institution.  
