@@ -122,6 +122,37 @@ Then in each chapter, add the list of subheadings after an `## Contents` heading
 {:.chapter-toc}
 ~~~
 
+Finally, certain items in the book's main table of contents need to be in special classes. The list of prelims needs to be in the `.prelims` class:
+
+~~~
+*	[Acknowledgements](0-4-acknowledgements.html)
+*	[Introduction](0-5-introduction.html)
+{:.prelims}
+~~~
+
+Then any chapter that does not include a chapter test (like skills chapters, resources chapters, photos sections and addendums) needs to be in the `.auxiliary` class. To put a specific list item in a class, add the kramdown attribute tag at the start of the list item:
+
+~~~
+*	{:.auxiliary}[6a. Skills: Screening tests for HIV](6a.html)
+~~~
+
+**Tip:** to create contents lists quickly:
+
+*	Paste the markdown of an entire chapter into [this online kramdown converter](http://kramdown.herokuapp.com/).
+*	Use kramdown's `{:toc}` function to create a list, by adding this to the top of the markdown:
+
+	~~~
+	* foo
+	{:toc}
+	~~~
+	
+*	When the contents list appears as HTML in the converter, right-click it and 'Inspect element'.
+*	Find the starting `ul` tag, right-click, and 'Edit as HTML`.
+*	Copy the entire HTML list.
+*	Paste the HTML list into [this HTML-to-markdown converter](https://domchristie.github.io/to-markdown/).
+*	Copy the converted markdown list, and paste it into a text editor.
+*	Delete everything you don't need, un-indent, and paste into the appropriate place in your main contents list and chapters.
+
 #### Useful search-and-replaces
 
 1.	To search and replace (S&R) all line breaks with double line breaks:
@@ -537,3 +568,4 @@ Notes
 :	1.	The save-as process adds a couple of new comments at the top of the file. You can ignore them.
 	2.	Pandoc would be great, but it doesn't support some key table features, so tables convert to normal text.
 	3.	It would be great to import/load styles rather than change styles manually in every file. But we have not been able to get LibreOffice to load styles from another document in this context.
+
