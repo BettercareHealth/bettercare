@@ -6,6 +6,17 @@ layout: chapter
 
 # Epilogue
 
+## Contents
+{:.non-printing}
+
+*   [What does holism mean?](#what-does-holism-mean)
+*   [Alternative healers](#alternative-healers)
+*   [Community groups and networking](#community-groups-and-networking)
+*   [Education](#education)
+*   [Support](#support)
+*   [Advocacy](#advocacy)
+{:.chapter-toc}
+
 This book has taken the subject of breast cancer and broken it down into to little fragments of information. At the centre of all this is a person with their ideals, spiritual beliefs, opinions and fears. They are part of a family and community. Their care has to take that into account.
 
 The needs of male patients are similar and different to those of women. As most patients with breast problems are women, the chapter will continue to refer to female patients.

@@ -6,6 +6,16 @@ layout: chapter
 
 # Recipes and diets
 
+## Contents
+{:.non-printing}
+
+*   [Home-made oral rehydration fluid to manage diarrhoea](#home-made-oral-rehydration-fluid-to-manage-diarrhoea)
+*   [Carrot soup for patients with diarrhoea](#carrot-soup-for-patients-with-diarrhoea)
+*   [The BRATT diet](#the-bratt-diet)
+*   [The ABC diet](#the-abc-diet)
+*   [Sour water for digestive problems](#sour-water-for-digestive-problems)
+{:.chapter-toc}
+
 ## Home-made oral rehydration fluid to manage diarrhoea
 
 Take 1 litre clean, safe water.

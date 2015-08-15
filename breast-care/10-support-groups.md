@@ -6,6 +6,28 @@ layout: chapter
 
 # Support groups in South Africa
 
+## Contents
+{:.non-printing}
+
+*   [Adopt A Pink Piggy (APP)](#adopt-a-pink-piggy-app)
+*   [amaBele Belles](#amabele-belles)
+*   [Breast Cancer Survivor](#breast-cancer-survivor)
+*   [BreastSens (BS)](#breastsens-bs)
+*   [Breast Health Foundation (BHF)](#breast-health-foundation-bhf)
+*   [Bosom Buddies (BB)](#bosom-buddies-bb)
+*   [Campaign for Cancer (C4C)](#campaign-for-cancer-c4c)
+*   [The Cancer Association of South Africa (CANSA)](#the-cancer-association-of-south-africa-cansa)
+*   [HPCA Hospice Palliative Care Association](#hpca-hospice-palliative-care-association)
+*   [Journey of Hope (JoH)](#journey-of-hope-joh)
+*   [Look Good, Feel better (LGFB)](#look-good-feel-better-lgfb)
+*   [People Living With Cancer (PLWC)](#people-living-with-cancer-plwc)
+*   [Pink Drive (PD)](#pink-drive-pd)
+*   [Pink Trees for Pauline (PTP)](#pink-trees-for-pauline-ptp)
+*   [Reach for Recovery (RFR)](#reach-for-recovery-rfr)
+*   [Sinomusanothando – Community Development (SCD)](#sinomusanothando--community-development-scd)
+*   [Wings of Hope (WoH)](#wings-of-hope-woh)
+{:.chapter-toc}
+
 ## Adopt A Pink Piggy (APP)
 
 Contact: A website-based contact form is used.

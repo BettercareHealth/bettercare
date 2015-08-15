@@ -6,6 +6,14 @@ layout: chapter
 
 # Useful websites
 
+## Contents
+{:.non-printing}
+
+*   [Blogs](#blogs)
+*   [Information](#information)
+*   [Pictures](#pictures)
+{:.chapter-toc}
+
 ## Blogs
 
 ### Babies or Not
