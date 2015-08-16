@@ -6,6 +6,13 @@ layout: chapter
 
 # Appendix
 
+## Contents
+{:.non-printing}
+
+*   [Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium](#guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium)
+*   [BMI table](#bmi-table)
+{:.chapter-toc}
+
 ## Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium
 
 The following tables list most of the risk factors and medical problems which may occur during pregnancy, labour and the puerperium. They also give the possible adverse effects of these conditions, indicate the actions needed, and suggest the level of care required. The tables should be read but need not be learned. These tables provide a very useful reference for both midwives and doctors who are caring for a patients with risk factors.
