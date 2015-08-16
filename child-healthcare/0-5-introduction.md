@@ -6,6 +6,18 @@ layout: chapter
 
 # Introduction
 
+## Contents
+{:.non-printing}
+
+*   [About the Bettercare series](#about-the-bettercare-series)
+*   [Why decentralised learning?](#why-decentralised-learning)
+*   [Books in the Bettercare series](#books-in-the-bettercare-series)
+*   [Format of the courses](#format-of-the-courses)
+*   [Contributors](#contributors)
+*   [Updating the course material](#updating-the-course-material)
+*   [Contact information](#contact-information)
+{:.chapter-toc}
+
 ## About the Bettercare series
 
 Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project, the Academic Unit for Infection Prevention and Control at Stellenbosch University, and the Infection Control Africa Network, with contributions from numerous experts.
