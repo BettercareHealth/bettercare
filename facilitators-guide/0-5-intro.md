@@ -7,6 +7,15 @@ published: true
 
 # Introduction
 
+## Contents
+{:.non-printing}
+
+*   [About the Bettercare series](#about-the-bettercare-series)
+*   [Why decentralised learning?](#why-decentralised-learning)
+*   [Contributors](#contributors)
+*   [Updating the course material](#updating-the-course-material)
+{:.chapter-toc}
+
 ## About the Bettercare series
 
 Bettercare creates learning programmes for healthcare professionals. A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, our learning programmes make your job simpler and easier.

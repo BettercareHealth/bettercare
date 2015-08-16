@@ -10,6 +10,10 @@ published: true
 *	[Copyright](0-2-copyright.html){:.non-printing}
 *	[Acknowledgements](0-4-acknowledgements.html)
 *	[Introduction](0-5-intro.html)
+    *   [About the Bettercare series](0-5-intro.html#about-the-bettercare-series)
+    *   [Why decentralised learning?](0-5-intro.html#why-decentralised-learning)
+    *   [Contributors](0-5-intro.html#contributors)
+    *   [Updating the course material](0-5-intro.html#updating-the-course-material)
 {:.prelims}
 
 *	[Dear Facilitator](0-6-dear-facilitator.html)
