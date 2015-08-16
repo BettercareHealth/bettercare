@@ -1,9 +1,15 @@
-# ----------------------------------------------------------------------
-# | Content Security Policy (CSP)                                      |
-# ----------------------------------------------------------------------
+# Content Security Policy (CSP)
 
 <IfModule mod_headers.c>
+ Header set Content-Security-Policy-Report-Only "report-uri //ls.bettercare.co.za/admin/csp-report-to-email.php; default-src 'self' ; font-src 'self' data: ; frame-ancestors 'none' bettercare.co.za/ ; frame-src form.myjotform.com submit.myjotform.com quizform.jotform.io https://www.youtube.com ; img-src 'self' www.google-analytics.com ; script-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline' ; reflected-xss filter; "
+</IfModule>
 
-    Header set Content-Security-Policy-Report-Only "report-uri //ls.bettercare.co.za/admin/csp-report-to-email.php; default-src 'self' ; font-src 'self' data: ; frame-ancestors 'none' bettercare.co.za/ ; frame-src form.myjotform.com submit.myjotform.com quizform.jotform.io https://www.youtube.com ; img-src 'self' www.google-analytics.com ; script-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline' ; reflected-xss filter; "
+# Maintenance-page redirect
 
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{REMOTE_ADDR} !^123\.456\.789\.000
+ RewriteCond %{REQUEST_URI} !/maintenance.html$ [NC]
+ RewriteCond %{REQUEST_URI} !\.(jpe?g?|png|gif|css) [NC]
+ RewriteRule .* /maintenance.html [R=302,L]
 </IfModule>
