@@ -56,7 +56,7 @@ layout: toc
     *   [Objectives](1E.html#objectives)
     *   [HIV screening](1E.html#hiv-screening)
 *	[2. Assessment of fetal growth and condition during pregnancy](2.html)
-    *   [Objectives](2.htmlobjectives)
+    *   [Objectives](2.html#objectives)
     *   [Introduction](2.html#introduction)
     *   [Fetal growth](2.html#fetal-growth)
     *   [Fetal movements](2.html#fetal-movements)
