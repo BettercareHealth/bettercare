@@ -13,16 +13,16 @@ This section provides copies of the screening tools discussed in this book, info
 
 ## Contents
 
-1.	[Screening tools](#screening-tools)
-2.	[Termination of pregnancy (TOP) services](#termination-of-pregnancy-top-services)
-3.	[Adoption services](#adoption-services)
-4.	[Maintenance Orders](#maintenance-orders)
-5.	[Child Support Grants](#child-support-grants)
-6.	[Protection Orders](#protection-orders)
-7.	[How to make a referral](#how-to-make-a-referral)
-8.	[South African national helplines](#south-african-national-helplines)
-9.	[South African organisations for training in counselling](#south-african-organisations-for-training-in-counselling)
-{:.page-ref-list}
+*   [1\. Screening tools](#screening-tools)
+*   [2\. Termination of pregnancy (TOP) services](#termination-of-pregnancy-top-services)
+*   [3\. Adoption services](#adoption-services)
+*   [4\. Maintenance Orders](#maintenance-orders)
+*   [5\. Child Support Grants](#child-support-grants)
+*   [6\. Protection Orders](#protection-orders)
+*   [7\. How to make a referral](#how-to-make-a-referral)
+*   [8\. South African national helplines](#south-african-national-helplines)
+*   [9\. South African organisations for training in counselling](#south-african-organisations-for-training-in-counselling)
+{:.chapter-toc .page-ref-list}
 
 ## 1. Screening tools
 
