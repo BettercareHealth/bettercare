@@ -348,7 +348,7 @@ If you're creating images from InDesign originals using Illustrator, a suggested
 
 *	If the image was created in InDesign (e.g. a flowchart made of InDesign frames): open in InDesign, group the frames that make up the image, copy, and paste into a new Illustrator file. Adjust Illustrator file artboards as necessary, then save as SVG.
 *	If the image was created in Photoshop or other raster format: open the original, copy into Illustrator. Live trace the image. I mostly used the 'Detailed Illustration' preset. Save as SVG.
-*	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills workshops images, that might be 1E-B.svg for workshop 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
+*	For filenaming, use the convention 1-2.svg, as in chapter-figure.svg. For skills-chapter images, that might be 1E-B.svg for chapter 1E, figure B. All the images go in an images folder inside the folder with the markdown files.
 *	If you save SVG from Adobe Illustrator (and possibly other creators, too), choose to convert type to outlines. Currently, PrinceXML does not support fonts in type in SVG reliably.
 *	To save a little more on file size, also convert all strokes to fills.
 
@@ -404,7 +404,7 @@ Also, add the video section to the table of contents. The link should be nested 
 
 * You may get different results between a local Jekyll install and GitHub Pages, even if both are using kramdown. Always check (at least spot check) both places.
 * In lists, kramdown lets you use a space or a tab between the list marker (e.g. `*` or `1.` etc.) and the list test. *Use a tab,* if only to solve the following issue: When nesting blockquotes in lists: use a tab between the list marker and the start of the list text, and the same tab at the start of the blockquote line. That is, the indentation (the tab) must be exactly the same for the blockquote to nest correctly in the list. (My local Jekyll correctly parses nested lists even if I use a space after the list marker and a tab before the blockquote `>`. But GitHub Pages is much stricter and requires exactly the same indentation.) E.g. see Newborn Care 12-5.
-* To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills workshops are then `1A.md`, `1B.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
+* To keep file naming perfectly alphabetical, chapter file names are in the form `1.md`, `2.md`, and so on, and skills chapter are then `1a.md`, `1b.md`, etc. No other words, e.g. titles, in the file names, because those would mess up alphabetisation. We need alphabetical order mainly to keep PrinceXML PDF-making simple for ourselves.
 * Remember you're not in a word-processor any more: but you still need spell check! Make sure you have and know how to use a good spell checker in your text editor. (I use the DSpellCheck plugin in Notepad++.)
 
 ## Live online tests
