@@ -10,6 +10,13 @@ layout: toc
 *	[Preface](0-5-preface.html)
 *	[Acknowledgements](0-6-acknowledgements.html)
 *	[Introduction](0-7-introduction.html)
+	*   [About the Bettercare series](0-7-introduction.html#about-the-bettercare-series)
+	*   [Why decentralised learning?](0-7-introduction.html#why-decentralised-learning)
+	*   [Books in the Bettercare series](0-7-introduction.html#books-in-the-bettercare-series)
+	*   [Format of the courses](0-7-introduction.html#format-of-the-courses)
+	*   [Contributors](0-7-introduction.html#contributors)
+	*   [Updating the course material](0-7-introduction.html#updating-the-course-material)
+	*   [Contact information](0-7-introduction.html#contact-information)
 {:.prelims}
 
 *	[1. The normal breast](1.html)
