@@ -594,7 +594,8 @@ a#help-show {
 .test-result-page {
 	margin: 5em 0 0 0;
 }
-.test-results iframe { /* Only used for Jotform quizzes */
+/* Only used for Jotform quizzes, to be removed
+.test-results iframe { 
 	width: 100%;
 	border: none;
 	border-radius: 0.2em;
@@ -603,7 +604,7 @@ a#help-show {
 	height: 150em;
 	max-width: 95%;
 	background-color: white;
-}
+}*/
 .loading:before {
 	content: "Loading…";
 	text-align: center;
