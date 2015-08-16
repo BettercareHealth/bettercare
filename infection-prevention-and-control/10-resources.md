@@ -6,6 +6,13 @@ layout: chapter
 
 # Addendum: Resources for infection prevention and control
 
+## Contents
+{:.non-printing}
+
+*   [Websites](#websites)
+*   [Guideline and policy documents](#guideline-and-policy-documents)
+{:.chapter-toc}
+
 ## Websites
 
 World Health Organization (WHO): [www.who.int](http://www.who.int)
