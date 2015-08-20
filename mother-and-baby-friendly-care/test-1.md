@@ -51,7 +51,7 @@ layout: test
 	+	It is a very valuable way of educating women about their pregnancy.
 	-	It advertises different formula feeds.
 	-	Women can read about diets to prevent weight gain in pregnancy.
-10.	What is a mother friendly way to book women at an antenatal patient?
+10.	What is a mother-friendly way to book a woman as an antenatal patient?
 	-	Rush them through the booking procedure as fast as possible.
 	-	Be angry with them if they book late in their pregnancy.
 	+	Always call patients by their name.
