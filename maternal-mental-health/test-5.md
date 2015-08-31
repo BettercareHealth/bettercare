@@ -12,7 +12,7 @@ Please choose the ONE most correct answer to each question:
 	-	HIV-positive women are usually mentally ill
 	-	Pregnant HIV-positive mothers will have babies that are mentally ill
 	+	Mental illness is more common among HIV-positive women
-	-	The treatment of HIV-positive women usually makes them mentally ill
+	-	ARV treatment usually makes mothers mentally ill
 2.	What difficulties may HIV-positive mothers face after the birth of their baby?
 	+	Difficulties deciding how best to feed their infant
 	-	Difficulties in getting their partners to feed the infant
@@ -25,14 +25,14 @@ Please choose the ONE most correct answer to each question:
 	-	Mental illness automatically lowers the CD4 count
 4. 	What is substance misuse?
 	-	Occasional use of alcohol in a social setting
-	-	Once-off use of illegal drugs
+	-	Use of illegal drugs on one occasion
 	+	Harmful use of alcohol or drugs for non-medical purposes
 	-	Use of any drugs for medical purposes
 5. 	How does substance misuse affect mental health?
 	-	Drugs to treat mental illness make one an addict
 	-	Both substance misuse and mental disease are untreatable
 	-	All mentally ill people need illegal substances to cope with reality
-	+	Mentally ill people may self-medicate with alcohol or drugs
+	+	Mentally ill people may use alcohol or drugs in an attempt to make themselves feel better
 6.	What signs of substance misuse can be confused with signs of depression?
 	-	Being sociable and wanting to party
 	-	Being thirsty and wanting to drink
@@ -89,11 +89,11 @@ Please choose the ONE most correct answer to each question:
 	-	Women who have had postnatal psychosis will never be mentally healthy
 	-	Women who have had postnatal psychosis will always be out of touch with reality in subsequent pregnancies
 17.	How does losing a baby affect a woman’s mental health?
-	-	It does not as it is a physical problem
+	-	It does not because it is a physical problem only
 	+	She may be in shock and unable to believe what has happened
 	-	Her mental illness may have caused the loss
 	-	Blood loss from a miscarriage affects the functioning of the brain, causing mental illness
-18.	How can a health worker help a woman who has just miscarried?
+18.	How can a health worker help a woman who has just had a miscarriage?
 	-	Clean up quickly so that she can be left alone to grieve
 	-	Explain that it must have been caused by something that she ate or drank
 	+	Explain that as many as a third of pregnancies can miscarry, it is not her fault

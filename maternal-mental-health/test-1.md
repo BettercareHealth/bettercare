@@ -11,19 +11,19 @@ Please choose the ONE most correct answer to each question:
 1.	What is mental illness?
 	-	Feeling distressed
 	+	A diagnosable condition
-	-	Irrational behaviour
+	-	Irritating behaviour
 	-	Stressing other people
 2.	How common is mental illness during and after pregnancy in South Africa?
 	-	Less common than in high-income countries
 	-	All pregnant women suffer from mental illness
-	+	One third of pregnant women living in poverty in South Africa have a mental illness like depression or anxiety
-	-	This is very rare for pregnant women in South Africa
+	+	About one in three pregnant women in South Africa have a mental illness
+	-	It is very rare for pregnant women in South Africa
 3.	Which mental illnesses are known as common mental disorders? 
 	+	Depression and anxiety
 	-	Schizophrenia and post-traumatic stress disorder
 	-	Bipolar affective disorder and obsessive–compulsive disorder
 	-	TB and HIV/AIDS
-4.	How can mental illness affect the baby?
+4.	How can mental illness in the mother affect the baby?
 	-	It is caused by a virus and so crosses the placental barrier
 	-	Babies are likely to develop genetic defects
 	-	Babies are too young to be affected
@@ -53,7 +53,7 @@ Please choose the ONE most correct answer to each question:
 	-	Active sex drive
 	+	Feeling helpless and worthless
 	-	Nail biting
-10.	Which of the following physical symptoms could indicate a mental illness?
+10.	Which of the following physical symptoms may be associated with a mental illness?
 	-	Headaches
 	-	Disturbed sleep
 	+	Both headaches and disturbed sleep
@@ -68,7 +68,7 @@ Please choose the ONE most correct answer to each question:
 	+	Someone has unwanted thoughts that are repeated
 	-	Someone is afraid of strangers
 	-	Someone has low appetite and sleeps little 
-13.	What is the cause of post-traumatic stress disorder? 
+13.	What is the cause of Post-Traumatic Stress Disorder? 
 	-	Being exposed to a virus
 	-	Coming from a foreign country
 	-	An unplanned pregnancy
@@ -84,7 +84,7 @@ Please choose the ONE most correct answer to each question:
 	-	Fear of smoke
 	-	Fear of hospitals 
 16.	Psychosis is suspected when:
-	-	Someone is aggressive
+	-	Someone is rude
 	+	Someone feels out of touch with reality
 	-	Someone feels worthless
 	-	Someone trembles and has a racing heart
@@ -98,13 +98,13 @@ Please choose the ONE most correct answer to each question:
 	-	Drinking or taking drugs because of problems at work
 	-	Having to take drugs because of high blood pressure
 	+	Being dependent on drinking or drugs to get through the day
-19.	Which of the following statements are true?
+19.	Which of the following statements is true?
 	-	Women with mental illnesses cannot get better
 	-	Very few pregnant women in South Africa have mental illnesses
 	-	Postnatal psychosis is the only mental illness women suffer from around childbirth
 	+	Mental illness in the mother can have a negative effect for the child 
 20.	What is co-morbid?
 	-	When both mother and baby die in childbirth
-	-	Two symptoms of the same disease are present
-	+	Two illnesses at the same time
-	-	Either the mother or the baby are ill
+	-	When two symptoms of the same disease are present
+	+	When two illnesses occur at the same time
+	-	When either the mother or the baby are ill
