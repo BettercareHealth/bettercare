@@ -484,11 +484,11 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 *	Remove the `live-test` divs. DotAll Regex: 
 
-	`(?s).<div id="live-test" class="live-test non-printing">(.*)</div><!--#live-test .live-test .non-printing-->`
+	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live-test .non-printing-->`
 	
 *	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, using a *normal* search-and-replace, replace 
 
-	`<p><a id="live-test-show" href="#live-test" class="button non-printing">Open chapter test</a></p>`
+	`<p><a class="button non-printing" href="#live-test" id="live-test-show">Open chapter test</a></p>`
 	
 	with 
 	
