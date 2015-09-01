@@ -71,7 +71,7 @@ layout: test
 	-	Money for food and clothing
 	-	Someone who will listen and tell her what to do
 	+	Someone who will listen and let her express her feelings 
-14.	Why do women default appointments?
+14.	Why might women default on appointments?
 	-	They are lazy
 	-	They don’t want help
 	+	They experience practical and emotional barriers that stop them going to appointments
