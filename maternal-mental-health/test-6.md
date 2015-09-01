@@ -36,7 +36,7 @@ layout: test
 	-	Advise her to make better choices for her future
 	-	Warn her that she is irresponsible: sexually transmitted diseases and lack of contraception are dangerous
 	+	Don’t judge her, show kindness and respect
-7.	In South Africa, what percentage of pregnancies is unintended (unplanned)?
+7.	In South Africa, what percentage of pregnancies are unintended (unplanned)?
 	-	None, all are intended
 	-	6% are unintended
 	-	16% are unintended
@@ -59,8 +59,8 @@ layout: test
 11.	What makes it more likely for refugees to suffer from mental illness?
 	-	Most foreigners are mentally ill
 	-	Refugees are supporting families back home
-	-	Communities welcome foreigners and provide support
-	+	Refugees may have suffered from violence during war
+	-	They are not more at risk because communities usually welcome foreigners and provide support
+	+	Refugees may have suffered from violence during war and might lack a reliable support system
 12.	Which of the following statements about domestic violence is true:
 	-	These are acts of violence committed by a stranger in one’s home
 	-	Domestic violence is rare in South Africa
@@ -70,7 +70,7 @@ layout: test
 	-	Internal perforation – violent
 	-	Indigo, purple, violet – bruise categories
 	-	Independent personal victim
-	+	intimate partner violence
+	+	Intimate-partner violence
 14.	Emotionally abusive behaviour is:
 	-	Your own fault for choosing an abusive partner
 	-	Letting your emotions get in the way of your behaviour

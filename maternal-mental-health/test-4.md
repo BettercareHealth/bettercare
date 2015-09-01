@@ -12,7 +12,7 @@ layout: test
 	+	It is a life transition and adapting to change can be stressful
 	-	A fetus growing inside puts stress on your bones and muscles
 2.	Why is a good relationship between mother and health worker important?
-	-	Mothers will be happier to pay the cost of delivery
+	-	Mothers will be happier to clean up after themselves if they make a mess during delivery
 	-	Mothers are less likely to complain
 	-	It makes it easier to tell a mother that she needs a Caesarean section
 	+	Compassionate care from the health worker can influence the mother emotionally and physically
@@ -27,19 +27,19 @@ layout: test
 	-	The day of the week
 	+	Crime
 5.	Which of the following are positive influences for a mother during pregnancy?
-	-	Unplanned pregnancy
+	-	An unplanned pregnancy
 	-	Feeling nauseous
 	-	Only smoking in moderation
-	+	Supportive social network
+	+	A supportive social network
 6.	Which of the following have a negative emotional influence on a mother during pregnancy?
 	-	Having an increased appetite
 	-	Positive reaction from important people
 	+	Relationship problems with partner
 	-	Improved sex life
-7.	‘De-personalised’ means:
+7.	An example of ‘de-personalisation’ is:
 	-	Denying personal attention
-	+	Referring to someone by a number
-	-	Defying the person in charge
+	+	Referring to someone as 'patient' or by a number
+	-	Disobeying the person in charge
 	-	Adding your personal thoughts to client notes
 8.	What negative emotions might a mother feel after the birth of her baby?
 	+	Exhaustion and detachment
@@ -87,8 +87,8 @@ layout: test
 	-	Feeling pity for someone’s suffering
 	+	Understanding someone’s emotions even though you have not experienced them 
 17.	The following is an example of validating feelings:
-	-	‘I don’t think you are depressed, this is just a bad day’
-	-	‘I’m sure your husband is not having an affair, he probably will be back this evening’
+	-	‘I don’t think you are depressed, this is just a bad day.’
+	-	‘I’m sure your husband is not having an affair, he probably will be back this evening.’
 	+	‘I can hear that this is making you feel low. That must be very difficult for you.’
 	-	‘Did you really say you want to shake your baby? That is a shocking thing to say.’
 18.	A good listener has the following characteristics:
@@ -101,7 +101,7 @@ layout: test
 	+	Repeating what the mother has said in your own words
 	-	Reading phrases from paragraphs in a book
 	-	Repeating the same thing over and over again
-20.	Useful responses when listening involve:
+20.	A useful response when listening is:
 	+	Asking for clarification and paraphrasing
 	-	Problem solving
 	-	Expressing shock

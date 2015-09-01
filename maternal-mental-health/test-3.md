@@ -8,7 +8,7 @@ layout: test
  
 1.	What is a referral?
 	-	Sending a patient to someone else because you find her irritating
-	-	Sending a patient’s bloods to the lab for testing
+	-	Sending a patient’s blood samples to the lab for testing
 	+	Recommending and sending someone for specialised services
 	-	Recommending a healthy diet and adequate rest during pregnancy
 2.	Which of the following would you refer a depressed mother to in order to help with her emotional problems?
@@ -50,7 +50,7 @@ layout: test
 	-	Tell the woman where the organisation has its offices
 	-	Write the name of the organisation on a piece of paper
 	-	Write a referral letter and give it to the woman to take with her
-	+	Explore the problem, find out what kind of help is wanted and what might stop the women from getting that help before referring
+	+	Explore the problem and find out what kind of help is wanted
 10.	Why is an open-door policy important?
 	-	Good ventilation is important for health
 	+	It allows the mother to come back when it suits her
@@ -75,7 +75,7 @@ layout: test
 	-	They are lazy
 	-	They don’t want help
 	+	They experience practical and emotional barriers that stop them going to appointments
-	-	You have not written a referral letter
+	-	They are uncooperative 
 15.	How can depression or anxiety affect the mother’s ability to take up a referral?
 	-	It can make them lazy
 	+	They may forget appointments
