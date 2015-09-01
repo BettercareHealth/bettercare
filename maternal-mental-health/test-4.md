@@ -40,7 +40,7 @@ Please choose the ONE most correct answer to each question:
 	-	Improved sex life
 7.	An example of ‘de-personalisation’ is:
 	-	Denying personal attention
-	+	Referring to someone as "patient" or by a number
+	+	Referring to someone as 'patient' or by a number
 	-	Disobeying the person in charge
 	-	Adding your personal thoughts to client notes
 8.	What negative emotions might a mother feel after the birth of her baby?
