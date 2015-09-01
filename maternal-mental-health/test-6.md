@@ -72,7 +72,7 @@ Please choose the ONE most correct answer to each question:
 	-	Internal perforation – violent
 	-	Indigo, purple, violet – bruise categories
 	-	Independent personal victim
-	+	Intimate partner violence
+	+	Intimate-partner violence
 14.	Emotionally abusive behaviour is:
 	-	Your own fault for choosing an abusive partner
 	-	Letting your emotions get in the way of your behaviour
