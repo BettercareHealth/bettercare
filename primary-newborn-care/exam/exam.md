@@ -5,7 +5,7 @@ layout: exam
 published: true
 ---
 
-# Primary Newborn Care
+# Primary Newborn Care Exam
 
 {% include exam-instructions.html %}
 
