@@ -67,7 +67,7 @@ published: true
 17.	Naloxone (Narcan) reverses the respiratory depression caused by:
 	-	Barbiturates
 	-	General anaesthesia
-	-	Diazepam (Valium)
+	-	Diabzepam (Valium)
 	+	{:.correct}Pethidine and morphine
 18.	If an infant is heavily meconium stained at delivery:
 	-	It is important to stimulate respiration before suctioning the airways
@@ -109,26 +109,26 @@ published: true
 	-	They are normal in girls but abnormal in boys
 	-	They are normal only if the breast enlargement disappears by 1 week
 	+	{:.correct}They are normal in girls and boys and may last for a few months
-3.	When should a normal infant receive the first bath?
-	-	Immediately after delivery
-	-	Before the infant leaves the labour ward
-	-	Only after 1 week
-	+	{:.correct}Before the infant is discharged home
-4.	What routine cord care is needed?
-	-	Cover the cord with a dry dressing
-	+	{:.correct}Put surgical spirits (alcohol) on the cord
-	-	Place chloromycetin ointment on the cord
-	-	Place antibiotic powder on the cord
-5.	What is the clinical significance of a white vaginal discharge in a newborn infant?
-	-	It indicates a vaginal infection caused by Trichomonas
-	-	It should be treated with antibiotics
-	-	It is a sign of congenital syphilis
-	+	{:.correct}It is normal
-6.	What is the importance of enlarged breasts at birth?
-	-	They are abnormal and indicate a hormonal imbalance
-	-	They are normal in girls but abnormal in boys
-	-	They are normal only if the breast enlargement disappears by 1 week
-	+	{:.correct}They are normal in girls and boys and may last for a few months
+9.	Why is it important for infants to be fed breast milk?
+	-	Breast milk meets all the nutritional needs of a term infant
+	-	Breast milk reduces the risk of gastroenteritis
+	-	Breast milk is cheap
+	+	All of the above
+10.	When should a normal infant be put to the breast for the first time?
+	+	Immediately after birth
+	-	Not before 1 hour or the infant will vomit
+	-	Only after 3 hours when the infant has been bathed
+	-	After the mother has had a good sleep
+11.	What should be given as the first feed to normal infants?
+	-	Sterile water
+	+	Breast milk
+	-	Diluted formula
+	-	5% dextrose water
+12.	How should an infant be fixed at the breast?
+	-	The infant should suck on the nipple
+	+	The infant should take the nipple and most of the areola into its mouth
+	-	The infant must not suck on the areola
+	-	It does not matter
 14.	How can a mother improve her milk supply?
 	+	{:.correct}By feeding her infant frequently
 	-	By scheduling feeding every 4 hours
