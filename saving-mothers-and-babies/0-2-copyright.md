@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Saving Mothers and Babies: Assessing and reducing mortality rates in your hospital*
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated Sep 2008
+First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated Sep 2008. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2008
 

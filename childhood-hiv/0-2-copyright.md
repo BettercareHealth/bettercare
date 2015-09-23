@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Childhood HIV: What health professionals need to know*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 3 Aug 2011 (layout), 30 Jan 2013, 24 Jan 2015 (layout).
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 3 Aug 2011 (layout), 30 Jan 2013, 24 Jan 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © David Woods and Brian Eley 2008  
 Cover photograph by Anna Nersesyan at Life Studios, Cape Town

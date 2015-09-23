@@ -9,7 +9,7 @@ layout: frontmatter
 *Maternal Mental Health: A guide for health and social workers*
 
 First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). \\
-Updated 1 Sep 2015
+Updated 1 Sep 2015. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Mental Health Project 2015
 

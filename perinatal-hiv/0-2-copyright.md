@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Perinatal HIV: What health professionals need to know*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 7 May 2010, 31 Mar 2014
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 7 May 2010, 31 Mar 2014. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2008
 

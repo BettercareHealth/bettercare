@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Well Women: Addressing the everyday health needs of women*
 
-First published in 2011 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
+First published in 2011 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Eduhealthcare 2011
 

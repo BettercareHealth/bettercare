@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Mother and Baby Friendly Care: Best practice for healthcare professionals*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 1 Apr 2009, 24 Feb 2015 (layout)
+First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 1 Apr 2009, 24 Feb 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2008
 

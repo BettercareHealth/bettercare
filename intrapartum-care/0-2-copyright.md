@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Intrapartum Care: An advanced-midwife’s guide to labour and delivery*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 16 Feb 2011, 25 Feb 2015 (layout)
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 16 Feb 2011, 25 Feb 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2009  
 Illustrations by Anne Westoby  

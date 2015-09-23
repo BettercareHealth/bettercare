@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Child Healthcare: a guide to common paediatric disorders*
 
-First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
+First published in 2007 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Updated 23 August 2007, 23 January 2015 (layout)
 

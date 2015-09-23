@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Childhood TB: Care and treatment in the clinic*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 11 May 2011, 24 Feb 2015 (layout)
+First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 11 May 2011, 24 Feb 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © David Woods and Robert Gie 2010
 

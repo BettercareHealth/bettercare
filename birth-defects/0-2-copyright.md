@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Birth Defects: Counselling and caring for children with birth defects*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 27 May 2010, 20 May 2011 (layout), 19 Jan 2015 (layout)
+First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 27 May 2010, 20 May 2011 (layout), 19 Jan 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2009  
 Illustrations by Anne Westoby  

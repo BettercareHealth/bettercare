@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Title: Subtitle*
 
-First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). 
+First published in 2015 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text ©  
 Cover photograph ©  
