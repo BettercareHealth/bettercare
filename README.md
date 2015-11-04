@@ -2,6 +2,7 @@
 
 This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books, or see the [live version of this site](http://ls.bettercare.co.za).
 
+*	[Updates](#updates)
 *   [Our workflow](#our-workflow)
 *   [Creating a Bettercare chapter in markdown](#creting-a-bettercare-chapter-in-markdown)
 	*   [Before you start](#before-you-start)
@@ -31,6 +32,34 @@ This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/)
 	*   [Validate](#validate)
 	*	[Convert for Amazon Kindle](#convert-for-amazon-kindle)
 *   [Saving in Word format](#saving-in-word-format)
+
+## Updates
+
+When we make a *significant* update to the content of a book, we list its date here. This way you can tell whether your PDF or physical copy of the book is up to date. Significant updates include any change to medical information, even if it's a one-word correction. We do not consider significant any small corrections to non-medical information (such as corrections to punctuation or grammar in non-essential notes) or tweaks to design or online functionality.
+
+You can drill down for more detail on corrections by looking through the commit history of a book's files on GitHub.
+
+| Title | Last update | Note
+|--
+| Adult HIV | 28 July 2015 |
+| Breast Care | 12 January 2015 |
+| Birth Defects | 27 May 2010 |
+| Child Healthcare | 23 August 2007 |
+| Childhood HIV | 3 August 2011 |
+| Childhood TB | 11 May 2011 |
+| Ebola Prevention and Control | in 2015 |
+| Facilitators Guide | 16 April 2015 |
+| Infection Prevention and Control | 2014 |
+| Intrapartum Care | 16 February 2011 |
+| Mother and Baby Friendly Care | 1 April 2009 |
+| Maternal Care | 11 August 2014 |
+| Maternal Mental Health | 2015 |
+| Newborn Care | 10 August 2014 |
+| Perinatal HIV | 31 March 2014 |
+| Primary Maternal Care | 31 August 2014 |
+| Primary Newborn Care | 7 July 2014 |
+| Saving Mothers and Babies | September 2008 |
+| Well Women | 2011 |
 
 ## Our workflow
 
