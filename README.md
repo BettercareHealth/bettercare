@@ -40,7 +40,7 @@ When we make a *significant* update to the content of a book, we list its date h
 You can drill down for more detail on corrections by looking through the commit history of a book's files on GitHub.
 
 | Title | Last update | Note
-|--
+| -- | -- |
 | Adult HIV | 28 July 2015 |
 | Breast Care | 12 January 2015 |
 | Birth Defects | 27 May 2010 |
