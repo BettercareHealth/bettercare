@@ -1,6 +1,6 @@
 # Bettercare
 
-This repo and [its GitHub Pages](http://electricbookworks.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books, or see the [live version of this site](http://ls.bettercare.co.za).
+This repo and [its GitHub Pages](http://bettercarehealth.github.io/bettercare/) site is for Bettercare content-development only. Do not use this content for medical purposes. Please visit http://bettercare.co.za for up-to-date and complete versions of our books, or see the [live version of this site](http://ls.bettercare.co.za).
 
 *	[Updates](#updates)
 *   [Our workflow](#our-workflow)
@@ -74,11 +74,11 @@ This workflow is powerful enough to produce neat HTML we can use flexibly, and m
 
 We keep our master content files in markdown, structured for Jekyll, on GitHub. Bettercare is here:
 
-[https://github.com/electricbookworks/bettercare](https://github.com/electricbookworks/bettercare)
+[https://github.com/bettercarehealth/bettercare](https://github.com/bettercarehealth/bettercare)
 
 We use the [kramdown syntax](http://kramdown.gettalong.org/) for our markdown, because kramdown supports classes, so we can get almost everything we need for neat HTML. (For complex tables and for figures, we use HTML inside the markdown docs.) Also, it's what GitHub uses for GitHub Pages, which turns the markdown into a static HTML website using Jekyll. The GitHub Pages version of our content serves as our staging site:
 
-[http://electricbookworks.github.io/bettercare/](http://electricbookworks.github.io/bettercare/)
+[http://bettercarehealth.github.io/bettercare/](http://bettercarehealth.github.io/bettercare/)
 
 Publishing with GitHub Pages works for Bettercare because [its content is open-licensed (CC-BY-NC-ND)](http://bettercare.co.za/buy/licensing). 
 
@@ -95,7 +95,7 @@ This is for Bettercare team members, but may contain useful tips to others worki
 * Use a good text editor. On Windows, Notepad++ is a good option.
 * Set your default character encoding for your documents to 'UTF without BOM'. (Jekyll will break if you don't.)
 * Refer to existing chapters to see how things were handled there.
-* To check how small bits of markdown will convert to HTML, use the [this online kramdown converter](http://kramdown.herokuapp.com/). For best results, paste [`screen.css`](https://raw.githubusercontent.com/electricbookworks/bettercare/gh-pages/css/screen.css) into the converter's custom styles (Settings > Custom styles).
+* To check how small bits of markdown will convert to HTML, use the [this online kramdown converter](http://kramdown.herokuapp.com/). For best results, paste [`screen.css`](https://raw.githubusercontent.com/bettercarehealth/bettercare/gh-pages/css/screen.css) into the converter's custom styles (Settings > Custom styles).
 
 ### Process
 
