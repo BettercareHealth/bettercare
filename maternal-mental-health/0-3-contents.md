@@ -39,7 +39,7 @@ layout: toc
     *   [Objectives](4.html#objectives)
     *   [Why pregnancy and childbirth are stressful periods](4.html#why-pregnancy-and-childbirth-are-stressful-periods)
     *   [The Better Births Initiative (BBI)](4.html#the-better-births-initiative-bbi)
-    *   [Health worker support](4.html#health-worker-support)
+    *   [Health and social worker support](4.html#health-and-social-worker-support)
     *   [Counselling mothers](4.html#counselling-mothers)
     *   [Case studies](4.html#case-study-1)
 *	[5. Special medical issues in maternal mental health](5.html)
