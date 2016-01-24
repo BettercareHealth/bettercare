@@ -501,19 +501,19 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 *	Remove the `nav-bar` div. To search for the nav-bar div in all HTML files, use this DotAll Regex (tick DotAll and select Regex mode): 
 
-	`(?s).<div class="non-printing" id="nav-bar">(.*)<!--#nav-bar-->`
+	`(?s).<div id="nav-bar" class="non-printing">(.*)<!--#nav-bar-->`
 	
 *	Remove the `footer` div. DotAll Regex:
 
-	`(?s).<div class="non-printing" id="footer">(.*)</div><!--#footer-->`
+	`(?s).<div id="footer" class="non-printing">(.*)<!--#footer-->`
 	
 *	Remove the Help section:
 
-	`(?s).<div class="non-printing" id="help">(.*)</div><!--#help .non-printing-->`
+	`(?s).<div id="help" class="non-printing">(.*)<!--#help .non-printing-->`
 
 *	Remove the `live-test` divs. DotAll Regex: 
 
-	`(?s).<div class="live-test non-printing" id="live-test">(.*)</div><!--#live-test .live-test .non-printing-->`
+	`(?s).<div id="live-test" class="live-test non-printing">(.*)<!--#live-test .live-test .non-printing-->`
 	
 *	Replace the button that once opened the `live-test` with a link to the online Learning Station. That is, using a *normal* search-and-replace, replace 
 
@@ -543,12 +543,7 @@ For the removals listed here, search-and-replace with the 'Replace' box empty.
 
 ### Validate
 
-Validate the epub in Sigil and fix any validation errors. Sigil won't catch everything though, so also validate with the [IDPF's online version of EpubCheck](http://validator.idpf.org/).
-
-To avoid having to upload, you can run EpubCheck locally, too. Options:
-
-*	Install [epubcheck](https://github.com/IDPF/epubcheck/wiki/Running) and run it from the command line
-*	Use [pagina EPUB-Checker](http://www.pagina-online.de/produkte/epub-checker/). 
+Validate the epub in Sigil and fix any validation errors. Sigil won't catch everything though, so also validate with the [IDPF's online version of EpubCheck](http://validator.idpf.org/) or the Pagina EPUB-Checker](http://www.pagina-online.de/produkte/epub-checker/). You can also install [epubcheck](https://github.com/IDPF/epubcheck/wiki/Running) and run it from the command line.
 
 ### Convert for Amazon Kindle
 
