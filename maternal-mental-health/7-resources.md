@@ -430,7 +430,7 @@ If the biological parents of the child are alive, they must both consent to the 
 
 Both the mother and the father must sign the consent form to allow the adoption by a specific person or couple. If the biological parents are not married, the mother and father must also both give consent for the adoption of the child. Biological parents can withdraw their consent within 60 days of signing their consent. 
 
-A child may be placed temporarily with caregivers who are not the child’s family. This is called foster care. In most cases the foster child lives with their foster carers full time but the length of their stay will depend on individual needs and circumstances. If the child is in foster care, the foster parents must also certify that they do not wish to adopt the child. 
+A child may be placed temporarily with caregivers who are not the child’s family. This is called foster care. In most cases the foster child lives with their foster carers full time but the length of their stay will depend on individual needs and circumstances.
 
 When the child is adopted, all parental responsibilities and rights between the child and its biological parents end. An adoption is finalised once the adoption order is finalised. 
 

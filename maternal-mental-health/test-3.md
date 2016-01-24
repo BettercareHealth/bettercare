@@ -99,8 +99,8 @@ layout: test
 19.	What can a doula do to help?
 	-	She can put up pain relief drips
 	-	She can do vacuum extractions
-	+	She supports the mother and helps to calm her
-	-	She intervenes with the medical team and stops them doing unnecessary Caesarean sections
+	+	She can support the mother and helps to calm her
+	-	She can intervene with the medical team and stops them doing unnecessary Caesarean sections
 20.	What can one of the benefits of having a doula be?
 	-	More need for pain relief
 	+	Shorter length of labour

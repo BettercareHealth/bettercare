@@ -28,9 +28,9 @@ The Bettercare series is built on the experience of the Perinatal Education Prog
 
 ## Why decentralised learning? 
 
-Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health workers’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
+Continuing education for healthcare and social workers traditionally consists of courses and workshops run by formal trainers at large central venues. These courses are expensive to attend, often far away from the health and social workers’ families and places of work, and the content frequently fails to address the biggest health and social challenges of poor, rural communities.
 
-To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in under-resourced regions.
+To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional care workers, especially those in under-resourced regions.
 
 ## Books in the Bettercare series
 

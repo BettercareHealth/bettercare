@@ -21,7 +21,7 @@ layout: test
 	-	They have the same access as everyone else so should have no more difficulties
 	+	The women may not feel worthy of support
 	-	They are supported by the Department of Social Development and so have good access to mental health care
-4.	How can a health worker support a woman with few resources?
+4.	How can a health or social worker support a woman with few resources?
 	-	Tell her to get a job
 	+	Listen to her, show kindness and respect
 	-	Inform her husband that she needs more care
@@ -31,7 +31,7 @@ layout: test
 	-	Chewing gum
 	-	Having acne
 	-	Being sexually active
-6.	How can a health worker support a pregnant teenager?
+6.	How can a health or social worker support a pregnant teenager?
 	-	Tell her to behave like an adult; she is going to be a mother
 	-	Advise her to make better choices for her future
 	-	Warn her that she is irresponsible: sexually transmitted diseases and lack of contraception are dangerous
@@ -74,8 +74,8 @@ layout: test
 14.	Emotionally abusive behaviour is:
 	-	Your own fault for choosing an abusive partner
 	-	Letting your emotions get in the way of your behaviour
-	-	The repeated use of harmful behaviours to control someone
-	+	Not letting your behaviour be influenced by how you are feeling
+	+	The repeated use of harmful behaviours to control someone
+	-	Not letting your behaviour be influenced by how you are feeling
 15.	The ‘cycle of violence’ occurs because:
 	+	The woman hopes that the abuser will change, but the behaviour keeps being repeated
 	-	Violence is like a cyclone in the damage it can cause
@@ -89,9 +89,9 @@ layout: test
 17.	What are some of the warning signs of emotional abuse?
 	-	Excessive spending
 	-	Often going partying without a partner
-	-	Being restricted in seeing family and friends
-	+	Wearing provocative clothing like skimpy tops and short skirts
-18.	How can a health worker support an abused mother?
+	+	Being restricted in seeing family and friends
+	-	Wearing provocative clothing like skimpy tops and short skirts
+18.	How can a health or social worker support an abused mother?
 	-	Tell her that she must leave the abuser
 	+	Listen to her story
 	-	Ask her why she lets him get away with it
@@ -101,7 +101,7 @@ layout: test
 	-	Failure to get the child to school on time
 	-	Neglecting to pick up after the child has thrown food on the floor
 	+	Failure to provide adequately for the child’s emotional or physical needs
-20.	What is the best way for a health worker to help an abused child?
+20.	What is the best way for a health or social worker to help an abused child?
 	+	Contact Social Services or Child Welfare because the child’s life is at risk
 	-	Ignore the problem, the child will grow up and leave home anyway
 	-	Hit the mother so she knows what it feels like

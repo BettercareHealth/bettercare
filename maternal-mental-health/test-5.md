@@ -56,12 +56,12 @@ layout: test
 	-	She is a person who enjoys others' company but now says they are boring to her
 	-	She has done lots of shopping for the baby, planning for the birth
 	-	She has complained of putting on too much weight and is feeling uncomfortable with the pregnancy
-11.	What can a health worker say to help a suicidal pregnant woman?
+11.	What can a health or social worker say to help a suicidal pregnant woman?
 	-	Think about your baby!
 	-	This is just your hormones, you will feel better soon
 	-	Do you really think that this is going to solve all the problems?
 	+	It sounds like you have more emotional pain than you can cope with and need help in deciding how to cope
-12.	What help may a health worker need when she has dealt with a suicidal mother?
+12.	What help may a health or social worker need when she has dealt with a suicidal mother?
 	-	A stiff drink
 	+	Debriefing and support
 	-	Nothing special, this is what you are trained to do
@@ -101,8 +101,8 @@ layout: test
 	-	Ignore the parents if they are angry as it is not your fault
 	-	There is nothing you can do to help, what has happened is the way the world works
 	+	Treat the infant gently at birth, wrap it in blankets and show respect 
-20.	Do health workers need support after helping parents cope with pregnancy loss?
+20.	Do health or social workers need support after helping parents cope with pregnancy loss?
 	-	Loss is part of life, so they must just deal with it
-	+	Health workers may need to talk to someone for debriefing
+	+	Health or social workers may need to talk to someone for debriefing
 	-	Loss is upsetting so they should take sick leave to grieve alone
 	-	They are trained professionals so they should manage the stress

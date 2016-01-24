@@ -11,11 +11,11 @@ layout: test
 	-	It could be embarrassing and stressful if your waters broke and you were out shopping
 	+	It is a life transition and adapting to change can be stressful
 	-	A fetus growing inside puts stress on your bones and muscles
-2.	Why is a good relationship between mother and health worker important?
+2.	Why is a good relationship between mother and health or social worker important?
 	-	Mothers will be happier to clean up after themselves if they make a mess during delivery
 	-	Mothers are less likely to complain
 	-	It makes it easier to tell a mother that she needs a Caesarean section
-	+	Compassionate care from the health worker can influence the mother emotionally and physically
+	+	Compassionate care from the health or social worker can influence the mother emotionally and physically
 3.	What are the four principles of the Better Births Initiative (BBI)?
 	-	Breastfeed, birth companions, bonding, and initiate good practice
 	-	Eat during labour, walk during labour, no shaving, and no enemas
@@ -56,12 +56,12 @@ layout: test
 	-	Express feelings in a neutral way
 	+	Express feelings in a negative way
 	-	Don’t express feelings, they are about hitting and running
-11.	What stressful factors at work affect health workers?
+11.	What stressful factors at work affect health or social workers?
 	+	Absenteeism by colleagues
 	-	Being able to take sick leave
 	-	Being able to take annual leave
 	-	Being able to take maternity leave
-12.	What stressful personal life factors influence health workers? 
+12.	What stressful personal life factors influence health or social workers? 
 	-	Supportive partner
 	-	Children performing well at school
 	-	Predictable public transport

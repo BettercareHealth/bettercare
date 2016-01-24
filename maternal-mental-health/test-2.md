@@ -47,7 +47,7 @@ layout: test
 	-	Health workers look at the behaviour and appearance of the women
 	-	Blood pressure is monitored 
 9.	Before you start screening, it is important to:
-	+	Have a referral system in place
+	+	Make sure access to mental health care is in place
 	-	Make sure the woman is physically well
 	-	Make sure that she is at least 28 weeks pregnant 
 	-	Make sure that her husband has given permission

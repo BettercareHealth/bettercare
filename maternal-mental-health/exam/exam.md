@@ -71,7 +71,7 @@ published: true
 	-	Fear of hospitals 
 16.	Psychosis is suspected when:
 	-	Someone is rude
-	+	{:.correct}Someone feels out of touch with reality
+	+	{:.correct}Someone is out of touch with reality
 	-	Someone feels worthless
 	-	Someone trembles and has a racing heart
 19.	Which of the following statements is true?
@@ -115,7 +115,7 @@ published: true
 	-	Health workers look at the behaviour and appearance of the women
 	-	Blood pressure is monitored 
 9.	Before you start screening, it is important to:
-	+	{:.correct}Have a referral system in place
+	+	{:.correct}Make sure access to mental health care is in place
 	-	Make sure the woman is physically well
 	-	Make sure that she is at least 28 weeks pregnant 
 	-	Make sure that her husband has given permission
@@ -202,18 +202,18 @@ published: true
 19.	What can a doula do to help?
 	-	She can put up pain relief drips
 	-	She can do vacuum extractions
-	+	{:.correct}She supports the mother and helps to calm her
-	-	She intervenes with the medical team and stops them doing unnecessary Caesarean sections
+	+	{:.correct}She can support the mother and helps to calm her
+	-	She can intervene with the medical team and stops them doing unnecessary Caesarean sections
 1.	Why is the time around pregnancy particularly stressful?
 	-	It is a natural thing so it is not stressful
 	-	It could be embarrassing and stressful if your waters broke and you were out shopping
 	+	{:.correct}It is a life transition and adapting to change can be stressful
 	-	A fetus growing inside puts stress on your bones and muscles
-2.	Why is a good relationship between mother and health worker important?
+2.	Why is a good relationship between mother and health or social worker important?
 	-	Mothers will be happier to clean up after themselves if they make a mess during delivery
 	-	Mothers are less likely to complain
 	-	It makes it easier to tell a mother that she needs a Caesarean section
-	+	{:.correct}Compassionate care from the health worker can influence the mother emotionally and physically
+	+	{:.correct}Compassionate care from the health or social worker can influence the mother emotionally and physically
 5.	Which of the following are positive influences for a mother during pregnancy?
 	-	An unplanned pregnancy
 	-	Feeling nauseous
@@ -294,7 +294,7 @@ published: true
 	-	Suicide usually happens without warning
 	+	{:.correct}Suicide is an important cause of maternal mortality
 	-	Improvement following a suicidal crisis means that the crisis is over
-11.	What can a health worker say to help a suicidal pregnant woman?
+11.	What can a health or social worker say to help a suicidal pregnant woman?
 	-	Think about your baby!
 	-	This is just your hormones, you will feel better soon
 	-	Do you really think that this is going to solve all the problems?
@@ -324,9 +324,9 @@ published: true
 	-	Ignore the parents if they are angry as it is not your fault
 	-	There is nothing you can do to help, what has happened is the way the world works
 	+	{:.correct}Treat the infant gently at birth, wrap it in blankets and show respect 
-20.	Do health workers need support after helping parents cope with pregnancy loss?
+20.	Do health or social workers need support after helping parents cope with pregnancy loss?
 	-	Loss is part of life, so they must just deal with it
-	+	{:.correct}Health workers may need to talk to someone for debriefing
+	+	{:.correct}Health or social workers may need to talk to someone for debriefing
 	-	Loss is upsetting so they should take sick leave to grieve alone
 	-	They are trained professionals so they should manage the stress
 1.	Poor women are more likely to have mental health problems because:
@@ -344,7 +344,7 @@ published: true
 	-	Chewing gum
 	-	Having acne
 	-	Being sexually active
-6.	How can a health worker support a pregnant teenager?
+6.	How can a health or social worker support a pregnant teenager?
 	-	Tell her to behave like an adult; she is going to be a mother
 	-	Advise her to make better choices for her future
 	-	Warn her that she is irresponsible: sexually transmitted diseases and lack of contraception are dangerous
@@ -372,8 +372,8 @@ published: true
 14.	Emotionally abusive behaviour is:
 	-	Your own fault for choosing an abusive partner
 	-	Letting your emotions get in the way of your behaviour
-	-	The repeated use of harmful behaviours to control someone
-	+	{:.correct}Not letting your behaviour be influenced by how you are feeling
+	+	{:.correct}The repeated use of harmful behaviours to control someone
+	-	Not letting your behaviour be influenced by how you are feeling
 15.	The ‘cycle of violence’ occurs because:
 	+	{:.correct}The woman hopes that the abuser will change, but the behaviour keeps being repeated
 	-	Violence is like a cyclone in the damage it can cause
@@ -382,8 +382,8 @@ published: true
 17.	What are some of the warning signs of emotional abuse?
 	-	Excessive spending
 	-	Often going partying without a partner
-	-	Being restricted in seeing family and friends
-	+	{:.correct}Wearing provocative clothing like skimpy tops and short skirts
+	+	{:.correct}Being restricted in seeing family and friends
+	-	Wearing provocative clothing like skimpy tops and short skirts
 
 
 

@@ -83,7 +83,7 @@ layout: test
 	-	Fear of hospitals 
 16.	Psychosis is suspected when:
 	-	Someone is rude
-	+	Someone feels out of touch with reality
+	+	Someone is out of touch with reality
 	-	Someone feels worthless
 	-	Someone trembles and has a racing heart
 17.	Which of the following could be a symptom of psychosis?
