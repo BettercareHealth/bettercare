@@ -6,7 +6,6 @@ layout: toc
 
 # Contents
 
-*	[Acknowledgements](0-4-acknowledgements.html)
 *	[Introduction](0-5-introduction.html)
 	*   [About the Bettercare series](0-5-introduction.html#about-the-bettercare-series)
 	*   [Why decentralised learning?](0-5-introduction.html#why-decentralised-learning)
@@ -19,13 +18,13 @@ layout: toc
 
 *	[1. HIV in mother and baby](1.html)
     *   [Objectives](1.html#objectives)
-    *   [Basics of HIV infection](1.html#)
-    *   [Spread and prevention of HIV infection](1.html#)
-    *   [Mother to child transmission of HIV infection](1.html#)
-    *   [Preventing mother to child transmission of HIV infection](1.html#)
-    *   [Feeding babies born to mothers with HIV infection](1.html#)
-    *   [Supporting HIV positive mothers](1.html#)
-    *   [Case studies](1.html#)
+    *   [Basics of HIV infection](1.html#basics-of-hiv-infection)
+    *   [Spread and prevention of HIV infection](1.html#spread-and-prevention-of-hiv-infection)
+    *   [Mother to child transmission of HIV infection](1.html#mother-to-child-transmission-of-hiv-infection)
+    *   [Preventing mother to child transmission of HIV infection](1.html#preventing-mother-to-child-transmission-of-hiv-infection)
+    *   [Feeding babies born to mothers with HIV infection](1.html#feeding-babies-born-to-mothers-with-hiv-infection)
+    *   [Supporting HIV positive mothers](1.html#supporting-hiv-positive-mothers)
+    *   [Case studies](1.html#case-study-1)
     
 ## Tests
 

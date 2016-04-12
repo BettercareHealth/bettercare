@@ -7,7 +7,7 @@ layout: frontmatter
 HIV in mother and baby
 {:.titlepage-title}
 
-A sample from our community-healt- worker series
+A sample from our community-health-worker series
 {:.titlepage-subtitle}
 
 Written by Dave Woods

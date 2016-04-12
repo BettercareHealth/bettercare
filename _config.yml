@@ -8,10 +8,74 @@ baseurl: /bettercare
 liveurl: http://ls.bettercare.co.za
 
 paginate: 10
+gems: [jekyll-paginate]
 
 markdown: kramdown
 permalink: none
 highlighter: pygments
+
+# Jekyll will ignore these files and folders. 
+# Useful for temporarily speeding up processing for particular files.
+exclude: [
+admin,
+adult-hiv,
+birth-defects,
+breast-care,
+catalogue,
+child-healthcare,
+childhood-critical-care,
+childhood-hiv,
+childhood-tb,
+#chw-sample,
+#css,
+ebola-prevention-and-control,
+facilitators-guide,
+images,
+infection-prevention-and-control,
+intrapartum-care,
+js,
+maintenance.html,
+maternal-care,
+maternal-mental-health,
+mother-and-baby-friendly-care,
+newborn-care,
+perinatal-hiv,
+primary-maternal-care,
+primary-newborn-care,
+README.md,
+robots.txt,
+saving-mothers-and-babies,
+sitemap.xml,
+well-women,
+_book-template,
+_bqf,
+_includes,
+_layouts,
+_site,
+#css,
+]
+
+# Defaults
+# These are default YAML values that apply to multiple documents. 
+# (For technical details, see http://jekyllrb.com/docs/configuration/#front-matter-defaults).
+defaults: 
+    -
+        scope: # First we set defaults for all files in this series folder (an empty string "" for path means all files).
+            path: ""
+        values:
+            language: "en"
+            layout: "chapter"
+            stylesheet-print: "print.css"
+            stylesheet-web: "screen.css"
+            stylesheet-epub: "epub.css"
+            contents: "0-3-contents.html"
+            language: "en"
+            images-folder: images
+    -
+        scope: # Now enter details for your first book. The `path` is the book's folder. The `values` are specific to the book in that folder. Add values to override the defaults above per book. Remember to indent with spaces, not tabs, for valid YAML.
+            path: "chw-sample"
+        values:
+            book-title: "HIV in Mother and Baby"
 
 prose:
   siteurl: "http://electricbookworks.github.io/bettercare"

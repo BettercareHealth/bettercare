@@ -14,7 +14,7 @@ Text © David Woods 2016
 
 ISBN (print edition): \\
 ISBN (PDF edition): \\
-ISBN (reflowable edition): \\
+ISBN (reflowable edition):
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
