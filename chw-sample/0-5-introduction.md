@@ -185,8 +185,8 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
 *	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: +27 (0)21 671 1278
-*	Fax: +27 (0)86 219 8093
+*	Phone: +27 76 657 0353
+*	Fax: +27 86 219 8093
 {:.keep-together}
 
 ### Perinatal Education Programme

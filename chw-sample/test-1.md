@@ -9,7 +9,7 @@ layout: test
 1. How does HIV cause disease?
 	+	It damages the immune system
 	-	It damages the heart and lungs
-	-	It damage the brain and liver
+	-	It damages the brain and liver
 2. What test is used to diagnose HIV infection in adults?
 	-	A urine test
 	+	A Rapid blood test

@@ -76,6 +76,9 @@ defaults:
             path: "chw-sample"
         values:
             book-title: "HIV in Mother and Baby"
+            isbn-print: "TBC"
+            isbn-epub: "TBC"
+            isbn-pdf: "TBC"
 
 prose:
   siteurl: "http://electricbookworks.github.io/bettercare"

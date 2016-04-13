@@ -571,6 +571,9 @@ a#help-show {
 	border-radius: 0.2em;
 	margin: 0 0 0 0.5em;
 }
+.test .keep-together {
+	page-break-inside: avoid;
+}
 
 /*
  * Live tests

@@ -12,9 +12,9 @@ First published in 2016 by [Bettercare](http://bettercare.co.za). This version p
 
 Text © David Woods 2016
 
-ISBN (print edition): \\
-ISBN (PDF edition): \\
-ISBN (reflowable edition):
+ISBN (print edition): {{ page.isbn-print }}\\
+ISBN (PDF edition): {{ page.isbn-pdf }}\\
+ISBN (reflowable edition): {{ page.isbn-epub }}
 
 Excluding content explicitly credited to others, this book is published under a Creative Commons Attribution Non-Commercial No Derivatives License. For details, see [creativecommons.org/licenses/by-nc-nd/4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
@@ -24,4 +24,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
+For any other uses, please contact [Bettercare](http://bettercare.co.za).
