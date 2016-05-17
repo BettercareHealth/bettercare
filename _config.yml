@@ -12,7 +12,7 @@ gems: [jekyll-paginate]
 
 markdown: kramdown
 permalink: none
-highlighter: pygments
+highlighter: rouge
 
 # Jekyll will ignore these files and folders. 
 # Useful for temporarily speeding up processing for particular files.
