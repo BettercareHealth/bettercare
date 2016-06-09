@@ -485,15 +485,15 @@ Aims to raise awareness of and funding for breast cancer through the decoration 
 
 ## Reach for Recovery (RFR)
 
-Contact: Stephne Jacobs
+Contact: Stephanie van Deventer
 
-Tel: 082 779 2400 / 012 342 5552
+Tel: 071 602 3369 / 021 889 5806
 
-Email: [westerncape@reach4recovery.co.za](mailto:westerncape@reach4recovery.co.za)
+Email: [nationalmanager@reach4recovery.co.za](mailto:nationalmanager@reach4recovery.co.za)
 
 Website: [www.reach4recovery.org.za](http://www.reach4recovery.org.za) 
 
-Reach for Recovery is a national organisation that provides support to breast cancer patients. Support is in the form of hospital visitations where literature is distributed, meetings covering interesting topics. Beyond hospital visits, Reach to Recovery provides services of prosthetic fitting and prostheses, where suitable. The raising of awareness surrounding breast cancer forms a core tenant of Reach for Recovery.
+Reach for Recovery (R4R) is a breast-cancer support organisation with a unique focus on breast-cancer support and one of the only organisations that provide a patient support service on a national basis. Well-selected and trained volunteers, who each have experienced the breast-cancer journey, render an emotional care and practical support programme to newly diagnosed breast cancer patients and their families. In some regions a prosthesis service is also provided, and the focus is also on indigent women that cannot afford this service.
 
 ### Eastern Cape
 
