@@ -7,9 +7,6 @@ url: http://localhost:4000
 baseurl: /bettercare
 liveurl: http://ls.bettercare.co.za
 
-paginate: 10
-gems: [jekyll-paginate]
-
 markdown: kramdown
 permalink: none
 highlighter: rouge

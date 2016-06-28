@@ -1,0 +1,67 @@
+---
+type: print-list
+
+# List the HTML files to be included in output PDFs here.
+# You can use Liquid control-flow tags to include or exclude files.
+# E.g. here we only include the cover when output in _config is `pdf-ebook`.
+# Then use this list with the PrinceXML command line, e.g. from the book's folder in _site:
+# prince -l print-list -o book.pdf
+# You can exclude files from your print-list temporarily by surrounding them with
+# Liquid comment tags: {% comment %}{% endcomment %}
+---
+
+{% comment %} Excluding files from here ----------------
+------------------------------- to here {% endcomment %}
+
+{% if site.output == 'pdf-ebook' %}
+0-0-cover.html
+{% endif %}
+
+0-1-titlepage.html
+0-2-copyright.html
+0-3-contents.html
+0-4-acknowledgements.html
+0-5-introduction.html
+1.html
+1a.html
+1b.html
+1c.html
+1d.html
+1e.html
+1f.html
+2.html
+2a.html
+3.html
+3a.html
+4.html
+5.html
+6.html
+7.html
+8.html
+8a.html
+8b.html
+9.html
+9a.html
+10.html
+11.html
+12.html
+13.html
+14.html
+15.html
+16-appendix.html
+test-1.html
+test-2.html
+test-3.html
+test-4.html
+test-5.html
+test-6.html
+test-7.html
+test-8.html
+test-9.html
+test-10.html
+test-11.html
+test-12.html
+test-13.html
+test-14.html
+test-15.html
+test-answers.html
