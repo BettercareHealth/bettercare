@@ -57,5 +57,5 @@ layout: index
 	
 </div><!--#chooser-->
 
-![Bettercare](images/bettercare-logo.svg)
+![Bettercare](images/bettercare-logo.png)
 {:.index-logo}
