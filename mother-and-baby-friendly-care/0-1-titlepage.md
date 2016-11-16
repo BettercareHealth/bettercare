@@ -13,4 +13,4 @@ Best practice for healthcare professionals
 Developed by the Perinatal Education&nbsp;Programme
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
