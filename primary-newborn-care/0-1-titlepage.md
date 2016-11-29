@@ -13,6 +13,4 @@ Problem-solving in the clinic
 Developed by the Perinatal Education Programme
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
