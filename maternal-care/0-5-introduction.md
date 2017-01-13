@@ -202,7 +202,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Bettercare
 
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
-*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)/ [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
+*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za) / [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
 *	Phone: +27 76 657 0353
 *	Fax: 086 219 8093
 {:.keep-together}
