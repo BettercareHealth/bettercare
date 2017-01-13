@@ -2,13 +2,14 @@
 book: Maternal Care
 title: Copyright
 layout: frontmatter
+published: true
 ---
 
 > We have taken every care to ensure that drug dosages and related medical advice in this book are accurate. However, drug dosages can change and are updated often, so always double-check dosages and procedures against a reliable, up-to-date formulary and the given drug‘s documentation before administering it.
 
 *Maternal Care: A health professional’s guide to pregnancy and childbirth*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout)
+First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Now published by Bettercare, a Non-Profit and Public Benefit Organisation. Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout), 16 Jan 2017
 
 Text © Perinatal Education Programme
 
@@ -24,4 +25,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com/contact).
+For any other uses, please contact [Bettercare](http://bettercare.co.za/).
