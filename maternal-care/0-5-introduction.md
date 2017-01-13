@@ -2,23 +2,40 @@
 book: Maternal Care
 title: Introduction
 layout: chapter
+published: true
 ---
 
 # Introduction
 
 ## About the Bettercare series
 
-Bettercare publishes an innovative series of distance-learning books for healthcare professionals, developed by the Perinatal Education Trust, Eduhealthcare, the Desmond Tutu HIV Foundation, the Desmond Tutu TB Centre, the Perinatal Mental Health Project, the Academic Unit for Infection Prevention and Control at Stellenbosch University, and the Infection Control Africa Network, with contributions from numerous experts.
+Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works. Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
 
-Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
+Bettercare is now an independent Non-Profit and Public Benefit Organisation. Our aim is to continue creating accessible educational resources that are able to empower health care workers in South Africa and around the world.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+Our methodology, developed by the Perinatal Education Programme since 1989, has been [proven in controlled studies](http://bettercare.co.za/about/research/) to improve knowledge, skills and patient care practices in health professionals.
+
 
 ## Why decentralised learning? 
 
 Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health workers’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
 To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in under-resourced regions.
+We provide the learning programme, you run the course. A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, our learning programmes make your job simpler and easier.
+
+Bettercare learning programmes have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care. You can implement Bettercare learning programmes in your institution right now.
+
+## Bettercare Online Learning Station
+
+The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. 
+
+The Learning Station is freely accessible online and includes all of the courses that we currently have. The material provided is always the most up to date and relevant information and includes the full course content as well as the tests/quizzes which are provide in the books at the end of each chapter. Each chapter has 20 multiple choice quiz which can be taken. All students are able to make use of this to supplement their study by using their mobile phone or computer to read while they are online.
+
+All users may also complete the provided chapter tests/quizzes by registering on the website for free. The process is quick, only requiring their email address or mobile number and a password. We can then recognise the test results for each user by their mobile number or email address, depending on which information was given. Users are then able to take the test and receive a score of their results plus advice regarding where they went wrong. At the bottom of the results page each user will have the option to submit their results for points.
+
+The Bettercare methodology is around students empowering themselves and being able to study on their own without feeling as though they are being watched. Only when they believe they have mastered a subject do they submit their results and the users are in full control of this process. Built into our privacy policy is the clause that only the information which users have agreed to make available may be used to generate reports. 
+
+You can access the learning station here: [ls.bettercare.co.za](http://ls.bettercare.co.za/)
 
 ## Books in the Bettercare series
 
@@ -127,13 +144,14 @@ Each chapter closes with a few case studies which encourage the participant to c
 
 Some Bettercare books include chapters on practical skills that need to be practised, preferably in groups. These skills chapters list essential equipment and present step-by-step instructions on how to perform each task, often with pictures. If participants are not familiar with a practical skill, they should ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues.
 
-### Final examination
+### Bettercare tests and examinations
 
-On completion of each course, participants can take a 75-question, self-managed multiple-choice examination.
+Self-evaluation is the most important part of learning. For every chapter, participants take a short self-test before and after studying each chapter. This way participants can see their knowledge improve, and can address specific weaknesses.
 
-All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills chapters will not be included in the examination.
+Tests are included in our printed books and ebooks, and participants can take them for free on our [Learning Station](http://ls.bettercare.co.za/) for instant results.
 
-Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. South African doctors can earn CPD points on the successful completion of the CPD test at the end of each chapter.
+Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a digital certificate which states that they have successfully completed that course. 
+
 
 ## Contributors
 
@@ -141,7 +159,19 @@ The developers of our learning materials are a multi-disciplinary team of nurses
 
 ### Perinatal Education Trust
 
-Books developed for the Perinatal Education Programme are provided as cheaply as possible. Writing and updating the programme is both funded and managed on a non-profit basis by the Perinatal Education Trust.
+The [Perinatal Education Programme (PEP)](http://www.pepcourse.co.za/) is produced and distributed by the Perinatal Education Trust, a non-profit organisation which aims to improve the care of pregnant women and their newborn infants, especially in poor, rural communities.
+
+PEP presents a unique form of self-help training for health professionals which places the responsibility for continuing education on the participants themselves. It is cheap, appropriate, practical and does not require a teacher.
+
+### Breast Courses for Nurses
+
+The [Breast Course for Nurses](http://www.breastcourse4nurses.co.za/) (BCN) combines distance education with a residential course. The emphasis is on learning rather than teaching. The Breast Course for Nurses can be adapted to suit the needs of the health care providers being trained.
+
+### Academic Unit for Infection Prevention and Control at Stellenbosch University
+
+The [Academic Unit for Infection Prevention and Control](http://www.sun.ac.za/english/faculty/healthsciences/Pages/Infectious-Diseases%E2%80%8B%E2%80%8B%E2%80%8B.aspx) (UIPC) is based at Tygerberg Academic Hospital and the FMHS. It resides under the Division of Community Health and is also a member of the Centre for Infectious Diseases.
+
+The UPIC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in infection prevention and control (IPC) as well as decontamination and sterilization for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as the operating theatre, renal dialysis, intensive care and infectious diseases.
 
 ### Eduhealthcare
 
@@ -172,8 +202,8 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Bettercare
 
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
-*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: 076 657 0353
+*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)/ [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
+*	Phone: +27 76 657 0353
 *	Fax: 086 219 8093
 {:.keep-together}
 
@@ -188,3 +218,10 @@ Bettercare learning materials are regularly updated to keep up with developments
 ### Exams
 
 *	[exams@bettercare.co.za](mailto:exams@bettercare.co.za)
+
+### Support
+
+Please contact us if you would like to know which educational courses are still pending funding in order to be developed, or published, and added to our free online learning station for healthcare workers. 
+
+*	NPO Registration number: 174-928
+*	PBO Registration number: 930053582
