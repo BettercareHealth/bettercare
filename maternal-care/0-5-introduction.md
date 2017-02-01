@@ -9,31 +9,31 @@ published: true
 
 ## About the Bettercare series
 
-Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works. Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
+Bettercare in an independent, registered Non-Profit and Public Benefit Organisation. At Bettercare, our aim is to create accessible educational resources that improve the quality of healthcare in even the most challenging circumstances.
 
-Bettercare is now an independent Non-Profit and Public Benefit Organisation. Our aim is to continue creating accessible educational resources that are able to empower health care workers in South Africa and around the world.
+Bettercare learning material is constantly updated to ensure all healthcare professionals have access to high-quality, affordable and up-to-date training in every facility, regardless of its history, resources or geographical location. Additions and changes are informed by ongoing feedback from healthcare workers, educators and participants; findings on new and better methods of diagnosing and treating patients and the latest developments in child, perinatal and HIV care.
 
-Our methodology, developed by the Perinatal Education Programme since 1989, has been [proven in controlled studies](http://bettercare.co.za/about/research/) to improve knowledge, skills and patient care practices in health professionals.
-
+Bettercare learning programmes grew out of the ongoing work of the [Perinatal Education Programme](http://pepcourse.co.za/) (PEP). PEP began in 1989 when a small team of paediatricians, obstetricians and nurses came together to develop a consensus document on best practice care for mothers and infants. The PEP method of self-directed, decentralised learning has been [proven in controlled studies](http://bettercare.co.za/about/research/) to improve knowledge, skills and patient care practices in health professionals.
 
 ## Why decentralised learning? 
 
-Continuing education for health workers traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health workers’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
+Continuing education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
-To help solve these many problems, a self-help decentralised learning method has been developed which addresses the needs of professional healthcare workers, especially those in under-resourced regions.
-We provide the learning programme, you run the course. A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, our learning programmes make your job simpler and easier.
+PEP developed the self-help, decentralised learning method to solve these many problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology. 
 
-Bettercare learning programmes have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care. You can implement Bettercare learning programmes in your institution right now.
+A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
+
+Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Multiple-choice tests consisting of 20 questions each allow users identify gaps in knowledge before studying a chapter and to test their learning at the end of each chapter.
+
+Bettercare learning programmes have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care. 
 
 ## Bettercare Online Learning Station
 
-The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. 
+The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. The material on the Learning Station is always the most up-to-date, includes the full course content and the multiple-choice tests provided for each chapter.
 
-The Learning Station is freely accessible online and includes all of the courses that we currently have. The material provided is always the most up to date and relevant information and includes the full course content as well as the tests/quizzes which are provide in the books at the end of each chapter. Each chapter has 20 multiple choice quiz which can be taken. All students are able to make use of this to supplement their study by using their mobile phone or computer to read while they are online.
+The Learning Station is freely accessible online and includes all of the current Bettercare courses. All students are able to make use of this to supplement their studies using their mobile phone or computer when online. By registering on the Learning Station site, students can also complete the multiple-choice chapter tests. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each test, users receive their results and advice on where they may have gone wrong. At the bottom of the results page, each user will have the option to submit their results for points.
 
-All users may also complete the provided chapter tests/quizzes by registering on the website for free. The process is quick, only requiring their email address or mobile number and a password. We can then recognise the test results for each user by their mobile number or email address, depending on which information was given. Users are then able to take the test and receive a score of their results plus advice regarding where they went wrong. At the bottom of the results page each user will have the option to submit their results for points.
-
-The Bettercare methodology is around students empowering themselves and being able to study on their own without feeling as though they are being watched. Only when they believe they have mastered a subject do they submit their results and the users are in full control of this process. Built into our privacy policy is the clause that only the information which users have agreed to make available may be used to generate reports. 
+This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
 
 You can access the learning station here: [ls.bettercare.co.za](http://ls.bettercare.co.za/)
 
@@ -146,32 +146,29 @@ Some Bettercare books include chapters on practical skills that need to be pract
 
 ### Bettercare tests and examinations
 
-Self-evaluation is the most important part of learning. For every chapter, participants take a short self-test before and after studying each chapter. This way participants can see their knowledge improve, and can address specific weaknesses.
+Self-evaluation is the most important part of learning. For every chapter, participants take a short self-test before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
 
-Tests are included in our printed books and ebooks, and participants can take them for free on our [Learning Station](http://ls.bettercare.co.za/) for instant results.
+Tests are included in all our printed books and ebooks. Participants can take them for free on our [Learning Station](http://ls.bettercare.co.za/) for instant results.
 
-Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a digital certificate which states that they have successfully completed that course. 
-
+Bettercare also offers a final examination for each learning programme. Participants need to achieve at least 80% in the final examination in order to successfully complete the learning programme. Successful candidates will be sent a digital certificate stating that they have successfully completed that learning programme. 
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
-
 ### Perinatal Education Trust
 
-The [Perinatal Education Programme (PEP)](http://www.pepcourse.co.za/) is produced and distributed by the Perinatal Education Trust, a non-profit organisation which aims to improve the care of pregnant women and their newborn infants, especially in poor, rural communities.
+The Perinatal Education Trust (PET) is a non-profit organisation which aims to improve the care of pregnant women and their newborn infants, especially in poor, rural communities. The Perinatal Education Trust produces and distributes all [Perinatal Education Programme (PEP)](http://www.pepcourse.co.za/) material.
 
 PEP presents a unique form of self-help training for health professionals which places the responsibility for continuing education on the participants themselves. It is cheap, appropriate, practical and does not require a teacher.
 
-### Breast Courses for Nurses
+### Breast Course for Nurses
 
-The [Breast Course for Nurses](http://www.breastcourse4nurses.co.za/) (BCN) combines distance education with a residential course. The emphasis is on learning rather than teaching. The Breast Course for Nurses can be adapted to suit the needs of the health care providers being trained.
+The [Breast Course for Nurses (BCN)](http://www.breastcourse4nurses.co.za/) combines distance education with a residential course. The emphasis is on learning rather than teaching. The Breast Course for Nurses can be adapted to suit the needs of the healthcare providers being trained.
 
 ### Academic Unit for Infection Prevention and Control at Stellenbosch University
 
-The [Academic Unit for Infection Prevention and Control](http://www.sun.ac.za/english/faculty/healthsciences/Pages/Infectious-Diseases%E2%80%8B%E2%80%8B%E2%80%8B.aspx) (UIPC) is based at Tygerberg Academic Hospital and the FMHS. It resides under the Division of Community Health and is also a member of the Centre for Infectious Diseases.
+The [Academic Unit for Infection Prevention and Control (UIPC)](http://www.sun.ac.za/english/faculty/healthsciences/Pages/Infectious-Diseases%E2%80%8B%E2%80%8B%E2%80%8B.aspx) is based at Tygerberg Academic Hospital and the Stellenbosch University Faculty of Medicine and Health Sciences (FHMS). It resides under the Division of Community Health and is also a member of the Centre for Infectious Diseases.
 
-The UPIC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in infection prevention and control (IPC) as well as decontamination and sterilization for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as the operating theatre, renal dialysis, intensive care and infectious diseases.
+The UIPC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in Infection Prevention and Control (IPC) as well as decontamination and sterilization for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as operating theatres, renal dialysis units, intensive care units and infectious disease management and control.
 
 ### Eduhealthcare
 
@@ -201,10 +198,12 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Bettercare
 
-*	Website: [www.bettercare.co.za](http://bettercare.co.za)
-*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za) / [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
 *	Phone: +27 76 657 0353
 *	Fax: 086 219 8093
+*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
+*	Email: [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
+*	Website: [www.bettercare.co.za](http://bettercare.co.za)
+*	Learning Station: [ls.bettercare.co.za](http://ls.bettercare.co.za/)
 {:.keep-together}
 
 ### Perinatal Education Programme
@@ -221,7 +220,11 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Support
 
-Please contact us if you would like to know which educational courses are still pending funding in order to be developed, or published, and added to our free online learning station for healthcare workers. 
+Please contact us if you would like to know which learning programmes are available in print, ebook or online format. A current list is available on [www.bettercare.co.za/learning-programmes](http://bettercare.co.za/learning-programmes/). 
+
+For information on learning programmes pending funding for development, publication and addition to the free online Learning Station, please email us at [info@bettercare.co.za](mailto:info@bettercare.co.za).
+
+## Registration
 
 *	NPO Registration number: 174-928
 *	PBO Registration number: 930053582
