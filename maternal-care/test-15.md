@@ -6,6 +6,8 @@ layout: test
 
 # Test 15: Regionalised perinatal care
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is regionalised perinatal care?
 	1.	All perinatal care in a town is provided in a single hospital.
 	1.	All patients living in a community are delivered at the same clinic.
@@ -13,9 +15,9 @@ layout: test
 	1.	The community must provide the money needed to run the clinics in that region.
 2.	What percentage of patients can usually be classified as low risk?
 	1.	10%
-	1.	20%
-	1.	35%
+	1.	25%
 	1.	60%
+	1.	75%
 3.	Most low-risk pregnant women should be:
 	1.	Delivered in hospital
 	1.	Delivered in a perinatal-care clinic
@@ -79,8 +81,8 @@ layout: test
 15.	Patient notes at a perinatal-care clinic should:
 	1.	Be kept by the clinic
 	1.	Be written in the patient’s folder
-	1.	Be recorded in a maternity case record which the patient keeps
-	1.	Be written in detail both in the clinic folder and on the patient’s materity case record
+	1.	Be recorded on an antenatal card which the patient keeps
+	1.	Be written in detail both in the clinic folder and on the patient’s antenatal card.
 16.	What should be done to make the transfer of a patient from a clinic to hospital as safe as possible?
 	1.	She should be transferred immediately.
 	1.	Time should not be wasted by contacting the hospital by telephone.
@@ -91,11 +93,11 @@ layout: test
 	1.	Dehydration
 	1.	Postural hypotension
 	1.	Motor vehicle accident
-18.	How is the maternal mortality ratio expressed?
+18.	How is the maternal mortality rate expressed?
 	1.	As a percentage
 	1.	Per 1000 deliveries
 	1.	Per 10 000 deliveries
-	1.	Per 100 000 live births
+	1.	Per 100 000 deliveries
 19.	The maternal mortality rate in a developing country is usually:
 	1.	50 or more
 	1.	25–50
