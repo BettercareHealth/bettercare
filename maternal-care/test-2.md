@@ -48,7 +48,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Good fetal movements do not necessarily indicate fetal wellbeing.
 	1.	From 28 weeks, all patients should be told about the importance of fetal movements.
 	1.	A decrease in fetal movements always indicates that the fetus is distressed.
-9.	Which patients should use a fetal-movement chart?
+9.	Which patients should use a fetal movement chart?
 	1.	All patients, where there is reason to be worried about the fetal condition
 	1.	All primigravidas
 	1.	All pregnant patients from 28 weeks gestation
@@ -78,11 +78,11 @@ Please choose the one most correct answer to each question or statement.
 	1.	All pregnant patients should routinely have antenatal fetal heart rate monitoring.
 	1.	Antenatal fetal heart rate monitoring should be done on all patients with suspected intra-uterine growth restriction.
 	1.	Antenatal fetal heart rate monitoring should be done on high-risk patients where fetal movements have not been shown to be a reliable method of assessing the fetal condition, such as insulin-dependent diabetics, prelabour rupture of the membranes and pre-eclampsia which is being managed conservatively.
-15. (*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*) If there is a non-reactive fetal heart rate pattern: 
+15.	(*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*) If there is a non-reactive fetal heart rate pattern: 
 	1.	No decelerations occur despite uterine contractions.
 	1.	Fetal distress should be suspected and intra-uterine resuscitation must be undertaken.
 	1.	The test must be repeated after 45 minutes.
-	1.	The beat-to-beat variability must be assessed to determine the presence or absence of fetal wellbeing.
+	1.	The variability must be assessed to determine the presence or absence of fetal wellbeing.
 16.	Why must you repeat the test 45 minutes after a non-reactive fetal heart rate pattern, with poor beat-to-beat variability, is obtained?
 	1.	Supine hypotension or spontaneous hyperstimulation of the uterus may be present.
 	1.	Such a fetal heart rate pattern indicates fetal distress and the test must be repeated immediately.

@@ -6,8 +6,6 @@ layout: test
 
 # Test 10: Managing pain during labour
 
-Please choose the one most correct answer to each question or statement.
-
 1.	Analgesia means:
 	1.	The relief of pain
 	1.	Relieving anxiety
@@ -48,8 +46,8 @@ Please choose the one most correct answer to each question or statement.
 	1.	When a patient is having 3 strong contractions in 10 minutes
 	1.	When a patient reaches the active phase of the first stage of labour
 	1.	When a patient asks for pain relief
-9.	Promethazine (Phenegan) or hydroxyzine (Aterax) should always be given together with pethidine for the relief of pain during labour because:
-	1.	They have a tranquillising effect
+9.	Promethazine (Phenergan) or hydroxyzine (Aterax) should always be given together with pethidine for the relief of pain during labour because:
+	1.	They have a sedative effect
 	1.	They decrease nausea and vomiting which are common side effects of pethidine
 	1.	They increase the analgesic effect of pethidine
 	1.	All of the above
@@ -63,7 +61,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Respiratory depression in the patient
 	1.	Convulsions
 	1.	Excessive drowsiness
-12.	Pethidine and promethazine (Phenegan) or hydroxyzine (Aterax) should only be given if:
+12.	Pethidine and promethazine (Phenergan) or hydroxyzine (Aterax) should only be given if:
 	1.	The cervical dilatation is 4 cm or less in a multigravida patient
 	1.	The patient is unlikely to deliver in the next 4 to 6 hours
 	1.	The intramuscular route is used

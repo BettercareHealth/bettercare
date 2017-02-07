@@ -25,19 +25,19 @@ Please choose the one most correct answer to each question or statement.
 	1.	Only those patients who had a transverse lower segment incision for a non-recurring indication may be allowed to have a vaginal labour
 4.	The last normal menstrual period may be used to calculate the duration of pregnancy:
 	1.	If that was the last menstrual period while the patient was on her last packet of oral contraceptive pills
-	1.	If the patient has a regular cycle and she was not on contraceptives.
+	+	If the patient has a regular cycle and she was not on contraceptives.
 	1.	If the last menstrual period had started earlier and had been shorter than the patient would have expected.
 	1.	Patients’ information about their last menstrual period is always wrong.
-5. A cervical smear for cytology must be done during the first antenatal visit as part of the gynaecological examination:
+5.	A cervical smear for cytology must be done during the first antenatal visit as part of the gynaecological examination:
 	1.	In all women
 	1.	Only if the cervix appears abnormal.
 	1.	From all women 30 years or more who have not had a previous smear which had been reported as normal
 	1.	Only if there is a symptomatic vaginal discharge (e.g. itchiness or burning)
 6.	The abdominal examination is a useful assessment of the duration of pregnancy:
-	1.	From 8–12 weeks
-	1.	From 10–16 weeks
-	1.	From 13-17 weeks
-	1.	From 18-24 weeks
+	1.	From 8 to 12 weeks
+	1.	From 10 to 16 weeks
+	1.	From 13 to 17 weeks
+	1.	From 18 to 24 weeks
 7.	If a patient is 10 weeks pregnant:
 	1.	The fundus will be palpable 2 cm above the pelvic symphysis
 	1.	The fundus is not palpable abdominally and it is, therefore, not possible to determine whether the dates correlate with the size of the uterus
@@ -68,19 +68,19 @@ Please choose the one most correct answer to each question or statement.
 	1.	On patients needing elective delivery, e.g. those with two previous Caesarean sections
 	1.	On patients with a history of severe pre-eclampsia before 34 weeks gestation
 	1.	In all of the above patients
-13.	Which of the following results indicate active syphilis?
-	1.	A negative RPR (VDRL)
-	1.	A positive RPR (VDRL) plus a negative TPHA
-	1.	A positive RPR (VDRL) plus a positive TPHA
-	1.	A CIN III lesion on cervical cytology smear
-14.	A positive RPR (VDRL) indicates the presence of syphilis if:
+13.	A positive RPR (VDRL) indicates the presence of syphilis if:
 	1.	The titre is 1:4 or more
 	1.	The titre is 1:8 or more
 	1.	The titre is 1:16 or more
 	1.	Any titre is present
+14.	Which of the following results indicate active syphilis?
+	1.	A positive syphilis rapid test
+	1.	A positive syphilis rapid test plus a negative RPR
+	1.	A positive syphilis rapid test plus a positive RPR
+	1.	A CIN III lesion on cervical cytology smear
 15.	Syphilis in pregnancy should be treated with: 
 	1.	Nitrofurantoin (Macrodantin)
-	1.	Benzathene penicillin (Bicillin LA or Penilente LA)
+	1.	Benzathine penicillin (Bicillin LA or Penilente LA)
 	1.	Tetracycline
 	1.	Ampicillin
 16.	How often should a woman at low risk, who lives near a clinic, visit the antenatal clinic between 28 and 34 weeks?
@@ -98,13 +98,13 @@ Please choose the one most correct answer to each question or statement.
 	1.	Stage 2
 	1.	Stage 3
 	1.	Stage 4
-19.	Antiretroviral prophylaxis should be provided with:
+19.	Antiretroviral treatment during pregnancy should be provided with:
 	1.	AZT alone
 	1.	Nevirapine alone
 	1.	A fixed combination dose (FCD) pill
 	1.	AZT plus FDC
-20.	Antiretroviral treatment is indicated if the woman has:
-	1.	A CD4 count below 500 cells/mm³
-	1.	A CD4 count below 350 cells/mm³
+20.	FDC is contraindicated if the woman has:
+	1.	Stage 4 disease
+	1.	Chronic renal disease
 	1.	Oral candidiasis (thrush)
-	1.	Vaginal candidiasis
+	1.	Repeated upper respiratory tract infections
