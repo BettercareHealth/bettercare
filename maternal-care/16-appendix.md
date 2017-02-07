@@ -15,9 +15,7 @@ layout: chapter
 
 ## Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium
 
-The following tables list most of the risk factors and medical problems which may occur during pregnancy, labour, and the puerperium. They also give the possible adverse effects of these conditions, indicate the actions needed, and suggest the level of care required. The tables should be read, but need not be learned. These tables provide a very useful reference for both midwives and doctors who are caring for a patients with risk factors.
-
-The following list gives risk factors which may occur during pregnancy together with their possible adverse effects and assorted problems, and actions which can lead to the prevention, early diagnosis and correct management of complications. The level of care required by the patient is noted in the last column. The list also serves as a useful guide to management, and can be referred to when risk factors are present or develop during pregnancy. The management of many of the problems is discussed in more detail elsewhere in the Perinatal Education Programme.
+The following tables list most of the risk factors and medical problems which may occur during pregnancy, labour, and the puerperium. They also give the possible adverse effects of these conditions, indicate the actions needed, and suggest the level of care required in the last column. The list also serves as a useful guide to management, and can be referred to when risk factors are present or develop during pregnancy. The management of many of the problems is discussed in more detail elsewhere in the Perinatal Education Programme. The tables should be read, but need not be learned. These tables provide a very useful reference for both midwives and doctors who are caring for a patients with risk factors.
 
 The level of care needed is shown as follows:
 
@@ -134,29 +132,30 @@ The level of care needed is shown as follows:
   <td>1</td>
  </tr>
  <tr>
-  <td><p>If present –</p></td>
+  <td><p>If present –</p><p>Glucose profile at 28 weeks. </p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td><p>Epilepsy</p></td>
   <td><p>Convulsions may occur more frequently in pregnancy. Some anticonvulsant drugs may cause congenital abnormalities.</p></td>
-  <td><p>The dose of anticonvulsant drugs may need to be increased. </p>
+  <td>
+<p>The dose of anticonvulsant drugs may need to be increased. </p>
    <p>Put the patient on a safe drug before pregnancy (e.g. carbamazepine). The drugs are not changed during pregnancy because of the danger of convulsions.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td rowspan="3"><p>Congenital abnormalities (in the family)</p></td>
   <td rowspan="3"><p>Serious abnormalities tend to recur.</p></td>
-  <td>Arrange for ultrasound and amniocentesis at 16 weeks:</td>
+  <td>Determine the duration of pregnancy:</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>If normal –</td>
+  <td><p>If 13 weeks or less, an ultrasound examination for nuchal thickness is done, followed at 22 weeks looking for structural defects.</p></td>
   <td>1</td>
  </tr>
  <tr>
-  <td><p>If abnormal –</p></td>
-  <td><p>2</p></td>
+  <td><p>If more than 13 weeks, a genetic amniocentesis should be done between 16 and 22 weeks.</p></td>
+  <td>2</td>
  </tr>
  <tr>
   <td><p>Drugs or medication</p></td>
@@ -169,8 +168,8 @@ The level of care needed is shown as follows:
   <td rowspan="2"><p>HIV</p></td>
   <td rowspan="2"><p>Mother-to-child transmission of HIV.</p>
    <p>With AIDS the mother’s clinical condition may deteriorate.</p></td>
-  <td><p>Join a prevention of mother-to-child transmission programme.</p>
-   <p>Refer to an antiretroviral (ARV) clinic for HAART.</p></td>
+  <td><p>Commence patient on FDC if no contra-indications.</p>
+   <p>If contra-indications refer to an antiretroviral (ARV) clinic.</p></td>
   <td>1</td>
  </tr>
  <tr>
@@ -196,13 +195,13 @@ The level of care needed is shown as follows:
   <td><p>Rubella</p></td>
   <td><p>Congenital abnormalities.</p></td>
   <td><p>Ask about fever and a skin rash in the first trimester of pregnancy and also about contact with rubella.</p>
-   <p>Antibody titres can confirm or exclude diagnosis.</p></td>
+   <p>Rubella antibody titres can confirm or exclude diagnosis.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
   <td><p>Thyrotoxicosis (hyperthyroidism)</p></td>
   <td><p>Thyrotoxicosis and/or goitre in the neonate.</p></td>
-  <td><p>Get detailed information about the illness and medication. </p>
+  <td><p>Get detailed information about the illness and medication. Request maternal thyroid hormone levels.</p>
    <p>Thyroid hormone levels in cord blood.</p></td>
   <td><p>2</p></td>
  </tr>
@@ -228,9 +227,9 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td><p>Chronic cough more than 21 days. Night sweats and weight loss.</p></td>
+  <td><p>Chronic cough more than 14 days. Night sweats, fever and weight loss.</p></td>
   <td><p>Possible tuberculosis and/or AIDS.</p></td>
-  <td><p>Single X-ray chest with fetus screened off and sputum for acid fast bacilli.</p>
+  <td><p>Single X-ray chest with fetus screened off and sputum for GeneXpert or acid fast bacilli.</p>
    <p>A rapid test if HIV status unknown.</p></td>
   <td><p>1</p></td>
  </tr>
@@ -246,7 +245,7 @@ The level of care needed is shown as follows:
   </tr>
  <tr>
   <td rowspan="3"><p>Hypertension:</p>
-   <p>1. Diastolic 90 mm Hg or more.</p>
+   <p>1. Diastolic 90 and/or systolic 140 mm Hg or more.</p>
    <p>2. Antihypertensive treatment.</p></td>
   <td rowspan="3"><p>Pre-eclampsia, abruptio placentae, and IUGR or perinatal death.</p></td>
   <td>Change to alpha methyldopa and stop diuretics:</td>
@@ -302,7 +301,7 @@ The level of care needed is shown as follows:
  </tr>
  <tr>
   <td rowspan="3"><p>Jaundice</p></td>
-  <td rowspan="3"><p>Danger if the patient is a carrier of the hepatitis B virus.</p>
+  <td rowspan="3"><p>Determine if the patient is a carrier of the hepatitis B virus.</p>
    <p>Can infect the infant during delivery.</p></td>
   <td>Test for the hepatitis B antigen:</td>
   <td>&nbsp;</td>
@@ -316,9 +315,9 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td><p>HIV positive and on HAART</p></td>
+  <td><p>HIV positive and on FDC</p></td>
   <td><p>High risk for serious liver damage</p></td>
-  <td><p>Stop nevirapine and refer to an ARV clinic</p></td>
+  <td><p>Stop FDC and refer to an ARV clinic</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -333,7 +332,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Cystitis</p></td>
   <td><p>Common in pregnancy.</p></td>
-  <td><p>MSU for culture if symptomatic.</p></td>
+  <td><p>MSU for culture if symptomatic.</p><p>Treat with single dose antibiotics</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
@@ -347,7 +346,7 @@ The level of care needed is shown as follows:
  </tr>
  <tr>
   <td><p>Thyroidectomy</p></td>
-  <td><p>Hypothyroidism can develop during pregnancy with the danger of abortion.</p>
+  <td><p>Hypothyroidism can develop during pregnancy with the danger of abortion and neurologic impairment of the fetus.</p>
    <p>If hyperthyroidism was the indication for surgery, manage as for thyrotoxicosis.</p></td>
   <td><p>Look carefully for an operation scar. </p>
    <p>Thyroid function tests are indicated.</p></td>
@@ -382,7 +381,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Diabetes mellitus</p></td>
   <td><p>Recurs in successive pregnancies. Complications already mentioned.</p></td>
-  <td><p>Random blood glucose if there is glycosuria.</p></td>
+  <td><p>Random blood glucose if there is glycosuria.</p><p>Glucose profile at 28 weeks.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -397,7 +396,7 @@ The level of care needed is shown as follows:
    <p>Obstetric complications are commoner: IUGR, multiple pregnancy, abnormal lie, obstructed labour and postpartum haemorrhage.</p></td>
   <td><p>Motivate for sterilisation.</p>
    <p>Look for medical conditions at the first visit.</p>
-   <p>Look for abnormal lie after 34 weeks.</p></td>
+   <p>Look for abnormal lie after 34 weeks.</p><p>Additional oxytocin following 3rd stage and observe closely.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -418,14 +417,16 @@ The level of care needed is shown as follows:
   <td><p>Possible genetic inheritance.</p>
    <p>High risk of recurrence.</p></td>
   <td><p>Genetic counselling. </p>
-   <p>Amniocentesis and ultrasound may be useful.</p></td>
+   <p>Determine the duration of pregnancy:</p>
+   <p>If 13 weeks or less, an ultrasound examination for the nuchal thickness is done, followed at 22 weeks looking for structural defects.</p>
+   <p>If more than 13 weeks an amniocentesis should be done between 16 and 22 weeks.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
   <td><p>Abortion</p></td>
   <td><p>More than two first trimester abortions.</p>
    <p>One or more mid-trimester abortions.</p></td>
-  <td><p>Genetic amniocentesis indicated.</p>
+  <td><p>Test parents for chromosomal abnormalities.</p>
    <p>If history indicates an incompetent cervix, a MacDonald stitch may be indicated (inserted at 14-16 weeks ).</p></td>
   <td><p>2</p></td>
  </tr>
@@ -438,7 +439,7 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Postpartum haemorrhage and retained placenta</p></td>
   <td><p>Tend to recur in successive pregnancies.</p></td>
-  <td><p>Deliver in hospital.</p></td>
+  <td><p>Deliver in hospital.</p><p>Additional oxytocin following 3rd stage and observe closely.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -454,7 +455,7 @@ The level of care needed is shown as follows:
  </tr>
  <tr>
   <td><p>2. Previous pregnancy with pre-eclampsia developing in late 2nd or early 3rd trimester of pregnancy.</p></td>
-  <td><p>High risk of recurrence. Low dose aspirin (Disprin) 75 mg daily from 14 weeks.</p></td>
+  <td><p>High risk of recurrence. Low dose aspirin (Disprin) 75 mg daily from 14 weeks.</p><p>2 weekly antenatal clinic visits from 24 weeks.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -494,29 +495,29 @@ The level of care needed is shown as follows:
   <td>1</td>
  </tr>
  <tr>
-  <td><p>2. Sonology shows placenta praevia.</p></td>
+  <td><p>2. Ultrasound shows placenta praevia.</p></td>
   <td><p>3</p></td>
  </tr>
  <tr>
   <td><p>Asymptomatic bacteriuria</p></td>
   <td><p>33% incidence of pyelonephritis in these patients.</p>
    <p>High risk of preterm labour.</p></td>
-  <td><p>Course of antibiotics.</p>
+  <td><p>Single dose antibiotics.</p>
    <p>Repeat urine culture at next antenatal visit.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Diastolic blood pressure of 90 mm Hg or more</p></td>
+  <td rowspan="3"><p>Diastolic blood pressure of 90 and/or systolic of 140 mm Hg or more</p></td>
   <td rowspan="3"><p>Hypertension or pre-eclampsia.</p></td>
   <td>Repeat after 30 minutes rest on her side:</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>If diastolic 90-99 mm Hg without proteinuria, start alpha methyldopa.</td>
+  <td>If diastolic 90-99 and systolic 140–149 mm Hg without proteinuria, start alpha methyldopa.</td>
   <td>2</td>
  </tr>
  <tr>
-  <td><p>If diastolic 100 mm Hg or more or proteinuria, admit to hospital.</p></td>
+  <td><p>If diastolic 100 and systolic 150 mm Hg or more or proteinuria, admit to hospital.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -538,26 +539,20 @@ The level of care needed is shown as follows:
   <td><p>2</p></td>
  </tr>
  <tr>
-  <td rowspan="3"><p>Glycosuria 3+ or more</p></td>
-  <td rowspan="3"><p>Probable diabetes.</p></td>
+  <td rowspan="3"><p>Glycosuria 1+ or more</p></td>
+  <td rowspan="3"><p>Possible diabetes.</p></td>
   <td>Random blood glucose estimation:</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td><p>8 to 11 mmol/l – arrange for fasting blood glucose estimation.</p></td>
+  <td><p>Less than 8 mmol/l is normal. </p>
+<p>8 to 11 mmol/l – arrange for fasting blood glucose estimation.</p></td>
   <td>1</td>
  </tr>
  <tr>
   <td><p>11 mmol/l or more = diabetes.</p>
    <p>Admit to hospital for control if diabetes diagnosed.</p></td>
   <td><p>2</p></td>
- </tr>
- <tr>
-  <td><p>Glycosuria 1+ and 2+</p></td>
-  <td><p>Possible diabetes.</p></td>
-  <td><p>Arrange for random blood glucose estimation.</p>
-   <p>Less than 8 mm/l is normal.</p></td>
-  <td><p>1</p></td>
  </tr>
  <tr>
   <td><p>Haemoglobin less than 10&nbsp;g/dl</p></td>
@@ -604,7 +599,7 @@ The level of care needed is shown as follows:
    <p>Multiple pregnancy.</p>
    <p>Diabetes mellitus.</p>
    <p>Rh sensitisation may be present.</p></td>
-  <td><p>Ultrasound examination and random blood glucose estimation are indicated. Check blood groups, and possible sensitisation.</p>
+  <td><p>Ultrasound examination and glucose profile are indicated. Check blood groups, and possible sensitisation.</p>
    <p>Exclude oesophageal atresia in the infant immediately after birth.</p></td>
   <td><p>2</p></td>
  </tr>
@@ -629,7 +624,7 @@ The level of care needed is shown as follows:
  <tr>
   <td rowspan="2"><p>Ruptured membranes</p></td>
   <td rowspan="2"><p>Preterm labour and chorioamnionitis.</p></td>
-  <td>If 36 weeks or more admit to hospital, wait until the membranes have been ruptured for hours, then induce labour with oxytocin.</td>
+  <td>If 36 weeks or more admit to hospital, wait until the membranes have been ruptured for 24 hours, then induce labour with oxytocin.</td>
   <td>1</td>
  </tr>
  <tr>
@@ -658,18 +653,18 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>If less than 34 weeks admit to level 3 hospital. Consider suppression of labour with a beta2 stimulant.</p></td>
+  <td><p>If less than 34 weeks admit to level 3 hospital. Consider suppression of labour and steroids for lung maturity.</p></td>
   <td><p>3</p></td>
  </tr>
  <tr>
-  <td><p>VDRL and FTA/ TPHA positive, or </p>
+  <td><p>Rapid syphilis test positive and </p>
    <p>VDRL titre 1:16 or more</p></td>
   <td><p>Congenital syphilis.</p></td>
   <td><p>Patient must receive full treatment.</p></td>
   <td><p>1</p></td>
  </tr>
  <tr>
-  <td><p>VDRL titre less than 1: 16 and FTA or TPHA not available</p></td>
+  <td><p>Rapid syphilis test positive and VDRL titre less than 1:16</p></td>
   <td><p>No history of full treatment of woman and partner in past 3 months.</p></td>
   <td><p>Patient must be fully treated.</p></td>
   <td><p>1</p></td>
@@ -681,7 +676,7 @@ The level of care needed is shown as follows:
    <p>Diabetes.</p>
    <p>Large fetus.</p>
    <p>Incorrect dates.</p></td>
-  <td><p>Arrange for sonology and random blood glucose estimation. With a large fetus there is a danger of disproportion Be ready for shoulder dystocia.</p></td>
+  <td><p>Arrange for ultrasound and glucose profile.</p><p>With a large fetus there is a danger of disproportion. </p><p>Be ready to manage shoulder dystocia.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>
@@ -738,7 +733,9 @@ The level of care needed is shown as follows:
  <tr>
   <td><p>Single mother and/or unwanted pregnancy</p></td>
   <td><p>Complications of pregnancy are commoner because of usually poorer socio-economic circumstances.</p></td>
-  <td><p>Social support may be needed.</p>
+  <td>
+<p>Counsel about termination of pregnancy if less than 14 weeks.</p>
+<p>Social support may be needed.</p>
    <p>Advise about an effective method of family planning.</p>
    <p>Sterilisation may be indicated in a multipara.</p></td>
   <td><p>1</p></td>

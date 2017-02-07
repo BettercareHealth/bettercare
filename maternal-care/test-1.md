@@ -66,16 +66,16 @@ layout: test
 	-	On patients needing elective delivery, e.g. those with two previous Caesarean sections
 	-	On patients with a history of severe pre-eclampsia before 34 weeks gestation
 	+	In all of the above patients
-13.	Which of the following results indicate active syphilis?
-	-	A negative RPR (VDRL)
-	-	A positive RPR (VDRL) plus a negative TPHA
-	+	A positive RPR (VDRL) plus a positive TPHA
-	-	A CIN III lesion on cervical cytology smear
-14.	A positive RPR (VDRL) indicates the presence of syphilis if:
+13.	A positive RPR (VDRL) indicates the presence of syphilis if:
 	-	The titre is 1:4 or more
 	-	The titre is 1:8 or more
 	+	The titre is 1:16 or more
 	-	Any titre is present
+14.	Which of the following results indicate active syphilis?
+	-	A positive syphilis rapid test
+	-	A positive syphilis rapid test plus a negative RPR
+	+	A positive syphilis rapid test plus a positive RPR
+	-	A CIN III lesion on cervical cytology smear
 15.	Syphilis in pregnancy should be treated with: 
 	-	Nitrofurantoin (Macrodantin)
 	+	Benzathine penicillin (Bicillin LA or Penilente LA)
@@ -96,13 +96,13 @@ layout: test
 	-	Stage 2
 	-	Stage 3
 	+	Stage 4
-19.	Antiretroviral prophylaxis should be provided with:
-	-	AZT alone
-	-	Nevirapine alone
-	+	A fixed combination dose (FCD) pill
-	-	AZT plus FDC
-20.	Antiretroviral treatment is indicated if the woman has:
-	-	A CD4 count below 500 cells/mm³
-	+	A CD4 count below 350 cells/mm³
+19.	Antiretroviral treatment during pregnancy should be provided with:
+  	-	AZT alone
+  	-	Nevirapine alone
+  	+	A fixed combination dose (FCD) pill
+  	-	AZT plus FDC
+20.	FDC is contra-indicated if the woman has:
+	-	Stage 4 disease
+	+	Chronic renal disease
 	-	Oral candidiasis (thrush)
-	-	Vaginal candidiasis
+	-	Repeated upper respiratory tract infections

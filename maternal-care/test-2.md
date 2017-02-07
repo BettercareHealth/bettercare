@@ -46,7 +46,7 @@ layout: test
 	-	Good fetal movements do not necessarily indicate fetal wellbeing.
 	+	From 28 weeks, all patients should be told about the importance of fetal movements.
 	-	A decrease in fetal movements always indicates that the fetus is distressed.
-9.	Which patients should use a fetal-movement chart?
+9.	Which patients should use a fetal movement chart?
 	+	All patients, where there is reason to be worried about the fetal condition
 	-	All primigravidas
 	-	All pregnant patients from 28 weeks gestation
@@ -80,7 +80,7 @@ layout: test
 	-	No decelerations occur despite uterine contractions.
 	-	Fetal distress should be suspected and intra-uterine resuscitation must be undertaken.
 	-	The test must be repeated after 45 minutes.
-	+	The beat-to-beat variability must be assessed to determine the presence or absence of fetal wellbeing.
+	+	The variability must be assessed to determine the presence or absence of fetal wellbeing.
 16.	Why must you repeat the test 45 minutes after a non-reactive fetal heart rate pattern, with poor beat-to-beat variability, is obtained?
 	-	Supine hypotension or spontaneous hyperstimulation of the uterus may be present.
 	-	Such a fetal heart rate pattern indicates fetal distress and the test must be repeated immediately.

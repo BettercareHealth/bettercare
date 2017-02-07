@@ -66,21 +66,21 @@ layout: test
 	+	When 2/5 or less of the fetal head can be palpated above the pelvic brim on abdominal examination
 	-	A patient with a painless, bright red vaginal bleed
 	-	A patient with a breech presentation
-13.	Following a small vaginal bleed at 34 weeks gestation, the diagnosis of placenta praevia is confirmed with ultrasonography. Which of the following will be the correct further management?
+13.	Which of the following will exclude a placenta praevia?
+	-	A careful speculum examination
+	-	A careful abdominal examination
+	-	The presence of fetal distress
+	+	Ultrasonography
+14.	Following a small vaginal bleed at 34 weeks gestation, the diagnosis of placenta praevia is confirmed with ultrasonography. Which of the following will be the correct further management?
 	-	The fetus must be delivered immediately by Caesarean section.
 	-	A vaginal examination must be done in theatre immediately to confirm the diagnosis.
 	+	The patient must be hospitalised and managed conservatively until 36 weeks or until active bleeding starts again.
 	-	The membranes must be ruptured to induce labour.
-14.	An antepartum haemorrhage of unknown cause should be suspected:
+15.	An antepartum haemorrhage of unknown cause should be suspected:
 	-	When the history and abdominal examination are not suggestive of an abruptio placentae
 	-	When local causes of bleeding have been excluded by a speculum examination
 	-	When a placenta praevia is excluded
 	+	When all of the above causes of an antepartum haemorrhage have been excluded
-15.	Which of the following will exclude a placenta praevia?
-	-	A careful speculum examination
-	-	A careful abdominal examination
-	-	The presence of fetal distress
-	+	A vaginal examination in theatre
 16.	How should you manage a patient with an antepartum haemorrhage of unknown cause?
 	+	The patient must be admitted to hospital where fetal movements should be carefully monitored, especially during the first 24 hours.
 	-	Because the risk of an abruptio placentae is so great, an emergency Caesarean section must be done.

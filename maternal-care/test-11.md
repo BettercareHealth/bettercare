@@ -55,7 +55,7 @@ layout: test
 	-	Wait for a further 30 minutes for placental separation.
 	-	A doctor should perform a manual removal of the placenta in theatre as an emergency procedure.
 	-	As the active method of managing the third stage of labour has failed, the passive method should be used.
-	+	Start an intravenous infusion containing 20 units of oxytocin, make sure that the uterus is well contracted and apply controlled cord traction.
+	+	Start an intravenous infusion with a side infusion containing 20 units of oxytocin, make sure that the uterus is well contracted and apply controlled cord traction.
 11.	When should the diagnosis of postpartum haemorrhage be made?
 	-	After a blood loss of more than 250 ml within the first 12 hours after delivery of the infant
 	-	After a blood loss of more than 750 ml within the first seven days after delivery of the infant
@@ -63,7 +63,7 @@ layout: test
 	+	Any haemorrhage following the delivery of the infant which appears to be excessive must be regarded as a postpartum haemorrhage.
 12.	What is the management of a retained placenta following the active management of the third stage of labour?
 	-	Pethidine and diazepam (Valium) must be given intravenously and a manual removal of the placenta done in the labour ward.
-	+	An intravenous infusion with 20 units of oxytocin should be started to ensure a well-contracted uterus and then the patient should be referred to hospital for a manual removal under general anaesthesia.
+	+	An intravenous infusion with a side infusion containing 20 units of oxytocin should be started to ensure a well-contracted uterus and then the patient should be referred to hospital for a manual removal under general anaesthesia.
 	-	Allow a further 30 minutes of observation before referring the patient.
 	-	Apply fundal pressure together with traction on the cord to deliver the placenta.
 13.	What should be done if a severe haemorrhage occurs before the delivery of the placenta and the third stage of labour is being managed by the passive method?

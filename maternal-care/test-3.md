@@ -104,5 +104,5 @@ layout: test
 20.	How should a patient, who feels well but has a diastolic blood pressure of 90 mm Hg at 36 weeks gestation, be managed? At all her previous antenatal visits, her blood pressure was normal, and she has no proteinuria.
 	-	She must be given an intramuscular injection of dihydralazine (Nepresol).
 	-	She must be hospitalised.
-	+	Weekly antenatal visits should be arranged with additional visits if necessary.
+	+	Alpha methyl dopa (Aldomed) must be prescribed and weekly antenatal visits should be arranged with additional visits if necessary.
 	-	A full blood count should be done to exclude a low platelet count.

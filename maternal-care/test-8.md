@@ -26,7 +26,7 @@ layout: test
 	-	If there have been no cervical changes, the membranes should be ruptured.
 	+	If there has been slow dilatation and effacement of the cervix, it may be necessary to rupture the membranes.
 	-	An oxytocin infusion should be started.
-5.	A patient presents in established labour with regular contractions and ruptured membranes. On vaginal examination the cervix is 5 cm dilated. Where should her cervical dilatation be noted on the partogram?
+5.	A patient is admitted in established labour with regular contractions and ruptured membranes. On vaginal examination the cervix is 5 cm dilated. Where should her cervical dilatation be noted on the partogram?
 	+	On the alert line opposite 5 cm cervical dilatation
 	-	At the beginning of the latent phase of labour opposite 5 cm cervical dilatation
 	-	At the end of the latent phase of labour opposite 5 cm cervical dilatation
@@ -51,7 +51,7 @@ layout: test
 	-	If she has 3 or more contractions every 10 minutes with each contraction lasting 60 seconds or longer
 	+	If she progresses normally during labour
 	-	If she has pain with every contraction
-10.	If a primigravida has poor progress in labour in spite of good, painful uterine contractions, your diagnosis should be:
+10.	If a primigravida has poor progress in labour in spite of good, painful uterine contractions, without any moulding, your diagnosis should be:
 	+	Ineffective uterine contractions
 	-	Cephalopelvic disproportion
 	-	A small pelvis
@@ -74,7 +74,7 @@ layout: test
 14.	A patient at term presents after having been in labour at home for some time. On admission, cephalopelvic disproportion is diagnosed. What is the correct further management of this patient?
 	-	An oxytocin infusion should be started.
 	+	A Caesarean section should be done.
-	-	The patient should be given pethidine and hydroxyzine (Aterax).
+	-	The patient should be given pethidine and promethazine (Phenergan).
 	-	The patient should be reassured that she will labour and deliver normally.
 15.	A primigravida presents in labour at term. She is having 2 contractions of 35 seconds each every 10 minutes. The cervix is 3 cm dilated and the membranes have ruptured. Her cervical dilatation is plotted on the alert line. 4 hours later the cervix is 4 cm dilated and her other observations are unchanged. There are no signs of cephalopelvic disproportion. What is the correct management?
 	+	An oxytocin infusion should be started.
