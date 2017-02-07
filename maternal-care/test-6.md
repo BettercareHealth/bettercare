@@ -6,8 +6,6 @@ layout: test
 
 # Test 6: Monitoring the condition of the mother during the first stage of labour
 
-Please choose the one most correct answer to each question or statement.
-
 1.	What is a partogram?
 	1.	A chart for recording cervical dilatation only
 	1.	An observation chart to record the clinical findings during the antenatal period

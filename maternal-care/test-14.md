@@ -6,8 +6,6 @@ layout: test
 
 # Test 14: Family planning after pregnancy
 
-Please choose the one most correct answer to each question or statement.
-
 1.	The most important aim of family planning is to:
 	1.	Save money
 	1.	Improve the quality of life for everyone
@@ -43,67 +41,67 @@ Please choose the one most correct answer to each question or statement.
 	1.	Smoking under 35 years of age
 	1.	Smoking over 35 years of age
 	1.	Non-smoking at 40 years of age
-8.	A young healthy woman who is not a smoker and is on a combined pill should:
+8.	A healthy woman who is not a smoker and is on a combined pill should:
 	1.	Stop taking the pill after 1 year
 	1.	Stop taking the pill after five years
 	1.	Stop taking the pill for a few months periodically every few years
-	1.	Stop taking the pill at 50 years of age
-9.	Lactation is reduced by:
+	1.	Stop taking the pill at 35 years of age if she has a body mass index (BMI) of 40 or more
+9.	An injectable is a suitable contraceptive method for a woman who:
+	1.	Is planning a pregnancy within the next 6 months
+	1.	Is planning a pregnancy in 1 to 2 years
+	1.	Has a history of current breast cancer
+	1.	Is 35 years old with two children and wants no further children
+10.	Lactation is reduced by:
 	1.	The progestogen-only pill (minipill)
 	1.	An intra-uterine contraceptive device
 	1.	An injectable
 	1.	A combined oral contraceptive pill
-10.	The combined oral contraceptive pill causes:
+11.	The combined oral contraceptive pill may cause:
 	1.	Menorrhagia (heavy and/or prolonged menstruation)
 	1.	Carcinoma of the ovary
 	1.	Nausea and breast tenderness
 	1.	Permanent infertility
-11.	The side effects of injectable contraceptives (depot progestogens) include:
+12.	The side effects of injectable contraceptives (depot progestogens) include:
 	1.	Decreased lactation
 	1.	Increased risk of pelvic infection
 	1.	Increased risk of thromboembolism
 	1.	Amenorrhoea
-12.	The effectiveness of combined oral contraceptive pills may be impaired by:
+13.	The effectiveness of combined oral contraceptive pills may be impaired by:
 	1.	Aspirin
 	1.	Antibiotics
 	1.	Antacids
 	1.	Coffee
-13.	Tubal ligation causes:
+14.	Tubal ligation causes:
 	1.	Menstrual abnormalities
 	1.	Weight gain
 	1.	Headaches
 	1.	None of the above
-14.	Health benefits of combined oral contraceptives include:
+15.	Health benefits of combined oral contraceptives include:
 	1.	No effect on lactation
 	1.	Less premenstrual tension
 	1.	Less coronary artery disease
 	1.	Less risk of HIV infection
-15.	An advantage of the condom as a method of contraception is that it:
+16.	An advantage of the condom as a method of contraception is that it:
 	1.	Is very effective
 	1.	Decreases the risk of sexually transmitted disease
 	1.	Increases sensation during intercourse
 	1.	Is socially acceptable to everyone
-16.	Which contraceptive method is most appropriate for a teenager who has had an unplanned pregnancy?
+17.	Which contraceptive method is most appropriate for a teenager who has had an unplanned pregnancy?
 	1.	An intra-uterine contraceptive device
-	1.	An injectable
+	1.	An implant
 	1.	A combined oral contraceptive pill
 	1.	Postcoital contraception
-17.	An injectable is a suitable contraceptive method for a woman who:
-	1.	Is planning a pregnancy within the next 6 months
-	1.	Is planning a pregnancy in a year’s time
-	1.	Has a history of severe depression
-	1.	Is 23 years old with two children and wants no further children
-18.	An intra-uterine contraceptive device is a suitable method for a woman who:
+18.	A copper containing intra-uterine contraceptive device is a suitable method for a woman who:
 	1.	Is lactating (breastfeeding)
-	1.	Has more than one sexual partner
-	1.	Has had an episode of pelvic inflammatory disease
-	1.	Has a menstrual abnormality
+	1.	Has multiple sexual partners
+	1.	Is on treatment for pelvic inflammatory disease
+	1.	Has excessive menstrual bleeding
 19.	A suitable contraceptive method for a female smoker aged 37 years who has recently had her third child is:
 	1.	Ovral as a method of postcoital contraception
 	1.	A combined oral contraceptive pill
 	1.	Tubal ligation
 	1.	Condoms
-20.	When would be the most appropriate time to insert an intra-uterine contraceptive device after delivery?
+20.	The expulsion rate of intra-uterine contraceptive devices are the lowest if inserted: 
 	1.	Immediately after delivery
 	1.	2 weeks postpartum
 	1.	6 weeks postpartum

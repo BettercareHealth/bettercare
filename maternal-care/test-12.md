@@ -6,8 +6,6 @@ layout: test
 
 # Test 12: The puerperium
 
-Please choose the one most correct answer to each question or statement.
-
 1.	The puerperium starts:
 	1.	When the infant is delivered
 	1.	When the placenta is delivered
@@ -24,15 +22,15 @@ Please choose the one most correct answer to each question or statement.
 	1.	Requires referral to the doctor
 	1.	Is a sign of a urinary tract infection
 4.	In the puerperium the haemoglobin concentration becomes stable by:
-	1.	Six weeks
-	1.	Day seven
+	1.	6 weeks
+	1.	Day 7
 	1.	Day 4
 	1.	Day 1
 5.	In a normal puerperium the cervical os should be closed by:
 	1.	Day 3
-	1.	Day seven
+	1.	Day 7
 	1.	Day 14
-	1.	Six weeks
+	1.	6 weeks
 6.	Normal lochia:
 	1.	Is colourless
 	1.	Has no smell

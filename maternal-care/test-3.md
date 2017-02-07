@@ -6,10 +6,8 @@ layout: test
 
 # Test 3: Hypertensive disorders of pregnancy
 
-Please choose the one most correct answer to each question or statement.
-
 1.	What is the definition of hypertension in pregnancy?
-	1.	A diastolic blood pressure of 80 mm Hg or above and/or a systolic blood pressure of 120 mm Hg or above
+	-	A diastolic blood pressure of 80 mm Hg or above and/or a systolic blood pressure of 120 mm Hg or above
 	1.	A diastolic blood pressure of 90 mm Hg or above and/or a systolic blood pressure of 140 mm Hg or above
 	1.	A diastolic blood pressure of 100 mm Hg or above and/or a systolic blood pressure of 160 mm Hg or above
 	1.	A rise in diastolic blood pressure of 10 mm Hg.
@@ -88,11 +86,11 @@ Please choose the one most correct answer to each question or statement.
 	1.	The patient should immediately be rushed to the nearest level 3 hospital for stabilisation.
 	1.	The patient should be managed at a level 1 hospital.
 	1.	The infant must immediately be delivered by Caesarean section at a level 2 hospital.
-17. What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
+17.	What drug is used to manage a diastolic blood pressure of 110 mm Hg or more?
 	1.	Alpha-methyldopa (Aldomet)
 	1.	Nifedipine (Adalat)
 	1.	Diazepam (Valium)
-	1.	Propranolol (Inderal
+	1.	Propranolol (Inderal)
 18.	What is an important sign of magnesium sulphate overdosage?
 	1.	Vomiting
 	1.	Hyperventilation
@@ -106,5 +104,5 @@ Please choose the one most correct answer to each question or statement.
 20.	How should a patient, who feels well but has a diastolic blood pressure of 90 mm Hg at 36 weeks gestation, be managed? At all her previous antenatal visits, her blood pressure was normal, and she has no proteinuria.
 	1.	She must be given an intramuscular injection of dihydralazine (Nepresol).
 	1.	She must be hospitalised.
-	1.	Weekly antenatal visits should be arranged with additional visits if necessary.
+	1.	Alpha methyldopa (Aldomed) must be prescribed and weekly antenatal visits should be arranged with additional visits if necessary.
 	1.	A full blood count should be done to exclude a low platelet count.

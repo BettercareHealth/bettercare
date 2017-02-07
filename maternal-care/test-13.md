@@ -6,8 +6,6 @@ layout: test
 
 # Test 13: Medical problems during pregnancy and the puerperium
 
-Please choose the one most correct answer to each question or statement.
-
 1.	A patient with cystitis usually complains of:
 	1.	Headache
 	1.	Fever and rigors
@@ -39,9 +37,9 @@ Please choose the one most correct answer to each question or statement.
 	1.	Severe tenderness to percussion over one or both renal angles
 	1.	Severe tenderness in the upper abdomen
 7.	What is the correct management of a patient with acute pyelonephritis?
-	1.	Amoxicillin (Amoxil) 3 g as a single oral dose
-	1.	Amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days as an outpatient
-	1.	The patient must be admitted to hospital and receive amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days
+	1.	Amoxicillin (Amoxil) 3 g as a single oral dose
+	1.	Amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days as an outpatient
+	1.	The patient must be admitted to hospital and receive amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days
 	1.	The patient must be admitted to hospital and receive an intravenous broad-spectrum antibiotic
 8.	What is the definition of anaemia in pregnancy?
 	1.	A haemoglobin concentration of less than 12 g/dl
@@ -84,8 +82,8 @@ Please choose the one most correct answer to each question or statement.
 	1.	Should be classified as low risk and delivered in a primary perinatal-care clinic
 	1.	Should be given Syntometrine after delivery to prevent a postpartum haemorrhage
 16.	A patient with heart valve disease should:
-	1.	Be given ampicillin 1 g and gentamicin 80 mg intravenously at the onset of labour
-	1.	Be nursed on her side during labour
+	1.	Be nursed on her side during labour with her body raised with pillows to 45 degrees
+	1.	Be nursed on her side during labour with her body flat on the bed
 	1.	Be delivered in the lithotomy position
 	1.	Be heavily sedated during labour
 17.	Which complication is common if diabetes is not well controlled in the third trimester?

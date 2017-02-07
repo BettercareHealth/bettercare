@@ -6,8 +6,6 @@ layout: test
 
 # Test 9: The second stage of labour
 
-Please choose the one most correct answer to each question or statement.
-
 1.	When does the second stage of labour begin and end?
 	1.	From the time the patient has an urge to bear down until the infant is completely delivered
 	1.	From the time the cervix is fully dilated until the infant is completely delivered
@@ -33,7 +31,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	When her cervix is fully dilated and 1/5 of the fetal head is still palpable above the pelvic brim
 	1.	When her cervix is fully dilated and 2/5 of the fetal head is still palpable above the pelvic brim
 	1.	When her cervix is fully dilated and 3/5 of the fetal head is still palpable above the pelvic brim
-6.	When is it safe not to bear down but to wait for engagement of the fetal head to occur in a patient with a fully dilated cervix?
+6.	When is it safe not to bear down but to wait if the fetal head is 2/5th or more palpable above the pelvic brim in a patient with a fully dilated cervix?
 	1.	If there is no fetal distress and no cephalopelvic disproportion
 	1.	If the patient is a multigravida
 	1.	If the patient is a primigravida
@@ -67,7 +65,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	An episiotomy should be done routinely in all primigravida patients.
 	1.	An episiotomy should be done at the delivery of a preterm infant to prevent birth injury.
 	1.	An episiotomy should be done routinely in all patients who have had a previous episiotomy.
-	1.	An episiotomy should be done routinely in all patients who have had a previous second-degree tear.
+	1.	An episiotomy should be done routinely in all patients who have had a previous third-degree tear.
 13.	A prolonged second stage of labour is diagnosed when:
 	1.	The infant is not delivered within 30 minutes after the cervix has reached full dilatation in a multigravida, and within 45 minutes in a primigravida.
 	1.	The infant is not delivered within 45 minutes after the cervix has reached full dilatation in a multigravida, and within 60 minutes in a primigravida.
@@ -83,7 +81,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	The patient should be allowed to bear down for a further 30 minutes.
 	1.	An oxytocin infusion should be started to increase the strength of the contractions.
 	1.	A Caesarean section must be done.
-16.	What complication during the second stage is a patient with a weight of 85 kg or more at an increased risk of?
+16.	What complication during the second stage is a patient with a body mass index of 40 or more at an increased risk of?
 	1.	Poor contractions during the second stage of labour due to exhaustion of the uterus
 	1.	Impacted shoulders (i.e. shoulder dystocia)
 	1.	Difficulty with breathing during the second stage
@@ -107,4 +105,4 @@ Please choose the one most correct answer to each question or statement.
 	1.	The mouth and then the nose of all infants should be suctioned after delivery of the head but before the shoulders are delivered.
 	1.	Only infants with meconium-stained liquor should have their nose and then their mouth suctioned after delivery of the head but before the shoulders are delivered.
 	1.	Only preterm infants should be routinely suctioned at delivery as they have an increased risk of respiratory distress after birth.
-	1.	Infants with clear liquor need not be routinely suctioned after delivery unless they fail to breathe spontaneously.
+	1.	All infants need not be routinely suctioned after delivery unless they fail to breathe spontaneously.

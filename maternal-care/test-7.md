@@ -6,8 +6,6 @@ layout: test
 
 # Test 7: Monitoring the condition of the fetus during the first stage of labour
 
-Please choose the one most correct answer to each question or statement.
-
 1.	Compression of the fetal head during labour:
 	1.	Usually does not harm the fetus
 	1.	Usually damages the fetal brain
@@ -42,7 +40,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	100–120 beats per minute
 	1.	120–140 beats per minute
 	1.	140–160 beats per minute
-	1.	100–160 beats per minute
+	1.	110–160 beats per minute
 8.	Early decelerations:
 	1.	Start at the beginning of a contraction and return to the baseline at the end of a contraction
 	1.	Start at the beginning of a contraction and end 30 seconds or more after the contraction
@@ -59,7 +57,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Decelerations that start 30 seconds or more after the beginning of the contraction
 	1.	Decelerations that return to the baseline 30 seconds or more after the end of the contraction
 11.	Late decelerations:
-	1.	Always indicate fetal distress
+	+	Always indicate fetal distress
 	1.	Only suggest that fetal distress may be present
 	1.	May be normal
 	1.	Cannot be diagnosed with a fetal stethoscope
@@ -79,7 +77,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Baseline bradycardia
 	1.	Late decelerations plus a baseline bradycardia
 15.	When can you be confident that the fetal condition is good?
-	1.	When the baseline fetal heart rate is normal and there are no decelerations
+	+	When the baseline fetal heart rate is normal and there are no decelerations
 	1.	When the baseline fetal heart rate is normal and there are only early decelerations
 	1.	When fetal tachycardia is present and there are no decelerations
 	1.	All of the above
@@ -97,7 +95,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	Fresh meconium indicates definite fetal distress and is an indication for an emergency Caesarean section.
 	1.	Old meconium indicates that there was a problem but that there is no need to be concerned
 	1.	Yellow meconium is of no clinical importance
-	1.	The management is the same as it does not matter what the consistency or colour of the meconium is
+	1.	The management is the same as it does not matter what the consistency or colour the meconium is
 19.	Why does a fetus pass meconium during labour?
 	1.	Because there is fetal hypoxia
 	1.	Because it makes the second stage of labour shorter

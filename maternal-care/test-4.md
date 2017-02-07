@@ -6,8 +6,6 @@ layout: test
 
 # Test 4: Antepartum haemorrhage
 
-Please choose the one most correct answer to each question or statement.
-
 1.	What is the definition of an antepartum haemorrhage?
 	1.	Any vaginal haemorrhage between conception and delivery
 	1.	Any vaginal haemorrhage during labour
@@ -68,21 +66,21 @@ Please choose the one most correct answer to each question or statement.
 	1.	When 2/5 or less of the fetal head can be palpated above the pelvic brim on abdominal examination
 	1.	A patient with a painless, bright red vaginal bleed
 	1.	A patient with a breech presentation
-13.	Following a small vaginal bleed at 34 weeks gestation, the diagnosis of placenta praevia is confirmed with ultrasonography. Which of the following will be the correct further management?
+13.	Which of the following will exclude a placenta praevia?
+	1.	A careful speculum examination
+	1.	A careful abdominal examination
+	1.	The presence of fetal distress
+	1.	Ultrasonography
+14.	Following a small vaginal bleed at 34 weeks gestation, the diagnosis of placenta praevia is confirmed with ultrasonography. Which of the following will be the correct further management?
 	1.	The fetus must be delivered immediately by Caesarean section.
 	1.	A vaginal examination must be done in theatre immediately to confirm the diagnosis.
 	1.	The patient must be hospitalised and managed conservatively until 36 weeks or until active bleeding starts again.
 	1.	The membranes must be ruptured to induce labour.
-14.	An antepartum haemorrhage of unknown cause should be suspected:
+15.	An antepartum haemorrhage of unknown cause should be suspected:
 	1.	When the history and abdominal examination are not suggestive of an abruptio placentae
 	1.	When local causes of bleeding have been excluded by a speculum examination
 	1.	When a placenta praevia is excluded
 	1.	When all of the above causes of an antepartum haemorrhage have been excluded
-15.	Which of the following will exclude a placenta praevia?
-	1.	A careful speculum examination
-	1.	A careful abdominal examination
-	1.	The presence of fetal distress
-	1.	A vaginal examination in theatre
 16.	How should you manage a patient with an antepartum haemorrhage of unknown cause?
 	1.	The patient must be admitted to hospital where fetal movements should be carefully monitored, especially during the first 24 hours.
 	1.	Because the risk of an abruptio placentae is so great, an emergency Caesarean section must be done.
@@ -103,7 +101,7 @@ Please choose the one most correct answer to each question or statement.
 	1.	A blood-stained discharge seen in the vagina
 	1.	Contact bleeding when the speculum touches the cervix
 	1.	Bulging membranes through a partially dilated cervix
-20. How should you manage a patient who presents at 30 weeks of gestation with a blood-stained vaginal discharge which is caused by vaginitis?
+20.	How should you manage a patient who presents at 30 weeks of gestation with a blood-stained vaginal discharge which is caused by vaginitis?
 	1.	The urine should be tested with a reagent strip for protein, nitrites and leucocytes.
 	1.	A cytology smear must be taken from the cervix to identify the organism causing the vaginitis.
 	1.	A vaginal examination should be done in theatre as with any other patient who presents with an antepartum haemorrhage.
