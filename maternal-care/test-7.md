@@ -40,7 +40,7 @@ layout: test
 	-	100–120 beats per minute
 	-	120–140 beats per minute
 	-	140–160 beats per minute
-	+	100–160 beats per minute
+	+	110–160 beats per minute
 8.	Early decelerations:
 	+	Start at the beginning of a contraction and return to the baseline at the end of a contraction
 	-	Start at the beginning of a contraction and end 30 seconds or more after the contraction

@@ -82,8 +82,8 @@ layout: test
 	-	Should be classified as low risk and delivered in a primary perinatal-care clinic
 	-	Should be given Syntometrine after delivery to prevent a postpartum haemorrhage
 16.	A patient with heart valve disease should:
-	+	Be given ampicillin 1 g and gentamicin 80 mg intravenously at the onset of labour
-	-	Be nursed on her side during labour
+	+	Be nursed on her side during labour with her body raised with pillows to 45 degrees
+	-	Be nursed on her side during labour with her body flat on the bed
 	-	Be delivered in the lithotomy position
 	-	Be heavily sedated during labour
 17.	Which complication is common if diabetes is not well controlled in the third trimester?

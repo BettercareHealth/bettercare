@@ -13,9 +13,9 @@ layout: test
 	-	The community must provide the money needed to run the clinics in that region.
 2.	What percentage of patients can usually be classified as low risk?
 	-	10%
-	-	25%
-	+	60%
-	-	75%
+	-	20%
+	+	35%
+	-	60%
 3.	Most low-risk pregnant women should be:
 	-	Delivered in hospital
 	+	Delivered in a perinatal-care clinic
@@ -79,8 +79,8 @@ layout: test
 15.	Patient notes at a perinatal-care clinic should:
 	-	Be kept by the clinic
 	-	Be written in the patient’s folder
-	+	Be recorded on an antenatal card which the patient keeps
-	-	Be written in detail both in the clinic folder and on the patient’s antenatal card.
+	+	Be recorded in a maternity case record which the patient keeps
+	-	Be written in detail both in the clinic folder and on the patient’s materity case record.
 16.	What should be done to make the transfer of a patient from a clinic to hospital as safe as possible?
 	-	She should be transferred immediately.
 	-	Time should not be wasted by contacting the hospital by telephone.
@@ -91,11 +91,11 @@ layout: test
 	-	Dehydration
 	-	Postural hypotension
 	-	Motor vehicle accident
-18.	How is the maternal mortality rate expressed?
+18.	How is the maternal mortality ratio expressed?
 	-	As a percentage
 	-	Per 1000 deliveries
 	-	Per 10 000 deliveries
-	+	Per 100 000 deliveries
+	+	Per 100 000 live births
 19.	The maternal mortality rate in a developing country is usually:
 	+	50 or more
 	-	25–50
@@ -105,4 +105,4 @@ layout: test
 	+	Haemorrhage
 	-	General anaesthesia
 	-	Thromboembolism
-	-	Acute pyelonephritis.
+	-	Acute pyelonephritis

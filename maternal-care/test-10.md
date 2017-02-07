@@ -47,7 +47,7 @@ layout: test
 	-	When a patient reaches the active phase of the first stage of labour
 	+	When a patient asks for pain relief
 9.	Promethazine (Phenergan) or hydroxyzine (Aterax) should always be given together with pethidine for the relief of pain during labour because:
-	-	They have a tranquillising effect
+	-	They have a sedative effect
 	-	They decrease nausea and vomiting which are common side effects of pethidine
 	-	They increase the analgesic effect of pethidine
 	+	All of the above
