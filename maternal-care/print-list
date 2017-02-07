@@ -1,5 +1,6 @@
 ---
 type: print-list
+layout: none
 
 # List the HTML files to be included in output PDFs here.
 # You can use Liquid control-flow tags to include or exclude files.
@@ -40,6 +41,7 @@ type: print-list
 8.html
 8a.html
 8b.html
+8c.html
 9.html
 9a.html
 10.html
