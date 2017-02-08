@@ -240,7 +240,7 @@ The level of care needed is shown as follows:
    <p>The newborn infant must be given isoniazid.</p></td>
   <td><p>1</p></td>
  </tr>
- <tr>
+ <tr class="table-subhead">
   <td colspan="4" class="table-subhead"><p>Cardiovascular System</p></td>
   </tr>
  <tr>
@@ -517,7 +517,7 @@ The level of care needed is shown as follows:
   <td>2</td>
  </tr>
  <tr>
-  <td><p>If diastolic 100 and systolic 150 mm Hg or more or proteinuria, admit to hospital.</p></td>
+  <td><p>If diastolic 100 and systolic 150&nbsp;mm&nbsp;Hg or more or proteinuria, admit to hospital.</p></td>
   <td><p>2</p></td>
  </tr>
  <tr>

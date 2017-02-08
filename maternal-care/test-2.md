@@ -76,7 +76,10 @@ layout: test
 	-	All pregnant patients should routinely have antenatal fetal heart rate monitoring.
 	-	Antenatal fetal heart rate monitoring should be done on all patients with suspected intra-uterine growth restriction.
 	+	Antenatal fetal heart rate monitoring should be done on high-risk patients where fetal movements have not been shown to be a reliable method of assessing the fetal condition, such as insulin-dependent diabetics, prelabour rupture of the membranes and pre-eclampsia which is being managed conservatively.
-15.	(*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*) If there is a non-reactive fetal heart rate pattern: 
+	
+	(*Questions 15 to 20 need only be answered by students who studied sections 2-27 to 2-37 on antenatal fetal heart rate monitoring.*)
+	
+15.	If there is a non-reactive fetal heart rate pattern: 
 	-	No decelerations occur despite uterine contractions.
 	-	Fetal distress should be suspected and intra-uterine resuscitation must be undertaken.
 	-	The test must be repeated after 45 minutes.

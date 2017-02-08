@@ -97,10 +97,10 @@ layout: test
 	-	Stage 3
 	+	Stage 4
 19.	Antiretroviral treatment during pregnancy should be provided with:
-  	-	AZT alone
-  	-	Nevirapine alone
-  	+	A fixed combination dose (FCD) pill
-  	-	AZT plus FDC
+	-	AZT alone
+	-	Nevirapine alone
+	+	A fixed combination dose (FCD) pill
+	-	AZT plus FDC
 20.	FDC is contra-indicated if the woman has:
 	-	Stage 4 disease
 	+	Chronic renal disease
