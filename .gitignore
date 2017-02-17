@@ -37,6 +37,5 @@ Icon
 .Trashes
 
 _site/
-_output
 .jekyll-metadata
 *sass-cache*
