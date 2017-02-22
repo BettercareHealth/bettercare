@@ -1,5 +1,5 @@
 ---
-book: HIV in Mother and Baby
+book: Mother and Baby Care for Community Health Workers
 title: Test 1. HIV in Mother and Baby
 layout: test
 ---

@@ -1,14 +1,11 @@
 ---
-book: HIV in mother and baby
+book: Mother and Baby Care for Community Health Workers
 title: Title page
 layout: frontmatter
 ---
 
-HIV in mother and baby
+Mother and Baby Care for Community Health Workers
 {:.titlepage-title}
-
-A sample from the community health worker series
-{:.titlepage-subtitle}
 
 Written by Dave Woods
 {:.titlepage-author}
