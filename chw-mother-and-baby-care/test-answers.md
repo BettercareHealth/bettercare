@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: HIV in Mother and Baby
+## Test 1: Care of the mother
 
 1.	a
 2.	b
