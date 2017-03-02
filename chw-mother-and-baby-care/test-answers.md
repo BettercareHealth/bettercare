@@ -12,14 +12,14 @@ Relearn the sections in brackets for questions you get wrong.
 
 1.	a
 2.	b
-3.	c
-4.	a
-5.	b
-6.	c
+3.	a
+4.	b
+5.	c
+6.	a
 7.	a
-8.	a
+8.	b
 9.	b
-10.	c
+10.	a
 {:.keep-together}
 
 ## Test 2: Care of the newborn baby
@@ -30,10 +30,10 @@ Relearn the sections in brackets for questions you get wrong.
 4.	a
 5.	c
 6.	b
-7.	b
-8.	a
+7.	a
+8.	b
 9.	b
-10.	a
+10.	c
 {:.keep-together}
 
 ## Test 3: Exclusive breastfeeding
@@ -41,7 +41,7 @@ Relearn the sections in brackets for questions you get wrong.
 1.	a
 2.	b
 3.	a
-4.	
+4.	b
 5.	c
 6.	c
 7.	b
