@@ -16,4 +16,4 @@ Written by Dave Woods and Robert&nbsp;Gie
 with the Desmond Tutu Tuberculosis&nbsp;Centre
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
