@@ -1,48 +1,50 @@
 ---
-book: Mother and Baby Care for Community Health Workers
-title: Test 1. HIV in Mother and Baby
+book: Mother and Baby Care for Community Healthcare Workers
+title: Test 1. Care of the mother
 layout: test
 ---
 
-# Test 1: HIV in Mother and Baby
+# Test 1: Care of the mother
 
-1. How does HIV cause disease?
-	+	It damages the immune system
-	-	It damages the heart and lungs
-	-	It damages the brain and liver
-2. What test is used to diagnose HIV infection in adults?
-	-	A urine test
-	+	A Rapid blood test
-	-	A simple skin test
-3. How is HIV commonly spread?
-	-	By kissing and holding hands
-	-	By using a public toilet
-	+	By unprotected sexual intercourse
-4. Why is HIV infection difficult to diagnose clinically?
-	+	Because many HIV infected people are clinically well
-	-	Because HIV infection is very similar to tuberculosis
-	-	Because people die quickly when they have HIV infection
-5. What is HIV stigma?
-	-	A common rash caused by HIV
-	+	The belief that people with HIV are bad, dirty and immoral and should be avoided and punished
-	-	An injection used to treat people with AIDS
-6. When may HIV spread from a mother to her baby?
-	-	During pregnancy but not during delivery
-	-	Only during delivery
-	+	Both during pregnancy and delivery
-7. How are antiretroviral medicines (ARVs) given to pregnant women?
-	+	A single tablet (fixed dose combination) should be taken every evening
-	-	A single tablet (fixed dose combination) should be taken both morning and evening
-	-	Two tablets (fixed dose combination) should be taken three times a day
-8. What antiretroviral medicine (ARV) should be given to babies born to HIV positive mothers?
-	+	Nevirapine
-	-	A fixed dose combination of 2 medicines
-	-	AZT
-9. How should HIV positive women feed their newborn babies?
-	-	Bottle feed with milk formula
-	+	Exclusively breastfeed
-	-	Give both formula and breast milk
-10. How can community healthcare workers support HIV positive pregnant women?
-	-	Advise them not to tell their partners that they are HIV positive
-	-	Suggest that they ask for a Caesarean section when they deliver
-	+	Encourage them to take their antiretroviral medicine (ARVs) correctly every day
+Please choose the **one**, most correct answer to each question or statement.
+
+1.	How long are most normal pregnancies?
+	-	36 weeks
+	+	40 weeks
+	-	42 weeks
+2.	What is a common sign of early pregnancy?
+	-	Headaches
+	+	Tender, swollen breasts
+	-	Abdominal pain
+3.	When should a woman book for antenatal care?
+	+	As soon as her pregnancy is confirmed
+	-	When she first feels her baby moving
+	-	When she is 6 months pregnant and her abdomen is getting bigger
+4.	Why are antenatal visits important?
+	-	They are needed for the woman to claim maternity leave
+	+	They help to keep mother and baby healthy
+	-	The woman cannot deliver at a clinic if she did not attend there for her antenatal visits
+5.	What important role can a community health worker play in providing antenatal care?
+	-	Rub the woman’s abdomen with oil at every home visit
+	-	Measure her blood pressure every week
+	+	Make sure that she is attending all her appointments at an antenatal clinic
+6.	What is a healthy lifestyle during pregnancy?
+	+	Do not smoke or drink alcohol
+	-	Have heavy exercise only once a week and add extra salt to all meals
+	-	Gain as much weight as possible so that breastfeeding will be successful
+7.	What daily supplements should pregnant women have?
+	+	Iron
+	-	Vitamin C
+	-	Fluoride
+8.	Which of the following is a danger sign in pregnancy?
+	-	Having to get up at night to pass urine
+	-	Heartburn
+	+	Vaginal bleeding
+9.	What is a birth plan?
+	-	Deciding on a name for the baby before delivery
+	+	Having a clear idea what to do when labour starts
+	-	Taking special health insurance for delivery
+10.	What should a CHW ask about at a home visit after delivery?
+	+	Does the lochia (vaginal fluid) smell bad
+	-	Has the mother bought a bottle and milk formula yet
+	-	Whether the mother is able to pay for the visit
