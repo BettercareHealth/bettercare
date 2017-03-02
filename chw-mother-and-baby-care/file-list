@@ -1,3 +1,9 @@
+---
+layout: none
+---
+{% if site.output == "screen-pdf" %}
+0-0-cover.html
+{% endif %}
 0-1-titlepage.html
 0-2-copyright.html
 0-3-contents.html
