@@ -7,102 +7,102 @@ layout: test
 # Test 7: Medical problems during pregnancy and the puerperium
 
 1.	A patient with cystitis usually complains of:
-	-	Headache.
-	-	Fever and rigors.
-	+	Dysuria and frequency.
-	-	Backache.
+	-	Headache
+	-	Fever and rigors
+	+	Dysuria and frequency
+	-	Backache
 2.	Cystitis is treated by:
-	-	Asking the patient to increase her oral fluid intake.
-	+	Prescribing a single oral dose of amoxycillin or co-trimoxazole.
-	-	Giving 2.4 million units of benzathine penicillin intramuscularly.
-	-	Giving ampicillin 1 g intravenously every 6 hours until the symptoms stop.
+	-	Asking the patient to increase her oral fluid intake
+	+	Prescribing a single oral dose of amoxycillin or co-trimoxazole
+	-	Giving 2.4 million units of benzathine penicillin intramuscularly
+	-	Giving ampicillin 1 g intravenously every 6 hours until the symptoms stop
 3.	A patient with asymptomatic bacteriuria has:
-	+	No symptoms.
-	-	Fever.
-	-	Nocturia.
-	-	Lower abdominal pain.
+	+	No symptoms
+	-	Fever
+	-	Nocturia
+	-	Lower abdominal pain
 4.	It is important to treat patients with asymptomatic bacteriuria in pregnancy because:
-	-	The patient is seriously ill.
-	-	One third will develop septic shock during pregnancy.
-	-	One third will develop cystitis during pregnancy.
-	+	One third will develop acute pyelonephritis during pregnancy.
+	-	The patient is seriously ill
+	-	One third will develop septic shock during pregnancy
+	-	One third will develop cystitis during pregnancy
+	+	One third will develop acute pyelonephritis during pregnancy
 5.	How is asymptomatic bacteriuria diagnosed?
-	-	By detecting proteinuria.
-	-	By testing for nitrites and leucocytes in the urine.
-	-	By examining a sample of urine under the microscope.
-	+	By culturing a sample of midstream urine.
+	-	By detecting proteinuria
+	-	By testing for nitrites and leucocytes in the urine
+	-	By examining a sample of urine under the microscope
+	+	By culturing a sample of midstream urine
 6.	Which clinical sign suggests that the patient has acute pyelonephritis?
-	-	Tenderness over the bladder.
-	-	Oedema.
-	+	Severe tenderness to percussion over one or both renal angles.
-	-	Severe tenderness in the upper abdomen.
+	-	Tenderness over the bladder
+	-	Oedema
+	+	Severe tenderness to percussion over one or both renal angles
+	-	Severe tenderness in the upper abdomen
 7.	What is the correct management of a patient with acute pyelonephritis?
-	-	Amoxicillin (Amoxil) 3&nbsp;g as a single oral dose.
-	-	Amoxicillin (Amoxil) 500&nbsp;mg 8&nbsp;hourly by mouth for 7 days as an outpatient.
-	-	The patient must be admitted to hospital and receive amoxicillin (Amoxil) 500&nbsp;mg 8&nbsp;hourly by mouth for 7 days.
-	+	The patient must be admitted to hospital and receive an intravenous broad-spectrum antibiotic.
+	-	Amoxicillin (Amoxil) 3 g as a single oral dose
+	-	Amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days as an outpatient
+	-	The patient must be admitted to hospital and receive amoxicillin (Amoxil) 500 mg 8-hourly by mouth for seven days
+	+	The patient must be admitted to hospital and receive an intravenous broad-spectrum antibiotic
 8.	What is the definition of anaemia in pregnancy?
-	-	A haemoglobin concentration of less than 12 g/dl.
-	+	A haemoglobin concentration of less than 11 g/dl.
-	-	A haemoglobin concentration of less than 10 g/dl.
-	-	Any patient with shortness of breath irrespective of the haemoglobin concentration.
+	-	A haemoglobin concentration of less than 12 g/dl
+	+	A haemoglobin concentration of less than 11 g/dl
+	-	A haemoglobin concentration of less than 10 g/dl
+	-	Any patient with shortness of breath irrespective of the haemoglobin concentration
 9.	What is the commonest cause of anaemia in pregnancy?
-	+	Iron deficiency.
-	-	Folic acid deficiency.
-	-	Infection.
-	-	Blood loss.
+	+	Iron deficiency
+	-	Folic acid deficiency
+	-	Infection
+	-	Blood loss
 10.	The management of anaemia in pregnancy depends on:
-	-	The presence or absence of oedema.
-	-	Whether the patient is pale or not.
-	+	The presence or absence of shortness of breath and tachycardia.
-	-	The presence or absence of hypotension.
+	-	The presence or absence of oedema
+	-	Whether the patient is pale or not
+	+	The presence or absence of shortness of breath and tachycardia
+	-	The presence or absence of hypotension
 11.	What should be the management of an anaemic patient if the haemoglobin concentration is less than 8 g/dl and the gestational age 37 weeks?
-	-	Admit to hospital for bed rest and a good diet.
-	+	Admit to hospital for a blood transfusion.
-	-	Give an intramuscular injection of iron-dextran (Imferon).
-	-	Prescribe one ferrous sulphate tablet 3 times a day until delivery.
+	-	Admit to hospital for bed rest and a good diet
+	+	Admit to hospital for a blood transfusion
+	-	Give an intramuscular injection of iron-dextran (Imferon)
+	-	Prescribe 1 ferrous sulphate tablet 3 times a day until delivery
 12.	What should be the management of a patient in the puerperium who has normal observations and has no bleeding, but has a haemoglobin concentration of 9 g/dl?
 	-	Reassure her that no treatment is needed.
 	-	Give her a blood transfusion.
 	-	Advise her to eat a good diet.
 	+	Prescribe an oral iron supplement.
 13.	Which patients should receive supplementary iron during pregnancy?
-	-	All patients.
-	-	Only patients with a haemoglobin concentration of less than 10 g/dl.
-	-	Only patients with a full blood count suggesting iron deficiency.
-	+	Patients from communities where iron deficiency is common or socio-economic circumstances are poor.
+	-	All patients
+	-	Only patients with a haemoglobin concentration of less than 10 g/dl
+	-	Only patients with a full blood count suggesting iron deficiency
+	+	Patients from communities where iron deficiency is common or socio-economic circumstances are poor
 14.	What should be done if a patient has side effects from the iron supplementation?
 	-	She should be reassured and the importance of taking the iron tablets should be stressed.
 	+	The tablets should be taken with meals.
 	-	The iron tablets should be stopped.
-	-	The iron tablets should be stopped and metoclopramide (Maxolon) given.
+	-	The iron tablets should be stopped and metoclopramide (Maxalon) given.
 15.	A patient with asymptomatic heart valve disease:
-	-	Must be admitted to hospital for bed rest from 34 weeks gestation.
-	+	Must be delivered in hospital because of the high risk of pulmonary oedema during labour and the first day of the puerperium.
-	-	Should be classified as low risk and delivered in a primary perinatal care clinic.
-	-	Should be given Syntometrine after delivery to prevent a postpartum haemorrhage.
-16.	Which complication is common in diabetics in the third trimester?
-	-	Anaemia.
-	+	Pre-eclampsia.
-	-	Oligohydramnios.
-	-	Pulmonary oedema.
-17.	Which complication is common in the second stage of labour in patients with poorly controlled diabetes?
-	-	Precipitous (sudden, unexpected) delivery.
-	+	Impacted shoulders.
-	-	Hypoglycaemia.
-	-	Hyperglycaemia.
-18.	A random blood glucose concentration should be done when:
+	-	Must be admitted to hospital for bed rest from 34 weeks gestation
+	+	Must be delivered in hospital because of the high risk of pulmonary oedema during labour and the first day of the puerperium
+	-	Should be classified as low risk and delivered in a primary perinatal-care clinic
+	-	Should be given Syntometrine after delivery to prevent a postpartum haemorrhage
+16.	A patient with heart valve disease should:
+	+	Be nursed on her side during labour with her body raised with pillows to 45 degrees
+	-	Be nursed on her side during labour with her body flat on the bed
+	-	Be delivered in the lithotomy position
+	-	Be heavily sedated during labour
+17.	Which complication is common if diabetes is not well controlled in the third trimester?
+	-	Anaemia
+	+	Pre-eclampsia
+	-	Oligohydramnios
+	-	Pulmonary oedema
+18.	Which complication is common in the second stage of labour in patients with poorly controlled diabetes?
+	-	Precipitous (sudden, unexpected) delivery
+	+	Impacted shoulders
+	-	Hypoglycaemia
+	-	Hyperglycaemia
+19.	A random blood glucose concentration should be done when:
 	-	1+ ketonuria is detected for the first time in pregnancy.
 	+	1+ glucosuria is detected for the first time in pregnancy.
 	-	Patients attend their first antenatal care clinic.
 	-	Patients attend their second antenatal care clinic.
-19.	Which random blood glucose concentration is normal?
-	-	Less than 4 mmol/l.
-	-	Less than 6 mmol/l.
-	+	Less than 8 mmol/l.
-	-	Less than 11 mmol/l.
-20.	Which fasting blood sugar measurement is normal?
-	-	Less than 4 mmol/l.
-	+	Less than 6 mmol/l.
-	-	Less than 8 mmol/l.
-	-	Less than 11 mmol/l.
+20.	Which random blood glucose concentration is normal?
+	-	Less than 4 mmol/l
+	-	Less than 6 mmol/l
+	+	Less than 8 mmol/l
+	-	Less than 11 mmol/l
