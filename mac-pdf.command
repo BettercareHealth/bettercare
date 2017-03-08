@@ -9,9 +9,9 @@ echo -n "Which book folder are we processing? "
 read book
 echo "Okay, let's process $book..."
 # Ask the user to add any extra Jekyll config files, e.g. _config.pdf-ebook.yml
-echo -n "Any extra config files? (full filename, comma-separated, no spaces) "
-read config
-echo "Rightio, we'll add $config to the configuration"
+#echo -n "Any extra config files? (full filename, comma-separated, no spaces) "
+#read config
+#echo "Rightio, we'll add $config to the configuration"
 
 # We're going to let users run this over and over by pressing enter
 while [ "$repeat" = "" ]
@@ -19,7 +19,7 @@ do
 	# let the user know we're on it!
 	echo "Generating HTML..."
 	# ...and run Jekyll to build new HTML
-	bundle exec jekyll build --config="_config.yml,$config"
+	bundle exec jekyll build --config="_config.yml"
 	# Navigate into the book's folder in _site output
 	cd _site/$book
 	# Let the user know we're now going to make the PDF
