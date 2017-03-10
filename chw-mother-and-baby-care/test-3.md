@@ -21,6 +21,10 @@ Please choose the **one**, most correct answer to each question or statement.
 	+	It is expensive and needs clean water
 	-	Formula fed babies grow too fast
 	-	Formula can only be given by bottle
+4.	What is a complication of mixed feeding?
+	-	Babies cry a lot
+	+	The risk of HIV infection is increased
+	-	It makes mothers lazy
 5.	When should the normal infant be put to the breast for the first time?
 	-	Only after 3 hours when the infant has been bathed
 	-	After the mother has had a good sleep
