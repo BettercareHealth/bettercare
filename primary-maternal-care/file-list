@@ -28,6 +28,7 @@ type: print-list
 1C.html
 1D.html
 1E.html
+1F.html
 2.html
 2A.html
 3.html
@@ -37,6 +38,7 @@ type: print-list
 6.html
 7.html
 8-appendix.html
+index.html
 test-1.html
 test-2.html
 test-3.html

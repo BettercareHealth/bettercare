@@ -28,14 +28,14 @@ layout: test
 	-	The IPC committee at a healthcare facility.
 5.	Hazards or risks in healthcare are: 
 	-	Independent of the severity of consequences for a particular hazard
-	-	Classified as high, medium or low risk 
+	+	Classified as high, medium or low risk 
 	-	Classified as serious or minimal risk 
-	+	Not possible to classify, as they are all of a serious nature.
+	-	Not possible to classify, as they are all of a serious nature.
 6.	Implementation of risk management in healthcare:
 	-	Is the responsibility of healthcare facility managers
-	+	Increases the rate of healthcare-associated infections 
+	-	Increases the rate of healthcare-associated infections 
 	-	Does not involve the IPC practitioner 
-	-	Can increase the safety of patients, healthcare workers and visitors. 
+	+	Can increase the safety of patients, healthcare workers and visitors. 
 7.	The purpose of risk management in healthcare is: 
 	+	Improve the overall quality of care provided
 	-	Implement programmes to reduce all forms of harm in healthcare 
@@ -54,13 +54,13 @@ layout: test
 10.	Standard precautions protect: 
 	-	Healthcare workers only
 	-	Patients only 
-	+	Visitors only 
-	-	Healthcare workers, patients and visitors.
+	-	Visitors only 
+	+	Healthcare workers, patients and visitors.
 11.	Standard precautions: 
 	-	Apply only to clinical staff (doctors and nurses)
 	-	Apply only to patients known to have a transmissible 	-	pathogen 
-	-	Reduce infection risk from both known and unrecognised sources 
-	+	Are not cost-effective in reducing infections. 
+	+	Reduce infection risk from both known and unrecognised sources 
+	-	Are not cost-effective in reducing infections. 
 12.	Transmission-based precautions: 
 	+	Are implemented based on a pathogens known route/s of transmission
 	-	Only one type of precaution may be implemented per patient 

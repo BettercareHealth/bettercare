@@ -1,108 +1,108 @@
 ---
 book: Primary Maternal Care
-title: Test 6. The puerperium and family planning
+title: Test 6. Monitoring the condition of the mother during the first stage of labour
 layout: test
 ---
 
-# Test 6: The puerperium and family planning
+# Test 6: Monitoring the condition of the mother during the first stage of labour
 
-1.	Normal lochia:
-	-	Is colourless.
-	-	Has no smell.
-	-	Has an offensive smell.
-	+	Has a non-offensive smell.
-2.	On day 7 postpartum the size of a normally involuting uterus should correspond to a gestational age of approximately:
-	-	8 weeks.
-	+	12 weeks.
-	-	16 weeks.
-	-	20 weeks.
-3.	A normally involuting uterus will be:
-	-	Soft and tender.
-	-	Soft and not tender.
-	-	Firm and tender.
-	+	Firm and not tender.
-4.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
-	-	At least daily for 7 days.
-	-	At least daily for 5 days and again on day 7.
-	+	At least on days 1, 3, 5 and 7.
-	-	The patient must be kept in hospital for at least 5 days.
-5.	Which of the following indicate that puerperal pyrexia is caused by a genital tract infection?
-	-	General malaise.
-	-	Rigors.
-	+	Offensive lochia.
-	-	A marked tachycardia.
-6.	How must a patient with a urinary tract infection causing puerperal pyrexia be treated?
-	+	Admission to hospital for intravenous broad-spectrum antibiotics.
-	-	Tepid sponging and paracetamol to bring down the temperature at a clinic.
-	-	Oral broad-spectrum antibiotics given to the patient at home.
-	-	Oral broad-spectrum antibiotics and paracetamol given to the patient at home.
-7.	How should you manage a patient with superficial vein thrombosis?
-	-	Hospitalise the patient for heparin treatment.
-	-	Keep the patient in bed for 5 days.
-	-	Start her on oral ampicillin and metronidazole (Flagyl).
-	+	Give analgesia and support the leg with an elastic bandage.
-8.	A patient who develops the ‘puerperal blues’ needs to be:
-	-	Referred to a psychiatrist.
-	-	Isolated together with her infant.
-	+	Comforted and given an explanation of her feelings.
-	-	Treated with a benzodiazepine (e.g. Ativan).
-9.	What is a secondary postpartum haemorrhage?
-	-	Any vaginal bleeding that appears excessive, after the first hour following delivery of the placenta.
-	+	Any vaginal bleeding that appears excessive, after the first 24 hours following delivery of the placenta.
-	-	Any vaginal bleeding that appears excessive, between the 5th and 15th days of the puerperium.
-	-	Any vaginal bleeding in the puerperium which is severe enough to cause the patient to become shocked.
-10.	Observations of the presence or absence of offensive lochia in the patient or jaundice in her infant in the puerperium:
-	+	Can be made by the patient as well as the midwife.
-	-	Should not be expected from patients as they are too unreliable.
-	-	Should only be made by a midwife or doctor.
-	-	Should only be made by a doctor.
-11.	The most important aim of family planning is to:
-	-	Save money.
-	+	Improve the quality of life for everyone.
-	-	Prevent sexually transmitted diseases.
-	-	Ensure that each family has one child only.
-12.	The correct way to advise a woman regarding a suitable contraceptive method is to:
-	+	Ask her which method she would like and then consider if it is a suitable choice.
-	-	Prescribe the method that you think would be the best.
-	-	Suggest that she use Ovral as a postcoital contraceptive.
-	-	Allow her to use whatever method she chooses.
-13.	One of the very effective contraceptive methods is:
-	-	The condom.
-	-	Breastfeeding.
-	+	An intra-uterine contraceptive device.
-	-	Spermicides.
-14.	Postcoital contraception with Norlevo, E-Gen-C or Ovral should be offered to a woman who has had a single episode of unprotected sexual intercourse:
-	+	Five days ago.
-	-	Seven days ago.
-	-	Ten days ago.
-	-	When she misses her next expected period.
-15.	Lactation is reduced by:
-	-	The progestogen-only pill (minipill).
-	-	An intra-uterine contraceptive device.
-	-	An injectable, e.g. depot progestogen.
-	+	A combined oral contraceptive pill.
-16.	A common side effect of an intramuscular injection of depo progesterone is:
-	-	Fluid retention and breast tenderness.
-	-	Reduction in lactation.
-	-	Chloasma (a brown mark on the face).
-	+	Amenorrhoea.
-17.	Tubal ligation causes:
-	-	Menstrual abnormalities.
-	-	Weight gain.
-	-	Headaches.
-	+	None of the above.
-18.	An advantage of the condom as a method of contraception is that it:
-	-	Is very effective.
-	+	Decreases the risk of sexually transmitted disease.
-	-	Increases sensation during intercourse.
-	-	Is socially acceptable to everyone.
-19.	An injectable is a suitable contraceptive method for a woman who:
-	-	Is planning a pregnancy within the next 6 months.
-	-	Is planning a pregnancy in a year’s time.
-	-	Has a history of severe depression.
-	+	Is 23 years old with 2 children and wants no further children.
-20.	When would be the most appropriate time to insert an intra-uterine contraceptive device after delivery?
-	-	Immediately after delivery.
-	-	2 weeks postpartum.
-	+	6 weeks postpartum.
-	-	Not earlier than 3 months postpartum.
+1.	What is a partogram?
+	-	A chart for recording cervical dilatation only
+	-	An observation chart to record the clinical findings during the antenatal period
+	-	A machine to record the fetal heart rate
+	+	A chart to record the progress of labour together with the maternal and fetal condition
+2.	During the first stage of labour a partogram must be used:
+	+	On all patients
+	-	Only on high-risk patients
+	-	Only in level 1 clinics
+	-	Only in level 2 and 3 hospitals
+3.	Which of the following indicates that the general condition of a patient in the first stage of labour is normal?
+	-	The patient’s temperature, pulse rate, and blood pressure are normal
+	+	The patient is at ease and relaxed between contractions and does not appear pale
+	-	The urine output is normal and ketonuria is not present
+	-	The patient’s blood pressure is normal and proteinuria is not present
+4.	The correct management of a 17-year-old primigravida patient who appears very anxious and complains of painful contractions in early labour is:
+	-	The patient must immediately receive analgesics.
+	-	A Caesarean section must be done.
+	+	The patient must be comforted and reassured and receive appropriate analgesia. If possible, someone she knows should stay with her.
+	-	The membranes must be ruptured to ensure a rapid progress of labour.
+5.	What is the normal maternal temperature during labour?
+	-	35.5–36.0 °C
+	+	36.0–37.0 °C
+	-	36.5–37.5 °C
+	-	37.0–38.0 °C
+6.	Why is maternal pyrexia an important complication during the first stage of labour?
+	-	Maternal pyrexia may cause maternal exhaustion and oliguria.
+	-	Maternal pyrexia may cause convulsions.
+	-	Maternal pyrexia may cause hypertension during labour.
+	+	Maternal pyrexia may be caused by an infection which could be dangerous to the patient.
+7.	What is the normal maternal pulse rate during labour?
+	-	60–80
+	+	80–100
+	-	100–120
+	-	120–140
+8.	What causes a rapid maternal pulse during labour?
+	-	Fetal distress
+	-	Hypertension
+	+	Pyrexia
+	-	Ketonuria
+9.	How often should the blood pressure be monitored in a low-risk patient during the latent phase of labour?
+	-	Every 15 minutes
+	-	Every 30 minutes
+	-	Hourly
+	+	2-hourly
+10.	Which of the following may cause hypertension during labour?
+	+	Anxiety
+	-	Fetal distress
+	-	Chorioamnionitis
+	-	Anaemia
+11.	Which of the following would be the best management if a patient’s blood pressure was 90/50 mm Hg while she was lying on her back?
+	+	The patient must change into the lateral position and the blood pressure measurement should be repeated after a further 1 to 2 minutes.
+	-	As maternal hypotension may cause fetal distress, the fetal heart rate must be checked immediately.
+	-	The patient should be reassured that some patients normally have a low blood pressure and, therefore, there is no need for concern.
+	-	As blood loss is the most likely cause for hypotension, active resuscitation must be started immediately.
+12.	A common clinical sign of shock is:
+	-	Pyrexia
+	-	Bradycardia
+	-	Hypertension
+	+	A cold and sweaty skin
+13.	The definition of oliguria is a urine output of less than:
+	-	10 ml per hour
+	+	20 ml per hour
+	-	50 ml per hour
+	-	100 ml per hour
+14.	Oliguria is an important sign of:
+	+	Dehydration
+	-	Pyelonephritis
+	-	Anxiety
+	-	Heart failure
+15.	Which of the following statements is correct?
+	-	All patients should receive an intravenous infusion from the time of admission to the labour ward.
+	-	Oral fluids must be given to all patients until full cervical dilatation is reached.
+	+	All patients to be delivered vaginally must be encouraged to take oral fluids while in the active phase of labour.
+	-	A 50 ml ampoule of 50% dextrose should be given intravenously as soon as ketonuria develops during labour.
+16.	Infection of the urinary tract may cause:
+	+	1+ proteinuria
+	-	2+ proteinuria
+	-	3+ proteinuria
+	-	4+ proteinuria
+17.	Ketonuria during labour:
+	-	Is always abnormal and must be treated
+	-	Is an important sign of fetal distress
+	+	May be seen in normal patients
+	-	Is a sign of renal disease
+18.	Which of the following is a sign of maternal exhaustion during labour?
+	-	Bradycardia
+	-	Proteinuria
+	+	A dry mouth and oliguria
+	-	Pallor and hypotension
+19.	What may cause maternal exhaustion during labour?
+	-	Chorioamnionitis
+	-	Preterm labour
+	-	Placenta praevia
+	+	Prolonged labour
+20.	How should you treat a patient with maternal exhaustion?
+	-	Stop the contractions with nifedipine (Adalat).
+	-	Give oxygen by face mask.
+	+	Give 2 litres of Ringer’s lactate with 5% dextrose by intravenous infusion.
+	-	Deliver the infant by Caesarean section.
