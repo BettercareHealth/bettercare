@@ -17,7 +17,7 @@ ECHO Creating PDF...
 :: Run prince, showing progress (-v), printing the docs in file-list
 :: and saving the resulting PDF to the _output folder
 :: (For some reason this has to be run with CALL)
-CALL prince -v -l print-list -o ..\..\_output\%book%.pdf
+CALL prince -v -l file-list -o ..\..\_output\%book%.pdf
 :: Navigate back to where we began.
 CD ..\..
 :: Tell the user we're done
