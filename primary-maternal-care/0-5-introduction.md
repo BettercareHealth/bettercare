@@ -183,15 +183,17 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Bettercare
 
+*	Phone: +27 76 657 0353
+*   Fax: +27 (0)86 219 8093
+*   Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
+*	Email: [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
-*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: +27 (0)21 671 1278
-*	Fax: +27 (0)86 219 8093
+*   Learning Stations: ls.bettercare.co.za 
 {:.keep-together}
 
 ### Perinatal Education Programme
 
-*	Editor-in-Chief: Professor Dave Woods 
+*	Editor-in-Chief: Professor David Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
 *	Phone/fax: +27 (0)21 786 5369
