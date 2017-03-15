@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Primary Maternal Care: Antenatal and postnatal care in the clinic*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 1 December 2009, 2 August 2011 (layout only), 31 August 2014, 16 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2009 by [Bettercare](http://bettercare.co.za). Updated 1 December 2009, 2 August 2011 (layout only), 31 August 2014, 16 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2009
 
@@ -26,4 +26,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
+For any other uses, please contact Bettercare [www.bettercare.co.za](http://bettercare.co.za).
