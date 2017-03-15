@@ -149,7 +149,7 @@ Participants need to achieve at least 80% in the examination in order to success
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
+The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor David Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
 
 ### Perinatal Education Trust
 
@@ -183,15 +183,15 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Bettercare
 
-*	Website: [www.bettercare.co.za](http://bettercare.co.za)
-*	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Phone: +27 (0)21 671 1278
-*	Fax: +27 (0)86 219 8093
+*   Website: [www.bettercare.co.za](http://bettercare.co.za)
+*   Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
+*   Phone: +27 76 657 0353
+*   Fax: +27 86 219 8093
 {:.keep-together}
 
 ### Perinatal Education Programme
 
-*	Editor-in-Chief: Professor Dave Woods 
+*	Editor-in-Chief: Professor David Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
 *	Phone/fax: +27 (0)21 786 5369
