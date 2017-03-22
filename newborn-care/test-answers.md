@@ -231,12 +231,12 @@ Relearn the sections in brackets for questions you get wrong.
 12.	a	(10-19)
 13.	b	(10-21)
 14.	a	(10-28)
-15.	b	(10-34)
-16.	d	(10-35)
+15.	b	(10-30)
+16.	d	(10-34)
 17.	d	(10-35)
-18.	a	(10-37)
+18.	a	(10-35)
 19.	a	(10-37)
-20.	b	(10-40)
+20.	b	(10-37)
 
 ## Test 11: Oxygen therapy
 
@@ -307,7 +307,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(13-25)
 20.	b	(13-28)
 
-## Test 14: Birth defects
+## Test 14: Congenital disorders
 
 1.	b	(14-1)
 2.	d	(14-2)
