@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Test 3. Down syndrome
 layout: test
 ---

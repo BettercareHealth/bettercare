@@ -1,12 +1,12 @@
 ---
-book: Birth Defects
-title: Test 1. Introduction to birth defects
+book: Congenital Disorders
+title: Test 1. Introduction to congential disorders
 layout: test
 ---
 
-# Test 1: Introduction to birth defects
+# Test 1: Introduction to congential disorders
 
-1.	How high is the prevalence of birth defects in developing countries?
+1.	How high is the prevalence of congential disorders in developing countries?
 	-	10/1000 live births.
 	-	30/1000 live births.
 	+	80/1000 live births.

@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Introduction
 layout: chapter
 ---
@@ -24,7 +24,7 @@ Bettercare publishes an innovative series of distance-learning books for healthc
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60&nbsp;000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 100 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
 
@@ -38,9 +38,9 @@ To help solve these many problems, a self-help decentralised learning method has
 
 *Adult HIV* covers an introduction to HIV infection, management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to opportunistic infections. *Adult HIV* was developed by doctors and nurses with wide experience in the care of adults with HIV, in collaboration with the Desmond Tutu HIV Foundation.
 
-### Birth Defects
+### Cogential Disorders
 
-*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
+*Cogential Disorders* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
 
 ### Breast Care
 
@@ -191,7 +191,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Perinatal Education Programme
 
-*	Editor-in-Chief: Professor Dave Woods 
+*	Editor-in-Chief: Professor David Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
 *	Phone/fax: +27 (0)21 786 5369

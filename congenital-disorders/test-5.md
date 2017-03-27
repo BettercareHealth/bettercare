@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Test 5. Fetal alcohol syndrome
 layout: test
 ---

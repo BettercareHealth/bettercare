@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Test 4. Single gene disorders
 layout: test
 ---

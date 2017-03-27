@@ -1,17 +1,17 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Test 2. Care, prevention and counselling
 layout: test
 ---
 
 # Test 2: Care, prevention and counselling
 
-1.	Which birth defect is common in South Africa?
+1.	Which congential disorder is common in South Africa?
 	+	Oculocutaneous albinism.
 	-	Cystic fibrosis.
 	-	Marfan syndrome.
 	-	Sickle cell anaemia.
-2.	Where can people with birth defects be offered the best possible care?
+2.	Where can people with congential disorders be offered the best possible care?
 	-	Only in industrialised countries.
 	-	Only in large towns and cities.
 	-	Only in hospitals with a genetic centre.
@@ -26,47 +26,47 @@ layout: test
 	-	Only if the DNA screening test is done.
 	+	In about 40% of cases.
 	-	Usually not (only in about 10% of cases).
-5.	In the treatment of birth defects:
+5.	In the treatment of congential disorders:
 	-	Neurodevelopmental therapy does not help.
 	-	Only surgical treatment is useful.
 	+	Medical treatment is often helpful.
 	-	Genetic counselling is usually all that is needed.
-6.	Basic reproductive health approaches to prevent birth defects include:
+6.	Basic reproductive health approaches to prevent congential disorders include:
 	-	Giving all nurses a course in genetic counselling.
 	-	Teaching doctors to recognise common birth defects.
 	+	Family planning.
 	-	Screening all pregnant women for HIV/AIDS.
-7.	Periconceptional care to prevent birth defects includes:
+7.	Periconceptional care to prevent congential disorders includes:
 	+	Improving the diet of women.
 	-	Monitoring the fetus in labour.
 	-	Antenatal ultrasound screening for all pregnant women.
 	-	Giving vitamin K to all newborn infants.
-8.	What antenatal infections can cause birth defects?
+8.	What antenatal infections can cause congential disorders?
 	-	The common cold.
 	+	Rubella (German measles).
 	-	Hepatitis A or B.
 	-	Trichomonas vaginal infection.
 9.	What is medical genetic screening?
-	-	Asking the age of women to find teenage mothers as they are at an increased risk for delivering infants with birth defects.
+	-	Asking the age of women to find teenage mothers as they are at an increased risk for delivering infants with cogential disorders.
 	-	Asking the age of the father (husband or partner).
-	+	Applying a question or test to a population to identify individuals at increased risk for birth defects.
-	-	Taking chest X-rays of all pregnant mothers to look for fetuses with birth defects.
-10.	When is the best time to do genetic screening tests for birth defects?
+	+	Applying a question or test to a population to identify individuals at increased risk for cogential disorders.
+	-	Taking chest X-rays of all pregnant mothers to look for fetuses with cogential disorders.
+10.	When is the best time to do genetic screening tests for cogential disorders?
 	+	Preconception (before pregnancy).
 	-	Only during the first trimester of pregnancy.
 	-	Only after 20 weeks of gestation.
 	-	Only once the infant is born (postnatal).
-11.	What tests help to screen for birth defects?
+11.	What tests help to screen for congential disorders?
 	-	Identifying the mother’s ABO blood group.
 	+	An ultrasound examination at 18 weeks of gestation.
 	-	Measuring the mother’s thyroid function at booking for antenatal care.
 	-	Measuring all infants’ serum bilirubin concentration at birth.
-12.	Why is medical genetic screening for birth defects not available to everyone in a developing country (e.g. South Africa)?
+12.	Why is medical genetic screening for congential disorders not available to everyone in a developing country (e.g. South Africa)?
 	-	Because birth defects are rare.
 	-	Because most birth defects cannot be prevented.
 	+	Because it is too expensive and requires functioning health systems.
 	-	Because it is unethical.
-13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a birth defect?
+13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a congential disorder?
 	-	She should have no choice.
 	-	She should accept the advice of the doctor.
 	-	She must do what the genetic counsellor decides.

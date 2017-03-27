@@ -1,15 +1,15 @@
 ---
 title: Bettercare learning programmes
-book: Birth Defects
+book: Congenital Disorders
 layout: exam
 published: true
 ---
 
-# Birth Defects Exam
+# Congential Disorders Exam
 
 {% include exam-instructions.html %}
 
-1.	How high is the prevalence of birth defects in developing countries?
+1.	How high is the prevalence of congenital disorders in developing countries?
 	-	10/1000 live births.
 	-	30/1000 live births.
 	+	{:.correct}80/1000 live births.
@@ -84,7 +84,7 @@ published: true
 	-	A recessive gene.
 	-	A translocation.
 	+	{:.correct}Rubella virus.	
-1.	Which birth defect is common in South Africa?
+1.	Which bcongenital disorder is common in South Africa?
 	+	{:.correct}Oculocutaneous albinism.
 	-	Cystic fibrosis.
 	-	Marfan syndrome.
@@ -94,27 +94,27 @@ published: true
 	+	{:.correct}A pictured representation of normal, carrier and abnormal people in three generations of a family.
 	-	A way of predicting whether grandchildren will be male or female.
 	-	The source of a new drug to treat haemophilia.
-6.	Basic reproductive health approaches to prevent birth defects include:
+6.	Basic reproductive health approaches to prevent congenital disorders include:
 	-	Giving all nurses a course in genetic counselling.
 	-	Teaching doctors to recognise common birth defects.
 	+	{:.correct}Family planning.
 	-	Screening all pregnant women for HIV/AIDS.
-7.	Periconceptional care to prevent birth defects includes:
+7.	Periconceptional care to prevent congenital disorders includes:
 	+	{:.correct}Improving the diet of women.
 	-	Monitoring the fetus in labour.
 	-	Antenatal ultrasound screening for all pregnant women.
 	-	Giving vitamin K to all newborn infants.
-8.	What antenatal infections can cause birth defects?
+8.	What antenatal infections can cause congenital disorders?
 	-	The common cold.
 	+	{:.correct}Rubella (German measles).
 	-	Hepatitis A or B.
 	-	Trichomonas vaginal infection.
-11.	What tests help to screen for birth defects?
+11.	What tests help to screen for congenital disorders?
 	-	Identifying the mother’s ABO blood group.
 	+	{:.correct}An ultrasound examination at 18 weeks of gestation.
 	-	Measuring the mother’s thyroid function at booking for antenatal care.
 	-	Measuring all infants’ serum bilirubin concentration at birth.
-13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a birth defect?
+13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a congenital disorder?
 	-	She should have no choice.
 	-	She should accept the advice of the doctor.
 	-	She must do what the genetic counsellor decides.
@@ -384,12 +384,3 @@ published: true
 	-	Amniocentesis.
 	-	Induction of labour at 36 weeks for early surgery.
 	+	{:.correct}Genetic counselling.
-
-
-
-
-
-
-
-
-

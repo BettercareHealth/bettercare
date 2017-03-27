@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Test 6. Neural tube defects
 layout: test
 ---

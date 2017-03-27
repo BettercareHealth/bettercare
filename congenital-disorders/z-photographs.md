@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congential Disorders
 title: Photographs
 layout: chapter
 ---

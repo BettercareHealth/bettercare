@@ -1,5 +1,5 @@
 ---
-book: Birth Defects
+book: Congenital Disorders
 title: Contents
 layout: toc
 ---
@@ -17,24 +17,24 @@ layout: toc
 	*   [Contact information](0-5-introduction.html#contact-information)
 {:.prelims}
 
-*	[1. Introduction to birth defects](1.html)
+*	[1. Introduction to congenital disorders](1.html)
 	*   [Objectives](1.html#objectives)
-	*   [Birth defects](1.html#birth-defects)
-	*   [Causes of birth defects](1.html#causes-of-birth-defects)
+	*   [Congenital disorders](1.html#cogential-disorders)
+	*   [Causes of congenital disorders](1.html#causes-of-cogential-disorders)
 	*   [Chromosomal inheritance](1.html#chromosomal-inheritance)
 	*   [Inheritance of single gene defects](1.html#inheritance-of-single-gene-defects)
 	*   [Dominant inheritance](1.html#dominant-inheritance)
 	*   [Recessive inheritance](1.html#recessive-inheritance)
 	*   [Single gene disorders](1.html#single-gene-disorders)
-	*   [Multifactorial birth defects](1.html#multifactorial-birth-defects)
+	*   [Multifactorial cogential disorders](1.html#multifactorial-cogential-disorders)
 	*   [Teratogens](1.html#teratogens)
 	*   [Constraint](1.html#constraint)
 	*   [Case studies](1.html#case-study-1)
 *	[2. Care, prevention and counselling](2.html)
     *   [Objectives](2.html#objectives)
-    *   [Management of birth defects in a community](2.html#management-of-birth-defects-in-a-community)
-    *   [Caring for people with birth defects](2.html#caring-for-people-with-birth-defects)
-    *   [Prevention of birth defects](2.html#prevention-of-birth-defects)
+    *   [Management of cogential disorders in a community](2.html#management-of-cogential-disorders-in-a-community)
+    *   [Caring for people with cogential disorders](2.html#caring-for-people-with-cogential-disorders)
+    *   [Prevention of cogential disorders](2.html#prevention-of-cogential-disorders)
     *   [Medical genetic screening](2.html#medical-genetic-screening)
     *   [Parents’ choices with prenatal diagnosis](2.html#parents-choices-with-prenatal-diagnosis)
     *   [Genetic counselling](2.html#genetic-counselling)
@@ -73,12 +73,12 @@ layout: toc
     *   [Screening for neural tube defects](6.html#screening-for-neural-tube-defects)
     *   [Case studies 1](6.html#case-study-1)
 
-*	{:.auxiliary}[Photographs of birth defects](z-photographs.html)
-*	{:.auxiliary}[Addendum A: Clinical features, diagnosis, treatment, genetic counselling&nbsp;and prevention of common birth defects](7.html)
-*	{:.auxiliary}[Addendum B: Social grants available in South Africa for people with&nbsp;disability](8.html)
+*	{:.auxiliary}[Photographs of cogential-disorders](z-photographs.html)
+*	{:.auxiliary}[Addendum A: Clinical features, diagnosis, treatment, genetic counselling and prevention of common birth defects](7.html)
+*	{:.auxiliary}[Addendum B: Social grants available in South Africa for people with disability](8.html)
     *   [Qualifying requirements for social assistance](8.html#qualifying-requirements-for-social-assistance)
     *   [Social grants for persons with disability](8.html#social-grants-for-persons-with-disability)
-*	{:.auxiliary}[Addendum C: Down syndrome association contact details in South&nbsp;Africa](9.html)
+*	{:.auxiliary}[Addendum C: Down syndrome association contact details in South Africa](9.html)
     *   [Down Syndrome South Africa (National Office)](9.html#down-syndrome-south-africa-national-office)
     *   [Down Syndrome Association (Gauteng)](9.html#down-syndrome-association-gauteng)
     *   [Down Syndrome Association (Pretoria/Tshwane)](9.html#down-syndrome-association-pretoriatshwane)
@@ -89,7 +89,7 @@ layout: toc
 
 ## Tests
 
-*	[1. Introduction to birth defects](test-1.html)
+*	[1. Introduction to cogential disorders](test-1.html)
 *	[2. Care, prevention and counselling](test-2.html)
 *	[3. Down syndrome](test-3.html)
 *	[4. Single gene disorders](test-4.html)
