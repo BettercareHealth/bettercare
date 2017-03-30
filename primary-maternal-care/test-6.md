@@ -11,51 +11,51 @@ layout: test
 	-	Has no smell.
 	-	Has an offensive smell.
 	+	Has a non-offensive smell.
-2.	On day 7 postpartum the size of a normally involuting uterus should correspond to a gestational age of approximately:
-	-	8 weeks
-	+	12 weeks
-	-	16 weeks
-	-	20 weeks
-3.	A normally involuting uterus will be:
+2.	In the puerperium stress incontinence:
+	+	Is common
+	-	Is uncommon
+	-	Requires referral to the doctor
+	-	Is a sign of a urinary tract infection
+3.	On day seven postpartum the size of a normally involuting uterus should correspond to a gestational age of approximately:
+	-	8 weeks.
+	+	12 weeks.
+	-	16 weeks.
+	-	20 weeks.
+4. A normal involuting uterus will be:
 	-	Soft and tender.
 	-	Soft and not tender.
 	-	Firm and tender.
 	+	Firm and not tender.
-4.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
+5.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
 	-	At least daily for 7 days.
 	-	At least daily for 5 days and again on day 7.
 	+	At least on days 1, 3, 5 and 7.
 	-	The patient must be kept in hospital for at least 5 days.
-5.	Which of the following indicate that puerperal pyrexia is caused by a genital tract infection?
+6.	Which of the following indicate that puerperal pyrexia is caused by a genital tract infection?
 	-	General malaise.
 	-	Rigors.
 	+	Offensive lochia.
 	-	A marked tachycardia.
-6.	How must a patient with a urinary tract infection causing puerperal pyrexia be treated?
-	+	Admission to hospital for intravenous broad-spectrum antibiotics.
-	-	Tepid sponging and paracetamol to bring down the temperature at a clinic.
-	-	Oral broad-spectrum antibiotics given to the patient at home.
-	-	Oral broad-spectrum antibiotics and paracetamol given to the patient at home.
-7.	How should you manage a patient with superficial vein thrombosis?
-	-	Hospitalise the patient for heparin treatment.
-	-	Keep the patient in bed for 5 days.
-	-	Start her on oral ampicillin and metronidazole (Flagyl).
-	+	Give analgesia and support the leg with an elastic bandage.
-8.	A patient who develops the ‘puerperal blues’ needs to be:
-	-	Referred to a psychiatrist.
-	-	Isolated together with her infant.
-	+	Comforted and given an explanation of her feelings.
-	-	Treated with a benzodiazepine (e.g. Ativan).
-9.	What is a secondary postpartum haemorrhage?
-	-	Any vaginal bleeding that appears excessive, after the first hour following delivery of the placenta.
-	+	Any vaginal bleeding that appears excessive, after the first 24 hours following delivery of the placenta.
-	-	Any vaginal bleeding that appears excessive, between the 5th and 15th days of the puerperium.
-	-	Any vaginal bleeding in the puerperium which is severe enough to cause the patient to become shocked.
-10.	Observations of the presence or absence of offensive lochia in the patient or jaundice in her infant in the puerperium:
+7.	Observations of the presence or absence of offensive lochia in the patient or jaundice in her infant in the puerperium:
 	+	Can be made by the patient as well as the midwife.
 	-	Should not be expected from patients as they are too unreliable.
 	-	Should only be made by a midwife or doctor.
 	-	Should only be made by a doctor.
+8.	How must a patient with a urinary tract infection causing puerperal pyrexia be treated?
+	+	Admission to hospital for intravenous broad-spectrum antibiotics.
+	-	Tepid sponging and paracetamol to bring down the temperature at a clinic.
+	-	Oral broad-spectrum antibiotics given to the patient at home.
+	-	Oral broad-spectrum antibiotics and paracetamol given to the patient at home.
+9.	A patient who develops the ‘puerperal blues’ needs to be:
+	-	Referred to a psychiatrist.
+	-	Isolated together with her infant.
+	+	Comforted and given an explanation of her feelings.
+	-	Treated with a benzodiazepine (e.g. Ativan).
+10.	What is a secondary postpartum haemorrhage?
+	-	Any vaginal bleeding that appears excessive, after the first hour following delivery of the placenta.
+	+	Any vaginal bleeding that appears excessive, after the first 24 hours following delivery of the placenta.
+	-	Any vaginal bleeding that appears excessive, between the 5th and 15th days of the puerperium.
+	-	Any vaginal bleeding in the puerperium which is severe enough to cause the patient to become shocked.
 11.	The most important aim of family planning is to:
 	-	Save money.
 	+	Improve the quality of life for everyone.
@@ -81,7 +81,7 @@ layout: test
 	-	An intra-uterine contraceptive device.
 	-	An injectable, e.g. depot progestogen.
 	+	A combined oral contraceptive pill.
-16.	A common side effect of an intramuscular injection of depo progesterone is:
+16.	The side effects of injectable contraceptives (depot progestogens) include:
 	-	Fluid retention and breast tenderness.
 	-	Reduction in lactation.
 	-	Chloasma (a brown mark on the face).
@@ -96,11 +96,11 @@ layout: test
 	+	Decreases the risk of sexually transmitted disease.
 	-	Increases sensation during intercourse.
 	-	Is socially acceptable to everyone.
-19.	An injectable is a suitable contraceptive method for a woman who:
-	-	Is planning a pregnancy within the next 6 months.
-	-	Is planning a pregnancy in a year’s time.
-	-	Has a history of severe depression.
-	+	Is 23 years old with 2 children and wants no further children.
+19.	Which contraceptive method is most appropriate for a teenager who has had an unplanned pregnancy?
+	-	An intra-uterine contraceptive device.
+	+	An implant.
+	-	A combined oral contraceptive pill.
+	-	Postcoital contraception.
 20.	When would be the most appropriate time to insert an intra-uterine contraceptive device after delivery?
 	-	Immediately after delivery.
 	-	2 weeks postpartum.
