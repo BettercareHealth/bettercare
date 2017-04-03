@@ -12,9 +12,6 @@ layout: index
 
 		<a href="adult-hiv/0-3-contents.html" title="Adult HIV"><img class="cover-thumb" src="adult-hiv/images/cover-thumb.jpg" alt="Adult HIV" title="Adult HIV is for primary care nurses, medical officers and lay counsellors. It covers management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to opportunistic infections." /></a>
 		
-<<<<<<< Updated upstream
-		<a href="congenital-disorders/0-3-contents.html" title="Congenital Disorders"><img class="cover-thumb" src="congenital-disorders/images/cover-thumb.jpg" alt="Congenital Disorders" title="Congenital Disorders is for those who work with patients with congenital disorders. It covers modes of inheritance, medical genetic counselling, congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance."/></a>
-=======
 		<a href="congenital-disorders/0-3-contents.html" title="Congential Disorders"><img class="cover-thumb" src="congenital-disorders/images/cover-thumb.jpg" alt="Congential Disorders" title="Congential Disorders is for those who work with patients with congenital disorders. It covers modes of inheritance, medical genetic counselling, congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance."/></a>
 >>>>>>> Stashed changes
 		
