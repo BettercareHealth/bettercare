@@ -67,6 +67,7 @@ layout: toc
     *   [Case studies](2.html#case-study-1)
 *	{:.auxiliary}[2A. Skills: Routine use of the antenatal card](2a.html)
     *   [Objectives](2a.html#objectives)
+    *   [The Antenatal Card](2a.html#the-antenatal-card) 
 *	[3. Hypertensive disorders of pregnancy](3.html)
     *   [Objectives](3.html#objectives)
     *   [The hypertensive disorders of pregnancy](3.html#the-hypertensive-disorders-of-pregnancy)
