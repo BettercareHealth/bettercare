@@ -219,7 +219,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Perinatal Education Programme
 
-*	Editor-in-Chief: Professor Dave Woods 
+*	Editor-in-Chief: Professor David Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
 *	Phone/fax: 021 786 5369
