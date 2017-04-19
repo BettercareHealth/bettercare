@@ -96,7 +96,7 @@ layout: test
 	-	Normal PaCO₂
 	+	Base deficit greater than 5
 	-	Base deficit less than 5
-19.	What is used to correct severe metabolic acidosis?
+19.	What is used to correct metabolic acidosis?
 	-	Phototherapy
 	+	4% sodium bicarbonate
 	-	Improved ventilation

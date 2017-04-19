@@ -51,11 +51,11 @@ layout: test
 	+	White fat
 	-	Yellow fat
 	-	Pink fat
-10.	Hypothermia is defined as an axillary temperature below:
-	-	37.5°C
-	+	36.5°C
-	-	30.5°C
-	-	25.5°C
+10.	Hypothermia is defined as a skin temperature below:
+	-	37°C
+	+	36°C
+	-	30°C
+	-	25°C
 11.	What determines the correct incubator temperature?
 	+	The infant’s weight
 	-	The infant’s sex
@@ -72,7 +72,7 @@ layout: test
 	-	A woollen jacket
 	+	A woollen cap
 14.	How should a well newborn infant with a gestational age of 35 weeks and weighing 1500 g be nursed?
-	+	With the mother in the kangaroo care position
+	+	With the mother in the KMC position
 	-	Under a radiant warmer
 	-	In a cot (bassinet) in the general nursery
 	-	In a special warmed room
