@@ -11,9 +11,13 @@ layout: none
 # Liquid comment tags: {% comment %}{% endcomment %}
 ---
 
-{% if site.output == "screen-pdf" %}
+{% comment %} Excluding files from here ----------------
+------------------------------- to here {% endcomment %}
+
+{% if site.output == 'pdf-ebook' %}
 0-0-cover.html
 {% endif %}
+
 0-1-titlepage.html
 0-2-copyright.html
 0-3-contents.html
