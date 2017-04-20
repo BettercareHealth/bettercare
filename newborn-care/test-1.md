@@ -52,7 +52,7 @@ layout: test
 	-	In level 3 hospitals only
 	+	In all hospitals and clinics where infants are delivered
 10.	If an infant does not breathe immediately after birth, what do you do first?
-	+	Stimulate the infant by drying.
+	+	Stimulate the infant by drying it.
 	-	Start chest compressions.
 	-	Cool the infant.
 	-	Give naloxone by intramuscular injection.
@@ -81,7 +81,7 @@ layout: test
 	+	40 breaths per minute
 	-	80 breaths per minute
 	-	140 breaths per minute
-16.	Naloxone reverses the respiratory depression caused by:
+16.	Naloxone (Narcan) reverses the respiratory depression caused by:
 	-	Barbiturates
 	-	General anaesthesia
 	-	Diazepam (Valium)
