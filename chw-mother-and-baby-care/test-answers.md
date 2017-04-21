@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Care of the mother
+### Test 1: Care of the mother
 
 1.	a (1-2)
 2.	b (1-6)
@@ -22,7 +22,7 @@ Relearn the sections in brackets for questions you get wrong.
 10.	a (1-37)
 {:.keep-together}
 
-## Test 2: Care of the newborn baby
+### Test 2: Care of the newborn baby
 
 1.	b (2-2)
 2.	c (2-3)
@@ -36,7 +36,7 @@ Relearn the sections in brackets for questions you get wrong.
 10.	c (2-32)
 {:.keep-together}
 
-## Test 3: Exclusive breastfeeding
+### Test 3: Exclusive breastfeeding
 
 1.	a (3-5)
 2.	b (3-8)
@@ -50,7 +50,7 @@ Relearn the sections in brackets for questions you get wrong.
 10.	a (3-45)
 {:.keep-together}
 
-## Test 4: HIV in mother and baby
+### Test 4: HIV in mother and baby
 
 1.	a (4-3)
 2.	b (4-6)

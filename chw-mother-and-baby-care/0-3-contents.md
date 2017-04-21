@@ -7,11 +7,8 @@ layout: toc
 # Contents
 
 *   [Introduction](0-5-introduction.html#introduction)
-    *   [About the Bettercare series](0-5-introduction.html#about-the-bettercare-series)
     *   [Why decentralised learning?](0-5-introduction.html#why-decentralised-learning)
-    *   [Books in the Bettercare series](0-5-introduction.html#books-in-the-bettercare-series)
     *   [Format of the courses](0-5-introduction.html#format-of-the-courses)
-    *   [Contributors](0-5-introduction.html#contributors)
     *   [Updating the course material](0-5-introduction.html#updating-the-course-material)
     *   [Contact information](0-5-introduction.html#contact-information)
 {:.prelims}
@@ -64,15 +61,10 @@ layout: toc
     *   [Case study 2](4.html#case-study-2)
     *   [Case study 3](4.html#case-study-3)
 	
-## Tests
+*   Tests
+    *   [1: Care of the mother](test-1.html)
+    *   [2: Care of the newborn baby](test-2.html)
+    *   [3: Exclusive breastfeeding](test-3.html)
+    *   [4: HIV in mother and baby](test-4.html)
 
-*   [Test 1: Care of the mother](test-1.html#test-1-care-of-the-mother)
-*   [Test 2: Care of the newborn baby](test-2.html#test-2-care-of-the-newborn-baby)
-*   [Test 3: Exclusive breastfeeding](test-3.html#test-3-exclusive-breastfeeding)
-*   [Test 4: HIV in mother and baby](test-4.html#test-4-hiv-in-mother-and-baby)
-
-*   [Answers](test-answers.html#answers)
-    *   [Test 1: Care of the mother](test-answers.html#test-1-care-of-the-mother)
-    *   [Test 2: Care of the newborn baby](test-answers.html#test-2-care-of-the-newborn-baby)
-    *   [Test 3: Exclusive breastfeeding](test-answers.html#test-3-exclusive-breastfeeding)
-    *   [Test 4: HIV in mother and baby](test-answers.html#test-4-hiv-in-mother-and-baby)
+*   [Answers](test-answers.html)
