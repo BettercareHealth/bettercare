@@ -4,7 +4,7 @@ title: Test 4. Feeding normal infants
 layout: test
 ---
 
-# Test 4: Feeding normal infants
+## Test 4: Feeding normal infants
 
 1.	Why is it important for infants to be fed breast milk?
 	-	Breast milk meets all the nutritional needs of a term infant.

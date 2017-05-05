@@ -4,7 +4,7 @@ title: Test 13. Trauma and bleeding
 layout: test
 ---
 
-# Test 13: Trauma and bleeding
+## Test 13: Trauma and bleeding
 
 1.	What is a caput succedaneum?
 	-	A fracture of the skull

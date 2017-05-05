@@ -1,22 +1,22 @@
 ---
 book: Newborn Care
-title: Test 14. Birth defects
+title: Test 14. Congenital Disorders
 layout: test
 ---
 
-# Test 14: Birth defects
+## Test 14: Congenital Disorders
 
-1.	How many infants are born with a birth defect?
+1.	How many infants are born with a congenital disorder?
 	-	1%
 	+	3%
 	-	5%
 	-	10%
-2.	Which infants should be examined after delivery for a birth defect?
+2.	Which infants should be examined after delivery for a structural congenital disorder?
 	-	Postterm infants
 	-	Infants with 3 vessels in their umbilical cord
 	-	Infants that have a low Apgar score
 	+	All infants
-3.	When should you anticipate the birth of an infant with a birth defect?
+3.	When should you anticipate the birth of an infant with a congenital disorder?
 	-	In patients younger than 35 years
 	-	In patients who received penicillin during early pregnancy
 	+	In patients with poorly controlled diabetes
@@ -101,7 +101,7 @@ layout: test
 	+	A long, smooth upper lip
 	-	Hydrocephalus
 	-	Single palmar creases
-20.	When speaking to parents of an infant with birth defects, it is best:
+20.	When speaking to parents of an infant with a congenital disorder, it is best:
 	+	To tell them as soon as possible
 	-	To wait until all the results of the special investigations are available
 	-	Not to allow them to see the infant until they have had a chance to get over the shock

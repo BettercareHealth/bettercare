@@ -4,7 +4,7 @@ title: Test 15. Communication
 layout: test
 ---
 
-# Test 15: Communication
+## Test 15: Communication
 
 1.	Communication with parents can be improved by:
 	-	Giving them complicated explanations

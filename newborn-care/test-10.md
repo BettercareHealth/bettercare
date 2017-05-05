@@ -4,7 +4,7 @@ title: Test 10. Respiratory distress and apnoea
 layout: test
 ---
 
-# Test 10: Respiratory distress and apnoea
+## Test 10: Respiratory distress and apnoea
 
 1.	Which one of the following clinical signs is used to diagnose respiratory distress?
 	-	Pallor
@@ -34,8 +34,8 @@ layout: test
 6.	A diagnosis of hyaline membrane disease is likely with:
 	-	Pus cells and bacteria in the gastric aspirate at birth
 	-	A positive VDRL test
-	-	A positive shake test
-	+	A negative shake test
+	-	A chest X-ray showing hyperexpanded lungs
+	+	A chest X-ray showing a small lungs with granular lung fields
 7.	Hyaline membrane disease is commonly seen in:
 	-	Meconium-stained infants
 	+	Preterm infants
@@ -76,33 +76,33 @@ layout: test
 	-	Take an X-ray of the abdomen.
 	-	Insert a chest drain.
 	-	Do a shake test on the gastric aspirate at birth.
-15.	An offensive smell at birth in an infant with respiratory distress suggests a diagnosis of:
+15.	What is a common cause of heart failure in newborn infants?
+	- Dehydration
+	+ Patent ductus arteriosus
+	- Mitral stenosis
+	- Hyaline membrane disease
+16. An offensive smell at birth in an infant with respiratory distress suggests a diagnosis of:
 	-	Meconium aspiration syndrome
 	+	Pneumonia
 	-	Syphilis
 	-	Tetanus
-16.	Periodic breathing:
+17.	Periodic breathing:
 	-	Causes pallor.
 	-	Causes tachycardia.
 	-	Causes bradycardia and central cyanosis.
 	+	Causes neither central cyanosis nor bradycardia.
-17.	Apnoea is diagnosed when:
+18.	Apnoea is diagnosed when:
 	-	An infant stops breathing for 5 seconds.
 	-	An infant stops breathing for 15 seconds but remains pink. 
 	-	An infant becomes cyanosed but does not stop breathing.
 	+	An infant stops breathing for 20 seconds and develops cyanosis and bradycardia.
-18.	Apnoea is common in:
+19.	Apnoea is common in:
 	+	Infants with septicaemia
 	-	Underweight for gestational age infants
 	-	Overweight for gestational age infants
 	-	Postterm infants
-19.	The dose of oral theophylline is:
-	+	Load of 5 mg/kg then 2.5 mg/kg twice daily
-	-	Load of 4 mg/kg then 4 mg/kg twice daily
-	-	Load of 2 mg/kg then 2 mg/kg twice daily
-	-	Load of 2 mg/kg only
-20.	The toxic effects of theophylline include:
-	-	Jaundice
-	+	Tachycardia
-	-	Oedema
-	-	Pyrexia
+20. How is caffeine given to prevent apnoea?
+	+ Orally
+	- By intramuscular injection
+	- Intravenously
+	- It is rubbed onto the infant’s chest

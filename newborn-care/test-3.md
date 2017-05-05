@@ -4,7 +4,7 @@ title: Test 3. The routine care of normal infants
 layout: test
 ---
 
-# Test 3: The routine care of normal infants
+## Test 3: The routine care of normal infants
 
 1.	What is a normal infant?
 	-	An infant that weighs more than 2000 g.
@@ -17,8 +17,8 @@ layout: test
 	-	The infant does not need medical or nursing care
 	-	Care in hospital
 3.	When should the umbilical cord be clamped?
-	+	After the newborn infant has taken a few breaths
-	-	Immediately
+	+	About 2 minutes after birth so that the infant has a chance to start breathing
+	-	Immediately after birth
 	-	At 5 minutes after delivery
 	-	After the placenta has been delivered
 4.	When should the infant be given to the mother?
@@ -54,7 +54,7 @@ layout: test
 10.	What routine cord care is needed?
 	-	The cord should be painted daily with gentian violet.
 	-	Antibiotic powder should be put on the cord twice a day.
-	+	The cord should be cleaned with surgical spirits 6 hourly.
+	+	The cord should be cleaned with chlorhexidine solution or surgical spirits daily.
 	-	The cord should be washed with soap and water every day.
 11.	How much weight is lost after birth by a normal infant?
 	-	A normal infant should not lose any weight.
@@ -71,7 +71,7 @@ layout: test
 	-	Twice a day until discharge
 	-	Before and after every feed
 	-	There is no need to weigh a normal infant.
-14.	Which infants should receive a ‘road-to-health’ card?
+14.	Which infants should receive a ‘road-to-health’ booklet?
 	+	All infants
 	-	Only infants born in hospital
 	-	Only infants who have problems in the perinatal period

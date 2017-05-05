@@ -4,7 +4,7 @@ title: Test 5. Care of high-risk and sick infants
 layout: test
 ---
 
-# Test 5: Care of high-risk and sick infants
+## Test 5: Care of high-risk and sick infants
 
 1.	Classifying an infant as high risk indicates that:
 	-	The infant is sick.
@@ -96,7 +96,7 @@ layout: test
 	-	Normal PaCO₂
 	+	Base deficit greater than 5
 	-	Base deficit less than 5
-19.	What is used to correct metabolic acidosis?
+19.	What is used to correct severe metabolic acidosis?
 	-	Phototherapy
 	+	4% sodium bicarbonate
 	-	Improved ventilation
