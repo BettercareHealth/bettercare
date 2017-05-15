@@ -384,12 +384,4 @@ published: true
 	-	Less than 5%
 	-	Less than 10%
 	+	{:.correct}More than 10%
-	-	More than 50%
-
-
-
-
-
-
-
-
+	-	More than 50%]
