@@ -29,7 +29,7 @@ layout: test
 5.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
 	-	At least daily for 7 days.
 	-	At least daily for 5 days and again on day 7.
-	+	At least on days 1, 3, 5 and 7.
+	+	At least on day 3 and 7.
 	-	The patient must be kept in hospital for at least 5 days.
 6.	Which of the following indicate that puerperal pyrexia is caused by a genital tract infection?
 	-	General malaise.

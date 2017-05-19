@@ -203,7 +203,7 @@ The Infection Control Africa Network (ICAN) promotes and facilitates the establi
 
 ## Updating the course material
 
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
+Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor David Woods.
 
 ## Contact information
 
@@ -212,7 +212,6 @@ Bettercare learning materials are regularly updated to keep up with developments
 *	Phone: +27 76 657 0353
 *	Fax: 086 219 8093
 *	Email: [info@bettercare.co.za](mailto:info@bettercare.co.za)
-*	Email: [sales@bettercare.co.za](mailto:sales@bettercare.co.za)
 *	Website: [www.bettercare.co.za](http://bettercare.co.za)
 *	Learning Station: [ls.bettercare.co.za](http://ls.bettercare.co.za/)
 {:.keep-together}
@@ -231,7 +230,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Support
 
-Please contact us if you would like to know which learning programmes are available in print, ebook or online format. A current list is available on [www.bettercare.co.za/learning-programmes](http://bettercare.co.za/learning-programmes/). 
+Please contact us if you would like to know which learning programmes are available in print, ebook or online format. A list is available on [www.bettercare.co.za/learning-programmes](http://bettercare.co.za/learning-programmes/). 
 
 For information on learning programmes pending funding for development, publication and addition to the free online Learning Station, please email us at [info@bettercare.co.za](mailto:info@bettercare.co.za).
 

@@ -4,7 +4,7 @@ title: Test 9. Jaundice, anaemia and polycythaemia
 layout: test
 ---
 
-# Test 9: Jaundice, anaemia and polycythaemia
+## Test 9: Jaundice, anaemia and polycythaemia
 
 1.	What is the definition of jaundice?
 	-	An increase in the concentration of bilirubin in the serum.

@@ -4,7 +4,9 @@ title: Test 1. Failure to breathe at birth and resuscitation
 layout: test
 ---
 
-# Test 1: Failure to breathe at birth and resuscitation
+Please choose the *one*, most correct answer to each question or statement.
+
+## Test 1: Failure to breathe at birth and resuscitation
 
 1.	How many infants breathe well at birth?
 	-	50%
@@ -52,7 +54,7 @@ layout: test
 	-	In level 3 hospitals only
 	+	In all hospitals and clinics where infants are delivered
 10.	If an infant does not breathe immediately after birth, what do you do first?
-	+	Stimulate the infant by drying it.
+	+	Stimulate the infant by drying.
 	-	Start chest compressions.
 	-	Cool the infant.
 	-	Give naloxone by intramuscular injection.
@@ -81,7 +83,7 @@ layout: test
 	+	40 breaths per minute
 	-	80 breaths per minute
 	-	140 breaths per minute
-16.	Naloxone (Narcan) reverses the respiratory depression caused by:
+16.	Naloxone reverses the respiratory depression caused by:
 	-	Barbiturates
 	-	General anaesthesia
 	-	Diazepam (Valium)

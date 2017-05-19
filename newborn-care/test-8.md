@@ -4,7 +4,7 @@ title: Test 8. Glucose control and hypoglycaemia
 layout: test
 ---
 
-# Test 8: Glucose control and hypoglycaemia
+## Test 8: Glucose control and hypoglycaemia
 
 1.	Glucose is stored in the body as glycogen in:
 	-	The brain
@@ -17,15 +17,15 @@ layout: test
 	-	Higher than a normal adult
 	-	Higher than a normal child
 3.	The normal blood glucose concentration in a newborn infant is:
-	-	Less than 2.0 mmol/l
-	+	2.0 mmol/l to 7.0 mmol/l
-	-	1.5 mmol/l to 10.0 mmol/l
+	-	Less than 2.5 mmol/l
+	+	2.5 mmol/l to 7.0 mmol/l
+	-	1.4 mmol/l to 10.0 mmol/l
 	-	7.0 mmol/l to 15 mmol/l
 4.	The definition of severe hypoglycaemia is a blood glucose concentration:
 	-	Less than 7.0 mmol/l
 	-	Less than 5.0 mmol/l
-	-	Less than 2.0 mmol/l
-	+	Less than 1.5 mmol/l
+	-	Less than 2.5 mmol/l
+	+	Less than 1.4 mmol/l
 5.	Hypoglycaemia is dangerous as it may cause:
 	-	Jaundice
 	+	Brain damage

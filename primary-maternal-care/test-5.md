@@ -88,7 +88,7 @@ layout: test
 	-	Preterm labour should be suppressed and the patient transferred to a level 1 facility for further suppression of preterm labour.
 17.	What should be done if preterm labour has been diagnosed at a primary care antenatal clinic and the patient is less than 34 weeks pregnant?
 	+	Contractions need to be suppressed and the patient referred urgently to a level 2 hospital.
-	-	Contractions need to be suppressed and the patient referred urgently to a level&nbsp;1 hospital.
+	-	Contractions need to be suppressed and the patient referred urgently to a level 1 hospital.
 	-	There is no time to suppress contractions as this will only delay the urgent transfer of the patient.
 	-	If the cervix is less than 2 cm dilated it is better to wait to see if further dilatation occurs before transfer is arranged.
 18.	How would you decide that a patient is less than 34 weeks pregnant if the duration of the pregnancy is unknown?
@@ -96,7 +96,7 @@ layout: test
 	+	The estimated fetal weight will be less than 2000 g and the syphysis-fundus measurement will be less than 33 cm.
 	-	If in doubt the patient should be referred to a level 2 hospital to be evaluated.
 	-	An ultrasound examination needs to be done urgently to establish the correct gestational age.
-19.	Salbutamol should not be used in a patient with:
+19.	Salbutamol (Ventolin) should not be used in a patient with:
 	-	Asthma.
 	-	Preterm rupture of the membranes.
 	-	Multiple pregnancy.
@@ -105,4 +105,4 @@ layout: test
 	-	If she only had one previous preterm delivery, there is no need to be concerned about future pregnancies.
 	-	There is a high risk of recurrence, it will be better not to attempt future pregnancies.
 	-	Intervention is only required if a patient had two previous preterm deliveries.
-	+	The patient should be seen at a level&nbsp;2 hospital before her next pregnancy to be assessed for possible causes. 
+	+	The patient should be seen at a level 2 hospital before her next pregnancy to be assessed for possible causes. 

@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Antenatal care
+### Test 1: Antenatal care
 
 1.	c	(1-3)
 2.	b	(1-6)
@@ -31,7 +31,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-46)
 20.	c	(1-51)
 
-## Test 2: Assessment of fetal growth and condition during pregnancy
+### Test 2: Assessment of fetal growth and condition during pregnancy
 
 1.	b	(2-2)
 2.	d	(2-5)
@@ -54,7 +54,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(2-24)
 20.	c	(2-25)
 
-## Test 3: Hypertensive disorders of pregnancy
+### Test 3: Hypertensive disorders of pregnancy
 
 1.	b	(3-2)
 2.	b	(3-3)
@@ -77,7 +77,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(3-28)
 20.	b	(3-33)
 
-## Test 4: Antepartum haemorrhage
+### Test 4: Antepartum haemorrhage
 
 1.	c	(4-1)
 2.	d	(4-2)
@@ -100,7 +100,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(4-30)
 20.	d	(4-31)
 
-## Test 5: Preterm labour and preterm rupture of the membranes
+### Test 5: Preterm labour and preterm rupture of the membranes
 
 1.	c	(5-1)
 2.	c	(5-2)
@@ -123,30 +123,30 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(5-27)
 20.	d	(5-29)
 
-## Test 6: The puerperium and family planning
+### Test 6: The puerperium and family planning
 
 1.	d	(6-4)
 2.	a	(6-4)
 3.	b	(6-4)
 4.	d	(6-4)
 5.	c	(6-6)
-6.	c	(6-20)
-7.	a	(6-22)
-8.	a	(6-24)
-9.	c	(6-33)
-10.	b	(6-34)
-11.	b	(6-45)
-12.	a	(6-49)
-13.	c	(6-51)
-14.	a	(6-52)
-15.	d	(6-54)
-16.	d	(6-54)
-17.	d	(6-54)
-18.	b	(6-55)
-19.	b	(6-56)
-20.	c	(6-58)
+6.	c	(6-21)
+7.	a	(6-23)
+8.	a	(6-25)
+9.	c	(6-34)
+10.	b	(6-35)
+11.	b	(6-46)
+12.	a	(6-50)
+13.	c	(6-52)
+14.	a	(6-53)
+15.	d	(6-55)
+16.	d	(6-55)
+17.	d	(6-55)
+18.	b	(6-56)
+19.	b	(6-57)
+20.	c	(6-59)
 
-## Test 7: Medical problems during pregnancy and the puerperium
+### Test 7: Medical problems during pregnancy and the puerperium
 
 1.	c	(7-3)
 2.	b	(7-4)

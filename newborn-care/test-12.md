@@ -4,7 +4,7 @@ title: Test 12. Infection
 layout: test
 ---
 
-# Test 12: Infection
+## Test 12: Infection
 
 1.	What is the risk of infection in the newborn infant?
 	-	The same as in a older child
@@ -33,7 +33,7 @@ layout: test
 	-	Chloromycetin ointment only
 6.	Prevention of umbilical cord infection is best achieved by: 
 	-	Covering the cord with a bandage
-	+	Dehydrating the cord with surgical spirits
+	+	Cleaning the cord with surgical spirits or 4% chlorhexidine
 	-	Applying antibiotic powder to the cord
 	-	Applying antibiotic ointment to the cord
 7.	Tetanus presents with:

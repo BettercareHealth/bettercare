@@ -24,7 +24,7 @@ Bettercare publishes an innovative series of distance-learning books for healthc
 
 Our aim is to provide appropriate, affordable and up-to-date learning material for healthcare workers in under-resourced areas, so that they can learn, practise and deliver excellent patient care.
 
-The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 60&nbsp;000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
+The Bettercare series is built on the experience of the Perinatal Education Programme (PEP), which has provided learning opportunities to over 100 000 nurses and doctors in South Africa since 1992. Many of the educational methods developed by PEP are now being adopted by the World Health Organisation (WHO).
 
 ## Why decentralised learning? 
 
@@ -37,10 +37,6 @@ To help solve these many problems, a self-help decentralised learning method has
 ### Adult HIV
 
 *Adult HIV* covers an introduction to HIV infection, management of HIV-infected adults at primary-care clinics, preparing patients for antiretroviral (ARV) treatment, ARV drugs, starting and maintaining patients on ARV treatment and an approach to opportunistic infections. *Adult HIV* was developed by doctors and nurses with wide experience in the care of adults with HIV, in collaboration with the Desmond Tutu HIV Foundation.
-
-### Birth Defects
-
-*Birth Defects* was written for healthcare workers who look after individuals with birth defects, their families, and women who are at increased risk of giving birth to an infant with a birth defect. Special attention is given to modes of inheritance, medical genetic counselling, and birth defects due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
 
 ### Breast Care
 
@@ -57,6 +53,10 @@ To help solve these many problems, a self-help decentralised learning method has
 ### Childhood TB
 
 *Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV/TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu TB Centre.
+
+### Congenital Disorders
+
+*Congenital Disorders* was written for healthcare workers who look after individuals with congenital disorders, their families, and women who are at increased risk of giving birth to an infant with a congenital disorder. Special attention is given to modes of inheritance, medical genetic counselling, and congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Genetics Education Programme, which trains healthcare workers in genetic counselling in South Africa.
 
 ### Ebola Prevention and Control
  
@@ -104,7 +104,7 @@ To help solve these many problems, a self-help decentralised learning method has
 
 ### Well Women
 
-*Well Women* was written for primary health workers who manage the everyday health needs of women. It covers reproductive health, family planning and infertility, common genital infections, vaginal bleeding, and the abuse of women.
+*Well Women* was written for primary health care nurses and doctors to address the many reproductive and general health problems faced by women who are not pregnant.  Topics include family planning and infertility, common genital and urinary infections, vaginal bleeding, pain and discomfort, and abuse of women. These conditions are often poorly diagnosed and managed in clinics and district hospitals.
 
 ## Format of the courses
 
@@ -114,7 +114,7 @@ The learning objectives are clearly stated at the start of each chapter. They he
 
 ### Pre- and post-tests
 
-There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter to benchmark their current knowledge, and a post-test after each chapter to assess what they have learned. Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter to benchmark their current knowledge, and a post-test after each chapter to assess what they have learned. The correct answers, together with the source of each question, are given at the end of the book to enable participants to mark their answers when they have completed both tests. They should restudy the sections related to any incorrect answers. This enables participants to monitor their own progress. Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 
@@ -141,15 +141,17 @@ Some Bettercare books include chapters on practical skills that need to be pract
 
 ### Final examination
 
-On completion of each course, participants can take a 75-question, self-managed multiple-choice examination.
+On completion of each course, participants can take a 75-question, multiple-choice examination managed by Bettercare.
 
 All the exam questions will be taken from the multiple-choice tests from the book. The content of the skills chapters will not be included in the examination.
 
-Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. South African doctors can earn CPD points on the successful completion of the CPD test at the end of each chapter.
+Participants need to achieve at least 80% in the examination in order to successfully complete the course. Successful candidates will be sent a certificate which states that they have successfully completed that course. Bettercare courses are not yet accredited for nurses, but South African doctors can earn CPD points on the successful completion of an examination.
+
+Contact Bettercare when you are ready to take the exam.
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
+The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who has consulted to UNICEF and the WHO.
 
 ### Perinatal Education Trust
 
@@ -175,9 +177,13 @@ The Perinatal Mental Health Project of the Centre for Public Mental Health in th
 
 The Infection Control Africa Network (ICAN) promotes and facilitates the establishment of infection control programmes. This includes promotion of surveillance for and reduction of healthcare-associated infections, and antimicrobial stewardship activities through education. ICAN works with infection prevention structures in Africa and other international health-related associations.
 
+### Breast Care for Nurses
+
+Breast Care for Nurses is a non-profit organisation based in South Africa. It is dedicated to bring continuing learning opportunities to healthcare workers involved with the screening and management of breast cancer.
+
 ## Updating the course material
 
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
+Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor David Woods.
 
 ## Contact information
 
@@ -191,7 +197,7 @@ Bettercare learning materials are regularly updated to keep up with developments
 
 ### Perinatal Education Programme
 
-*	Editor-in-Chief: Professor Dave Woods 
+*	Editor-in-Chief: Professor David Woods 
 *	Website: [www.pepcourse.co.za](http://pepcourse.co.za)
 *	Email: [pepcourse@mweb.co.za](mailto:pepcourse@mweb.co.za)
 *	Phone/fax: +27 (0)21 786 5369
