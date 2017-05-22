@@ -36,7 +36,7 @@ layout: test
 	+	Waiting for the signs of placental separation when the patient is then asked to bear down and spontaneously deliver the placenta
 	-	Pulling down steadily on the umbilical cord and pushing the uterus up when the patient has a contraction
 	-	Giving an oxytocic drug when the signs of placental separation appear so that the placenta can be spontaneously delivered
-7.	Which of the following signs will confirm the diagnosis that the placenta has separated?
+7.	Which of the following signs do not confirm the diagnosis that the placenta has separated?
 	-	Lengthening of the umbilical cord
 	-	The fundus of the uterus moves from below to above the umbilicus
 	-	A sudden gush of blood runs out of the vagina
