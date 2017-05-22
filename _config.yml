@@ -70,31 +70,4 @@ defaults:
             contents: "0-3-contents.html"
             language: "en"
             images-folder: images
-    -
-        scope: # Now enter details for your first book. The `path` is the book's folder. The `values` are specific to the book in that folder. Add values to override the defaults above per book. Remember to indent with spaces, not tabs, for valid YAML.
-            path: "chw-sample"
-        values:
-            book-title: "HIV in Mother and Baby"
-            isbn-print: "TBC"
-            isbn-epub: "TBC"
-            isbn-pdf: "TBC"
 
-prose:
-  siteurl: "http://electricbookworks.github.io/bettercare"
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /admin
-    - /css
-    - /_site
-    - /js
-    - /images
-    - robots.txt
-    - .gitattributes
-    - .gitignore
-    - sitemap.xml
-    - .htaccess
-    - 404.html
-    - maintenance.html

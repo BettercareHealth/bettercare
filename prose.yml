@@ -1,0 +1,19 @@
+prose:
+  siteurl: "http://electricbookworks.github.io/bettercare"
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /admin
+    - /css
+    - /_site
+    - /js
+    - /images
+    - robots.txt
+    - .gitattributes
+    - .gitignore
+    - sitemap.xml
+    - .htaccess
+    - 404.html
+    - maintenance.html
