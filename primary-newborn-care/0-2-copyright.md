@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Primary Newborn Care: Problem-solving in the clinic*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2008 by [Bettercare](http://bettercare.co.za). Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2008  
 
@@ -24,4 +24,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
+For any other uses, please contact [Bettercare](http://bettercare.co.za).
