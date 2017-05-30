@@ -10,10 +10,10 @@ Adult HIV
 What health professionals need to know
 {:.titlepage-subtitle}
 
-Written by Catherine Orrell, Richard&nbsp;Kaplan and Dave&nbsp;Woods
+Written by Catherine Orrell, Richard Kaplan and David Woods
 {:.titlepage-author}
 
-Edited by Dave Woods
+Edited by David Woods
 {:.titlepage-author}
 
 ![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
