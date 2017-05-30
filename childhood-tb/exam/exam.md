@@ -384,5 +384,3 @@ published: true
 	+	{:.correct}Should be corrected by education
 	-	Should be ignored
 	-	Are never correct
-
-	

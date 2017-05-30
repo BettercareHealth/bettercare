@@ -10,7 +10,7 @@ Childhood Critical Care
 A guide for healthcare professionals
 {:.titlepage-subtitle}
 
-Written by Andrew Argent and Dave Woods
+Written by Andrew Argent and David Woods
 {:.titlepage-author}
 
 ![Bettercare logo][logo]{:.titlepage-logo}

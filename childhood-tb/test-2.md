@@ -6,6 +6,8 @@ layout: test
 
 # Test 2: Clinical presentation of childhood tuberculosis
 
+Please choose the one most correct answer to each question or statement.
+
 1.	A high index of suspicion:
 	+	Is important in making the correct diagnosis of tuberculosis
 	-	Is only useful in diagnosing tuberculosis in older children

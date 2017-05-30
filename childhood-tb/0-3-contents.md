@@ -31,7 +31,7 @@ layout: toc
     *   [Enlarged tuberculous lymph nodes](2.html#enlarged-tuberculous-lymph-nodes)
     *   [Tuberculous meningitis](2.html#tuberculous-meningitis)
     *   [Abdominal tuberculosis](2.html#abdominal-tuberculosis)
-    *   [Tuberculous bone and joint disease](2.html#tuberculous-bone-and-joint-disease)
+    *   [Tuberculosis of bone and joints](2.html#tuberculosis-of-bone-and-joints)
     *   [Disseminated tuberculosis](2.html#disseminated-tuberculosis)
     *   [Scoring systems to identify tuberculosis](2.html#scoring-systems-to-identify-tuberculosis)
     *   [Case studies](2.html#case-study-1)
@@ -39,21 +39,24 @@ layout: toc
     *   [Objectives](3.html#objectives)
     *   [Confirming the clinical diagnosis of tuberculosis](3.html#confirming-the-clinical-diagnosis-of-tuberculosis)
     *   [Tuberculin skin tests](3.html#tuberculin-skin-tests)
-    *   [Identifying TB bacilli in sputum](3.html#identifying-tb-bacilli-in-sputum)
+    *   [Identifying TB DNA and bacilli in sputum](3.html#identifying-tb-dna-and-bacilli-in-sputum)
+    *   [Evaluation by samples by Xpert MTB-RIF](3.html#evaluation-by-samples-by-xpert-mtb-rif) 
     *   [Sputum smear examination](3.html#sputum-smear-examination)
-    *   [Culture for TB bacilli](3.html#culture-for-tb-bacilli)
+    *   [Culture for TB bacilli and drug susceptibility testing](3.html#culture-for-tb-bacilli-and-drug-susceptibility-testing)
     *   [Chest X-ray](3.html#chest-x-ray)
     *   [Fine needle aspiration of a lymph node](3.html#fine-needle-aspiration-of-a-lymph-node)
     *   [Lumbar puncture](3.html#lumbar-puncture)
+    *   [Additional investigations](3.html#additional-investigations)
     *   [Screening for HIV](3.html#screening-for-hiv)
     *   [Case studies](3.html#case-study-1)
 *	[4. Management of childhood tuberculosis](4.html)
     *   [Objectives](4.html#objectives)
     *   [Planning the management of a child with tuberculosis](4.html#planning-the-management-of-a-child-with-tuberculosis)
-    *   [Treating tuberculosis](4.html#treating-tuberculosis)
+    *   [Treating drug susceptible tuberculosis](4.html#treating-drug-susceptible-tuberculosis)
     *   [Good adherence](4.html#good-adherence)
     *   [Monitoring treatment](4.html#monitoring-treatment)
     *   [Drug-resistant tuberculosis](4.html#drug-resistant-tuberculosis)
+    *   [Treatment with steroids](4.html#treatment-with-steroids)
     *   [Good nutrition](4.html#good-nutrition)
     *   [Treating tuberculosis and HIV co-infection](4.html#treating-tuberculosis-and-hiv-co-infection)
     *   [Case studies](4.html#case-study-1)
@@ -70,7 +73,8 @@ layout: toc
 
 *	[Pictures](6.html)
 
-## Tests
+
+* Tests
 
 *	[1. Introduction to childhood tuberculosis](test-1.html)
 *	[2. Clinical presentation of childhood tuberculosis](test-2.html)
@@ -78,4 +82,4 @@ layout: toc
 *	[4. Management of childhood tuberculosis](test-4.html)
 *	[5. Preventing childhood tuberculosis](test-5.html)
 
-*	[Answers](test-answers.html)	
+* [Answers](test-answers.html)	
