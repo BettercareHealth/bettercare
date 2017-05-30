@@ -385,4 +385,3 @@ published: true
 	-	Cancer
 	-	Necrotising ulcerative gingivitis
 	+	{:.correct}Peripheral neuropathy
-
