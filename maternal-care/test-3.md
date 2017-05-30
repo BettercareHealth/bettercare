@@ -23,7 +23,7 @@ layout: test
 	-	Hypertension and proteinuria presenting any time in pregnancy
 4.	What is the correct definition of chronic hypertension?
 	+	Hypertension, without proteinuria, that is present in the first half of pregnancy
-	-	Hypertension, together with proteinuria, that is present in the first half of pregnancy
+	-	Hypertension, together with proteinuria, that is present in the first second of pregnancy
 	-	Hypertension that is present in the first half of pregnancy, plus proteinuria that presents in the second half of pregnancy
 	-	Hypertension alone which is present at the time of booking at 28 weeks
 5.	How common is pre-eclampsia?

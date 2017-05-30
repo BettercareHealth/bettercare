@@ -327,7 +327,7 @@ Relearn the sections in brackets for questions you get wrong.
 16.	b (14-11)
 17.	b (14-12)
 18.	a (14-12)
-19.	c (4-12)
+19.	c (14-12)
 20.	c (14-14)
 
 ### Test 15: Regionalised perinatal care
