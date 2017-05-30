@@ -6,6 +6,8 @@ layout: test
 
 # Test 6: HIV-associated infections and end-of-life care
 
+Please choose the one most correct answer to each question or statement
+
 1.	What are ‘HIV-associated infections’?
 	-	Other retroviral infections similar to HIV
 	+	Bacterial, viral and fungal infections which are common in HIV-infected people
@@ -98,7 +100,7 @@ layout: test
 	-	Only give analgesics eight-hourly because they will suppress respiration if given more frequently.
 19.	What analgesic should be used to control moderate pain?
 	-	Aspirin
-	+	Codeine phosphate
+	+	Tilidine
 	-	Morphine
 	-	Pethidine
 20.	What side effect is common when morphine is used as an analgesic?

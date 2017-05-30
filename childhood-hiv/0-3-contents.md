@@ -42,8 +42,6 @@ layout: toc
     *   [Primary prophylaxis](3.html#primary-prophylaxis)
     *   [Nutrition and growth](3.html#nutrition-and-growth)
     *   [Monitoring neurodevelopment](3.html#monitoring-neurodevelopment)
-    *   [Monitoring the clinical staging](3.html#monitoring-the-clinical-staging)
-    *   [Monitoring immune function](3.html#monitoring-immune-function)
     *   [Screening for HIV-associated infections](3.html#screening-for-hiv-associated-infections)
     *   [Care of adolescents with HIV infection](3.html#care-of-adolescents-with-hiv-infection)
     *   [Disclosure](3.html#disclosure)
@@ -66,7 +64,7 @@ layout: toc
     *   [Adherence](5.html#adherence)
     *   [Inadequate dosage](5.html#inadequate-dosage)
     *   [Drug resistance](5.html#drug-resistance)
-    *   [Treatment failure](5.html#treatment-failure)
+    *   [Unsuppressed viral load and treatment failure](5.html#unsuppressed-viral-load-and-treatment-failure)
     *   [Drug interactions](5.html#drug-interactions)
     *   [Drug interruptions](5.html#drug-interruptions)
     *   [Side effects of antiretroviral agents](5.html#side-effects-of-antiretroviral-agents)
@@ -81,7 +79,7 @@ layout: toc
     *   [End-of-life care](6.html#end-of-life-care)
     *   [Case studies](6.html#case-study-1)
 
-## Tests
+Tests
 
 *	[1. Introduction to childhood HIV infection](test-1.html)
 *	[2. Clinical and immunological diagnosis of HIV infection](test-2.html)
@@ -90,4 +88,4 @@ layout: toc
 *	[5. Management of children with antiretroviral treatment](test-5.html)
 *	[6. HIV-associated infections and end-of-life care](test-6.html)
 
-*	[Answers](test-answers.html)	
+[Answers](test-answers.html)

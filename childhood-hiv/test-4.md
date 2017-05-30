@@ -6,6 +6,8 @@ layout: test
 
 # Test 4: Antiretroviral drugs
 
+Please choose the one most correct answer to each question or statement
+
 1.	How does antiretroviral treatment work?
 	-	The drugs kill CD4 cells.
 	-	The drugs kill the organisms which cause opportunistic infections.
@@ -41,51 +43,51 @@ layout: test
 	-	Unfortunately more expensive than an individualised approach
 	-	Not recommended in private practice as it is less effective
 	-	Complicated with more side effects
-8.	What is the standard first-line combination used in children younger than three years in South Africa?
-	-	ABC, 3TC and efavirenz
-	+	ABC, 3TC and lopinavir/ritonavir
-	-	d4T, 3TC and ddI
-	-	AZT, ddI and efavirenz
-9.	What is the standard first-line combination used in children older than three years in South Africa?
+8.	What is the standard first-line regimen for children younger than 1 month in South Africa?
+		ABC, 3TC, lopinavir/ritonavir
+		AZT, 3TC, lopinavir/rironavir
+		ABC, 3TC, nevirapine
+		AZT, 3TC, nevirapine
+9.	What is the standard first-line combination used in children between one month and three years in South Africa?
+	+	AZT, 3TC, and nevirapine
+	-	AZT, ddI and lopinavir/ritonavir
+	-	AZT, ddI and nevirapine
+	-	ABC, 3TC and lopinavir/ritonavir
+10. What is the standard first-line combination used in children older than three years in South Africa?
 	+	ABC, 3TC and efavirenz
 	-	AZT, ddI and lopinavir/ritonavir
 	-	AZT, ddI and nevirapine
 	-	ABC, 3TC and lopinavir/ritonavir
-10.	How should antiretroviral drugs be taken?
+11.	How should antiretroviral drugs be taken?
 	-	It does not matter if one or two doses are missed a week.
 	+	It is important to take the drugs at the same time every day.
 	-	The three different drugs should not be taken at the same time.
 	-	It is best to take a small dose in the morning and a big dose at night.
-11.	How should doses of antiretroviral drugs be calculated for young children?
+12.	How should doses of antiretroviral drugs be calculated for young children?
 	-	The dose is usually the same as for adults.
 	-	The dose is determined by the child’s age.
 	-	The dose is determined by the severity of the illness.
 	+	The dose is determined by the child’s weight.
-12.	An important side effect of AZT is:
-	-	An itchy skin rash
-	+	Anaemia
-	-	Peripheral neuropathy
-	-	Hepatitis
-13.	When should ddI be taken?
-	-	With meals
-	-	Just before meals
-	-	Just after meals
-	+	Not with meals
-14.	Efavirenz is taken:
+13.	Efavirenz is taken:
 	+	Once a day
 	-	Twice a day
 	-	Three times a day
 	-	Four times a day
-15.	Which antiretroviral drug can be kept at room temperature?
+14.	Which antiretroviral drug can be kept at room temperature?
 	-	AZT suspension only
 	-	Nevirapine tablets only
 	+	Most antiretroviral drugs
 	-	Efavirenz capsules only
-16.	Nevirapine may cause:
+15.	Nevirapine may cause:
 	-	Lactic acidosis
 	+	A severe skin rash
 	-	Lipodystrophy
 	-	Pancreatitis
+16.	An important side effect of AZT is:
+	-	An itchy skin rash
+	+	Anaemia
+	-	Peripheral neuropathy
+	-	Hepatitis
 17.	Peripheral neuropathy usually presents as:
 	-	Difficulty with speech
 	-	Severe headaches

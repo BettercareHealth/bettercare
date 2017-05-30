@@ -6,6 +6,8 @@ layout: test
 
 # Test 1: Introduction to childhood HIV infection
 
+Please choose the one most correct answer to each question or statement.
+
 1.	HIV is a:
 	-	Fungus
 	-	Spirochaete
@@ -45,7 +47,7 @@ layout: test
 	-	About 5 000
 	-	About 50 000
 	-	About 150 000
-	+	About 460 000
+	+	About 240 000
 9.	When is HIV most commonly spread from mother to child?
 	-	During pregnancy
 	+	During labour and vaginal delivery
@@ -71,14 +73,14 @@ layout: test
 	-	They are used during labour only.
 	+	They are used during pregnancy and labour.
 	-	They are used after delivery only.
-14.	For infants who are exclusively formula-fed, prophylactic antiretroviral drugs can reduce the risk of perinatal HIV transmission to as low as:
+14.	For infants who are exclusively breast-fed, prophylactic antiretroviral drugs can reduce the risk of perinatal HIV transmission to as low as:
 	+	5%
 	-	10%
 	-	15%
 	-	20%
-15.	Which regimen of antiretroviral prophylaxis is most effective in reducing mother-to-child transmission of HIV?
-	-	Nevirapine alone
-	+	Nevirapine and AZT
+15.	Which regimen of antiretroviral treatment given to the mother is most effective in reducing mother-to-child transmission of HIV?
+	-	Nevirapine and AZT
+	+	TDF, 3TC plus EFV
 	-	3TC alone
 	-	Lopinavir/ritonavir alone
 16.	What factors may increase the risk of HIV transmission in breast milk?

@@ -6,16 +6,18 @@ layout: test
 
 # Test 5: Management of children with antiretroviral treatment
 
+Please choose the one most correct answer to each question or statement
+
 1.	At which clinical stage should antiretroviral treatment be started in children older than 5 years?
 	-	Clinical stage 1
 	-	Clinical stage 2
 	+	Clinical stage 3 or 4
-	-	Clinical stages alone cannot be used as treatment criteria.
-2.	At what immunological stage should antiretroviral treatment be started in children older than 5 years?
-	+	CD4 count on or below 350 cells/µl
-	-	CD4 count on or below 500 cells/µl 
-	-	Only the clinical stage and not the immunological stage is important in these children.
-	-	All these HIV-infected children should receive antiretroviral treatment.
+	-	All children irrespective of clinical stage.
+2.	Which children should be fast tracked onto antiretroviral treatment?
+		A child with MDR-TB clinical disease
+		A 16 month old child with stage 1 disease
+		A child with a CD4 count of 250 cells/μl
+		A 6 year old child with stage 2 disease
 3.	Which one of the following is essential before starting antiretroviral treatment?
 	-	The mother should have at least seven years schooling.
 	+	There must be at least one responsible adult to help administer medication.
@@ -46,8 +48,8 @@ layout: test
 	+	Two weeks
 	-	Three weeks
 	-	Four weeks
-9.	What special blood test should be done at the second follow-up visit if the child is receiving nevirapine?
-	+	Alanine transferase (ALT)
+9.	What special blood test should be done at the second follow-up visit if the child is receiving zidovudine?
+	+	Haemaglobin or full blood count
 	-	A lipid profile
 	-	Serum lactate concentration
 	-	Blood glucose concentration
@@ -81,9 +83,9 @@ layout: test
 	-	3 drugs are used instead of 4.	
 	+	Nevirapine is used as prophylaxis during delivery.
 	-	Steroids are given at the same time as antiretroviral treatment.
-16.	Which antiretroviral drugs may interact with INH to cause peripheral neuropathy?
+16.	Which antiretroviral drug may interact with INH to cause peripheral neuropathy?
 	-	Efavirenz and nevirapine
-	+	d4T and ddI
+	+	d4T
 	-	AZT
 	-	Lopinavir/ritonavir
 17.	What should be done if the first-line treatment fails in spite of excellent compliance?

@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to childhood HIV infection
+### Test 1: Introduction to childhood HIV infection
 
 1.	d	(1-1)
 2.	a	(1-4)
@@ -25,13 +25,13 @@ Relearn the sections in brackets for questions you get wrong.
 13.	c	(1-28)
 14.	a	(1-29)
 15.	b	(1-31)
-16.	c	(1-35)
-17.	d	(1-36)
-18.	c	(1-43)
-19.	a	(1-48)
-20.	d	(1-48)
+16.	c	(1-40)
+17.	d	(1-41)
+18.	c	(1-48)
+19.	a	(1-53)
+20.	d	(1-53)
 
-## Test 2: Clinical and immunological diagnosis of HIV infection
+### Test 2: Clinical and immunological diagnosis of HIV infection
 
 1.	c	(2-1)
 2.	a	(2-3)
@@ -54,7 +54,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(2-30)
 20.	c	(2-33)
 
-## Test 3: Management of children with HIV infection
+### Test 3: Management of children with HIV infection
 
 1.	a	(3-2)
 2.	d	(3-3)
@@ -70,60 +70,60 @@ Relearn the sections in brackets for questions you get wrong.
 12.	c	(3-23)
 13.	b	(3-24)
 14.	c	(3-29)
-15.	c	(3-33)
-16.	d	(3-35)
-17.	c	(3-37)
-18.	d	(3-41)
-19.	a	(3-47)
-20.	b	(3-47)
+15.	c	(3-32)
+16.	d	(3-34)
+17.	c	(3-35)
+18.	d	(3-39)
+19.	a	(3-41)
+20.	b	(3-41)
 
-## Test 4: Antiretroviral drugs
+### Test 4: Antiretroviral drugs
 
 1.	d	(4-2)
 2.	c	(4-4)
 3.	a	(4-5)
 4.	b	(4-5)
 5.	c	(4-10)
-6.	d	(4-14)
-7.	a	(4-16)
-8.	b	(4-19)
-9.	a	(4-19)
-10.	b	(4-24)
-11.	d	(4-25)
-12.	b	(4-30)
-13.	d	(4-31)
-14.	a	(4-35)
-15.	c	(4-38)
-16.	b	(4-46)
-17.	c	(4-52)
-18.	b	(4-53)
-19.	c	(4-54)
-20.	a	(4-55)
+6.	d	(4-17)
+7.	a	(4-19)
+8.	d	(4-22)
+9.	b	(4-22)
+10.	a	(4-22)
+11.	b	(4-30)
+12.	d	(4-30)
+13.	a	(4-40)
+14.	c	(4-43)
+15.	b	(4-51)
+16.	b	(4-56)
+17.	c	(4-57)
+18.	b	(4-58)
+19.	c	(4-59)
+20.	a	(4-60)
 
-## Test 5: Management of children with antiretroviral treatment
+### Test 5: Management of children with antiretroviral treatment
 
-1.	c	(5-5)
-2.	a	(5-6)
-3.	b	(5-7)
-4.	d	(5-9)
-5.	c	(5-10)
-6.	a	(5-11)
-7.	d	(5-12)
+1.	d	(5-4)
+2.	a	(5-4)
+3.	b	(5-5)
+4.	d	(5-7)
+5.	c	(5-8)
+6.	a	(5-9)
+7.	d	(5-10)
 8.	b	(5-24)
 9.	a	(5-25)
-10.	d	(5-32)
-11.	c	(5-40)
-12.	d	(5-42)
-13.	a	(5-45)
-14.	d	(5-45)
-15.	c	(5-55)
-16.	b	(5-57)
-17.	c	(5-62)
-18.	b	(5-66)
-19.	d	(5-71)
-20.	c	(5-73)
+10.	d	(5-31)
+11.	c	(5-39)
+12.	d	(5-41)
+13.	a	(5-44)
+14.	d	(5-44)
+15.	c	(5-54)
+16.	b	(5-59)
+17.	c	(5-60)
+18.	b	(5-64)
+19.	d	(5-69)
+20.	c	(5-69)
 
-## Test 6: HIV-associated infections and end-of-life care
+### Test 6: HIV-associated infections and end-of-life care
 
 1.	b	(6-1)
 2.	b	(6-2)
