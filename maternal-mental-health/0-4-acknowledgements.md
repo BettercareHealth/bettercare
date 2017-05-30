@@ -8,7 +8,7 @@ layout: frontmatter
 
 Authors: Sally Field, Dr Simone Honikman
 
-Editor: Prof Dave Woods
+Editor: Prof David Woods
 
 *Maternal Mental Health* has drawn from material from the Perinatal Mental Health Project’s *Maternal Mental Health: A handbook for health workers*. The handbook can be found online at [www.pmhp.za.org/learn/pmhp-resources](http://www.pmhp.za.org/learn/pmhp-resources). 
 

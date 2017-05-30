@@ -7,13 +7,13 @@ layout: frontmatter
 Maternal Mental Health
 {:.titlepage-title}
 
-A guide for health and social&nbsp;workers
+A guide for health and social workers
 {:.titlepage-subtitle}
 
-Written by Sally Field and Dr&nbsp;Simone&nbsp;Honikman
+Written by Sally Field and Dr Simone Honikman
 {:.titlepage-author}
 
-Edited by Prof Dave Woods
+Edited by Prof David Woods
 {:.titlepage-author}
 
 ![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
