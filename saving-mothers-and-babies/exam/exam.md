@@ -384,5 +384,3 @@ published: true
 	+	{:.correct}Offer antiretrovirals to all HIV positive pregnant women.
 	-	Shorten labour by performing an episiotomy.
 	-	Rupture the membranes as soon as possible.
-
-
