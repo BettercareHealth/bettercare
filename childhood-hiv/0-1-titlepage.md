@@ -10,7 +10,7 @@ Childhood HIV
 What health professionals need to know
 {:.titlepage-subtitle}
 
-Written by Dave Woods and Brian&nbsp;Eley
+Written by David Woods and Brian Eley
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

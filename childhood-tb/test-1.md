@@ -6,6 +6,8 @@ layout: test
 
 # Test 1: Introduction to childhood tuberculosis
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Tuberculosis is:
 	-	An acute infection
 	+	A chronic infection
@@ -14,7 +16,7 @@ layout: test
 2.	Tuberculosis is caused by a:
 	-	Virus
 	-	Fungus
-	+	Bacteria
+	+	Bacterium
 	-	Parasite
 3.	How is tuberculosis spread?
 	+	By airborne droplets
@@ -59,8 +61,8 @@ layout: test
 11.	What is the incidence of tuberculosis in South Africa?
 	-	Less than 50 per 100 000 people
 	-	About 100 per 100 000 people
-	-	About 500 per 100 000 people
-	+	About 1000 per 100 000 people
+	+	About 500 per 100 000 people
+	-	About 1000 per 100 000 people
 12.	Primary TB infection usually occurs in:
 	+	The lung
 	-	The gut
@@ -106,4 +108,3 @@ layout: test
 	+	Spreads to many organs of the body
 	-	Is common at all ages
 	-	Spreads only in the lungs
-	

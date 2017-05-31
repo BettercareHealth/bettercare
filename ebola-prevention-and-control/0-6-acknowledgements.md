@@ -20,7 +20,7 @@ Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for
 
 ## Editor
 
-Prof Dave Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
+Prof David Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
 
 ## Funded by
 
@@ -50,4 +50,4 @@ Dr Frederick Marais (Infection Control Africa Network and Stellenbosch Universit
 
 Professor Meredith Minkler (School of Public Health, UC Berkeley¸ United States of America): chapter 5
 
-Professor Dave Woods (Eduhealthcare, South Africa): multiple-choice questions
+Professor David Woods (Eduhealthcare, South Africa): multiple-choice questions

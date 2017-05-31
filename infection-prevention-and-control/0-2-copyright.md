@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Infection Prevention and Control: A guide for healthcare professionals in low-resource settings*
 
-First published in 2014 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2014 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Academic Unit for Infection Prevention and Control, Stellenbosch University
 
@@ -24,4 +24,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
+For any other uses, please contact [Bettercare](http://bettercare.co.za).

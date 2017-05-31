@@ -6,6 +6,8 @@ layout: test
 
 # Test 2: Clinical and immunological diagnosis of HIV infection
 
+Please choose the one most correct answer to each question or statement
+
 1.	During the first six weeks after HIV infection:
 	-	The child always becomes seriously ill.
 	-	The CD4 count rises.
@@ -71,7 +73,7 @@ layout: test
 	-	PCR test
 	-	HIV culture
 	+	Rapid test
-14.	How long should you wait after stopping breastfeeding a nine-month-old child before doing an ultrasensitive p24 antigen test to diagnose or exclude HIV infection?
+14.	How long should you wait after stopping breastfeeding a nine-month-old child before doing an HIV PCR test to diagnose or exclude HIV infection?
 	-	72 hours
 	-	One week
 	+	Six weeks
@@ -81,9 +83,9 @@ layout: test
 	-	Rapid test
 	-	ELISA test
 	-	CD4 test
-16.	Screening tests for HIV infection usually become positive when the person has been infected for:
+16.	Viral tests for HIV infection usually become positive when the person has been infected for:
 	-	Six days
-	+	Six weeks
+	+	Less than six weeks
 	-	Six months
 	-	Six years
 17.	What is the normal CD4 percentage in children?

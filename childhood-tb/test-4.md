@@ -6,6 +6,8 @@ layout: test
 
 # Test 4: Management of childhood tuberculosis
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Children with uncomplicated tuberculosis should be:
 	-	Admitted to hospital for the intensive phase of treatment
 	-	Admitted to hospital for bed rest during the first month of treatment
@@ -16,17 +18,17 @@ layout: test
 	-	Only 75% can be cured
 	-	Only 25% can be cured
 	-	Tuberculosis cannot be cured
-3.	How many drugs are usually used in the multi-drug treatment of uncomplicated tuberculosis in children?
-	-	Two
-	+	Three
-	-	Four
+3.	How many drugs are usually used to treat drug sensitive tuberculosis HIV uninfected children?
+	-	One
+	+	Two
+	-	Three
 	-	Five
 4.	Which drug is included in the first-line treatment of tuberculosis in children?
 	+	INH
 	-	Ethambutol
 	-	Streptomycin
 	-	Amikacin
-5.	Which drug is used in the continuation phase of treatment in children?
+5.	Which drug is used in the continuation phase of drug-susceptible TB in younger children?
 	+	Rifampicin
 	-	Pyrazinamide
 	-	Ethionamide
@@ -36,12 +38,12 @@ layout: test
 	-	Four months
 	+	Six months
 	-	Nine months
-7.	Which anti-TB drugs may cause the urine to become orange?
+7.	Which anti-TB drug may cause the urine to become orange?
 	-	INH
 	+	Rifampicin
 	-	Pyrazinamide
 	-	Ethambutol
-8.	How often are first-line drugs taken?
+8.	How often are anti-tuberculous drugs taken?
 	+	Once a day, usually in the morning
 	-	Twice a day with meals
 	-	Three times a day
@@ -51,11 +53,11 @@ layout: test
 	-	Ceftriaxone
 	+	Ethionamide
 	-	Sulphonamide
-10.	Severe pulmonary tuberculosis:
-	-	Needs 12 months of treatment
-	-	Can be treated at home
-	+	Should be treated with four drugs
-	-	Needs one drug to be given daily by intramuscular injection
+10.	What is the great advantage of a fixed drug combination tablet?
+	-	It is much cheaper
+	-	It tastes better
+	+	Adherence is improved
+	-	The continuation phase of treatment can be reduced to two months
 11.	What is good adherence?
 	-	100% of doses must be taken (no doses missed)
 	+	At least 80% of doses must be taken
@@ -86,23 +88,23 @@ layout: test
 	-	All anti-TB drugs
 	-	Kanamycin and capreomycin
 	-	BCG
-17.	A very useful method of monitoring a child’s response to treatment is:
-	+	Regularly plot the child’s weight on a Road-to-Health card
-	-	Measure the CD4 count
-	-	Measure drug levels in the blood
-	-	Repeating the chest X-ray
-18.	All children with tuberculosis should receive:
-	-	Oral iron supplementation
-	+	200 000 units of vitamin A once by mouth while on treatment
-	-	Daily vitamin C supplements
-	-	Vitamin B6 if INH is used
-19.	If young children have both HIV and TB infection:
+17.	If young children have both HIV and PTB:
 	-	The HIV infection should not be treated as it increases the risk of adverse effects.
 	-	The HIV should only be treated when the full course of anti-TB treatment is completed.
 	-	Only start the anti-TB treatment when the child has received six months of antiretroviral treatment.
-	+	Treat both HIV and tuberculosis together.
-20.	What is IRIS?
+	+	First treat the PTB then start antiretroviral therapy within 8 weeks of starting anti-TB treatment.
+18.	What antiretroviral drug change may be needed if rifampicin is given to HIV-positive children on anti-TB treatment?
+	-	The dose of lopinavir/ritonavir should be halved
+	+	Lopinavir/ritonavir should be boosted with additional ritonavir
+	-	Daily vitamin C supplements
+	-	VThe dose of efavirenz should be doubled
+19.	What is IRIS?
 	-	A typical X-ray pattern seen with pulmonary tuberculosis
 	-	A new test for extensive drug resistance
 	+	An unexpected clinical deterioration in patients who have been responding well to treatment
 	-	A non-governmental organisation which provides food parcels for children with tuberculosis
+20. A very useful method of monitoring a child’s response to treatment is:
+	+	Regularly plot the child’s weight in the Road-to-Health booklet
+	-	Measure the CD4 count
+	-	Measure drug levels in the blood
+	-	Repeating the chest X-ray

@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to childhood tuberculosis
+### Test 1: Introduction to childhood tuberculosis
 
 1.	b	(1-1)
 2.	c	(1-2)
@@ -31,7 +31,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-23)
 20.	b	(1-24)
 
-## Test 2: Clinical presentation of childhood tuberculosis
+### Test 2: Clinical presentation of childhood tuberculosis
 
 1.	a	(2-1)
 2.	a	(2-4)
@@ -54,53 +54,53 @@ Relearn the sections in brackets for questions you get wrong.
 19.	b	(2-24)
 20.	d	(2-25)
 
-## Test 3: Diagnosis of childhood tuberculosis
+### Test 3: Diagnosis of childhood tuberculosis
 
-1.	c	(3-1)
+1.	b	(3-1)
 2.	b	(3-3)
 3.	d	(3-4)
 4.	c	(3-5)
 5.	c	(3-6)
-6.	d	(3-10)
-7.	c	(3-11)
-8.	b	(3-16)
-9.	c	(3-20)
-10.	c	(3-21)
-11.	a	(3-23)
-12.	c	(3-27)
-13.	d	(3-28)
-14.	b	(3-32)
-15.	a	(3-34)
-16.	c	(3-35)
-17.	b	(3-37)
-18.	c	(3-39)
-19.	a	(3-40)
-20.	d	(3-40)
+6.	d	(3-7)
+7.	c	(3-9)
+8.	b	(3-15)
+9.	c	(3-19)
+10.	c	(3-20)
+11.	c	(3-21)
+12.	c	(3-33)
+13.	d	(3-34)
+14.	b	(3-38)
+15.	a	(3-40)
+16.	c	(3-41)
+17.	b	(3-43)
+18.	c	(3-45)
+19.	a	(3-48)
+20.	d	(3-48)
 
-## Test 4: Management of childhood tuberculosis
+### Test 4: Management of childhood tuberculosis
 
-1.	d	(4-2)
-2.	a	(4-3)
-3.	b	(4-5)
+1.	d	(4-3)
+2.	a	(4-4)
+3.	c	(4-6)
 4.	a	(4-8)
-5.	a	(4-9)
-6.	c	(4-9)
-7.	b	(4-15)
-8.	a	(4-17)
+5.	a	(4-11)
+6.	c	(4-11)
+7.	b	(4-16)
+8.	a	(4-19)
 9.	c	(4-20)
-10.	c	(4-20)
-11.	b	(4-24)
-12.	c	(4-25)
-13.	d	(4-26)
-14.	a	(4-27)
-15.	b	(4-31)
-16.	a	(4-32)
-17.	a	(4-37)
-18.	b	(4-38)
-19.	d	(4-40)
-20.	c	(4-41)
+10.	c	(4-25)
+11.	b	(4-27)
+12.	c	(4-28)
+13.	d	(4-29)
+14.	a	(4-30)
+15.	b	(4-34)
+16.	a	(4-35)
+17.	d	(4-44)
+18.	b	(4-46)
+19.	c	(4-47)
+20.	a	(4-51)
 
-## Test 5: Preventing childhood tuberculosis
+### Test 5: Preventing childhood tuberculosis
 
 1.	b	(5-2)
 2.	d	(5-3)

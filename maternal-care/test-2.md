@@ -84,10 +84,10 @@ layout: test
 	-	Fetal distress should be suspected and intra-uterine resuscitation must be undertaken.
 	-	The test must be repeated after 45 minutes.
 	+	The variability must be assessed to determine the presence or absence of fetal wellbeing.
-16.	Why must you repeat the test 45 minutes after a non-reactive fetal heart rate pattern, with poor beat-to-beat variability, is obtained?
+16.	Why must you repeat the test 45 minutes after a non-reactive fetal heart rate pattern, with poor variability, is obtained?
 	-	Supine hypotension or spontaneous hyperstimulation of the uterus may be present.
 	-	Such a fetal heart rate pattern indicates fetal distress and the test must be repeated immediately.
-	+	A sleeping fetus may produce a non-reactive fetal heart rate pattern with poor beat-to-beat variability.
+	+	A sleeping fetus may produce a non-reactive fetal heart rate pattern with poor variability.
 	-	Cardiotocography must be repeated after 45 minutes whenever the fetal heart rate pattern indicates fetal distress.
 17.	Which of the following results indicates an abnormal stress test?
 	-	No decelerations after 2 contractions that last at least 30 seconds each

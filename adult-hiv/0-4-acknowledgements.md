@@ -14,5 +14,5 @@ Comments and suggestions by all the participants who use Adult HIV to further th
 
 A generous grant from the Doris Duke Charitable Foundation, and funding from Eduhealthcare, enabled the development and publishing of this book, and a number of valuable contributors have helped to fund its further distribution.
 
-*Prof Dave Woods*  
+*Prof David Woods*  
 *Editor*

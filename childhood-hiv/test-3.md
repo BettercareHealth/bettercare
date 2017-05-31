@@ -6,6 +6,8 @@ layout: test
 
 # Test 3: Management of children with HIV infection
 
+Please choose the one most correct answer to each question or statement
+
 1.	Where should most children with HIV infection be managed?
 	+	In a community-based primary care clinic
 	-	In a large regional hospital
@@ -19,7 +21,7 @@ layout: test
 3.	All HIV-exposed infants:
 	-	Do not need special care and follow up.
 	-	Only need to be seen at six months to assess their HIV status.
-	+	Should be carefully assessed at six weeks of age.
+	+	Should be retested at 10 weeks if the birth PCR was negative.
 	-	Should be started on antiretroviral treatment.
 4.	What immunisations should not be given to a child with symptomatic HIV infection?
 	+	BCG
@@ -76,26 +78,26 @@ layout: test
 	-	Measuring head circumference regularly
 	+	Assessing developmental milestones regularly
 	-	Testing hearing regularly
-15.	HIV-infected children over a year of age who are well should be clinically assessed:
-	-	Every month
-	-	Every three months
-	+	Every six months
-	-	Only if they are unwell
-16.	Which test is used to monitor the immune system in HIV-infected children?
-	-	The white cell count
-	-	The clinical stage
-	-	The weight
-	+	The CD4 percentage or count
-17.	What is the immunological indication to start antiretroviral treatment in children below 5 years?
-	-	CD4 percentage below 10%
-	-	CD4 percentage below 15%
-	+	All children below 5 years of age should be started on treatment.
-	-	Children under 12 months of age are too young for treatment.
-18.	Which children are adolescents?
+15.	When should the first neurological screening be done on HIV exposed infants?
+	-	A week after birth
+	-	A 6 weeks after birth
+	+	At 14 weeks after birth
+	-	At 6 months
+16.	Which sign would suggest an HIV-associated infection?
+	-	A nappy rash
+	-	Conjunctivitis
+	-	An upper respiratory tract infection
+	+	A sore mouth and difficulty swallowing
+17.	Which children are adolescents?
 	-	All teenagers
 	-	All children between puberty and 20 years
-	-	Children between 14 and 19 years
-	+	Children between 10 and 19 years
+	-	Children between 14 and 19 years.
+	+	Children between 10 and 19 years.
+18.	What is the prevalence of HIV infection in adolescents?
+	-	It is the same in boys and girls.
+	-	It is higher in boys.
+	+	It is higher in girls.
+	-	It is not known whether it is higher in boys or girls are too young for treatment.
 19.	In South Africa many adolescents have become infected with HIV:
 	+	At birth
 	-	Due to HIV-contaminated needles in hospital

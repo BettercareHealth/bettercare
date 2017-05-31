@@ -384,12 +384,3 @@ published: true
 	-	An out of date way of treating jaundice.
 	-	A project to teach blind children.
 	+	{:.correct}A method of encouraging mothers to bond better with their infants.
-
-
-
-
-
-
-
-
-

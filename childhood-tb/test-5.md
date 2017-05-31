@@ -6,9 +6,11 @@ layout: test
 
 # Test 5: Preventing childhood tuberculosis
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is BCG?
 	-	A vaccine made from dead TB bacilli
-	+	A vaccine made from live, weakened TB bacilli
+	+	A vaccine made from live, weakened form of *Mycobacterium bovis*
 	-	A vaccine made from the protein of TB bacilli
 	-	A vaccine made from the serum of people with tuberculosis
 2.	BCG immunisation is of particular value in reducing the risk of:
@@ -76,7 +78,7 @@ layout: test
 	-	Children under the age of ten years
 	+	Children under the age of five years
 	-	Only children under the age of two years
-15.	TB prophylaxis in young children should only be given if the Mantoux skin test:
+15.	TB prophylaxis in young children should be given if the Mantoux skin test:
 	-	Is negative in a child who does not have HIV infection
 	-	Is intermediate
 	+	Is positive
@@ -91,9 +93,9 @@ layout: test
 	-	Only if they are under two years of age
 	-	Only if they also have HIV infection
 	+	No
-18.	The 6th Millennium Development Goal aims at:
+18.	The 3<sup>rd</sup> Sustainable Development Goal aims at:
 	-	Preventing all new cases of tuberculosis by 2020
-	+	Preventing all childhood cases of tuberculosis by 2020
+	+	Ending the tuberculosis epidemic by 2030
 	-	Halving the number of cases of tuberculosis by 2015
 	-	Reducing the number of cases of tuberculosis by 10% each year
 19.	Community education is needed to reducing the incidence of tuberculosis:

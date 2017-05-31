@@ -42,8 +42,8 @@ layout: test
 	-	It would be better to ask her to return in 6 weeks’ time for booking
 	+	The uterine size may be determined vaginally with fair accuracy
 8.	The best method of assessing the duration of pregnancy by physical examination at 18 or more weeks is:
-	-	The symphysis-fundus measurement
-	+	Bimanual palpation of the uterus on vaginal examination
+	+	The symphysis-fundus measurement
+	-	Bimanual palpation of the uterus on vaginal examination
 	-	Palpation of the abdomen
 	-	To establish the lie of the fetus and assess the size of the fetal head
 9.	If the uterine fundus is just below the umbilicus (20 weeks) and the patient is 18 weeks pregnant by dates:
@@ -99,7 +99,7 @@ layout: test
 19.	Antiretroviral treatment during pregnancy should be provided with:
 	-	AZT alone
 	-	Nevirapine alone
-	+	A fixed combination dose (FCD) pill
+	+	A fixed drug combination dose (FDC) pill
 	-	AZT plus FDC
 20.	FDC is contra-indicated if the woman has:
 	-	Stage 4 disease

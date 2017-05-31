@@ -384,4 +384,3 @@ published: true
 	-	When the result of the hepatitis B antibody test is received
 	-	A week after the assault when any vaginal tears have healed
 	-	Hepatitis B immunisation is not needed as most women already have antibodies to hepatitis B
-

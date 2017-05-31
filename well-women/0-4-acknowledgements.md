@@ -10,4 +10,4 @@ We wish to gratefully acknowledge the constructive comments made by Prof A. Kent
 
 We are also grateful to Eduhealthcare whose funding enabled the development and publishing of this book.
 
-*Prof Dave Woods and Prof Silke Dyer*
+*Prof David Woods and Prof Silke Dyer*

@@ -40,7 +40,7 @@ published: true
 	+	{:.correct}At 6, 10 and 14 weeks.
 	-	At 9 and 18 months.
 6.	Where should immunisations be recorded?
-	+	{:.correct}In the child’s Road-to-Health card or booklet.
+	+	{:.correct}In the child’s Road-to-Health booklet.
 	-	In the clinic immunisation record book.
 	-	In the labour ward register.
 	-	In the hospital records.
@@ -367,7 +367,7 @@ published: true
 8.	What is the estimated under-5 mortality rate in South Africa?
 	-	15
 	-	30
-	+	{:.correct}{:.correct}70
+	+	{:.correct}70
 	-	90
 12.	What is the aim of mortality meetings?
 	-	To discipline the staff.
@@ -376,12 +376,11 @@ published: true
 	-	To collect accurate data for the annual hospital report.
 15.	What is a modifiable factor?
 	-	An example of good care.
-	+	{:.correct}{:.correct}A missed opportunity or substandard care.
+	+	{:.correct}A missed opportunity or substandard care.
 	-	Part of care that only doctors can provide.
 	-	Something which cannot be corrected.
 20.	The nutritional status should be assessed and recorded:
-	+	{:.correct}{:.correct}In all childhood deaths.
+	+	{:.correct}In all childhood deaths.
 	-	Only if the child came from a poor home or was neglected.
 	-	Only if the child died of infection such as TB or diarrhoea.
 	-	Only if the child had not routinely attended clinic.
-
