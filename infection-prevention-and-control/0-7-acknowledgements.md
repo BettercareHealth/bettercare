@@ -12,7 +12,7 @@ Dr Angela Dramowski, MBChB, FC Paed, Cert Paed ID, MMed Paed, DCH,  Academic Uni
 
 ## Editors
 
-Prof Dave Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
+Prof David Woods, MBChB, MD, FRCP, DCH, Eduhealthcare, South Africa
 
 Prof Shaheen Mehtar, MBBS, FRCPath (UK), FCPath (SA), MD(Lon), Academic Unit for Infection Prevention and Control, Stellenbosch University, South Africa 
 

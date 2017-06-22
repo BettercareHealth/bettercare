@@ -8,7 +8,7 @@ layout: chapter
 
 This book would not have been written without the input of many people. It was based on breast care courses that have been taught at Christiaan Barnard Memorial Hospital (CBMH), Cape Town over a couple of years. Although the chapters were written by David Woods and Jenny Edge, they were based on material supplied by different contributors – experts in their fields. Other chapters were edited by different individuals.
 
-The whole book was reviewed by Dr Ines Buccimaza, Dr Herbert Cubash Sr Riatha van As and Prof Jimmy Volmink.
+The whole book was reviewed by Dr Ines Buccimaza, Dr Herbert Cubash, Sr Riatha van As and Prof Jimmy Volmink.
 
 The beautiful illustrations were drawn by Ms Fiona Gawronsky. The authors would like to thank her for her patience and dedication.
 
@@ -93,4 +93,3 @@ Sr Lieske Wegelin, Registered Nurse, Cape Town
 Prof Dudley Werner, Retired Oncologist, Cape Town
 
 Dr Judy Whittaker, Pathologist, Well Woman Diagnostics, Cape Town
-

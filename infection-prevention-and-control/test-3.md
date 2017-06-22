@@ -58,7 +58,7 @@ layout: test
 	+	Healthcare workers, patients and visitors.
 11.	Standard precautions: 
 	-	Apply only to clinical staff (doctors and nurses)
-	-	Apply only to patients known to have a transmissible 	-	pathogen 
+	-	Apply only to patients known to have a transmissible - pathogen 
 	+	Reduce infection risk from both known and unrecognised sources 
 	-	Are not cost-effective in reducing infections. 
 12.	Transmission-based precautions: 
