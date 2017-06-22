@@ -6,6 +6,8 @@ layout: test
 
 # Test 15: Regionalised perinatal care
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is regionalised perinatal care?
 	-	All perinatal care in a town is provided in a single hospital.
 	-	All patients living in a community are delivered at the same clinic.

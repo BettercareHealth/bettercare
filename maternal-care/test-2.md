@@ -6,6 +6,8 @@ layout: test
 
 # Test 2: Assessment of fetal growth and condition during pregnancy
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Which of the following statements about intra-uterine growth restriction is correct?
 	-	The cause of severe intra-uterine growth restriction is usually unknown.
 	+	Both maternal and fetal factors may cause intra-uterine growth restriction.

@@ -6,6 +6,8 @@ layout: test
 
 # Test 3: Hypertensive disorders of pregnancy
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is the definition of hypertension in pregnancy?
 	-	A diastolic blood pressure of 80 mm Hg or above and/or a systolic blood pressure of 120 mm Hg or above
 	+	A diastolic blood pressure of 90 mm Hg or above and/or a systolic blood pressure of 140 mm Hg or above
