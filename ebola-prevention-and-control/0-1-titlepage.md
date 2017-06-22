@@ -13,4 +13,4 @@ Written by Dr Angela Dramowski and Prof Shaheen Mehtar
 Edited by Prof David Woods
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

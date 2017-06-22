@@ -10,7 +10,7 @@ Intrapartum Care
 An advanced-midwife's guide to labour and delivery
 {:.titlepage-subtitle}
 
-Developed by the Perinatal Education&nbsp;Programme
+Developed by the Perinatal Education Programme
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

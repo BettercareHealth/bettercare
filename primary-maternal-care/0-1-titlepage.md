@@ -13,4 +13,4 @@ Antenatal and postnatal care in the clinic
 Developed by the Perinatal Education Programme
 {:.titlepage-author}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}
