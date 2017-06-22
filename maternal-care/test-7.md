@@ -6,6 +6,8 @@ layout: test
 
 # Test 7: Monitoring the condition of the fetus during the first stage of labour
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Compression of the fetal head during labour:
 	+	Usually does not harm the fetus
 	-	Usually damages the fetal brain

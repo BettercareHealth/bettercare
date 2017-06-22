@@ -10,11 +10,13 @@ layout: toc
 *	[Introduction](0-5-introduction.html)
 	*   [About the Bettercare series](0-5-introduction.html#about-the-bettercare-series)
 	*   [Why decentralised learning?](0-5-introduction.html#why-decentralised-learning)
+    *   [Bettercare Online Learning Station](0-5-introduction.html#bettercare-online-learning-station)   
 	*   [Books in the Bettercare series](0-5-introduction.html#books-in-the-bettercare-series)
 	*   [Format of the courses](0-5-introduction.html#format-of-the-courses)
 	*   [Contributors](0-5-introduction.html#contributors)
 	*   [Updating the course material](0-5-introduction.html#updating-the-course-material)
 	*   [Contact information](0-5-introduction.html#contact-information)
+    *   [Registration](0-5-introduction.html#registration)   
 {:.prelims}
 
 *	[1. Care of infants at birth](1.html)
@@ -62,7 +64,7 @@ layout: toc
     *   [Congenital abnormalities](5.html#congenital-abnormalities)
     *   [Case studies](5.html#case-study-1)
 
-## Tests
+### Tests
 
 *	[1. Care of infants at birth](test-1.html)
 *	[2. Care of normal infants](test-2.html)
@@ -70,4 +72,4 @@ layout: toc
 *	[4. Emergency management of infants](test-4.html)
 *	[5. Management of important problems](test-5.html)
 
-*	[Answers](test-answers.html)	
+*	[Answers](test-answers.html)

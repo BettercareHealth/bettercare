@@ -6,6 +6,8 @@ layout: test
 
 # Test 3: Hypertensive disorders of pregnancy
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is the definition of hypertension in pregnancy?
 	-	A diastolic blood pressure of 80 mm Hg or above and/or a systolic blood pressure of 120 mm Hg or above
 	+	A diastolic blood pressure of 90 mm Hg or above and/or a systolic blood pressure of 140 mm Hg or above
@@ -23,7 +25,7 @@ layout: test
 	-	Hypertension and proteinuria presenting any time in pregnancy
 4.	What is the correct definition of chronic hypertension?
 	+	Hypertension, without proteinuria, that is present in the first half of pregnancy
-	-	Hypertension, together with proteinuria, that is present in the first half of pregnancy
+	-	Hypertension, together with proteinuria, that is present in the first second of pregnancy
 	-	Hypertension that is present in the first half of pregnancy, plus proteinuria that presents in the second half of pregnancy
 	-	Hypertension alone which is present at the time of booking at 28 weeks
 5.	How common is pre-eclampsia?

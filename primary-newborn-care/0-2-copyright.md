@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Primary Newborn Care: Problem-solving in the clinic*
 
-First published in 2008 by [Bettercare](http://bettercare.co.za). Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2008 by [Bettercare](http://bettercare.co.za). Updated: 22 March 2012, 7 July 2014, 14 February 2015 (layout), June 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2008  
 

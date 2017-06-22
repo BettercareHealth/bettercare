@@ -36,7 +36,7 @@ To help solve these problems, we offer a self-help, decentralised learning metho
 
 ## Contributors
 
-Our learning materials have been developed by multi-disciplinary teams of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor Dave Woods, a previous head of neonatal medicine at the University of Cape Town who now consults to UNICEF and the WHO.
+Our learning materials have been developed by multi-disciplinary teams of nurses, midwives, obstetricians, neonatologists, and general paediatricians. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor David Woods, a previous head of neonatal medicine at the University of Cape Town consulted to UNICEF and the WHO.
 
 ## Updating the course material
 

@@ -8,9 +8,11 @@ layout: toc
 
 *   [Introduction](0-5-introduction.html#introduction)
     *   [Why decentralised learning?](0-5-introduction.html#why-decentralised-learning)
+    *   [Bettercare Online Learning Station](0-5-introduction.html#bettercare-online-learning-station)
     *   [Format of the courses](0-5-introduction.html#format-of-the-courses)
     *   [Updating the course material](0-5-introduction.html#updating-the-course-material)
     *   [Contact information](0-5-introduction.html#contact-information)
+    *   [Registration](0-5-introduction.html#registration)
 {:.prelims}
 
 *   [1. Care of the mother](1.html#care-of-the-mother)

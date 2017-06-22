@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Maternal Care: A health professional’s guide to pregnancy and childbirth*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za). Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout), 16 Jan 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2010 by [Bettercare](http://bettercare.co.za). Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout), 16 Jan 2017 (significant changes), 30 April 2017. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme
 

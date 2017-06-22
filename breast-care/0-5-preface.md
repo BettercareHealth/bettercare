@@ -10,7 +10,7 @@ This book is part of the Bettercare series, which addresses the need for continu
 
 We have had great fun writing the book. As can be seen from the page of acknowledgements, it was truly a collaborative effort. We hope you learn as much from using the book as we did from writing it.
 
-*Jenny Edge and Dave Woods*
+*Jenny Edge and David Woods*
 
 ## About the authors
 

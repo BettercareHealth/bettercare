@@ -6,6 +6,8 @@ layout: test
 
 # Test 3: Care of low-birth-weight infants
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Low-birth-weight infants weigh:
 	-	Less than 3000 g
 	+	Less than 2500 g
@@ -16,7 +18,7 @@ layout: test
 	-	Less than 36 weeks
 	+	Less than 37 weeks
 	-	Less than 38 weeks
-3.	Infants that are underweight for gestational age have a birth weight that falls:
+3.	Infants that are underweight-for-gestational-age have a birth weight that falls:
 	-	Below the 90th centile
 	-	Between the 10th and 90th centiles
 	+	Below the 10th centile
@@ -62,8 +64,8 @@ layout: test
 	-	The infant’s haemoglobin concentration
 	-	The Apgar score
 12.	The normal blood glucose concentration in a newborn infant is:
-	-	Less than 2.0 mmol/l
-	+	2.0 mmol/l to 7.0 mmol/l
+	-	Less than 2.5 mmol/l
+	+	2.5 mmol/l to 7.0 mmol/l
 	-	1.4 mmol/l to 10 mmol/l
 	-	7.0 mmol/l to 12 mmol/l
 13.	How can the risk of hypoglycaemia be decreased?

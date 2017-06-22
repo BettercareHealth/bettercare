@@ -6,12 +6,14 @@ layout: test
 
 # Test 2: Care of normal infants
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What type of care is needed by a normal infant?
 	+	Primary care at a level 1 clinic
 	-	Special care if the infant is born in a level 2 hospital
 	-	The infant does not need medical or nursing care
 	-	Care in hospital
-2.	After birth the infant should:
+2.	After birth a normal infant should:
 	-	Go to the nursery for 2 hours so the mother can rest
 	-	Go to the nursery for the first 6 hours to be observed
 	+	Be given to the mother
@@ -23,7 +25,7 @@ layout: test
 	+	Before the infant is discharged home
 4.	What routine cord care is needed?
 	-	Cover the cord with a dry dressing
-	+	Put surgical spirits (alcohol) on the cord
+	+	Put surgical spirits (alcohol) or chlorhexidine solution on the cord
 	-	Place chloromycetin ointment on the cord
 	-	Place antibiotic powder on the cord
 5.	What is the clinical significance of a white vaginal discharge in a newborn infant?
@@ -36,14 +38,14 @@ layout: test
 	-	They are normal in girls but abnormal in boys
 	-	They are normal only if the breast enlargement disappears by 1 week
 	+	They are normal in girls and boys and may last for a few months
-7.	A ‘mongolian spot’ is caused by:
+7.	A blue mark over the infant’s lower back is caused by:
 	-	Bruising at delivery
 	-	A Chinese father
 	+	The delayed migration of pigment cells in the skin
 	-	Down syndrome
 8.	What is the treatment of ‘tongue tie’ in a newborn infant?
 	+	No treatment is needed
-	-	Treatment is needed if the infant feeds poorly
+	-	The infant should be bottle fed
 	-	The membrane under the tongue should be cut by the nursery staff
 	-	The infant should be referred to a level 2 or 3 hospital
 9.	Why is it important for infants to be fed breast milk?
@@ -100,7 +102,7 @@ layout: test
 	-	Supplements should not be given as they are dangerous
 	-	Iron supplements only
 	-	It is essential that all breastfed infants receive supplements
-	+	Supplements may be of value when the infant does not receive enough sunshine or the mother is undernourished
+	+	Supplements mare not needed by most healthy infants
 20.	When should solids be introduced?
 	-	If the infant is not gaining weight by 1 week
 	-	If the infant does not sleep through the night by 3 months

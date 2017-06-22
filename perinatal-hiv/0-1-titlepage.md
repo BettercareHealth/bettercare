@@ -15,4 +15,4 @@ Developed by the Perinatal Education Programme
 
 ![Bettercare logo][logo]{:.titlepage-logo}
 
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+[logo]: images/bettercare-logo.jpg "Bettercare logo"

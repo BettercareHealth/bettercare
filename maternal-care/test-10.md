@@ -6,6 +6,8 @@ layout: test
 
 # Test 10: Managing pain during labour
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Analgesia means:
 	+	The relief of pain
 	-	Relieving anxiety

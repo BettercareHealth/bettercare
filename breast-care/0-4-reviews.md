@@ -6,7 +6,7 @@ layout: chapter
 
 # Reviews
 
-‘Infrequently an educational document sees the light that is simply mind-blowing in both concept and detail. Such is the virtuoso manual on breast healthcare by Dr Jenny Edge and Prof Dave Woods. Not only does this comprehensive manual fill an educational hiatus in breast healthcare locally; their work also speaks of extraordinary passion and dedication.
+‘Infrequently an educational document sees the light that is simply mind-blowing in both concept and detail. Such is the virtuoso manual on breast healthcare by Dr Jenny Edge and Prof David Woods. Not only does this comprehensive manual fill an educational hiatus in breast healthcare locally; their work also speaks of extraordinary passion and dedication.
 
 'Although written specifically for nurses, it is equally suitable for community service officers and medical officers alike. The level of writing is appropriate for the target audience, and many beautiful illustrations and images complement the excellent scientific text.
 

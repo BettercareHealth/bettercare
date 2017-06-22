@@ -15,4 +15,4 @@ Written by David Woods and Silke Dyer
 
 ![Bettercare logo][logo]{:.titlepage-logo}
 
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+[logo]: images/bettercare-logo.jpg "Bettercare logo"

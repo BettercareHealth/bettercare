@@ -384,14 +384,3 @@ published: true
 	-	Less than 6 mmol/l.
 	+	{:.correct}Less than 8 mmol/l.
 	-	Less than 11 mmol/l.
-
-
-
-
-
-
-
-
-
-
-

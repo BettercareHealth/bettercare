@@ -13,6 +13,4 @@ A guide to common paediatric disorders
 Written by Prof David Woods
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.svg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

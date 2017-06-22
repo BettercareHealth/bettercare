@@ -279,7 +279,6 @@ published: true
 	-	Two hours
 	+	{:.correct}Four hours
 	-	Eight hours
-
 17.	Which of the following statements about the nitrous oxide and oxygen mixture (Entonox) is correct?
 	+	{:.correct}It is completely safe.
 	-	It always provides excellent pain relief.
@@ -385,11 +384,3 @@ published: true
 	-	Has more than one sexual partner
 	-	Has had an episode of pelvic inflammatory disease
 	-	Has a menstrual abnormality
-
-
-
-
-
-
-
-

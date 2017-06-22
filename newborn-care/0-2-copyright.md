@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Newborn Care: Managing normal and high-risk infants in the newborn nursery*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za). Updated 7 March 2011, 8 March 2012, 31 March 2014, 10 August 2014, 21 February 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2009 by [Bettercare](http://bettercare.co.za). Updated 7 March 2011, 8 March 2012, 31 March 2014, 10 August 2014, 21 February 2015 (layout), 10 May 2017 (significant changes). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2009  
 Cover photograph © Harris Steinman  
