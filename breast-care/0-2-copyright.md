@@ -12,7 +12,7 @@ First published in 2014 by [Bettercare](http://bettercare.co.za).
 
 Updated: 29 March 2014, 13 August 2014, 16 October 2014, 12 January 2015. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Jenny Edge and Dave Woods 2014  
+Text © Jenny Edge and David Woods 2014  
 Illustrations by Fiona Gawronsky, adapted for low-bandwidth access by Kevin Shelley and Arthur Attwell  
 
 ISBN (paperback): 978-1-920218-76-8  
