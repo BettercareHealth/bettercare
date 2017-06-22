@@ -6,6 +6,8 @@ layout: test
 
 # Test 4: Antepartum haemorrhage
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is the definition of an antepartum haemorrhage?
 	-	Any vaginal haemorrhage between conception and delivery
 	-	Any vaginal haemorrhage during labour
@@ -97,10 +99,10 @@ layout: test
 	-	A vaginal discharge mixed with blood
 	-	Contact bleeding from the cervix caused by a speculum examination
 19.	If a speculum examination is done on a patient with a history suggestive of a blood-stained discharge, what finding would diagnose an antepartum haemorrhage?
-	+	Bleeding from a closed cervical os
+	-	Bleeding from a closed cervical os
 	-	A blood-stained discharge seen in the vagina
 	-	Contact bleeding when the speculum touches the cervix
-	-	Bulging membranes through a partially dilated cervix
+	+	Bulging membranes through a partially dilated cervix
 20.	How should you manage a patient who presents at 30 weeks of gestation with a blood-stained vaginal discharge which is caused by vaginitis?
 	-	The urine should be tested with a reagent strip for protein, nitrites and leucocytes.
 	-	A cytology smear must be taken from the cervix to identify the organism causing the vaginitis.

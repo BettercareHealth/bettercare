@@ -6,6 +6,8 @@ layout: test
 
 # Test 1: Antenatal care
 
+Please choose the one most correct answer to each question or statement.
+
 1.	An extra-uterine pregnancy is suggested by:
 	-	A uterus that is larger than expected for the duration of pregnancy
 	-	Morning sickness and breast tenderness
@@ -99,7 +101,7 @@ layout: test
 19.	Antiretroviral treatment during pregnancy should be provided with:
 	-	AZT alone
 	-	Nevirapine alone
-	+	A fixed combination dose (FCD) pill
+	+	A fixed combination dose (FDC) pill
 	-	AZT plus FDC
 20.	FDC is contra-indicated if the woman has:
 	-	Stage 4 disease
