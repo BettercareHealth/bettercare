@@ -6,6 +6,8 @@ layout: test
 
 # Test 1: Care of infants at birth
 
+Please choose the one most correct answer to each question or statement.
+
 1.	When should the umbilical cord be clamped in a normal infant?
 	+	At 2 to 3 minutes after delivery
 	-	After the infant has been breathing well for 5 minutes
@@ -16,7 +18,7 @@ layout: test
 	+	As soon as possible
 	-	When the infant has had a bath
 	-	It does not matter when the infant is given to the mother
-3.	Which infants should receive vitamin K (Konakion) after delivery?
+3.	Which infants should receive vitamin K1 (Konakion) after delivery?
 	-	Only preterm infants
 	-	Only infants with a low Apgar score
 	-	Only infants who have had a traumatic or difficult delivery
@@ -64,18 +66,18 @@ layout: test
 12.	Fetal hypoxia is defined as:
 	-	Failure to breathe after delivery
 	-	A low 1 minute Apgar score
-	+	Too little oxygen in the fetus
+	+	Too little oxygen to the fetus
 	-	Intra-uterine death
 13.	After delivery the following infants should have their mouth and throat suctioned:
 	-	Preterm infants
 	-	Infants born by Caesarean section
 	+	Infants that fail to breathe well after stimulation
 	-	All newborn infants
-14.	Which staff members need to be able to resuscitate infants:
+14.	Which health workers need to be able to resuscitate infants:
 	-	Doctors only
 	-	Midwives only
 	-	Doctors and senior midwives only
-	+	All staff who conduct deliveries
+	+	All those who conduct deliveries
 15.	What is the most important step in resuscitating an infant?
 	+	Giving bag-and-mask ventilation
 	-	Starting cardiac massage
@@ -83,7 +85,7 @@ layout: test
 	-	Giving naloxone by intramuscular injection
 16.	An infant who still has a slow heart rate after receiving bag-and-mask ventilation should: 
 	+	Be given chest compressions
-	-	Be given vitamin K (Konakion)
+	-	Be given vitamin K1 (Konakion)
 	-	Be given adrenaline
 	-	Receive no further resuscitation as it has probably suffered brain damage
 17.	Naloxone (Narcan) reverses the respiratory depression caused by:
@@ -104,5 +106,5 @@ layout: test
 20.	A stomach washout should be given to:
 	-	All low-birth-weight infants
 	-	Infants with a low 1 minute Apgar score
-	+	Infants covered with thick meconium
+	+	Infants who vomit thick meconium
 	-	All meconium-stained infants

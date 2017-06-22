@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Care of infants at birth
+### Test 1: Care of infants at birth
 
 1.	a	(1-2)
 2.	b	(1-3)
@@ -31,7 +31,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(1-54)
 20.	c	(1-55)
 
-## Test 2: Care of normal infants
+### Test 2: Care of normal infants
 
 1.	a	(2-1)
 2.	c	(2-2)
@@ -54,7 +54,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d	(2-58)
 20.	d	(2-59)
 
-## Test 3: Care of low-birth-weight infants
+### Test 3: Care of low-birth-weight infants
 
 1.	b	(3-1)
 2.	c	(3-4)
@@ -77,7 +77,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(3-36)
 20.	c	(3-37)
 
-## Test 4: Emergency management of infants
+### Test 4: Emergency management of infants
 
 1.	c	(4-3)
 2.	b	(4-4)
@@ -92,15 +92,15 @@ Relearn the sections in brackets for questions you get wrong.
 11.	c	(4-24)
 12.	c	(4-25)
 13.	a	(4-26)
-14.	d	(4-27)
-15.	b	(4-28)
-16.	c	(4-29)
-17.	a	(4-32)
-18.	b	(4-41)
-19.	b	(4-43)
-20.	d	(4-49)
+14.	b	(4-28)
+15.	c	(4-29)
+16.	a	(4-32)
+17.	b	(4-41)
+18.	b	(4-43)
+19.	d	(4-49)
+20. c   (4-56)
 
-## Test 5: Management of important problems
+### Test 5: Management of important problems
 
 1.	b	(5-4)
 2.	d	(5-9)
@@ -116,9 +116,9 @@ Relearn the sections in brackets for questions you get wrong.
 12.	a	(5-39)
 13.	c	(5-39)
 14.	d	(5-40)
-15.	a	(5-41)
-16.	c	(5-43)
-17.	b	(5-44)
-18.	d	(5-47)
-19.	d	(5-48)
-20.	a	(5-51)
+15.	a	(5-44)
+16.	c	(5-46)
+17.	b	(5-47)
+18.	d	(5-50)
+19.	d	(5-51)
+20.	a	(5-54)

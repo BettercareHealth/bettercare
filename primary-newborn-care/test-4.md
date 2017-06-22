@@ -6,6 +6,8 @@ layout: test
 
 # Test 4: Emergency management of infants
 
+Please choose the one most correct answer to each question or statement.
+
 1.	The body temperature of a newborn infant should be measured by placing a mercury thermometer:
 	-	In the mouth
 	-	In the rectum
@@ -71,38 +73,38 @@ layout: test
 	-	Too much surfactant
 	-	Infection
 	-	Too much fluid in the lungs
-14.	A negative shake test on a sample of gastric aspirate after birth in an infant with respiratory distress suggests a diagnosis of:
-	-	Wet lung syndrome
-	-	Pneumonia
-	-	Pneumothorax
-	+	Hyaline membrane disease
-15.	Hyaline membrane disease is commonly seen in:
+14.	Hyaline membrane disease is commonly seen in:
 	-	Meconium-stained infants
 	+	Preterm infants
 	-	Underweight-for-gestational-age infants
 	-	Post-term infants
-16.	Hyaline membrane disease can be expected to:
+15.	Hyaline membrane disease can be expected to:
 	-	Improve steadily after birth
 	-	Steadily become worse after birth for about 6 hours then improve
 	+	Steadily become worse after birth for 48 to 72 hours before starting to improve
 	-	Only start to recover after 1 week
-17.	Wet lung syndrome:
+16.	Wet lung syndrome:
 	+	Improves during the first 2 to 3 days
 	-	Gradually gets worse after delivery
 	-	Should be treated with antibiotics
 	-	Is usually fatal
-18.	What is the normal oxygen saturation in the arterial blood of a newborn infant?
+17.	What is the normal oxygen saturation in the arterial blood of a newborn infant?
 	-	80–85%
 	+	86–92%
 	-	90–95%
 	-	95–100%
-19.	Excess oxygen in the inspired air may cause:
+18.	Excess oxygen in the inspired air may cause:
 	-	Deafness
 	+	Blindness
 	-	Paralysis
 	-	Mental retardation
-20.	The amount of oxygen in a headbox can be accurately determined by: 
+19.	The amount of oxygen in a headbox can be accurately determined by: 
 	-	Deciding whether the tongue is pink or cyanosed
 	-	Measuring the flow of oxygen into the head box
 	-	Using a saturation monitor
 	+	Using an oxygen monitor
+20.	How should the transfer of an ill newborn infant be arranged? 
+	-	The parents should hire a taxi and go with the infant.
+	-	The clinic that is referring the infant should ask for an ambulance and send a nurse with the infant
+	+	The clinic should contact the hospital that will receive the infant so that can give advice on emergency care and then arrange transport
+	-	It does not matter as long as the infant gets to the correct hospital.

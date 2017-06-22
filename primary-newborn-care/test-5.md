@@ -6,6 +6,8 @@ layout: test
 
 # Test 5: Management of important problems
 
+Please choose the one most correct answer to each question or statement.
+
 1.	What is the definition of jaundice?
 	-	An increase in the concentration of bilirubin in the serum
 	+	The yellow discolouration of the skin due to deposits of bilirubin
@@ -22,7 +24,7 @@ layout: test
 	-	Post-term infants
 	-	Underweight-for-gestational-age infants
 4.	What is the cause of haemolytic disease of the newborn?
-	-	Lack of vitamin K
+	-	Lack of vitamin K1
 	-	Bacteria crossing the placenta from the mother to the fetus
 	-	A cephalhaematoma or bruising
 	+	Damage to fetal red blood cells caused by maternal antibodies
@@ -68,7 +70,7 @@ layout: test
 	-	Conjunctivitis
 13.	Infants born with clinical signs of congenital syphilis usually have:
 	-	A small placenta
-	-	An infarcted placenta
+	-	A placenta that smells bad
 	+	A heavy placenta
 	-	A healthy placenta
 14.	An infant presenting with clinical signs of congenital syphilis should be treated with:
@@ -95,7 +97,7 @@ layout: test
 	-	Vitamin A
 	-	Vitamin C
 	-	Vitamin E
-	+	Vitamin K
+	+	Vitamin K1
 19.	Konakion should be given at birth:
 	-	Only to infants at high risk of bleeding
 	-	Only to preterm infants
