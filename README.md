@@ -480,7 +480,7 @@ We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're 
 In the `bettercare` folder at the command line, run:
 
 ```
-bundle exec jekyll build --config="_config.yml,_config.epub.yml"
+bundle exec jekyll build
 ```
 
 ### Add the files
