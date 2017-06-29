@@ -475,10 +475,18 @@ Once you've created a chapter test (quiz) in Betterquiz, you can add it to a cha
 
 We assemble our epubs in [Sigil](https://github.com/user-none/Sigil/). If we're not tweaking, it takes five minutes. (For general guidance on creating epubs with Sigil, check out [our training material](http://electricbookworks.github.io/ebw-training/) and/or the [Sigil manual online](http://web.sigil.googlecode.com/git/files/OEBPS/Text/introduction.html).)
 
+### Generate HTML
+
+In the `bettercare` folder at the command line, run:
+
+```
+bundle exec jekyll build
+```
+
 ### Add the files
 
 *	Open a blank epub in Sigil.
-*	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder.
+*	Add the HTML files (except index.html) from the book's `_site` folder to your `Text` folder. Open the cover HTML file first, on its own, so that the book metadata imports to the epub.
 *	Add JPG versions of all images to the `Images` folder. Sigil should have automatically detected (from the links in the HTML) and added the book's images to the `Images` folder. 
 *	Remove all SVG images (many of them will break strict EPUB2 validation because of inconsistencies in SVG editors' implementations). You should have a JPG to replace each SVG you remove.
 *	Add `epub.css` to your `Styles` folder.
