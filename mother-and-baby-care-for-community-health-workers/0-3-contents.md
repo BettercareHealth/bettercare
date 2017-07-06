@@ -63,10 +63,11 @@ layout: toc
     *   [Case study 2](4.html#case-study-2)
     *   [Case study 3](4.html#case-study-3)
 	
-*   Tests
-    *   [1: Care of the mother](test-1.html)
-    *   [2: Care of the newborn baby](test-2.html)
-    *   [3: Exclusive breastfeeding](test-3.html)
-    *   [4: HIV in mother and baby](test-4.html)
+## Tests
+
+*   [1: Care of the mother](test-1.html)
+*   [2: Care of the newborn baby](test-2.html)
+*   [3: Exclusive breastfeeding](test-3.html)
+*   [4: HIV in mother and baby](test-4.html)
 
 *   [Answers](test-answers.html)
