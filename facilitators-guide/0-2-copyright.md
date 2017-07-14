@@ -9,9 +9,9 @@ published: true
 
 *How to lead a Bettercare study group: A facilitator's guide*
 
-First published in 2012 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Updated 25 Feb 2013, 4 Apr 2014, 1 Nov 2014, 16 April 2015. This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2012 by [Bettercare](http://bettercare.co.za). Updated 25 Feb 2013, 4 Apr 2014, 1 Nov 2014, 16 April 2015. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
-Text © Electric Book Works
+Text © Bettercare 2012
 
 ISBN (paperback): 978-1-920218-68-3  
 ISBN (PDF ebook): 978-1-920218-69-0  
@@ -24,4 +24,4 @@ This licence means you may share, copy and redistribute the material in any medi
 * Non-Commercial — You may not use the material for commercial purposes.
 * No Derivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-For any other uses, please contact [Electric Book Works](http://electricbookworks.com).
+For any other uses, please contact [Bettercare](http://bettercare.co.za).

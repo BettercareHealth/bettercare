@@ -11,4 +11,4 @@ How to lead a Bettercare study group
 A facilitator's guide
 {:.titlepage-subtitle}
 
-![Bettercare logo](images/bettercare-logo.svg){:.titlepage-logo}
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

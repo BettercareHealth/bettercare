@@ -68,6 +68,6 @@ published: true
 ☐&emsp;Write the one-hour, 75-question exam.  
 ☐&emsp;Notify Bettercare of the participants’ results.  
 ☐&emsp;Receive certificates.  
-☐&emsp;If 50% of your group are successful in the exam, you will receive a facilitator’s certificate.  
+☐&emsp;If 80% of your group are successful in the exam, you will receive a facilitator’s certificate.  
 ☐&emsp;Arrange a certificate handover ceremony if possible.  
 ☐&emsp;Take a group photo and send to info@bettercare.co.za.  
