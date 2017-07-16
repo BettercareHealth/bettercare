@@ -76,7 +76,7 @@ layout: toc
 *	[Pictures](6.html)
 
 
-* Tests
+## Tests
 
 *	[1. Introduction to childhood tuberculosis](test-1.html)
 *	[2. Clinical presentation of childhood tuberculosis](test-2.html)

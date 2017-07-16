@@ -119,12 +119,14 @@ layout: toc
     *   [Guidelines for the management of patients with risk factors and medical problems during pregnancy, labour and the puerperium](8-appendix.html#guidelines-for-the-management-of-patients-with-risk-factors-and-medical-problems-during-pregnancy-labour-and-the-puerperium)
     *   [BMI table](8-appendix.html#bmi-table)
 
-* Tests
-    *	 [1. Antenatal care](test-1.html)
-    *	[2. Assessment of fetal growth and condition during pregnancy](test-2.html)
-    *	[3. Hypertensive disorders of pregnancy](test-3.html)
-    *	[4. Antepartum haemorrhage](test-4.html)
-    *	[5. Preterm labour and preterm rupture of the membranes](test-5.html)
-    *	[6. The puerperium and family planning](test-6.html)
-    *	[7. Medical problems during pregnancy and the puerperium](test-7.html)
+## Tests
+
+*	[1. Antenatal care](test-1.html)
+*	[2. Assessment of fetal growth and condition during pregnancy](test-2.html)
+*	[3. Hypertensive disorders of pregnancy](test-3.html)
+*	[4. Antepartum haemorrhage](test-4.html)
+*	[5. Preterm labour and preterm rupture of the membranes](test-5.html)
+*	[6. The puerperium and family planning](test-6.html)
+*	[7. Medical problems during pregnancy and the puerperium](test-7.html)
+
 *	[Answers](test-answers.html)

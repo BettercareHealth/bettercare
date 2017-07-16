@@ -95,7 +95,7 @@ Please choose the one most correct answer to each question or statement.
 	-	500 µg
 18.	Indomethacin (Indocid) may be more dangerous to the fetus if given at or beyond:
 	-	28 weeks
-	+	31 weeks
+	+	32 weeks
 	-	34 weeks
 	-	36 weeks
 19.	A patient with preterm rupture of the membranes, who is allowed to continue with her pregnancy, must:

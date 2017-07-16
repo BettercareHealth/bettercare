@@ -73,7 +73,7 @@ Relearn the sections in brackets for questions you get wrong.
 15.	c	(3-32)
 16.	d	(3-34)
 17.	c	(3-35)
-18.	d	(3-39)
+18.	c	(3-39)
 19.	a	(3-41)
 20.	b	(3-41)
 
