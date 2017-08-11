@@ -8,7 +8,7 @@ layout: frontmatter
 
 *Congenital Disorders: Counselling and caring for children with congenital disorders*
 
-First published in 2009 by [Bettercare](http://bettercare.co.za). Updated: 27 May 2010, 20 May 2011 (layout), 19 Jan 2015 (layout). This version produced on {{ site.time | date: '%-d %B %Y' }}.
+First published in 2009 by [Bettercare](http://bettercare.co.za). Updated: 27 May 2010, 20 May 2011 (layout), 19 Jan 2015 (layout), 10 August 2017. This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
 Text © Perinatal Education Programme 2009  
 Illustrations by Anne Westoby  
