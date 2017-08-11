@@ -6,6 +6,8 @@ layout: test
 
 # Test 7: The puerperium
 
+Please choose the one most correct answer to each question or statement.
+
 1.	The puerperium starts:
 	-	When the infant is delivered
 	+	When the placenta is delivered
@@ -22,22 +24,22 @@ layout: test
 	-	Requires referral to the doctor
 	-	Is a sign of a urinary tract infection
 4.	In the puerperium the haemoglobin concentration becomes stable by:
-	-	Six weeks
-	-	Day seven
-	+	Day four
-	-	Day one
+	-	6 weeks
+	-	Day 7
+	+	Day 4
+	-	Day 1
 5.	In a normal puerperium the cervical os should be closed by:
-	-	Day three
-	+	Day seven
+	-	Day 3
+	+	Day 7
 	-	Day 14
-	-	Six weeks
+	-	6 weeks
 6.	Normal lochia:
 	-	Is colourless
 	-	Has no smell
 	-	Has an offensive smell
 	+	Has a non-offensive smell
 7.	On day seven postpartum the size of a normally involuting uterus should correspond to a gestational age of approximately:
-	-	Eight weeks
+	-	8 weeks
 	+	12 weeks
 	-	16 weeks
 	-	20 weeks
@@ -55,14 +57,14 @@ layout: test
 	+	The patient must be shown how to rub up the uterus.
 	-	An intravenous infusion should be started before every delivery.
 	-	An intravenous infusion with 20 units of oxytocin should be put up after delivery of the placenta.
-	-	The haemoglobin concentration must be estimated every two hours for the first 12 hours after delivery.
+	-	The haemoglobin concentration must be estimated every 2 hours for the first 12 hours after delivery.
 11.	How frequently should a primipara visit the clinic for postpartum care in the puerperium?
 	-	At least daily for seven days
-	-	At least daily for five days and again on day seven
-	+	At least on days one, three, five and seven
-	-	The patient must be kept in hospital for at least five days
+	-	At least daily for 5 days and again on day seven
+	+	At least on days 1, 3, 5 and seven
+	-	The patient must be kept in hospital for at least 5 days.
 12.	A patient has puerperal pyrexia if her temperature:
-	-	Rises to 37.5 °C and is maintained for 24 hours during the first 10 days postpartum
+	-	Rises to 37.3 °C and is maintained for 24 hours during the first 10 days postpartum
 	-	Rises to 38 °C or higher and is maintained for 24 hours during the first 10 days postpartum
 	-	Rises to 37.5 °C on two occasions during the first 10 days postpartum
 	+	Rises to 38 °C or higher during the puerperium
@@ -89,7 +91,7 @@ layout: test
 17.	What is a secondary postpartum haemorrhage?
 	-	Any vaginal bleeding that appears excessive, after the first hour following delivery of the placenta
 	+	Any vaginal bleeding that appears excessive, after the first 24 hours following delivery of the placenta
-	-	Any vaginal bleeding that appears excessive, between the 5th and 15th days of the puerperium
+	-	Any vaginal bleeding that appears excessive, between the fifth and 15th day of the puerperium
 	-	Any vaginal bleeding in the puerperium which is severe enough to cause the patient to become shocked
 18.	What is the most common cause of a secondary postpartum haemorrhage?
 	+	Intra-uterine infection with or without a retained piece of placenta

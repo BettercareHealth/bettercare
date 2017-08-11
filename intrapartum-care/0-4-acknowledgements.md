@@ -12,6 +12,6 @@ We acknowledge all the participants of the Perinatal Education Programme who hav
 
 *Editor-in-Chief of the Perinatal Education Programme: Prof D L Woods*
 
-*Editors of Intrapartum Care: Prof G B Theron and Prof R C Pattinson*
+*Editor of Intrapartum Care: Prof G B Theron*
 
-*Contributors to Intrapartum Care: Prof H van C de Groot, Dr D H Greenfield, Ms H Louw, Prof G B Theron, Prof D L Woods*
+*Contributors to Intrapartum Care: Prof H van C de Groot, Mrs A de Villiers, Dr D H Greenfield, Ms H Louw, Prof G B Theron, Prof D L Woods*

@@ -52,7 +52,7 @@ layout: test
 	+	With every contraction where the patient bears down, the fetal head descends further onto the perineum.
 	-	The infant is delivered after the patient bears down well with four contractions.
 10.	What is the correct management if there is no progress in the second stage of labour and there are signs of cephalopelvic disproportion?
-	+	The patient must not bear down but should be evaluated by a doctor as a Caesarean section is needed.
+	+	The patient must not bear down as a Caesarean section is needed.
 	-	An episiotomy should be done to speed up the delivery.
 	-	An oxytocin infusion should be started to increase the strength of the contractions.
 	-	The patient should continue bearing down for 30 minutes in a primigravida and 45 minutes in a multigravida before any further management is carried out.
