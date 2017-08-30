@@ -128,8 +128,7 @@ layout: toc
     *   [Contraception after delivery](8.html#contraception-after-delivery)
     *   [Case studies](8.html#case-study-1)
 
-## Tests
-
+Quizzes
 *	[1. Monitoring the mother during the first stage of labour](test-1.html)
 *	[2. Monitoring the fetus during the first stage of labour](test-2.html)
 *	[3. Monitoring and management of the first stage of labour](test-3.html)
@@ -138,5 +137,4 @@ layout: toc
 *	[6. Managing pain during labour](test-6.html)
 *	[7. The puerperium](test-7.html)
 *	[8. Family planning after pregnancy](test-8.html)
-
-*	[Answers](test-answers.html)	
+*	[Answers](test-answers.html)

@@ -34,9 +34,9 @@ Please choose the one most correct answer to each question or statement.
 	+	An intra-uterine contraceptive device
 	-	Spermicides
 6.	Postcoital contraception with Norlevo, E-Gen-C or Ovral should be offered to a woman who has had a single episode of unprotected sexual intercourse:
-	+	Five days ago
-	-	Seven days ago
-	-	Ten days ago
+	+	5 days ago
+	-	7 days ago
+	-	10 days ago
 	-	When she misses her next expected period
 7.	Risk factors for cardiovascular disease include:
 	-	Smoking under 30 years of age
@@ -45,14 +45,14 @@ Please choose the one most correct answer to each question or statement.
 	-	Non-smoking at 40 years of age
 8.	A healthy woman who is not a smoker and is on a combined pill should:
 	-	Stop taking the pill after 1 year
-	-	Stop taking the pill after five years
+	-	Stop taking the pill after 5 years
 	-	Stop taking the pill for a few months periodically every few years
 	+	Stop taking the pill at 35 years of age if she has a body mass index (BMI) of 40 or more
 9.	An injectable is a suitable contraceptive method for a woman who:
 	-	Is planning a pregnancy within the next 6 months
 	+	Is planning a pregnancy in 1 to 2 years
 	-	Has a history of current breast cancer
-	-	Is 35 years old with two children and wants no further children
+	-	Is 35 years old with 2 children and wants no further children
 10.	Lactation is reduced by:
 	-	The progestogen-only pill (minipill)
 	-	An intra-uterine contraceptive device

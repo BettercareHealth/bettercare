@@ -20,7 +20,7 @@ Please choose the one most correct answer to each question or statement.
 	-	When she is 28 weeks pregnant
 3.	When a patient has had a Caesarean section:
 	-	The type of uterine incision is of no importance
-	-	Only those patients who had a vertical lower segment incision may be allowed to have a vaginal labour
+	-	Only those patients who had a vertical lower segment incision may be allowed to have a vaginal labour.
 	-	Only those patients who had a transverse lower segment incision may be allowed to have a vaginal labour
 	+	Only those patients who had a transverse lower segment incision for a non-recurring indication may be allowed to have a vaginal labour
 4.	The last normal menstrual period may be used to calculate the duration of pregnancy:
@@ -45,7 +45,7 @@ Please choose the one most correct answer to each question or statement.
 	+	The uterine size may be determined vaginally with fair accuracy
 8.	The best method of assessing the duration of pregnancy by physical examination at 18 or more weeks is:
 	+	The symphysis-fundus measurement
-	-	Bimanual palpation of the uterus on vaginal examination
+	-	Bi-manual palpation of the uterus on vaginal examination
 	-	Palpation of the abdomen
 	-	To establish the lie of the fetus and assess the size of the fetal head
 9.	If the uterine fundus is just below the umbilicus (20 weeks) and the patient is 18 weeks pregnant by dates:
