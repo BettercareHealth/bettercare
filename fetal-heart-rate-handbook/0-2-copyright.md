@@ -10,6 +10,8 @@ layout: frontmatter
 
 First published in January 2017 by [Bettercare](http://bettercare.co.za). This version produced on {{ site.time | date: '%-d %B %Y' }}.
 
+Text @ David Woods 2016
+
 ISBN (print edition): 978-1-920218-18-8 
 
 No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of Bettercare (info@bettercare.co.za) 

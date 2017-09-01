@@ -79,10 +79,13 @@ You can access the learning station here: ls.bettercare.co.za
 ### Congenital Disorders (previously Birth Defects)
 *Congenital Disorders* was written for healthcare workers who look after individuals with congenital disorders, their families, and women who are at increased risk of giving birth to an infant with a congenital disorder. Special attention is given to modes of inheritance, medical genetic counselling, and congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Medical Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa. It is also endorsed by Genetic Alliance SA, a support organisation for families affected by congenital disorders.
 
-
 ### Ebola Prevention and Control
  
 *Ebola Prevention and Control* was written for all healthcare workers and administrators managing, preventing and controlling viral haemorrhagic diseases. Chapters cover virology and epidemiology, patient management, support systems and documentation and communication and community engagement. There is a strong emphasis on the protection of healthcare workers in the field, particularly in resource-limited settings.
+
+### Fetal Heart Rate Monitor Handbook
+
+One of the most dangerous times of our life is the few hours when our mother is in labour. Monitoring the fetal heart rate is the best method of assessing fetal wellbeing in primary care facilities. However appropriate technology to monitor the fetal heart rate in labour is often not available in many labour wards though it is vital to prevent brain damage. The *Fetal Heart Rate Monitor Handbook* teaches the basics of oxygen transfer from mother to fetus and how to monitor the fetus in labour with a fetal stethoscope or fetal monitor to recognise inadequate oxygenation.
 
 ### Infection Prevention and Control
 
@@ -99,6 +102,10 @@ You can access the learning station here: ls.bettercare.co.za
 ### Maternal Mental Health
 
 *Maternal Mental Health* was written for doctors, nurses and social workers caring for women before and after birth. It includes an introduction to maternal mental health and illness, making referrals for maternal mental illness, helping mothers with mental health problems and special issues in maternal mental health. It includes a resource section for assessing, referring and supporting mothers in the perinatal period. The book is supported by The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town.
+
+### Mother and Baby Care for Community Health Workers
+
+Community Health Workers (CHWs) serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape.
 
 ### Mother and Baby Friendly Care
 

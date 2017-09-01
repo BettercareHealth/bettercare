@@ -13,6 +13,4 @@ Addressing the everyday health needs of women
 Written by David Woods and Silke Dyer
 {:.titlepage-author}
 
-![Bettercare logo][logo]{:.titlepage-logo}
-
-[logo]: images/bettercare-logo.jpg "Bettercare logo"
+![Bettercare logo](images/bettercare-logo.jpg){:.titlepage-logo}

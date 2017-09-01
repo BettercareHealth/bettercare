@@ -6,6 +6,8 @@ layout: test
 
 # Test 4: The second stage of labour
 
+Please choose the one most correct answer to each question or statement.
+
 1.	When does the second stage of labour begin and end?
 	-	From the time the patient has an urge to bear down until the infant is completely delivered
 	+	From the time the cervix is fully dilated until the infant is completely delivered
@@ -52,7 +54,7 @@ layout: test
 	+	With every contraction where the patient bears down, the fetal head descends further onto the perineum.
 	-	The infant is delivered after the patient bears down well with four contractions.
 10.	What is the correct management if there is no progress in the second stage of labour and there are signs of cephalopelvic disproportion?
-	+	The patient must not bear down but should be evaluated by a doctor as a Caesarean section is needed.
+	+	The patient must not bear down as a Caesarean section is needed.
 	-	An episiotomy should be done to speed up the delivery.
 	-	An oxytocin infusion should be started to increase the strength of the contractions.
 	-	The patient should continue bearing down for 30 minutes in a primigravida and 45 minutes in a multigravida before any further management is carried out.

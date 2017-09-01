@@ -6,6 +6,8 @@ layout: test
 
 # Test 2: Monitoring the condition of the fetus during the first stage of labour
 
+Please choose the one most correct answer to each question or statement.
+
 1.	Compression of the fetal head during labour:
 	+	Usually does not harm the fetus
 	-	Usually damages the fetal brain
@@ -23,24 +25,24 @@ layout: test
 	-	There is a decrease in fetal movements.
 4.	How should the fetal heart rate be monitored in labour?
 	-	A cardiotocograph (CTG machine) should preferably be used in all labours.
-	+	A doptone is the preferred method in primary care clinics and hospitals.
+	+	A doptone is the preferred method in primary-care clinics and hospitals.
 	-	A fetal stethoscope is the best method for most labours.
-	-	The fetal heart rate does not need to be monitored in all low risk pregnancies.
+	-	The fetal heart rate does not need to be monitored in all low-risk pregnancies.
 5.	The fetal heart rate pattern should be monitored:
 	-	During a contraction
 	-	Before a contraction
 	-	After a contraction
-	+	Before, during and after a contraction 
-6.	How often should the fetal heart rate be monitored during the first stage of labour in low risk pregnancies where there is no meconium staining of the liquor?
-	-	Every three hours during the latent phase
-	+	Every two hours during the latent phase
-	-	Every two hours during the active phase
+	+	Before, during, and after a contraction
+6.	How often should the fetal heart rate be monitored during the first stage of labour in low-risk pregnancies where there is no meconium staining of the liquor?
+	-	Every 3 hours during the latent phase
+	+	Every 2 hours during the latent phase
+	-	Every 2 hours during the active phase
 	-	Every 15 minutes during the active phase
 7.	What is the normal baseline fetal heart rate in labour?
 	-	100–120 beats per minute
 	-	120–140 beats per minute
 	-	140–160 beats per minute
-	+	100–160 beats per minute
+	+	110–160 beats per minute
 8.	Early decelerations:
 	+	Start at the beginning of a contraction and return to the baseline at the end of a contraction
 	-	Start at the beginning of a contraction and end 30 seconds or more after the contraction
@@ -87,12 +89,12 @@ layout: test
 	-	Occurs in 30–40% of patients
 	-	Occurs in most patients
 17.	Meconium staining of the liquor is commonest in:
-	+	Patients in postterm labour
+	+	Patients in post-term labour
 	-	Patients in term labour
 	-	Patients in preterm labour
 	-	Patients whose fetuses move a lot during pregnancy
 18.	Which form of meconium in the liquor is most likely to indicate the presence of fetal distress?
-	-	Fresh meconium indicates definite fetal distress and is an indication for an emergency Caesarean section
+	-	Fresh meconium indicates definite fetal distress and is an indication for an emergency Caesarean section.
 	-	Old meconium indicates that there was a problem but that there is no need to be concerned
 	-	Yellow meconium is of no clinical importance
 	+	The management is the same as it does not matter what the consistency or colour of the meconium is
