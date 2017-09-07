@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Test 1. Monitoring the condition of the mother during the first stage of labour
+title: Quiz 1. Monitoring the condition of the mother during the first stage of labour
 layout: test
 ---
 
-# Test 1: Antenatal care
+# Quiz 1: Antenatal care
 
 Please choose the one most correct answer to each question or statement.
 
