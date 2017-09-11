@@ -1,12 +1,12 @@
 ---
 book: Congenital Disorders
-title: Test 3. Chromosomal disorders
+title: Quiz 3. Chromosomal disorders
 layout: test
 ---
 
 Please choose the one most correct answer to each question or statement.
 
-# Test 3: Chromosomal disorders
+# Quiz 3: Chromosomal disorders
 
 1.	What is Down syndrome?
 	-	A condition caused by insect bites and resulting in generalised oedema.

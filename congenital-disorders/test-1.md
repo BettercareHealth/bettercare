@@ -1,12 +1,12 @@
 ---
 book: Congenital Disorders
-title: Test 1. Introduction to congential disorders
+title: Quiz 1. Introduction to congential disorders
 layout: test
 ---
 
 Please choose the one most correct answer to each question or statement.
 
-# Test 1: Introduction to congenital disorders
+# Quiz 1: Introduction to congenital disorders
 
 1.	What is a congenital disorder?
 	-	An abnormality of structure present at birth

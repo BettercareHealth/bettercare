@@ -1,12 +1,12 @@
 ---
 book: Congenital Disorders
-title: Test 6. Congenital disorders caused by a teratogen
+title: Quiz 6. Congenital disorders caused by a teratogen
 layout: test
 ---
 
 Please choose the one most correct answer to each question or statement.
 
-# Test 6: Congenital disorders caused by a teratogen
+# Quiz 6: Congenital disorders caused by a teratogen
 
 1.	Fetal alcohol syndrome can be diagnosed by:
 	-	Doing an abdominal X-ray during pregnancy.

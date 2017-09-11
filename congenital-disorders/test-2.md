@@ -1,12 +1,12 @@
 ---
 book: Congenital Disorders
-title: Test 2. Care, prevention and counselling
+title: Quiz 2. Care, prevention and counselling
 layout: test
 ---
 
 Please choose the one most correct answer to each question or statement.
 
-# Test 2: Care, prevention and counselling
+# Quiz 2: Care, prevention and counselling
 
 1.	Which congenital disorder is common in South Africa?
 	+	Oculocutaneous albinism.

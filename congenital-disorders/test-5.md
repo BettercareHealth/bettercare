@@ -1,12 +1,12 @@
 ---
 book: Congenital Disorders
-title: Test 5. Multifactorial congenital disorders
+title: Quiz 5. Multifactorial congenital disorders
 layout: test
 ---
 
 Please choose the one most correct answer to each question or statement.
 
-# Test 5: Multifactorial congenital disorders
+# Quiz 5: Multifactorial congenital disorders
 
 1.	What is a neural tube defect?
 	-	An abnormality of the peripheral nerves.

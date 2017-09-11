@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-## Test 1: Introduction to congenital disorders
+## Quiz 1: Introduction to congenital disorders
 
 1.	c	(1-1)
 2.	a	(1-3)
@@ -31,7 +31,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(1-29)
 20.	a	(1-30)
 
-## Test 2: Care, prevention and counselling
+## Quiz 2: Care, prevention and counselling
 
 1.	a	(2-2)
 2.	d	(2-3)
@@ -54,7 +54,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(2-36)
 20.	d	(2-38)
 
-## Test 3: Chromosomal disorders
+## Quiz 3: Chromosomal disorders
 
 1.	c	(3-7)
 2.	b	(3-8)
@@ -77,7 +77,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(3-34)
 20.	a	(3-37)
 
-## Test 4: Single gene disorders
+## Quiz 4: Single gene disorders
 
 1.	a	(4-1)
 2.	a	(4-4)
@@ -100,7 +100,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c	(4-43)
 20.	a	(4-46)
 
-## Test 5: Multifactorial congenital disorders
+## Quiz 5: Multifactorial congenital disorders
 
 1.	d	(5-4)
 2.	a	(5-4)
@@ -123,7 +123,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	a	(5-30)
 20.	c	(5-31)
 
-## Test 6: Congenital disorders caused by teratogens
+## Quiz 6: Congenital disorders caused by teratogens
 
 1.	b	(6-4)
 2.	a	(6-5)
