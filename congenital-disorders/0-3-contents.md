@@ -75,7 +75,8 @@ layout: toc
     *   [Growth and development in infants with fetal alcohol syndrome](6.html#growth-and-development-in-infants-with-fetal-alcohol-syndrome)
     *   [Care of children with fetal alcohol syndrome and their families](6.html#care-of-children-with-fetal-alcohol-syndrome-and-their-families)
     *   [Case studies](6.html#case-study-1)
-*	{:.auxiliary}[Photographs of cogential-disorders](z-photographs.html)
+
+*	{:.auxiliary}[Photographs of congenital disorders](z-photographs.html)
 *	{:.auxiliary}[Addendum A: Clinical features, diagnosis, treatment, genetic counselling and prevention of common congenital disorders](7.html)
 *	{:.auxiliary}[Addendum B: Social grants available in South Africa for people with disability](8.html)
     *   [Qualifying requirements for social assistance](8.html#qualifying-requirements-for-social-assistance)
@@ -89,13 +90,11 @@ layout: toc
     *   [Down Syndrome Support Cape](9.html#down-syndrome-support-cape)
     *   [Down Syndrome Association (Bloemfontein)](9.html#down-syndrome-association-bloemfontein)
 
-## Tests
-
-*	[1. Introduction to cogential disorders](test-1.html)
+Quizzes
+*	[1. Introduction to congenital disorders](test-1.html)
 *	[2. Care, prevention and counselling](test-2.html)
 *	[3. Chromosomal disorders](test-3.html)
 *	[4. Single gene disorders](test-4.html)
 *	[5. Multifactorial congenital disorders](test-5.html)
 *	[6. Congenital disorders caused by a teratogen](test-6.html)
-
 *	[Answers](test-answers.html)	

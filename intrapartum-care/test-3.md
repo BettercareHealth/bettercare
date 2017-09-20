@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Test 3. Monitoring and management of the first stage of labour
+title: Quiz 3. Monitoring and management of the first stage of labour
 layout: test
 ---
 
-# Test 3: Monitoring and management of the first stage of labour
+# Quiz 3: Monitoring and management of the first stage of labour
 
 Please choose the one most correct answer to each question or statement.
 

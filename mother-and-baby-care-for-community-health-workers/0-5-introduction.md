@@ -38,7 +38,7 @@ Continuing education for health professionals traditionally consists of courses 
 PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology.
 A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
 
-Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice test consisting of 20 questions. Usersfore studying a chapter to identify gaps in knowledge  and to test their learning at the end of each chapter.
+Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 20 questions. Usersfore studying a chapter to identify gaps in knowledge  and to test their learning at the end of each chapter.
 
 Participants study one chapter at a time on their own and then meet colleagues to discuss what they have learned. The formation of study groups encourages co-operative learning where colleagues share their knowledge and understanding. While the role of a facilitator can be useful, a formal teacher is not needed. The question-and-answer method makes learning effective and enjoyable.
 
@@ -46,11 +46,11 @@ There is no need to wait for acceptance to a centralised training programme. Man
 
 ## Bettercare Online Learning Station
 
-The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. The material on the Learning Station is always the most up-to-date, and includes the full course content and the multiple-choice tests for each chapter.
+The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. The material on the Learning Station is always the most up-to-date, and includes the full course content and the multiple-choice quizzes for each chapter.
 
 The Learning Station is freely accessible online and includes all of the current Bettercare courses. All students are able to make use of this to supplement their studies. Students using Bettercare books can benefit from video clips addressing diagnosis and management which are attached to some of the chapters on the website.
 
-By registering on the Learning Station site, students can also complete the multiple-choice chapter tests. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each test, users receive their results and advice on where they may have gone wrong. At the bottom of the results page, each user will have the option to submit their results for development points.
+By registering on the Learning Station site, students can also complete the multiple-choice chapter quizzes. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each quiz, users receive their results and advice on where they may have gone wrong. At the bottom of the results page, each user will have the option to submit their results for development points.
 
 This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
 
@@ -62,9 +62,9 @@ You can access the learning station here: ls.bettercare.co.za
 
 The learning objectives are clearly stated at the start of each chapter. They help the participant to identify and understand the important lessons to be learned.
 
-### Pre- and post-tests
+### Pre- and post-quizzes
 
-There is a multiple-choice test of 10 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter, to benchmark their current knowledge, and a post-test after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their tests.  Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice quizzes of 10 questions for each chapter at the end of the book. Participants are encouraged to take a pre-quiz before starting each chapter, to benchmark their current knowledge, and a post-quiz after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their quizzes.  Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 
@@ -84,11 +84,11 @@ Note
 
 Each chapter closes with a few case studies which encourage the participant to consolidate and apply what was learned in the chapter. These studies give the participant an opportunity to see the problem as it usually presents itself in the clinic or hospital and integrate their new theoretical knowledge into practice. The participant should attempt to answer each question in the case study before reading the correct answer.
 
-### Bettercare tests and examinations
+### Bettercare quizzes and examinations
 
-Self-evaluation is the most important part of learning. For every chapter, participants take a short self-test before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
+Self-evaluation is the most important part of learning. For every chapter, participants take a short self-quiz before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
 
-Tests are included in all our printed books and ebooks. Participants can take them for free on our Learning Station for instant results.
+Quizzes are included in all our printed books and ebooks. Participants can take them for free on our Learning Station.
 
 Bettercare also offers a final examination for each book. Participants need to achieve at least 80% in the final examination in order to successfully complete the learning programme. Successful candidates will be sent a digital certificate stating that they have successfully completed that learning programme.
 

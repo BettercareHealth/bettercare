@@ -8,7 +8,7 @@ layout: answers
 
 Relearn the sections in brackets for questions you get wrong.
 
-### Test 1: Monitoring the condition of the mother during the first stage of labour
+### Quiz 1: Monitoring the condition of the mother during the first stage of labour
 
 1.  d (6-6)
 2.  a (6-6)
@@ -31,7 +31,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. d (6-50)
 20. c (6-53)
 
-### Test 2: Monitoring the fetus during the first stage of labour
+### Quiz 2: Monitoring the fetus during the first stage of labour
 
 1.  a (7-3)
 2.  a (7-4)
@@ -54,7 +54,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. a (7-36)
 20. a (7-37)
 
-### Test 3: Monitoring and management of the first stage of labour
+### Quiz 3: Monitoring and management of the first stage of labour
 
 1.  c (8-2)
 2.  b (8-8)
@@ -77,7 +77,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. a (8-43)
 20. a (8-45)
 
-### Test 4: The second stage of labour
+### Quiz 4: The second stage of labour
 
 1.	b (4-1)
 2.	d (4-2)
@@ -100,7 +100,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	d (4-25)
 20.	d (4-26)
 
-### Test 5: The third stage of labour
+### Quiz 5: The third stage of labour
 
 1.	c (5-1)
 2.	a (5-4)
@@ -123,7 +123,7 @@ Relearn the sections in brackets for questions you get wrong.
 19.	c (5-41)
 20.	a (5-43)
 
-### Test 6: Managing pain during labour
+### Quiz 6: Managing pain during labour
 
 1.  a (6-1)
 2.  c (6-2)
@@ -146,7 +146,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. d (6-29)
 20. b (6-34)
 
-### Test 7: The puerperium
+### Quiz 7: The puerperium
 
 1.  b (7-1)
 2.  b (7-4)
@@ -169,7 +169,7 @@ Relearn the sections in brackets for questions you get wrong.
 19. d (7-42)
 20. a (7-45)
 
-### Test 8: Family planning after pregnancy
+### Quiz 8: Family planning after pregnancy
 
 1.  b (8-1)
 2.  a (8-1)

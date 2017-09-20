@@ -1,10 +1,10 @@
 ---
 book: Intrapartum Care
-title: Test 8. Family planning after pregnancy
+title: Quiz 8. Family planning after pregnancy
 layout: test
 ---
 
-# Test 8: Family planning after pregnancy
+# Quiz 8: Family planning after pregnancy
 
 Please choose the one most correct answer to each question or statement.
 
