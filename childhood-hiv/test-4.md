@@ -43,11 +43,11 @@ Please choose the one most correct answer to each question or statement
 	-	Unfortunately more expensive than an individualised approach
 	-	Not recommended in private practice as it is less effective
 	-	Complicated with more side effects
-8.	What is the standard first-line regimen for children younger than 1 month in South Africa?
-		ABC, 3TC, lopinavir/ritonavir
-		AZT, 3TC, lopinavir/rironavir
-		ABC, 3TC, nevirapine
-		AZT, 3TC, nevirapine
+8.	What is the standard first-line regimen for children younger than one month in South Africa?
+	-	ABC, 3TC, lopinavir/ritonavir
+	+	AZT, 3TC, lopinavir/ritonavir
+	-	ABC, 3TC, nevirapine
+	-	AZT, 3TC, nevirapine
 9.	What is the standard first-line combination used in children between one month and three years in South Africa?
 	+	AZT, 3TC, and nevirapine
 	-	AZT, ddI and lopinavir/ritonavir

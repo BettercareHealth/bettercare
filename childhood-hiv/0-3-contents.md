@@ -81,7 +81,7 @@ layout: toc
     *   [End-of-life care](6.html#end-of-life-care)
     *   [Case studies](6.html#case-study-1)
 
-Tests
+## Tests
 
 *	[1. Introduction to childhood HIV infection](test-1.html)
 *	[2. Clinical and immunological diagnosis of HIV infection](test-2.html)
@@ -90,4 +90,4 @@ Tests
 *	[5. Management of children with antiretroviral treatment](test-5.html)
 *	[6. HIV-associated infections and end-of-life care](test-6.html)
 
-[Answers](test-answers.html)
+*   [Answers](test-answers.html)

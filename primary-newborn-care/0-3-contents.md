@@ -64,7 +64,7 @@ layout: toc
     *   [Congenital abnormalities](5.html#congenital-abnormalities)
     *   [Case studies](5.html#case-study-1)
 
-### Tests
+## Tests
 
 *	[1. Care of infants at birth](test-1.html)
 *	[2. Care of normal infants](test-2.html)

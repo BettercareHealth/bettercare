@@ -4,7 +4,6 @@ book: Newborn Care
 title: Introduction
 layout: chapter
 ---
-
 # Introduction
 
 ## Contents
@@ -23,34 +22,35 @@ layout: chapter
 
 ## About the Bettercare series
 
-Bettercare in an independent, registered Non-Profit and Public Benefit Organisation. At Bettercare, our aim is to create accessible educational resources that improve the quality of healthcare in even the most challenging circumstances.
+Bettercare in an independent, registered Non-Profit and Public Benefit Organisation. Our aim is to create accessible educational resources that improve the quality of healthcare in even the most challenging circumstances.
 
-Bettercare learning material is constantly updated to ensure all healthcare professionals have access to high-quality, affordable and up-to-date training in every facility, regardless of its history, resources or geographical location. Additions and changes are informed by ongoing feedback from healthcare workers, educators and participants; findings on new and better methods of diagnosing and treating patients and the latest developments in child, perinatal and HIV care.
+Bettercare learning courses ensure that all healthcare professionals have access to high-quality, affordable and up-to-date training in every facility, regardless of its history, resources or geographical location. Additions and changes are informed by ongoing feedback from healthcare workers, educators and participants; findings on new and better methods of diagnosing and treating patients and the latest developments in child, perinatal and HIV care.
 
-Bettercare learning programmes grew out of the ongoing work of the Perinatal Education Programme (PEP). PEP began in 1989 when a small team of paediatricians, obstetricians and nurses came together to develop a consensus document on best practice care for mothers and infants. The PEP method of self-directed, decentralised learning has been proven in controlled studies to improve knowledge, attitudes, skills and patient care practices in health professionals.
+Bettercare learning courses grew out of the ongoing work of the Perinatal Education Programme (PEP). PEP began in 1989 when a small team of paediatricians, obstetricians and nurses came together to develop a consensus document on best practice care for mothers and infants. The PEP method of self-directed, decentralised learning has been tested in controlled studies and proven to improve knowledge, attitudes, skills and patient care practices in health professionals.
 
 ## Why decentralised learning? 
 
-Continuing education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive to attend, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
+Continuing education for health professionals traditionally consists of courses and workshops run by formal trainers at large central hospitals. These courses are expensive, often far away from the health professionals’ families and places of work, and the content frequently fails to address the biggest healthcare challenges of poor, rural communities.
 
-PEP developed the self-help, decentralised learning method in response to these problems and address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning programmes follow this basic, proven learning methodology.
-A learning programme is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning programmes make your job simpler and easier. We provide the learning programme, you run the course. You can implement Bettercare learning programmes in your institution right now.
+PEP developed the self-help, decentralised learning method in response to these problems and to address the needs of all professional healthcare workers, especially those in under-resourced regions. Working closely with PEP, all Bettercare learning courses follow this basic, proven learning methodology.
 
-Each chapter of a Bettercare learning programme contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice test consisting of 20 questions. Usersfore studying a chapter to identify gaps in knowledge  and to test their learning at the end of each chapter.
+A learning course is the curriculum and study material you need to run a course, all in one book. Whether you lead a study group or manage formal training, Bettercare learning courses make your job simpler and easier. We provide the learning material, you run the course. You can implement Bettercare learning courses in your institution right now. There is no need to wait for acceptance to a centralised training programme.
 
-Participants study one chapter at a time on their own and then meet colleagues to discuss what they have learned. The formation of study groups encourages co-operative learning where colleagues share their knowledge and understanding. While the role of a facilitator can be useful, a formal teacher is not needed. The question-and-answer method makes learning effective and enjoyable.
+Each chapter of a Bettercare learning course contains the most relevant and up-to-date information health professionals rely on to provide excellent and appropriate care to their patients. Learning material is presented in a question-and-answer format. Each chapter has a multiple-choice quiz consisting of 20 questions. Users do the quiz beforehand then study a chapter to identify gaps in knowledge. Afterwards they can redo the quiz to gauge their learning at the end of each chapter.
 
-There is no need to wait for acceptance to a centralised training programme. Manage your own continuing education and invite your colleagues to join you. Bettercare learning programmes have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care.
+Participants study one chapter at a time on their own and then meet colleagues to discuss what they have learned. The formation of study groups encourages co-operative learning where colleagues share their knowledge and understanding. While the role of a facilitator can be useful, a formal teacher is not needed.
+
+Bettercare learning courses have helped thousands of nurses, midwives, doctors and students increase their knowledge, boost their confidence, and improve patient care.
 
 ## Bettercare Online Learning Station
 
-The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. The material on the Learning Station is always the most up-to-date, and includes the full course content and the multiple-choice tests for each chapter.
+The Bettercare Learning Station is a free, simple website that can be used on tablets, computers or phones. The material on the Learning Station is always the most up-to-date, and includes all the learning courses full content and the multiple-choice quizzes for each chapter.
 
-The Learning Station is freely accessible online and includes all of the current Bettercare courses. All students are able to make use of this to supplement their studies. Students using Bettercare books can benefit from video clips addressing diagnosis and management which are attached to some of the chapters on the website.
+Students using Bettercare books can benefit from video clips addressing diagnosis and management which are attached to some of the chapters on the website.
 
-By registering on the Learning Station site, students can also complete the multiple-choice chapter tests. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each test, users receive their results and advice on where they may have gone wrong. At the bottom of the results page, each user will have the option to submit their results for development points.
+By registering on the Learning Station, students can also complete the multiple-choice chapter quizzes. Registering is free, quick and only requires a cellphone number or email address and a password. On completing each quiz, users receive their results and advice on where they may have gone wrong.
 
-This methodology allows users control over their studies without feeling as though they are being watched. Users can submit their results only when feel they have mastered a section, empowering them with learning skills and encouraging self-motivation. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
+This methodology allows users control over their studies without feeling as though they are being watched. The Bettercare Learning Station privacy policy includes the clause that only information which users have agreed to make available may be used to generate reports.
 
 You can access the learning station here: ls.bettercare.co.za
 
@@ -63,7 +63,7 @@ You can access the learning station here: ls.bettercare.co.za
 
 ### Breast Care
 
-*Breast Care* was written for nurses and doctors who manage the health needs of women from childhood to old age. It covers breast examination, the assessment and management of benign breast conditions, the diagnosis and management of breast cancer and palliative care. The book is used for training by The Breast Course for Nurses, an NGO established to improve the care of women with breast problems.
+*Breast Care* was written for nurses and doctors who manage the health needs of women. It covers breast examination, the assessment and management of benign breast conditions, the diagnosis and management of breast cancer and palliative care. The book is used for training by The Breast Course for Nurses, an NGO established to improve the care of women with breast problems.
 
 ### Child Healthcare
 
@@ -78,12 +78,16 @@ You can access the learning station here: ls.bettercare.co.za
 *Childhood TB* was written to enable healthcare workers to learn about the primary care of children with tuberculosis. The book covers an introduction to TB infection, and the clinical presentation, diagnosis, management and prevention of tuberculosis in children and HIV and TB co-infection. *Childhood TB* was developed in collaboration with the Desmond Tutu Tuberculosis Centre.
 
 ### Congenital Disorders (previously Birth Defects)
-*Congenital Disorders* was written for healthcare workers who look after individuals with congenital disorders, their families, and women who are at increased risk of giving birth to an infant with a congenital disorder. Special attention is given to modes of inheritance, medical genetic counselling, and congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is being used in the Medical Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa. It is also endorsed by Genetic Alliance SA, a support organisation for families affected by congenital disorders.
+*Congenital Disorders* was written for healthcare workers who look after individuals with congenital disorders, their families, and women who are at increased risk of giving birth to an infant with a congenital disorder. Special attention is given to modes of inheritance, medical genetic counselling, and congenital disorders due to chromosomal abnormalities, single gene defects, teratogens and multifactorial inheritance. This book is used in the Medical Genetics Education Programme which trains healthcare workers in genetic counselling in South Africa. It is also endorsed by Genetic Alliance SA, a support organisation for families affected by congenital disorders.
 
 
 ### Ebola Prevention and Control
  
 *Ebola Prevention and Control* was written for all healthcare workers and administrators managing, preventing and controlling viral haemorrhagic diseases. Chapters cover virology and epidemiology, patient management, support systems and documentation and communication and community engagement. There is a strong emphasis on the protection of healthcare workers in the field, particularly in resource-limited settings.
+
+### Fetal Heart Rate Monitor Handbook
+
+One of the most dangerous times of our life is the few hours when our mother is in labour. Monitoring the fetal heart rate is the best method of assessing fetal wellbeing in primary care facilities. However appropriate technology to monitor the fetal heart rate in labour is often not available in many labour wards though it is vital to prevent brain damage. The *Fetal Heart Rate Monitor Handbook* teaches the basics of oxygen transfer from mother to fetus and how to monitor the fetus in labour with a fetal stethoscope or fetal monitor to recognise inadequate oxygenation.
 
 ### Infection Prevention and Control
 
@@ -100,6 +104,10 @@ You can access the learning station here: ls.bettercare.co.za
 ### Maternal Mental Health
 
 *Maternal Mental Health* was written for doctors, nurses and social workers caring for women before and after birth. It includes an introduction to maternal mental health and illness, making referrals for maternal mental illness, helping mothers with mental health problems and special issues in maternal mental health. It includes a resource section for assessing, referring and supporting mothers in the perinatal period. The book is supported by The Perinatal Mental Health Project of the Department of Psychiatry and Mental Health at the University of Cape Town.
+
+### Mother and Baby Care for Community Health Workers
+
+Community Health Workers (CHWs) serve as a direct link between patients, communities and health services. As trusted on-the-ground support to community members, they expand access to essential healthcare information as well as available treatment and prevention programmes. *Mother and Baby Care for Community Health Workers* includes modules that have been successfully used as part of the Skills to Care learning programme for the Lukhanji Municipality and Sarah Baartman District Municipality in the Eastern Cape.
 
 ### Mother and Baby Friendly Care
 
@@ -135,9 +143,9 @@ You can access the learning station here: ls.bettercare.co.za
 
 The learning objectives are clearly stated at the start of each chapter. They help the participant to identify and understand the important lessons to be learned.
 
-### Pre- and post-tests
+### Pre- and post-quizzes
 
-There is a multiple-choice test of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-test before starting each chapter, to benchmark their current knowledge, and a post-test after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their tests.  Self-assessment allows participants to monitor their own progress through the course.
+There is a multiple-choice quiz of 20 questions for each chapter at the end of the book. Participants are encouraged to take a pre-quiz before starting each chapter, to benchmark their current knowledge, and a post-quiz after each chapter, to assess what they have learned. Participants are provided with the correct answers so that they can mark their quizzes.  Self-assessment allows participants to monitor their own progress through the course.
 
 ### Question-and-answer format
 
@@ -151,7 +159,7 @@ Each question is identified with the number of the chapter, followed by the numb
 > Important practical lessons are emphasised like this.
 
 Note
-:   Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice questions.
+:   Additional, non-essential information is provided for interest and given in notes like this. These facts are not used in the case studies or included in the multiple-choice quizzes.
 
 ### Case studies
 
@@ -159,20 +167,20 @@ Each chapter closes with a few case studies which encourage the participant to c
 
 ### Practical skills
 
-Some Bettercare books include workshops on practical skills that need to be practised, preferably in groups. These skills workshops list essential equipment and present step-by-step instructions on how to perform each task, often with pictures. If participants are not familiar with a practical skill, they should ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues. Some of the skills are demonstrated in video clips on the website.
+Some Bettercare books include workshops on practical skills that need to be practised, preferably in groups. These skills workshops list essential equipment and present step-by-step instructions on how to perform each task, often with pictures. If participants are not familiar with a practical skill, they should ask an appropriate medical or nursing colleague to demonstrate the clinical skill to them. In this way, senior personnel are encouraged to share their skills with their colleagues. Some of the skills are demonstrated in video clips on the Learning Station.
 
-### Bettercare tests and examinations
+### Bettercare quizzes and examinations
 
-Self-evaluation is the most important part of learning. For every chapter, participants take a short self-test before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
+Self-evaluation is the most important part of learning. For every chapter, participants take a short self-quiz before and after studying each chapter. This way participants can see their knowledge improve and can address specific weaknesses.
 
-Tests are included in all our printed books and ebooks. Participants can take them for free on our Learning Station for instant results.
+Quizzes are included in all our printed books and ebooks. Participants can take them for free on our Learning Station.
 
-Bettercare also offers a final examination for each book. Participants need to achieve at least 80% in the final examination in order to successfully complete the learning programme. Successful candidates will be sent a digital certificate stating that they have successfully completed that learning programme.
+Bettercare also offers a final examination for each course. Participants need to achieve at least 80% in the final examination to receive a digital certificate stating that they have successfully completed the learning course.
 
 
 ## Contributors
 
-The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen by the Editor-in-Chief, emeritus Professor David Woods, a previous head of neonatal medicine at the University of Cape Town who consulted to UNICEF and the WHO.
+The developers of our learning materials are a multi-disciplinary team of nurses, midwives, obstetricians, neonatologists, general paediatricians and other medical specialists. The development and review of all course material is overseen our Editor-in-Chief, emeritus Professor David Woods, a previous head of neonatal medicine at the University of Cape Town who consulted to UNICEF and the WHO.
 
 ### Perinatal Education Trust
 
@@ -188,7 +196,7 @@ The Breast Course for Nurses (BCN) combines distance education with a residentia
 
 The Academic Unit for Infection Prevention and Control (UIPC) is based at Tygerberg Academic Hospital and the Stellenbosch University Faculty of Medicine and Health Sciences (FHMS). It resides under the Division of Community Health and is also a member of the Centre for Infectious Diseases.
 
-The UIPC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in Infection Prevention and Control (IPC) as well as decontamination and sterilization for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as operating theatres, renal dialysis units, intensive care units and infectious disease management and control.
+The UIPC focuses on integrated research, training and service provision. The unit offers a range of tailor-made courses in Infection Prevention and Control (IPC) as well as decontamination and sterilisation for Sterile Service Departments (SSDs). In addition, courses are offered for specialities such as operating theatres, renal dialysis units, intensive care units and infectious disease management and control.
 
 ### Eduhealthcare
 
@@ -212,7 +220,7 @@ The Infection Control Africa Network (ICAN) promotes and facilitates the establi
 
 ## Updating the course material
 
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor David Woods.
+Bettercare learning programmes are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor David Woods.
 
 ## Contact information
 

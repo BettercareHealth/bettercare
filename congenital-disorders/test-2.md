@@ -1,23 +1,25 @@
 ---
 book: Congenital Disorders
-title: Test 2. Care, prevention and counselling
+title: Quiz 2. Care, prevention and counselling
 layout: test
 ---
 
-# Test 2: Care, prevention and counselling
+Please choose the one most correct answer to each question or statement.
 
-1.	Which congential disorder is common in South Africa?
+# Quiz 2: Care, prevention and counselling
+
+1.	Which congenital disorder is common in South Africa?
 	+	Oculocutaneous albinism.
 	-	Cystic fibrosis.
 	-	Marfan syndrome.
 	-	Sickle cell anaemia.
-2.	Where can people with congential disorders be offered the best possible care?
+2.	Where can people with congenital disorders be offered the best possible care?
 	-	Only in industrialised countries.
 	-	Only in large towns and cities.
 	-	Only in hospitals with a genetic centre.
 	+	The best possible care in the situation should always be offered.
 3.	What is a three generation family tree?
-	-	A method of providing care to three generations of a family with birth defects.
+	-	A method of providing care to three generations of a family with congenital disorder.
 	+	A pictured representation of normal, carrier and abnormal people in three generations of a family.
 	-	A way of predicting whether grandchildren will be male or female.
 	-	The source of a new drug to treat haemophilia.
@@ -26,22 +28,22 @@ layout: test
 	-	Only if the DNA screening test is done.
 	+	In about 40% of cases.
 	-	Usually not (only in about 10% of cases).
-5.	In the treatment of congential disorders:
+5.	In the treatment of congenital disorders:
 	-	Neurodevelopmental therapy does not help.
 	-	Only surgical treatment is useful.
 	+	Medical treatment is often helpful.
 	-	Genetic counselling is usually all that is needed.
-6.	Basic reproductive health approaches to prevent congential disorders include:
+6.	Basic reproductive health approaches to prevent congenital disorders include:
 	-	Giving all nurses a course in genetic counselling.
-	-	Teaching doctors to recognise common birth defects.
+	-	Teaching doctors to recognise common congenital disorders.
 	+	Family planning.
 	-	Screening all pregnant women for HIV/AIDS.
-7.	Periconceptional care to prevent congential disorders includes:
+7.	Periconceptional care to prevent congenital disorders includes:
 	+	Improving the diet of women.
 	-	Monitoring the fetus in labour.
 	-	Antenatal ultrasound screening for all pregnant women.
 	-	Giving vitamin K to all newborn infants.
-8.	What antenatal infections can cause congential disorders?
+8.	What antenatal infections can cause congenital disorders?
 	-	The common cold.
 	+	Rubella (German measles).
 	-	Hepatitis A or B.
@@ -56,17 +58,17 @@ layout: test
 	-	Only during the first trimester of pregnancy.
 	-	Only after 20 weeks of gestation.
 	-	Only once the infant is born (postnatal).
-11.	What tests help to screen for congential disorders?
+11.	What tests help to screen for congenital disorders?
 	-	Identifying the mother’s ABO blood group.
 	+	An ultrasound examination at 18 weeks of gestation.
 	-	Measuring the mother’s thyroid function at booking for antenatal care.
 	-	Measuring all infants’ serum bilirubin concentration at birth.
-12.	Why is medical genetic screening for congential disorders not available to everyone in a developing country (e.g. South Africa)?
-	-	Because birth defects are rare.
-	-	Because most birth defects cannot be prevented.
+12.	Why is medical genetic screening for congenital disorders not available to everyone in a developing country (e.g. South Africa)?
+	-	Because congenital disorders are rare.
+	-	Because most congenital disorders cannot be prevented.
 	+	Because it is too expensive and requires functioning health systems.
 	-	Because it is unethical.
-13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a congential disorder?
+13.	What choice should a woman have if genetic screening indicates that she is at an increased risk for a congenital disorder?
 	-	She should have no choice.
 	-	She should accept the advice of the doctor.
 	-	She must do what the genetic counsellor decides.

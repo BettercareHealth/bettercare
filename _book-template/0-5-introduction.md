@@ -177,7 +177,7 @@ The Infection Control Africa Network (ICAN) promotes and facilitates the establi
 
 ## Updating the course material
 
-Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor Dave Woods.
+Bettercare learning materials are regularly updated to keep up with developments and changes in healthcare protocols. Course participants can make important contributions to the continual improvement of Bettercare books by reporting factual or language errors, by identifying sections that are difficult to understand, and by suggesting additions or improvements to the contents. Details of alternative or better forms of management would be particularly appreciated. Please send any comments or suggestions to the Editor-in-Chief, Professor David Woods.
 
 ## Contact information
 

@@ -1,10 +1,12 @@
 ---
 book: Intrapartum Care
-title: Test 5. The third stage of labour
+title: Quiz 5. The third stage of labour
 layout: test
 ---
 
-# Test 5: The third stage of labour
+# Quiz 5. The third stage of labour
+
+Please choose the one most correct answer to each question or statement.
 
 1.	The third stage of labour starts when:
 	-	The cervix is fully dilated.
@@ -53,12 +55,12 @@ layout: test
 	+	Is large and oedematous
 10.	How should a prolonged third stage of labour be managed if the active method had been used?
 	-	Wait for a further 30 minutes for placental separation.
-	-	A doctor should perform a manual removal of the placenta in theatre as an emergency procedure.
+	-	Perform a manual removal of the placenta in theatre as an emergency procedure.
 	-	As the active method of managing the third stage of labour has failed, the passive method should be used.
-	+	Start an intravenous infusion containing 20 units of oxytocin, make sure that the uterus is well contracted and apply controlled cord traction.
+	+	An infusion with 1000 ml Basol or normal saline must be started and a side infusion containing 20 units of oxytocin, make sure that the uterus is well contracted and apply controlled cord traction.
 11.	What is the management of a retained placenta following the active management of the third stage of labour?
 	-	Pethidine and diazepam (Valium) must be given intravenously and a manual removal of the placenta done in the labour ward.
-	+	An intravenous infusion with 20 units of oxytocin should be started to ensure a well contracted uterus and then the patient should be referred to hospital for a manual removal under general anaesthesia.
+	+	An infusion with 1000 ml Basol or normal saline must be started and a side infusion containing 20 units of oxytocin to ensure a well contracted uterus and amanual removal performed under general anaesthesia.
 	-	Allow a further 30 minutes of observation before referring the patient.
 	-	Apply fundal pressure together with traction on the cord to deliver the placenta.
 12.	When should the diagnosis of postpartum haemorrhage be made?
@@ -69,9 +71,9 @@ layout: test
 13.	What should be done if a severe haemorrhage occurs before the delivery of the placenta and the third stage of labour is being managed by the active method?
 	-	Wait until the signs of placental separation appear and then ask the patient to bear down.
 	-	Pull on the umbilical cord while pushing upwards on the uterus to get the placenta to separate as soon as possible.
-	+	A rapid intravenous infusion of 20 units oxytocin in 1000 ml Basol or normal saline must be started to ensure that the uterus is well contracted. Then a further attempt should be made to deliver the placenta.
+	+	A rapid intravenous infusion with 1000 ml Basol or normal saline must be started and a side infusion containing 20 units of oxytocin must be started to ensure that the uterus is well contracted. Then a further attempt should be made to deliver the placenta.
 	-	Give 1 mg konakion by intramuscular injection and call a doctor to take over the management of the patient.
-14.	What should be the first step in the management of a postpartum haemorrhage when the placenta has already been delivered?
+14.	1.	What should be the next step in the management of a postpartum haemorrhage when the placenta has already been delivered and you have called for help?
 	+	The uterus must immediately be rubbed up.
 	-	A rapid intravenous infusion of 20 units of oxytocin should be started.
 	-	The patient’s bladder must be emptied.
