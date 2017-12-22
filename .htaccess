@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule (.*) http://bettercare.co.za/learn [R=301,L]
